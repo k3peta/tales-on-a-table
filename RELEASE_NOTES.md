@@ -1,3 +1,18 @@
+# Independent furnishings — 6 CC0 distribution sets
+
+Leather sofa, short-pile rug, three structurally distinct chimney oil lamps and a document side chest. Independent QA found no required fixes. Rug LOD1 is included in its rug ZIP and is not a seventh design. Static models; glass needs KHR_materials_transmission; flames do not include scene lights.
+
+革ソファ、短毛ラグ、形状の異なるホヤ油灯3点、書類チェストの6点。独立検品済み。ラグLODは別種類に数えません。
+
+皮革沙发、短毛地毯、三种不同结构油灯及文件边柜，共6个设计。经过独立检验。地毯LOD不另计。
+
+334 existing + 6 = 340 distribution records.
+
+[日本語](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/independent-furnishings.md) · [English](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/independent-furnishings.en.md) · [简体中文](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/independent-furnishings.zh-CN.md)
+
+Download the named IF ZIPs. Automatic source archives contain only the catalogue.
+
+---
 # Captain cabin — 26 CC0 distribution sets
 
 検品済みの従来14点と追加制作12点を初公開します。CP006は箱の接合修正版です。再利用素材を重複登録せず、同じ旅行バッグ2個は1種類として扱います。ZIPは単体BLEND・GLB・実レンダー・三言語README・CC0条件を含み、完成シーンは含みません。

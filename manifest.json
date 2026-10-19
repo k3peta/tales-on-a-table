@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-captain-cabin",
-  "item_count": 334,
+  "release_tag": "v2026.10.19-independent-furnishings",
+  "item_count": 340,
   "count_by_kind": {
-    "model": 305,
+    "model": 311,
     "derived_component": 2,
     "group": 25,
     "structural_variant": 2
@@ -15,9 +15,10 @@
     "lamp_story_additions": 5,
     "antique_shop": 93,
     "wizard_study": 40,
-    "captain_cabin": 26
+    "captain_cabin": 26,
+    "independent_furnishings": 6
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -9061,6 +9062,192 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_001",
+      "source_model_id": "IF001_leather_sofa",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革張りの二人掛けソファ",
+        "en": "Leather two-seat sofa",
+        "zh-CN": "皮革双人沙发"
+      },
+      "descriptions": {
+        "ja": "厚い独立座面2枚、ボタン留め背クッション、丸い革肘、縫製・木脚。既存OL036木枠ベルベット長椅子と別構造",
+        "en": "Two separate seat cushions, tufted backs, rounded arms, piping and wooden feet. A close-up model with 113,500 triangles and 193 meshes.",
+        "zh-CN": "独立坐垫、软包靠背、圆扶手、滚边及木脚。近景模型，113,500三角面、193个网格。"
+      },
+      "dimensions_m": [
+        2.190000057220459,
+        0.9549999833106995,
+        1.090000033378601
+      ],
+      "zip_file": "IF_001_CC0.zip",
+      "zip_bytes": 5363372,
+      "zip_sha256": "a099714c4cfd39bc81e29d2fcf5f69113ac2df801cbedd51b86df2f6592eae6c",
+      "preview_file": "previews/IF_001_preview.png",
+      "preview_sha256": "e00ae263cb4f71aa220da71ee6ad2c994fbced76f849c5fccbcc8d7cc43a3c93",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_001_CC0.zip",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_002",
+      "source_model_id": "IF002_fur_rug",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "毛足のある楕円ファーラグ",
+        "en": "Short-pile fur rug",
+        "zh-CN": "短毛绒地毯"
+      },
+      "descriptions": {
+        "ja": "楕円の裏地と方向のある短い毛束メッシュ。既存薄織物・メダリオン絨毯と別形状。毛皮動物の顔や脚なし",
+        "en": "Opaque geometric pile over a separate backing. Includes a distant-view LOD1 (55,646 triangles); use the full model for close-ups. LOD is not an additional design.",
+        "zh-CN": "独立底衬与不透明毛束网格。含远景LOD1（55,646三角面）；近景请使用标准版。LOD不另计设计。"
+      },
+      "dimensions_m": [
+        1.74665367603302,
+        1.231710135936737,
+        0.05099838599562645
+      ],
+      "zip_file": "IF_002_CC0.zip",
+      "zip_bytes": 15133431,
+      "zip_sha256": "483196bfa56eb96c65d3f3fee3d10885eb19fd8708df4a4f24bed95ea8a18a43",
+      "preview_file": "previews/IF_002_preview.png",
+      "preview_sha256": "e79678eee10620bad9bef8afe601190d19f1fff83383052b41c66f9da0101009",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_002_CC0.zip",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_003",
+      "source_model_id": "IF003_oil_lamp_small",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "小型・持ち手付きホヤ油灯",
+        "en": "Small brass chimney oil lamp",
+        "zh-CN": "小型黄铜玻璃罩油灯"
+      },
+      "descriptions": {
+        "ja": "透明な厚み付き開口ホヤ、油壺、給油口、芯調節つまみと炎。大中小は台座・油壺・ホヤ輪郭が異なる",
+        "en": "Low brass oil font and finger loop, clear open chimney, filler, wick wheel and static flame.",
+        "zh-CN": "低矮黄铜油壶、指环、开口透明玻璃罩、加油口、灯芯调节轮及静态火焰。"
+      },
+      "dimensions_m": [
+        0.17599999904632568,
+        0.12999999523162842,
+        0.24500000476837158
+      ],
+      "zip_file": "IF_003_CC0.zip",
+      "zip_bytes": 1010171,
+      "zip_sha256": "784d47bd4408129f7958d34054d69a437f5e0d3f0971a305346d8f095000a780",
+      "preview_file": "previews/IF_003_preview.png",
+      "preview_sha256": "1eeaf7034ac63c73aad0c016b6746820af0d1371022af2dd0e4723c4117854bf",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_003_CC0.zip",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_004",
+      "source_model_id": "IF004_oil_lamp_medium",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "中型・陶製油壺のホヤ油灯",
+        "en": "Medium ceramic chimney oil lamp",
+        "zh-CN": "中型陶瓷玻璃罩油灯"
+      },
+      "descriptions": {
+        "ja": "透明な厚み付き開口ホヤ、油壺、給油口、芯調節つまみと炎。大中小は台座・油壺・ホヤ輪郭が異なる",
+        "en": "Rounded teal ceramic oil font with gilt bands, a distinct chimney profile and static flame.",
+        "zh-CN": "蓝绿色圆陶瓷油壶、金边、独立比例的玻璃罩及静态火焰。"
+      },
+      "dimensions_m": [
+        0.1679999977350235,
+        0.1679999977350235,
+        0.38999998569488525
+      ],
+      "zip_file": "IF_004_CC0.zip",
+      "zip_bytes": 978934,
+      "zip_sha256": "29fbf0d57af08d1001a346e3cd6d6d7d56b491a5762311f42d30aaa6c53cb61f",
+      "preview_file": "previews/IF_004_preview.png",
+      "preview_sha256": "e9f8cb94708df522e6389a7c0b12b6682304491f05a3b80c55270542d9717910",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_004_CC0.zip",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_005",
+      "source_model_id": "IF005_oil_lamp_large",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "大型・脚付き真鍮ホヤ油灯",
+        "en": "Large pedestal chimney oil lamp",
+        "zh-CN": "大型立柱玻璃罩油灯"
+      },
+      "descriptions": {
+        "ja": "透明な厚み付き開口ホヤ、油壺、給油口、芯調節つまみと炎。大中小は台座・油壺・ホヤ輪郭が異なる",
+        "en": "A tall stem and wide base support the banded brass reservoir and clear chimney. Static flame.",
+        "zh-CN": "高立柱与宽底座支撑带箍黄铜油壶及透明玻璃罩。火焰为静态。"
+      },
+      "dimensions_m": [
+        0.2160000056028366,
+        0.2160000056028366,
+        0.574999988079071
+      ],
+      "zip_file": "IF_005_CC0.zip",
+      "zip_bytes": 990243,
+      "zip_sha256": "b20ef151344b65b07ae23e8b2bc1664e166444ab162e460e05f47f3ce3d9acbd",
+      "preview_file": "previews/IF_005_preview.png",
+      "preview_sha256": "f0e093b9018579fb7a18e93874e9290290a6637726511d2b099cb0626d5186a0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_005_CC0.zip",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "IF_006",
+      "source_model_id": "IF006_document_side_chest",
+      "category": "independent-furnishings",
+      "theme": "IF",
+      "record_kind": "model",
+      "revision": "furnishings-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "6段の書類用サイドチェスト",
+        "en": "Six-drawer document side chest",
+        "zh-CN": "六抽屉文件边柜"
+      },
+      "descriptions": {
+        "ja": "机横サイズ、A4相当の浅いトレー、真鍮ラベル差し、前へ出した上段と中の書類。大型地図棚・小物多抽斗とは幅と収納構造が異なる",
+        "en": "Six shallow document trays with brass label holders; the upper tray is open with papers inside. Dimensions include the extended tray.",
+        "zh-CN": "六层浅文件抽屉与黄铜标签框；上层拉开并装有文件。尺寸包含伸出的抽屉。"
+      },
+      "dimensions_m": [
+        0.6050000190734863,
+        0.7113832235336304,
+        0.7475000023841858
+      ],
+      "zip_file": "IF_006_CC0.zip",
+      "zip_bytes": 2489274,
+      "zip_sha256": "0fb08678cfd615e479f681c68f47112258b8ac3bfd0e0cc2c1d3e86c9407ed02",
+      "preview_file": "previews/IF_006_preview.png",
+      "preview_sha256": "c7cc3e6bf4d4b37c6ce362cf6215dccdb1d1de21acea28dcbace770886dae503",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_006_CC0.zip",
       "preview_metadata_sanitized": true
     }
   ]
