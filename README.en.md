@@ -1,6 +1,12 @@
-# Tales on a Table — 436 3D asset records
+# Tales on a Table — 519 3D asset records
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
+
+## Six-stall bridge market — 83 distribution records
+
+[Six-stall bridge market — 83 distribution records](catalog/bridge-market.en.md)
+
+Includes 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Revisions of the pot and scissors are not new designs. Catalogue: 436 + 83 = 519 records. Colour variants, placements and the completed scene are not additional records.
 
 ## Fantasy farmhouse barn — 8 individual assets
 
@@ -39,9 +45,9 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 ## Counting and scope
 
-**436 records = 405 model records + 26 groups + 2 separated components + 3 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
+**519 records = 488 model records + 26 groups + 2 separated components + 3 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
-Tavern 56; harbor 56; lamp shop 58; additional story props 5; antique shop 93; wizard study 40; captain cabin 26; independent furnishings 6; treasury 17; armory and warehouse 71; farmhouse barn 8: 436 records in total. Antique shop comprises 73 originals and 20 groups; AT_091 is intentionally absent.
+Tavern 56; harbor 56; lamp shop 58; additional story props 5; antique shop 93; wizard study 40; captain cabin 26; independent furnishings 6; treasury 17; armory and warehouse 71; farmhouse barn 8; bridge market 83: 519 records in total. Antique shop comprises 73 originals and 20 groups; AT_091 is intentionally absent.
 
 FT_040, FH_002 and FH_038 retain their quality-patched versions. OL_STORY_001–005 retain their approved CC0 versions. Stable IDs and each card's unit description distinguish models, groups and separated components.
 

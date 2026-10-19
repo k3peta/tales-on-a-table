@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-farmhouse-barn",
-  "item_count": 436,
+  "release_tag": "v2026.10.19-bridge-market",
+  "item_count": 519,
   "count_by_kind": {
-    "model": 405,
+    "model": 488,
     "derived_component": 2,
     "group": 26,
     "structural_variant": 3
@@ -19,9 +19,10 @@
     "independent_furnishings": 6,
     "treasury": 17,
     "armory": 71,
-    "farmhouse_barn": 8
+    "farmhouse_barn": 8,
+    "bridge_market": 83
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -12162,6 +12163,4321 @@
       "preview_file": "previews/BN_008_preview.png",
       "preview_sha256": "2a932601395e8a5ec42d8c5e16528782e73b3517b8a1946034c2c75dc82cc1d7",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_008_CC0.zip"
+    },
+    {
+      "asset_id": "BM_001",
+      "source_model_id": "wizard_book_red",
+      "source_model_ids": [
+        "wizard_book_red",
+        "wizard_book_blue",
+        "wizard_grimoire"
+      ],
+      "geometry_family": "book",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "赤革の古書",
+        "en": "Red leather old book",
+        "zh-CN": "红皮旧书"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「赤革の古書」。従来の市場で制作した素材を初配布します。収録モデルは3版。派生は同じ配布単位にまとめています。",
+        "en": "Red leather old book, for the six-stall bridge market. First distribution of an earlier market design. Includes 3 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「红皮旧书」。首次分发此前制作的市集素材。包含3个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3541799783706665,
+        0.453000009059906,
+        0.10159383714199066
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_book_red",
+          "names": {
+            "ja": "赤革の古書",
+            "en": "Red leather old book",
+            "zh-CN": "红皮旧书"
+          },
+          "dimensions_m": [
+            0.3541799783706665,
+            0.453000009059906,
+            0.10159383714199066
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "wizard_book_blue",
+          "names": {
+            "ja": "退色した青い古書",
+            "en": "Faded blue old book",
+            "zh-CN": "褪色蓝皮旧书"
+          },
+          "dimensions_m": [
+            0.30997997522354126,
+            0.3930000066757202,
+            0.08159526437520981
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "wizard_grimoire",
+          "names": {
+            "ja": "留金つき魔導書",
+            "en": "Clasped grimoire",
+            "zh-CN": "带扣魔法书"
+          },
+          "dimensions_m": [
+            0.42894935607910156,
+            0.49300000071525574,
+            0.1495000123977661
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_001_CC0.zip",
+      "zip_bytes": 4139394,
+      "zip_sha256": "824522e96d1164ae36e44cfa8a4d6c41a011d14370f0743c4de5c66d62f2b13e",
+      "preview_file": "previews/BM_001_preview.png",
+      "preview_sha256": "32fdcb1694854cf903868e3680e9a34fe5ca6b0ea73a7e8577e174722f6afac1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_001_CC0.zip"
+    },
+    {
+      "asset_id": "BM_002",
+      "source_model_id": "wizard_scroll",
+      "source_model_ids": [
+        "wizard_scroll"
+      ],
+      "geometry_family": "wizard_scroll",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "半開きの巻物",
+        "en": "Half-open scroll",
+        "zh-CN": "半展开卷轴"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「半開きの巻物」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Half-open scroll, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「半展开卷轴」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.33469682931900024,
+        0.41200003027915955,
+        0.08569768816232681
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_scroll",
+          "names": {
+            "ja": "半開きの巻物",
+            "en": "Half-open scroll",
+            "zh-CN": "半展开卷轴"
+          },
+          "dimensions_m": [
+            0.33469682931900024,
+            0.41200003027915955,
+            0.08569768816232681
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_002_CC0.zip",
+      "zip_bytes": 2365263,
+      "zip_sha256": "73c8707549e61115e430215a1d2f0edc1f262b1cdc1958ae81755af540e6612c",
+      "preview_file": "previews/BM_002_preview.png",
+      "preview_sha256": "12a108cbbeec643e13f22d37fc6bee06d2a12261af2f5d7e23626625079c130c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_002_CC0.zip"
+    },
+    {
+      "asset_id": "BM_003",
+      "source_model_id": "wizard_armillary",
+      "source_model_ids": [
+        "wizard_armillary"
+      ],
+      "geometry_family": "wizard_armillary",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "壊れた天球儀",
+        "en": "Broken armillary sphere",
+        "zh-CN": "破损浑天仪"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「壊れた天球儀」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Broken armillary sphere, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「破损浑天仪」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3851621150970459,
+        0.3345124125480652,
+        0.5419999957084656
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_armillary",
+          "names": {
+            "ja": "壊れた天球儀",
+            "en": "Broken armillary sphere",
+            "zh-CN": "破损浑天仪"
+          },
+          "dimensions_m": [
+            0.3851621150970459,
+            0.3345124125480652,
+            0.5419999957084656
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_003_CC0.zip",
+      "zip_bytes": 1541868,
+      "zip_sha256": "2a27f3f7d6383fc109aebed7df857826c9e412ed49e22389b00ba600a276017a",
+      "preview_file": "previews/BM_003_preview.png",
+      "preview_sha256": "3445f33640c7215a7e1853d086f37c187ec64fe11c21d1e86c1f60302aab521d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_003_CC0.zip"
+    },
+    {
+      "asset_id": "BM_004",
+      "source_model_id": "wizard_ink",
+      "source_model_ids": [
+        "wizard_ink",
+        "wizard_elixir",
+        "dealer_bottle"
+      ],
+      "geometry_family": "bottle",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "古いインク瓶",
+        "en": "Old ink bottle",
+        "zh-CN": "旧墨水瓶"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「古いインク瓶」。従来の市場で制作した素材を初配布します。収録モデルは3版。派生は同じ配布単位にまとめています。",
+        "en": "Old ink bottle, for the six-stall bridge market. First distribution of an earlier market design. Includes 3 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「旧墨水瓶」。首次分发此前制作的市集素材。包含3个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.18189717829227448,
+        0.1829494684934616,
+        0.2329999953508377
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_ink",
+          "names": {
+            "ja": "古いインク瓶",
+            "en": "Old ink bottle",
+            "zh-CN": "旧墨水瓶"
+          },
+          "dimensions_m": [
+            0.18189717829227448,
+            0.1829494684934616,
+            0.2329999953508377
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "wizard_elixir",
+          "names": {
+            "ja": "曇り硝子の薬瓶",
+            "en": "Clouded glass medicine bottle",
+            "zh-CN": "浑浊玻璃药瓶"
+          },
+          "dimensions_m": [
+            0.171804279088974,
+            0.1729915887117386,
+            0.3230000138282776
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "dealer_bottle",
+          "names": {
+            "ja": "封じた小瓶",
+            "en": "Sealed vial",
+            "zh-CN": "密封小瓶"
+          },
+          "dimensions_m": [
+            0.21151235699653625,
+            0.21374228596687317,
+            0.37299999594688416
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_004_CC0.zip",
+      "zip_bytes": 3056977,
+      "zip_sha256": "b4f70e5f7a47022f2e8403b838eeaec059055e0b9b7a16d2d7f5dbf5edfd3f3d",
+      "preview_file": "previews/BM_004_preview.png",
+      "preview_sha256": "b32c77c833363ac51fbeccecab13fc08d5f2cccad4cc3eebb31353b74922ee09",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_004_CC0.zip"
+    },
+    {
+      "asset_id": "BM_005",
+      "source_model_id": "wizard_bell",
+      "source_model_ids": [
+        "wizard_bell"
+      ],
+      "geometry_family": "wizard_bell",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "呼び鈴",
+        "en": "Hand bell",
+        "zh-CN": "手铃"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「呼び鈴」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Hand bell, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「手铃」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.24014976620674133,
+        0.24000000953674316,
+        0.28200000524520874
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_bell",
+          "names": {
+            "ja": "呼び鈴",
+            "en": "Hand bell",
+            "zh-CN": "手铃"
+          },
+          "dimensions_m": [
+            0.24014976620674133,
+            0.24000000953674316,
+            0.28200000524520874
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_005_CC0.zip",
+      "zip_bytes": 1173978,
+      "zip_sha256": "2d73931412ef86598d315dc582de2e2e892695ef787e7f0c0d4a455dcb9cc336",
+      "preview_file": "previews/BM_005_preview.png",
+      "preview_sha256": "005c8881bbb770b54eec32b9d67a50f3f26aa894f90bbcd914f90c8b3813bdf2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_005_CC0.zip"
+    },
+    {
+      "asset_id": "BM_006",
+      "source_model_id": "wizard_cup",
+      "source_model_ids": [
+        "wizard_cup",
+        "dealer_cup"
+      ],
+      "geometry_family": "v3_open_cup",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "旅の湯呑み",
+        "en": "Travel teacup",
+        "zh-CN": "旅行茶杯"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「旅の湯呑み」。従来の市場で制作した素材を初配布します。収録モデルは2版。派生は同じ配布単位にまとめています。",
+        "en": "Travel teacup, for the six-stall bridge market. First distribution of an earlier market design. Includes 2 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「旅行茶杯」。首次分发此前制作的市集素材。包含2个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.28700315952301025,
+        0.21390707790851593,
+        0.14899495244026184
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_cup",
+          "names": {
+            "ja": "旅の湯呑み",
+            "en": "Travel teacup",
+            "zh-CN": "旅行茶杯"
+          },
+          "dimensions_m": [
+            0.28700315952301025,
+            0.21390707790851593,
+            0.14899495244026184
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "dealer_cup",
+          "names": {
+            "ja": "一つだけの銀杯",
+            "en": "Single silver goblet",
+            "zh-CN": "单只银杯"
+          },
+          "dimensions_m": [
+            0.28700315952301025,
+            0.21390707790851593,
+            0.14899495244026184
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_006_CC0.zip",
+      "zip_bytes": 1139981,
+      "zip_sha256": "d1c89e2d678e15fb061f314e4df94ad53b4f59e0c1019c4ce0870c525e978554",
+      "preview_file": "previews/BM_006_preview.png",
+      "preview_sha256": "27ffff49f8a544af91237150dcc15137f39354e8c320c74a5e84479d16293b73",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_006_CC0.zip"
+    },
+    {
+      "asset_id": "BM_007",
+      "source_model_id": "wizard_pouch",
+      "source_model_ids": [
+        "wizard_pouch",
+        "dealer_purse"
+      ],
+      "geometry_family": "pouch",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "栞を入れた袋",
+        "en": "Bookmark pouch",
+        "zh-CN": "书签袋"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「栞を入れた袋」。従来の市場で制作した素材を初配布します。収録モデルは2版。派生は同じ配布単位にまとめています。",
+        "en": "Bookmark pouch, for the six-stall bridge market. First distribution of an earlier market design. Includes 2 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「书签袋」。首次分发此前制作的市集素材。包含2个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.18094606697559357,
+        0.1815355122089386,
+        0.19232450425624847
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_pouch",
+          "names": {
+            "ja": "栞を入れた袋",
+            "en": "Bookmark pouch",
+            "zh-CN": "书签袋"
+          },
+          "dimensions_m": [
+            0.18094606697559357,
+            0.1815355122089386,
+            0.19232450425624847
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "dealer_purse",
+          "names": {
+            "ja": "拾い物の小袋",
+            "en": "Found coin purse",
+            "zh-CN": "拾来的小钱袋"
+          },
+          "dimensions_m": [
+            0.25442415475845337,
+            0.2562854290008545,
+            0.25244882702827454
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_007_CC0.zip",
+      "zip_bytes": 2451555,
+      "zip_sha256": "bbc6077e14b6b8014aab3f63787e4adf6ec0a611a37a26fb2164dc23ea1765b7",
+      "preview_file": "previews/BM_007_preview.png",
+      "preview_sha256": "bc6cff6d1b83ca56d8ebd4f99ef1baaffa005ead4f26e565ec8fda028bfd3b55",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_007_CC0.zip"
+    },
+    {
+      "asset_id": "BM_008",
+      "source_model_id": "wizard_candle",
+      "source_model_ids": [
+        "wizard_candle"
+      ],
+      "geometry_family": "wizard_candle",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "短い蝋燭",
+        "en": "Short candle",
+        "zh-CN": "短蜡烛"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「短い蝋燭」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Short candle, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「短蜡烛」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.12330655008554459,
+        0.12205233424901962,
+        0.16406331956386566
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_candle",
+          "names": {
+            "ja": "短い蝋燭",
+            "en": "Short candle",
+            "zh-CN": "短蜡烛"
+          },
+          "dimensions_m": [
+            0.12330655008554459,
+            0.12205233424901962,
+            0.16406331956386566
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_008_CC0.zip",
+      "zip_bytes": 934488,
+      "zip_sha256": "f7f6ac6ee660c5e259449a83601267294c243d427d5ea68f622461e95d918841",
+      "preview_file": "previews/BM_008_preview.png",
+      "preview_sha256": "13f050a11847dde48552ac93b53e5877af442245e9de96cc75000f75fc6493e9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_008_CC0.zip"
+    },
+    {
+      "asset_id": "BM_009",
+      "source_model_id": "wizard_loose_pages",
+      "source_model_ids": [
+        "wizard_loose_pages"
+      ],
+      "geometry_family": "wizard_loose_pages",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "書き込みのある紙束",
+        "en": "Annotated loose pages",
+        "zh-CN": "带批注散页"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「書き込みのある紙束」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Annotated loose pages, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「带批注散页」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2662683129310608,
+        0.33549660444259644,
+        0.030867407098412514
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_loose_pages",
+          "names": {
+            "ja": "書き込みのある紙束",
+            "en": "Annotated loose pages",
+            "zh-CN": "带批注散页"
+          },
+          "dimensions_m": [
+            0.2662683129310608,
+            0.33549660444259644,
+            0.030867407098412514
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_009_CC0.zip",
+      "zip_bytes": 1752386,
+      "zip_sha256": "1da057626b8d8a07eb33fb9da5e2106bba505a83b9fe5bcdafdaf43f53b7087f",
+      "preview_file": "previews/BM_009_preview.png",
+      "preview_sha256": "bac7fc837d041c9d1ab49bda0c19ea1bcc1b95bf4dba57b74985b538ff22e770",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_009_CC0.zip"
+    },
+    {
+      "asset_id": "BM_010",
+      "source_model_id": "smith_patched_pot",
+      "source_model_ids": [
+        "smith_patched_pot"
+      ],
+      "geometry_family": "smith_patched_pot",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "銅で継いだ鍋",
+        "en": "Copper-patched pot",
+        "zh-CN": "铜片修补锅"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「銅で継いだ鍋」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。今回、形状と接合を改修しました。",
+        "en": "Copper-patched pot, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record. Geometry and connections revised in this release.",
+        "zh-CN": "桥上六摊市集的「铜片修补锅」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。本次改进了形状与连接。"
+      },
+      "dimensions_m": [
+        0.6909310817718506,
+        0.38045603036880493,
+        0.2076999992132187
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_patched_pot",
+          "names": {
+            "ja": "銅で継いだ鍋",
+            "en": "Copper-patched pot",
+            "zh-CN": "铜片修补锅"
+          },
+          "dimensions_m": [
+            0.6909310817718506,
+            0.38045603036880493,
+            0.2076999992132187
+          ],
+          "status": "revised_legacy"
+        }
+      ],
+      "zip_file": "BM_010_CC0.zip",
+      "zip_bytes": 1159069,
+      "zip_sha256": "1a4f8ed7be06738c57ed5c76de0c58104106470309c6d8fe9e0bd22d3ddadf72",
+      "preview_file": "previews/BM_010_preview.png",
+      "preview_sha256": "4475a1bb2ddbad1f2363a9f209526787c6cc6733e404dd48359151710ed06616",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_010_CC0.zip"
+    },
+    {
+      "asset_id": "BM_011",
+      "source_model_id": "smith_hammer",
+      "source_model_ids": [
+        "smith_hammer"
+      ],
+      "geometry_family": "smith_hammer",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "使い込まれた鎚",
+        "en": "Worn hammer",
+        "zh-CN": "旧铁锤"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「使い込まれた鎚」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Worn hammer, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「旧铁锤」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.24914126098155975,
+        0.4270000159740448,
+        0.08799999952316284
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_hammer",
+          "names": {
+            "ja": "使い込まれた鎚",
+            "en": "Worn hammer",
+            "zh-CN": "旧铁锤"
+          },
+          "dimensions_m": [
+            0.24914126098155975,
+            0.4270000159740448,
+            0.08799999952316284
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_011_CC0.zip",
+      "zip_bytes": 1034857,
+      "zip_sha256": "8064d9f00d2b7fd3a9e9f406a45dc2e6089ebbe45ad79e2bb3a80daf5dbac2b5",
+      "preview_file": "previews/BM_011_preview.png",
+      "preview_sha256": "22888596d309ca45221850ae0f418924b8f48dc1e773458d24926b51b8aa1ab3",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_011_CC0.zip"
+    },
+    {
+      "asset_id": "BM_012",
+      "source_model_id": "smith_scissors",
+      "source_model_ids": [
+        "smith_scissors"
+      ],
+      "geometry_family": "smith_scissors",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "古い鋏",
+        "en": "Old scissors",
+        "zh-CN": "旧剪刀"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「古い鋏」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。今回、形状と接合を改修しました。",
+        "en": "Old scissors, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record. Geometry and connections revised in this release.",
+        "zh-CN": "桥上六摊市集的「旧剪刀」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。本次改进了形状与连接。"
+      },
+      "dimensions_m": [
+        0.14800000190734863,
+        0.38187792897224426,
+        0.021799998357892036
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_scissors",
+          "names": {
+            "ja": "古い鋏",
+            "en": "Old scissors",
+            "zh-CN": "旧剪刀"
+          },
+          "dimensions_m": [
+            0.14800000190734863,
+            0.38187792897224426,
+            0.021799998357892036
+          ],
+          "status": "revised_legacy"
+        }
+      ],
+      "zip_file": "BM_012_CC0.zip",
+      "zip_bytes": 893571,
+      "zip_sha256": "ba60ee38067f7670409d7ee59b4965266a8065c1b4fb7283df2f7a2d2317e8e8",
+      "preview_file": "previews/BM_012_preview.png",
+      "preview_sha256": "2eb7d4ac4f164624af536d605b01d17be2754314830a4adce766642df8712612",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_012_CC0.zip"
+    },
+    {
+      "asset_id": "BM_013",
+      "source_model_id": "smith_lock",
+      "source_model_ids": [
+        "smith_lock"
+      ],
+      "geometry_family": "smith_lock",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "錆びた錠前",
+        "en": "Rusty padlock",
+        "zh-CN": "锈挂锁"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「錆びた錠前」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Rusty padlock, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「锈挂锁」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.1509999930858612,
+        0.09049999713897705,
+        0.21450001001358032
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_lock",
+          "names": {
+            "ja": "錆びた錠前",
+            "en": "Rusty padlock",
+            "zh-CN": "锈挂锁"
+          },
+          "dimensions_m": [
+            0.1509999930858612,
+            0.09049999713897705,
+            0.21450001001358032
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_013_CC0.zip",
+      "zip_bytes": 1025849,
+      "zip_sha256": "1c16f60326e346df53684772113b85ac90db79875f10d70068cf4510ef3963b7",
+      "preview_file": "previews/BM_013_preview.png",
+      "preview_sha256": "2b3b44604843722fe338b254b03ea5a74ca55719c9cca2091939cf5a1f90e9fe",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_013_CC0.zip"
+    },
+    {
+      "asset_id": "BM_014",
+      "source_model_id": "smith_horseshoe",
+      "source_model_ids": [
+        "smith_horseshoe"
+      ],
+      "geometry_family": "smith_horseshoe",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "擦り減った蹄鉄",
+        "en": "Worn horseshoe",
+        "zh-CN": "磨损马蹄铁"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「擦り減った蹄鉄」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Worn horseshoe, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「磨损马蹄铁」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.26986178755760193,
+        0.2775267958641052,
+        0.026499997824430466
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_horseshoe",
+          "names": {
+            "ja": "擦り減った蹄鉄",
+            "en": "Worn horseshoe",
+            "zh-CN": "磨损马蹄铁"
+          },
+          "dimensions_m": [
+            0.26986178755760193,
+            0.2775267958641052,
+            0.026499997824430466
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_014_CC0.zip",
+      "zip_bytes": 853186,
+      "zip_sha256": "d46b920b54270a72828c2a00101f9deebb04aad08d92fa140b1f458f9756e93f",
+      "preview_file": "previews/BM_014_preview.png",
+      "preview_sha256": "578c071db4794e71205ea0a308f610ce5a71888141ce4bbab2313c56f492c48c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_014_CC0.zip"
+    },
+    {
+      "asset_id": "BM_015",
+      "source_model_id": "smith_nails",
+      "source_model_ids": [
+        "smith_nails"
+      ],
+      "geometry_family": "smith_nails",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "曲がった釘の束",
+        "en": "Bundle of bent nails",
+        "zh-CN": "弯钉束"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「曲がった釘の束」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Bundle of bent nails, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「弯钉束」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2698201537132263,
+        0.2822512984275818,
+        0.018889928236603737
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_nails",
+          "names": {
+            "ja": "曲がった釘の束",
+            "en": "Bundle of bent nails",
+            "zh-CN": "弯钉束"
+          },
+          "dimensions_m": [
+            0.2698201537132263,
+            0.2822512984275818,
+            0.018889928236603737
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_015_CC0.zip",
+      "zip_bytes": 835592,
+      "zip_sha256": "9f32eff13eda672886f05d426f0c401c5e8ed823099f689e64324629ff3de8c7",
+      "preview_file": "previews/BM_015_preview.png",
+      "preview_sha256": "3757ae8abbb5096eff7895dee6172aee598282658e25b3008e35af10e52b84b2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_015_CC0.zip"
+    },
+    {
+      "asset_id": "BM_016",
+      "source_model_id": "smith_tongs",
+      "source_model_ids": [
+        "smith_tongs"
+      ],
+      "geometry_family": "smith_tongs",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "小さな火箸",
+        "en": "Small fire tongs",
+        "zh-CN": "小火钳"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「小さな火箸」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Small fire tongs, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「小火钳」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.1434340626001358,
+        0.4796525835990906,
+        0.056000005453825
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_tongs",
+          "names": {
+            "ja": "小さな火箸",
+            "en": "Small fire tongs",
+            "zh-CN": "小火钳"
+          },
+          "dimensions_m": [
+            0.1434340626001358,
+            0.4796525835990906,
+            0.056000005453825
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_016_CC0.zip",
+      "zip_bytes": 876052,
+      "zip_sha256": "8a28f09fb40e3a466f8e3a03c1696f767c8de147b880ce98c6fceb72989d6b19",
+      "preview_file": "previews/BM_016_preview.png",
+      "preview_sha256": "bc2fb2db5991916cfeebfd3a028af797b9582462e0d9467cce742696964db71c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_016_CC0.zip"
+    },
+    {
+      "asset_id": "BM_017",
+      "source_model_id": "smith_whetstone",
+      "source_model_ids": [
+        "smith_whetstone"
+      ],
+      "geometry_family": "smith_whetstone",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "くぼんだ砥石",
+        "en": "Hollowed whetstone",
+        "zh-CN": "凹磨刀石"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「くぼんだ砥石」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Hollowed whetstone, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「凹磨刀石」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3239254653453827,
+        0.16052530705928802,
+        0.06199999898672104
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_whetstone",
+          "names": {
+            "ja": "くぼんだ砥石",
+            "en": "Hollowed whetstone",
+            "zh-CN": "凹磨刀石"
+          },
+          "dimensions_m": [
+            0.3239254653453827,
+            0.16052530705928802,
+            0.06199999898672104
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_017_CC0.zip",
+      "zip_bytes": 589699,
+      "zip_sha256": "f59cb99c0c4e8a04e73b873cad1f5fc18958fc5d49bc39d2219676a3865211f0",
+      "preview_file": "previews/BM_017_preview.png",
+      "preview_sha256": "c8c1270587e60bc1e8a4cd71ca478751921a83d296491c8da9597de400dd4ae5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_017_CC0.zip"
+    },
+    {
+      "asset_id": "BM_018",
+      "source_model_id": "smith_hinge",
+      "source_model_ids": [
+        "smith_hinge"
+      ],
+      "geometry_family": "smith_hinge",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "外した扉の蝶番",
+        "en": "Removed door hinge",
+        "zh-CN": "旧门铰链"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「外した扉の蝶番」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Removed door hinge, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「旧门铰链」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.24199999868869781,
+        0.22700001299381256,
+        0.04600000008940697
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_hinge",
+          "names": {
+            "ja": "外した扉の蝶番",
+            "en": "Removed door hinge",
+            "zh-CN": "旧门铰链"
+          },
+          "dimensions_m": [
+            0.24199999868869781,
+            0.22700001299381256,
+            0.04600000008940697
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_018_CC0.zip",
+      "zip_bytes": 1081142,
+      "zip_sha256": "1199131bf8b92e48eef958487cbd1c2c18ebae058edccc4714e68c7ad8d24443",
+      "preview_file": "previews/BM_018_preview.png",
+      "preview_sha256": "850d0858b475bea0da86a3c31dbca6966b551dbc5852a49eeb87e5378e9e2269",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_018_CC0.zip"
+    },
+    {
+      "asset_id": "BM_019",
+      "source_model_id": "smith_fork",
+      "source_model_ids": [
+        "smith_fork"
+      ],
+      "geometry_family": "smith_fork",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "修理用の三又工具",
+        "en": "Three-pronged repair tool",
+        "zh-CN": "三齿修理工具"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「修理用の三又工具」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Three-pronged repair tool, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「三齿修理工具」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.1340000033378601,
+        0.44199997186660767,
+        0.03999999910593033
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_fork",
+          "names": {
+            "ja": "修理用の三又工具",
+            "en": "Three-pronged repair tool",
+            "zh-CN": "三齿修理工具"
+          },
+          "dimensions_m": [
+            0.1340000033378601,
+            0.44199997186660767,
+            0.03999999910593033
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_019_CC0.zip",
+      "zip_bytes": 993678,
+      "zip_sha256": "84d8bee4b0616d24ba7b3a0667bdf0bdc651e48c3cfd0550641153bee954172e",
+      "preview_file": "previews/BM_019_preview.png",
+      "preview_sha256": "9fe14d4675397b6dbd25a75705ad8ea5fad5e0e2d9d0ac2779aa0a581d2417d8",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_019_CC0.zip"
+    },
+    {
+      "asset_id": "BM_020",
+      "source_model_id": "smith_tray",
+      "source_model_ids": [
+        "smith_tray"
+      ],
+      "geometry_family": "smith_tray",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "浅い部品箱",
+        "en": "Shallow parts tray",
+        "zh-CN": "浅零件盘"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「浅い部品箱」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Shallow parts tray, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「浅零件盘」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.45399999618530273,
+        0.33799999952316284,
+        0.07899999618530273
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_tray",
+          "names": {
+            "ja": "浅い部品箱",
+            "en": "Shallow parts tray",
+            "zh-CN": "浅零件盘"
+          },
+          "dimensions_m": [
+            0.45399999618530273,
+            0.33799999952316284,
+            0.07899999618530273
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_020_CC0.zip",
+      "zip_bytes": 1081151,
+      "zip_sha256": "1e1c6f238d9cdd9e3fad2022b713ab3440f45831e2669d3f5912dea59270fbce",
+      "preview_file": "previews/BM_020_preview.png",
+      "preview_sha256": "62251b881c7a7f33fb91329bf87bb00e63acf8ff0d66de8d3b6c2af7d4743a42",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_020_CC0.zip"
+    },
+    {
+      "asset_id": "BM_021",
+      "source_model_id": "smith_key",
+      "source_model_ids": [
+        "smith_key",
+        "dealer_key"
+      ],
+      "geometry_family": "key",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "大きな鉄扉の鍵",
+        "en": "Large iron door key",
+        "zh-CN": "大铁门钥匙"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「大きな鉄扉の鍵」。従来の市場で制作した素材を初配布します。収録モデルは2版。派生は同じ配布単位にまとめています。",
+        "en": "Large iron door key, for the six-stall bridge market. First distribution of an earlier market design. Includes 2 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「大铁门钥匙」。首次分发此前制作的市集素材。包含2个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.27399998903274536,
+        0.09800000488758087,
+        0.030000001192092896
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_key",
+          "names": {
+            "ja": "大きな鉄扉の鍵",
+            "en": "Large iron door key",
+            "zh-CN": "大铁门钥匙"
+          },
+          "dimensions_m": [
+            0.27399998903274536,
+            0.09800000488758087,
+            0.030000001192092896
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "dealer_key",
+          "names": {
+            "ja": "出所不明の鍵",
+            "en": "Key of unknown origin",
+            "zh-CN": "来历不明的钥匙"
+          },
+          "dimensions_m": [
+            0.22467997670173645,
+            0.08036000281572342,
+            0.02460000291466713
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_021_CC0.zip",
+      "zip_bytes": 1202924,
+      "zip_sha256": "129b9ed2362586a6e7ed8c5658c3064b6c02d01fc983b83a7da311544b7308a0",
+      "preview_file": "previews/BM_021_preview.png",
+      "preview_sha256": "a5eea72479be8cdb6d3792ad0ec1fd2624938767aa6d282e0a7b062b588bf92d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_021_CC0.zip"
+    },
+    {
+      "asset_id": "BM_022",
+      "source_model_id": "smith_chain",
+      "source_model_ids": [
+        "smith_chain"
+      ],
+      "geometry_family": "smith_chain",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "短い鎖",
+        "en": "Short chain",
+        "zh-CN": "短铁链"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「短い鎖」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Short chain, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「短铁链」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3867316246032715,
+        0.07881283015012741,
+        0.04159999638795853
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_chain",
+          "names": {
+            "ja": "短い鎖",
+            "en": "Short chain",
+            "zh-CN": "短铁链"
+          },
+          "dimensions_m": [
+            0.3867316246032715,
+            0.07881283015012741,
+            0.04159999638795853
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_022_CC0.zip",
+      "zip_bytes": 1006277,
+      "zip_sha256": "3843babb92f937cf52e731a4d628daef81873a21cc05a963b6caf445531e15b1",
+      "preview_file": "previews/BM_022_preview.png",
+      "preview_sha256": "f390d512703f04dc3d73451e2dd92b59dc26cdd13818b04b9209ff88bbb9be13",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_022_CC0.zip"
+    },
+    {
+      "asset_id": "BM_023",
+      "source_model_id": "smith_ring",
+      "source_model_ids": [
+        "smith_ring"
+      ],
+      "geometry_family": "smith_ring",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "交換用の輪金",
+        "en": "Replacement iron ring",
+        "zh-CN": "替换铁环"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「交換用の輪金」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Replacement iron ring, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「替换铁环」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2759999930858612,
+        0.2759999930858612,
+        0.031176915392279625
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_ring",
+          "names": {
+            "ja": "交換用の輪金",
+            "en": "Replacement iron ring",
+            "zh-CN": "替换铁环"
+          },
+          "dimensions_m": [
+            0.2759999930858612,
+            0.2759999930858612,
+            0.031176915392279625
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_023_CC0.zip",
+      "zip_bytes": 814117,
+      "zip_sha256": "f7586ab42e1b1e5b14ab143c1b60f011a7f5fc38796af351d0df0c231af713ca",
+      "preview_file": "previews/BM_023_preview.png",
+      "preview_sha256": "fcfcaf9b17ed26e67a153a7fb55cb227c9fd0ba3dfbd82ac87c95ec2e10cc0bf",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_023_CC0.zip"
+    },
+    {
+      "asset_id": "BM_024",
+      "source_model_id": "dealer_sealed_chest",
+      "source_model_ids": [
+        "dealer_sealed_chest"
+      ],
+      "geometry_family": "dealer_sealed_chest",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "怪しい封印箱",
+        "en": "Suspicious sealed chest",
+        "zh-CN": "神秘封印箱"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「怪しい封印箱」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Suspicious sealed chest, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「神秘封印箱」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.438510000705719,
+        0.30699998140335083,
+        0.25599998235702515
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_sealed_chest",
+          "names": {
+            "ja": "怪しい封印箱",
+            "en": "Suspicious sealed chest",
+            "zh-CN": "神秘封印箱"
+          },
+          "dimensions_m": [
+            0.438510000705719,
+            0.30699998140335083,
+            0.25599998235702515
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_024_CC0.zip",
+      "zip_bytes": 1694329,
+      "zip_sha256": "8512881584770dbbe4455ee030a6474bcffe4e27ed1264f0cad5ff5f3420c0b0",
+      "preview_file": "previews/BM_024_preview.png",
+      "preview_sha256": "48d21454dcc8ec487634d5ba72b59fb1a50a28b8f34f7f20fa152a9a3afa0819",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_024_CC0.zip"
+    },
+    {
+      "asset_id": "BM_025",
+      "source_model_id": "dealer_single_boot",
+      "source_model_ids": [
+        "dealer_single_boot"
+      ],
+      "geometry_family": "dealer_single_boot",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "片方だけの革靴",
+        "en": "Single leather boot",
+        "zh-CN": "单只皮靴"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「片方だけの革靴」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Single leather boot, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「单只皮靴」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.1966981738805771,
+        0.4074000120162964,
+        0.28200000524520874
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_single_boot",
+          "names": {
+            "ja": "片方だけの革靴",
+            "en": "Single leather boot",
+            "zh-CN": "单只皮靴"
+          },
+          "dimensions_m": [
+            0.1966981738805771,
+            0.4074000120162964,
+            0.28200000524520874
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_025_CC0.zip",
+      "zip_bytes": 1755349,
+      "zip_sha256": "ee8c8ef50180326dd652219893faece42b5ab8e23b8ab7c6bb813282a2da8760",
+      "preview_file": "previews/BM_025_preview.png",
+      "preview_sha256": "273f3c3406b8f3fd401177879b310c6c6469bd5c5f6298bfd945a021a431f6dc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_025_CC0.zip"
+    },
+    {
+      "asset_id": "BM_026",
+      "source_model_id": "dealer_mask",
+      "source_model_ids": [
+        "dealer_mask"
+      ],
+      "geometry_family": "dealer_mask",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "名前のない仮面",
+        "en": "Nameless mask",
+        "zh-CN": "无名面具"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「名前のない仮面」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Nameless mask, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「无名面具」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3079952001571655,
+        0.3303477168083191,
+        0.0817594975233078
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_mask",
+          "names": {
+            "ja": "名前のない仮面",
+            "en": "Nameless mask",
+            "zh-CN": "无名面具"
+          },
+          "dimensions_m": [
+            0.3079952001571655,
+            0.3303477168083191,
+            0.0817594975233078
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_026_CC0.zip",
+      "zip_bytes": 1596492,
+      "zip_sha256": "e3e954dd056c166c17a1dd762775571cdfb2843c224dacc5daafacdbe1a0f9a6",
+      "preview_file": "previews/BM_026_preview.png",
+      "preview_sha256": "bdac4240c24b4d943d2830b0689db32dec160ae2c6fcbd0f3f135d9fed696a18",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_026_CC0.zip"
+    },
+    {
+      "asset_id": "BM_027",
+      "source_model_id": "dealer_coins",
+      "source_model_ids": [
+        "dealer_coins"
+      ],
+      "geometry_family": "dealer_coins",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "異国の古銭",
+        "en": "Foreign old coins",
+        "zh-CN": "异国古钱"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「異国の古銭」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Foreign old coins, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「异国古钱」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.18055951595306396,
+        0.20790165662765503,
+        0.021951057016849518
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_coins",
+          "names": {
+            "ja": "異国の古銭",
+            "en": "Foreign old coins",
+            "zh-CN": "异国古钱"
+          },
+          "dimensions_m": [
+            0.18055951595306396,
+            0.20790165662765503,
+            0.021951057016849518
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_027_CC0.zip",
+      "zip_bytes": 1165019,
+      "zip_sha256": "af2bbbc23a4610d48b56864a131e1b51c2c672186015a6e4ed28a6d663dc7f04",
+      "preview_file": "previews/BM_027_preview.png",
+      "preview_sha256": "f6cab472e4bfb7309796f5d73900e5c0e0933455903717e6b4190f6c75ae54a5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_027_CC0.zip"
+    },
+    {
+      "asset_id": "BM_028",
+      "source_model_id": "dealer_scale",
+      "source_model_ids": [
+        "dealer_scale"
+      ],
+      "geometry_family": "dealer_scale",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "狂った天秤",
+        "en": "Unbalanced scales",
+        "zh-CN": "失准天平"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「狂った天秤」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Unbalanced scales, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「失准天平」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6240731477737427,
+        0.1940000057220459,
+        0.5099999904632568
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_scale",
+          "names": {
+            "ja": "狂った天秤",
+            "en": "Unbalanced scales",
+            "zh-CN": "失准天平"
+          },
+          "dimensions_m": [
+            0.6240731477737427,
+            0.1940000057220459,
+            0.5099999904632568
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_028_CC0.zip",
+      "zip_bytes": 1540804,
+      "zip_sha256": "3bf0631dbafa96f1c81de23c3ae435174385c24efe9c854d2bc9f99b73f6d44e",
+      "preview_file": "previews/BM_028_preview.png",
+      "preview_sha256": "60b1f92b0ffedb17d836f5b54080e70e98d43f6efad50e4de506b67c480c58ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_028_CC0.zip"
+    },
+    {
+      "asset_id": "BM_029",
+      "source_model_id": "dealer_lantern",
+      "source_model_ids": [
+        "dealer_lantern"
+      ],
+      "geometry_family": "dealer_lantern",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "裏路地の提灯",
+        "en": "Back-alley lantern",
+        "zh-CN": "巷中提灯"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「裏路地の提灯」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Back-alley lantern, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「巷中提灯」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2980000078678131,
+        0.2980000078678131,
+        0.5392797589302063
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_lantern",
+          "names": {
+            "ja": "裏路地の提灯",
+            "en": "Back-alley lantern",
+            "zh-CN": "巷中提灯"
+          },
+          "dimensions_m": [
+            0.2980000078678131,
+            0.2980000078678131,
+            0.5392797589302063
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_029_CC0.zip",
+      "zip_bytes": 1072231,
+      "zip_sha256": "6587f67aa6272194eb8def1bfac3030952bf0f48024da84562bc6133f47797d8",
+      "preview_file": "previews/BM_029_preview.png",
+      "preview_sha256": "f07f1a80b14e3aa5b226e33a9e41775144dc328bb8220758cf2f89c0927e34e6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_029_CC0.zip"
+    },
+    {
+      "asset_id": "BM_030",
+      "source_model_id": "dealer_signet",
+      "source_model_ids": [
+        "dealer_signet"
+      ],
+      "geometry_family": "dealer_signet",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "他人の紋章指輪",
+        "en": "Stranger's signet ring",
+        "zh-CN": "陌生人的纹章戒指"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「他人の紋章指輪」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Stranger's signet ring, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「陌生人的纹章戒指」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.08399999886751175,
+        0.08399999886751175,
+        0.034300003200769424
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_signet",
+          "names": {
+            "ja": "他人の紋章指輪",
+            "en": "Stranger's signet ring",
+            "zh-CN": "陌生人的纹章戒指"
+          },
+          "dimensions_m": [
+            0.08399999886751175,
+            0.08399999886751175,
+            0.034300003200769424
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_030_CC0.zip",
+      "zip_bytes": 840369,
+      "zip_sha256": "dc9301d9b63e924283ce9ba4d8d58de25a9dbcf033546afaca7992ec5a31fa77",
+      "preview_file": "previews/BM_030_preview.png",
+      "preview_sha256": "dcd0e163e53824dc3ef6f313674744704840d15b16964f495659df59f28225b5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_030_CC0.zip"
+    },
+    {
+      "asset_id": "BM_031",
+      "source_model_id": "dealer_mirror",
+      "source_model_ids": [
+        "dealer_mirror"
+      ],
+      "geometry_family": "dealer_mirror",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "曇った手鏡",
+        "en": "Clouded hand mirror",
+        "zh-CN": "模糊手镜"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「曇った手鏡」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Clouded hand mirror, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「模糊手镜」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.20999999344348907,
+        0.4449999928474426,
+        0.029999999329447746
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_mirror",
+          "names": {
+            "ja": "曇った手鏡",
+            "en": "Clouded hand mirror",
+            "zh-CN": "模糊手镜"
+          },
+          "dimensions_m": [
+            0.20999999344348907,
+            0.4449999928474426,
+            0.029999999329447746
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_031_CC0.zip",
+      "zip_bytes": 1021391,
+      "zip_sha256": "1cc9d9efcd2e2ee957f5208471cc1f607b96fad74072f35c5c87121f30c4d018",
+      "preview_file": "previews/BM_031_preview.png",
+      "preview_sha256": "b288b586bf218648a02ad963d45a3284540bd2b39ece49f1ae1a3d245da9f991",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_031_CC0.zip"
+    },
+    {
+      "asset_id": "BM_032",
+      "source_model_id": "dealer_dagger",
+      "source_model_ids": [
+        "dealer_dagger",
+        "v2_broken_sword_hilt",
+        "v2_gemstone_knife"
+      ],
+      "geometry_family": "v3_forged_blade",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鞘のない短剣",
+        "en": "Unsheathed dagger",
+        "zh-CN": "无鞘匕首"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「鞘のない短剣」。従来の市場で制作した素材を初配布します。収録モデルは3版。派生は同じ配布単位にまとめています。",
+        "en": "Unsheathed dagger, for the six-stall bridge market. First distribution of an earlier market design. Includes 3 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「无鞘匕首」。首次分发此前制作的市集素材。包含3个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.18599998950958252,
+        0.6240000128746033,
+        0.052000001072883606
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_dagger",
+          "names": {
+            "ja": "鞘のない短剣",
+            "en": "Unsheathed dagger",
+            "zh-CN": "无鞘匕首"
+          },
+          "dimensions_m": [
+            0.18599998950958252,
+            0.6240000128746033,
+            0.052000001072883606
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "v2_broken_sword_hilt",
+          "names": {
+            "ja": "折れた剣のつか",
+            "en": "Broken sword hilt",
+            "zh-CN": "断剑柄"
+          },
+          "dimensions_m": [
+            0.18599998950958252,
+            0.43400001525878906,
+            0.052000001072883606
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "v2_gemstone_knife",
+          "names": {
+            "ja": "宝石のはめ込まれたナイフ",
+            "en": "Gem-set knife",
+            "zh-CN": "镶宝石小刀"
+          },
+          "dimensions_m": [
+            0.18599998950958252,
+            0.6050000190734863,
+            0.06499999761581421
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_032_CC0.zip",
+      "zip_bytes": 2491997,
+      "zip_sha256": "5e1adb77233a86277cc9feca89000320f98ec425fcd7e55476118579f95634ac",
+      "preview_file": "previews/BM_032_preview.png",
+      "preview_sha256": "4479f8668d4e0b3681bf04ab7ddfd8f4eb53a93ee2ac1c1da9607670c1a7301c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_032_CC0.zip"
+    },
+    {
+      "asset_id": "BM_033",
+      "source_model_id": "dealer_gear",
+      "source_model_ids": [
+        "dealer_gear"
+      ],
+      "geometry_family": "dealer_gear",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "歯の欠けた歯車",
+        "en": "Gear with missing tooth",
+        "zh-CN": "缺齿齿轮"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「歯の欠けた歯車」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Gear with missing tooth, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「缺齿齿轮」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2298865020275116,
+        0.2298865020275116,
+        0.02499999850988388
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_gear",
+          "names": {
+            "ja": "歯の欠けた歯車",
+            "en": "Gear with missing tooth",
+            "zh-CN": "缺齿齿轮"
+          },
+          "dimensions_m": [
+            0.2298865020275116,
+            0.2298865020275116,
+            0.02499999850988388
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_033_CC0.zip",
+      "zip_bytes": 1013460,
+      "zip_sha256": "65cd66b644c537b847ba6487af9a53724c6f71e23f0286e76628d43e1061a28a",
+      "preview_file": "previews/BM_033_preview.png",
+      "preview_sha256": "12d4c332406a06bf7332203903d8a0a6f3305097f77d7a3fb947a25cc8fcc293",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_033_CC0.zip"
+    },
+    {
+      "asset_id": "BM_034",
+      "source_model_id": "shared_cushion",
+      "source_model_ids": [
+        "shared_cushion"
+      ],
+      "geometry_family": "shared_cushion",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "ぺしゃんこの座布団",
+        "en": "Flattened cushion",
+        "zh-CN": "扁旧坐垫"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「ぺしゃんこの座布団」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Flattened cushion, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「扁旧坐垫」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6735215187072754,
+        0.5897736549377441,
+        0.1302335411310196
+      ],
+      "versions": [
+        {
+          "source_model_id": "shared_cushion",
+          "names": {
+            "ja": "ぺしゃんこの座布団",
+            "en": "Flattened cushion",
+            "zh-CN": "扁旧坐垫"
+          },
+          "dimensions_m": [
+            0.6735215187072754,
+            0.5897736549377441,
+            0.1302335411310196
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_034_CC0.zip",
+      "zip_bytes": 2664963,
+      "zip_sha256": "b2961ff878bb0b380263c074b70c4d4050248787b474d9cb0fb42ac77375215c",
+      "preview_file": "previews/BM_034_preview.png",
+      "preview_sha256": "1ababc51493a487a1b9e268668d7769b48d99d3569ce445b29e38740d136d27c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_034_CC0.zip"
+    },
+    {
+      "asset_id": "BM_035",
+      "source_model_id": "shared_low_crate",
+      "source_model_ids": [
+        "shared_low_crate"
+      ],
+      "geometry_family": "shared_low_crate",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "小さな仕入れ箱",
+        "en": "Small supply crate",
+        "zh-CN": "小进货箱"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「小さな仕入れ箱」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Small supply crate, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「小进货箱」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.4580000042915344,
+        0.36219608783721924,
+        0.28818279504776
+      ],
+      "versions": [
+        {
+          "source_model_id": "shared_low_crate",
+          "names": {
+            "ja": "小さな仕入れ箱",
+            "en": "Small supply crate",
+            "zh-CN": "小进货箱"
+          },
+          "dimensions_m": [
+            0.4580000042915344,
+            0.36219608783721924,
+            0.28818279504776
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_035_CC0.zip",
+      "zip_bytes": 1603986,
+      "zip_sha256": "13e42a6b1881087d7b24d0a0e962ff5050429e4406589db38acf9d1db8e19bc7",
+      "preview_file": "previews/BM_035_preview.png",
+      "preview_sha256": "6bcf2391ea6832861cf3f3dff049615b842c32b7cb6120cf3a7b8d81296d7fd1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_035_CC0.zip"
+    },
+    {
+      "asset_id": "BM_036",
+      "source_model_id": "smith_open_crate",
+      "source_model_ids": [
+        "smith_open_crate"
+      ],
+      "geometry_family": "smith_open_crate",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "金具入りの開いた木箱",
+        "en": "Open hardware crate",
+        "zh-CN": "装五金的开口木箱"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「金具入りの開いた木箱」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Open hardware crate, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「装五金的开口木箱」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6039999723434448,
+        0.4480000138282776,
+        0.2590000033378601
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_open_crate",
+          "names": {
+            "ja": "金具入りの開いた木箱",
+            "en": "Open hardware crate",
+            "zh-CN": "装五金的开口木箱"
+          },
+          "dimensions_m": [
+            0.6039999723434448,
+            0.4480000138282776,
+            0.2590000033378601
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_036_CC0.zip",
+      "zip_bytes": 1236895,
+      "zip_sha256": "cf6b950a116f97d31c36163cd08845838145e2f38d1a0822224f243587d15015",
+      "preview_file": "previews/BM_036_preview.png",
+      "preview_sha256": "ac4db87fe0e1fcd451a8885209311495e29b14cc8ec46412674ab7495d46a7a6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_036_CC0.zip"
+    },
+    {
+      "asset_id": "BM_037",
+      "source_model_id": "dealer_bundle",
+      "source_model_ids": [
+        "dealer_bundle"
+      ],
+      "geometry_family": "dealer_bundle",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "紐で括った布包み",
+        "en": "Tied cloth bundle",
+        "zh-CN": "绳绑布包"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「紐で括った布包み」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Tied cloth bundle, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「绳绑布包」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.5193277597427368,
+        0.3995567560195923,
+        0.31550848484039307
+      ],
+      "versions": [
+        {
+          "source_model_id": "dealer_bundle",
+          "names": {
+            "ja": "紐で括った布包み",
+            "en": "Tied cloth bundle",
+            "zh-CN": "绳绑布包"
+          },
+          "dimensions_m": [
+            0.5193277597427368,
+            0.3995567560195923,
+            0.31550848484039307
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_037_CC0.zip",
+      "zip_bytes": 3476325,
+      "zip_sha256": "80797cef0b2b7967ed74a2cc6dd1656552ce7c938e151076dbd5169b310590d8",
+      "preview_file": "previews/BM_037_preview.png",
+      "preview_sha256": "c6c80af50c357a59a35e8d03fb9a52a460c0e6583aa6d3c5de309fd103551916",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_037_CC0.zip"
+    },
+    {
+      "asset_id": "BM_038",
+      "source_model_id": "wizard_map_tube",
+      "source_model_ids": [
+        "wizard_map_tube"
+      ],
+      "geometry_family": "wizard_map_tube",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻き図面の筒",
+        "en": "Rolled drawing tube",
+        "zh-CN": "图纸筒"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「巻き図面の筒」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Rolled drawing tube, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「图纸筒」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.42089998722076416,
+        0.13794869184494019,
+        0.08799999952316284
+      ],
+      "versions": [
+        {
+          "source_model_id": "wizard_map_tube",
+          "names": {
+            "ja": "巻き図面の筒",
+            "en": "Rolled drawing tube",
+            "zh-CN": "图纸筒"
+          },
+          "dimensions_m": [
+            0.42089998722076416,
+            0.13794869184494019,
+            0.08799999952316284
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_038_CC0.zip",
+      "zip_bytes": 2187990,
+      "zip_sha256": "cede118656841611cd298c6190da6dbd314bb3a51cc1db8e44b4ffda0f6e8ae1",
+      "preview_file": "previews/BM_038_preview.png",
+      "preview_sha256": "0d6acd198a1fe1d8580f684c036a1891ce5dd3ee1a83351257e31197e7f5b876",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_038_CC0.zip"
+    },
+    {
+      "asset_id": "BM_039",
+      "source_model_id": "smith_scrap",
+      "source_model_ids": [
+        "smith_scrap"
+      ],
+      "geometry_family": "smith_scrap",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "修理用の鉄端材",
+        "en": "Repair iron offcut",
+        "zh-CN": "修理用铁边料"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「修理用の鉄端材」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Repair iron offcut, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「修理用铁边料」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3523627519607544,
+        0.32044312357902527,
+        0.0560000017285347
+      ],
+      "versions": [
+        {
+          "source_model_id": "smith_scrap",
+          "names": {
+            "ja": "修理用の鉄端材",
+            "en": "Repair iron offcut",
+            "zh-CN": "修理用铁边料"
+          },
+          "dimensions_m": [
+            0.3523627519607544,
+            0.32044312357902527,
+            0.0560000017285347
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_039_CC0.zip",
+      "zip_bytes": 839743,
+      "zip_sha256": "a24dbb4d0293d189357236cb9c09102d8cc523ead32c0c0184ae06838815bba5",
+      "preview_file": "previews/BM_039_preview.png",
+      "preview_sha256": "ff81985cafffae59bba80c2a0fe4fa2fa66dbadfd39058862e42bbc20878cd7f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_039_CC0.zip"
+    },
+    {
+      "asset_id": "BM_040",
+      "source_model_id": "v2_intact_fork",
+      "source_model_ids": [
+        "v2_intact_fork",
+        "v2_broken_fork"
+      ],
+      "geometry_family": "v2_dining_fork",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "全歯の揃ったフォーク",
+        "en": "Intact dining fork",
+        "zh-CN": "完整餐叉"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「全歯の揃ったフォーク」。従来の市場で制作した素材を初配布します。収録モデルは2版。派生は同じ配布単位にまとめています。",
+        "en": "Intact dining fork, for the six-stall bridge market. First distribution of an earlier market design. Includes 2 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「完整餐叉」。首次分发此前制作的市集素材。包含2个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.1318223923444748,
+        0.5220000147819519,
+        0.018000001087784767
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_intact_fork",
+          "names": {
+            "ja": "全歯の揃ったフォーク",
+            "en": "Intact dining fork",
+            "zh-CN": "完整餐叉"
+          },
+          "dimensions_m": [
+            0.1318223923444748,
+            0.5220000147819519,
+            0.018000001087784767
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "v2_broken_fork",
+          "names": {
+            "ja": "一本だけ歯の折れたフォーク",
+            "en": "Fork with one broken tine",
+            "zh-CN": "断一齿餐叉"
+          },
+          "dimensions_m": [
+            0.1318223923444748,
+            0.5220000147819519,
+            0.018000001087784767
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_040_CC0.zip",
+      "zip_bytes": 1110949,
+      "zip_sha256": "3433b16ae49e13af217dcae979c3a57140573b039559b85f8721ee746fe93024",
+      "preview_file": "previews/BM_040_preview.png",
+      "preview_sha256": "60771a7a8e504ecf857b4d7dc9416db4e9a0799012d1c3b60ee66b1fc6a15299",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_040_CC0.zip"
+    },
+    {
+      "asset_id": "BM_041",
+      "source_model_id": "v2_rusty_corkscrew",
+      "source_model_ids": [
+        "v2_rusty_corkscrew"
+      ],
+      "geometry_family": "v2_rusty_corkscrew",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "錆びたワインオープナー",
+        "en": "Rusty corkscrew",
+        "zh-CN": "锈开瓶器"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「錆びたワインオープナー」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Rusty corkscrew, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「锈开瓶器」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.30000001192092896,
+        0.45390868186950684,
+        0.08600001037120819
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_rusty_corkscrew",
+          "names": {
+            "ja": "錆びたワインオープナー",
+            "en": "Rusty corkscrew",
+            "zh-CN": "锈开瓶器"
+          },
+          "dimensions_m": [
+            0.30000001192092896,
+            0.45390868186950684,
+            0.08600001037120819
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_041_CC0.zip",
+      "zip_bytes": 1153494,
+      "zip_sha256": "f1166540edf0b6d5dcfad0e9986697289a42d3a7f2f894d4f3423e6613ab4977",
+      "preview_file": "previews/BM_041_preview.png",
+      "preview_sha256": "bd2ecbcebc6b62f08ff378803d40935cc51a247386a2f7410957f7818be71d01",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_041_CC0.zip"
+    },
+    {
+      "asset_id": "BM_042",
+      "source_model_id": "v2_dirty_robe",
+      "source_model_ids": [
+        "v2_dirty_robe"
+      ],
+      "geometry_family": "v2_dirty_robe",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "汚れたローブ",
+        "en": "Dirty robe",
+        "zh-CN": "脏长袍"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「汚れたローブ」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Dirty robe, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「脏长袍」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        1.0560535192489624,
+        0.9507893323898315,
+        0.17694871127605438
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_dirty_robe",
+          "names": {
+            "ja": "汚れたローブ",
+            "en": "Dirty robe",
+            "zh-CN": "脏长袍"
+          },
+          "dimensions_m": [
+            1.0560535192489624,
+            0.9507893323898315,
+            0.17694871127605438
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_042_CC0.zip",
+      "zip_bytes": 3766883,
+      "zip_sha256": "fbacc46653cdfe809dea686e1d17213046220f1fd9cf673157b54e87c7bfb4f8",
+      "preview_file": "previews/BM_042_preview.png",
+      "preview_sha256": "0c7f0cdf2d7a6ddd058ac4bb459a2758e3b250c3ba9c4497659ebf12afb15792",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_042_CC0.zip"
+    },
+    {
+      "asset_id": "BM_043",
+      "source_model_id": "v2_dirty_bag",
+      "source_model_ids": [
+        "v2_dirty_bag"
+      ],
+      "geometry_family": "v2_dirty_bag",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "汚れたバッグ",
+        "en": "Dirty bag",
+        "zh-CN": "脏布包"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「汚れたバッグ」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Dirty bag, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「脏布包」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.4472000002861023,
+        0.30733007192611694,
+        0.5524688363075256
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_dirty_bag",
+          "names": {
+            "ja": "汚れたバッグ",
+            "en": "Dirty bag",
+            "zh-CN": "脏布包"
+          },
+          "dimensions_m": [
+            0.4472000002861023,
+            0.30733007192611694,
+            0.5524688363075256
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_043_CC0.zip",
+      "zip_bytes": 4038100,
+      "zip_sha256": "ef7a402547961d8a51d490c80b4c9221411bdaf2887c61f6a03cfc3db86ecaa4",
+      "preview_file": "previews/BM_043_preview.png",
+      "preview_sha256": "d63137e508da4a35ff752cc8c1db3f375c4354bbf848fdd3d270ed09eaeb424c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_043_CC0.zip"
+    },
+    {
+      "asset_id": "BM_044",
+      "source_model_id": "v2_chipped_magnifier",
+      "source_model_ids": [
+        "v2_chipped_magnifier"
+      ],
+      "geometry_family": "v2_chipped_magnifier",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "欠けた拡大鏡",
+        "en": "Chipped magnifying glass",
+        "zh-CN": "缺口放大镜"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「欠けた拡大鏡」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Chipped magnifying glass, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「缺口放大镜」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.264740914106369,
+        0.49898484349250793,
+        0.04780000075697899
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_chipped_magnifier",
+          "names": {
+            "ja": "欠けた拡大鏡",
+            "en": "Chipped magnifying glass",
+            "zh-CN": "缺口放大镜"
+          },
+          "dimensions_m": [
+            0.264740914106369,
+            0.49898484349250793,
+            0.04780000075697899
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_044_CC0.zip",
+      "zip_bytes": 1080523,
+      "zip_sha256": "547dd6f3d2f57a3a11835b19015728bf95d9217f7a55ffc071257322fffaea24",
+      "preview_file": "previews/BM_044_preview.png",
+      "preview_sha256": "38a1d7c8ce24ba362a117ea83c4cac2403a9be6c65fc860d4449a71407f3d75d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_044_CC0.zip"
+    },
+    {
+      "asset_id": "BM_045",
+      "source_model_id": "v2_handcart",
+      "source_model_ids": [
+        "v2_handcart"
+      ],
+      "geometry_family": "v2_handcart",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "荷物を運んできた荷車",
+        "en": "Loaded handcart",
+        "zh-CN": "运货手推车"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「荷物を運んできた荷車」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Loaded handcart, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「运货手推车」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        1.4539999961853027,
+        2.6399998664855957,
+        0.9685000777244568
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_handcart",
+          "names": {
+            "ja": "荷物を運んできた荷車",
+            "en": "Loaded handcart",
+            "zh-CN": "运货手推车"
+          },
+          "dimensions_m": [
+            1.4539999961853027,
+            2.6399998664855957,
+            0.9685000777244568
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_045_CC0.zip",
+      "zip_bytes": 2564145,
+      "zip_sha256": "4809bda7063e1b9a1a84dbbdef07ea6f4b4f1468ae732a267a654eb96c69fb2d",
+      "preview_file": "previews/BM_045_preview.png",
+      "preview_sha256": "17782e60f88d3c04b305f32e27dc8f3bf1a5b37c761250da504d3abf6199c2b1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_045_CC0.zip"
+    },
+    {
+      "asset_id": "BM_046",
+      "source_model_id": "v2_pack_frame",
+      "source_model_ids": [
+        "v2_pack_frame"
+      ],
+      "geometry_family": "v2_pack_frame",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "木の背負いこ",
+        "en": "Wooden pack frame",
+        "zh-CN": "木背架"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「木の背負いこ」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Wooden pack frame, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「木背架」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6212618350982666,
+        0.643486738204956,
+        0.9730629324913025
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_pack_frame",
+          "names": {
+            "ja": "木の背負いこ",
+            "en": "Wooden pack frame",
+            "zh-CN": "木背架"
+          },
+          "dimensions_m": [
+            0.6212618350982666,
+            0.643486738204956,
+            0.9730629324913025
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_046_CC0.zip",
+      "zip_bytes": 2365916,
+      "zip_sha256": "939cf4c466cf3dfebcf1760a6e10559ac2334e74c44c06b6b5b70a208df4a799",
+      "preview_file": "previews/BM_046_preview.png",
+      "preview_sha256": "b4fe76e787f4875fbe86559b808ef565b0d8fc066dc82c58ab639212acbf7325",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_046_CC0.zip"
+    },
+    {
+      "asset_id": "BM_047",
+      "source_model_id": "v2_backpack_library",
+      "source_model_ids": [
+        "v2_backpack_library"
+      ],
+      "geometry_family": "v2_backpack_library",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "背負う形の携帯書庫",
+        "en": "Backpack travelling library",
+        "zh-CN": "背负式便携书库"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「背負う形の携帯書庫」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Backpack travelling library, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「背负式便携书库」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6940000057220459,
+        0.6420179009437561,
+        1.0440000295639038
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_backpack_library",
+          "names": {
+            "ja": "背負う形の携帯書庫",
+            "en": "Backpack travelling library",
+            "zh-CN": "背负式便携书库"
+          },
+          "dimensions_m": [
+            0.6940000057220459,
+            0.6420179009437561,
+            1.0440000295639038
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_047_CC0.zip",
+      "zip_bytes": 3869985,
+      "zip_sha256": "c6684956501419ae60aa0143c2630748dcccba8064ffb610bc89d61f61b33b2f",
+      "preview_file": "previews/BM_047_preview.png",
+      "preview_sha256": "185fa22c3ca0aa7f3e029e51cf3d0d5522b776c664b9af90fa3b4b9e043695fa",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_047_CC0.zip"
+    },
+    {
+      "asset_id": "BM_048",
+      "source_model_id": "v2_resting_donkey",
+      "source_model_ids": [
+        "v2_resting_donkey"
+      ],
+      "geometry_family": "v2_resting_donkey",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "市の傍らに佇むロバ",
+        "en": "Resting market donkey",
+        "zh-CN": "市集旁休息的驴"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「市の傍らに佇むロバ」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Resting market donkey, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「市集旁休息的驴」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.916928231716156,
+        1.8539801836013794,
+        2.0270001888275146
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_resting_donkey",
+          "names": {
+            "ja": "市の傍らに佇むロバ",
+            "en": "Resting market donkey",
+            "zh-CN": "市集旁休息的驴"
+          },
+          "dimensions_m": [
+            0.916928231716156,
+            1.8539801836013794,
+            2.0270001888275146
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_048_CC0.zip",
+      "zip_bytes": 4394859,
+      "zip_sha256": "2446b0e7d545be95bdfbfc07885faeb82b10c434c9fd4a3ef1cb880064c0c86b",
+      "preview_file": "previews/BM_048_preview.png",
+      "preview_sha256": "67e5d0514056a3688153dc221d558a7e13acd250347cbe404eab06b8a81ae11c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_048_CC0.zip"
+    },
+    {
+      "asset_id": "BM_049",
+      "source_model_id": "v2_water_bucket",
+      "source_model_ids": [
+        "v2_water_bucket"
+      ],
+      "geometry_family": "v2_water_bucket",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "ロバの水桶",
+        "en": "Donkey water bucket",
+        "zh-CN": "驴用水桶"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「ロバの水桶」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Donkey water bucket, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「驴用水桶」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.328000009059906,
+        0.31200000643730164,
+        0.32399454712867737
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_water_bucket",
+          "names": {
+            "ja": "ロバの水桶",
+            "en": "Donkey water bucket",
+            "zh-CN": "驴用水桶"
+          },
+          "dimensions_m": [
+            0.328000009059906,
+            0.31200000643730164,
+            0.32399454712867737
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_049_CC0.zip",
+      "zip_bytes": 1113122,
+      "zip_sha256": "9e1ec9b2db58b1ac067947980a9d77b3b3abab15dbddb14dfdb2aeebbb40bc50",
+      "preview_file": "previews/BM_049_preview.png",
+      "preview_sha256": "444f95a8a2ba9d98f767cf01a61c283bb52dd648e28103bd6290c837fc9ca32b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_049_CC0.zip"
+    },
+    {
+      "asset_id": "BM_050",
+      "source_model_id": "v2_feed_bag",
+      "source_model_ids": [
+        "v2_feed_bag"
+      ],
+      "geometry_family": "v2_feed_bag",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "飼葉の入った袋",
+        "en": "Filled feed bag",
+        "zh-CN": "装饲料的袋子"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「飼葉の入った袋」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Filled feed bag, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「装饲料的袋子」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.30000001192092896,
+        0.23999999463558197,
+        0.38494259119033813
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_feed_bag",
+          "names": {
+            "ja": "飼葉の入った袋",
+            "en": "Filled feed bag",
+            "zh-CN": "装饲料的袋子"
+          },
+          "dimensions_m": [
+            0.30000001192092896,
+            0.23999999463558197,
+            0.38494259119033813
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_050_CC0.zip",
+      "zip_bytes": 1310898,
+      "zip_sha256": "da5e2565a58546f9f9a0cc178c3ee11dab9250efa4a66a98edc85f9797bc28af",
+      "preview_file": "previews/BM_050_preview.png",
+      "preview_sha256": "c3bb14d751b0ede8cf89db28e6d54587704865598c8d1848f58ef626727b34d1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_050_CC0.zip"
+    },
+    {
+      "asset_id": "BM_051",
+      "source_model_id": "v2_wheel_chock",
+      "source_model_ids": [
+        "v2_wheel_chock"
+      ],
+      "geometry_family": "v2_wheel_chock",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "荷車の車止め",
+        "en": "Cart wheel chock",
+        "zh-CN": "车轮止动块"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「荷車の車止め」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Cart wheel chock, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「车轮止动块」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2564641237258911,
+        0.12999999523162842,
+        0.10499999672174454
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_wheel_chock",
+          "names": {
+            "ja": "荷車の車止め",
+            "en": "Cart wheel chock",
+            "zh-CN": "车轮止动块"
+          },
+          "dimensions_m": [
+            0.2564641237258911,
+            0.12999999523162842,
+            0.10499999672174454
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_051_CC0.zip",
+      "zip_bytes": 978896,
+      "zip_sha256": "28b82cc84d8d09f373e794ccc791c19769e7dfdd548e2fb40dca4b216793aa0b",
+      "preview_file": "previews/BM_051_preview.png",
+      "preview_sha256": "213e483256e7946ae26493612f8dda8ae56475424c442735220511218517aa62",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_051_CC0.zip"
+    },
+    {
+      "asset_id": "BM_052",
+      "source_model_id": "v2_loose_rope",
+      "source_model_ids": [
+        "v2_loose_rope"
+      ],
+      "geometry_family": "v2_loose_rope",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "解いた荷縄",
+        "en": "Uncoiled cargo rope",
+        "zh-CN": "解开的捆货绳"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「解いた荷縄」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Uncoiled cargo rope, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「解开的捆货绳」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.5331175327301025,
+        0.20195724070072174,
+        0.01599999889731407
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_loose_rope",
+          "names": {
+            "ja": "解いた荷縄",
+            "en": "Uncoiled cargo rope",
+            "zh-CN": "解开的捆货绳"
+          },
+          "dimensions_m": [
+            0.5331175327301025,
+            0.20195724070072174,
+            0.01599999889731407
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_052_CC0.zip",
+      "zip_bytes": 875273,
+      "zip_sha256": "3c0af75886a316ac3b81fda8e762e72b23a923e9acd1db961d60aa4eafc011e1",
+      "preview_file": "previews/BM_052_preview.png",
+      "preview_sha256": "b97719be4cf6455a749d7f3b5a4e8d7054785a393dae7bb6fe4c0c3de061bb4d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_052_CC0.zip"
+    },
+    {
+      "asset_id": "BM_053",
+      "source_model_id": "v2_raincloth_roll",
+      "source_model_ids": [
+        "v2_raincloth_roll"
+      ],
+      "geometry_family": "v2_raincloth_roll",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻いた雨よけ布",
+        "en": "Rolled rain cover",
+        "zh-CN": "卷起的防雨布"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「巻いた雨よけ布」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Rolled rain cover, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「卷起的防雨布」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.6074000000953674,
+        0.1812172383069992,
+        0.16790500283241272
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_raincloth_roll",
+          "names": {
+            "ja": "巻いた雨よけ布",
+            "en": "Rolled rain cover",
+            "zh-CN": "卷起的防雨布"
+          },
+          "dimensions_m": [
+            0.6074000000953674,
+            0.1812172383069992,
+            0.16790500283241272
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_053_CC0.zip",
+      "zip_bytes": 1601818,
+      "zip_sha256": "7297632abf4c274eeba8130e4e326c6616edef187f8127228bf59bb67e69db4d",
+      "preview_file": "previews/BM_053_preview.png",
+      "preview_sha256": "6540161825763f32276d6a6cd4dccbc83c10ab962115617da0496b0a026907ef",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_053_CC0.zip"
+    },
+    {
+      "asset_id": "BM_054",
+      "source_model_id": "v2_tea_cup",
+      "source_model_ids": [
+        "v2_tea_cup"
+      ],
+      "geometry_family": "v2_tea_cup",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "飲みかけの茶",
+        "en": "Unfinished cup of tea",
+        "zh-CN": "喝了一半的茶"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「飲みかけの茶」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Unfinished cup of tea, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「喝了一半的茶」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.24095000326633453,
+        0.18290001153945923,
+        0.23299038410186768
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_tea_cup",
+          "names": {
+            "ja": "飲みかけの茶",
+            "en": "Unfinished cup of tea",
+            "zh-CN": "喝了一半的茶"
+          },
+          "dimensions_m": [
+            0.24095000326633453,
+            0.18290001153945923,
+            0.23299038410186768
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_054_CC0.zip",
+      "zip_bytes": 908636,
+      "zip_sha256": "3577d9613d155befd820142199c183e8cc941a6e5702b1e76f5d3294be59628f",
+      "preview_file": "previews/BM_054_preview.png",
+      "preview_sha256": "1a18da0cea5cecd9e19abd74239e7067d157d0b61e29b35a6af7c454eb5d0c00",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_054_CC0.zip"
+    },
+    {
+      "asset_id": "BM_055",
+      "source_model_id": "v2_bitten_bread",
+      "source_model_ids": [
+        "v2_bitten_bread"
+      ],
+      "geometry_family": "v2_bitten_bread",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "食べかけのパン",
+        "en": "Bitten bread",
+        "zh-CN": "咬过的面包"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「食べかけのパン」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Bitten bread, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「咬过的面包」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2770000100135803,
+        0.1383296400308609,
+        0.09300000220537186
+      ],
+      "versions": [
+        {
+          "source_model_id": "v2_bitten_bread",
+          "names": {
+            "ja": "食べかけのパン",
+            "en": "Bitten bread",
+            "zh-CN": "咬过的面包"
+          },
+          "dimensions_m": [
+            0.2770000100135803,
+            0.1383296400308609,
+            0.09300000220537186
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_055_CC0.zip",
+      "zip_bytes": 840438,
+      "zip_sha256": "e8686f308faef1f44cc408cd75ddffe023d44f3abbf1d092d5d90f1139301bfd",
+      "preview_file": "previews/BM_055_preview.png",
+      "preview_sha256": "126575f4353c55f6d83d1c9ca76105fb9d2f329f6cb696a5a37282005ffc06e3",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_055_CC0.zip"
+    },
+    {
+      "asset_id": "BM_056",
+      "source_model_id": "v3_tied_letters",
+      "source_model_ids": [
+        "v3_tied_letters"
+      ],
+      "geometry_family": "v3_letter_bundle",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "束ねた古い手紙",
+        "en": "Bundle of old letters",
+        "zh-CN": "捆扎旧信"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「束ねた古い手紙」。従来の市場で制作した素材を初配布します。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Bundle of old letters, for the six-stall bridge market. First distribution of an earlier market design. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「捆扎旧信」。首次分发此前制作的市集素材。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2696878910064697,
+        0.19211837649345398,
+        0.05057545378804207
+      ],
+      "versions": [
+        {
+          "source_model_id": "v3_tied_letters",
+          "names": {
+            "ja": "束ねた古い手紙",
+            "en": "Bundle of old letters",
+            "zh-CN": "捆扎旧信"
+          },
+          "dimensions_m": [
+            0.2696878910064697,
+            0.19211837649345398,
+            0.05057545378804207
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_056_CC0.zip",
+      "zip_bytes": 1122157,
+      "zip_sha256": "9a7a7a10cd9ac50202d753a9e975b6778b25350393cb46a61a2809ebeab81a74",
+      "preview_file": "previews/BM_056_preview.png",
+      "preview_sha256": "1bdadc23271e70a77291416334cf59b1243aa380c8083f946a9bf4577680c005",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_056_CC0.zip"
+    },
+    {
+      "asset_id": "BM_057",
+      "source_model_id": "v3_rolled_map",
+      "source_model_ids": [
+        "v3_rolled_map",
+        "v3_rolled_painting"
+      ],
+      "geometry_family": "v3_rolled_art",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻き上げた古地図",
+        "en": "Rolled old map",
+        "zh-CN": "卷起的旧地图"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「巻き上げた古地図」。従来の市場で制作した素材を初配布します。収録モデルは2版。派生は同じ配布単位にまとめています。",
+        "en": "Rolled old map, for the six-stall bridge market. First distribution of an earlier market design. Includes 2 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「卷起的旧地图」。首次分发此前制作的市集素材。包含2个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.275982141494751,
+        0.30169999599456787,
+        0.09228968620300293
+      ],
+      "versions": [
+        {
+          "source_model_id": "v3_rolled_map",
+          "names": {
+            "ja": "巻き上げた古地図",
+            "en": "Rolled old map",
+            "zh-CN": "卷起的旧地图"
+          },
+          "dimensions_m": [
+            0.275982141494751,
+            0.30169999599456787,
+            0.09228968620300293
+          ],
+          "status": "retained_legacy"
+        },
+        {
+          "source_model_id": "v3_rolled_painting",
+          "names": {
+            "ja": "巻き上げた絵画",
+            "en": "Rolled painting",
+            "zh-CN": "卷起的画"
+          },
+          "dimensions_m": [
+            0.2708050608634949,
+            0.3659999966621399,
+            0.08206690847873688
+          ],
+          "status": "retained_legacy"
+        }
+      ],
+      "zip_file": "BM_057_CC0.zip",
+      "zip_bytes": 3277599,
+      "zip_sha256": "b4e865d5f083392b3bb5485fd83b0aded6275c9f926c2c9f9a899dae13b8cd9f",
+      "preview_file": "previews/BM_057_preview.png",
+      "preview_sha256": "272ce30ffe93eca20056a7d7820083f429fefbb30dd993169d15c111917c90d6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_057_CC0.zip"
+    },
+    {
+      "asset_id": "BM_058",
+      "source_model_id": "BMV4_001",
+      "source_model_ids": [
+        "BMV4_001"
+      ],
+      "geometry_family": "BMV4_001",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "組み木の陳列台",
+        "en": "Planked trestle counter",
+        "zh-CN": "木板支架柜台"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「組み木の陳列台」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Planked trestle counter, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「木板支架柜台」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        2.7920000553131104,
+        1.100000023841858,
+        0.8482643365859985
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_001",
+          "names": {
+            "ja": "組み木の陳列台",
+            "en": "Planked trestle counter",
+            "zh-CN": "木板支架柜台"
+          },
+          "dimensions_m": [
+            2.7920000553131104,
+            1.100000023841858,
+            0.8482643365859985
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_058_CC0.zip",
+      "zip_bytes": 1106466,
+      "zip_sha256": "8294bf8a0372f34abf1f6235e7f145cc3feacfbfae35ec44f6b461947ff3db6c",
+      "preview_file": "previews/BM_058_preview.png",
+      "preview_sha256": "720b4a857534ce68fcfc4ac2ad53379e8c7c10ae35739e4c486fde012924a82c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_058_CC0.zip"
+    },
+    {
+      "asset_id": "BM_059",
+      "source_model_id": "BMV4_002",
+      "source_model_ids": [
+        "BMV4_002"
+      ],
+      "geometry_family": "BMV4_002",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "縞布の市庇",
+        "en": "Striped canvas awning",
+        "zh-CN": "条纹帆布棚"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「縞布の市庇」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Striped canvas awning, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「条纹帆布棚」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        3.200000047683716,
+        2.0059356689453125,
+        2.723904848098755
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_002",
+          "names": {
+            "ja": "縞布の市庇",
+            "en": "Striped canvas awning",
+            "zh-CN": "条纹帆布棚"
+          },
+          "dimensions_m": [
+            3.200000047683716,
+            2.0059356689453125,
+            2.723904848098755
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_059_CC0.zip",
+      "zip_bytes": 1316778,
+      "zip_sha256": "d2a90fae8b5247d2edaae25afe28b68a877d4fe538e8e8368dbbcf3bc06cdb3c",
+      "preview_file": "previews/BM_059_preview.png",
+      "preview_sha256": "77252df66e915c4774911c4332d8d2fd9fdf5d707a13f33c066388dc448f2c0a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_059_CC0.zip"
+    },
+    {
+      "asset_id": "BM_060",
+      "source_model_id": "BMV4_003",
+      "source_model_ids": [
+        "BMV4_003"
+      ],
+      "geometry_family": "BMV4_003",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "編み籠",
+        "en": "Woven basket",
+        "zh-CN": "编织篮"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「編み籠」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Woven basket, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「编织篮」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.7147955298423767,
+        0.6600000262260437,
+        0.4359999895095825
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_003",
+          "names": {
+            "ja": "編み籠",
+            "en": "Woven basket",
+            "zh-CN": "编织篮"
+          },
+          "dimensions_m": [
+            0.7147955298423767,
+            0.6600000262260437,
+            0.4359999895095825
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_060_CC0.zip",
+      "zip_bytes": 1287674,
+      "zip_sha256": "a2084d07f2da3f1c36acba48b80596afa515091404c58e23f57f82b1d92a935e",
+      "preview_file": "previews/BM_060_preview.png",
+      "preview_sha256": "2fb5a9ac09ef82d0e140eb47dc8bac0738be8b1cc49a76eddbfcce0926b09b13",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_060_CC0.zip"
+    },
+    {
+      "asset_id": "BM_061",
+      "source_model_id": "BMV4_004",
+      "source_model_ids": [
+        "BMV4_004"
+      ],
+      "geometry_family": "BMV4_004",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "葉付きキャベツ",
+        "en": "Leafy cabbage",
+        "zh-CN": "带叶卷心菜"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「葉付きキャベツ」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Leafy cabbage, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「带叶卷心菜」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.33245348930358887,
+        0.33314022421836853,
+        0.29975005984306335
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_004",
+          "names": {
+            "ja": "葉付きキャベツ",
+            "en": "Leafy cabbage",
+            "zh-CN": "带叶卷心菜"
+          },
+          "dimensions_m": [
+            0.33245348930358887,
+            0.33314022421836853,
+            0.29975005984306335
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_061_CC0.zip",
+      "zip_bytes": 1509893,
+      "zip_sha256": "b9e1e87c3909fe66056df2ac187a24cfa5affde48b4393680187825c350af673",
+      "preview_file": "previews/BM_061_preview.png",
+      "preview_sha256": "eef331eb7ba00b8b921f1025691109c60dc676d6f5e8925acc0c6fd53db21e38",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_061_CC0.zip"
+    },
+    {
+      "asset_id": "BM_062",
+      "source_model_id": "BMV4_005",
+      "source_model_ids": [
+        "BMV4_005"
+      ],
+      "geometry_family": "BMV4_005",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "葉付き人参",
+        "en": "Carrot with greens",
+        "zh-CN": "带叶胡萝卜"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「葉付き人参」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Carrot with greens, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「带叶胡萝卜」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.16523441672325134,
+        0.13192984461784363,
+        0.3879999816417694
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_005",
+          "names": {
+            "ja": "葉付き人参",
+            "en": "Carrot with greens",
+            "zh-CN": "带叶胡萝卜"
+          },
+          "dimensions_m": [
+            0.16523441672325134,
+            0.13192984461784363,
+            0.3879999816417694
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_062_CC0.zip",
+      "zip_bytes": 618725,
+      "zip_sha256": "9ef28470b7e28733d2590183ba07ddd753f370adb4ffea93451d28a637fc7c6e",
+      "preview_file": "previews/BM_062_preview.png",
+      "preview_sha256": "c05fcfcaac1b3ad1b9649eec5e29c6710baba0f91ed84a9e925699868f527c47",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_062_CC0.zip"
+    },
+    {
+      "asset_id": "BM_063",
+      "source_model_id": "BMV4_006",
+      "source_model_ids": [
+        "BMV4_006"
+      ],
+      "geometry_family": "BMV4_006",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "玉葱",
+        "en": "Onion",
+        "zh-CN": "洋葱"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「玉葱」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Onion, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「洋葱」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.15000005066394806,
+        0.15000002086162567,
+        0.19366510212421417
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_006",
+          "names": {
+            "ja": "玉葱",
+            "en": "Onion",
+            "zh-CN": "洋葱"
+          },
+          "dimensions_m": [
+            0.15000005066394806,
+            0.15000002086162567,
+            0.19366510212421417
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_063_CC0.zip",
+      "zip_bytes": 1126317,
+      "zip_sha256": "0560c8297097708c478511856feace24d5dd87f62341be33209bd5ff1e3b6cd7",
+      "preview_file": "previews/BM_063_preview.png",
+      "preview_sha256": "68df66e358c9c5701a3bf7971b3a772b893be786bd37c2cc3e7a42092e8ef695",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_063_CC0.zip"
+    },
+    {
+      "asset_id": "BM_064",
+      "source_model_id": "BMV4_007",
+      "source_model_ids": [
+        "BMV4_007"
+      ],
+      "geometry_family": "BMV4_007",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "装身具の陳列掛け",
+        "en": "Jewellery display stand",
+        "zh-CN": "首饰展示架"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「装身具の陳列掛け」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Jewellery display stand, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「首饰展示架」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.699999988079071,
+        0.3199999928474426,
+        0.7400000095367432
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_007",
+          "names": {
+            "ja": "装身具の陳列掛け",
+            "en": "Jewellery display stand",
+            "zh-CN": "首饰展示架"
+          },
+          "dimensions_m": [
+            0.699999988079071,
+            0.3199999928474426,
+            0.7400000095367432
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_064_CC0.zip",
+      "zip_bytes": 1095120,
+      "zip_sha256": "1fde932408c7675f65985a0690b3350fcb7f9b1f80a38cede3fb0c0f6ef3c4e7",
+      "preview_file": "previews/BM_064_preview.png",
+      "preview_sha256": "03c82df5566e8d1d86e2064ccf662ceb17b747c104ae57919f726acca882c538",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_064_CC0.zip"
+    },
+    {
+      "asset_id": "BM_065",
+      "source_model_id": "BMV4_008",
+      "source_model_ids": [
+        "BMV4_008"
+      ],
+      "geometry_family": "BMV4_008",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "宝石の首飾り",
+        "en": "Gemstone necklace",
+        "zh-CN": "宝石项链"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「宝石の首飾り」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Gemstone necklace, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「宝石项链」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.20600000023841858,
+        0.01600000262260437,
+        0.300493448972702
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_008",
+          "names": {
+            "ja": "宝石の首飾り",
+            "en": "Gemstone necklace",
+            "zh-CN": "宝石项链"
+          },
+          "dimensions_m": [
+            0.20600000023841858,
+            0.01600000262260437,
+            0.300493448972702
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_065_CC0.zip",
+      "zip_bytes": 873859,
+      "zip_sha256": "f54d9f6bdb75d4ff1e75eb0ad63bf34ff28ddc6ed010ddbcbf0f72526cad0965",
+      "preview_file": "previews/BM_065_preview.png",
+      "preview_sha256": "d61aaa70acf960bfed55331a78d73284c921a94de25fadfe7ad9d9c42ed841de",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_065_CC0.zip"
+    },
+    {
+      "asset_id": "BM_066",
+      "source_model_id": "BMV4_009",
+      "source_model_ids": [
+        "BMV4_009"
+      ],
+      "geometry_family": "BMV4_009",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "飾り櫛",
+        "en": "Decorative comb",
+        "zh-CN": "装饰梳"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「飾り櫛」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Decorative comb, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「装饰梳」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.18474571406841278,
+        0.020000003278255463,
+        0.10099999606609344
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_009",
+          "names": {
+            "ja": "飾り櫛",
+            "en": "Decorative comb",
+            "zh-CN": "装饰梳"
+          },
+          "dimensions_m": [
+            0.18474571406841278,
+            0.020000003278255463,
+            0.10099999606609344
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_066_CC0.zip",
+      "zip_bytes": 1042936,
+      "zip_sha256": "6ecba9c213cb65f0d3c30401d2726861f6a26321a9c8c097e7ec3b1ee442614b",
+      "preview_file": "previews/BM_066_preview.png",
+      "preview_sha256": "6d474346bc3fdca3092b8d625a3992802d7859316496513df15d7a4f15cda958",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_066_CC0.zip"
+    },
+    {
+      "asset_id": "BM_067",
+      "source_model_id": "BMV4_010",
+      "source_model_ids": [
+        "BMV4_010"
+      ],
+      "geometry_family": "BMV4_010",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "花の髪留め",
+        "en": "Flower hairpin",
+        "zh-CN": "花形发簪"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「花の髪留め」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Flower hairpin, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「花形发簪」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.0812254399061203,
+        0.021000001579523087,
+        0.21377640962600708
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_010",
+          "names": {
+            "ja": "花の髪留め",
+            "en": "Flower hairpin",
+            "zh-CN": "花形发簪"
+          },
+          "dimensions_m": [
+            0.0812254399061203,
+            0.021000001579523087,
+            0.21377640962600708
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_067_CC0.zip",
+      "zip_bytes": 859190,
+      "zip_sha256": "d316a70cd4e5c4b0e8eff1d79248d8b445bbc86e60593034bc066170f048dcc7",
+      "preview_file": "previews/BM_067_preview.png",
+      "preview_sha256": "cb77f29ca992a12e13dbefe961e8c0ad8483f157a703b2089c0e244149ca6994",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_067_CC0.zip"
+    },
+    {
+      "asset_id": "BM_068",
+      "source_model_id": "BMV4_011",
+      "source_model_ids": [
+        "BMV4_011"
+      ],
+      "geometry_family": "BMV4_011",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "炭火の串焼き台",
+        "en": "Charcoal skewer grill",
+        "zh-CN": "炭火烤串炉"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「炭火の串焼き台」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Charcoal skewer grill, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「炭火烤串炉」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        1.315998911857605,
+        0.625,
+        0.8570001125335693
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_011",
+          "names": {
+            "ja": "炭火の串焼き台",
+            "en": "Charcoal skewer grill",
+            "zh-CN": "炭火烤串炉"
+          },
+          "dimensions_m": [
+            1.315998911857605,
+            0.625,
+            0.8570001125335693
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_068_CC0.zip",
+      "zip_bytes": 943298,
+      "zip_sha256": "5cdd501709543cf61a6a31eec8015309bb5d1c81fd7bb912d5b5d66b26281ffa",
+      "preview_file": "previews/BM_068_preview.png",
+      "preview_sha256": "6421896c62785b7b83eeb36975f041dcd37493e4506e06769216fac940346691",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_068_CC0.zip"
+    },
+    {
+      "asset_id": "BM_069",
+      "source_model_id": "BMV4_012",
+      "source_model_ids": [
+        "BMV4_012"
+      ],
+      "geometry_family": "BMV4_012",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "肉と野菜の串焼き",
+        "en": "Meat and vegetable skewer",
+        "zh-CN": "肉蔬串"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「肉と野菜の串焼き」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Meat and vegetable skewer, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「肉蔬串」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.49000000953674316,
+        0.054999999701976776,
+        0.05199999734759331
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_012",
+          "names": {
+            "ja": "肉と野菜の串焼き",
+            "en": "Meat and vegetable skewer",
+            "zh-CN": "肉蔬串"
+          },
+          "dimensions_m": [
+            0.49000000953674316,
+            0.054999999701976776,
+            0.05199999734759331
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_069_CC0.zip",
+      "zip_bytes": 850190,
+      "zip_sha256": "d55bae6edd9a923386f697a0f88002700a320b324abac243202bcce5c6499426",
+      "preview_file": "previews/BM_069_preview.png",
+      "preview_sha256": "67eac3e0a7d585c4f33c3ad57de10fd12a2d788e9dae9395f88955b616f5bd80",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_069_CC0.zip"
+    },
+    {
+      "asset_id": "BM_070",
+      "source_model_id": "BMV4_013",
+      "source_model_ids": [
+        "BMV4_013"
+      ],
+      "geometry_family": "BMV4_013",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "真鍮の湯沸かし",
+        "en": "Brass kettle",
+        "zh-CN": "黄铜水壶"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「真鍮の湯沸かし」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Brass kettle, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「黄铜水壶」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.42466574907302856,
+        0.38094016909599304,
+        0.43199998140335083
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_013",
+          "names": {
+            "ja": "真鍮の湯沸かし",
+            "en": "Brass kettle",
+            "zh-CN": "黄铜水壶"
+          },
+          "dimensions_m": [
+            0.42466574907302856,
+            0.38094016909599304,
+            0.43199998140335083
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_070_CC0.zip",
+      "zip_bytes": 1139385,
+      "zip_sha256": "c7dd5801992fb7d0ccb6f4a14266922fbc9f43b7861bc20477d9af3e92f345cc",
+      "preview_file": "previews/BM_070_preview.png",
+      "preview_sha256": "ff6fc5837929431c2e7b9da6b52939cb3ea8c9f0544f0cd04094e725f9cfb7a8",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_070_CC0.zip"
+    },
+    {
+      "asset_id": "BM_071",
+      "source_model_id": "BMV4_014",
+      "source_model_ids": [
+        "BMV4_014"
+      ],
+      "geometry_family": "BMV4_014",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "欄干の雀",
+        "en": "Parapet sparrow",
+        "zh-CN": "栏杆麻雀"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「欄干の雀」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Parapet sparrow, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「栏杆麻雀」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.07800000160932541,
+        0.191918283700943,
+        0.1454349160194397
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_014",
+          "names": {
+            "ja": "欄干の雀",
+            "en": "Parapet sparrow",
+            "zh-CN": "栏杆麻雀"
+          },
+          "dimensions_m": [
+            0.07800000160932541,
+            0.191918283700943,
+            0.1454349160194397
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_071_CC0.zip",
+      "zip_bytes": 674421,
+      "zip_sha256": "180a52d73e69800042a8602aaa51b2a66f76a5825b35e173996fab16b239a958",
+      "preview_file": "previews/BM_071_preview.png",
+      "preview_sha256": "1ad2ad8dc4a73e980eedf13c86cfa4ad2098f905ddbd64c033cf1038d11b2717",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_071_CC0.zip"
+    },
+    {
+      "asset_id": "BM_072",
+      "source_model_id": "BMV4_015",
+      "source_model_ids": [
+        "BMV4_015"
+      ],
+      "geometry_family": "BMV4_015",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "木の給仕皿",
+        "en": "Wooden serving platter",
+        "zh-CN": "木制餐盘"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「木の給仕皿」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Wooden serving platter, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「木制餐盘」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.5400000214576721,
+        0.5400000214576721,
+        0.054999999701976776
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_015",
+          "names": {
+            "ja": "木の給仕皿",
+            "en": "Wooden serving platter",
+            "zh-CN": "木制餐盘"
+          },
+          "dimensions_m": [
+            0.5400000214576721,
+            0.5400000214576721,
+            0.054999999701976776
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_072_CC0.zip",
+      "zip_bytes": 1054071,
+      "zip_sha256": "d198fae0bb11cfdec65542e80b0c965caea1e53f0c11e55a133adb9dc15aa469",
+      "preview_file": "previews/BM_072_preview.png",
+      "preview_sha256": "2868a338b67a6f97d959f616ec581f2fccb810bd2e004f638aec6bdbb696884a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_072_CC0.zip"
+    },
+    {
+      "asset_id": "BM_073",
+      "source_model_id": "BMV4_016",
+      "source_model_ids": [
+        "BMV4_016"
+      ],
+      "geometry_family": "BMV4_016",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "蔕付きトマト",
+        "en": "Tomato with stalk",
+        "zh-CN": "带蒂番茄"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「蔕付きトマト」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Tomato with stalk, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「带蒂番茄」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.13200002908706665,
+        0.12000001221895218,
+        0.13100968301296234
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_016",
+          "names": {
+            "ja": "蔕付きトマト",
+            "en": "Tomato with stalk",
+            "zh-CN": "带蒂番茄"
+          },
+          "dimensions_m": [
+            0.13200002908706665,
+            0.12000001221895218,
+            0.13100968301296234
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_073_CC0.zip",
+      "zip_bytes": 616445,
+      "zip_sha256": "027a72a94e5ca05e92a73ada0b628c7b2131f4635e660bec565723ceb81a386a",
+      "preview_file": "previews/BM_073_preview.png",
+      "preview_sha256": "05962fd492ca83051a897c45956a952f6247619a946a8e691269a754418ea0da",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_073_CC0.zip"
+    },
+    {
+      "asset_id": "BM_074",
+      "source_model_id": "BMV4_017",
+      "source_model_ids": [
+        "BMV4_017"
+      ],
+      "geometry_family": "BMV4_017",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "肋のある南瓜",
+        "en": "Ribbed pumpkin",
+        "zh-CN": "棱纹南瓜"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「肋のある南瓜」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Ribbed pumpkin, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「棱纹南瓜」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.2900000214576721,
+        0.28216904401779175,
+        0.25734981894493103
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_017",
+          "names": {
+            "ja": "肋のある南瓜",
+            "en": "Ribbed pumpkin",
+            "zh-CN": "棱纹南瓜"
+          },
+          "dimensions_m": [
+            0.2900000214576721,
+            0.28216904401779175,
+            0.25734981894493103
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_074_CC0.zip",
+      "zip_bytes": 860089,
+      "zip_sha256": "4e7ac5b4a4b87a4609de817e299b612e7ecf56da54ac2e3da78b5f24e6c39e2d",
+      "preview_file": "previews/BM_074_preview.png",
+      "preview_sha256": "a64fe8d4e3893893d021bd6b55370f8491a6579a8773c103827a08709e158040",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_074_CC0.zip"
+    },
+    {
+      "asset_id": "BM_075",
+      "source_model_id": "BMV4_018",
+      "source_model_ids": [
+        "BMV4_018"
+      ],
+      "geometry_family": "BMV4_018",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "襞付き茸",
+        "en": "Gilled mushroom",
+        "zh-CN": "有菌褶蘑菇"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「襞付き茸」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Gilled mushroom, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「有菌褶蘑菇」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.15000000596046448,
+        0.15000000596046448,
+        0.13500000536441803
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_018",
+          "names": {
+            "ja": "襞付き茸",
+            "en": "Gilled mushroom",
+            "zh-CN": "有菌褶蘑菇"
+          },
+          "dimensions_m": [
+            0.15000000596046448,
+            0.15000000596046448,
+            0.13500000536441803
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_075_CC0.zip",
+      "zip_bytes": 573476,
+      "zip_sha256": "cac4d34dc28a40fb7120dd15146cc3813f4017e2fef9ceeeab084a4c23b70e71",
+      "preview_file": "previews/BM_075_preview.png",
+      "preview_sha256": "06a89ba6a7cacc1d95723ee013136e95b7e1f416f078a8166a3f0fdfde167e03",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_075_CC0.zip"
+    },
+    {
+      "asset_id": "BM_076",
+      "source_model_id": "BMV4_019",
+      "source_model_ids": [
+        "BMV4_019"
+      ],
+      "geometry_family": "BMV4_019",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鍛鉄のフライパン",
+        "en": "Forged iron frying pan",
+        "zh-CN": "锻铁煎锅"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「鍛鉄のフライパン」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Forged iron frying pan, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「锻铁煎锅」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.7480000257492065,
+        0.41999998688697815,
+        0.08596513420343399
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_019",
+          "names": {
+            "ja": "鍛鉄のフライパン",
+            "en": "Forged iron frying pan",
+            "zh-CN": "锻铁煎锅"
+          },
+          "dimensions_m": [
+            0.7480000257492065,
+            0.41999998688697815,
+            0.08596513420343399
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_076_CC0.zip",
+      "zip_bytes": 1096058,
+      "zip_sha256": "3847ba1f40bf6bd82a31933381c325537f38b6000485c4a4316259a3d4b35000",
+      "preview_file": "previews/BM_076_preview.png",
+      "preview_sha256": "08d3e6f4f858c1b24276c17436a9403604e309b2201870c5438a5f5e41c438cb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_076_CC0.zip"
+    },
+    {
+      "asset_id": "BM_077",
+      "source_model_id": "BMV4_020",
+      "source_model_ids": [
+        "BMV4_020"
+      ],
+      "geometry_family": "BMV4_020",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鍛鉄のお玉",
+        "en": "Forged iron ladle",
+        "zh-CN": "锻铁汤勺"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「鍛鉄のお玉」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Forged iron ladle, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「锻铁汤勺」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.3871554136276245,
+        0.11999999731779099,
+        0.3577611446380615
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_020",
+          "names": {
+            "ja": "鍛鉄のお玉",
+            "en": "Forged iron ladle",
+            "zh-CN": "锻铁汤勺"
+          },
+          "dimensions_m": [
+            0.3871554136276245,
+            0.11999999731779099,
+            0.3577611446380615
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_077_CC0.zip",
+      "zip_bytes": 791852,
+      "zip_sha256": "e3fc4692e2a5754de2601053dc80ad84fe40603bdfd0496e6edb3a499b3d14a5",
+      "preview_file": "previews/BM_077_preview.png",
+      "preview_sha256": "025b5dfd341cb1d0cd469b1445e91b561d287278b09f56dfee2dbd734a4df70e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_077_CC0.zip"
+    },
+    {
+      "asset_id": "BM_078",
+      "source_model_id": "BMV4_021",
+      "source_model_ids": [
+        "BMV4_021"
+      ],
+      "geometry_family": "BMV4_021",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "日用品の吊り下げ棚",
+        "en": "Housewares hanging rack",
+        "zh-CN": "日用品挂架"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「日用品の吊り下げ棚」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Housewares hanging rack, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「日用品挂架」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        1.2400000095367432,
+        0.6000000238418579,
+        1.6500000953674316
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_021",
+          "names": {
+            "ja": "日用品の吊り下げ棚",
+            "en": "Housewares hanging rack",
+            "zh-CN": "日用品挂架"
+          },
+          "dimensions_m": [
+            1.2400000095367432,
+            0.6000000238418579,
+            1.6500000953674316
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_078_CC0.zip",
+      "zip_bytes": 1116670,
+      "zip_sha256": "c48af0fa87a19b26253efe607645ac05f74948730aab12bc53eccd50d5e5275b",
+      "preview_file": "previews/BM_078_preview.png",
+      "preview_sha256": "17128cd94d25afae057ead52006071bcb45a22911ab9d0dfdf8ded9376415853",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_078_CC0.zip"
+    },
+    {
+      "asset_id": "BM_079",
+      "source_model_id": "BMV4_022",
+      "source_model_ids": [
+        "BMV4_022"
+      ],
+      "geometry_family": "BMV4_022",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "仕切り付き品物箱",
+        "en": "Divided merchandise tray",
+        "zh-CN": "分格商品盘"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「仕切り付き品物箱」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Divided merchandise tray, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「分格商品盘」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.625,
+        0.4650000035762787,
+        0.10999999940395355
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_022",
+          "names": {
+            "ja": "仕切り付き品物箱",
+            "en": "Divided merchandise tray",
+            "zh-CN": "分格商品盘"
+          },
+          "dimensions_m": [
+            0.625,
+            0.4650000035762787,
+            0.10999999940395355
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_079_CC0.zip",
+      "zip_bytes": 981654,
+      "zip_sha256": "17194018f1ad6054921f99e52c2780dbc0f29120c563daa8a5a5704d685d26f4",
+      "preview_file": "previews/BM_079_preview.png",
+      "preview_sha256": "6c9b5ffb1177b71f89f2868e2acb544b5bd67f5d0ec81cfce39d7e64048b36fe",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_079_CC0.zip"
+    },
+    {
+      "asset_id": "BM_080",
+      "source_model_id": "BMV4_023",
+      "source_model_ids": [
+        "BMV4_023"
+      ],
+      "geometry_family": "BMV4_023",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "石付き腕輪",
+        "en": "Gem-set bracelet",
+        "zh-CN": "镶宝石手镯"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「石付き腕輪」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Gem-set bracelet, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「镶宝石手镯」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.09800000488758087,
+        0.09800000488758087,
+        0.016196152195334435
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_023",
+          "names": {
+            "ja": "石付き腕輪",
+            "en": "Gem-set bracelet",
+            "zh-CN": "镶宝石手镯"
+          },
+          "dimensions_m": [
+            0.09800000488758087,
+            0.09800000488758087,
+            0.016196152195334435
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_080_CC0.zip",
+      "zip_bytes": 849627,
+      "zip_sha256": "2875d2fd8e2de71f6b8991db31c20c388aef073d66013f3d7e3a260e327d14b2",
+      "preview_file": "previews/BM_080_preview.png",
+      "preview_sha256": "406b87529eb579e7b10da6db3235c3e0b94e861eed8b78fed26e91d49f7dd7b1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_080_CC0.zip"
+    },
+    {
+      "asset_id": "BM_081",
+      "source_model_id": "BMV4_024",
+      "source_model_ids": [
+        "BMV4_024"
+      ],
+      "geometry_family": "BMV4_024",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "雫形の耳飾り",
+        "en": "Teardrop earrings",
+        "zh-CN": "水滴耳饰"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「雫形の耳飾り」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Teardrop earrings, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「水滴耳饰」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.08799999952316284,
+        0.010000001639127731,
+        0.07149741053581238
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_024",
+          "names": {
+            "ja": "雫形の耳飾り",
+            "en": "Teardrop earrings",
+            "zh-CN": "水滴耳饰"
+          },
+          "dimensions_m": [
+            0.08799999952316284,
+            0.010000001639127731,
+            0.07149741053581238
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_081_CC0.zip",
+      "zip_bytes": 881576,
+      "zip_sha256": "0358894ae6207d8d02d549f43a357a215504a427266a2ca097c016163a21d42d",
+      "preview_file": "previews/BM_081_preview.png",
+      "preview_sha256": "6ca0b198b9e2287f8b61518bcfb010c55cd5eb634d537ef1ddd8d330e77c7797",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_081_CC0.zip"
+    },
+    {
+      "asset_id": "BM_082",
+      "source_model_id": "BMV4_025",
+      "source_model_ids": [
+        "BMV4_025"
+      ],
+      "geometry_family": "BMV4_025",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "吊り看板",
+        "en": "Hanging shop sign",
+        "zh-CN": "悬挂店招"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「吊り看板」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Hanging shop sign, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「悬挂店招」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        0.75,
+        0.08699999749660492,
+        0.4099999964237213
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_025",
+          "names": {
+            "ja": "吊り看板",
+            "en": "Hanging shop sign",
+            "zh-CN": "悬挂店招"
+          },
+          "dimensions_m": [
+            0.75,
+            0.08699999749660492,
+            0.4099999964237213
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_082_CC0.zip",
+      "zip_bytes": 1193100,
+      "zip_sha256": "2258f9865304d840b4fbaff9e5ad2a9a297734f8ff8fdafe7c94ab2cbd075694",
+      "preview_file": "previews/BM_082_preview.png",
+      "preview_sha256": "e45fa570ec6f71c46f56d527bd5b6b52a35c4ee0931ebe3e06169cc52ae9eb01",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_082_CC0.zip"
+    },
+    {
+      "asset_id": "BM_083",
+      "source_model_id": "BMV4_026",
+      "source_model_ids": [
+        "BMV4_026"
+      ],
+      "geometry_family": "BMV4_026",
+      "category": "bridge_market",
+      "theme": "BM",
+      "record_kind": "model",
+      "revision": "bridge-market-v4",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "屋台の前掛け布",
+        "en": "Stall valance cloth",
+        "zh-CN": "摊位垂布"
+      },
+      "descriptions": {
+        "ja": "橋の六軒市で使う「屋台の前掛け布」。今回制作した単品です。収録モデルは1版。派生は同じ配布単位にまとめています。",
+        "en": "Stall valance cloth, for the six-stall bridge market. A new design for this revision. Includes 1 model version(s); related variants share this record.",
+        "zh-CN": "桥上六摊市集的「摊位垂布」。本次新制作的单品。包含1个模型版本，衍生版本合并为一个分发条目。"
+      },
+      "dimensions_m": [
+        3.0002379417419434,
+        0.02197340875864029,
+        0.7300682067871094
+      ],
+      "versions": [
+        {
+          "source_model_id": "BMV4_026",
+          "names": {
+            "ja": "屋台の前掛け布",
+            "en": "Stall valance cloth",
+            "zh-CN": "摊位垂布"
+          },
+          "dimensions_m": [
+            3.0002379417419434,
+            0.02197340875864029,
+            0.7300682067871094
+          ],
+          "status": "new_design"
+        }
+      ],
+      "zip_file": "BM_083_CC0.zip",
+      "zip_bytes": 769658,
+      "zip_sha256": "819c38520684231fc75766e0d036d89ff327d7dffabefb13ed006dc5e5f15406",
+      "preview_file": "previews/BM_083_preview.png",
+      "preview_sha256": "646b390025e4f53682356af9f1a0d50c51a3bceed2fdd94291f3bad0792d9322",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_083_CC0.zip"
     }
   ]
 }

@@ -1,3 +1,21 @@
+# Six-stall bridge market — 83 CC0 distribution records
+
+従来の57形状系統（68版、派生11版を含む）と新作26点を収録。鍋と鋏の改修は新作数に含めません。総目録は436＋83＝519件です。色違い・配置数・完成シーンは追加計上しません。
+
+Includes 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Revisions of the pot and scissors are not new designs. Catalogue: 436 + 83 = 519 records. Colour variants, placements and the completed scene are not additional records.
+
+包含此前57个形状系列（68版，其中11版为衍生版本）及26件新设计。锅和剪刀的改修不计为新设计。总目录436＋83＝519条。颜色、摆放数量及完整场景不另计数。
+
+自作モデルと表示材質はCC0-1.0です。記事・作例画像・コード・完成配置シーンはCC0の範囲に含みません。単品BLENDとGLB、確認画像を収録。完成配置は配布しません。メートル単位、底面中央原点、静的装飾素材。リグや衝突形状は含まず、各ゲームエンジンでの性能保証はありません。
+
+Original models and display materials are CC0-1.0. Articles, example images, code and complete scene layouts are excluded. Includes individual BLEND and GLB files and a preview; no completed scene. Metres, bottom-centred origin, static decorative asset. No rig, collision mesh or game-engine performance guarantee.
+
+原创模型及显示材质采用CC0-1.0。文章、示例图片、代码和完整场景不在此范围内。包含单品BLEND、GLB和预览图，不分发完整场景。单位为米，原点位于底面中心，为静态装饰素材。不含骨骼、碰撞网格或游戏引擎性能保证。
+
+[日本語](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/bridge-market.md) · [English](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/bridge-market.en.md) · [简体中文](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/bridge-market.zh-CN.md)
+
+---
+
 # Fantasy farmhouse barn — 8 CC0 individual assets
 
 収穫を運び、選り分け、道具を戻す納屋の8単品を初公開します。再利用の樽・木箱・ランタンは重複計上せず、完成配置は含みません。
