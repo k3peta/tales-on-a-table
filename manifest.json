@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-armory",
-  "item_count": 428,
+  "release_tag": "v2026.10.19-farmhouse-barn",
+  "item_count": 436,
   "count_by_kind": {
-    "model": 397,
+    "model": 405,
     "derived_component": 2,
     "group": 26,
     "structural_variant": 3
@@ -18,9 +18,10 @@
     "captain_cabin": 26,
     "independent_furnishings": 6,
     "treasury": 17,
-    "armory": 71
+    "armory": 71,
+    "farmhouse_barn": 8
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -11921,6 +11922,246 @@
       "preview_file": "previews/WH_NEW_008_preview.png",
       "preview_sha256": "3675c503f21d42e39b4956261823f25332af3b394e7c58e641f6253374482c41",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_008_CC0.zip"
+    },
+    {
+      "asset_id": "BN_001",
+      "source_model_id": "BN001_hay_fork",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "干し草フォーク",
+        "en": "Hay fork",
+        "zh-CN": "干草叉"
+      },
+      "descriptions": {
+        "ja": "三本の曲がった鉄歯と木柄。干し草置場や厩舎の道具に。",
+        "en": "Three curved iron tines with a wooden handle, for hay storage or stable scenes.",
+        "zh-CN": "弯曲的三根铁齿与木柄，适合干草堆或马厩场景。"
+      },
+      "dimensions_m": [
+        0.2680000066757202,
+        0.09129735827445984,
+        1.5806126594543457
+      ],
+      "zip_file": "BN_001_CC0.zip",
+      "zip_bytes": 942465,
+      "zip_sha256": "a254472724bbc02eca36fca69ddd3311be3bdcb973f4123f3dfdbd5cf0de0f6a",
+      "preview_file": "previews/BN_001_preview.png",
+      "preview_sha256": "aae500b3a2329fc99b0b7a2125ebfba5102e744c513caeefbd4c9ea75bde412b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_001_CC0.zip"
+    },
+    {
+      "asset_id": "BN_002",
+      "source_model_id": "BN002_wooden_rake",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "木製レーキ",
+        "en": "Wooden rake",
+        "zh-CN": "木耙"
+      },
+      "descriptions": {
+        "ja": "横木に並ぶ木の歯。庭や畑、納屋の壁際へ置けます。",
+        "en": "Wooden teeth on a crossbar, for gardens, fields or a barn wall.",
+        "zh-CN": "横梁上排列木齿，可用于庭院、田地或谷仓墙边。"
+      },
+      "dimensions_m": [
+        0.6499999761581421,
+        0.10446450114250183,
+        1.55393648147583
+      ],
+      "zip_file": "BN_002_CC0.zip",
+      "zip_bytes": 2853647,
+      "zip_sha256": "4527447fa5620e38aab4f7e4bc0ffea8a80ec999df57265e2e4f58681e88c0b5",
+      "preview_file": "previews/BN_002_preview.png",
+      "preview_sha256": "8176dc97da45248e31b961b55832f7e6f2856d409ac3ba154c1b4fed1e9eb44d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_002_CC0.zip"
+    },
+    {
+      "asset_id": "BN_003",
+      "source_model_id": "BN003_grain_spade",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "穀物用の鋤",
+        "en": "Grain spade",
+        "zh-CN": "谷物铲"
+      },
+      "descriptions": {
+        "ja": "曲面の刃と、舌状の接合部を持つソケット。二本のリベットで留めています。",
+        "en": "Curved blade with a flattened socket tongue secured by two rivets.",
+        "zh-CN": "弧形铲刃与压平的套筒连接片，以两枚铆钉固定。"
+      },
+      "dimensions_m": [
+        0.29962506890296936,
+        0.07644699513912201,
+        1.3819999694824219
+      ],
+      "zip_file": "BN_003_CC0.zip",
+      "zip_bytes": 1639128,
+      "zip_sha256": "0b42c76f7ba84398d44c2d973811fb156110768052b07f20606222c9a3ef1fd5",
+      "preview_file": "previews/BN_003_preview.png",
+      "preview_sha256": "04be2ef6f4c354b4ef8ded4e818f3b6ec348d49ee25585bc85b8b42de5470558",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_003_CC0.zip"
+    },
+    {
+      "asset_id": "BN_004",
+      "source_model_id": "BN004_wheelbarrow",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "木製手押し車",
+        "en": "Wooden wheelbarrow",
+        "zh-CN": "木制独轮车"
+      },
+      "descriptions": {
+        "ja": "板張りの荷台、一本の車輪、穴あき受け板と固定ボルトを備えた運搬道具。",
+        "en": "Planked tray, one wheel, drilled axle cheeks and fixing bolts for hauling scenes.",
+        "zh-CN": "木板车斗、单轮、带孔轴承夹板与固定螺栓，适用于搬运场景。"
+      },
+      "dimensions_m": [
+        0.7160000205039978,
+        1.9730799198150635,
+        0.8500000238418579
+      ],
+      "zip_file": "BN_004_CC0.zip",
+      "zip_bytes": 8561853,
+      "zip_sha256": "6cd616419bcd3f8e8c0541bc0e7133b2e94e6d7e546636e8773bbabc2ae45da8",
+      "preview_file": "previews/BN_004_preview.png",
+      "preview_sha256": "02aa6128437ee2fdf9b4c5da026bb1b0fec39c7fced1867e4d9d5f53d34ec1b2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_004_CC0.zip"
+    },
+    {
+      "asset_id": "BN_005",
+      "source_model_id": "BN005_tied_hay",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "結束した干し草",
+        "en": "Tied hay bale",
+        "zh-CN": "捆扎干草"
+      },
+      "descriptions": {
+        "ja": "端が不揃いな藁を二本の紐で束ねた干し草。積み重ねや荷台の荷物に。",
+        "en": "Uneven straw ends and two ties; use as a stack or as a wheelbarrow load.",
+        "zh-CN": "两道绳索捆扎、端部参差的干草，可堆放或装在独轮车上。"
+      },
+      "dimensions_m": [
+        0.9098962545394897,
+        0.5345759987831116,
+        0.44763457775115967
+      ],
+      "zip_file": "BN_005_CC0.zip",
+      "zip_bytes": 2912164,
+      "zip_sha256": "087ade38a007f2bac69d6ce3afd9b247fc6f663955bf5d20d56e80869d157f18",
+      "preview_file": "previews/BN_005_preview.png",
+      "preview_sha256": "2f37f41d52ce23a0f7c8c11c5443a2b9f9158d716da481199767168d06b31591",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_005_CC0.zip"
+    },
+    {
+      "asset_id": "BN_006",
+      "source_model_id": "BN006_grain_bin",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "三区画の穀物箱",
+        "en": "Three-compartment grain bin",
+        "zh-CN": "三格谷物箱"
+      },
+      "descriptions": {
+        "ja": "三つの収納区画と木札を備えた空の木箱。中身を自由に組み合わせられます。",
+        "en": "Empty wooden bin with three compartments and tally plaques; add your own contents.",
+        "zh-CN": "带三格储存空间和木牌的空木箱，可自由添加内容物。"
+      },
+      "dimensions_m": [
+        1.3079999685287476,
+        0.6950000524520874,
+        0.7350000143051147
+      ],
+      "zip_file": "BN_006_CC0.zip",
+      "zip_bytes": 9151876,
+      "zip_sha256": "dcdd1fdce8a85cd51bd34d0a14819e517b92bca455a6ca17d8825d17e6670ee3",
+      "preview_file": "previews/BN_006_preview.png",
+      "preview_sha256": "2cbce0fa7b6c1ff4c6d156c795ef53136dc32990b9d4cba6a175a6f2f63fd561",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_006_CC0.zip"
+    },
+    {
+      "asset_id": "BN_007",
+      "source_model_id": "BN007_tool_stand",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "農具掛け",
+        "en": "Farm tool stand",
+        "zh-CN": "农具架"
+      },
+      "descriptions": {
+        "ja": "横桟と対になった掛け棒を持つ自立式の農具掛け。道具は別素材です。",
+        "en": "Freestanding rack with crossrails and paired pegs. Tools are separate assets.",
+        "zh-CN": "带横梁和成对挂杆的独立农具架；工具为单独素材。"
+      },
+      "dimensions_m": [
+        1.5299999713897705,
+        0.47999998927116394,
+        1.3050000667572021
+      ],
+      "zip_file": "BN_007_CC0.zip",
+      "zip_bytes": 6760478,
+      "zip_sha256": "12a8ead6389a2437e3d7d4d3789574b27f84f23973f4bf69c9189ce4a31c0178",
+      "preview_file": "previews/BN_007_preview.png",
+      "preview_sha256": "2193204d53968e55642e402e92c4a1695f38fad48e613cbe6ebffb95f4c17281",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_007_CC0.zip"
+    },
+    {
+      "asset_id": "BN_008",
+      "source_model_id": "BN008_grain_sieve",
+      "category": "farmhouse_barn",
+      "theme": "BN",
+      "record_kind": "model",
+      "revision": "barn-v4-approved",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "穀物の篩",
+        "en": "Grain sieve",
+        "zh-CN": "谷物筛"
+      },
+      "descriptions": {
+        "ja": "厚みのある木の縁と網を持つ丸い篩。穀物箱や作業台に添えられます。",
+        "en": "Round sieve with a thick wooden rim and mesh, for a grain bin or workbench.",
+        "zh-CN": "带厚木框与筛网的圆筛，可放在谷物箱或工作台旁。"
+      },
+      "dimensions_m": [
+        0.4440000057220459,
+        0.4440000057220459,
+        0.08933592587709427
+      ],
+      "zip_file": "BN_008_CC0.zip",
+      "zip_bytes": 3264739,
+      "zip_sha256": "63d60a6dd378cb6109f29d5901c9a6b2ae5357ba1476783f72f7877720de7c27",
+      "preview_file": "previews/BN_008_preview.png",
+      "preview_sha256": "2a932601395e8a5ec42d8c5e16528782e73b3517b8a1946034c2c75dc82cc1d7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_008_CC0.zip"
     }
   ]
 }

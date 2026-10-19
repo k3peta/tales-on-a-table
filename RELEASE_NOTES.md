@@ -1,3 +1,23 @@
+# Fantasy farmhouse barn — 8 CC0 individual assets
+
+収穫を運び、選り分け、道具を戻す納屋の8単品を初公開します。再利用の樽・木箱・ランタンは重複計上せず、完成配置は含みません。
+
+First publication of eight individual barn assets for hauling, sorting and storing a harvest. Reused barrel, crate and lantern are not counted again; the completed layout is excluded.
+
+首次发布8件用于搬运、筛选与储存收获的谷仓单品。复用的木桶、木箱和灯笼不重复计数，不包含完整场景。
+
+428 previous + 8 = 436 records. Reused assets are not new entries.
+
+[日本語](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/farmhouse-barn.md) · [English](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/farmhouse-barn.en.md) · [简体中文](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/farmhouse-barn.zh-CN.md)
+
+自作モデルと表示材質はCC0-1.0です。記事・作例画像・コード・完成配置シーンはCC0の範囲に含みません。単品BLENDとGLB、確認画像を収録。完成配置は配布しません。メートル単位、底面中央原点、静的装飾素材。リグや衝突形状は含まず、各ゲームエンジンでの性能保証はありません。
+
+Original models and display materials are CC0-1.0. Articles, example images, code and complete scene layouts are excluded. Includes one BLEND, one GLB and a preview; no completed scene. Metres, bottom-centred origin, static decorative asset. No rig, collision mesh or game-engine performance guarantee.
+
+原创模型及显示材质采用CC0-1.0。文章、示例图片、代码和完整场景不在此范围内。包含单品BLEND、GLB和预览图，不分发完整场景。单位为米，原点位于底面中心，为静态装饰素材。不含骨骼、碰撞网格或游戏引擎性能保证。
+
+---
+
 # Treasury quality update — 17 existing records
 
 既存17記録（16単品形状＋宝石小山1グループ）の品質更新です。新種類加算0。単品は合格済みv6、作例画像は建築v7です。松明の暖光と、100年以上手入れされていない部屋を意図した経年表現へ更新しました。旧版17セットと25色GLBは旧リリースに保持し、今回のZIPには改訂した基準モデルを収録しています。
