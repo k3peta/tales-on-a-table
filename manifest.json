@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-wizard-study",
-  "item_count": 308,
+  "release_tag": "v2026.10.19-captain-cabin",
+  "item_count": 334,
   "count_by_kind": {
-    "model": 279,
+    "model": 305,
     "derived_component": 2,
     "group": 25,
     "structural_variant": 2
@@ -14,9 +14,10 @@
     "lamp_shop": 58,
     "lamp_story_additions": 5,
     "antique_shop": 93,
-    "wizard_study": 40
+    "wizard_study": 40,
+    "captain_cabin": 26
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -8228,6 +8229,838 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_001",
+      "source_model_id": "CP001_ships_wheel",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "八本握りの船舵輪",
+        "en": "Eight-grip ship's wheel",
+        "zh-CN": "八握柄船舵轮"
+      },
+      "descriptions": {
+        "ja": "分割木製リム・旋盤形状の握り・8本スポーク・軸穴と裏座。",
+        "en": "Segmented wooden rim, turned grips, eight spokes, an axle bore and back plate.",
+        "zh-CN": "分段木轮圈、车削握柄、八根辐条、轴孔与背板。"
+      },
+      "dimensions_m": [
+        1.0820000171661377,
+        0.13699999451637268,
+        1.0820000171661377
+      ],
+      "preview_file": "previews/CP_001_preview.png",
+      "preview_sha256": "fd4207574025fc52f17c04d357488d7bf53c8eb60d4c76b9e2d1ca1c96244fec",
+      "zip_file": "CP_001_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_001_CC0.zip",
+      "zip_bytes": 606461,
+      "zip_sha256": "cfe5d6d7aa8bf58689450f5a200b852d05eab85d3813db696c3ea6f326a999de",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_002",
+      "source_model_id": "CP002_wheel_pedestal",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "舵輪の甲板架台",
+        "en": "Deck wheel pedestal",
+        "zh-CN": "甲板舵轮架"
+      },
+      "descriptions": {
+        "ja": "軸受・回転軸・二本脚と甲板固定プレート。",
+        "en": "Two-foot deck mounting with a shaft and bearing, separate from the wheel.",
+        "zh-CN": "带双脚甲板固定架、转轴和轴承，可与舵轮分开使用。"
+      },
+      "dimensions_m": [
+        0.5,
+        0.44999998807907104,
+        1.1370000839233398
+      ],
+      "preview_file": "previews/CP_002_preview.png",
+      "preview_sha256": "904ef74555de3d92c03ecb1016d3d7637b23eb2da6e798594868cae28ea6f20c",
+      "zip_file": "CP_002_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_002_CC0.zip",
+      "zip_bytes": 496993,
+      "zip_sha256": "f15ff14f7aebf0da8f4b5bae86706943f9d4769217729716cb613bfceb8bb21b",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_003",
+      "source_model_id": "CP003_hand_telescope",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "三段伸縮の携帯望遠鏡",
+        "en": "Three-section hand telescope",
+        "zh-CN": "三节伸缩手持望远镜"
+      },
+      "descriptions": {
+        "ja": "開口した段付き鏡筒・レンズ・接眼鏡・革巻き・分離蓋。",
+        "en": "Extended brass telescope with stepped tubes, a leather grip and glass optics.",
+        "zh-CN": "展开的三节黄铜望远镜，带皮革握把和玻璃镜片。"
+      },
+      "dimensions_m": [
+        0.46799999475479126,
+        0.15709233283996582,
+        0.07259232550859451
+      ],
+      "preview_file": "previews/CP_003_preview.png",
+      "preview_sha256": "6cfe727de038a72004088efd34d510b585863d3a9e3be2947df7b854040f4ba6",
+      "zip_file": "CP_003_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_003_CC0.zip",
+      "zip_bytes": 656093,
+      "zip_sha256": "8fdc1e4be2ff1e8e1c5ee793da6aa14732ccfc7632094dc2ea4824ed87e58006",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_004",
+      "source_model_id": "CP004_telescope_case",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "望遠鏡の筒形革ケース",
+        "en": "Hollow leather telescope case",
+        "zh-CN": "中空皮革望远镜筒"
+      },
+      "descriptions": {
+        "ja": "中空の筒・閉じた底・開いた蓋・革の接続帯・縫い目。",
+        "en": "A hollow cylindrical case with a bottom, open hinged lid, seams and fastening bands.",
+        "zh-CN": "中空筒形皮革收纳盒，带底盖、打开的铰接盖、缝线和固定带。"
+      },
+      "dimensions_m": [
+        0.5320000052452087,
+        0.14177551865577698,
+        0.10677552968263626
+      ],
+      "preview_file": "previews/CP_004_preview.png",
+      "preview_sha256": "8e7b373a71235b3eb4160aff4fc72dc0480e78cf6121efec4596f987906dfb62",
+      "zip_file": "CP_004_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_004_CC0.zip",
+      "zip_bytes": 509591,
+      "zip_sha256": "71a4a25e6547570f3dc509066acda04aa8cf738c79cbebdd8f844c0f34d7236a",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_005",
+      "source_model_id": "CP005_hand_sextant",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "握り付きの手持ち六分儀",
+        "en": "Handheld sextant",
+        "zh-CN": "手持六分仪"
+      },
+      "descriptions": {
+        "ja": "三角フレーム・目盛弧・指標腕・二枚の鏡・照準筒・握り。",
+        "en": "A handgrip, graduated frame, sighting tube, mirrors and attached supports.",
+        "zh-CN": "带握柄、刻度框、瞄准筒、反光镜和固定支架。"
+      },
+      "dimensions_m": [
+        0.32653114199638367,
+        0.24321556091308594,
+        0.07750000804662704
+      ],
+      "preview_file": "previews/CP_005_preview.png",
+      "preview_sha256": "d55e91bec3edd782d9ca99c1a3c01726cd5abe82cba37b1380525b967f79fa90",
+      "zip_file": "CP_005_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_005_CC0.zip",
+      "zip_bytes": 662708,
+      "zip_sha256": "d051bb2425f857e9318bd8da0f0e8986e6f74510578279b86a5bd0d584829433",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_006",
+      "source_model_id": "CP006_sextant_case",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "輪郭支え付きの六分儀収納箱",
+        "en": "Fitted sextant case",
+        "zh-CN": "带轮廓支撑的六分仪盒"
+      },
+      "descriptions": {
+        "ja": "深い内張り・輪郭支え・開いた蓋・蝶番と支え帯。",
+        "en": "An open lined wooden case with shaped supports, hinges and lid stays; repaired exterior joints.",
+        "zh-CN": "打开的内衬木盒，带轮廓支撑、铰链和撑带；外部接缝已修正。"
+      },
+      "dimensions_m": [
+        0.3750000298023224,
+        0.35018956661224365,
+        0.3660086691379547
+      ],
+      "preview_file": "previews/CP_006_preview.png",
+      "preview_sha256": "8e23c2a0898377da1fbb904040441d023c7ba1374eb42e914a9caf7d54106024",
+      "zip_file": "CP_006_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_006_CC0.zip",
+      "zip_bytes": 550926,
+      "zip_sha256": "c5c892522ce6919a2647e88d09427c17de893fdf2c474de0906731444b822806",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_010",
+      "source_model_id": "CP010_double_block",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "二輪溝の複滑車",
+        "en": "Double-sheave block",
+        "zh-CN": "双轮滑车"
+      },
+      "descriptions": {
+        "ja": "木製頬板・二輪シーブ・鋼軸・通索溝・上部フック。",
+        "en": "Two grooved sheaves within a wooden block, with a metal mounting loop.",
+        "zh-CN": "木壳内装有两个带槽滑轮，并配有金属吊环。"
+      },
+      "dimensions_m": [
+        0.14000000059604645,
+        0.12000000476837158,
+        0.3089999556541443
+      ],
+      "preview_file": "previews/CP_010_preview.png",
+      "preview_sha256": "fcd96a827b7a392425bdab5cdf7595fe713175ae6666777c087e84a8ec255743",
+      "zip_file": "CP_010_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_010_CC0.zip",
+      "zip_bytes": 544628,
+      "zip_sha256": "d0339648c2ea3d3a214b911257fc09c5086ef9dcda21133b0fcfc1468ab67700",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_012",
+      "source_model_id": "CP012_chart_desk",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "落下止め縁付きの海図机",
+        "en": "Rimmed chart desk",
+        "zh-CN": "带挡边的海图桌"
+      },
+      "descriptions": {
+        "ja": "縁・寄木天板・浅い引出し・船内固定脚・真鍮金具。",
+        "en": "A wooden chart desk with raised edges, sturdy legs and drawers.",
+        "zh-CN": "木制海图桌，带防落挡边、结实桌腿和抽屉。"
+      },
+      "dimensions_m": [
+        1.6040000915527344,
+        0.9019999504089355,
+        0.8169999718666077
+      ],
+      "preview_file": "previews/CP_012_preview.png",
+      "preview_sha256": "109e6052399a0f3c8e9510cb737ab9024e794d81f465ee4db34e8e1a1feefe5c",
+      "zip_file": "CP_012_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_012_CC0.zip",
+      "zip_bytes": 549665,
+      "zip_sha256": "a6b2f05d087aef93bb2bd05f8533cb3a77af6f9680a3e74e0fecc2b4af450188",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_013",
+      "source_model_id": "CP013_route_chart",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "赤線で航路を記した海図",
+        "en": "Plotted route chart",
+        "zh-CN": "标绘航线的海图"
+      },
+      "descriptions": {
+        "ja": "架空海岸線・港・等方位線・航路・余白の測距メモ。",
+        "en": "A separate chart with fictional coastlines and a red plotted route.",
+        "zh-CN": "独立海图，绘有虚构海岸线与红色航线。"
+      },
+      "dimensions_m": [
+        0.6499999761581421,
+        0.4399999976158142,
+        0.0016608452424407005
+      ],
+      "preview_file": "previews/CP_013_preview.png",
+      "preview_sha256": "1bee2750aeb6ecc6b84645051f9fdba63f44748f195d63c4bd4419f75eba133f",
+      "zip_file": "CP_013_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_013_CC0.zip",
+      "zip_bytes": 514463,
+      "zip_sha256": "6058da25094489d58abfd8b7db10a654deeeed65011e0ab1ade20d235e9774c9",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_014",
+      "source_model_id": "CP014_dividers",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "真鍮の海図用ディバイダー",
+        "en": "Brass chart dividers",
+        "zh-CN": "黄铜海图分规"
+      },
+      "descriptions": {
+        "ja": "二脚・中央ヒンジ・鋼製先端・調整ねじ。",
+        "en": "Two pointed legs and a hinged brass joint for a navigator's desk.",
+        "zh-CN": "带双尖脚与黄铜铰接部的航海桌用分规。"
+      },
+      "dimensions_m": [
+        0.14766833186149597,
+        0.1906074732542038,
+        0.015000000596046448
+      ],
+      "preview_file": "previews/CP_014_preview.png",
+      "preview_sha256": "adc62a7dfe83c3ee78ef4223ad3dc27f61561147b64b096bafefdaad09f48748",
+      "zip_file": "CP_014_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_014_CC0.zip",
+      "zip_bytes": 474841,
+      "zip_sha256": "a850e113f76e2301bf71d7b61da9448e67d15c8435a71b8939f55242a0b1025b",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_015",
+      "source_model_id": "CP015_parallel_rule",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "連動する平行定規",
+        "en": "Linked parallel rule",
+        "zh-CN": "连杆平行尺"
+      },
+      "descriptions": {
+        "ja": "二枚の定規・等長リンク・四つの回転鋲。",
+        "en": "Two dark straightedges joined by brass links and pivots.",
+        "zh-CN": "两根深色直尺由黄铜连杆与转轴连接。"
+      },
+      "dimensions_m": [
+        0.30000001192092896,
+        0.11700000613927841,
+        0.017000000923871994
+      ],
+      "preview_file": "previews/CP_015_preview.png",
+      "preview_sha256": "fe57f73fcf24f51750144db34ec56b485dc7310afa69934f81eb04fa5caa82af",
+      "zip_file": "CP_015_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_015_CC0.zip",
+      "zip_bytes": 463730,
+      "zip_sha256": "8dbb68a994974f735c514e5ffc8ee70ae2bc4b3571af8127c14bddfbedd52e2c",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_016",
+      "source_model_id": "CP016_captains_log",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "記入途中の航海日誌",
+        "en": "Open captain's log",
+        "zh-CN": "打开的航海日志"
+      },
+      "descriptions": {
+        "ja": "防水装丁・薄い紙葉・針路表・革の留め帯。",
+        "en": "An open bound logbook with layered leaves and partially filled ruled pages.",
+        "zh-CN": "打开的装订日志，带分层书页与部分填写的格线页面。"
+      },
+      "dimensions_m": [
+        0.36000001430511475,
+        0.25,
+        0.01772797666490078
+      ],
+      "preview_file": "previews/CP_016_preview.png",
+      "preview_sha256": "65bc594f64352892cc5a1611035a6dd99e3a39b8e6e054e220e4927a6bf19110",
+      "zip_file": "CP_016_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_016_CC0.zip",
+      "zip_bytes": 523406,
+      "zip_sha256": "8c1005464c45ffc7acede4b35b570d0114250e3fa229ff3f68aa69c80cd97c9a",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_017",
+      "source_model_id": "CP017_chart_weight",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "把手付きの海図重し",
+        "en": "Handled chart weight",
+        "zh-CN": "带提手的海图镇纸"
+      },
+      "descriptions": {
+        "ja": "低い真鍮台座・革底・一体把手。",
+        "en": "A compact rectangular metal paperweight with a raised carrying handle.",
+        "zh-CN": "小巧的长方形金属镇纸，带凸起提手。"
+      },
+      "dimensions_m": [
+        0.08299999684095383,
+        0.05000000074505806,
+        0.04503709822893143
+      ],
+      "preview_file": "previews/CP_017_preview.png",
+      "preview_sha256": "03f892ffc1b4d3e3baf044ba7627bbd24fef425bf3566569746c0c5f2a5f0abf",
+      "zip_file": "CP_017_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_017_CC0.zip",
+      "zip_bytes": 507423,
+      "zip_sha256": "aef560e3ecf78286504f8e34a75fce65bab1a8d33fba17097cfbef50c02611e0",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_019",
+      "source_model_id": "CP019_cabin_berth",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "収納付きの船室寝台",
+        "en": "Cabin berth with storage",
+        "zh-CN": "带储物空间的船舱卧铺"
+      },
+      "descriptions": {
+        "ja": "転落止め・床箱・抽斗・帆布マット・枕・毛布。",
+        "en": "A timber-framed berth with storage fronts, a pillow and a draped navy blanket.",
+        "zh-CN": "木框卧铺，配有储物柜面、枕头与垂落的深蓝毯子。"
+      },
+      "dimensions_m": [
+        0.8309999704360962,
+        1.9649999141693115,
+        0.8299999833106995
+      ],
+      "preview_file": "previews/CP_019_preview.png",
+      "preview_sha256": "86a20227f97c0f3a9e6cd90f9d6c44b7503ad14592a815b84df3639df5270a91",
+      "zip_file": "CP_019_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_019_CC0.zip",
+      "zip_bytes": 658667,
+      "zip_sha256": "3baff5937a0ae26a1f2e6e01b132e423b772e8b2eee734b31e004c8de2eb143a",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v2",
+      "production_phase": "previously_unpublished_model",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_020",
+      "source_model_id": "CP020_treasure_map",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻き癖と重し付きの宝の地図",
+        "en": "Weighted treasure map",
+        "zh-CN": "带重物的藏宝图"
+      },
+      "descriptions": {
+        "ja": "不規則な縁・巻き癖・架空群島・点線航路・宝印・八方位図・真鍮重し。",
+        "en": "Worn parchment edges, curled corners, fictional islands, a dotted route and brass weights.",
+        "zh-CN": "做旧羊皮纸边缘、卷角、虚构岛屿、虚线航路与黄铜重物。"
+      },
+      "dimensions_m": [
+        0.6850237846374512,
+        0.48562055826187134,
+        0.033195123076438904
+      ],
+      "preview_file": "previews/CP_020_preview.png",
+      "preview_sha256": "aa11e9446107eea86508c925052090f51bfbb26db064db05cfe9ee2bd4737ffe",
+      "zip_file": "CP_020_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_020_CC0.zip",
+      "zip_bytes": 1088464,
+      "zip_sha256": "5d5f275bdfce537b6e096c0fc59500c8f6a87b2910f4024e6938a32e8b311fb8",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_021",
+      "source_model_id": "CP021_sheathed_captains_knife",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "大型船長ナイフ・鞘付き",
+        "en": "Large sheathed captain's knife",
+        "zh-CN": "带鞘的大型船长刀"
+      },
+      "descriptions": {
+        "ja": "刃を完全に覆う先細りの鞘、縫い目、金属口金、鍔、木製柄と鋲。",
+        "en": "A large knife fully enclosed in a stitched leather sheath, with a guard and riveted wooden grip.",
+        "zh-CN": "大刀完整收纳于带缝线的皮鞘中，配有护手与铆钉木柄。"
+      },
+      "dimensions_m": [
+        0.5656999945640564,
+        0.142910435795784,
+        0.048377640545368195
+      ],
+      "preview_file": "previews/CP_021_preview.png",
+      "preview_sha256": "397e7d0b2914a44a5d361b6a9bd347518b819ba1ffa7ee2132445526935d96c9",
+      "zip_file": "CP_021_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_021_CC0.zip",
+      "zip_bytes": 622550,
+      "zip_sha256": "3ff50cb467da32794c74187b696e9b786600fbfdb3bf6019be4cc8ed93543354",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_022",
+      "source_model_id": "CP022_folding_loupe",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革ケース付き折畳みルーペ",
+        "en": "Folding loupe with leather case",
+        "zh-CN": "带皮套的折叠放大镜"
+      },
+      "descriptions": {
+        "ja": "凸レンズ・二重真鍮枠・回転軸・丸端の革収納部。",
+        "en": "A convex lens in a brass barrel, double retaining rings, a pivot and rounded leather case.",
+        "zh-CN": "黄铜镜筒内装凸透镜，配双固定环、转轴与圆头皮套。"
+      },
+      "dimensions_m": [
+        0.24549999833106995,
+        0.10099999606609344,
+        0.030570633709430695
+      ],
+      "preview_file": "previews/CP_022_preview.png",
+      "preview_sha256": "a450377152dc86cc8d2692a2838792256ac282fcdf5684cdca5fe11ce6eea1a7",
+      "zip_file": "CP_022_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_022_CC0.zip",
+      "zip_bytes": 571125,
+      "zip_sha256": "99e1e8abec485dc43369b34c0168ce997a3b113eb36a3929be764f2fa1c2e2e4",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_023",
+      "source_model_id": "CP023_coffee_jug",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "コーヒー入りの陶製ジャグ",
+        "en": "Ceramic coffee jug",
+        "zh-CN": "盛咖啡的陶制壶"
+      },
+      "descriptions": {
+        "ja": "中空の器・注ぎ口・接合した取っ手・釉薬・液面とメニスカス。",
+        "en": "A hollow glazed jug with a pouring lip, joined handle, inner ceramic wall and coffee surface.",
+        "zh-CN": "中空釉面陶壶，带壶嘴、连接把手、陶瓷内壁与咖啡液面。"
+      },
+      "dimensions_m": [
+        0.3083110451698303,
+        0.19599999487400055,
+        0.24699999392032623
+      ],
+      "preview_file": "previews/CP_023_preview.png",
+      "preview_sha256": "0433770f19a0a93facb18b7821d2c5d2f247bbd5523400c12c753ff26b9485f1",
+      "zip_file": "CP_023_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_023_CC0.zip",
+      "zip_bytes": 597757,
+      "zip_sha256": "64211912ea85ca7cd1a79c661f2002ea43df95ea11c9c631f20702b58009ed43",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_024",
+      "source_model_id": "CP024_captains_coat",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "壁掛けの豪華な船長コート",
+        "en": "Hanging captain's coat",
+        "zh-CN": "悬挂的船长长外套"
+      },
+      "descriptions": {
+        "ja": "重い裾のひだ・中空の袖・赤い裏地・折り襟・金刺繍・肩章と吊り具。",
+        "en": "An empty long coat with crimson lining, hollow sleeves, gold braid, epaulettes and a hanger.",
+        "zh-CN": "空置长外套，带红色内衬、中空袖口、金饰边、肩章与衣架。"
+      },
+      "dimensions_m": [
+        0.8575104475021362,
+        0.29061460494995117,
+        1.1698421239852905
+      ],
+      "preview_file": "previews/CP_024_preview.png",
+      "preview_sha256": "265b98028dd06915f52cdac7bb50f49bf7f89abf7886148d62ee741f37dd2678",
+      "zip_file": "CP_024_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_024_CC0.zip",
+      "zip_bytes": 1945532,
+      "zip_sha256": "e4aa899a1bf1cea28591adfc8cd9231bdef25462f1f86b42265e307611ccbb71",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_025",
+      "source_model_id": "CP025_admirals_bicorne",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "金縁と徽章の提督帽",
+        "en": "Gold-trimmed admiral's hat",
+        "zh-CN": "金边提督帽"
+      },
+      "descriptions": {
+        "ja": "二角帽の輪郭・反り上がるつば・中空の帽体・二重金縁・リボンと徽章。",
+        "en": "A swept bicorne brim, hollow crown, double gold edging, cords and a cockade.",
+        "zh-CN": "弯起的双角帽檐、中空帽体、双层金边、饰绳与帽章。"
+      },
+      "dimensions_m": [
+        0.6959999799728394,
+        0.36148759722709656,
+        0.19710709154605865
+      ],
+      "preview_file": "previews/CP_025_preview.png",
+      "preview_sha256": "013f149dc43333a6931a921c2595b7b04c11407906d30be7e6626664ee7b2283",
+      "zip_file": "CP_025_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_025_CC0.zip",
+      "zip_bytes": 1007095,
+      "zip_sha256": "d0ce187c1cce72e6ee57b60634965ca93a423c24184bceb5a5aeedbf94c3b7a0",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_026",
+      "source_model_id": "CP026_parrot_cage",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "開く扉付きの大型鳥籠",
+        "en": "Large birdcage with open door",
+        "zh-CN": "开门的大型鸟笼"
+      },
+      "descriptions": {
+        "ja": "着脱底皿・曲げ格子・ドーム・開いた出入口・給餌皿・吊り輪。",
+        "en": "A domed brass cage with bent bars, a removable tray, an open door and feeding bowls.",
+        "zh-CN": "圆顶黄铜鸟笼，带弯曲栏杆、可分离底盘、打开的门与食碗。"
+      },
+      "dimensions_m": [
+        0.699999988079071,
+        0.895266056060791,
+        1.277706265449524
+      ],
+      "preview_file": "previews/CP_026_preview.png",
+      "preview_sha256": "fbe2a4f9e6402618578a9f1cf457f72ed579bd230d51adda0bbf0fb97deea639",
+      "zip_file": "CP_026_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_026_CC0.zip",
+      "zip_bytes": 831200,
+      "zip_sha256": "d9c97bb96edabfa748d803d4cd418566299a8b18c9a3d12e134d018e52eae65a",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_027",
+      "source_model_id": "CP027_parrot_perch",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "床置きの独立した止まり木",
+        "en": "Freestanding parrot perch",
+        "zh-CN": "独立落地鹦鹉栖架"
+      },
+      "descriptions": {
+        "ja": "重い底皿・旋盤支柱・天然木の横棒・接合した枝受け。",
+        "en": "A weighted round base, turned post and supported wooden crossbar; separate from the bird.",
+        "zh-CN": "带加重圆底座、车削立柱与支撑木横杆；与鸟模型分离。"
+      },
+      "dimensions_m": [
+        0.49000000953674316,
+        0.47999998927116394,
+        0.8552168607711792
+      ],
+      "preview_file": "previews/CP_027_preview.png",
+      "preview_sha256": "9f811b96fc9ec8fd6642046b1b9de447826348d334593549bbfbac1bdec66983",
+      "zip_file": "CP_027_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_027_CC0.zip",
+      "zip_bytes": 539201,
+      "zip_sha256": "dc199a9340029d431298b6590c0e51d0e2907d60d586248cd60ddfdec03f905d",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_028",
+      "source_model_id": "CP028_scarlet_macaw",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "赤い大型鸚鵡",
+        "en": "Scarlet macaw",
+        "zh-CN": "绯红金刚鹦鹉"
+      },
+      "descriptions": {
+        "ja": "赤い体・青黄の重なる翼羽・長い尾・曲がった嘴・頬斑・止まり木を握る足。",
+        "en": "A static red macaw with layered yellow and blue wing feathers, a long tail and gripping feet.",
+        "zh-CN": "静态红色金刚鹦鹉，带分层黄蓝翼羽、长尾和抓握脚爪。"
+      },
+      "dimensions_m": [
+        0.24199999868869781,
+        0.42336753010749817,
+        0.8289999961853027
+      ],
+      "preview_file": "previews/CP_028_preview.png",
+      "preview_sha256": "11e284c69d0e58acd037336b696ce17f362ae63c7f3dc82eb0dc014c00b33411",
+      "zip_file": "CP_028_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_028_CC0.zip",
+      "zip_bytes": 654857,
+      "zip_sha256": "5ddcee7188e96c9cad09fd90172633d3a677e79c3a0ad3f939fa52d1cc039224",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_029",
+      "source_model_id": "CP029_floor_globe",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "木製脚と真鍮輪の床置き地球儀",
+        "en": "Floor globe on wooden legs",
+        "zh-CN": "木脚落地地球仪"
+      },
+      "descriptions": {
+        "ja": "架空大陸の地図球・緯経線・傾斜極軸・子午環・水平環・木製三脚。",
+        "en": "Original fictional continents, latitude and longitude lines, brass rings and a wooden tripod.",
+        "zh-CN": "原创虚构大陆、经纬线、黄铜环与木制三脚架。"
+      },
+      "dimensions_m": [
+        0.7119559049606323,
+        0.6959999799728394,
+        1.2045437097549438
+      ],
+      "preview_file": "previews/CP_029_preview.png",
+      "preview_sha256": "914a22b8d0b5f991ff75da845dcaa4dc436c0f514a5c7e9e0631a7ddf8595b1f",
+      "zip_file": "CP_029_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_029_CC0.zip",
+      "zip_bytes": 1126081,
+      "zip_sha256": "df1db3efb06ed55f841491d11078215eb01afd064a741be0e36c994145faa0cd",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_030",
+      "source_model_id": "CP030_personal_sea_chest",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "大型の私物用船旅雑貨箱",
+        "en": "Open personal sea chest",
+        "zh-CN": "打开的船用私物箱"
+      },
+      "descriptions": {
+        "ja": "開いた内張り箱・丸みのある蓋・仕切り・畳んだ布・小物・革帯と留め具。",
+        "en": "A lined divided wooden chest with a raised curved lid, stays, folded linen, bottles and repaired joints.",
+        "zh-CN": "带内衬和隔板的木箱，配有打开的弧形盖、撑带、叠布、瓶子及修正后的接缝。"
+      },
+      "dimensions_m": [
+        1.1015557050704956,
+        0.7476211786270142,
+        1.0309184789657593
+      ],
+      "preview_file": "previews/CP_030_preview.png",
+      "preview_sha256": "02ec6e70585f45b818fcccae215064a90a38fe925f3a7d6a02d19f350088e3c9",
+      "zip_file": "CP_030_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_030_CC0.zip",
+      "zip_bytes": 697580,
+      "zip_sha256": "20791bf72031dc93bd38d31680418d3e344d01e871d9d6d4a4fd0729503a4900",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "CP_031",
+      "source_model_id": "CP031_tall_travel_bag",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "縦型の大型革旅行バッグ",
+        "en": "Tall leather travel bag",
+        "zh-CN": "高身皮革旅行包"
+      },
+      "descriptions": {
+        "ja": "厚手革・補強帯・真鍮バックル・持ち手・底鋲・荷札・擦れた縁。",
+        "en": "A structured 0.92-metre tall bag with reinforcing straps, buckles, handles, feet and a luggage tag.",
+        "zh-CN": "高约0.92米的挺括旅行包，带加固带、搭扣、提手、底脚和行李牌。"
+      },
+      "dimensions_m": [
+        0.47999998927116394,
+        0.3823637366294861,
+        0.9196653366088867
+      ],
+      "preview_file": "previews/CP_031_preview.png",
+      "preview_sha256": "b8ae33b3a7d5a9bcfbcddc72eec981151236662d0d8a0f31613189a72092d19f",
+      "zip_file": "CP_031_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-captain-cabin/CP_031_CC0.zip",
+      "zip_bytes": 544318,
+      "zip_sha256": "1ca719ddab7b94ed565c4d66a7eac11a0f8218c5e6d2fcc5fe6eefd53079907e",
+      "category": "captain-cabin",
+      "theme": "CP",
+      "revision": "captain-v3-r1",
+      "production_phase": "v3_new_design",
       "preview_metadata_sanitized": true
     }
   ]

@@ -1,3 +1,19 @@
+# Captain cabin — 26 CC0 distribution sets
+
+検品済みの従来14点と追加制作12点を初公開します。CP006は箱の接合修正版です。再利用素材を重複登録せず、同じ旅行バッグ2個は1種類として扱います。ZIPは単体BLEND・GLB・実レンダー・三言語README・CC0条件を含み、完成シーンは含みません。
+
+First publication of 14 earlier models and 12 additional designs. CP006 includes repaired box joints. Reused props are not registered again; two travel bags are placements of one design. Each ZIP includes BLEND, GLB, a render, trilingual README and CC0 terms; completed scenes are excluded.
+
+首次发布14个此前模型与12个追加设计。CP006采用修正后的箱体接缝。既有复用物品不重复登记，两只旅行包按同一设计计算。每个ZIP包含BLEND、GLB、实渲染图、三语README和CC0条件，不含完整场景。
+
+Catalogue: 308 existing + 26 additions = 334 distribution records. This is not a claim of 334 unique categories.
+
+[日本語](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/captain-cabin.md) · [English](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/captain-cabin.en.md) · [简体中文](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/captain-cabin.zh-CN.md)
+
+Download the named CP ZIPs below. Automatic source archives contain the catalogue only. Verify SHA256SUMS.
+
+---
+
 # Wizard study — 40 CC0 distribution sets
 
 魔法使いの書斎 / Wizard study / 魔法师书房

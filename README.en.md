@@ -1,6 +1,12 @@
-# Tales on a Table — 308 3D asset records
+# Tales on a Table — 334 3D asset records
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
+
+## Captain cabin and ship equipment — 26 distribution sets
+
+[Captain cabin and ship equipment — 26 distribution sets](catalog/captain-cabin.en.md)
+
+First publication of 14 earlier models and 12 additional designs. CP006 includes repaired box joints. Reused props are not registered again; two travel bags are placements of one design. Each ZIP includes BLEND, GLB, a render, trilingual README and CC0 terms; completed scenes are excluded.
 
 ## New wizard-study distribution sets
 
@@ -16,7 +22,7 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 ## Counting and scope
 
-**308 records = 279 model records + 25 groups + 2 separated components + 2 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
+**334 records = 305 model records + 25 groups + 2 separated components + 2 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
 Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The new armory collection is excluded. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
 
