@@ -24,7 +24,7 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 **334 records = 305 model records + 25 groups + 2 separated components + 2 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
-Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The new armory collection is excluded. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
+Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93; wizard study: 40; captain cabin and ship equipment: 26. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The new armory collection is excluded. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
 
 FT_040, FH_002 and FH_038 retain their quality-patched versions. OL_STORY_001–005 retain their approved CC0 versions. Stable IDs and each card's unit description distinguish models, groups and separated components.
 
@@ -35,6 +35,10 @@ Extract a ZIP and open its BLEND, or import its GLB into compatible software. Pl
 See [license scope](LICENSE.md) and each ZIP for the model-specific CC0 statement. It does not extend to articles, videos, example images or completed scene layouts. Completed-scene BLEND files are not included.
 
 ## Categories
+
+- **Wizard study (40)**: [Illustrated catalogue](catalog/wizard-study.en.md)
+
+- **Captain cabin & ship equipment (26)**: [Illustrated catalogue](catalog/captain-cabin.en.md)
 
 - **Furniture & displays (24)**: [1](catalog/furniture_01.en.md) · [2](catalog/furniture_02.en.md)
 
