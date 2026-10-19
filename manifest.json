@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-independent-furnishings",
-  "item_count": 340,
+  "release_tag": "v2026.10.19-treasury",
+  "item_count": 357,
   "count_by_kind": {
-    "model": 311,
+    "model": 327,
     "derived_component": 2,
-    "group": 25,
+    "group": 26,
     "structural_variant": 2
   },
   "count_by_collection": {
@@ -16,9 +16,10 @@
     "antique_shop": 93,
     "wizard_study": 40,
     "captain_cabin": 26,
-    "independent_furnishings": 6
+    "independent_furnishings": 6,
+    "treasury": 17
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -9249,6 +9250,516 @@
       "preview_sha256": "c7cc3e6bf4d4b37c6ce362cf6215dccdb1d1de21acea28dcbace770886dae503",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_006_CC0.zip",
       "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "TD_001",
+      "source_model_id": "TD001_sun_talisman",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "太陽と翠玉のタリスマン",
+        "en": "Sun and emerald talisman",
+        "zh-CN": "太阳与翠玉护符"
+      },
+      "descriptions": {
+        "ja": "透かしの八芒輪、中央の多面翠玉、鎖環、裏側の封印文様。",
+        "en": "An openwork eight-point ring, faceted green centre stone, linked chain and reverse seal motif.",
+        "zh-CN": "镂空八芒环、多面绿色主石、链环及背面封印纹样。"
+      },
+      "dimensions_m": [
+        0.1995999962091446,
+        0.3668000102043152,
+        0.039500001817941666
+      ],
+      "zip_file": "TD_001_CC0.zip",
+      "zip_bytes": 770556,
+      "zip_sha256": "f37c46059de64f46473f0ea51622959434162c4d1d50d362e57cef95ade7d8bc",
+      "preview_file": "previews/TD_001_preview.png",
+      "preview_sha256": "d3786f17d0d336898e2693ae380a3600882efc1ec47f0d62fb0ff4c5eefe7a67",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_001_CC0.zip"
+    },
+    {
+      "asset_id": "TD_002",
+      "source_model_id": "TD002_moon_sword",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "月光の長剣",
+        "en": "Moonlight longsword",
+        "zh-CN": "月光长剑"
+      },
+      "descriptions": {
+        "ja": "菱断面の長い刃、象嵌文字、翼状鍔、革巻き柄、青玉柄頭。",
+        "en": "A diamond-section blade, inlaid markings, winged guard, leather grip and blue pommel stone.",
+        "zh-CN": "菱形截面剑身、镶嵌纹字、翼形护手、皮革握柄及蓝色柄头宝石。"
+      },
+      "dimensions_m": [
+        0.3919999897480011,
+        0.07599999755620956,
+        1.2599999904632568
+      ],
+      "zip_file": "TD_002_CC0.zip",
+      "zip_bytes": 675862,
+      "zip_sha256": "598550c932d6c2addce2f03440939b5056946e7d9cb3c6a1e1e9804755bc3af8",
+      "preview_file": "previews/TD_002_preview.png",
+      "preview_sha256": "b6f1d3c0d292256407c73121e6851c0893043cda41c40f32ceda8f234141bd59",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_002_CC0.zip"
+    },
+    {
+      "asset_id": "TD_003",
+      "source_model_id": "TD003_dragon_dagger",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "竜頭の儀礼短剣",
+        "en": "Dragon-headed ceremonial dagger",
+        "zh-CN": "龙首仪式短剑"
+      },
+      "descriptions": {
+        "ja": "二本角・眉・鼻孔・牙を持つ竜頭柄頭、鱗柄、翼鍔と菱断面刃。",
+        "en": "A horned dragon pommel with brows, nostrils and fangs, a scaled grip and winged guard.",
+        "zh-CN": "带角、眉、鼻孔及獠牙的龙首柄头，配鳞纹握柄与翼形护手。"
+      },
+      "dimensions_m": [
+        0.18750055134296417,
+        0.11899998411536217,
+        0.5579999685287476
+      ],
+      "zip_file": "TD_003_CC0.zip",
+      "zip_bytes": 716618,
+      "zip_sha256": "d4ea3eebece3a7d723d5ed3b9999e5c29dd10a956f6aa51e29b0cdae0975eeaa",
+      "preview_file": "previews/TD_003_preview.png",
+      "preview_sha256": "5604319022e3ec947fde0d60d8bf07180403c9602031c38b158dba4c1d478d02",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_003_CC0.zip"
+    },
+    {
+      "asset_id": "TD_004",
+      "source_model_id": "TD004_embroidered_mantle",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "星竜の刺繍マント",
+        "en": "Star-dragon embroidered mantle",
+        "zh-CN": "星龙刺绣披风"
+      },
+      "descriptions": {
+        "ja": "濃紺の盾に面刺繍の竜と翼、連続する花と月桂葉、扇形の裾、襟元と紅玉の留め具を備える深紅のマント。",
+        "en": "A crimson mantle with a filled gold dragon on a navy shield, floral borders, palmette hem and ruby clasp.",
+        "zh-CN": "深红披风，深蓝盾形底上的金色龙纹面刺绣、花叶边饰、扇形下摆及红宝石扣。"
+      },
+      "dimensions_m": [
+        1.543454647064209,
+        0.30786046385765076,
+        1.6960543394088745
+      ],
+      "zip_file": "TD_004_CC0.zip",
+      "zip_bytes": 8970985,
+      "zip_sha256": "0d663255ab52a95e6c3d32ae3b53f3da99e6aba27d860d51237dea10933efd2c",
+      "preview_file": "previews/TD_004_preview.png",
+      "preview_sha256": "c7a59a63d8af95919425c581a123a7e14c098f456e27df71df89f7c0bb5cd8c6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_004_CC0.zip"
+    },
+    {
+      "asset_id": "TD_005",
+      "source_model_id": "TD005_crystal_staff",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "翠晶を抱く魔法杖",
+        "en": "Crystal-bearing magic staff",
+        "zh-CN": "翠晶魔杖"
+      },
+      "descriptions": {
+        "ja": "螺旋の枝金具が大きな結晶を支え、革巻きと石突きを持つ長杖。",
+        "en": "Spiral metal branches cradle a large crystal above a leather grip and ferrule.",
+        "zh-CN": "螺旋金属枝托起大型晶体，配皮革握柄与杖尾金属套。"
+      },
+      "dimensions_m": [
+        0.19417305290699005,
+        0.17666853964328766,
+        1.840000033378601
+      ],
+      "zip_file": "TD_005_CC0.zip",
+      "zip_bytes": 713556,
+      "zip_sha256": "6b22cf22a6a518f884d152b483dc47d89af8f4f24123d5cae89d7e739005814d",
+      "preview_file": "previews/TD_005_preview.png",
+      "preview_sha256": "eeafa84112476c21659ea465ab39208372f516e9a4469bf18d1f8bd5b8006f35",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_005_CC0.zip"
+    },
+    {
+      "asset_id": "TD_006",
+      "source_model_id": "TD006_sealed_scroll",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "封蝋と金帯の秘伝巻物",
+        "en": "Wax-sealed secret scroll",
+        "zh-CN": "封蜡秘传卷轴"
+      },
+      "descriptions": {
+        "ja": "紙の巻き断面、二本の金帯、垂れた封紙と押印された赤い封蝋。",
+        "en": "Rolled parchment ends, two gold bands, a hanging seal strip and stamped red wax.",
+        "zh-CN": "羊皮纸卷端、两条金带、垂下的封条及压印红色封蜡。"
+      },
+      "dimensions_m": [
+        0.32440000772476196,
+        0.10850000381469727,
+        0.10400000214576721
+      ],
+      "zip_file": "TD_006_CC0.zip",
+      "zip_bytes": 737558,
+      "zip_sha256": "1ae4f8b02fd07399ca478fd47f0c83651cea36017c6f1241bb7c804b072426a4",
+      "preview_file": "previews/TD_006_preview.png",
+      "preview_sha256": "7f8c749ba84d650868b3efd6490ef8501c41a93023da8738ca145dc8c9acca8b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_006_CC0.zip"
+    },
+    {
+      "asset_id": "TD_007",
+      "source_model_id": "TD007_royal_coin",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "王家の紋章金貨",
+        "en": "Royal heraldic coin",
+        "zh-CN": "王家纹章金币"
+      },
+      "descriptions": {
+        "ja": "両面の縁、表の王冠紋、放射状刻みと側面のミル打ちを持つ金貨。",
+        "en": "Raised rims on both faces, a crown emblem, radial marks and a milled edge.",
+        "zh-CN": "双面凸缘、王冠纹章、放射刻纹及齿状边缘。"
+      },
+      "dimensions_m": [
+        0.04470000043511391,
+        0.04470000043511391,
+        0.0054000006057322025
+      ],
+      "zip_file": "TD_007_CC0.zip",
+      "zip_bytes": 680069,
+      "zip_sha256": "6d2f9285e473fa3114a692185298b3b158bfa0032de86ef158b91ab124769fd0",
+      "preview_file": "previews/TD_007_preview.png",
+      "preview_sha256": "096b5cdcb2080d1331b9d02ce48133d72fce5883a0946fc3b1b562702d1a2d7d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_007_CC0.zip"
+    },
+    {
+      "asset_id": "TD_008",
+      "source_model_id": "TD008_gold_ingot",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "刻印入り金塊",
+        "en": "Stamped gold ingot",
+        "zh-CN": "带印记的金锭"
+      },
+      "descriptions": {
+        "ja": "台形鋳型の金塊、面取りと純度刻印、別部品の検印。",
+        "en": "A tapered cast ingot with bevels, purity marks and a separate assay stamp detail.",
+        "zh-CN": "带倒角、纯度标记及独立检验印记部件的梯形铸造金锭。"
+      },
+      "dimensions_m": [
+        0.18822702765464783,
+        0.08391910046339035,
+        0.05570000037550926
+      ],
+      "zip_file": "TD_008_CC0.zip",
+      "zip_bytes": 623020,
+      "zip_sha256": "4b208938f19ba0b6a099b9e2f998f8bdd00a2fecc85565ebc8b642bdd0520cf5",
+      "preview_file": "previews/TD_008_preview.png",
+      "preview_sha256": "2a56ceec31a6f3f685105b1fe7fa7d7ac7ad431176417abac40fc6533909bfff",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_008_CC0.zip"
+    },
+    {
+      "asset_id": "TD_009",
+      "source_model_id": "TD009_gem_parcel",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "group",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "多面宝石の小山",
+        "en": "Faceted gem pile",
+        "zh-CN": "多面宝石堆"
+      },
+      "descriptions": {
+        "ja": "四種の色と異なる大きさの面取り宝石を集めた1グループ。個数を種類に加算しない。",
+        "en": "One group of bevelled gems in four colours and varied sizes; its contents are not counted separately.",
+        "zh-CN": "由四种颜色、不同尺寸的倒角宝石组成的一个组，不按内部颗数增加种类。"
+      },
+      "dimensions_m": [
+        0.20938649773597717,
+        0.21078920364379883,
+        0.03442375734448433
+      ],
+      "zip_file": "TD_009_CC0.zip",
+      "zip_bytes": 694766,
+      "zip_sha256": "36180ca75ebcb0779fbf5f1d8b2b5e4f9c4abd654bc25d00894575d5f23ac822",
+      "preview_file": "previews/TD_009_preview.png",
+      "preview_sha256": "4e493dbb6616b11f2607b543fca994ea8241b6dfd1f355b373fd4d39ace6379d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_009_CC0.zip"
+    },
+    {
+      "asset_id": "TD_010",
+      "source_model_id": "TD010_royal_crown",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "九葉の宝冠",
+        "en": "Nine-leaf royal crown",
+        "zh-CN": "九叶宝冠"
+      },
+      "descriptions": {
+        "ja": "透かしの葉飾り、赤と青の石留め、彫金の二重帯を備えた王冠。",
+        "en": "Openwork leaves, red and blue stone settings and a double engraved band.",
+        "zh-CN": "镂空叶饰、红蓝宝石镶座及双层雕花冠带。"
+      },
+      "dimensions_m": [
+        0.24035300314426422,
+        0.24406084418296814,
+        0.1189129427075386
+      ],
+      "zip_file": "TD_010_CC0.zip",
+      "zip_bytes": 756427,
+      "zip_sha256": "fefaaba6be9e2eb7b23f736f03e9ecf2b29a9886d9df47b9a3723e132fec420d",
+      "preview_file": "previews/TD_010_preview.png",
+      "preview_sha256": "50533bcbcf76e39e7212cc2374941b7424dbd5dd38d89e6f7bcfdcf321d6436d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_010_CC0.zip"
+    },
+    {
+      "asset_id": "TD_011",
+      "source_model_id": "TD011_open_treasure_chest",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "金装飾の開いた宝箱",
+        "en": "Open gilded treasure chest",
+        "zh-CN": "镀金敞开宝箱"
+      },
+      "descriptions": {
+        "ja": "内壁・底・曲面蓋・蝶番・角金具・鍵穴を持つ大箱。中身は別素材で配置。",
+        "en": "A large static chest with inner walls, floor, curved lid, hinges and corner fittings. Contents are separate assets.",
+        "zh-CN": "带内壁、底板、曲面箱盖、铰链与角部金属件的大型静态宝箱，内容物为独立素材。"
+      },
+      "dimensions_m": [
+        0.9399999976158142,
+        0.9514294862747192,
+        0.9872461557388306
+      ],
+      "zip_file": "TD_011_CC0.zip",
+      "zip_bytes": 806887,
+      "zip_sha256": "1fb7b08ff75fe819039c7e4c3d4b80a1aa80dc978991ef9ebf9ae82cdaea1c2e",
+      "preview_file": "previews/TD_011_preview.png",
+      "preview_sha256": "0fc2d8d92e438ddb03a32f0fa68e14bc349dbd283261f211b887e49ea0067a9c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_011_CC0.zip"
+    },
+    {
+      "asset_id": "TD_012",
+      "source_model_id": "TD012_reliquary_box",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "封印された宝石小箱",
+        "en": "Sealed jewel casket",
+        "zh-CN": "封印珠宝匣"
+      },
+      "descriptions": {
+        "ja": "四角い小箱、銀の格子金具、中央の赤石留め、底脚と蓋の合わせ目。",
+        "en": "A square casket with silver lattice fittings, a red centre stone, feet and a lid seam.",
+        "zh-CN": "方形小匣，配银色格状金属件、中央红宝石、底脚及箱盖接缝。"
+      },
+      "dimensions_m": [
+        0.31200000643730164,
+        0.2549999952316284,
+        0.26499998569488525
+      ],
+      "zip_file": "TD_012_CC0.zip",
+      "zip_bytes": 752931,
+      "zip_sha256": "085092caeccfa4fa95d53ee4acfbd4f80004023bf6060b901840d4034e99e876",
+      "preview_file": "previews/TD_012_preview.png",
+      "preview_sha256": "9cab25c90862ca0eb4531aa39fa09be8e0e3cc36fc6e180e01dc38c057b95d66",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_012_CC0.zip"
+    },
+    {
+      "asset_id": "TD_013",
+      "source_model_id": "TD013_brilliant_cut",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "円形ブリリアント宝石",
+        "en": "Round brilliant-cut gem",
+        "zh-CN": "圆形明亮式宝石"
+      },
+      "descriptions": {
+        "ja": "独立したカット形状。赤・青・緑・紫・琥珀の5色GLBを同梱し、色違いは別種類に数えない。",
+        "en": "One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.",
+        "zh-CN": "一种切割形状，附红、蓝、绿、紫、琥珀五色GLB，颜色不另计种类。"
+      },
+      "dimensions_m": [
+        0.06400000303983688,
+        0.06400000303983688,
+        0.04100000113248825
+      ],
+      "zip_file": "TD_013_CC0.zip",
+      "zip_bytes": 620486,
+      "zip_sha256": "704ec80c906113fa9afa0e865b4cca6f097087b62d1393a5f41f1b6d41e98a80",
+      "preview_file": "previews/TD_013_preview.png",
+      "preview_sha256": "7501483cb8773c6e08d1552bb0200a7781d92b5dec5f0f30f49c0e4261de965e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_013_CC0.zip"
+    },
+    {
+      "asset_id": "TD_014",
+      "source_model_id": "TD014_emerald_step_cut",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "長方形ステップカット宝石",
+        "en": "Rectangular step-cut gem",
+        "zh-CN": "长方形阶梯切割宝石"
+      },
+      "descriptions": {
+        "ja": "独立したカット形状。赤・青・緑・紫・琥珀の5色GLBを同梱し、色違いは別種類に数えない。",
+        "en": "One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.",
+        "zh-CN": "一种切割形状，附红、蓝、绿、紫、琥珀五色GLB，颜色不另计种类。"
+      },
+      "dimensions_m": [
+        0.07199999690055847,
+        0.09600000083446503,
+        0.04699999839067459
+      ],
+      "zip_file": "TD_014_CC0.zip",
+      "zip_bytes": 613269,
+      "zip_sha256": "89d74552a7abd7673f8c4b61a4c243b641b3cbf313ca5348adb7eac14419b7e0",
+      "preview_file": "previews/TD_014_preview.png",
+      "preview_sha256": "750bf742df5dd176a7094ad2deb840425a930b03cae3efcec7ee38b370964fb7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_014_CC0.zip"
+    },
+    {
+      "asset_id": "TD_015",
+      "source_model_id": "TD015_pear_cut",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "洋梨形カット宝石",
+        "en": "Pear-cut gem",
+        "zh-CN": "梨形切割宝石"
+      },
+      "descriptions": {
+        "ja": "独立したカット形状。赤・青・緑・紫・琥珀の5色GLBを同梱し、色違いは別種類に数えない。",
+        "en": "One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.",
+        "zh-CN": "一种切割形状，附红、蓝、绿、紫、琥珀五色GLB，颜色不另计种类。"
+      },
+      "dimensions_m": [
+        0.04981314390897751,
+        0.06400000303983688,
+        0.04100000113248825
+      ],
+      "zip_file": "TD_015_CC0.zip",
+      "zip_bytes": 623819,
+      "zip_sha256": "62ce3146b96e3a631c147dde9d96fb6597886fc8bf74833d9ca5a0c3db3a85f3",
+      "preview_file": "previews/TD_015_preview.png",
+      "preview_sha256": "2991e8d7dcb938e85a8ea28348d72e0fbdc227d607351dc2681a701cc141a772",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_015_CC0.zip"
+    },
+    {
+      "asset_id": "TD_016",
+      "source_model_id": "TD016_marquise_cut",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "マーキス形カット宝石",
+        "en": "Marquise-cut gem",
+        "zh-CN": "马眼形切割宝石"
+      },
+      "descriptions": {
+        "ja": "独立したカット形状。赤・青・緑・紫・琥珀の5色GLBを同梱し、色違いは別種類に数えない。",
+        "en": "One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.",
+        "zh-CN": "一种切割形状，附红、蓝、绿、紫、琥珀五色GLB，颜色不另计种类。"
+      },
+      "dimensions_m": [
+        0.03519999980926514,
+        0.08320000022649765,
+        0.04100000113248825
+      ],
+      "zip_file": "TD_016_CC0.zip",
+      "zip_bytes": 612025,
+      "zip_sha256": "acbb9c50a0df79c408dda4381ceca7c5339edbad9ad030145c43306523bd4ca9",
+      "preview_file": "previews/TD_016_preview.png",
+      "preview_sha256": "557127d07026feaf37b6fae276d071dd1cf8471ac5aa2399933a0a0a86eeb6b4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_016_CC0.zip"
+    },
+    {
+      "asset_id": "TD_017",
+      "source_model_id": "TD017_hex_crystal",
+      "category": "treasury",
+      "theme": "TD",
+      "record_kind": "model",
+      "revision": "treasury-v3-r3",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "六角柱の原石結晶",
+        "en": "Hexagonal crystal",
+        "zh-CN": "六角柱晶体"
+      },
+      "descriptions": {
+        "ja": "独立したカット形状。赤・青・緑・紫・琥珀の5色GLBを同梱し、色違いは別種類に数えない。",
+        "en": "One crystal shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.",
+        "zh-CN": "一种晶体形状，附红、蓝、绿、紫、琥珀五色GLB，颜色不另计种类。"
+      },
+      "dimensions_m": [
+        0.06400000303983688,
+        0.055425625294446945,
+        0.14000000059604645
+      ],
+      "zip_file": "TD_017_CC0.zip",
+      "zip_bytes": 615731,
+      "zip_sha256": "909103891fede3c6654275d81e42cc4f4b1a9fd65bead44ea4ac079f109b8bfa",
+      "preview_file": "previews/TD_017_preview.png",
+      "preview_sha256": "7393c0659a0e718ffc6a598401ea054bbf1e81bbe1f536ac3028f99ea67f9378",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_017_CC0.zip"
     }
   ]
 }

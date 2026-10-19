@@ -1,3 +1,19 @@
+# Dragon treasury — 17 CC0 distribution sets
+
+17配布記録＝16単品形状＋宝石小山1グループ。5形状×5色の宝石25 GLBは対応する単品ZIPに同梱し、色違いは別種類に加算しません。金貨14,167枚は場面内の複製配置数です。既存素材の再利用も加算しません。
+
+17 distribution records: 16 individual shapes and one gem-pile group. The 25 gem GLBs (five shapes in five colours) are included in the corresponding ZIPs; colours are not additional designs. The scene has 14,167 coin placements, not unique coin designs. Reused assets are excluded from the additions.
+
+17条分发记录：16种单体形状和1个宝石堆组合。五形状各五色，共25个宝石GLB，包含在对应的单体ZIP中，颜色不另计种类。场景内14,167枚金币是重复摆放数量，既有复用素材也不计入新增。
+
+340 previous + 17 = 357 distribution records (327 models, 26 groups, 2 separated components, 2 structural variants). This is not a claim of 357 unique categories. New armory remains excluded.
+
+[日本語](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/treasury.md) · [English](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/treasury.en.md) · [简体中文](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/treasury.zh-CN.md)
+
+17 individual ZIPs only. The private 18-ZIP QA set includes a full scene review archive and is not the public download set. Completed scenes, render images and articles are excluded from CC0. Models and display materials are CC0-1.0.
+
+---
+
 # Independent furnishings — 6 CC0 distribution sets
 
 Leather sofa, short-pile rug, three structurally distinct chimney oil lamps and a document side chest. Independent QA found no required fixes. Rug LOD1 is included in its rug ZIP and is not a seventh design. Static models; glass needs KHR_materials_transmission; flames do not include scene lights.
