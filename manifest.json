@@ -1,20 +1,22 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.18",
-  "item_count": 268,
+  "release_tag": "v2026.10.19-wizard-study",
+  "item_count": 308,
   "count_by_kind": {
-    "model": 241,
+    "model": 279,
     "derived_component": 2,
-    "group": 25
+    "group": 25,
+    "structural_variant": 2
   },
   "count_by_collection": {
     "tavern": 56,
     "harbor": 56,
     "lamp_shop": 58,
     "lamp_story_additions": 5,
-    "antique_shop": 93
+    "antique_shop": 93,
+    "wizard_study": 40
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -6986,6 +6988,1246 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_094_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "36cb38d49a3b3114e9c7901eee8fe214957e0b7a613e1f91b5c2ead355a17e05",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_001",
+      "source_model_id": "WS001_clasped_grimoire",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "双留め金の月章魔導書",
+        "en": "Moon-emblem grimoire with twin clasps",
+        "zh-CN": "双扣月纹魔法书"
+      },
+      "descriptions": {
+        "ja": "留め金と月章を備えた厚い閉本。",
+        "en": "A thick closed grimoire with twin clasps and a moon emblem.",
+        "zh-CN": "带双扣与月纹装饰的厚重闭合魔法书。"
+      },
+      "dimensions_m": [
+        0.26899999380111694,
+        0.33010053634643555,
+        0.11070559173822403
+      ],
+      "preview_file": "previews/WS_001_preview.png",
+      "preview_sha256": "f079beadea1b4d6d8a1a155a1250e8cd9d2e18b022ffb5b0d5681a0a47fa512b",
+      "zip_file": "WS_001_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_001_CC0.zip",
+      "zip_bytes": 5989938,
+      "zip_sha256": "9ecd384cd9ab7fabdb6223de156498cb425febfc82500364c6b89053f7d109a4",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_002",
+      "source_model_id": "WS002_field_notebook",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "紐綴じの野外採集帳",
+        "en": "Cord-bound field notebook",
+        "zh-CN": "绳装野外采集笔记本"
+      },
+      "descriptions": {
+        "ja": "野外での採集記録に使う紐綴じの帳面。",
+        "en": "A cord-bound notebook for field observations and collecting notes.",
+        "zh-CN": "用于野外观察与采集记录的绳装笔记本。"
+      },
+      "dimensions_m": [
+        0.164326012134552,
+        0.2563730478286743,
+        0.05779321491718292
+      ],
+      "preview_file": "previews/WS_002_preview.png",
+      "preview_sha256": "abcd3e47cb092e3cd66fa9df5e5e2d922e6dfbc77608eb6cfc5877c0079ea995",
+      "zip_file": "WS_002_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_002_CC0.zip",
+      "zip_bytes": 7526771,
+      "zip_sha256": "a42e27d7a30b28c526caee68a47b6e60df3b42e2d01c94353346127db330da77",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_003",
+      "source_model_id": "WS003_star_atlas",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "大型星図集",
+        "en": "Large star atlas",
+        "zh-CN": "大型星图册"
+      },
+      "descriptions": {
+        "ja": "机や本山に置ける大型の星図集。",
+        "en": "A large star atlas for a desk or a stack of reference books.",
+        "zh-CN": "可摆放于书桌或参考书堆中的大型星图册。"
+      },
+      "dimensions_m": [
+        0.33149999380111694,
+        0.3900403678417206,
+        0.0696900263428688
+      ],
+      "preview_file": "previews/WS_003_preview.png",
+      "preview_sha256": "c77ca7f2b17a166f8f230d93fee57365af98c320a8bf19afa2fd8ca449d44c30",
+      "zip_file": "WS_003_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_003_CC0.zip",
+      "zip_bytes": 4404055,
+      "zip_sha256": "c86306965543be30af1f74f9b97969e22ad92b51732f0bd1f1cbd31ae94b28f1",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_004",
+      "source_model_id": "WS004_reference_folio",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "背帯付き参考書",
+        "en": "Banded reference folio",
+        "zh-CN": "带书脊绑带的参考书"
+      },
+      "descriptions": {
+        "ja": "背帯を備えた参考書。積み本にも使える。",
+        "en": "A reference folio with spine bands, suitable for book piles.",
+        "zh-CN": "带书脊绑带的参考书，也可用于堆叠摆放。"
+      },
+      "dimensions_m": [
+        0.2371172159910202,
+        0.300073504447937,
+        0.0937352403998375
+      ],
+      "preview_file": "previews/WS_004_preview.png",
+      "preview_sha256": "7a8f8427c9920ce2d83724b7615ec4075117e84898bbc28887c210e1145610c7",
+      "zip_file": "WS_004_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_004_CC0.zip",
+      "zip_bytes": 6202590,
+      "zip_sha256": "e10e607d002dfd00c9b328740dbb7d7de5a984b9122da13a635f9e5e3f1f20df",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_005",
+      "source_model_id": "WS005_thin_index",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "薄い索引冊子",
+        "en": "Slim index booklet",
+        "zh-CN": "薄型索引册"
+      },
+      "descriptions": {
+        "ja": "厚い専門書と組み合わせやすい薄い索引冊子。",
+        "en": "A slim index booklet to pair with thicker reference volumes.",
+        "zh-CN": "适合与厚重专业书籍搭配的薄型索引册。"
+      },
+      "dimensions_m": [
+        0.1841413825750351,
+        0.25001513957977295,
+        0.031372252851724625
+      ],
+      "preview_file": "previews/WS_005_preview.png",
+      "preview_sha256": "fb6d5064c7da824d2c93816c599c269fc59def24d08f0c34729bafcc3e6b5623",
+      "zip_file": "WS_005_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_005_CC0.zip",
+      "zip_bytes": 7328415,
+      "zip_sha256": "f67fc3ef406d81c059fa2a49a5511a2a776dff024b971a91f5134a0a829679a5",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_006",
+      "source_model_id": "WS006_open_manuscript",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "書込みのある開いた研究書",
+        "en": "Open annotated manuscript",
+        "zh-CN": "摊开的批注研究书"
+      },
+      "descriptions": {
+        "ja": "研究途中の机や書見台に使える開本。",
+        "en": "An open annotated manuscript for a research desk or lectern.",
+        "zh-CN": "适合研究桌或读书架的摊开批注书。"
+      },
+      "dimensions_m": [
+        0.49113231897354126,
+        0.3755047619342804,
+        0.04038912057876587
+      ],
+      "preview_file": "previews/WS_006_preview.png",
+      "preview_sha256": "ad5289a55ebe7d5affba01bbc30264dcbbc3f45a859ca7f672cb4d386243458d",
+      "zip_file": "WS_006_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_006_CC0.zip",
+      "zip_bytes": 8148202,
+      "zip_sha256": "85f121f3139b1c7b2ce68473ae557dcf1b3f5dba9f0ad3e099aad94bc7f19ae9",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_007",
+      "source_model_id": "WS007_sealed_scroll",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "封蝋付き巻物",
+        "en": "Wax-sealed scroll",
+        "zh-CN": "蜡封卷轴"
+      },
+      "descriptions": {
+        "ja": "棚や机へ置ける封蝋付きの巻物。",
+        "en": "A wax-sealed scroll for a shelf or desk.",
+        "zh-CN": "可摆放在书架或桌面上的蜡封卷轴。"
+      },
+      "dimensions_m": [
+        0.28200000524520874,
+        0.0629010945558548,
+        0.06180422753095627
+      ],
+      "preview_file": "previews/WS_007_preview.png",
+      "preview_sha256": "ee4804840a0d3bba2d181073ec1bf3bcb832af7cf5a15e505f428e311f519360",
+      "zip_file": "WS_007_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_007_CC0.zip",
+      "zip_bytes": 9798825,
+      "zip_sha256": "a6293653b2dae68cdbc7b09d6aec8abfd3348b54c639d64d388cbb21375d7cf0",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_008",
+      "source_model_id": "WS008_unrolled_scroll",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "開いた調査地図",
+        "en": "Unrolled survey chart",
+        "zh-CN": "展开的调查地图"
+      },
+      "descriptions": {
+        "ja": "調査中の場面に使える、広げた地図。",
+        "en": "An unrolled survey chart for a scene of ongoing research.",
+        "zh-CN": "用于表现调查过程的展开地图。"
+      },
+      "dimensions_m": [
+        0.4660000205039978,
+        0.3199999928474426,
+        0.03600001335144043
+      ],
+      "preview_file": "previews/WS_008_preview.png",
+      "preview_sha256": "6c186b9e567e665737a44a965d2c6f5b1965e5464e290f329f2f2395f4db2b6b",
+      "zip_file": "WS_008_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_008_CC0.zip",
+      "zip_bytes": 2916637,
+      "zip_sha256": "312965dba6511619c40681af6240b3779ca6ab41b62141c1fa4e886481a1b285",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_009",
+      "source_model_id": "WS009_twin_rollers_scroll",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "両軸式の儀式巻物",
+        "en": "Twin-roller ritual scroll",
+        "zh-CN": "双轴仪式卷轴"
+      },
+      "descriptions": {
+        "ja": "両端に軸を備えた儀式用の巻物。",
+        "en": "A ritual scroll with rollers at both ends.",
+        "zh-CN": "两端带卷轴杆的仪式用卷轴。"
+      },
+      "dimensions_m": [
+        0.4660000205039978,
+        0.42399999499320984,
+        0.03600001335144043
+      ],
+      "preview_file": "previews/WS_009_preview.png",
+      "preview_sha256": "dabd8e0edd6868cfe2fde8ed0d8683f5b5ecdf72edf3a7c77205dcb7d689ccb2",
+      "zip_file": "WS_009_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_009_CC0.zip",
+      "zip_bytes": 10566834,
+      "zip_sha256": "45d145afb7bcb098d1bd8cddc1f1a129e762a9d40908fd3cb1ec5dadad578849",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_010",
+      "source_model_id": "WS010_research_desk",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "引出し付き研究机",
+        "en": "Research desk with drawers",
+        "zh-CN": "带抽屉的研究桌"
+      },
+      "descriptions": {
+        "ja": "引出しと広い天板を備えた研究机。",
+        "en": "A research desk with drawers and a broad working surface.",
+        "zh-CN": "带抽屉与宽阔工作台面的研究桌。"
+      },
+      "dimensions_m": [
+        1.725000023841858,
+        0.8999999761581421,
+        0.8224999904632568
+      ],
+      "preview_file": "previews/WS_010_preview.png",
+      "preview_sha256": "c24da64db6b9bb8c1fc382f2d6c7991058e1c5cea35298e5aa7a83f4ec97db2a",
+      "zip_file": "WS_010_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_010_CC0.zip",
+      "zip_bytes": 10729350,
+      "zip_sha256": "eb4bef908578a5bf4118291dde50740aee47e6c571e5ddb24e8b7c9a003a12f2",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_011",
+      "source_model_id": "WS011_library_bay",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "彫刻柱付き書架",
+        "en": "Library bay with carved columns",
+        "zh-CN": "带雕饰立柱的书架"
+      },
+      "descriptions": {
+        "ja": "彫刻柱と下部収納を備えた書架。",
+        "en": "A library bay with carved columns and lower storage.",
+        "zh-CN": "带雕饰立柱与下部收纳柜的书架。"
+      },
+      "dimensions_m": [
+        1.3200000524520874,
+        0.559999942779541,
+        2.507499933242798
+      ],
+      "preview_file": "previews/WS_011_preview.png",
+      "preview_sha256": "218760853515ed63b8c892821f43ca5252b8ee7fdbbd8af2b0448c15bc223137",
+      "zip_file": "WS_011_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_011_CC0.zip",
+      "zip_bytes": 8788949,
+      "zip_sha256": "715de47c75aac719b155e14ed1d076f50518c5ce246d6a51b9d70d2537d01b44",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_012",
+      "source_model_id": "WS012_map_cabinet",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "平面地図の引出し棚",
+        "en": "Flat map cabinet",
+        "zh-CN": "平面地图抽屉柜"
+      },
+      "descriptions": {
+        "ja": "平らな地図や図面を収める引出し棚。",
+        "en": "A drawer cabinet for flat maps and plans.",
+        "zh-CN": "用于平放地图与图纸的抽屉柜。"
+      },
+      "dimensions_m": [
+        1.1200000047683716,
+        0.9100000262260437,
+        0.8850000500679016
+      ],
+      "preview_file": "previews/WS_012_preview.png",
+      "preview_sha256": "ff52c0837073f5e57182ca942d48c49ed94431ea787fc149e362ce209d0cf382",
+      "zip_file": "WS_012_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_012_CC0.zip",
+      "zip_bytes": 7254786,
+      "zip_sha256": "91d2bbdb42274bc45e344309df85516c47f1f95e2bcccec2f0ab8ff460addf4d",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_013",
+      "source_model_id": "WS013_catalog_cabinet",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "24抽斗の資料目録棚",
+        "en": "24-drawer catalogue cabinet",
+        "zh-CN": "二十四抽屉目录柜"
+      },
+      "descriptions": {
+        "ja": "資料目録を分類する24抽斗の棚。",
+        "en": "A 24-drawer cabinet for organizing catalogue records.",
+        "zh-CN": "用于分类资料目录的二十四抽屉柜。"
+      },
+      "dimensions_m": [
+        0.8799999952316284,
+        0.4514999985694885,
+        1.149999976158142
+      ],
+      "preview_file": "previews/WS_013_preview.png",
+      "preview_sha256": "29e5af6e3ec893ab7b88d37532fc5638099415a1bfb09953a768ea3dde0cbfb9",
+      "zip_file": "WS_013_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_013_CC0.zip",
+      "zip_bytes": 30637579,
+      "zip_sha256": "add719bc49473346fd2812684c82615dc55024c010c70b28079f0e3f4fead7bd",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_014",
+      "source_model_id": "WS014_reading_lectern",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "傾斜天板の書見台",
+        "en": "Sloped reading lectern",
+        "zh-CN": "倾斜式读书架"
+      },
+      "descriptions": {
+        "ja": "開本を読みやすい角度に置く書見台。",
+        "en": "A sloped lectern for displaying an open book.",
+        "zh-CN": "可将摊开的书本倾斜摆放的读书架。"
+      },
+      "dimensions_m": [
+        0.550000011920929,
+        0.3915010392665863,
+        0.9486557245254517
+      ],
+      "preview_file": "previews/WS_014_preview.png",
+      "preview_sha256": "e9ed5bed492bae5ed36b054d4970044e667c85cf7d9b9cd69a5dcfa8b097b79a",
+      "zip_file": "WS_014_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_014_CC0.zip",
+      "zip_bytes": 6062537,
+      "zip_sha256": "304c445caded5578436386bebf564a6fd04dd734d294fbdafda882dce32a5fbf",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_015",
+      "source_model_id": "WS015_upholstered_chair",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "高背の読書椅子",
+        "en": "High-backed reading chair",
+        "zh-CN": "高背阅读椅"
+      },
+      "descriptions": {
+        "ja": "背もたれの高い、張り地付きの読書椅子。",
+        "en": "An upholstered reading chair with a high back.",
+        "zh-CN": "带软包与高靠背的阅读椅。"
+      },
+      "dimensions_m": [
+        0.5699999928474426,
+        0.5299999713897705,
+        1.4137763977050781
+      ],
+      "preview_file": "previews/WS_015_preview.png",
+      "preview_sha256": "11fe30a520a53a96e1e1457df56c92eaf0e5fa4bfad207aebde8a38f3ebe1f24",
+      "zip_file": "WS_015_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_015_CC0.zip",
+      "zip_bytes": 11432689,
+      "zip_sha256": "a2384bb196433613cbc90652ad490c9899e37ba0b2029b386e64301064c2a0ca",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_016",
+      "source_model_id": "WS016_rolling_ladder",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "書架用の真鍮滑車梯子",
+        "en": "Library ladder with brass rollers",
+        "zh-CN": "带黄铜滚轮的书架梯"
+      },
+      "descriptions": {
+        "ja": "書架へ掛けて使う真鍮滑車付き梯子。",
+        "en": "A library ladder with brass rollers for a bookcase rail.",
+        "zh-CN": "带黄铜滚轮、可配合书架轨道使用的梯子。"
+      },
+      "dimensions_m": [
+        0.45000001788139343,
+        0.5846779346466064,
+        2.150848150253296
+      ],
+      "preview_file": "previews/WS_016_preview.png",
+      "preview_sha256": "c9cd1f8547138abf26dfa769aa35531a3312c1f2a3a90f8013d60592fb31ee98",
+      "zip_file": "WS_016_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_016_CC0.zip",
+      "zip_bytes": 5082081,
+      "zip_sha256": "57674fd2dc373c823cf42b717e32782006a8f60deb6409d44fc979e0797dcd52",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_017",
+      "source_model_id": "WS017_book_press",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "修復用の木製製本プレス",
+        "en": "Wooden bookbinding press",
+        "zh-CN": "木制装订压书机"
+      },
+      "descriptions": {
+        "ja": "書籍の補修作業を表す木製の製本プレス。",
+        "en": "A wooden bookbinding press for a book restoration workspace.",
+        "zh-CN": "用于表现书籍修复工作的木制装订压书机。"
+      },
+      "dimensions_m": [
+        0.47999998927116394,
+        0.3400000035762787,
+        0.4619999825954437
+      ],
+      "preview_file": "previews/WS_017_preview.png",
+      "preview_sha256": "9bba1a0f8e642f3e2b41990aa46950a7378ea78c0986458eed43391e056d8c4b",
+      "zip_file": "WS_017_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_017_CC0.zip",
+      "zip_bytes": 8296018,
+      "zip_sha256": "250f0fde21c1d11c41e8383acff446b3317e69ba44d0c28a6e538fb70db89956",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_018",
+      "source_model_id": "WS018_specimen_1",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "結晶標本の広口瓶",
+        "en": "Wide-mouth crystal specimen jar",
+        "zh-CN": "广口晶体标本瓶"
+      },
+      "descriptions": {
+        "ja": "結晶標本を収めた広口の容器。",
+        "en": "A wide-mouth jar containing a crystal specimen.",
+        "zh-CN": "装有晶体标本的广口容器。"
+      },
+      "dimensions_m": [
+        0.17249999940395355,
+        0.17249999940395355,
+        0.27180424332618713
+      ],
+      "preview_file": "previews/WS_018_preview.png",
+      "preview_sha256": "c207a97906cb1ad3be412884a9fa21c8d77ff6717fe97c6b315b3614a13d29f1",
+      "zip_file": "WS_018_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_018_CC0.zip",
+      "zip_bytes": 3517680,
+      "zip_sha256": "1c0a88cda7327be98ada0737c7883569201c9d35819d03d362e979e90b14f45e",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_019",
+      "source_model_id": "WS019_specimen_2",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "羽根標本の細口瓶",
+        "en": "Narrow-neck feather specimen jar",
+        "zh-CN": "细口羽毛标本瓶"
+      },
+      "descriptions": {
+        "ja": "羽根の標本を収めた細口の容器。",
+        "en": "A narrow-neck container holding a feather specimen.",
+        "zh-CN": "装有羽毛标本的细口容器。"
+      },
+      "dimensions_m": [
+        0.11959999799728394,
+        0.11959999799728394,
+        0.31180423498153687
+      ],
+      "preview_file": "previews/WS_019_preview.png",
+      "preview_sha256": "a76fb9d34fdac105130eed8c7ebbd3c0c44625e68023bd25a2c7270745abed5f",
+      "zip_file": "WS_019_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_019_CC0.zip",
+      "zip_bytes": 6561036,
+      "zip_sha256": "3c54abb30d9e5b1b8c7937e1053d2638c1b0f4d07e1b52e34a639e1709f69116",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_020",
+      "source_model_id": "WS020_specimen_3",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "植物採集のドーム",
+        "en": "Botanical specimen dome",
+        "zh-CN": "植物标本玻璃罩"
+      },
+      "descriptions": {
+        "ja": "採集した植物を展示するドーム状容器。",
+        "en": "A domed container displaying a collected plant specimen.",
+        "zh-CN": "展示采集植物标本的圆顶容器。"
+      },
+      "dimensions_m": [
+        0.2070000022649765,
+        0.2070000022649765,
+        0.24180422723293304
+      ],
+      "preview_file": "previews/WS_020_preview.png",
+      "preview_sha256": "b603f1b83718993a1981850db4702bdb72ddf35501fe3171b190b5804a34aa72",
+      "zip_file": "WS_020_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_020_CC0.zip",
+      "zip_bytes": 8027828,
+      "zip_sha256": "c4704f59a6ae89b23c2150749bf474fe286e43333c2108dbdf545de5a46dac5e",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_021",
+      "source_model_id": "WS021_scribes_kit",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "羽根ペンとインク壺の筆記台",
+        "en": "Quill and ink writing set",
+        "zh-CN": "羽毛笔与墨水书写套具"
+      },
+      "descriptions": {
+        "ja": "羽根ペンとインク壺をまとめた筆記台。",
+        "en": "A writing set combining a quill and ink bottle.",
+        "zh-CN": "将羽毛笔与墨水瓶组合在一起的书写套具。"
+      },
+      "dimensions_m": [
+        0.3100000023841858,
+        0.1599999964237213,
+        0.3212292194366455
+      ],
+      "preview_file": "previews/WS_021_preview.png",
+      "preview_sha256": "045d0f593989ae69f550a7311e22251bd75a53fc4be95081a17e2252802c5b57",
+      "zip_file": "WS_021_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_021_CC0.zip",
+      "zip_bytes": 5665528,
+      "zip_sha256": "e381438156b4b5dbc02de1773b404f79b0c93aaf095a08a5b45c8639b0ffcff8",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_022",
+      "source_model_id": "WS022_magnifier",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "机上の拡大鏡",
+        "en": "Desk magnifying glass",
+        "zh-CN": "桌面放大镜"
+      },
+      "descriptions": {
+        "ja": "細かな記録や標本の観察に使う拡大鏡。",
+        "en": "A magnifying glass for inspecting fine records and specimens.",
+        "zh-CN": "用于观察细小记录与标本的放大镜。"
+      },
+      "dimensions_m": [
+        0.21799999475479126,
+        0.09600000083446503,
+        0.017119016498327255
+      ],
+      "preview_file": "previews/WS_022_preview.png",
+      "preview_sha256": "b8e0984a39d57381d82ba0f3f843227c4ba58b045fc2b2750c7acd96f5a53c6e",
+      "zip_file": "WS_022_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_022_CC0.zip",
+      "zip_bytes": 966864,
+      "zip_sha256": "5c92809f54ab0a1808d4d77a9bec30e5d22a46f2b537faa9e6bb3f178b3c9bdc",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_023",
+      "source_model_id": "WS023_hourglass",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "真鍮柱の砂時計",
+        "en": "Hourglass with brass columns",
+        "zh-CN": "黄铜立柱沙漏"
+      },
+      "descriptions": {
+        "ja": "研究机の小物として使える真鍮柱の砂時計。",
+        "en": "An hourglass with brass columns for a research desk.",
+        "zh-CN": "适合研究桌摆设的黄铜立柱沙漏。"
+      },
+      "dimensions_m": [
+        0.12999999523162842,
+        0.12999999523162842,
+        0.27300000190734863
+      ],
+      "preview_file": "previews/WS_023_preview.png",
+      "preview_sha256": "ef6e3a58df35dd09edaff4e3a7144e9f3ed1016646acab7da6f6a5ef0fc77d14",
+      "zip_file": "WS_023_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_023_CC0.zip",
+      "zip_bytes": 10787912,
+      "zip_sha256": "b1ed2f954861225a6f6f6bbbb3243c8ef6d29a750a44a99513b6324ba62c6b47",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_024",
+      "source_model_id": "WS024_observatory_lamp",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "遮光フード付き研究灯",
+        "en": "Hooded research lamp",
+        "zh-CN": "带遮光罩的研究灯"
+      },
+      "descriptions": {
+        "ja": "遮光フードを備えた卓上研究灯。",
+        "en": "A tabletop research lamp with a shade hood.",
+        "zh-CN": "带遮光罩的桌面研究灯。"
+      },
+      "dimensions_m": [
+        0.32999998331069946,
+        0.20000000298023224,
+        0.3689553439617157
+      ],
+      "preview_file": "previews/WS_024_preview.png",
+      "preview_sha256": "38c96f34ca6cee9c0625b83d1b4caf2143a27bc050fd216468499a179ca53585",
+      "zip_file": "WS_024_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_024_CC0.zip",
+      "zip_bytes": 994895,
+      "zip_sha256": "2501af6ad45911284c581e6af7b0a64df3c807ede7663a50685f9ba5d9db84d7",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_025",
+      "source_model_id": "WS025_armillary",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "卓上の観測環",
+        "en": "Tabletop armillary sphere",
+        "zh-CN": "桌面浑天仪"
+      },
+      "descriptions": {
+        "ja": "複数の環を備えた卓上の観測器具。",
+        "en": "A tabletop astronomical instrument with multiple rings.",
+        "zh-CN": "带多重圆环的桌面天文观测仪器。"
+      },
+      "dimensions_m": [
+        0.31950801610946655,
+        0.3100000023841858,
+        0.4497552812099457
+      ],
+      "preview_file": "previews/WS_025_preview.png",
+      "preview_sha256": "7a4d20d7c516efd7e1a013fbf99ae6ba9050a69ca810f8b2126b7b304f321c4a",
+      "zip_file": "WS_025_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_025_CC0.zip",
+      "zip_bytes": 7156242,
+      "zip_sha256": "6eee566472b8fe916a4bd11f7e7b28cefd4399f72d66660c963eef5e35c3754d",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_026",
+      "source_model_id": "WS026_archive_chest",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "封印資料の保管箱",
+        "en": "Sealed archive chest",
+        "zh-CN": "封存资料箱"
+      },
+      "descriptions": {
+        "ja": "封印された資料の保管を表す収納箱。",
+        "en": "A storage chest for sealed archival material.",
+        "zh-CN": "用于表现封存资料保管的收纳箱。"
+      },
+      "dimensions_m": [
+        0.5339999794960022,
+        0.389135479927063,
+        0.385608434677124
+      ],
+      "preview_file": "previews/WS_026_preview.png",
+      "preview_sha256": "e3bf1e1e8f1b9c0f0f4f65c43ff7881677b30e2281627d348e17aa07960feacd",
+      "zip_file": "WS_026_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_026_CC0.zip",
+      "zip_bytes": 3086779,
+      "zip_sha256": "c4147a82cfc2cdd8ad65702c81624a43c50685aa200f15b986eecf1a2a83d8cb",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_027",
+      "source_model_id": "WS027_archive_box",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革取手の文書保存箱",
+        "en": "Document box with leather handles",
+        "zh-CN": "皮革提手档案盒"
+      },
+      "descriptions": {
+        "ja": "革の取手を備えた文書保存箱。",
+        "en": "A document storage box with leather handles.",
+        "zh-CN": "带皮革提手的文档保存盒。"
+      },
+      "dimensions_m": [
+        0.30000001192092896,
+        0.4006580710411072,
+        0.1705000102519989
+      ],
+      "preview_file": "previews/WS_027_preview.png",
+      "preview_sha256": "9a66372f3232afdc20a7255a92f858f3e01456962b7650993edac7e9251bd9e3",
+      "zip_file": "WS_027_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_027_CC0.zip",
+      "zip_bytes": 5525144,
+      "zip_sha256": "dc6d03acbea10b956fa0bacb410d79615ba18527afd58bf840c67850e904d127",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_028",
+      "source_model_id": "WS028_chart_stand",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻物整理用の六穴ラック",
+        "en": "Six-slot scroll rack",
+        "zh-CN": "六孔卷轴收纳架"
+      },
+      "descriptions": {
+        "ja": "巻物を立てて分類する六穴ラック。",
+        "en": "A six-slot rack for storing and sorting upright scrolls.",
+        "zh-CN": "用于竖放与分类卷轴的六孔收纳架。"
+      },
+      "dimensions_m": [
+        0.4650000035762787,
+        0.3449999988079071,
+        0.34755000472068787
+      ],
+      "preview_file": "previews/WS_028_preview.png",
+      "preview_sha256": "1d17cf00a05fa1f8cebc55e6c6007cadcdbd343a9e176fd9f51e356a14b54e99",
+      "zip_file": "WS_028_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_028_CC0.zip",
+      "zip_bytes": 17883679,
+      "zip_sha256": "c120cccb06a863f8fd86f59b127f8f7042657f15c920021d47f3a956c54c4ce6",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_029",
+      "source_model_id": "WS029_chalk_slate",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "計算途中の石板",
+        "en": "Working calculation slate",
+        "zh-CN": "演算中的石板"
+      },
+      "descriptions": {
+        "ja": "計算途中の書込みを残した石板。",
+        "en": "A slate with working calculations left on its surface.",
+        "zh-CN": "表面保留演算笔迹的石板。"
+      },
+      "dimensions_m": [
+        0.3499999940395355,
+        0.25999999046325684,
+        0.04399999976158142
+      ],
+      "preview_file": "previews/WS_029_preview.png",
+      "preview_sha256": "035a17a703d5f09349b3e74b567da7c49a7f2b20fc642a1dd40b54ce0a04934b",
+      "zip_file": "WS_029_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_029_CC0.zip",
+      "zip_bytes": 10144868,
+      "zip_sha256": "f6c5e797f9aac2efcd1e1e7e147904f6069a020403ad828da1d1a9804709e13d",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_030",
+      "source_model_id": "WS030_footstool",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "八角の踏み台",
+        "en": "Octagonal footstool",
+        "zh-CN": "八角踏凳"
+      },
+      "descriptions": {
+        "ja": "書斎で足台や仮置き台として使う八角の踏み台。",
+        "en": "An octagonal footstool that can also serve as a small temporary stand.",
+        "zh-CN": "可作脚踏或临时置物台的八角踏凳。"
+      },
+      "dimensions_m": [
+        0.43748030066490173,
+        0.43748030066490173,
+        0.3559449315071106
+      ],
+      "preview_file": "previews/WS_030_preview.png",
+      "preview_sha256": "e9542734b4ef7f3133046b3a2f4c688190e81fc7a59ce4a0830603766c303cd9",
+      "zip_file": "WS_030_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_030_CC0.zip",
+      "zip_bytes": 9998654,
+      "zip_sha256": "c18e064d6dba83d7460d4cbe1d7c09ef055fa6826c444dc50a98273713fcdca1",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_031",
+      "source_model_id": "WS031_archive_lantern",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "六角真鍮ランタン",
+        "en": "Hexagonal brass lantern",
+        "zh-CN": "六角黄铜提灯"
+      },
+      "descriptions": {
+        "ja": "ガラス面と持ち手を備えた六角形の真鍮ランタン。",
+        "en": "A hexagonal brass lantern with glass panes and a carrying loop.",
+        "zh-CN": "带玻璃面板与提环的六角黄铜提灯。"
+      },
+      "dimensions_m": [
+        0.19745378196239471,
+        0.2280000001192093,
+        0.3773287236690521
+      ],
+      "preview_file": "previews/WS_031_preview.png",
+      "preview_sha256": "ec65b7d2f92115fcc3a792375e865ab7565b25e9e0e59b0c8867ae1592e71be7",
+      "zip_file": "WS_031_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_031_CC0.zip",
+      "zip_bytes": 721626,
+      "zip_sha256": "42fc87459c6ca5d90b7efe58549b6ad382fbb951e7ee1f75592f11d47f6db979",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_032",
+      "source_model_id": "WS032_serpentine_paperweight",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "蛇紋石の文鎮",
+        "en": "Serpentine paperweight",
+        "zh-CN": "蛇纹石镇纸"
+      },
+      "descriptions": {
+        "ja": "広げた羊皮紙を押さえる石の文鎮。",
+        "en": "A serpentine stone paperweight for holding open parchment.",
+        "zh-CN": "用于压住展开羊皮纸的蛇纹石镇纸。"
+      },
+      "dimensions_m": [
+        0.10000000149011612,
+        0.04500000178813934,
+        0.01849999837577343
+      ],
+      "preview_file": "previews/WS_032_preview.png",
+      "preview_sha256": "a687a62b2772b1716083d520da29f99028a3ccefd33338e9996d539aa41062e7",
+      "zip_file": "WS_032_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_032_CC0.zip",
+      "zip_bytes": 624840,
+      "zip_sha256": "91e40b65774240f96c6b00b0cbd3a08eae158132116cd3454a06e3fd0f406aee",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_033",
+      "source_model_id": "WS033_tall_library_bay",
+      "record_kind": "structural_variant",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "五段開架の高書架",
+        "en": "Tall five-tier bookcase",
+        "zh-CN": "五层开放式高书架"
+      },
+      "descriptions": {
+        "ja": "WS011の断面を保ち、支柱を延長して棚を一段追加した構造違い。",
+        "en": "A structural variant of WS011 with extended uprights and an extra shelf; member cross-sections are retained.",
+        "zh-CN": "WS011的结构变体：延长立柱并增加一层搁板，保留原构件截面尺寸。"
+      },
+      "dimensions_m": [
+        1.3200000524520874,
+        0.559999942779541,
+        2.9774999618530273
+      ],
+      "preview_file": "previews/WS_033_preview.png",
+      "preview_sha256": "d0cae62ad8106e8a07b19fec92d3cf776823c789fb88c22a0e966d951c761a8c",
+      "zip_file": "WS_033_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_033_CC0.zip",
+      "zip_bytes": 9175913,
+      "zip_sha256": "b5dd8ad5a8a69f7d781d2aad9e7b7b204f92cfaa80afc2430e9c1e631c79113b",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_034",
+      "source_model_id": "WS034_hooked_library_ladder",
+      "record_kind": "structural_variant",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "高書架の掛け梯子",
+        "en": "Hooked tall library ladder",
+        "zh-CN": "高书架挂钩梯"
+      },
+      "descriptions": {
+        "ja": "水平な踏板10段、革底、真鍮フックを備える高書架用の構造違い。",
+        "en": "A tall structural ladder variant with ten level treads, leather soles and brass rail hooks.",
+        "zh-CN": "用于高书架的梯子结构变体，带十级水平踏板、皮革底垫与黄铜挂钩。"
+      },
+      "dimensions_m": [
+        0.5450000166893005,
+        0.7196084856987,
+        2.7496085166931152
+      ],
+      "preview_file": "previews/WS_034_preview.png",
+      "preview_sha256": "c9ee3928182bd425562310a6ec08669fd2190b74f640532bb5d6c2982fa43975",
+      "zip_file": "WS_034_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_034_CC0.zip",
+      "zip_bytes": 995682,
+      "zip_sha256": "eaf3785afc26da369fd7c067ca77d4cbbe3fdeceff642bad1fd0250fbe74a1f5",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_035",
+      "source_model_id": "WS035_mineral_sorting_tray",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鉱物仕分け標本箱",
+        "en": "Mineral sorting tray",
+        "zh-CN": "矿物分类标本盒"
+      },
+      "descriptions": {
+        "ja": "九室の木箱にフェルト、結晶標本、個別札を収めた仕分け箱。",
+        "en": "A nine-compartment wooden tray with felt, crystal specimens and individual labels.",
+        "zh-CN": "带九个分格的木质标本盒，内含毛毡、晶体标本与独立标签。"
+      },
+      "dimensions_m": [
+        0.47999998927116394,
+        0.3400000035762787,
+        0.09799999743700027
+      ],
+      "preview_file": "previews/WS_035_preview.png",
+      "preview_sha256": "370ec984d8c443fec73a5a13bece360a5a460b5361b1bf44aa7ffe2e11323675",
+      "zip_file": "WS_035_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_035_CC0.zip",
+      "revision": "v10-ws035-r1",
+      "zip_bytes": 1067478,
+      "zip_sha256": "b8efeb555db3f042961402aeee369b4aee2d256bd505bb72354d6ddd3e6c2074",
+      "category": "wizard-study",
+      "theme": "WS",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_036",
+      "source_model_id": "WS036_open_document_portfolio",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "開いた革の資料挟み",
+        "en": "Open leather document portfolio",
+        "zh-CN": "打开的皮革文件夹"
+      },
+      "descriptions": {
+        "ja": "折り返した表紙、別体の資料、綴じ紐、索引札を備える資料挟み。",
+        "en": "An open leather portfolio with a folded-out cover, separate sheets, tie cords and an index tab.",
+        "zh-CN": "打开的皮革文件夹，带翻开的封面、独立纸页、系绳与索引标签。"
+      },
+      "dimensions_m": [
+        0.5840230584144592,
+        0.3517051637172699,
+        0.027678659185767174
+      ],
+      "preview_file": "previews/WS_036_preview.png",
+      "preview_sha256": "7e2d469bac2cd79173b1ace2f6ed1b40f91178406f36017b4c140b44d6470ffa",
+      "zip_file": "WS_036_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_036_CC0.zip",
+      "zip_bytes": 947491,
+      "zip_sha256": "27d9e1d35191610ffafaeb009bbfdc4ce6a3601dae092ce6f563d84ec71b42ae",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_037",
+      "source_model_id": "WS037_apothecary_balance",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "研究用の皿天秤",
+        "en": "Apothecary balance",
+        "zh-CN": "研究用盘式天平"
+      },
+      "descriptions": {
+        "ja": "浅い皿の三点吊り、指針と目盛、4つの分銅を備えた小型天秤。",
+        "en": "A small balance with three-point suspended pans, a pointer, scale marks and four weights.",
+        "zh-CN": "小型盘式天平，带三点悬挂秤盘、指针、刻度与四个砝码。"
+      },
+      "dimensions_m": [
+        0.5679999589920044,
+        0.1899999976158142,
+        0.3700000047683716
+      ],
+      "preview_file": "previews/WS_037_preview.png",
+      "preview_sha256": "eb1e97d7cd84246feffcd76d27966187afac63e052eb104b529c9184647bd2a8",
+      "zip_file": "WS_037_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_037_CC0.zip",
+      "zip_bytes": 1065287,
+      "zip_sha256": "b7bc2581454eabfc4b8e38723620be64fc03b71e5105553583ae487b275fa2cd",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_038",
+      "source_model_id": "WS038_scroll_carousel",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻物の回転整理台",
+        "en": "Scroll sorting carousel",
+        "zh-CN": "卷轴旋转收纳台"
+      },
+      "descriptions": {
+        "ja": "八穴の二段支持台、中空の羊皮紙筒、持ち手を備える整理台。",
+        "en": "An eight-slot scroll organizer with two support levels, hollow vellum rolls and a carrying handle.",
+        "zh-CN": "带八个插孔、两层支撑、中空羊皮纸卷与提手的收纳台。"
+      },
+      "dimensions_m": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.42570632696151733
+      ],
+      "preview_file": "previews/WS_038_preview.png",
+      "preview_sha256": "7de750fcf61738b8677785dba7cb97c8dc84a8979a4c8ca40f452435671a4cd0",
+      "zip_file": "WS_038_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_038_CC0.zip",
+      "zip_bytes": 1073996,
+      "zip_sha256": "0b7a0fff4faa3b11bc0af6088fae78ee5cb119bfd45349586b621819fa21324b",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_039",
+      "source_model_id": "WS039_annotated_research_sheets",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "書き込みだらけの研究紙束",
+        "en": "Annotated research sheets",
+        "zh-CN": "带批注的研究纸页"
+      },
+      "descriptions": {
+        "ja": "めくれた角を持つ5枚の紙と、架空の天体図・目盛・欄外追記。",
+        "en": "Five separate curled sheets with an original fictional astronomical diagram, graduations and margin notes.",
+        "zh-CN": "五张独立卷角纸页，带原创虚构天文图、刻度与页边批注。"
+      },
+      "dimensions_m": [
+        0.4059923589229584,
+        0.31367528438568115,
+        0.021800000220537186
+      ],
+      "preview_file": "previews/WS_039_preview.png",
+      "preview_sha256": "a63a5952d9ed6c4f42ef55326f9d50f019c679e696f1637b3d85b99242d848fb",
+      "zip_file": "WS_039_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_039_CC0.zip",
+      "zip_bytes": 991784,
+      "zip_sha256": "6f980929cc54cacb86483868516840d1126370d43b4735ba28b3f9cd422a3cea",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
+      "preview_metadata_sanitized": true
+    },
+    {
+      "asset_id": "WS_040",
+      "source_model_id": "WS040_amethyst_geode",
+      "record_kind": "model",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "切り開いた晶洞標本",
+        "en": "Open amethyst geode",
+        "zh-CN": "剖开的紫水晶晶洞"
+      },
+      "descriptions": {
+        "ja": "岩殻、内側の結晶、緩衝材付き木製受台を備えた晶洞標本。",
+        "en": "An opened amethyst geode with a rocky shell, inward crystals and a padded wooden cradle.",
+        "zh-CN": "剖开的紫水晶晶洞标本，带岩石外壳、内向晶体与衬垫木托。"
+      },
+      "dimensions_m": [
+        0.2856259346008301,
+        0.25468456745147705,
+        0.3124989867210388
+      ],
+      "preview_file": "previews/WS_040_preview.png",
+      "preview_sha256": "3d0127886c4d76c41840096e07a6ec73e7831a757d6ce343ea1b6c10e069f4cb",
+      "zip_file": "WS_040_CC0.zip",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-wizard-study/WS_040_CC0.zip",
+      "zip_bytes": 1135237,
+      "zip_sha256": "fca5d3b74fe3c84fd93d224343e35bff910f959fbb810320a90fb7b1af6ef3b9",
+      "category": "wizard-study",
+      "theme": "WS",
+      "revision": "wizard-v10",
       "preview_metadata_sanitized": true
     }
   ]

@@ -1,6 +1,12 @@
-# Tales on a Table — 268 3D asset records
+# Tales on a Table — 308 3D asset records
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
+
+## New wizard-study distribution sets
+
+[Wizard study — 40 distribution sets](catalog/wizard-study.en.md)
+
+These 40 distribution sets comprise 32 previously created wizard models, 6 new designs and 2 structural variants of the bookcase and ladder. The 397 books count scene placements, not asset types. Each ZIP includes BLEND, GLB, an actual render, a trilingual README and CC0 terms. The completed scene layout is not included.
 
 Choose individual props and furniture from tavern, harbor, lamp-shop and antique-shop collections. Every close-up is an actual render of the distributed BLEND. Start with one object, consider its shape, color and intended setting, and use those details when discussing a new model with an AI assistant.
 
@@ -10,7 +16,7 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 ## Counting and scope
 
-**268 records = 241 model records + 25 groups + 2 separated components.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
+**308 records = 279 model records + 25 groups + 2 separated components + 2 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
 Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The new armory collection is excluded. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
 
