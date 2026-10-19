@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-treasury",
-  "item_count": 357,
+  "release_tag": "v2026.10.19-armory",
+  "item_count": 428,
   "count_by_kind": {
-    "model": 327,
+    "model": 397,
     "derived_component": 2,
     "group": 26,
-    "structural_variant": 2
+    "structural_variant": 3
   },
   "count_by_collection": {
     "tavern": 56,
@@ -17,7 +17,8 @@
     "wizard_study": 40,
     "captain_cabin": 26,
     "independent_furnishings": 6,
-    "treasury": 17
+    "treasury": 17,
+    "armory": 71
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs.",
   "items": [
@@ -9760,6 +9761,2132 @@
       "preview_file": "previews/TD_017_preview.png",
       "preview_sha256": "7393c0659a0e718ffc6a598401ea054bbf1e81bbe1f536ac3028f99ea67f9378",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_017_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_001",
+      "source_model_id": "ARM_001",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "竜翼鍔の旅剣",
+        "en": "竜翼鍔の旅剣",
+        "zh-CN": "竜翼鍔の旅剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3512582778930664,
+        0.06000000238418579,
+        1.0765777826309204
+      ],
+      "zip_file": "ARM_001_CC0.zip",
+      "zip_bytes": 602904,
+      "zip_sha256": "2cc42526049acdfd62926ce922ead0324381ee2e4a6a846c72266e7bdf008f96",
+      "preview_file": "previews/ARM_001_preview.jpg",
+      "preview_sha256": "b4bb7f53a7747e0107533f865cbb8f667b626121eab27e5c2f53e01c31f40ebb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_001_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_002",
+      "source_model_id": "ARM_002",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "量産風鋳肌剣",
+        "en": "量産風鋳肌剣",
+        "zh-CN": "量産風鋳肌剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.2992851436138153,
+        0.0544000007212162,
+        1.0012719631195068
+      ],
+      "zip_file": "ARM_002_CC0.zip",
+      "zip_bytes": 1239998,
+      "zip_sha256": "3fdb27b6da89d6e1a6a7801a5a48464619c1ac527d4e9335b6e4319b157aa621",
+      "preview_file": "previews/ARM_002_preview.jpg",
+      "preview_sha256": "671f60f3fe010e840dfd48462d750e5e9b020ef7c9ca1ec33d9a7a4857af31c1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_002_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_003",
+      "source_model_id": "ARM_003",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "海門守護の伝説剣",
+        "en": "海門守護の伝説剣",
+        "zh-CN": "海門守護の伝説剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5500773191452026,
+        0.06450000405311584,
+        1.3136353492736816
+      ],
+      "zip_file": "ARM_003_CC0.zip",
+      "zip_bytes": 1597590,
+      "zip_sha256": "01b88360f1bbf1d25a8cb1f7b408d0934f202507e12fde5dfe4fe93015072e17",
+      "preview_file": "previews/ARM_003_preview.jpg",
+      "preview_sha256": "f233600d7b3d660cf075e1ccfd831955b6cc98b893b5ee1042b4c148e7c48f26",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_003_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_004",
+      "source_model_id": "ARM_004",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "波紋鍔の旅曲剣",
+        "en": "波紋鍔の旅曲剣",
+        "zh-CN": "波紋鍔の旅曲剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.42777860164642334,
+        0.055858880281448364,
+        1.0574109554290771
+      ],
+      "zip_file": "ARM_004_CC0.zip",
+      "zip_bytes": 7587960,
+      "zip_sha256": "6a3bb571817abda55be8194481c6434e1983707818b48e89b4680effb4fe06ac",
+      "preview_file": "previews/ARM_004_preview.jpg",
+      "preview_sha256": "04ff03b710b9151b5e582ebf425a914de2b2e19e7c886b0e1051a640cde9f891",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_004_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_005",
+      "source_model_id": "ARM_005",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "山道の短剣",
+        "en": "山道の短剣",
+        "zh-CN": "山道の短剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.17161720991134644,
+        0.04879999905824661,
+        0.47549736499786377
+      ],
+      "zip_file": "ARM_005_CC0.zip",
+      "zip_bytes": 530075,
+      "zip_sha256": "35b519ead244bd7d17c4fbb5e4aee1fc171ef14b0bd6a086f105c18739f14281",
+      "preview_file": "previews/ARM_005_preview.jpg",
+      "preview_sha256": "8fe7272b24703f53511c4fce5cf6016f367a94bd6f280b98ca3d578068bf04b3",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_005_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_006",
+      "source_model_id": "ARM_006",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "雫宝石の装飾短剣",
+        "en": "雫宝石の装飾短剣",
+        "zh-CN": "雫宝石の装飾短剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3054639995098114,
+        0.07214999943971634,
+        0.6330000162124634
+      ],
+      "zip_file": "ARM_006_CC0.zip",
+      "zip_bytes": 5377040,
+      "zip_sha256": "2dd6424f62d966150a6ed3634868b2acd7883430db11a25b88c4f569fb990f0a",
+      "preview_file": "previews/ARM_006_preview.jpg",
+      "preview_sha256": "af9c6d31a6fe81451f9b99398694d5a82d91e0fb96e260b83b14cc64990b0b21",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_006_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_007",
+      "source_model_id": "ARM_007",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "月形の斧",
+        "en": "月形の斧",
+        "zh-CN": "月形の斧"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.4076278805732727,
+        0.10199999809265137,
+        1.192775011062622
+      ],
+      "zip_file": "ARM_007_CC0.zip",
+      "zip_bytes": 953740,
+      "zip_sha256": "33231f6733de01f9b4e7ee50af2789b67268d4ccd1b58c0d1ebb38a84d06abf6",
+      "preview_file": "previews/ARM_007_preview.jpg",
+      "preview_sha256": "8d4294a0ac09fa2700797948f86ecace38dc2fa33b9b941aa7c85e2f19330bf3",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_007_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_011",
+      "source_model_id": "ARM_011",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "葉飾り儀礼槍",
+        "en": "葉飾り儀礼槍",
+        "zh-CN": "葉飾り儀礼槍"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3903226852416992,
+        0.06399999558925629,
+        2.0394129753112793
+      ],
+      "zip_file": "ARM_011_CC0.zip",
+      "zip_bytes": 1016123,
+      "zip_sha256": "bfc6aed4cf5ba11868bc2c4073cf79cdd431ac0d7b13e9dd994efac5c8c3a172",
+      "preview_file": "previews/ARM_011_preview.jpg",
+      "preview_sha256": "750bfb66ef735b71797bed938dc56b74040954651809cc7dd982fd602e6ce192",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_011_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_013",
+      "source_model_id": "ARM_013",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "貝波飾りの海神三叉槍",
+        "en": "貝波飾りの海神三叉槍",
+        "zh-CN": "貝波飾りの海神三叉槍"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5604871511459351,
+        0.11195404082536697,
+        2.1570000648498535
+      ],
+      "zip_file": "ARM_013_CC0.zip",
+      "zip_bytes": 5742419,
+      "zip_sha256": "4e6ab927465efca23220b89a1c50584aac0fd53f874ab0070a5908704a2c53e6",
+      "preview_file": "previews/ARM_013_preview.jpg",
+      "preview_sha256": "75ada90c42292317b903724c2d190ea6a430d12dc8be26c49c7cbc94840d8d89",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_013_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_014",
+      "source_model_id": "ARM_014",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "城門の長柄斧",
+        "en": "城門の長柄斧",
+        "zh-CN": "城門の長柄斧"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.40175503492355347,
+        0.07859999686479568,
+        1.8633853197097778
+      ],
+      "zip_file": "ARM_014_CC0.zip",
+      "zip_bytes": 817092,
+      "zip_sha256": "e1dde319250155dd5cb2ef7766bce29d20781b172b2aa34b69da40fdc9b82cbe",
+      "preview_file": "previews/ARM_014_preview.jpg",
+      "preview_sha256": "a3e03eb763818c39a546c66d94ff48ca52efd30dcec2608b43833654c5daa927",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_014_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_015",
+      "source_model_id": "ARM_015",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巡礼の石槌",
+        "en": "巡礼の石槌",
+        "zh-CN": "巡礼の石槌"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5006360411643982,
+        0.1899999976158142,
+        0.7310000658035278
+      ],
+      "zip_file": "ARM_015_CC0.zip",
+      "zip_bytes": 2243347,
+      "zip_sha256": "0dba73cc5c48a638961b0273c4bf974ef27ed7b5a5871a699afbd2a208b74ea3",
+      "preview_file": "previews/ARM_015_preview.jpg",
+      "preview_sha256": "5b01b400051fd27188434b486031cc0a727a1424c5e05480e862a8ad538a3936",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_015_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_016",
+      "source_model_id": "ARM_016",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "花冠の騎士メイス",
+        "en": "花冠の騎士メイス",
+        "zh-CN": "花冠の騎士メイス"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.2530311942100525,
+        0.2271314561367035,
+        0.7369797825813293
+      ],
+      "zip_file": "ARM_016_CC0.zip",
+      "zip_bytes": 594518,
+      "zip_sha256": "7b44726cd4b6989dfa04fd2ce1102828fce6be5e35d5f68c8adb10bd2c23ed08",
+      "preview_file": "previews/ARM_016_preview.jpg",
+      "preview_sha256": "fbfc46643440f94467096176146847318b01fa386cf1d8e3deae4d6e7137ce21",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_016_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_017",
+      "source_model_id": "ARM_017",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "節のある古木弓",
+        "en": "節のある古木弓",
+        "zh-CN": "節のある古木弓"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.38134193420410156,
+        0.063960000872612,
+        1.3880000114440918
+      ],
+      "zip_file": "ARM_017_CC0.zip",
+      "zip_bytes": 1399688,
+      "zip_sha256": "e4019363cd5bfd14d62f0166fb17dcb9388b8d67f7cb448ad436d2fecd3e375b",
+      "preview_file": "previews/ARM_017_preview.jpg",
+      "preview_sha256": "de7113c03eac4accb8da05658730c23c8c4a3552668ae06c1c274ed59afc2c90",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_017_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_018",
+      "source_model_id": "ARM_018",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "組紐飾りの宮廷月弓",
+        "en": "組紐飾りの宮廷月弓",
+        "zh-CN": "組紐飾りの宮廷月弓"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.44368019700050354,
+        0.054557062685489655,
+        1.7229406833648682
+      ],
+      "zip_file": "ARM_018_CC0.zip",
+      "zip_bytes": 4968045,
+      "zip_sha256": "9cff2d021829e48f71bf11776cb8e2760bf9a69823003414dcd4c91ff549af46",
+      "preview_file": "previews/ARM_018_preview.jpg",
+      "preview_sha256": "4b90c16581783ebab2d9e289d615a19b2e052d396de49d4d1fe445edc62425a9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_018_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_019",
+      "source_model_id": "ARM_019",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "打痕のある練習木剣",
+        "en": "打痕のある練習木剣",
+        "zh-CN": "打痕のある練習木剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.2562372088432312,
+        0.04158126562833786,
+        0.9943099617958069
+      ],
+      "zip_file": "ARM_019_CC0.zip",
+      "zip_bytes": 3628029,
+      "zip_sha256": "6b87c4d873b93080ed0f0b4eb1cc5c6e513a0febd61ba9072ff1365d089f16af",
+      "preview_file": "previews/ARM_019_preview.jpg",
+      "preview_sha256": "f85cf367ff09eb534dbf48ebebd8136a5594009bcd0c43251ecbf990b856eb95",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_019_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_020",
+      "source_model_id": "ARM_020",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "籠飾りの決闘細剣",
+        "en": "籠飾りの決闘細剣",
+        "zh-CN": "籠飾りの決闘細剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.2549999952316284,
+        0.13699999451637268,
+        1.13100004196167
+      ],
+      "zip_file": "ARM_020_CC0.zip",
+      "zip_bytes": 3667926,
+      "zip_sha256": "93b6775acabf97c24005a08b64064758c73d1330206bfbcf28f7ebfdf310f05d",
+      "preview_file": "previews/ARM_020_preview.jpg",
+      "preview_sha256": "993061328cae8d8a0933f3c1254f7c9f273a2a40753c2f634f47718c5664bbc4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_020_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_021",
+      "source_model_id": "ARM_021",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "継ぎ板の塔盾",
+        "en": "継ぎ板の塔盾",
+        "zh-CN": "継ぎ板の塔盾"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.718978226184845,
+        0.26322701573371887,
+        1.2222124338150024
+      ],
+      "zip_file": "ARM_021_CC0.zip",
+      "zip_bytes": 5098167,
+      "zip_sha256": "29defdeb3a18d3c783f590c98cfc5275401129666363df43a73df0b063dca68d",
+      "preview_file": "previews/ARM_021_preview.png",
+      "preview_sha256": "a184efa932a4e3d54073cee586f75a14fc807b8efcd6d1614202e51844cf78fa",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_021_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_022",
+      "source_model_id": "ARM_022",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "兵士の革張り円盾",
+        "en": "兵士の革張り円盾",
+        "zh-CN": "兵士の革張り円盾"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.7120000123977661,
+        0.2600463628768921,
+        0.7120000123977661
+      ],
+      "zip_file": "ARM_022_CC0.zip",
+      "zip_bytes": 2198762,
+      "zip_sha256": "51b47d175731c0fab2a4dd7cba6284c5457c888e1431cc81ee9c8cc4000dee29",
+      "preview_file": "previews/ARM_022_preview.jpg",
+      "preview_sha256": "528a3a76fee70d45199b2a9108fd60b582636091a215e6e502208ba51c5b51c3",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_022_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_023",
+      "source_model_id": "ARM_023",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "道標紋の冒険者凧盾",
+        "en": "道標紋の冒険者凧盾",
+        "zh-CN": "道標紋の冒険者凧盾"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.627437949180603,
+        0.21036753058433533,
+        1.1038200855255127
+      ],
+      "zip_file": "ARM_023_CC0.zip",
+      "zip_bytes": 2903519,
+      "zip_sha256": "8ae4a0042eb086d915b81ca7256d5d92f5b303ef1c1a6dc4836d2a55651197c4",
+      "preview_file": "previews/ARM_023_preview.jpg",
+      "preview_sha256": "9d8f27c0193e2ca7e1e95a3e60b71ea930ea67a7ba657c9a17be11876a007955",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_023_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_024",
+      "source_model_id": "ARM_024",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鹿獣紋の儀礼盾",
+        "en": "鹿獣紋の儀礼盾",
+        "zh-CN": "鹿獣紋の儀礼盾"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.7945040464401245,
+        0.20712509751319885,
+        0.908735990524292
+      ],
+      "zip_file": "ARM_024_CC0.zip",
+      "zip_bytes": 15879284,
+      "zip_sha256": "734a701345631e5e41ee4c57992c3650444c8261e2ca36a9e2ee59838181a7e0",
+      "preview_file": "previews/ARM_024_preview.jpg",
+      "preview_sha256": "4fa25f10c550b850006d4ee5883d73af87aaa4202ad4ccd27dddb7a096e71645",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_024_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_025",
+      "source_model_id": "ARM_025",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "深皿の小型拳盾",
+        "en": "深皿の小型拳盾",
+        "zh-CN": "深皿の小型拳盾"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.4320000112056732,
+        0.18729937076568604,
+        0.4320000112056732
+      ],
+      "zip_file": "ARM_025_CC0.zip",
+      "zip_bytes": 2144572,
+      "zip_sha256": "e21fb89a14e5dcdfa8f5a3f3f92eb993371969cc08b208798bd04819f1e761b6",
+      "preview_file": "previews/ARM_025_preview.jpg",
+      "preview_sha256": "b65f55ba7d455d83ce7960d5e9ad48da1dd4d8224bac04a4f0636d5be364d621",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_025_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_026",
+      "source_model_id": "ARM_026",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "獅子面の空洞兜",
+        "en": "獅子面の空洞兜",
+        "zh-CN": "獅子面の空洞兜"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3813526928424835,
+        0.40102338790893555,
+        0.33645275235176086
+      ],
+      "zip_file": "ARM_026_CC0.zip",
+      "zip_bytes": 4523397,
+      "zip_sha256": "d24f881afb4e5d4361d00de1e5c7e7e9adf94901a94a5e4292ad6aa7a30e3767",
+      "preview_file": "previews/ARM_026_preview.jpg",
+      "preview_sha256": "20de3a16a6ce283d2f7ece311ba42c46542a4c92921a125dfaf10872fafdea4c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_026_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_027",
+      "source_model_id": "ARM_027",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "幅広ひさしの歩兵兜",
+        "en": "幅広ひさしの歩兵兜",
+        "zh-CN": "幅広ひさしの歩兵兜"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5405197143554688,
+        0.6265679597854614,
+        0.19775167107582092
+      ],
+      "zip_file": "ARM_027_CC0.zip",
+      "zip_bytes": 4913174,
+      "zip_sha256": "056d07b0bcab92a3845be3a9aef929e6636b9bdefa329a981561d5d989a90395",
+      "preview_file": "previews/ARM_027_preview.jpg",
+      "preview_sha256": "e8359e6da6a2affa1776554d1d75ec4b90cf41b3d911575eb4dfebc08200b459",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_027_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_028",
+      "source_model_id": "ARM_028",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "頬当て付きの旅兜",
+        "en": "頬当て付きの旅兜",
+        "zh-CN": "頬当て付きの旅兜"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.306265264749527,
+        0.34830838441848755,
+        0.33992999792099
+      ],
+      "zip_file": "ARM_028_CC0.zip",
+      "zip_bytes": 5769819,
+      "zip_sha256": "dcc19aa95ef918bd8890f0816ce47da155b3281399ac9ebb876cba9b188eba3d",
+      "preview_file": "previews/ARM_028_preview.jpg",
+      "preview_sha256": "3269f861b09694ba3100bc277d9e83fbed491029c8b057debed74c6486d8b14b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_028_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_029",
+      "source_model_id": "ARM_029",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "翼飾りの儀礼兜",
+        "en": "翼飾りの儀礼兜",
+        "zh-CN": "翼飾りの儀礼兜"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5764812231063843,
+        0.34344708919525146,
+        0.5158347487449646
+      ],
+      "zip_file": "ARM_029_CC0.zip",
+      "zip_bytes": 10071975,
+      "zip_sha256": "8762c62d27cbcc06c609895451cd0fedc43bba74e7154296f6aee648e480763a",
+      "preview_file": "previews/ARM_029_preview.jpg",
+      "preview_sha256": "ac115ffc55e6b1dff1bd000ead46398892e5aa6f73a29a64fbf059d9e50bff05",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_029_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_030",
+      "source_model_id": "ARM_030",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "継ぎ革のフード",
+        "en": "継ぎ革のフード",
+        "zh-CN": "継ぎ革のフード"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5041031837463379,
+        0.5062053203582764,
+        0.4405992031097412
+      ],
+      "zip_file": "ARM_030_CC0.zip",
+      "zip_bytes": 12485751,
+      "zip_sha256": "c9aa6204a82632c8a3f44aa15c952442b5caafd352ad34368fc356b7389fc4a0",
+      "preview_file": "previews/ARM_030_preview.jpg",
+      "preview_sha256": "6427623dd1c168279ace99b5faa56a150c61a00bba888c6907540f8f781c0f3f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_030_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_031",
+      "source_model_id": "ARM_031",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "左右非対称の遍歴鎧",
+        "en": "左右非対称の遍歴鎧",
+        "zh-CN": "左右非対称の遍歴鎧"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5699399709701538,
+        0.36054256558418274,
+        0.7419494390487671
+      ],
+      "zip_file": "ARM_031_CC0.zip",
+      "zip_bytes": 3730595,
+      "zip_sha256": "1a50920f240829188fea5e5ecbb09b9f86bf4ca2b82f1e464e30a42c8d970a82",
+      "preview_file": "previews/ARM_031_preview.png",
+      "preview_sha256": "c09268012cbbe4b472d683e608ae875a340fc39088d140bc2ddfecd170e53a1b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_031_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_032",
+      "source_model_id": "ARM_032",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "衛兵の対称胸甲",
+        "en": "衛兵の対称胸甲",
+        "zh-CN": "衛兵の対称胸甲"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5481489896774292,
+        0.30111443996429443,
+        0.599419116973877
+      ],
+      "zip_file": "ARM_032_CC0.zip",
+      "zip_bytes": 15048267,
+      "zip_sha256": "e10909425e8931e698084397a366cd84ad2891af5a9a03b371e706bc57a96990",
+      "preview_file": "previews/ARM_032_preview.jpg",
+      "preview_sha256": "bbcc76bf3398c956eb10b84316b833b81c0769b7a2c5db084cb5c010836281ff",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_032_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_033",
+      "source_model_id": "ARM_033",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鱗重ね胸鎧",
+        "en": "鱗重ね胸鎧",
+        "zh-CN": "鱗重ね胸鎧"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.46342653036117554,
+        0.31238090991973877,
+        0.6779210567474365
+      ],
+      "zip_file": "ARM_033_CC0.zip",
+      "zip_bytes": 3875248,
+      "zip_sha256": "56abf604529ec3403f475baa0c63ceba081ced92dada9494d4e423b233a88d72",
+      "preview_file": "previews/ARM_033_preview.png",
+      "preview_sha256": "ece2deb294039755414e30988bd5d54c0ec584a957fc751ca27827dfb7998399",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_033_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_034",
+      "source_model_id": "ARM_034",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "縫い鎧の綿入れ胴着",
+        "en": "縫い鎧の綿入れ胴着",
+        "zh-CN": "縫い鎧の綿入れ胴着"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.41482043266296387,
+        0.2946731448173523,
+        0.6142058372497559
+      ],
+      "zip_file": "ARM_034_CC0.zip",
+      "zip_bytes": 6940376,
+      "zip_sha256": "7cd8b1fd45d602a3676ac42e9403dd3e5bb0a406ccd95d796b880e9d41951dc5",
+      "preview_file": "previews/ARM_034_preview.jpg",
+      "preview_sha256": "95eb56962608772d613a9eb2ea88351e64dc2791369c278841556e5dd577a3c7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_034_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_035",
+      "source_model_id": "ARM_035",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "花弁重ねの儀礼肩鎧",
+        "en": "花弁重ねの儀礼肩鎧",
+        "zh-CN": "花弁重ねの儀礼肩鎧"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.8530068397521973,
+        0.32193392515182495,
+        0.3115929961204529
+      ],
+      "zip_file": "ARM_035_CC0.zip",
+      "zip_bytes": 4668944,
+      "zip_sha256": "2ff25f4a0d927a8027d7b5f40b05f3077224420aaf5da7d81832aeec20ed26c7",
+      "preview_file": "previews/ARM_035_preview.jpg",
+      "preview_sha256": "7ef054729bd4aa2e4d40633a7920a84378361c7b67f0322386644f3d37c2ad73",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_035_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_037",
+      "source_model_id": "ARM_037",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "前稜の衛兵脛当て",
+        "en": "前稜の衛兵脛当て",
+        "zh-CN": "前稜の衛兵脛当て"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.49711793661117554,
+        0.1860332190990448,
+        0.5400056838989258
+      ],
+      "zip_file": "ARM_037_CC0.zip",
+      "zip_bytes": 2748070,
+      "zip_sha256": "50b50398eeb06f761cd7422dbae86c07d6114465979cc38f59d32d3c5ef8f789",
+      "preview_file": "previews/ARM_037_preview.jpg",
+      "preview_sha256": "77d26b7bdfdf7a6333b84f6adf23d5b9b205cb5b8b162b7df05c52563f054bdc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_037_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_039F001",
+      "source_model_id": "ARM_039F001",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "structural_variant",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "旅剣適合の継ぎ鞘",
+        "en": "旅剣適合の継ぎ鞘",
+        "zh-CN": "旅剣適合の継ぎ鞘"
+      },
+      "descriptions": {
+        "ja": "旅剣001に合わせた鞘039の適合バリエーション。基礎デザイン数には加算しません。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [],
+      "zip_file": "ARM_039F001_CC0.zip",
+      "zip_bytes": 2117916,
+      "zip_sha256": "8038b45b16aad3656a1d73fc76665fb574fe640d9238dda8f275ed3434266fd9",
+      "preview_file": "previews/ARM_039F001_preview.jpg",
+      "preview_sha256": "bed44fd6c518df68781cf0610c373b7544e15bb025cb2324f1252e6463cc646e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_039F001_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_039",
+      "source_model_id": "ARM_039",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "補修継ぎ鞘",
+        "en": "補修継ぎ鞘",
+        "zh-CN": "補修継ぎ鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.1379999965429306,
+        0.058000002056360245,
+        0.8895000219345093
+      ],
+      "zip_file": "ARM_039_CC0.zip",
+      "zip_bytes": 3209660,
+      "zip_sha256": "7b50e3e005a7889258182d8b4ffdfef224afe5e0e31a21446d7270e91fa0fb5c",
+      "preview_file": "previews/ARM_039_preview.png",
+      "preview_sha256": "348862840cb75bae7b714a8c0239b7630974b8231841e9fcda64185963c3970b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_039_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_040",
+      "source_model_id": "ARM_040",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "水葉の儀礼鞘",
+        "en": "水葉の儀礼鞘",
+        "zh-CN": "水葉の儀礼鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.23801904916763306,
+        0.06579999625682831,
+        0.9562000036239624
+      ],
+      "zip_file": "ARM_040_CC0.zip",
+      "zip_bytes": 2042161,
+      "zip_sha256": "5f17137761ee1ce2bc28a2e197ff39a0628195719db4524eeb08bced8e885117",
+      "preview_file": "previews/ARM_040_preview.jpg",
+      "preview_sha256": "5526267d9b4b233283f0759cedf78cb055917e5bfd161ed78ef6920b84eceb5c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_040_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_041",
+      "source_model_id": "ARM_041",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "兵士の幅広剣帯",
+        "en": "兵士の幅広剣帯",
+        "zh-CN": "兵士の幅広剣帯"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.7419905662536621,
+        0.6577998399734497,
+        0.030562518164515495
+      ],
+      "zip_file": "ARM_041_CC0.zip",
+      "zip_bytes": 1185875,
+      "zip_sha256": "700e5d75acb1567d45ed9d124385e420605169b7de5d50458a0f4bb6e7948ad5",
+      "preview_file": "previews/ARM_041_preview.jpg",
+      "preview_sha256": "be6855ff7e17d93cf61025a930fac4cbd20651c6c079c364a1b24cb8b79ae97c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_041_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_042",
+      "source_model_id": "ARM_042",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "冒険者の交差吊り帯",
+        "en": "冒険者の交差吊り帯",
+        "zh-CN": "冒険者の交差吊り帯"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.7669626474380493,
+        0.6496614217758179,
+        0.0482005700469017
+      ],
+      "zip_file": "ARM_042_CC0.zip",
+      "zip_bytes": 2421870,
+      "zip_sha256": "1c5bf56d7a98b72a822500078d54f24a85d30f5635de2699a2eae0231b911f5f",
+      "preview_file": "previews/ARM_042_preview.jpg",
+      "preview_sha256": "dec390e4570ae33266ea0f6155c6861a6679e14cea446760ee997409346a78cc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_042_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_043",
+      "source_model_id": "ARM_043",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "背負い矢筒",
+        "en": "背負い矢筒",
+        "zh-CN": "背負い矢筒"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.2622649669647217,
+        0.31750112771987915,
+        0.6184999942779541
+      ],
+      "zip_file": "ARM_043_CC0.zip",
+      "zip_bytes": 1561678,
+      "zip_sha256": "5db7a5d48de91791158cb8d4d2a13a292c9c7249022db66a458e79e56557d5b6",
+      "preview_file": "previews/ARM_043_preview.jpg",
+      "preview_sha256": "812ae328e40a5fb76667aaa7e34042c613068f6c7cc10185fe68bee652aeaacf",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_043_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_045",
+      "source_model_id": "ARM_045",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "飾り矢の束",
+        "en": "飾り矢の束",
+        "zh-CN": "飾り矢の束"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.0938919335603714,
+        0.07923585176467896,
+        0.7610000371932983
+      ],
+      "zip_file": "ARM_045_CC0.zip",
+      "zip_bytes": 868675,
+      "zip_sha256": "779678103c3792db5162d36e23b30183f8ed32d2420d944cc6168ae05b94b9f0",
+      "preview_file": "previews/ARM_045_preview.jpg",
+      "preview_sha256": "094699c72cf3288b6c2a7ffcd4eeaa8f77ad26a7ba9783361cc6520bc95c1529",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_045_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_050",
+      "source_model_id": "ARM_050",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "修理された壁剣掛け",
+        "en": "修理された壁剣掛け",
+        "zh-CN": "修理された壁剣掛け"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.34198129177093506,
+        0.25975608825683594,
+        1.4339959621429443
+      ],
+      "zip_file": "ARM_050_CC0.zip",
+      "zip_bytes": 926759,
+      "zip_sha256": "f63a81b9480aae66edbc8e80ff9c4aec923bef1cb83cd459d7b9dd648d554c55",
+      "preview_file": "previews/ARM_050_preview.jpg",
+      "preview_sha256": "602c0057ff1f42c2064b43417f200b838e497cbd19fbe8adffdd341ffafbc73b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_050_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_051",
+      "source_model_id": "ARM_051",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革敷きの傾斜盾架",
+        "en": "革敷きの傾斜盾架",
+        "zh-CN": "革敷きの傾斜盾架"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.6880000233650208,
+        0.5559499859809875,
+        0.9809433817863464
+      ],
+      "zip_file": "ARM_051_CC0.zip",
+      "zip_bytes": 1399002,
+      "zip_sha256": "636ff52ea65e0eebcd13df42db07a16c5332dd2704ddcbb78ea227b73a6198e9",
+      "preview_file": "previews/ARM_051_preview.jpg",
+      "preview_sha256": "a554c0099e18c9d421f0d42cf60ae94d8844acd5cceb780285b50e02af77e8f1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_051_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_052",
+      "source_model_id": "ARM_052",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "修理預かり防具架",
+        "en": "修理預かり防具架",
+        "zh-CN": "修理預かり防具架"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.593999981880188,
+        0.49000000953674316,
+        1.2767671346664429
+      ],
+      "zip_file": "ARM_052_CC0.zip",
+      "zip_bytes": 4791052,
+      "zip_sha256": "e1ea7e97fbcd78171650721f66cada4dc007bbbaa895d4967fb354c6498152e7",
+      "preview_file": "previews/ARM_052_preview.png",
+      "preview_sha256": "239cf69a004ca9d29c5a01b454b1c91393f89d237c6fababff399526763995c4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_052_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_053",
+      "source_model_id": "ARM_053",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "フェルト頭の兜掛け",
+        "en": "フェルト頭の兜掛け",
+        "zh-CN": "フェルト頭の兜掛け"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3319999873638153,
+        0.27799999713897705,
+        0.5870587825775146
+      ],
+      "zip_file": "ARM_053_CC0.zip",
+      "zip_bytes": 971239,
+      "zip_sha256": "dd667832b60b513e729bc33f6834489039d5900eff6eddcfb29f31857d7de9c4",
+      "preview_file": "previews/ARM_053_preview.jpg",
+      "preview_sha256": "7685e89eb661c6355ab6b3a0529506f7aa98cf231a9c02bff1f1872c3fa44a7f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_053_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_054",
+      "source_model_id": "ARM_054",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "立ち作業の修理台",
+        "en": "立ち作業の修理台",
+        "zh-CN": "立ち作業の修理台"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        2.4721999168395996,
+        0.6119999885559082,
+        0.9690000414848328
+      ],
+      "zip_file": "ARM_054_CC0.zip",
+      "zip_bytes": 3267719,
+      "zip_sha256": "4afaf9470cc5c1869cbe56cfc66875392536cff2aed8184ae647b112cc347a38",
+      "preview_file": "previews/ARM_054_preview.jpg",
+      "preview_sha256": "a6794ae2c1e0169b090d934b24b04e94b12042482dc3d65950d54f7952261741",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_054_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_055",
+      "source_model_id": "ARM_055",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "切株台付きの小鉄床",
+        "en": "切株台付きの小鉄床",
+        "zh-CN": "切株台付きの小鉄床"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5874901413917542,
+        0.5101155638694763,
+        0.6060000061988831
+      ],
+      "zip_file": "ARM_055_CC0.zip",
+      "zip_bytes": 3985914,
+      "zip_sha256": "90d21340dcdb77ebddde21841aa66305e1bc57a19e7dea7342a16a059fc2901e",
+      "preview_file": "previews/ARM_055_preview.jpg",
+      "preview_sha256": "4afda3c9758ff2fb240d4b197d5d8d09f06241957fe2588f51839190880f2b54",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_055_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_056",
+      "source_model_id": "ARM_056",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "工房の手槌",
+        "en": "工房の手槌",
+        "zh-CN": "工房の手槌"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.23199999332427979,
+        0.4059000015258789,
+        0.07599993050098419
+      ],
+      "zip_file": "ARM_056_CC0.zip",
+      "zip_bytes": 1716991,
+      "zip_sha256": "f741ee7faa850127331d840f99f54dfbe42a486754a254f659698e6da1593003",
+      "preview_file": "previews/ARM_056_preview.jpg",
+      "preview_sha256": "81a8c44436500d0c8cfb798f62892f3fdd4a245863de7315f42e9e0be69a1f9a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_056_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_058",
+      "source_model_id": "ARM_058",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "手入れ石と木受け",
+        "en": "手入れ石と木受け",
+        "zh-CN": "手入れ石と木受け"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.39800000190734863,
+        0.33442264795303345,
+        0.052899762988090515
+      ],
+      "zip_file": "ARM_058_CC0.zip",
+      "zip_bytes": 2041907,
+      "zip_sha256": "b826e13a687f7364f47de77f857af9800679ea944608ff6b215c4d46b215e039",
+      "preview_file": "previews/ARM_058_preview.jpg",
+      "preview_sha256": "25ca2142ef9cc910796a22ca79ffe572d29ef5256b48c9e0eadab4e91a33a72a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_058_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_065",
+      "source_model_id": "ARM_065",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "店頭の剣筒",
+        "en": "店頭の剣筒",
+        "zh-CN": "店頭の剣筒"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.48399999737739563,
+        0.42170000076293945,
+        0.5680000185966492
+      ],
+      "zip_file": "ARM_065_CC0.zip",
+      "zip_bytes": 2262746,
+      "zip_sha256": "c6501c0ca5f59f3ce04ef6181ff33df5ea1f24a00e90e22d181188b45b67debd",
+      "preview_file": "previews/ARM_065_preview.jpg",
+      "preview_sha256": "cb14c10e0d86c82c5ed70088eaffcf4c15f6cec33c1b9b8b9f13ca107202d016",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_065_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_066",
+      "source_model_id": "ARM_066",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "日輪守の両手剣",
+        "en": "日輪守の両手剣",
+        "zh-CN": "日輪守の両手剣"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.4779999852180481,
+        0.07400000095367432,
+        1.6579999923706055
+      ],
+      "zip_file": "ARM_066_CC0.zip",
+      "zip_bytes": 764747,
+      "zip_sha256": "a9bd1f1cb88857004b4dcfaad36d9213942ba57b0ae9ae5e2a4c6bf2da0e65cc",
+      "preview_file": "previews/ARM_066_preview.jpg",
+      "preview_sha256": "2c828ede30eb7d54c32ef25ff6c7960c3b70fb4b5563f8c0a5db29b32b84d816",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_066_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_067",
+      "source_model_id": "ARM_067",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "叉木のスリングショット小道具",
+        "en": "叉木のスリングショット小道具",
+        "zh-CN": "叉木のスリングショット小道具"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.20454634726047516,
+        0.07704651355743408,
+        0.40150007605552673
+      ],
+      "zip_file": "ARM_067_CC0.zip",
+      "zip_bytes": 1978723,
+      "zip_sha256": "625f5fa1becc4ed290d2363c18072a97bc88c54ca9ce77ed7962af8397201eea",
+      "preview_file": "previews/ARM_067_preview.jpg",
+      "preview_sha256": "52a8b186e86dc2536e2afd46d4fd8e1c0f70773c3f63c6ba7e0c407956fa3af6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_067_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_068",
+      "source_model_id": "ARM_068",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "封印煙玉の外見小道具",
+        "en": "封印煙玉の外見小道具",
+        "zh-CN": "封印煙玉の外見小道具"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.1766808182001114,
+        0.16974875330924988,
+        0.2225780189037323
+      ],
+      "zip_file": "ARM_068_CC0.zip",
+      "zip_bytes": 703722,
+      "zip_sha256": "bfc7d2da27980aedd669f3de1ccf307c43df54b53b7c93cc0059688ede730e14",
+      "preview_file": "previews/ARM_068_preview.jpg",
+      "preview_sha256": "427fc1dc361043758456281f87df0f6cfcf88efdbc47b53504ea53298f532b77",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_068_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_069",
+      "source_model_id": "ARM_069",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "量産剣用の在庫鞘",
+        "en": "量産剣用の在庫鞘",
+        "zh-CN": "量産剣用の在庫鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.14272738993167877,
+        0.09025006741285324,
+        0.7749699354171753
+      ],
+      "zip_file": "ARM_069_CC0.zip",
+      "zip_bytes": 1452108,
+      "zip_sha256": "9c06943bbe86e7d17d2d73f4ff7050c6b11a7893f2f80f76faa2a648a486678c",
+      "preview_file": "previews/ARM_069_preview.jpg",
+      "preview_sha256": "ef15dac554c958f569226d46ddb51c420cc782f8be6846f5b944add5edbd50f7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_069_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_070",
+      "source_model_id": "ARM_070",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "山道短剣の在庫鞘",
+        "en": "山道短剣の在庫鞘",
+        "zh-CN": "山道短剣の在庫鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.1587408035993576,
+        0.11172612756490707,
+        0.3499358296394348
+      ],
+      "zip_file": "ARM_070_CC0.zip",
+      "zip_bytes": 1060118,
+      "zip_sha256": "ca8456a6dea313a173f701b07d969c4374f8b7f6490c70ed359e7abbaf5f9d4a",
+      "preview_file": "previews/ARM_070_preview.jpg",
+      "preview_sha256": "e0e23dd346df571805faeb200771aa629f9879fe84cbe41970cc3182a48c9137",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_070_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_071",
+      "source_model_id": "ARM_071",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "日輪守の補強長鞘",
+        "en": "日輪守の補強長鞘",
+        "zh-CN": "日輪守の補強長鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.22855760157108307,
+        0.10721677541732788,
+        1.2191998958587646
+      ],
+      "zip_file": "ARM_071_CC0.zip",
+      "zip_bytes": 2139644,
+      "zip_sha256": "360934f0adec85159c14b72a01a689902d074ceb91eebd05abba8f0e6070e156",
+      "preview_file": "previews/ARM_071_preview.jpg",
+      "preview_sha256": "e7165c5524211a2d03630c381db7939c71bbca2e6b28ff0f8c4c0b61dadf1184",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_071_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_072",
+      "source_model_id": "ARM_072",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "空の布スリング",
+        "en": "空の布スリング",
+        "zh-CN": "空の布スリング"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.9305503368377686,
+        0.36089828610420227,
+        0.031346045434474945
+      ],
+      "zip_file": "ARM_072_CC0.zip",
+      "zip_bytes": 17206891,
+      "zip_sha256": "b4e6e8dc657fa55cc777edad9b3d9bff57efb91fb8a34d8ea8f7f5c32e2d656d",
+      "preview_file": "previews/ARM_072_preview.jpg",
+      "preview_sha256": "5b7c6eb99aa6cc95e1e7d1d1fb426c6de3c6d19b4971766921f09cb60e13a836",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_072_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_073",
+      "source_model_id": "ARM_073",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "船旅の曲線継ぎ鞘",
+        "en": "船旅の曲線継ぎ鞘",
+        "zh-CN": "船旅の曲線継ぎ鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3771536350250244,
+        0.06554747372865677,
+        0.8040767312049866
+      ],
+      "zip_file": "ARM_073_CC0.zip",
+      "zip_bytes": 3231865,
+      "zip_sha256": "e08fe51847f68960c52456d7f72ea5cbc1c9acf93fa1d58b45c27b5828764844",
+      "preview_file": "previews/ARM_073_preview.jpg",
+      "preview_sha256": "7ae7fd54c3d01dfa0bd492ddf21057f7ec3a6e023aa84dcf2c3cd824b677a5b4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_073_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_074",
+      "source_model_id": "ARM_074",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "雫宝飾の扁平短剣鞘",
+        "en": "雫宝飾の扁平短剣鞘",
+        "zh-CN": "雫宝飾の扁平短剣鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.13977304100990295,
+        0.06729081273078918,
+        0.3886079788208008
+      ],
+      "zip_file": "ARM_074_CC0.zip",
+      "zip_bytes": 2411066,
+      "zip_sha256": "aa4843fcf90d1e1be9c172c3f4fe9db4c947b8145769be3bee2bcc5a9ed83f84",
+      "preview_file": "previews/ARM_074_preview.jpg",
+      "preview_sha256": "7f2c2e98da43876195f20eed9a331027c50ae2a59d3a746bceb3c0f32b4a5108",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_074_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_075",
+      "source_model_id": "ARM_075",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "細剣の縫い返し革鞘",
+        "en": "細剣の縫い返し革鞘",
+        "zh-CN": "細剣の縫い返し革鞘"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.05583999678492546,
+        0.04104478657245636,
+        0.8623583316802979
+      ],
+      "zip_file": "ARM_075_CC0.zip",
+      "zip_bytes": 2942489,
+      "zip_sha256": "4cc8aa98005e31665f42c79b83a0b09e7c8aa881066668de06eb14aaa140fd6c",
+      "preview_file": "previews/ARM_075_preview.jpg",
+      "preview_sha256": "1887993100a270283901d64da819fe15ed2e877d06ce391644a4d45f91eae3ca",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_075_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_076",
+      "source_model_id": "ARM_076",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "店先の検品台",
+        "en": "店先の検品台",
+        "zh-CN": "店先の検品台"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        1.712599754333496,
+        0.8600000143051147,
+        0.846299946308136
+      ],
+      "zip_file": "ARM_076_CC0.zip",
+      "zip_bytes": 2086960,
+      "zip_sha256": "b9ce20f1a4a6a0ab38f51d19602562630d084ff9fd4cc8ce6faebcb15bd2e50c",
+      "preview_file": "previews/ARM_076_preview.jpg",
+      "preview_sha256": "95e29b61d4bb48c92088b11d172909f8fc76538501e7f12bc506e677bd2d56ed",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_076_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_077",
+      "source_model_id": "ARM_077",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "真鍮木製の古風レジ",
+        "en": "真鍮木製の古風レジ",
+        "zh-CN": "真鍮木製の古風レジ"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.5419999957084656,
+        0.47695183753967285,
+        0.531000018119812
+      ],
+      "zip_file": "ARM_077_CC0.zip",
+      "zip_bytes": 2715761,
+      "zip_sha256": "06320331f1f55d428ffda7edfb452c546db90a8e3d59c4289b1b0e7e7bce30a7",
+      "preview_file": "previews/ARM_077_preview.jpg",
+      "preview_sha256": "3cbe3073df73ebe4efa398a7b7ee3d043552f2626d46cd9c682130b698b8c44a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_077_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_078",
+      "source_model_id": "ARM_078",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "工房の研磨台",
+        "en": "工房の研磨台",
+        "zh-CN": "工房の研磨台"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        1.4029967784881592,
+        0.6740000247955322,
+        1.436500072479248
+      ],
+      "zip_file": "ARM_078_CC0.zip",
+      "zip_bytes": 3246923,
+      "zip_sha256": "db8afd12c8ff433ab3819284970a630675bf56f407bd93bf3fb11842e86b606e",
+      "preview_file": "previews/ARM_078_preview.jpg",
+      "preview_sha256": "e698e7cc2205bb804e34fdbd6951636f6fed8fb1cab461a504fb6d220059a8ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_078_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_079",
+      "source_model_id": "ARM_079",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "石造りの小修理炉",
+        "en": "石造りの小修理炉",
+        "zh-CN": "石造りの小修理炉"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.8425048589706421,
+        0.6533746719360352,
+        0.5993217825889587
+      ],
+      "zip_file": "ARM_079_CC0.zip",
+      "zip_bytes": 2205222,
+      "zip_sha256": "6cbadd7b0df22eeeb56c61d28e393816528df829eeaec524a821ecb28ac28549",
+      "preview_file": "previews/ARM_079_preview.jpg",
+      "preview_sha256": "0167b599138b7319685bda1cce98dd4accdc5a20fb313663f1d1a16bc6881e50",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_079_CC0.zip"
+    },
+    {
+      "asset_id": "ARM_080",
+      "source_model_id": "ARM_080",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革張り工房ふいご",
+        "en": "革張り工房ふいご",
+        "zh-CN": "革張り工房ふいご"
+      },
+      "descriptions": {
+        "ja": "静的な非稼働ファンタジー外観モデル。LOD・ゲーム用衝突形状・稼働リグは付属せず、各ゲームエンジンでの外観は未検証です。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3973745107650757,
+        0.8769999742507935,
+        0.19679999351501465
+      ],
+      "zip_file": "ARM_080_CC0.zip",
+      "zip_bytes": 2777247,
+      "zip_sha256": "720683177199a39edfde1f738293a73b33bda95189cd077101bfdc2be2c1837b",
+      "preview_file": "previews/ARM_080_preview.jpg",
+      "preview_sha256": "970213873a5aba63cd69f0548585796a34fa21afe945d2fce528d362bfdc53d9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_080_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_001",
+      "source_model_id": "WH_NEW_001",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "値札付き全身鎧と鎧掛け",
+        "en": "値札付き全身鎧と鎧掛け",
+        "zh-CN": "値札付き全身鎧と鎧掛け"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        1.0950942039489746,
+        0.6600000262260437,
+        2.0013270378112793
+      ],
+      "zip_file": "WH_NEW_001_CC0.zip",
+      "zip_bytes": 8415947,
+      "zip_sha256": "36bede419803df3c19abe91e4f0c20e653709943a37e3405dcad95e94bed0993",
+      "preview_file": "previews/WH_NEW_001_preview.png",
+      "preview_sha256": "b35ccdbb7973944f1d1f0fdbb507f93bc646e2f95e2910be2a9bc0a57a1da6e0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_001_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_002",
+      "source_model_id": "WH_NEW_002",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "装飾用の大型弩",
+        "en": "装飾用の大型弩",
+        "zh-CN": "装飾用の大型弩"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        1.8794126510620117,
+        0.26999999582767487,
+        1.4199999570846558
+      ],
+      "zip_file": "WH_NEW_002_CC0.zip",
+      "zip_bytes": 3614383,
+      "zip_sha256": "0cc07dabc2cabf269b3d41148e784f7444d34f4b5f6db888e34fa9cec67101e5",
+      "preview_file": "previews/WH_NEW_002_preview.png",
+      "preview_sha256": "945412a1b4eb6eec6fbd2b3782c0ed80f171fc1fba31ef4ff4d2ff42ccd425e1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_002_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_003",
+      "source_model_id": "WH_NEW_003",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "月輪の長柄武器",
+        "en": "月輪の長柄武器",
+        "zh-CN": "月輪の長柄武器"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.6011679172515869,
+        0.11364001035690308,
+        2.18224835395813
+      ],
+      "zip_file": "WH_NEW_003_CC0.zip",
+      "zip_bytes": 2339105,
+      "zip_sha256": "99a787da6cb142c920ce75c0caeb0960a180da53cbd824b3b25571e409da2e85",
+      "preview_file": "previews/WH_NEW_003_preview.png",
+      "preview_sha256": "2518ecb4bba84c5ad974ab20d9bbb4d10a0b815edc51adefa394c86cfd8951bf",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_003_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_004",
+      "source_model_id": "WH_NEW_004",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "琥珀結晶の二股槍",
+        "en": "琥珀結晶の二股槍",
+        "zh-CN": "琥珀結晶の二股槍"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.3784722089767456,
+        0.11128001660108566,
+        2.2271738052368164
+      ],
+      "zip_file": "WH_NEW_004_CC0.zip",
+      "zip_bytes": 3141038,
+      "zip_sha256": "75cf4938d32e7abb0f86aa27ccd749352de1fbaeb2365d3085d6d71e14b1d48e",
+      "preview_file": "previews/WH_NEW_004_preview.png",
+      "preview_sha256": "0e634c6c61886d2b4a2642e09e65a3b40091f4e0453d425cc6ed3441614cec34",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_005",
+      "source_model_id": "WH_NEW_005",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "天球儀のメイス",
+        "en": "天球儀のメイス",
+        "zh-CN": "天球儀のメイス"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        0.46844762563705444,
+        0.416687548160553,
+        1.4369999170303345
+      ],
+      "zip_file": "WH_NEW_005_CC0.zip",
+      "zip_bytes": 2316776,
+      "zip_sha256": "c37e760e86a6da485bdc3398452e139ec4229541eb65adfeea448e99af302612",
+      "preview_file": "previews/WH_NEW_005_preview.png",
+      "preview_sha256": "0a57ac6ac6220760cfe8dd7decb849baa35b9b08f02aa7da10a4de7c00ac8724",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_005_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_006",
+      "source_model_id": "WH_NEW_006",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "二段20本剣ラック",
+        "en": "二段20本剣ラック",
+        "zh-CN": "二段20本剣ラック"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。 単品ラックに剣・鞘は含みません。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        3.4800000190734863,
+        0.7129999995231628,
+        2.75
+      ],
+      "zip_file": "WH_NEW_006_CC0.zip",
+      "zip_bytes": 4656130,
+      "zip_sha256": "e45567ddc9b819bdb88560ed3c5209183ad6b6620614fd7c1a7652e543c7f3f7",
+      "preview_file": "previews/WH_NEW_006_preview.png",
+      "preview_sha256": "2f86ac98ff491864379b6a1299a376cacdfd29f95abb69ba7b55dfec12a95504",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_006_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_007",
+      "source_model_id": "WH_NEW_007",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "低い二列20本剣ラック",
+        "en": "低い二列20本剣ラック",
+        "zh-CN": "低い二列20本剣ラック"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。 単品ラックに剣・鞘は含みません。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        3.4800000190734863,
+        0.7129999995231628,
+        1.3300000429153442
+      ],
+      "zip_file": "WH_NEW_007_CC0.zip",
+      "zip_bytes": 4368596,
+      "zip_sha256": "a34f825509d0eb82feea89cb9c73d44eff0fe03a348791692ca104ae8256d3ca",
+      "preview_file": "previews/WH_NEW_007_preview.png",
+      "preview_sha256": "deddbbbe0b4b907d304791114c5bbbf06b4ee5799d479d71e9603a99e5023226",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_007_CC0.zip"
+    },
+    {
+      "asset_id": "WH_NEW_008",
+      "source_model_id": "WH_NEW_008",
+      "category": "armory",
+      "theme": "ARM",
+      "record_kind": "model",
+      "revision": "armory-2026-10-19-v5",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "倉庫の梱包箱",
+        "en": "倉庫の梱包箱",
+        "zh-CN": "倉庫の梱包箱"
+      },
+      "descriptions": {
+        "ja": "底面中央原点。",
+        "en": "Static nonfunctional fantasy model. No LOD, collision proxies or working rig; appearance in external game engines is untested.",
+        "zh-CN": "静态幻想外观模型，不含活动机构、LOD或碰撞代理。"
+      },
+      "dimensions_m": [
+        1.1950000524520874,
+        0.8810000121593475,
+        0.6179657578468323
+      ],
+      "zip_file": "WH_NEW_008_CC0.zip",
+      "zip_bytes": 4760591,
+      "zip_sha256": "5984977a6b25b091a1ae461848226b053698bc96c31d664dab5fb9cc5cab6237",
+      "preview_file": "previews/WH_NEW_008_preview.png",
+      "preview_sha256": "3675c503f21d42e39b4956261823f25332af3b394e7c58e641f6253374482c41",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_008_CC0.zip"
     }
   ]
 }

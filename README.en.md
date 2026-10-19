@@ -1,6 +1,11 @@
-# Tales on a Table — 357 3D asset records
+# Tales on a Table — 428 3D asset records
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
+
+## 武具屋と在庫倉庫 / Armory and warehouse
+
+[71単品セットの画像付き一覧](catalog/armory.md) — 62 original designs + 1 fitted sheath + 8 new warehouse assets. Completed scene BLENDs are not included.
+
 
 ## Dragon treasury — 17 distribution sets
 
@@ -28,9 +33,9 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 ## Counting and scope
 
-**357 records = 327 model records + 26 groups + 2 separated components + 2 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
+**428 records = 397 model records + 26 groups + 2 separated components + 3 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
-Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93; wizard study: 40; captain cabin and ship equipment: 26; independent furnishings: 6. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The new armory collection is excluded. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
+Tavern: 56; harbor: 56; lamp shop: 58; additional story props: 5; antique shop: 93; wizard study: 40; captain cabin and ship equipment: 26; independent furnishings: 6. The antique collection comprises 73 original records and 20 groups; AT_091 is intentionally absent. The armory and warehouse collection adds 71 records. Equipment already belonging to the approved tavern, lamp-shop and antique collections remains included.
 
 FT_040, FH_002 and FH_038 retain their quality-patched versions. OL_STORY_001–005 retain their approved CC0 versions. Stable IDs and each card's unit description distinguish models, groups and separated components.
 
