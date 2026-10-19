@@ -1,16 +1,19 @@
-# Dragon treasury — 17 distribution sets
+# Dragon treasury — quality update of 17 sets
 
 [日本語](treasury.md) · [English](treasury.en.md) · [简体中文](treasury.zh-CN.md)
 
-17 distribution records: 16 individual shapes and one gem-pile group. The 25 gem GLBs (five shapes in five colours) are included in the corresponding ZIPs; colours are not additional designs. The scene has 14,167 coin placements, not unique coin designs. Reused assets are excluded from the additions.
+Quality update of the existing 17 records (16 individual shapes and one gem-pile group); zero new types. Accepted v6 assets and v7 architectural renders replace the previous catalogue presentation. The room uses warm torchlight and signs of long abandonment. The old 17 ZIPs and 25 gem colour GLBs remain in the previous release; current ZIPs contain the revised base models.
 
-![Treasury](../examples/treasury/ROOM_01.jpg)
+![Treasury](../examples/treasury/quality/01_room.png)
 
-Metres; bottom-centre root origin; GLB Y-up. Static decorative models; editable parts in BLEND. No rig, animation, collision mesh or engine-specific optimization. Materials can differ by renderer. Scene coins use shaped underfill and repeated meshes, not rigid-body simulation. Full WebGL performance is not verified. Original models and display materials: CC0-1.0. Articles, renders, code and completed scene layouts are excluded. No completed scene BLEND is distributed.
+[Previous release / 旧版](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.19-treasury)
 
-メートル単位、底面中央のルート原点、GLBはY-up。BLENDの部品は編集可能。静的装飾素材で、リグ・アニメーション・衝突形状・エンジン別最適化は含みません。材質は表示環境で異なる場合があります。自作モデルと表示材質はCC0。記事・画像・コード・完成配置シーンは対象外で、完成シーンBLENDは配布しません。
+2026-10-19 quality revision: the existing 17 records are updated; new design count = 0. The model bytes are the independently accepted v6 assets. Static decorative models, metres, BLEND and GLB. No rig, collisions or game-engine performance certification. The mantle is a high-density still-image asset (~4.65 million triangles); a lighter version is deferred. Blender procedural microdetail is not fully baked into GLB. Models and display materials remain CC0-1.0; articles, images, code and complete scene layouts are excluded. No completed scene BLEND is distributed.
 
-单位为米，底面中央根原点，GLB为Y-up。BLEND部件可编辑。静态装饰素材，不含骨架、动画、碰撞体或引擎专用优化；材质显示因环境而异。原创模型及显示材质采用CC0，文章、渲染图、代码与完整场景布局不在此范围内，不分发完整场景BLEND。
+既存17記録の品質更新で、新種類の加算は0です。合格済みv6のモデルを収録。メートル単位の静的装飾素材で、リグ・衝突形状・ゲームエンジン別の実測保証はありません。マントは約465万三角形の高密度版で、軽量版は後工程です。Blender固有の微細凹凸はGLBへ完全にはベイクしていません。自作モデルと表示材質はCC0、記事・画像・コード・完成配置は対象外。完成配置BLENDは配布しません。
+
+现有17条记录的质量更新，新增种类为0。收录通过独立检查的v6模型。静态装饰素材，单位为米，不含骨骼、碰撞体或游戏引擎性能保证。披风约465万三角形，轻量版留待后续。Blender微细程序纹理未完整烘焙到GLB。原创模型及显示材质保持CC0，文章、图片、代码和完整场景不在此范围内。不分发完整场景BLEND。
+
 
 ## TD_001 — Sun and emerald talisman
 
@@ -18,9 +21,9 @@ Metres; bottom-centre root origin; GLB Y-up. Static decorative models; editable 
 
 An openwork eight-point ring, faceted green centre stone, linked chain and reverse seal motif.
 
-0.200 × 0.367 × 0.040 m · model · CC0-1.0
+0.199 × 0.363 × 0.040 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_001_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_001_CC0.zip)
 
 ## TD_002 — Moonlight longsword
 
@@ -30,17 +33,17 @@ A diamond-section blade, inlaid markings, winged guard, leather grip and blue po
 
 0.392 × 0.076 × 1.260 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_002_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_002_CC0.zip)
 
 ## TD_003 — Dragon-headed ceremonial dagger
 
 ![Dragon-headed ceremonial dagger](../previews/TD_003_preview.png)
 
-A horned dragon pommel with brows, nostrils and fangs, a scaled grip and winged guard.
+A dragon pommel with integrated horns, gem eyes and a continuous muzzle and jaw; pointed scale plates, a slim guard junction and a diamond-section blade.
 
-0.188 × 0.119 × 0.558 m · model · CC0-1.0
+0.188 × 0.112 × 0.557 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_003_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_003_CC0.zip)
 
 ## TD_004 — Star-dragon embroidered mantle
 
@@ -48,9 +51,9 @@ A horned dragon pommel with brows, nostrils and fangs, a scaled grip and winged 
 
 A crimson mantle with a filled gold dragon on a navy shield, floral borders, palmette hem and ruby clasp.
 
-1.543 × 0.308 × 1.696 m · model · CC0-1.0
+1.543 × 0.282 × 1.696 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_004_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_004_CC0.zip)
 
 ## TD_005 — Crystal-bearing magic staff
 
@@ -60,17 +63,17 @@ Spiral metal branches cradle a large crystal above a leather grip and ferrule.
 
 0.194 × 0.177 × 1.840 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_005_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_005_CC0.zip)
 
 ## TD_006 — Wax-sealed secret scroll
 
 ![Wax-sealed secret scroll](../previews/TD_006_preview.png)
 
-Rolled parchment ends, two gold bands, a hanging seal strip and stamped red wax.
+A twenty-turn parchment roll, two stitched leather bands, a seal strip and recessed red wax seal.
 
-0.324 × 0.109 × 0.104 m · model · CC0-1.0
+0.320 × 0.106 × 0.091 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_006_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_006_CC0.zip)
 
 ## TD_007 — Royal heraldic coin
 
@@ -78,19 +81,19 @@ Rolled parchment ends, two gold bands, a hanging seal strip and stamped red wax.
 
 Raised rims on both faces, a crown emblem, radial marks and a milled edge.
 
-0.045 × 0.045 × 0.005 m · model · CC0-1.0
+0.045 × 0.045 × 0.006 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_007_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_007_CC0.zip)
 
 ## TD_008 — Stamped gold ingot
 
 ![Stamped gold ingot](../previews/TD_008_preview.png)
 
-A tapered cast ingot with bevels, purity marks and a separate assay stamp detail.
+A tapered cast ingot with bevelled edges and recessed purity and assay markings.
 
-0.188 × 0.084 × 0.056 m · model · CC0-1.0
+0.190 × 0.085 × 0.055 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_008_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_008_CC0.zip)
 
 ## TD_009 — Faceted gem pile
 
@@ -100,7 +103,7 @@ One group of bevelled gems in four colours and varied sizes; its contents are no
 
 0.209 × 0.211 × 0.034 m · group · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_009_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_009_CC0.zip)
 
 ## TD_010 — Nine-leaf royal crown
 
@@ -108,9 +111,9 @@ One group of bevelled gems in four colours and varied sizes; its contents are no
 
 Openwork leaves, red and blue stone settings and a double engraved band.
 
-0.240 × 0.244 × 0.119 m · model · CC0-1.0
+0.272 × 0.275 × 0.119 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_010_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_010_CC0.zip)
 
 ## TD_011 — Open gilded treasure chest
 
@@ -118,67 +121,66 @@ Openwork leaves, red and blue stone settings and a double engraved band.
 
 A large static chest with inner walls, floor, curved lid, hinges and corner fittings. Contents are separate assets.
 
-0.940 × 0.951 × 0.987 m · model · CC0-1.0
+1.094 × 0.951 × 0.981 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_011_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_011_CC0.zip)
 
 ## TD_012 — Sealed jewel casket
 
 ![Sealed jewel casket](../previews/TD_012_preview.png)
 
-A square casket with silver lattice fittings, a red centre stone, feet and a lid seam.
+A square casket with overlapping silver straps and supports, hinges, a latch and a red stone setting.
 
-0.312 × 0.255 × 0.265 m · model · CC0-1.0
+0.312 × 0.270 × 0.265 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_012_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_012_CC0.zip)
 
 ## TD_013 — Round brilliant-cut gem
 
 ![Round brilliant-cut gem](../previews/TD_013_preview.png)
 
-One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.
+An individual base gem/crystal shape. Five original colour GLBs remain in the previous release; colours are not extra designs.
 
 0.064 × 0.064 × 0.041 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_013_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_013_CC0.zip)
 
 ## TD_014 — Rectangular step-cut gem
 
 ![Rectangular step-cut gem](../previews/TD_014_preview.png)
 
-One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.
+An individual base gem/crystal shape. Five original colour GLBs remain in the previous release; colours are not extra designs.
 
 0.072 × 0.096 × 0.047 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_014_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_014_CC0.zip)
 
 ## TD_015 — Pear-cut gem
 
 ![Pear-cut gem](../previews/TD_015_preview.png)
 
-One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.
+An individual base gem/crystal shape. Five original colour GLBs remain in the previous release; colours are not extra designs.
 
 0.050 × 0.064 × 0.041 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_015_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_015_CC0.zip)
 
 ## TD_016 — Marquise-cut gem
 
 ![Marquise-cut gem](../previews/TD_016_preview.png)
 
-One cut shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.
+An individual base gem/crystal shape. Five original colour GLBs remain in the previous release; colours are not extra designs.
 
 0.035 × 0.083 × 0.041 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_016_CC0.zip)
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_016_CC0.zip)
 
 ## TD_017 — Hexagonal crystal
 
 ![Hexagonal crystal](../previews/TD_017_preview.png)
 
-One crystal shape with five GLB colours: red, blue, green, purple and amber. Colours are not separate designs.
+An individual base gem/crystal shape. Five original colour GLBs remain in the previous release; colours are not extra designs.
 
 0.064 × 0.055 × 0.140 m · model · CC0-1.0
 
-[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_017_CC0.zip)
-
+[ZIP · BLEND + GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_017_CC0.zip)

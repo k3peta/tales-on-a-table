@@ -1,3 +1,21 @@
+# Treasury quality update — 17 existing records
+
+既存17記録（16単品形状＋宝石小山1グループ）の品質更新です。新種類加算0。単品は合格済みv6、作例画像は建築v7です。松明の暖光と、100年以上手入れされていない部屋を意図した経年表現へ更新しました。旧版17セットと25色GLBは旧リリースに保持し、今回のZIPには改訂した基準モデルを収録しています。
+
+Quality update of the existing 17 records (16 individual shapes and one gem-pile group); zero new types. Accepted v6 assets and v7 architectural renders replace the previous catalogue presentation. The room uses warm torchlight and signs of long abandonment. The old 17 ZIPs and 25 gem colour GLBs remain in the previous release; current ZIPs contain the revised base models.
+
+现有17条记录（16种单体形状和1个宝石堆组合）的质量更新，新增种类为0。模型为通过检查的v6版本，场景图片为v7建筑版本，采用火把暖光与长期无人照料的岁月痕迹。旧17套ZIP及25个宝石颜色GLB保留在旧版本，本次ZIP收录更新的基准模型。
+
+[Catalogue](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/treasury.md) · [Previous release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.19-treasury)
+
+2026-10-19 quality revision: the existing 17 records are updated; new design count = 0. The model bytes are the independently accepted v6 assets. Static decorative models, metres, BLEND and GLB. No rig, collisions or game-engine performance certification. The mantle is a high-density still-image asset (~4.65 million triangles); a lighter version is deferred. Blender procedural microdetail is not fully baked into GLB. Models and display materials remain CC0-1.0; articles, images, code and complete scene layouts are excluded. No completed scene BLEND is distributed.
+
+既存17記録の品質更新で、新種類の加算は0です。合格済みv6のモデルを収録。メートル単位の静的装飾素材で、リグ・衝突形状・ゲームエンジン別の実測保証はありません。マントは約465万三角形の高密度版で、軽量版は後工程です。Blender固有の微細凹凸はGLBへ完全にはベイクしていません。自作モデルと表示材質はCC0、記事・画像・コード・完成配置は対象外。完成配置BLENDは配布しません。
+
+现有17条记录的质量更新，新增种类为0。收录通过独立检查的v6模型。静态装饰素材，单位为米，不含骨骼、碰撞体或游戏引擎性能保证。披风约465万三角形，轻量版留待后续。Blender微细程序纹理未完整烘焙到GLB。原创模型及显示材质保持CC0，文章、图片、代码和完整场景不在此范围内。不分发完整场景BLEND。
+
+---
+
 # Dragon treasury — 17 CC0 distribution sets
 
 17配布記録＝16単品形状＋宝石小山1グループ。5形状×5色の宝石25 GLBは対応する単品ZIPに同梱し、色違いは別種類に加算しません。金貨14,167枚は場面内の複製配置数です。既存素材の再利用も加算しません。

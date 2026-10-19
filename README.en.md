@@ -11,7 +11,7 @@
 
 [Dragon treasury — 17 distribution sets](catalog/treasury.en.md)
 
-17 distribution records: 16 individual shapes and one gem-pile group. The 25 gem GLBs (five shapes in five colours) are included in the corresponding ZIPs; colours are not additional designs. The scene has 14,167 coin placements, not unique coin designs. Reused assets are excluded from the additions.
+Quality update of the existing 17 records (16 individual shapes and one gem-pile group); zero new types. Revised ZIPs contain the accepted v6 base models; scene images use v7 architecture. The original 17 ZIPs and 25 gem colour GLBs remain in the [previous release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.19-treasury). The 14,167 coins are scene placements.
 
 ## Captain cabin and ship equipment — 26 distribution sets
 
