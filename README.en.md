@@ -2,6 +2,12 @@
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
 
+## The Night Watch — Fantasy Prison — 36 distribution records / 33 designs
+
+[Catalogue](catalog/prison.en.md)
+
+25 prop designs + 8 primary modules = 33 designs. Three configurations reuse PM006 geometry, making 36 distribution records. Previous 519 + 36 = 555 records. Arranged scenes and production code are excluded. Large-scale game performance is untested.
+
 ## Six-stall bridge market — 83 distribution records
 
 [Six-stall bridge market — 83 distribution records](catalog/bridge-market.en.md)
@@ -45,7 +51,7 @@ Use the ZIP link below each catalogue image. Binary files are attached to **GitH
 
 ## Counting and scope
 
-**519 records = 488 model records + 26 groups + 2 separated components + 3 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
+**Before prison: 519 records = 488 model records + 26 groups + 2 separated components + 3 structural variants.** This is not a count of mesh objects. BLEND and GLB are two formats of the same record, not two assets.
 
 Tavern 56; harbor 56; lamp shop 58; additional story props 5; antique shop 93; wizard study 40; captain cabin 26; independent furnishings 6; treasury 17; armory and warehouse 71; farmhouse barn 8; bridge market 83: 519 records in total. Antique shop comprises 73 originals and 20 groups; AT_091 is intentionally absent.
 

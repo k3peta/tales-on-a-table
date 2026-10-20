@@ -1,0 +1,4 @@
+CC0 1.0 Universal
+The model files (.blend and .glb) and their embedded materials/textures in this asset package are dedicated to the public domain under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+Commercial use, modification and redistribution are permitted; attribution is not required. No warranty is provided. This dedication does not cover the article text, rendered example images, or unrelated repository contents.

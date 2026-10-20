@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.19-bridge-market",
-  "item_count": 519,
+  "release_tag": "v2026.10.20-prison",
+  "item_count": 555,
   "count_by_kind": {
-    "model": 488,
+    "model": 521,
     "derived_component": 2,
     "group": 26,
-    "structural_variant": 3
+    "structural_variant": 3,
+    "connection_configuration": 3
   },
   "count_by_collection": {
     "tavern": 56,
@@ -20,9 +21,10 @@
     "treasury": 17,
     "armory": 71,
     "farmhouse_barn": 8,
-    "bridge_market": 83
+    "bridge_market": 83,
+    "prison": 36
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -16478,6 +16480,654 @@
       "preview_file": "previews/BM_083_preview.png",
       "preview_sha256": "646b390025e4f53682356af9f1a0d50c51a3bceed2fdd94291f3bad0792d9322",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_083_CC0.zip"
+    },
+    {
+      "asset_id": "FP001",
+      "source_model_id": "FP001",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "固定鉄格子",
+        "en": "Fixed cell grille",
+        "zh-CN": "固定铁栅"
+      },
+      "zip_file": "FP001_Fixed_cell_grille.zip",
+      "zip_bytes": 500618,
+      "zip_sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip"
+    },
+    {
+      "asset_id": "FP002",
+      "source_model_id": "FP002",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "格子扉",
+        "en": "Barred cell gate",
+        "zh-CN": "牢房栅门"
+      },
+      "zip_file": "FP002_Barred_cell_gate.zip",
+      "zip_bytes": 541039,
+      "zip_sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip"
+    },
+    {
+      "asset_id": "FP003",
+      "source_model_id": "FP003",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "看守の机",
+        "en": "Jailer trestle desk",
+        "zh-CN": "狱卒书桌"
+      },
+      "zip_file": "FP003_Jailer_trestle_desk.zip",
+      "zip_bytes": 2206475,
+      "zip_sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip"
+    },
+    {
+      "asset_id": "FP004",
+      "source_model_id": "FP004",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "看守の背もたれ椅子",
+        "en": "Jailer high back chair",
+        "zh-CN": "狱卒高背椅"
+      },
+      "zip_file": "FP004_Jailer_high_back_chair.zip",
+      "zip_bytes": 2181002,
+      "zip_sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip"
+    },
+    {
+      "asset_id": "FP005",
+      "source_model_id": "FP005",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鍵束",
+        "en": "Wardens keyring",
+        "zh-CN": "钥匙串"
+      },
+      "zip_file": "FP005_Wardens_keyring.zip",
+      "zip_bytes": 999385,
+      "zip_sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip"
+    },
+    {
+      "asset_id": "FP006",
+      "source_model_id": "FP006",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "寝藁の寝台",
+        "en": "Straw sleeping pallet",
+        "zh-CN": "稻草床铺"
+      },
+      "zip_file": "FP006_Straw_sleeping_pallet.zip",
+      "zip_bytes": 2387312,
+      "zip_sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip"
+    },
+    {
+      "asset_id": "FP007",
+      "source_model_id": "FP007",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "板組みの水桶",
+        "en": "Stave water bucket",
+        "zh-CN": "木板水桶"
+      },
+      "zip_file": "FP007_Stave_water_bucket.zip",
+      "zip_bytes": 2241225,
+      "zip_sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip"
+    },
+    {
+      "asset_id": "FP008",
+      "source_model_id": "FP008",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "壁松明",
+        "en": "Wall torch",
+        "zh-CN": "壁挂火把"
+      },
+      "zip_file": "FP008_Wall_torch.zip",
+      "zip_bytes": 1046429,
+      "zip_sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip"
+    },
+    {
+      "asset_id": "FP009",
+      "source_model_id": "FP009",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "巻いた鉄鎖",
+        "en": "Coiled iron chain",
+        "zh-CN": "盘绕铁链"
+      },
+      "zip_file": "FP009_Coiled_iron_chain.zip",
+      "zip_bytes": 497762,
+      "zip_sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip"
+    },
+    {
+      "asset_id": "FP010",
+      "source_model_id": "FP010",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "欠けた食器",
+        "en": "Chipped food bowl",
+        "zh-CN": "缺口食碗"
+      },
+      "zip_file": "FP010_Chipped_food_bowl.zip",
+      "zip_bytes": 528049,
+      "zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip"
+    },
+    {
+      "asset_id": "FP011",
+      "source_model_id": "FP011",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "水差し",
+        "en": "Water jug",
+        "zh-CN": "水壶"
+      },
+      "zip_file": "FP011_Water_jug.zip",
+      "zip_bytes": 565738,
+      "zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip"
+    },
+    {
+      "asset_id": "FP012",
+      "source_model_id": "FP012",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "錫の杯",
+        "en": "Pewter drinking cup",
+        "zh-CN": "锡杯"
+      },
+      "zip_file": "FP012_Pewter_drinking_cup.zip",
+      "zip_bytes": 478767,
+      "zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip"
+    },
+    {
+      "asset_id": "FP013",
+      "source_model_id": "FP013",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "囚人台帳",
+        "en": "Prisoners ledger",
+        "zh-CN": "囚犯名册"
+      },
+      "zip_file": "FP013_Prisoners_ledger.zip",
+      "zip_bytes": 1655837,
+      "zip_sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip"
+    },
+    {
+      "asset_id": "FP014",
+      "source_model_id": "FP014",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "インク壺と羽根ペン",
+        "en": "Inkpot and quill",
+        "zh-CN": "墨水瓶与羽毛笔"
+      },
+      "zip_file": "FP014_Inkpot_and_quill.zip",
+      "zip_bytes": 1097231,
+      "zip_sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip"
+    },
+    {
+      "asset_id": "FP015",
+      "source_model_id": "FP015",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "蝋燭と受け皿",
+        "en": "Candle and drip tray",
+        "zh-CN": "蜡烛与托盘"
+      },
+      "zip_file": "FP015_Candle_and_drip_tray.zip",
+      "zip_bytes": 1050346,
+      "zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip"
+    },
+    {
+      "asset_id": "FP016",
+      "source_model_id": "FP016",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "配給パン",
+        "en": "Ration bread",
+        "zh-CN": "配给面包"
+      },
+      "zip_file": "FP016_Ration_bread.zip",
+      "zip_bytes": 628983,
+      "zip_sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip"
+    },
+    {
+      "asset_id": "FP017",
+      "source_model_id": "FP017",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "白樺の箒",
+        "en": "Birch broom",
+        "zh-CN": "桦木扫帚"
+      },
+      "zip_file": "FP017_Birch_broom.zip",
+      "zip_bytes": 1877674,
+      "zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip"
+    },
+    {
+      "asset_id": "FP018",
+      "source_model_id": "FP018",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "三脚腰掛け",
+        "en": "Three leg stool",
+        "zh-CN": "三脚凳"
+      },
+      "zip_file": "FP018_Three_leg_stool.zip",
+      "zip_bytes": 1787138,
+      "zip_sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip"
+    },
+    {
+      "asset_id": "FP019",
+      "source_model_id": "FP019",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "鉄帯の小箱",
+        "en": "Iron bound lockbox",
+        "zh-CN": "铁箍小箱"
+      },
+      "zip_file": "FP019_Iron_bound_lockbox.zip",
+      "zip_bytes": 2181814,
+      "zip_sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip"
+    },
+    {
+      "asset_id": "FP020",
+      "source_model_id": "FP020",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "看守の壁棚",
+        "en": "Jailer wall shelf",
+        "zh-CN": "狱卒壁架"
+      },
+      "zip_file": "FP020_Jailer_wall_shelf.zip",
+      "zip_bytes": 2174505,
+      "zip_sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip"
+    },
+    {
+      "asset_id": "FP021",
+      "source_model_id": "FP021",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "革の書類鞄",
+        "en": "Leather dispatch satchel",
+        "zh-CN": "皮革公文包"
+      },
+      "zip_file": "FP021_Leather_dispatch_satchel.zip",
+      "zip_bytes": 1575511,
+      "zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip"
+    },
+    {
+      "asset_id": "FP022",
+      "source_model_id": "FP022",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "古い鉄錠",
+        "en": "Old iron padlock",
+        "zh-CN": "旧铁挂锁"
+      },
+      "zip_file": "FP022_Old_iron_padlock.zip",
+      "zip_bytes": 490180,
+      "zip_sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip"
+    },
+    {
+      "asset_id": "FP023",
+      "source_model_id": "FP023",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "手枷",
+        "en": "Forged hand manacles",
+        "zh-CN": "手铐"
+      },
+      "zip_file": "FP023_Forged_hand_manacles.zip",
+      "zip_bytes": 760808,
+      "zip_sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip"
+    },
+    {
+      "asset_id": "FP024",
+      "source_model_id": "FP024",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "足枷",
+        "en": "Heavy ankle shackles",
+        "zh-CN": "脚镣"
+      },
+      "zip_file": "FP024_Heavy_ankle_shackles.zip",
+      "zip_bytes": 852049,
+      "zip_sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip"
+    },
+    {
+      "asset_id": "FP025",
+      "source_model_id": "FP025",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "畳んだ囚人服",
+        "en": "Folded prison uniform",
+        "zh-CN": "折叠囚服"
+      },
+      "zip_file": "FP025_Folded_prison_uniform.zip",
+      "zip_bytes": 872986,
+      "zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip"
+    },
+    {
+      "asset_id": "PM001",
+      "source_model_id": "PM001",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "床2×2m",
+        "en": "Floor 2x2",
+        "zh-CN": "2×2米地板"
+      },
+      "zip_file": "PM001_Floor_2x2.zip",
+      "zip_bytes": 1372104,
+      "zip_sha256": "653b9e0585fbdbef0e2452f719f4eb0580222dc5542b49b027ed5be1ebf6ba07",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM001_Floor_2x2.zip"
+    },
+    {
+      "asset_id": "PM002",
+      "source_model_id": "PM002",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "石壁2m",
+        "en": "Solid Wall 2m",
+        "zh-CN": "2米石墙"
+      },
+      "zip_file": "PM002_Solid_Wall_2m.zip",
+      "zip_bytes": 2266843,
+      "zip_sha256": "bdad40ec2f8f10195537f608a38eca36b62354706fea7b2dce7389fb10b5224f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM002_Solid_Wall_2m.zip"
+    },
+    {
+      "asset_id": "PM003",
+      "source_model_id": "PM003",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "格子壁2m",
+        "en": "Barred Wall 2m",
+        "zh-CN": "2米铁栅墙"
+      },
+      "zip_file": "PM003_Barred_Wall_2m.zip",
+      "zip_bytes": 922457,
+      "zip_sha256": "16c987317a9cbb39daeab4f2676163641a5f4ee436d08c4f8eb84ad675c6d5bd",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM003_Barred_Wall_2m.zip"
+    },
+    {
+      "asset_id": "PM004",
+      "source_model_id": "PM004",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "牢房扉2m",
+        "en": "Cell Door 2m",
+        "zh-CN": "2米牢房门"
+      },
+      "zip_file": "PM004_Cell_Door_2m.zip",
+      "zip_bytes": 973787,
+      "zip_sha256": "5f3ff4032e34127fb2e9a4e801c6dddd0c377a05adc8e9ea31504e915677e50e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM004_Cell_Door_2m.zip"
+    },
+    {
+      "asset_id": "PM005",
+      "source_model_id": "PM005",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "アーチ窓壁2m",
+        "en": "Arched Window Wall 2m",
+        "zh-CN": "2米拱窗墙"
+      },
+      "zip_file": "PM005_Arched_Window_Wall_2m.zip",
+      "zip_bytes": 2766068,
+      "zip_sha256": "84bc2f7864adeedd2bfcc085fb6e010a0ad81dcd7b2884801f2a13cfcbd979de",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM005_Arched_Window_Wall_2m.zip"
+    },
+    {
+      "asset_id": "PM006",
+      "source_model_id": "PM006",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "共通石柱",
+        "en": "Universal Stone Node",
+        "zh-CN": "通用石柱"
+      },
+      "zip_file": "PM006_Universal_Stone_Node.zip",
+      "zip_bytes": 2241934,
+      "zip_sha256": "1670d97953c5e776d4d1fcc9576e95d887fb8ca3e12f599b54f0abfb3ff4425f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM006_Universal_Stone_Node.zip"
+    },
+    {
+      "asset_id": "PM007",
+      "source_model_id": "PM007",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "排水溝付き廊下床",
+        "en": "Drained Corridor Floor 2x2",
+        "zh-CN": "排水沟走廊地板"
+      },
+      "zip_file": "PM007_Drained_Corridor_Floor_2x2.zip",
+      "zip_bytes": 1826589,
+      "zip_sha256": "8f8b59b8ea1fd8f449bb1e09cf1b0333771d5961a979f51490b0827775a14fcc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM007_Drained_Corridor_Floor_2x2.zip"
+    },
+    {
+      "asset_id": "PM008",
+      "source_model_id": "PM008",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "model",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "点検蓋付き交差部床",
+        "en": "Corridor Junction Hatch 2x2",
+        "zh-CN": "检查口交叉地板"
+      },
+      "zip_file": "PM008_Corridor_Junction_Hatch_2x2.zip",
+      "zip_bytes": 1799738,
+      "zip_sha256": "50323f37a886fd9ac31e97f9f2d7415dd580ad350105bb2143bb9e7d2a91e504",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM008_Corridor_Junction_Hatch_2x2.zip"
+    },
+    {
+      "asset_id": "PM009",
+      "source_model_id": "PM009",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "connection_configuration",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "L字接続設定",
+        "en": "L Corner Configuration",
+        "zh-CN": "L形连接配置"
+      },
+      "zip_file": "PM009_L_Corner_Configuration.zip",
+      "zip_bytes": 2241751,
+      "zip_sha256": "c642db0810ba3817266ebce90acf37b77535dfce1ea30b4c82e7efee58612b04",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM009_L_Corner_Configuration.zip"
+    },
+    {
+      "asset_id": "PM010",
+      "source_model_id": "PM010",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "connection_configuration",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "T字接続設定",
+        "en": "T Junction Configuration",
+        "zh-CN": "T形连接配置"
+      },
+      "zip_file": "PM010_T_Junction_Configuration.zip",
+      "zip_bytes": 2240802,
+      "zip_sha256": "f39123a70c2f2769bed925e67a5f5047159149adb559cc3bbf5d1e97c5fd3bd7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM010_T_Junction_Configuration.zip"
+    },
+    {
+      "asset_id": "PM011",
+      "source_model_id": "PM011",
+      "category": "prison",
+      "theme": "PRISON",
+      "record_kind": "connection_configuration",
+      "revision": "publication-v1",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "端部接続設定",
+        "en": "End Cap Configuration",
+        "zh-CN": "端部连接配置"
+      },
+      "zip_file": "PM011_End_Cap_Configuration.zip",
+      "zip_bytes": 2239999,
+      "zip_sha256": "d58f368149418c8eb63bc36547a10819373d210c20989e8c23a36fe071cc78bb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip"
     }
   ]
 }

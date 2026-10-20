@@ -1,0 +1,300 @@
+{
+  "title": "The Night Watch — Fantasy Prison",
+  "version": "publication-v1",
+  "distribution_records": 36,
+  "unique_designs": 33,
+  "props": 25,
+  "primary_modules": 8,
+  "configurations": 3,
+  "models_license": "CC0-1.0",
+  "assets": [
+    {
+      "id": "FP001",
+      "name": "FP001_Fixed_cell_grille",
+      "kind": "prop",
+      "zip": "FP001_Fixed_cell_grille.zip",
+      "bytes": 500618,
+      "sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e"
+    },
+    {
+      "id": "FP002",
+      "name": "FP002_Barred_cell_gate",
+      "kind": "prop",
+      "zip": "FP002_Barred_cell_gate.zip",
+      "bytes": 541039,
+      "sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b"
+    },
+    {
+      "id": "FP003",
+      "name": "FP003_Jailer_trestle_desk",
+      "kind": "prop",
+      "zip": "FP003_Jailer_trestle_desk.zip",
+      "bytes": 2206475,
+      "sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a"
+    },
+    {
+      "id": "FP004",
+      "name": "FP004_Jailer_high_back_chair",
+      "kind": "prop",
+      "zip": "FP004_Jailer_high_back_chair.zip",
+      "bytes": 2181002,
+      "sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5"
+    },
+    {
+      "id": "FP005",
+      "name": "FP005_Wardens_keyring",
+      "kind": "prop",
+      "zip": "FP005_Wardens_keyring.zip",
+      "bytes": 999385,
+      "sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed"
+    },
+    {
+      "id": "FP006",
+      "name": "FP006_Straw_sleeping_pallet",
+      "kind": "prop",
+      "zip": "FP006_Straw_sleeping_pallet.zip",
+      "bytes": 2387312,
+      "sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250"
+    },
+    {
+      "id": "FP007",
+      "name": "FP007_Stave_water_bucket",
+      "kind": "prop",
+      "zip": "FP007_Stave_water_bucket.zip",
+      "bytes": 2241225,
+      "sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347"
+    },
+    {
+      "id": "FP008",
+      "name": "FP008_Wall_torch",
+      "kind": "prop",
+      "zip": "FP008_Wall_torch.zip",
+      "bytes": 1046429,
+      "sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0"
+    },
+    {
+      "id": "FP009",
+      "name": "FP009_Coiled_iron_chain",
+      "kind": "prop",
+      "zip": "FP009_Coiled_iron_chain.zip",
+      "bytes": 497762,
+      "sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7"
+    },
+    {
+      "id": "FP010",
+      "name": "FP010_Chipped_food_bowl",
+      "kind": "prop",
+      "zip": "FP010_Chipped_food_bowl.zip",
+      "bytes": 528049,
+      "sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05"
+    },
+    {
+      "id": "FP011",
+      "name": "FP011_Water_jug",
+      "kind": "prop",
+      "zip": "FP011_Water_jug.zip",
+      "bytes": 565738,
+      "sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257"
+    },
+    {
+      "id": "FP012",
+      "name": "FP012_Pewter_drinking_cup",
+      "kind": "prop",
+      "zip": "FP012_Pewter_drinking_cup.zip",
+      "bytes": 478767,
+      "sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5"
+    },
+    {
+      "id": "FP013",
+      "name": "FP013_Prisoners_ledger",
+      "kind": "prop",
+      "zip": "FP013_Prisoners_ledger.zip",
+      "bytes": 1655837,
+      "sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0"
+    },
+    {
+      "id": "FP014",
+      "name": "FP014_Inkpot_and_quill",
+      "kind": "prop",
+      "zip": "FP014_Inkpot_and_quill.zip",
+      "bytes": 1097231,
+      "sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051"
+    },
+    {
+      "id": "FP015",
+      "name": "FP015_Candle_and_drip_tray",
+      "kind": "prop",
+      "zip": "FP015_Candle_and_drip_tray.zip",
+      "bytes": 1050346,
+      "sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9"
+    },
+    {
+      "id": "FP016",
+      "name": "FP016_Ration_bread",
+      "kind": "prop",
+      "zip": "FP016_Ration_bread.zip",
+      "bytes": 628983,
+      "sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9"
+    },
+    {
+      "id": "FP017",
+      "name": "FP017_Birch_broom",
+      "kind": "prop",
+      "zip": "FP017_Birch_broom.zip",
+      "bytes": 1877674,
+      "sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459"
+    },
+    {
+      "id": "FP018",
+      "name": "FP018_Three_leg_stool",
+      "kind": "prop",
+      "zip": "FP018_Three_leg_stool.zip",
+      "bytes": 1787138,
+      "sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976"
+    },
+    {
+      "id": "FP019",
+      "name": "FP019_Iron_bound_lockbox",
+      "kind": "prop",
+      "zip": "FP019_Iron_bound_lockbox.zip",
+      "bytes": 2181814,
+      "sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030"
+    },
+    {
+      "id": "FP020",
+      "name": "FP020_Jailer_wall_shelf",
+      "kind": "prop",
+      "zip": "FP020_Jailer_wall_shelf.zip",
+      "bytes": 2174505,
+      "sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29"
+    },
+    {
+      "id": "FP021",
+      "name": "FP021_Leather_dispatch_satchel",
+      "kind": "prop",
+      "zip": "FP021_Leather_dispatch_satchel.zip",
+      "bytes": 1575511,
+      "sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a"
+    },
+    {
+      "id": "FP022",
+      "name": "FP022_Old_iron_padlock",
+      "kind": "prop",
+      "zip": "FP022_Old_iron_padlock.zip",
+      "bytes": 490180,
+      "sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2"
+    },
+    {
+      "id": "FP023",
+      "name": "FP023_Forged_hand_manacles",
+      "kind": "prop",
+      "zip": "FP023_Forged_hand_manacles.zip",
+      "bytes": 760808,
+      "sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411"
+    },
+    {
+      "id": "FP024",
+      "name": "FP024_Heavy_ankle_shackles",
+      "kind": "prop",
+      "zip": "FP024_Heavy_ankle_shackles.zip",
+      "bytes": 852049,
+      "sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081"
+    },
+    {
+      "id": "FP025",
+      "name": "FP025_Folded_prison_uniform",
+      "kind": "prop",
+      "zip": "FP025_Folded_prison_uniform.zip",
+      "bytes": 872986,
+      "sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58"
+    },
+    {
+      "id": "PM001",
+      "name": "PM001_Floor_2x2",
+      "kind": "primary_module",
+      "zip": "PM001_Floor_2x2.zip",
+      "bytes": 1372104,
+      "sha256": "653b9e0585fbdbef0e2452f719f4eb0580222dc5542b49b027ed5be1ebf6ba07"
+    },
+    {
+      "id": "PM002",
+      "name": "PM002_Solid_Wall_2m",
+      "kind": "primary_module",
+      "zip": "PM002_Solid_Wall_2m.zip",
+      "bytes": 2266843,
+      "sha256": "bdad40ec2f8f10195537f608a38eca36b62354706fea7b2dce7389fb10b5224f"
+    },
+    {
+      "id": "PM003",
+      "name": "PM003_Barred_Wall_2m",
+      "kind": "primary_module",
+      "zip": "PM003_Barred_Wall_2m.zip",
+      "bytes": 922457,
+      "sha256": "16c987317a9cbb39daeab4f2676163641a5f4ee436d08c4f8eb84ad675c6d5bd"
+    },
+    {
+      "id": "PM004",
+      "name": "PM004_Cell_Door_2m",
+      "kind": "primary_module",
+      "zip": "PM004_Cell_Door_2m.zip",
+      "bytes": 973787,
+      "sha256": "5f3ff4032e34127fb2e9a4e801c6dddd0c377a05adc8e9ea31504e915677e50e"
+    },
+    {
+      "id": "PM005",
+      "name": "PM005_Arched_Window_Wall_2m",
+      "kind": "primary_module",
+      "zip": "PM005_Arched_Window_Wall_2m.zip",
+      "bytes": 2766068,
+      "sha256": "84bc2f7864adeedd2bfcc085fb6e010a0ad81dcd7b2884801f2a13cfcbd979de"
+    },
+    {
+      "id": "PM006",
+      "name": "PM006_Universal_Stone_Node",
+      "kind": "primary_module",
+      "zip": "PM006_Universal_Stone_Node.zip",
+      "bytes": 2241934,
+      "sha256": "1670d97953c5e776d4d1fcc9576e95d887fb8ca3e12f599b54f0abfb3ff4425f"
+    },
+    {
+      "id": "PM007",
+      "name": "PM007_Drained_Corridor_Floor_2x2",
+      "kind": "primary_module",
+      "zip": "PM007_Drained_Corridor_Floor_2x2.zip",
+      "bytes": 1826589,
+      "sha256": "8f8b59b8ea1fd8f449bb1e09cf1b0333771d5961a979f51490b0827775a14fcc"
+    },
+    {
+      "id": "PM008",
+      "name": "PM008_Corridor_Junction_Hatch_2x2",
+      "kind": "primary_module",
+      "zip": "PM008_Corridor_Junction_Hatch_2x2.zip",
+      "bytes": 1799738,
+      "sha256": "50323f37a886fd9ac31e97f9f2d7415dd580ad350105bb2143bb9e7d2a91e504"
+    },
+    {
+      "id": "PM009",
+      "name": "PM009_L_Corner_Configuration",
+      "kind": "connection_configuration",
+      "zip": "PM009_L_Corner_Configuration.zip",
+      "bytes": 2241751,
+      "sha256": "c642db0810ba3817266ebce90acf37b77535dfce1ea30b4c82e7efee58612b04"
+    },
+    {
+      "id": "PM010",
+      "name": "PM010_T_Junction_Configuration",
+      "kind": "connection_configuration",
+      "zip": "PM010_T_Junction_Configuration.zip",
+      "bytes": 2240802,
+      "sha256": "f39123a70c2f2769bed925e67a5f5047159149adb559cc3bbf5d1e97c5fd3bd7"
+    },
+    {
+      "id": "PM011",
+      "name": "PM011_End_Cap_Configuration",
+      "kind": "connection_configuration",
+      "zip": "PM011_End_Cap_Configuration.zip",
+      "bytes": 2239999,
+      "sha256": "d58f368149418c8eb63bc36547a10819373d210c20989e8c23a36fe071cc78bb"
+    }
+  ]
+}
