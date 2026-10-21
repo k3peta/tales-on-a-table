@@ -2,6 +2,18 @@
 
 [English](README.en.md) · [简体中文](README.zh-CN.md)
 
+## 森の養蜂小屋
+
+[Catalogue](catalog/apiary.md)
+
+20配布レコード、20設計。BLENDとGLBは同じモデルの形式違いです。
+
+## 水車小屋
+
+[Catalogue](catalog/watermill.md)
+
+25配布レコード、23設計。羊3姿勢は1設計です。WT001–008は旧水車用地形の別原型で、新2m地形v2と完全互換ではありません。
+
 ## 夜番の牢獄 — 36 distribution records / 33 designs
 
 [Catalogue](catalog/prison.md)

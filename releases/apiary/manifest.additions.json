@@ -1,0 +1,609 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-apiary",
+  "item_count": 20,
+  "design_count": 20,
+  "counting_note": "BLEND/GLBは同一レコードの形式違いです。",
+  "items": [
+    {
+      "asset_id": "AP001",
+      "source_model_id": "AP001",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Weather lift beehive",
+        "en": "Weather lift beehive",
+        "zh-CN": "Weather lift beehive"
+      },
+      "zip_file": "AP001_CC0.zip",
+      "zip_bytes": 1687153,
+      "zip_sha256": "3f691ef1cf18bd892ec84043dfaa1331fbcb0c82b63a4f75ad02fe0e04f432ca",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP001_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP001_Weather_lift_beehive.blend",
+          "sha256": "b83bb9ae005d74f48ceebfe6324e6a664bfddcc78b109d2143358c3f1b1b398d"
+        },
+        {
+          "file": "models/AP001_Weather_lift_beehive.glb",
+          "sha256": "a3676e04bd76c9cf63998594f3bd743f4fe2abc57d0384a8d85e12acb45c5f17"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP002",
+      "source_model_id": "AP002",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open hive body",
+        "en": "Open hive body",
+        "zh-CN": "Open hive body"
+      },
+      "zip_file": "AP002_CC0.zip",
+      "zip_bytes": 1291175,
+      "zip_sha256": "f8e0a767156e4127d220195bccc8eac53cc9f3209a380f01a3d8c09149be5b58",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP002_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP002_Open_hive_body.blend",
+          "sha256": "63e598bd039cce57f7f91484ffcbf5ba3620ad6967a975da392f2b10365ea79e"
+        },
+        {
+          "file": "models/AP002_Open_hive_body.glb",
+          "sha256": "7d8ddbd4063229132a6b636b2dacb81e7a6642093dc3f17bf51c6720a3ef725d"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP003",
+      "source_model_id": "AP003",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honeycomb frame",
+        "en": "Honeycomb frame",
+        "zh-CN": "Honeycomb frame"
+      },
+      "zip_file": "AP003_CC0.zip",
+      "zip_bytes": 1364087,
+      "zip_sha256": "2547d52969c7969c969edd5dab248b66a3ac2b06fe3babd4a7cc679d08495050",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP003_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP003_Honeycomb_frame.blend",
+          "sha256": "d9c5eac6f580d9b8110d46c399d125654c1bec2f101aab6ea806edc2e438753b"
+        },
+        {
+          "file": "models/AP003_Honeycomb_frame.glb",
+          "sha256": "7aa0f7fd11e4c67627d9338253ba0deb2d251105557f6151ec0d52ba6b24ea69"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP004",
+      "source_model_id": "AP004",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Coiled straw skep",
+        "en": "Coiled straw skep",
+        "zh-CN": "Coiled straw skep"
+      },
+      "zip_file": "AP004_CC0.zip",
+      "zip_bytes": 897954,
+      "zip_sha256": "342714651f9aaf00ce0310411fd314a0dec0fb007f2a139cf8ceed1c9c5317fb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP004_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP004_Coiled_straw_skep.blend",
+          "sha256": "1177c516669db2b534271c6ca84922fd0e5c6061a5eb38271e1e2102bc91dfc9"
+        },
+        {
+          "file": "models/AP004_Coiled_straw_skep.glb",
+          "sha256": "f5b5c659bf894ab58392a452fe132dfa5e71eaafd29bbf7947a54653df0a4dac"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP005",
+      "source_model_id": "AP005",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper bee smoker",
+        "en": "Copper bee smoker",
+        "zh-CN": "Copper bee smoker"
+      },
+      "zip_file": "AP005_CC0.zip",
+      "zip_bytes": 2099233,
+      "zip_sha256": "42b1f4fa1cd6d8770c327b0b77ff257d2606346cd0a627b3fd1765aa01312450",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP005_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP005_Copper_bee_smoker.blend",
+          "sha256": "6b3bacfa05434864360064d5d7d0283305644328e7f729319ebb0d72029befca"
+        },
+        {
+          "file": "models/AP005_Copper_bee_smoker.glb",
+          "sha256": "252a88a7c1dee22e94dbc478038650468fe99f017628e8e74d67e4bce629bc4a"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP006",
+      "source_model_id": "AP006",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey workbench",
+        "en": "Honey workbench",
+        "zh-CN": "Honey workbench"
+      },
+      "zip_file": "AP006_CC0.zip",
+      "zip_bytes": 1695949,
+      "zip_sha256": "75dcaecfa33862ff368ddb8ce7050256ae81783c28ccc9a190ef8ad95f610cfd",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP006_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP006_Honey_workbench.blend",
+          "sha256": "656ae2525416fe9cdf96dc770e088e719de23db05e8808497a416b3a6dfc4a50"
+        },
+        {
+          "file": "models/AP006_Honey_workbench.glb",
+          "sha256": "beb3efb2ec3cdb4d6d20a4d2fd43830aebe4d27b0ac6a98baa29db8256d1f4e7"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP007",
+      "source_model_id": "AP007",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Manual honey press",
+        "en": "Manual honey press",
+        "zh-CN": "Manual honey press"
+      },
+      "zip_file": "AP007_CC0.zip",
+      "zip_bytes": 2357397,
+      "zip_sha256": "c85925b162e9f1a4c4246ffbe5f5704246531b0ea8179f22393a2951a2ebc5e2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP007_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP007_Manual_honey_press.blend",
+          "sha256": "a9412250ed8b5f029b1c66e21a5d14e40d25854175b05d33b098cd6407799e56"
+        },
+        {
+          "file": "models/AP007_Manual_honey_press.glb",
+          "sha256": "b8e9cc3da98ced72b8c7b91a4c098eddeee6be0bcc1ef5881df2273ed5df5228"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP008",
+      "source_model_id": "AP008",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Staved honey pail",
+        "en": "Staved honey pail",
+        "zh-CN": "Staved honey pail"
+      },
+      "zip_file": "AP008_CC0.zip",
+      "zip_bytes": 1167356,
+      "zip_sha256": "a056b89edc07b2c8b0be99fab5375c17348a107ba205dd6d61e9662655ee3d4b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP008_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP008_Staved_honey_pail.blend",
+          "sha256": "56bfda59bdab06926ce8958a96393d74b4253c494e46b12a156aef8c39c29ad1"
+        },
+        {
+          "file": "models/AP008_Staved_honey_pail.glb",
+          "sha256": "8c65aef603450618e6ad423c58ff384b5de87cadca2abddddf709e05e5fd4dd1"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP009",
+      "source_model_id": "AP009",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey storage jar",
+        "en": "Honey storage jar",
+        "zh-CN": "Honey storage jar"
+      },
+      "zip_file": "AP009_CC0.zip",
+      "zip_bytes": 164253,
+      "zip_sha256": "2465bce38c0e27f314f04618d8ddb12c57d3e232fcd295129c759f01e42cb7ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP009_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP009_Honey_storage_jar.blend",
+          "sha256": "5f7001812e91e298dae27150247c2d26a35bee87da4513398e99f4bdeba04789"
+        },
+        {
+          "file": "models/AP009_Honey_storage_jar.glb",
+          "sha256": "3bb48bdb52349622c6f3727a652ffd530c5ed7769a617f8b6bda9c913cecae86"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP010",
+      "source_model_id": "AP010",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey dipper bowl",
+        "en": "Honey dipper bowl",
+        "zh-CN": "Honey dipper bowl"
+      },
+      "zip_file": "AP010_CC0.zip",
+      "zip_bytes": 1215949,
+      "zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP010_Honey_dipper_bowl.blend",
+          "sha256": "e0bd54bdfb77964a99ab3d198b474b6da2c9bd202a5ce133972bf27ee0d373af"
+        },
+        {
+          "file": "models/AP010_Honey_dipper_bowl.glb",
+          "sha256": "3544d52780a92e9d27acbf889e9eb2cdb0add92f285e6a9527a772ea82d58836"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP011",
+      "source_model_id": "AP011",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Beeswax blocks",
+        "en": "Beeswax blocks",
+        "zh-CN": "Beeswax blocks"
+      },
+      "zip_file": "AP011_CC0.zip",
+      "zip_bytes": 129319,
+      "zip_sha256": "bc26a22f17f0d83a5621fb2c15040ac202e141f5710fd6fec61adc70469117c6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP011_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP011_Beeswax_blocks.blend",
+          "sha256": "b1b96d81471ef4602bb76433dfd1f27168415bb429b8adb60685b0064a2e4571"
+        },
+        {
+          "file": "models/AP011_Beeswax_blocks.glb",
+          "sha256": "c44d3b72ae78d83a21b28069d121a27ae6055e7fe46ac142309604e02cae07a6"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP012",
+      "source_model_id": "AP012",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Candle drying rack",
+        "en": "Candle drying rack",
+        "zh-CN": "Candle drying rack"
+      },
+      "zip_file": "AP012_CC0.zip",
+      "zip_bytes": 1295342,
+      "zip_sha256": "9d20cf6acff1eb75c9affa41b5598fb3128c777c3c49fb10a5474b81ad72f745",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP012_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP012_Candle_drying_rack.blend",
+          "sha256": "120887c59423b45dff98ce05db74559dd898738aea67b4f52183763388920e0f"
+        },
+        {
+          "file": "models/AP012_Candle_drying_rack.glb",
+          "sha256": "b17a4663af1d47442f01f27ba2115c0a54ba7eb2e3e247e99359e6f5b5da7231"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP013",
+      "source_model_id": "AP013",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Six tube candle mould",
+        "en": "Six tube candle mould",
+        "zh-CN": "Six tube candle mould"
+      },
+      "zip_file": "AP013_CC0.zip",
+      "zip_bytes": 482360,
+      "zip_sha256": "a18d0540350c2bd82d8177cdfd10369311178e8404834f43c19a18d3d3e62091",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP013_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP013_Six_tube_candle_mould.blend",
+          "sha256": "3d79e82463731b7173c64a848bc1bc748bcedcf008f025a61a78e391671e913c"
+        },
+        {
+          "file": "models/AP013_Six_tube_candle_mould.glb",
+          "sha256": "d85a24b6721a0c85af90565538d825b289110bcbfb8149376cea119ceadebb81"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP014",
+      "source_model_id": "AP014",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wax melting cauldron",
+        "en": "Wax melting cauldron",
+        "zh-CN": "Wax melting cauldron"
+      },
+      "zip_file": "AP014_CC0.zip",
+      "zip_bytes": 3721626,
+      "zip_sha256": "49d09bb90e7070291257a0690a0f18219a665c031bf8a5d051639c16dc68b194",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP014_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP014_Wax_melting_cauldron.blend",
+          "sha256": "961fb21e3e61bd9adb2598ecacbbb63658dfcaaa1df8cb9c51823bd58f09937e"
+        },
+        {
+          "file": "models/AP014_Wax_melting_cauldron.glb",
+          "sha256": "28398710ceacd55628ae06768dcc8ee6b7c3a97984399a60b81b931f366f7b0d"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP015",
+      "source_model_id": "AP015",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Hive tool and brush",
+        "en": "Hive tool and brush",
+        "zh-CN": "Hive tool and brush"
+      },
+      "zip_file": "AP015_CC0.zip",
+      "zip_bytes": 1107760,
+      "zip_sha256": "89f7fe708c25ff2e54f0e80fea831d8b8425df7b065dc7820e94ad20a86518d6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP015_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP015_Hive_tool_and_brush.blend",
+          "sha256": "d8d964b6937d1243bdf88457ca5de021539992ab74affd87005c7bdb6531a3ed"
+        },
+        {
+          "file": "models/AP015_Hive_tool_and_brush.glb",
+          "sha256": "b890ad6375e6d1345fba7273f2b703b83f0d51221a6bbb28039dd2b4e3026639"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP016",
+      "source_model_id": "AP016",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Apiary handcart",
+        "en": "Apiary handcart",
+        "zh-CN": "Apiary handcart"
+      },
+      "zip_file": "AP016_CC0.zip",
+      "zip_bytes": 1755276,
+      "zip_sha256": "a1dc357ad7eb40b0b08c1cb8f1a42f89b727efa1c719963397dcd48c96c68e2d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP016_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP016_Apiary_handcart.blend",
+          "sha256": "0abca180e5f02d86b76b868ccb8321ac340d746377985607b8a36ad00aa5c892"
+        },
+        {
+          "file": "models/AP016_Apiary_handcart.glb",
+          "sha256": "9dddb05f40dfad73c830d7df300907879092639f2f3175b38b7179281fb36680"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP017",
+      "source_model_id": "AP017",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Frame transport crate",
+        "en": "Frame transport crate",
+        "zh-CN": "Frame transport crate"
+      },
+      "zip_file": "AP017_CC0.zip",
+      "zip_bytes": 1284473,
+      "zip_sha256": "f8c14f6ddf0bf22ca3a76b16c19b1c6688f27a63480b2d9375fd96f9136b3058",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP017_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP017_Frame_transport_crate.blend",
+          "sha256": "c13569a7b3026b424c209c8405e4f271b2916d3a3f0f0debd4877b795971f4c4"
+        },
+        {
+          "file": "models/AP017_Frame_transport_crate.glb",
+          "sha256": "87bea975b335858f40f1356ebd587bca5b5c955a68bc9b0d28cb75fdc5448c6e"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP018",
+      "source_model_id": "AP018",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Uncapping board",
+        "en": "Uncapping board",
+        "zh-CN": "Uncapping board"
+      },
+      "zip_file": "AP018_CC0.zip",
+      "zip_bytes": 1660942,
+      "zip_sha256": "d2aa82108d45e88e4016d102da60c8ec34535287ba8214c90a45f07a0722fb19",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP018_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP018_Uncapping_board.blend",
+          "sha256": "803a0454ccc75571f8083777d0446f51c6ed3c891c9430d939ee846d776c559c"
+        },
+        {
+          "file": "models/AP018_Uncapping_board.glb",
+          "sha256": "cf8ca7ac64ae9127feb4cd9c4716a0f83635de49bb3690b35274d49a5713ac22"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP019",
+      "source_model_id": "AP019",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bee water tray",
+        "en": "Bee water tray",
+        "zh-CN": "Bee water tray"
+      },
+      "zip_file": "AP019_CC0.zip",
+      "zip_bytes": 2751571,
+      "zip_sha256": "b7f5434d37fc26679ece7199c1861e4128cc0e3e28050ca7b5fd3de92afcb5ed",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP019_Bee_water_tray.blend",
+          "sha256": "32f668cca0c7a54899523c73b6ddb0a66d9875c700661d819f73d7d99f8a6c8c"
+        },
+        {
+          "file": "models/AP019_Bee_water_tray.glb",
+          "sha256": "1422d28f0ee4126e44c201a02ef0bfad82b5c2cdc98317e0c2840eaa5c388845"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP020",
+      "source_model_id": "AP020",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Low hive stand",
+        "en": "Low hive stand",
+        "zh-CN": "Low hive stand"
+      },
+      "zip_file": "AP020_CC0.zip",
+      "zip_bytes": 1277883,
+      "zip_sha256": "56ac74c2c4b8d5ab3b387f5bb67d67ffce2394304ea10c0eae5027c47c3ef3ba",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP020_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP020_Low_hive_stand.blend",
+          "sha256": "d990c53df952052fb7633f590cc0c3452af32490463626c5ec08205e9c2e4d9d"
+        },
+        {
+          "file": "models/AP020_Low_hive_stand.glb",
+          "sha256": "07cb2bd38bebd05c1a2513af9af93c4862924072ee0ea79060bb2e463dcc6ac8"
+        }
+      ]
+    }
+  ]
+}

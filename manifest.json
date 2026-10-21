@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "release_tag": "v2026.10.20-prison",
-  "item_count": 555,
+  "release_tag": "v2026.10.21-apiary",
+  "item_count": 600,
   "count_by_kind": {
-    "model": 521,
+    "model": 564,
     "derived_component": 2,
     "group": 26,
-    "structural_variant": 3,
+    "structural_variant": 5,
     "connection_configuration": 3
   },
   "count_by_collection": {
@@ -22,9 +22,11 @@
     "armory": 71,
     "farmhouse_barn": 8,
     "bridge_market": 83,
-    "prison": 36
+    "prison": 36,
+    "watermill": 25,
+    "apiary": 20
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -17128,6 +17130,1364 @@
       "zip_bytes": 2239999,
       "zip_sha256": "d58f368149418c8eb63bc36547a10819373d210c20989e8c23a36fe071cc78bb",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip"
+    },
+    {
+      "asset_id": "WM001",
+      "source_model_id": "WM001",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Undershot waterwheel",
+        "en": "Undershot waterwheel",
+        "zh-CN": "Undershot waterwheel"
+      },
+      "zip_file": "WM001_CC0.zip",
+      "zip_bytes": 6799277,
+      "zip_sha256": "904cd2d030df52b5a4495ac1f194d0b390e93eb74ea7a09083f5dc60186c11ee",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM001_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM001_Undershot_waterwheel.blend",
+          "sha256": "01a6bf8c8138b664cef87cd951b31e467a5e55cbf4e203260f5834e1af6dff86"
+        },
+        {
+          "file": "models/WM001_Undershot_waterwheel.glb",
+          "sha256": "25252982c3cf0884560f2e95eae35cdbe376c4efe0006d657a626d421c0608b1"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM002",
+      "source_model_id": "WM002",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Millstone and grain hopper",
+        "en": "Millstone and grain hopper",
+        "zh-CN": "Millstone and grain hopper"
+      },
+      "zip_file": "WM002_CC0.zip",
+      "zip_bytes": 6143284,
+      "zip_sha256": "155113faeda9fea0c9f29e41bbeae0638560574ca118a60f5558962e68b21221",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM002_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM002_Millstone_and_grain_hopper.blend",
+          "sha256": "3a269d74eab603a2702c9e075ef058c45176dbf16f8d759964a3fddaa7a8bfdf"
+        },
+        {
+          "file": "models/WM002_Millstone_and_grain_hopper.glb",
+          "sha256": "38b230f36556ff7bbd7986888a25f091cd09d33eba9663211437fe420a3109db"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM003",
+      "source_model_id": "WM003",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Millers workbench",
+        "en": "Millers workbench",
+        "zh-CN": "Millers workbench"
+      },
+      "zip_file": "WM003_CC0.zip",
+      "zip_bytes": 6464173,
+      "zip_sha256": "1e60b4c89eb6baea07781a31cf3fd0e0bcdf11619c189be447685d44b91dde3f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM003_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM003_Millers_workbench.blend",
+          "sha256": "d7a984fc67d5fceb9f231aaf55a16e9ea0ac3eb6e81274a3eb427a1b88ec033a"
+        },
+        {
+          "file": "models/WM003_Millers_workbench.glb",
+          "sha256": "a298dcd8e1e4221ad1cbaf64e8e0328b5b8f333ba5e6fddea428983b836ead50"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM004",
+      "source_model_id": "WM004",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Burlap grain sack",
+        "en": "Burlap grain sack",
+        "zh-CN": "Burlap grain sack"
+      },
+      "zip_file": "WM004_CC0.zip",
+      "zip_bytes": 3127395,
+      "zip_sha256": "904df61eda5dff628d474548fa468fd1e1602041f8b090c6f5bd9a2b4a18acad",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM004_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM004_Burlap_grain_sack.blend",
+          "sha256": "19f2d1a52a884a66a576ba02bbac174dd05ba5a714b010e2a0386f0c7771e197"
+        },
+        {
+          "file": "models/WM004_Burlap_grain_sack.glb",
+          "sha256": "add6b49dc48dfd53184f482078e27ebd3986660bad5f66387df18ad99e1ebef7"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM005",
+      "source_model_id": "WM005",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open grain bin",
+        "en": "Open grain bin",
+        "zh-CN": "Open grain bin"
+      },
+      "zip_file": "WM005_CC0.zip",
+      "zip_bytes": 6495447,
+      "zip_sha256": "be3930aeea29d59bcf60376e6b8ef60c134287a82fbb76188639db5db91c9d6a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM005_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM005_Open_grain_bin.blend",
+          "sha256": "995aebb7bc825d89cc820ad47cb210530f306545b3575630351e58b23452dbff"
+        },
+        {
+          "file": "models/WM005_Open_grain_bin.glb",
+          "sha256": "b41029a6e5294b91134abc0cc59fe9f50053cb41daa84b6b30aabf8cc6a16667"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM006",
+      "source_model_id": "WM006",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Flour collection trough",
+        "en": "Flour collection trough",
+        "zh-CN": "Flour collection trough"
+      },
+      "zip_file": "WM006_CC0.zip",
+      "zip_bytes": 3905334,
+      "zip_sha256": "6b687d723ccf85df3daf35c92374fb2a3d8f6d242d9da17736f36bbd13410481",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM006_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM006_Flour_collection_trough.blend",
+          "sha256": "91c1e4926009e4304da491960188a5fb65930216de8c7b9c76d4db070af23459"
+        },
+        {
+          "file": "models/WM006_Flour_collection_trough.glb",
+          "sha256": "108121925ea5ac7612f89464ec7c554bb734d64a8f2fc141469d5446e8ac03f7"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM007",
+      "source_model_id": "WM007",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Small footbridge",
+        "en": "Small footbridge",
+        "zh-CN": "Small footbridge"
+      },
+      "zip_file": "WM007_CC0.zip",
+      "zip_bytes": 6469025,
+      "zip_sha256": "ac3b5c2a7401478edc58158132e4316290935e43012d270284c0512313709cac",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM007_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM007_Small_footbridge.blend",
+          "sha256": "aab0885f52601d3050e36b1a36de1f3aa555a6106e3bb93f7f695f9141afd9c9"
+        },
+        {
+          "file": "models/WM007_Small_footbridge.glb",
+          "sha256": "14e2142c6d6a77867040c1a822ce83c1c8d385dd2a5e1de7a3f2603fc5c6a781"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM008",
+      "source_model_id": "WM008",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Flour sieve",
+        "en": "Flour sieve",
+        "zh-CN": "Flour sieve"
+      },
+      "zip_file": "WM008_CC0.zip",
+      "zip_bytes": 2525642,
+      "zip_sha256": "68459b2165201f70d8f59ace1e141a4205a1815e12e2b7e8ea455407d68b8923",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM008_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM008_Flour_sieve.blend",
+          "sha256": "c530c96a0686c38cdb238f0e6f57c4bef798e485073baeac45541d0a6b3391d4"
+        },
+        {
+          "file": "models/WM008_Flour_sieve.glb",
+          "sha256": "f8048deeb641714ea24980a9fdc9bf15647e455c2b51b37dbc5b08c03423d036"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM009",
+      "source_model_id": "WM009",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wooden grain scoop",
+        "en": "Wooden grain scoop",
+        "zh-CN": "Wooden grain scoop"
+      },
+      "zip_file": "WM009_CC0.zip",
+      "zip_bytes": 4235841,
+      "zip_sha256": "f5bc61b636641f68411c79c7bd83caf2f964e2997618d24ae2fa2811414c2f7e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM009_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM009_Wooden_grain_scoop.blend",
+          "sha256": "e2a4899ed60936badef7a3cc2b4217c5cf6e3296093a48cb2eb63cdf6cb24597"
+        },
+        {
+          "file": "models/WM009_Wooden_grain_scoop.glb",
+          "sha256": "3a04930aab0cfcc4c5bf8fc166d6fdcdf7e61dbe2e9e28a40c13b7419ef7a0ed"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM010",
+      "source_model_id": "WM010",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mill broom",
+        "en": "Mill broom",
+        "zh-CN": "Mill broom"
+      },
+      "zip_file": "WM010_CC0.zip",
+      "zip_bytes": 3957231,
+      "zip_sha256": "88ae1f7c624afe4ae38e12e4ce7839f248a2d62a6c53bf7c584da7053f06cfb5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM010_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM010_Mill_broom.blend",
+          "sha256": "e2c7c2673a00bcedb8a51b7a9a05be0b12e52030490b0565c027bd9a305c3dae"
+        },
+        {
+          "file": "models/WM010_Mill_broom.glb",
+          "sha256": "d2b62eef26efaf6e7e78d8612d48b5af13c00a876f3703af83ce5af6a491060e"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM011",
+      "source_model_id": "WM011",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Millers oil lantern",
+        "en": "Millers oil lantern",
+        "zh-CN": "Millers oil lantern"
+      },
+      "zip_file": "WM011_CC0.zip",
+      "zip_bytes": 502499,
+      "zip_sha256": "6933f22890df635d15e63912e185a59e82953e6d874eb24f81bf9df1250aaeca",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM011_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM011_Millers_oil_lantern.blend",
+          "sha256": "442942d41a9fa55a9c89ac4986191d2a45efa64b58bba18ba71f2e2c4a81174e"
+        },
+        {
+          "file": "models/WM011_Millers_oil_lantern.glb",
+          "sha256": "5a2f86d514d833523a17dec6dfc5f7d056543ea65e0bc81e93ba46f2b5d8d149"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM012",
+      "source_model_id": "WM012",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Spare millstone",
+        "en": "Spare millstone",
+        "zh-CN": "Spare millstone"
+      },
+      "zip_file": "WM012_CC0.zip",
+      "zip_bytes": 1051398,
+      "zip_sha256": "b777bb8247e5f1a37b9373ad157e66901d88684449af0680805e02f1215e1c7d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM012_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM012_Spare_millstone.blend",
+          "sha256": "5d31a3ca0be0ce223878311646545955775c11206650051f62027d96cc48f9b5"
+        },
+        {
+          "file": "models/WM012_Spare_millstone.glb",
+          "sha256": "bc38e0b262d92981e955e297af60175bf4cd538252e1af665b5311b996febbe9"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM013",
+      "source_model_id": "WM013",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Three legged millers stool",
+        "en": "Three legged millers stool",
+        "zh-CN": "Three legged millers stool"
+      },
+      "zip_file": "WM013_CC0.zip",
+      "zip_bytes": 3909475,
+      "zip_sha256": "e31b4d28cfbb7a5e285e7c5c66db14b63b2af57cfdb1e2f735527594a3d5c791",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM013_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM013_Three_legged_millers_stool.blend",
+          "sha256": "c75b20de93ff0e53fc91dbb119cc14d5344d8b5117e055328c691c416e16a125"
+        },
+        {
+          "file": "models/WM013_Three_legged_millers_stool.glb",
+          "sha256": "dcb96b98b583956ffb5fc8360c0aec752ae9b20139b23b8b0983a38e0a35a081"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM014",
+      "source_model_id": "WM014",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM_SHEEP",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Sheep grazing",
+        "en": "Sheep grazing",
+        "zh-CN": "Sheep grazing"
+      },
+      "zip_file": "WM014_CC0.zip",
+      "zip_bytes": 2352160,
+      "zip_sha256": "04be1105e8144509c59ad8aa44956470271fd588ab09a6b9b36b8348bd21e896",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM014_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM014_Sheep_grazing.blend",
+          "sha256": "96cade602ef0dc6f0270a8baa2821aceaae464893be7f9d2a19b028c709f884d"
+        },
+        {
+          "file": "models/WM014_Sheep_grazing.glb",
+          "sha256": "5354e5fc2a82eb00640e766940f45dae257b4f65e1fc6ba4a3c3353fb3282d44"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM015",
+      "source_model_id": "WM015",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "structural_variant",
+      "design_id": "WM_SHEEP",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Sheep resting",
+        "en": "Sheep resting",
+        "zh-CN": "Sheep resting"
+      },
+      "zip_file": "WM015_CC0.zip",
+      "zip_bytes": 2312227,
+      "zip_sha256": "f06f677515760c87ce58b173b82292217923758dc585a568080839656549f88b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM015_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM015_Sheep_resting.blend",
+          "sha256": "a96abe3594d6c1bebc7a70c1c602363ab2b386b71204310b279fb7dd37fcf00c"
+        },
+        {
+          "file": "models/WM015_Sheep_resting.glb",
+          "sha256": "338b1ebf165c677a39a04d3c14ceeac07c1713052e2731465a30af0547b9f7d2"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM016",
+      "source_model_id": "WM016",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "structural_variant",
+      "design_id": "WM_SHEEP",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Sheep standing",
+        "en": "Sheep standing",
+        "zh-CN": "Sheep standing"
+      },
+      "zip_file": "WM016_CC0.zip",
+      "zip_bytes": 2322755,
+      "zip_sha256": "8694d155e9f6c87241b9a780221f69e6a7ad5fa7d4c91a4eafc24770f12d7107",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM016_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM016_Sheep_standing.blend",
+          "sha256": "1ab42df0c03d3d43fa870070f25d8201680fe55c435e84f91f637ac17370e97a"
+        },
+        {
+          "file": "models/WM016_Sheep_standing.glb",
+          "sha256": "15cf91836082716fbc0fcef1f5dc70c31f3e5605c75003533da617e798b576db"
+        }
+      ]
+    },
+    {
+      "asset_id": "WM017",
+      "source_model_id": "WM017",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WM017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mill transmission gears",
+        "en": "Mill transmission gears",
+        "zh-CN": "Mill transmission gears"
+      },
+      "zip_file": "WM017_CC0.zip",
+      "zip_bytes": 4350578,
+      "zip_sha256": "ece039adbd38f241bdf227c09c4bbe48b68eb2aad87a6a82918c8ca4d766afb6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM017_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WM017_Mill_transmission_gears.blend",
+          "sha256": "71267ca25400945e6880796efd4f60d885c891cd90d0a10f0cbcf8759c4128d3"
+        },
+        {
+          "file": "models/WM017_Mill_transmission_gears.glb",
+          "sha256": "ca5d8acfdc9b18c8b45a614f81fba9fedf66cf89c7ccd9279453495f0eb52e07"
+        }
+      ]
+    },
+    {
+      "asset_id": "WT001",
+      "source_model_id": "WT001",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Low meadow",
+        "en": "Low meadow",
+        "zh-CN": "Low meadow"
+      },
+      "zip_file": "WT001_CC0.zip",
+      "zip_bytes": 4525844,
+      "zip_sha256": "3579a63bebf86d1d958accf8ea7ec57614ff6a510d2dd05542a73bd0362ea362",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT001_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT001_Low_meadow.blend",
+          "sha256": "dcda5570229ca7cbade48aa9f0f0fa10538fee9e34508cae1734c96dc4478f03"
+        },
+        {
+          "file": "models/WT001_Low_meadow.glb",
+          "sha256": "f9b0111068efbe04078ded994371c2d6cc2f8f609ca4d5caa43bb47d3ca3ddef"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT002",
+      "source_model_id": "WT002",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Flower meadow",
+        "en": "Flower meadow",
+        "zh-CN": "Flower meadow"
+      },
+      "zip_file": "WT002_CC0.zip",
+      "zip_bytes": 4984868,
+      "zip_sha256": "226d0cafef2e09aa1798be01a2e71e954aa9131374a04bbba5bc0edf60010d2d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT002_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT002_Flower_meadow.blend",
+          "sha256": "090361994c9972a8dc379509c7d10134c2b72ed18c7e63fbea721001a2a14e4f"
+        },
+        {
+          "file": "models/WT002_Flower_meadow.glb",
+          "sha256": "13d76356fa22e86ac203c98da5f159e6955f79b30ff9acacd9aea65043b9bc7d"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT003",
+      "source_model_id": "WT003",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Deciduous copse",
+        "en": "Deciduous copse",
+        "zh-CN": "Deciduous copse"
+      },
+      "zip_file": "WT003_CC0.zip",
+      "zip_bytes": 6153646,
+      "zip_sha256": "797af9c6c09dd5cd671e1550cff812f909b9bef130660726ab1b762150146f42",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT003_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT003_Deciduous_copse.blend",
+          "sha256": "983aad1b886187ac1237dbf3e3707c2ca9773c52c25be7d4d665838936210f05"
+        },
+        {
+          "file": "models/WT003_Deciduous_copse.glb",
+          "sha256": "26657ba86a7aeae6e04b1727aee87d420b5315f7e79a58cdb3246998bb7e3922"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT004",
+      "source_model_id": "WT004",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Weathered rock outcrop",
+        "en": "Weathered rock outcrop",
+        "zh-CN": "Weathered rock outcrop"
+      },
+      "zip_file": "WT004_CC0.zip",
+      "zip_bytes": 4833184,
+      "zip_sha256": "54304a77e91f1778d450bb86be8e211bad6b146b4b2acf1700f9247e1fd6b444",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT004_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT004_Weathered_rock_outcrop.blend",
+          "sha256": "0685cc3d61b404c9a8af54bc311cbb9dd07105ebef45c91f8393246b0f1dd307"
+        },
+        {
+          "file": "models/WT004_Weathered_rock_outcrop.glb",
+          "sha256": "8a20963d93b1519a0ee2d421325ccec27b456056f60d7b5f43c082faee9041ea"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT005",
+      "source_model_id": "WT005",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Path straight NS",
+        "en": "Path straight NS",
+        "zh-CN": "Path straight NS"
+      },
+      "zip_file": "WT005_CC0.zip",
+      "zip_bytes": 4388078,
+      "zip_sha256": "ddfe65bfb7b08239db445c7b0d941e9d6f43c6acf199da87a7f08e36bca3f4bf",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT005_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT005_Path_straight_NS.blend",
+          "sha256": "f72504d36a8b51a5a87165ca7a7281df96e318352d101b8fdbea07831886da40"
+        },
+        {
+          "file": "models/WT005_Path_straight_NS.glb",
+          "sha256": "e37dff84f0026ba00ca619f1bea30b2b0b3b2aa07900d3623a312d5b3d80e67a"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT006",
+      "source_model_id": "WT006",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Path bend NE",
+        "en": "Path bend NE",
+        "zh-CN": "Path bend NE"
+      },
+      "zip_file": "WT006_CC0.zip",
+      "zip_bytes": 4426516,
+      "zip_sha256": "4a3cf9938f841e89a01e965b16884c4b45022ecf5efbf5e7ad17c6d40ec25523",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT006_Path_bend_NE.blend",
+          "sha256": "afdddf346599febd725862862355b1152b429681828aa596171add2e849c82b8"
+        },
+        {
+          "file": "models/WT006_Path_bend_NE.glb",
+          "sha256": "cb7016ff2d67fdf1c72b79d43debf272264126a1bc6abeab0ae333a665dd543a"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT007",
+      "source_model_id": "WT007",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stream straight NS",
+        "en": "Stream straight NS",
+        "zh-CN": "Stream straight NS"
+      },
+      "zip_file": "WT007_CC0.zip",
+      "zip_bytes": 3605748,
+      "zip_sha256": "1a8541449e9f4f6162edcc06b73288847fd7dbef01a1bc73ed96d6a3f13a0341",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT007_Stream_straight_NS.blend",
+          "sha256": "96b8830789b790ade7517f71ee4f0823e24398f90def8c5bc90cce310cdc3d5d"
+        },
+        {
+          "file": "models/WT007_Stream_straight_NS.glb",
+          "sha256": "6a81cda0ed148ca1f239c079832300f13b64a9810569e549f9cb1a6b1a5267d9"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "WT008",
+      "source_model_id": "WT008",
+      "category": "watermill",
+      "theme": "WM",
+      "record_kind": "model",
+      "design_id": "WT008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stream bend NE",
+        "en": "Stream bend NE",
+        "zh-CN": "Stream bend NE"
+      },
+      "zip_file": "WT008_CC0.zip",
+      "zip_bytes": 4346572,
+      "zip_sha256": "3161937a8a2358681cca78c81f392156bbcbd9d836472ba37a45f30c223f4c46",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip",
+      "catalog_file": "catalog/watermill.md",
+      "files": [
+        {
+          "file": "models/WT008_Stream_bend_NE.blend",
+          "sha256": "96b774587ad4a81847e94495c182be7eff02e5744efb2431ec1cd028a3559eb2"
+        },
+        {
+          "file": "models/WT008_Stream_bend_NE.glb",
+          "sha256": "5f21b653c46314143a7acd898c33144f2281ffb9a52f61e5d8c787e8e4c7349a"
+        }
+      ],
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+    },
+    {
+      "asset_id": "AP001",
+      "source_model_id": "AP001",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Weather lift beehive",
+        "en": "Weather lift beehive",
+        "zh-CN": "Weather lift beehive"
+      },
+      "zip_file": "AP001_CC0.zip",
+      "zip_bytes": 1687153,
+      "zip_sha256": "3f691ef1cf18bd892ec84043dfaa1331fbcb0c82b63a4f75ad02fe0e04f432ca",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP001_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP001_Weather_lift_beehive.blend",
+          "sha256": "b83bb9ae005d74f48ceebfe6324e6a664bfddcc78b109d2143358c3f1b1b398d"
+        },
+        {
+          "file": "models/AP001_Weather_lift_beehive.glb",
+          "sha256": "a3676e04bd76c9cf63998594f3bd743f4fe2abc57d0384a8d85e12acb45c5f17"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP002",
+      "source_model_id": "AP002",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open hive body",
+        "en": "Open hive body",
+        "zh-CN": "Open hive body"
+      },
+      "zip_file": "AP002_CC0.zip",
+      "zip_bytes": 1291175,
+      "zip_sha256": "f8e0a767156e4127d220195bccc8eac53cc9f3209a380f01a3d8c09149be5b58",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP002_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP002_Open_hive_body.blend",
+          "sha256": "63e598bd039cce57f7f91484ffcbf5ba3620ad6967a975da392f2b10365ea79e"
+        },
+        {
+          "file": "models/AP002_Open_hive_body.glb",
+          "sha256": "7d8ddbd4063229132a6b636b2dacb81e7a6642093dc3f17bf51c6720a3ef725d"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP003",
+      "source_model_id": "AP003",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honeycomb frame",
+        "en": "Honeycomb frame",
+        "zh-CN": "Honeycomb frame"
+      },
+      "zip_file": "AP003_CC0.zip",
+      "zip_bytes": 1364087,
+      "zip_sha256": "2547d52969c7969c969edd5dab248b66a3ac2b06fe3babd4a7cc679d08495050",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP003_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP003_Honeycomb_frame.blend",
+          "sha256": "d9c5eac6f580d9b8110d46c399d125654c1bec2f101aab6ea806edc2e438753b"
+        },
+        {
+          "file": "models/AP003_Honeycomb_frame.glb",
+          "sha256": "7aa0f7fd11e4c67627d9338253ba0deb2d251105557f6151ec0d52ba6b24ea69"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP004",
+      "source_model_id": "AP004",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Coiled straw skep",
+        "en": "Coiled straw skep",
+        "zh-CN": "Coiled straw skep"
+      },
+      "zip_file": "AP004_CC0.zip",
+      "zip_bytes": 897954,
+      "zip_sha256": "342714651f9aaf00ce0310411fd314a0dec0fb007f2a139cf8ceed1c9c5317fb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP004_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP004_Coiled_straw_skep.blend",
+          "sha256": "1177c516669db2b534271c6ca84922fd0e5c6061a5eb38271e1e2102bc91dfc9"
+        },
+        {
+          "file": "models/AP004_Coiled_straw_skep.glb",
+          "sha256": "f5b5c659bf894ab58392a452fe132dfa5e71eaafd29bbf7947a54653df0a4dac"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP005",
+      "source_model_id": "AP005",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper bee smoker",
+        "en": "Copper bee smoker",
+        "zh-CN": "Copper bee smoker"
+      },
+      "zip_file": "AP005_CC0.zip",
+      "zip_bytes": 2099233,
+      "zip_sha256": "42b1f4fa1cd6d8770c327b0b77ff257d2606346cd0a627b3fd1765aa01312450",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP005_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP005_Copper_bee_smoker.blend",
+          "sha256": "6b3bacfa05434864360064d5d7d0283305644328e7f729319ebb0d72029befca"
+        },
+        {
+          "file": "models/AP005_Copper_bee_smoker.glb",
+          "sha256": "252a88a7c1dee22e94dbc478038650468fe99f017628e8e74d67e4bce629bc4a"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP006",
+      "source_model_id": "AP006",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey workbench",
+        "en": "Honey workbench",
+        "zh-CN": "Honey workbench"
+      },
+      "zip_file": "AP006_CC0.zip",
+      "zip_bytes": 1695949,
+      "zip_sha256": "75dcaecfa33862ff368ddb8ce7050256ae81783c28ccc9a190ef8ad95f610cfd",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP006_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP006_Honey_workbench.blend",
+          "sha256": "656ae2525416fe9cdf96dc770e088e719de23db05e8808497a416b3a6dfc4a50"
+        },
+        {
+          "file": "models/AP006_Honey_workbench.glb",
+          "sha256": "beb3efb2ec3cdb4d6d20a4d2fd43830aebe4d27b0ac6a98baa29db8256d1f4e7"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP007",
+      "source_model_id": "AP007",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Manual honey press",
+        "en": "Manual honey press",
+        "zh-CN": "Manual honey press"
+      },
+      "zip_file": "AP007_CC0.zip",
+      "zip_bytes": 2357397,
+      "zip_sha256": "c85925b162e9f1a4c4246ffbe5f5704246531b0ea8179f22393a2951a2ebc5e2",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP007_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP007_Manual_honey_press.blend",
+          "sha256": "a9412250ed8b5f029b1c66e21a5d14e40d25854175b05d33b098cd6407799e56"
+        },
+        {
+          "file": "models/AP007_Manual_honey_press.glb",
+          "sha256": "b8e9cc3da98ced72b8c7b91a4c098eddeee6be0bcc1ef5881df2273ed5df5228"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP008",
+      "source_model_id": "AP008",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Staved honey pail",
+        "en": "Staved honey pail",
+        "zh-CN": "Staved honey pail"
+      },
+      "zip_file": "AP008_CC0.zip",
+      "zip_bytes": 1167356,
+      "zip_sha256": "a056b89edc07b2c8b0be99fab5375c17348a107ba205dd6d61e9662655ee3d4b",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP008_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP008_Staved_honey_pail.blend",
+          "sha256": "56bfda59bdab06926ce8958a96393d74b4253c494e46b12a156aef8c39c29ad1"
+        },
+        {
+          "file": "models/AP008_Staved_honey_pail.glb",
+          "sha256": "8c65aef603450618e6ad423c58ff384b5de87cadca2abddddf709e05e5fd4dd1"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP009",
+      "source_model_id": "AP009",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey storage jar",
+        "en": "Honey storage jar",
+        "zh-CN": "Honey storage jar"
+      },
+      "zip_file": "AP009_CC0.zip",
+      "zip_bytes": 164253,
+      "zip_sha256": "2465bce38c0e27f314f04618d8ddb12c57d3e232fcd295129c759f01e42cb7ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP009_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP009_Honey_storage_jar.blend",
+          "sha256": "5f7001812e91e298dae27150247c2d26a35bee87da4513398e99f4bdeba04789"
+        },
+        {
+          "file": "models/AP009_Honey_storage_jar.glb",
+          "sha256": "3bb48bdb52349622c6f3727a652ffd530c5ed7769a617f8b6bda9c913cecae86"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP010",
+      "source_model_id": "AP010",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Honey dipper bowl",
+        "en": "Honey dipper bowl",
+        "zh-CN": "Honey dipper bowl"
+      },
+      "zip_file": "AP010_CC0.zip",
+      "zip_bytes": 1215949,
+      "zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP010_Honey_dipper_bowl.blend",
+          "sha256": "e0bd54bdfb77964a99ab3d198b474b6da2c9bd202a5ce133972bf27ee0d373af"
+        },
+        {
+          "file": "models/AP010_Honey_dipper_bowl.glb",
+          "sha256": "3544d52780a92e9d27acbf889e9eb2cdb0add92f285e6a9527a772ea82d58836"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP011",
+      "source_model_id": "AP011",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Beeswax blocks",
+        "en": "Beeswax blocks",
+        "zh-CN": "Beeswax blocks"
+      },
+      "zip_file": "AP011_CC0.zip",
+      "zip_bytes": 129319,
+      "zip_sha256": "bc26a22f17f0d83a5621fb2c15040ac202e141f5710fd6fec61adc70469117c6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP011_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP011_Beeswax_blocks.blend",
+          "sha256": "b1b96d81471ef4602bb76433dfd1f27168415bb429b8adb60685b0064a2e4571"
+        },
+        {
+          "file": "models/AP011_Beeswax_blocks.glb",
+          "sha256": "c44d3b72ae78d83a21b28069d121a27ae6055e7fe46ac142309604e02cae07a6"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP012",
+      "source_model_id": "AP012",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Candle drying rack",
+        "en": "Candle drying rack",
+        "zh-CN": "Candle drying rack"
+      },
+      "zip_file": "AP012_CC0.zip",
+      "zip_bytes": 1295342,
+      "zip_sha256": "9d20cf6acff1eb75c9affa41b5598fb3128c777c3c49fb10a5474b81ad72f745",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP012_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP012_Candle_drying_rack.blend",
+          "sha256": "120887c59423b45dff98ce05db74559dd898738aea67b4f52183763388920e0f"
+        },
+        {
+          "file": "models/AP012_Candle_drying_rack.glb",
+          "sha256": "b17a4663af1d47442f01f27ba2115c0a54ba7eb2e3e247e99359e6f5b5da7231"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP013",
+      "source_model_id": "AP013",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Six tube candle mould",
+        "en": "Six tube candle mould",
+        "zh-CN": "Six tube candle mould"
+      },
+      "zip_file": "AP013_CC0.zip",
+      "zip_bytes": 482360,
+      "zip_sha256": "a18d0540350c2bd82d8177cdfd10369311178e8404834f43c19a18d3d3e62091",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP013_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP013_Six_tube_candle_mould.blend",
+          "sha256": "3d79e82463731b7173c64a848bc1bc748bcedcf008f025a61a78e391671e913c"
+        },
+        {
+          "file": "models/AP013_Six_tube_candle_mould.glb",
+          "sha256": "d85a24b6721a0c85af90565538d825b289110bcbfb8149376cea119ceadebb81"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP014",
+      "source_model_id": "AP014",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wax melting cauldron",
+        "en": "Wax melting cauldron",
+        "zh-CN": "Wax melting cauldron"
+      },
+      "zip_file": "AP014_CC0.zip",
+      "zip_bytes": 3721626,
+      "zip_sha256": "49d09bb90e7070291257a0690a0f18219a665c031bf8a5d051639c16dc68b194",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP014_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP014_Wax_melting_cauldron.blend",
+          "sha256": "961fb21e3e61bd9adb2598ecacbbb63658dfcaaa1df8cb9c51823bd58f09937e"
+        },
+        {
+          "file": "models/AP014_Wax_melting_cauldron.glb",
+          "sha256": "28398710ceacd55628ae06768dcc8ee6b7c3a97984399a60b81b931f366f7b0d"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP015",
+      "source_model_id": "AP015",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Hive tool and brush",
+        "en": "Hive tool and brush",
+        "zh-CN": "Hive tool and brush"
+      },
+      "zip_file": "AP015_CC0.zip",
+      "zip_bytes": 1107760,
+      "zip_sha256": "89f7fe708c25ff2e54f0e80fea831d8b8425df7b065dc7820e94ad20a86518d6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP015_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP015_Hive_tool_and_brush.blend",
+          "sha256": "d8d964b6937d1243bdf88457ca5de021539992ab74affd87005c7bdb6531a3ed"
+        },
+        {
+          "file": "models/AP015_Hive_tool_and_brush.glb",
+          "sha256": "b890ad6375e6d1345fba7273f2b703b83f0d51221a6bbb28039dd2b4e3026639"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP016",
+      "source_model_id": "AP016",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Apiary handcart",
+        "en": "Apiary handcart",
+        "zh-CN": "Apiary handcart"
+      },
+      "zip_file": "AP016_CC0.zip",
+      "zip_bytes": 1755276,
+      "zip_sha256": "a1dc357ad7eb40b0b08c1cb8f1a42f89b727efa1c719963397dcd48c96c68e2d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP016_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP016_Apiary_handcart.blend",
+          "sha256": "0abca180e5f02d86b76b868ccb8321ac340d746377985607b8a36ad00aa5c892"
+        },
+        {
+          "file": "models/AP016_Apiary_handcart.glb",
+          "sha256": "9dddb05f40dfad73c830d7df300907879092639f2f3175b38b7179281fb36680"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP017",
+      "source_model_id": "AP017",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Frame transport crate",
+        "en": "Frame transport crate",
+        "zh-CN": "Frame transport crate"
+      },
+      "zip_file": "AP017_CC0.zip",
+      "zip_bytes": 1284473,
+      "zip_sha256": "f8c14f6ddf0bf22ca3a76b16c19b1c6688f27a63480b2d9375fd96f9136b3058",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP017_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP017_Frame_transport_crate.blend",
+          "sha256": "c13569a7b3026b424c209c8405e4f271b2916d3a3f0f0debd4877b795971f4c4"
+        },
+        {
+          "file": "models/AP017_Frame_transport_crate.glb",
+          "sha256": "87bea975b335858f40f1356ebd587bca5b5c955a68bc9b0d28cb75fdc5448c6e"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP018",
+      "source_model_id": "AP018",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Uncapping board",
+        "en": "Uncapping board",
+        "zh-CN": "Uncapping board"
+      },
+      "zip_file": "AP018_CC0.zip",
+      "zip_bytes": 1660942,
+      "zip_sha256": "d2aa82108d45e88e4016d102da60c8ec34535287ba8214c90a45f07a0722fb19",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP018_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP018_Uncapping_board.blend",
+          "sha256": "803a0454ccc75571f8083777d0446f51c6ed3c891c9430d939ee846d776c559c"
+        },
+        {
+          "file": "models/AP018_Uncapping_board.glb",
+          "sha256": "cf8ca7ac64ae9127feb4cd9c4716a0f83635de49bb3690b35274d49a5713ac22"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP019",
+      "source_model_id": "AP019",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bee water tray",
+        "en": "Bee water tray",
+        "zh-CN": "Bee water tray"
+      },
+      "zip_file": "AP019_CC0.zip",
+      "zip_bytes": 2751571,
+      "zip_sha256": "b7f5434d37fc26679ece7199c1861e4128cc0e3e28050ca7b5fd3de92afcb5ed",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP019_Bee_water_tray.blend",
+          "sha256": "32f668cca0c7a54899523c73b6ddb0a66d9875c700661d819f73d7d99f8a6c8c"
+        },
+        {
+          "file": "models/AP019_Bee_water_tray.glb",
+          "sha256": "1422d28f0ee4126e44c201a02ef0bfad82b5c2cdc98317e0c2840eaa5c388845"
+        }
+      ]
+    },
+    {
+      "asset_id": "AP020",
+      "source_model_id": "AP020",
+      "category": "apiary",
+      "theme": "AP",
+      "record_kind": "model",
+      "design_id": "AP020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Low hive stand",
+        "en": "Low hive stand",
+        "zh-CN": "Low hive stand"
+      },
+      "zip_file": "AP020_CC0.zip",
+      "zip_bytes": 1277883,
+      "zip_sha256": "56ac74c2c4b8d5ab3b387f5bb67d67ffce2394304ea10c0eae5027c47c3ef3ba",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP020_CC0.zip",
+      "catalog_file": "catalog/apiary.md",
+      "files": [
+        {
+          "file": "models/AP020_Low_hive_stand.blend",
+          "sha256": "d990c53df952052fb7633f590cc0c3452af32490463626c5ec08205e9c2e4d9d"
+        },
+        {
+          "file": "models/AP020_Low_hive_stand.glb",
+          "sha256": "07cb2bd38bebd05c1a2513af9af93c4862924072ee0ea79060bb2e463dcc6ac8"
+        }
+      ]
     }
   ]
 }

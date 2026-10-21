@@ -2,6 +2,18 @@
 
 [日本語](README.md) · [简体中文](README.zh-CN.md)
 
+## Forest apiary
+
+[Catalogue](catalog/apiary.en.md)
+
+20 distribution records / 20 designs. BLEND and GLB are formats of the same model.
+
+## Watermill
+
+[Catalogue](catalog/watermill.en.md)
+
+25 distribution records / 23 designs. The three sheep poses share one design. WT001–008 are the earlier watermill terrain prototypes, not fully interchangeable with terrain v2.
+
 ## The Night Watch — Fantasy Prison — 36 distribution records / 33 designs
 
 [Catalogue](catalog/prison.en.md)

@@ -2,6 +2,18 @@
 
 [日本語](README.md) · [English](README.en.md)
 
+## 森林养蜂小屋
+
+[Catalogue](catalog/apiary.zh-CN.md)
+
+20个分发条目，20种设计。BLEND和GLB是同一模型的不同格式。
+
+## 水磨坊
+
+[Catalogue](catalog/watermill.zh-CN.md)
+
+25个分发条目，23种设计。羊的三种姿态按一种设计计算。WT001–008为旧水磨坊地形原型，与新版2米地形v2并非完全兼容。
+
 ## 夜班牢狱 — 36 distribution records / 33 designs
 
 [Catalogue](catalog/prison.zh-CN.md)
