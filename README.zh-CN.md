@@ -2,6 +2,30 @@
 
 [日本語](README.md) · [English](README.en.md)
 
+## 2m地形タイル v2
+
+[Catalogue](catalog/terrain_v2.md) — 70 distribution records / 70 designs
+
+## 画家のアトリエ
+
+[Catalogue](catalog/painter_atelier.md) — 24 distribution records / 24 designs
+
+## 八角形のゴチック温室
+
+[Catalogue](catalog/octagonal_conservatory.md) — 12 distribution records / 6 designs
+
+## 旅人の宿屋
+
+[Catalogue](catalog/inn.md) — 24 distribution records / 24 designs
+
+## 森の魔女の薬草小屋
+
+[Catalogue](catalog/forest_witch.md) — 22 distribution records / 22 designs
+
+## 錬金術師の作業場
+
+[Catalogue](catalog/alchemist.md) — 27 distribution records / 24 designs
+
 ## 森林养蜂小屋
 
 [Catalogue](catalog/apiary.zh-CN.md)

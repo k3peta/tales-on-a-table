@@ -1,0 +1,669 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-forest-witch",
+  "item_count": 22,
+  "design_count": 22,
+  "counting_note": "BLEND/GLBは同一レコードの形式違いです。",
+  "items": [
+    {
+      "asset_id": "FW001",
+      "source_model_id": "W01",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Herbalists workbench",
+        "en": "Herbalists workbench",
+        "zh-CN": "Herbalists workbench"
+      },
+      "zip_file": "FW001_CC0.zip",
+      "zip_bytes": 1201863,
+      "zip_sha256": "c4e322f4fd4a6bed99a6a8b34e64d08a9f987c46b7bffe0afd6b8394fe90037a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW001_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W01_Herbalists_workbench.blend",
+          "sha256": "39802d0e1701f2f9407f68402bd3eb498aadb61f0fcd7bfefdb12542c24ad529"
+        },
+        {
+          "file": "models/W01_Herbalists_workbench.glb",
+          "sha256": "df53182d5b661553f43bcedd40eb3221901a1cb89f8131e370c499072a9ec5b5"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW002",
+      "source_model_id": "W02",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stone mortar and pestle",
+        "en": "Stone mortar and pestle",
+        "zh-CN": "Stone mortar and pestle"
+      },
+      "zip_file": "FW002_CC0.zip",
+      "zip_bytes": 969848,
+      "zip_sha256": "55e47b4b94828b4b196891f8f031706c83fc30bd8c4127a07eb748ff70d1a55d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W02_Stone_mortar_and_pestle.blend",
+          "sha256": "ffb785baa53ebc86d22ff94c600f407e8518ad1a8d5dda98782456615f4d909d"
+        },
+        {
+          "file": "models/W02_Stone_mortar_and_pestle.glb",
+          "sha256": "baa7688ded9f921570f3653f0509f4769a6517634b9f3f794dc8481684949b5c"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW003",
+      "source_model_id": "W03",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Corked apothecary bottles",
+        "en": "Corked apothecary bottles",
+        "zh-CN": "Corked apothecary bottles"
+      },
+      "zip_file": "FW003_CC0.zip",
+      "zip_bytes": 133205,
+      "zip_sha256": "f5a51f7b38cc2ddf23db3ceffebf63116205c164316c38908550766907db50b0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W03_Corked_apothecary_bottles.blend",
+          "sha256": "eac5c0d32eb93c7b1cc411d5b5eb23c9d7607630e5044908b9fa3b4e7f76522d"
+        },
+        {
+          "file": "models/W03_Corked_apothecary_bottles.glb",
+          "sha256": "3d3e27e745c6c1dfc0d70dfa358ffadf89a92e27298026ecfcf5d61cd7f0f4b1"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW004",
+      "source_model_id": "W04",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open herbal and bookstand",
+        "en": "Open herbal and bookstand",
+        "zh-CN": "Open herbal and bookstand"
+      },
+      "zip_file": "FW004_CC0.zip",
+      "zip_bytes": 586692,
+      "zip_sha256": "13bbd2adca7c99d6cab17d00eab6569334ecdd24bbd134d738b2ca8db9a7243e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW004_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W04_Open_herbal_and_bookstand.blend",
+          "sha256": "d6fdff04a3e404afb4b65083544fe3d14a01eb025c3d3bfdc9634152e4cedb67"
+        },
+        {
+          "file": "models/W04_Open_herbal_and_bookstand.glb",
+          "sha256": "06d0f80e761a8d908bf4bf52b4f2b6cb5b9985812dcc7852e200ce9ae5255de6"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW005",
+      "source_model_id": "W05",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Hanging herb drying rail",
+        "en": "Hanging herb drying rail",
+        "zh-CN": "Hanging herb drying rail"
+      },
+      "zip_file": "FW005_CC0.zip",
+      "zip_bytes": 733220,
+      "zip_sha256": "a1dc1e1109c4492ce55731b8bddadc9697746ab4cc714135baa27f90d2b1b8f7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW005_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W05_Hanging_herb_drying_rail.blend",
+          "sha256": "684b4b184fe359408f5e3a44597c8b01d0e217f2271ecbd4c1af2afd0f6f22aa"
+        },
+        {
+          "file": "models/W05_Hanging_herb_drying_rail.glb",
+          "sha256": "d2aa5823e61435e424386897fe069d3e07680c0d5cebdf3ea490765aaa26764f"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW006",
+      "source_model_id": "W06",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wicker gathering basket",
+        "en": "Wicker gathering basket",
+        "zh-CN": "Wicker gathering basket"
+      },
+      "zip_file": "FW006_CC0.zip",
+      "zip_bytes": 312583,
+      "zip_sha256": "82718e23402496c9f402787e990c08324e85777264e10a8a2d23473014373c4c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W06_Wicker_gathering_basket.blend",
+          "sha256": "4fcf9a551d801a85814209bd2ab18bfd78958b2cd1bfc2a513d1fc1e052cacca"
+        },
+        {
+          "file": "models/W06_Wicker_gathering_basket.glb",
+          "sha256": "da61ad295b0a6b0b8ade9aae6bd2c9f7ca6eca3a32c0fa29785ff49f2919fa28"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW007",
+      "source_model_id": "W07",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Birch twig broom",
+        "en": "Birch twig broom",
+        "zh-CN": "Birch twig broom"
+      },
+      "zip_file": "FW007_CC0.zip",
+      "zip_bytes": 699338,
+      "zip_sha256": "f26611f178cc183cb89f0e5069492cf8cd0b2266d4fb466b9b7296be8ff6ed1a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW007_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W07_Birch_twig_broom.blend",
+          "sha256": "680cce24dce2bab17bc5c79c72ec50be113a4427f9ce0920f7aead32220b9f1e"
+        },
+        {
+          "file": "models/W07_Birch_twig_broom.glb",
+          "sha256": "1c4884d217c4b3668fcd05dbe3042ebb20dd893c193e5f891239bae42a9d5b7a"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW008",
+      "source_model_id": "W08",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Iron cauldron and tripod",
+        "en": "Iron cauldron and tripod",
+        "zh-CN": "Iron cauldron and tripod"
+      },
+      "zip_file": "FW008_CC0.zip",
+      "zip_bytes": 528797,
+      "zip_sha256": "4bddef0d18352465646171d1f151a12a429bcf9e8cbd978c53870c515e41a56a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W08_Iron_cauldron_and_tripod.blend",
+          "sha256": "c01cb6c138e3d32649754f8500938c2471d08d7da8db728cab42adf3eeb809a2"
+        },
+        {
+          "file": "models/W08_Iron_cauldron_and_tripod.glb",
+          "sha256": "328ca2e95d8b697df77a2c196a7478c53dd9f011bc3e4e5b2fd4186a7341c8ad"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW009",
+      "source_model_id": "W09",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Split firewood stack",
+        "en": "Split firewood stack",
+        "zh-CN": "Split firewood stack"
+      },
+      "zip_file": "FW009_CC0.zip",
+      "zip_bytes": 707025,
+      "zip_sha256": "82ad4fc54eb0b32b58cd77790338fcdd0487d6fd78350e1814ab6c0c014d2323",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW009_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W09_Split_firewood_stack.blend",
+          "sha256": "789795b4213aa4b121d703ecb931a46c5c45156630b5e8e77e6b1e0f8a9fb868"
+        },
+        {
+          "file": "models/W09_Split_firewood_stack.glb",
+          "sha256": "8bb84efe25d0b3637faf8335fdbc8fc54adb431d82a94fc52f13082ba2be064a"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW010",
+      "source_model_id": "W10",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper kettle",
+        "en": "Copper kettle",
+        "zh-CN": "Copper kettle"
+      },
+      "zip_file": "FW010_CC0.zip",
+      "zip_bytes": 1501951,
+      "zip_sha256": "c8a4a81163023e602ed0e1bb66c7ff9807496eccecc0c8b7a06d47120e022117",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W10_Copper_kettle.blend",
+          "sha256": "a12db15a4d3b348e30a68bcbe502c6a061e940019c8001dd7699be858b34783e"
+        },
+        {
+          "file": "models/W10_Copper_kettle.glb",
+          "sha256": "0f3d1142bd8cde390e9088f63be75bea3dae2e241c4f89beb3e3b21b04b4d9af"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW011",
+      "source_model_id": "W11",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Lantern on stone plinth",
+        "en": "Lantern on stone plinth",
+        "zh-CN": "Lantern on stone plinth"
+      },
+      "zip_file": "FW011_CC0.zip",
+      "zip_bytes": 880840,
+      "zip_sha256": "f842a889d9f085899952d26b51603f069b7ef56a2844aa9e99b28a5758ee5699",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW011_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W11_Lantern_on_stone_plinth.blend",
+          "sha256": "d95eecc98387f547025de9f15e98915c2e345e7678bc530db74b7e3bfbd11f24"
+        },
+        {
+          "file": "models/W11_Lantern_on_stone_plinth.glb",
+          "sha256": "c646aa172044a75811541eb8741d74c4f7f88d7737be8a1fe9360a07efd6c890"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW012",
+      "source_model_id": "W12",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Rainwater barrel",
+        "en": "Rainwater barrel",
+        "zh-CN": "Rainwater barrel"
+      },
+      "zip_file": "FW012_CC0.zip",
+      "zip_bytes": 1058856,
+      "zip_sha256": "1f1f1d5917971d26d2ea100e92415bd0faf86753db92c555451ad46f58a65e70",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W12_Rainwater_barrel.blend",
+          "sha256": "2de9e7f850720cb712f3c5b37ade27e62c1caafd6920aa82876db1353b8cb050"
+        },
+        {
+          "file": "models/W12_Rainwater_barrel.glb",
+          "sha256": "69b13ccf71a1a8b10d0b7040187918a92a8c088148e813fabe582b5dfdf4b059"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW013",
+      "source_model_id": "W13",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Three earthen herb pots",
+        "en": "Three earthen herb pots",
+        "zh-CN": "Three earthen herb pots"
+      },
+      "zip_file": "FW013_CC0.zip",
+      "zip_bytes": 969760,
+      "zip_sha256": "e73416d0ab8d987651ba1078d4c7c7ace32f8ef53af4db4cf1461ace38a715da",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W13_Three_earthen_herb_pots.blend",
+          "sha256": "1d866e8a46f92f6d08771b7d3f6c38cbd1ed37f61485ebcc28637346adcef19a"
+        },
+        {
+          "file": "models/W13_Three_earthen_herb_pots.glb",
+          "sha256": "e593f17dc152c0779f5884d485ae3beea4e0d50f4d39baefe5abbaf5f2d11182"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW014",
+      "source_model_id": "W14",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Low three legged stool",
+        "en": "Low three legged stool",
+        "zh-CN": "Low three legged stool"
+      },
+      "zip_file": "FW014_CC0.zip",
+      "zip_bytes": 1177841,
+      "zip_sha256": "2d985939a736781b2de0e1b0ec5b58f04a13e924f8721b5babf00d1056af783d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW014_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W14_Low_three_legged_stool.blend",
+          "sha256": "d20c9d07a736c8913518b296f482c6d9409ec4be951601ca1ae311e171404f64"
+        },
+        {
+          "file": "models/W14_Low_three_legged_stool.glb",
+          "sha256": "9d623757aa45d40ec67c082541944055349266b6f9865b1f22cd6375c5c5aa56"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW015",
+      "source_model_id": "W15",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Canvas gathering satchel",
+        "en": "Canvas gathering satchel",
+        "zh-CN": "Canvas gathering satchel"
+      },
+      "zip_file": "FW015_CC0.zip",
+      "zip_bytes": 1035527,
+      "zip_sha256": "d5740028323535f06c66897960e4cc3056e8bd3ebd7def0faded1549889ded26",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W15_Canvas_gathering_satchel.blend",
+          "sha256": "528a67478fbb44b23a1bbccf737512eea4d04ffc022cd7db80fe34f99e4cdd37"
+        },
+        {
+          "file": "models/W15_Canvas_gathering_satchel.glb",
+          "sha256": "6580151ae894c9f0b4158717017076c132d313e86c65b92fb0f7e8778dbbbf4a"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW016",
+      "source_model_id": "W16",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mushroom sorting tray",
+        "en": "Mushroom sorting tray",
+        "zh-CN": "Mushroom sorting tray"
+      },
+      "zip_file": "FW016_CC0.zip",
+      "zip_bytes": 1203530,
+      "zip_sha256": "b61eef3b5037241d65aec8f179c54ea12ee858ef9a46f56f4d936e6f8fe3a0fe",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W16_Mushroom_sorting_tray.blend",
+          "sha256": "2515d63390272434b1f517f057e2412f264bf483b9e709fbcc222bcb413a6b45"
+        },
+        {
+          "file": "models/W16_Mushroom_sorting_tray.glb",
+          "sha256": "615794260d953991fecd322274327d6257ea9fc1baf31208f07cc48fd3678fab"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW017",
+      "source_model_id": "W17",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Herb bundle storage crate",
+        "en": "Herb bundle storage crate",
+        "zh-CN": "Herb bundle storage crate"
+      },
+      "zip_file": "FW017_CC0.zip",
+      "zip_bytes": 693285,
+      "zip_sha256": "b97ba14de5336a2366bc09142d0f66869bfbba2ecbe9fd9bebfd695a91b9ca1e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW017_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W17_Herb_bundle_storage_crate.blend",
+          "sha256": "6b93e487c6ce1c27c1bc918ae79e8244af1c5f37bc3d0ba845a93dc174f85790"
+        },
+        {
+          "file": "models/W17_Herb_bundle_storage_crate.glb",
+          "sha256": "2350665c26d28b7ca12820b1a8baf608aaed194766e276817558e59c9f534b74"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW018",
+      "source_model_id": "W18",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Folded linen and wash basin",
+        "en": "Folded linen and wash basin",
+        "zh-CN": "Folded linen and wash basin"
+      },
+      "zip_file": "FW018_CC0.zip",
+      "zip_bytes": 556542,
+      "zip_sha256": "c9bbe03e56ee114b5d53bd3f020c523a1cfb82fd0535921654e94efdd8e10aeb",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W18_Folded_linen_and_wash_basin.blend",
+          "sha256": "27737e65df0a1dfe8dd559c49372600e9fbd5f54d0ec4ed735386ceafb6f941f"
+        },
+        {
+          "file": "models/W18_Folded_linen_and_wash_basin.glb",
+          "sha256": "638e882d2bf58179ec0195fad504ff65f4951157b49c45a28c036d4cdd2fad25"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW019",
+      "source_model_id": "W19",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Balanced apothecary scales",
+        "en": "Balanced apothecary scales",
+        "zh-CN": "Balanced apothecary scales"
+      },
+      "zip_file": "FW019_CC0.zip",
+      "zip_bytes": 1473985,
+      "zip_sha256": "240da92f92534e84a8d8eeebbb488b316f712d6a192b71378540a9c3851f28b5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W19_Balanced_apothecary_scales.blend",
+          "sha256": "addd3b3eeff97a94dee78f59bb665ad4e4706a1564547486a91fe252d2e101dc"
+        },
+        {
+          "file": "models/W19_Balanced_apothecary_scales.glb",
+          "sha256": "a0ff17e4a2ca843fbb384e9e939c9a44abe9326bbcc68bf43ff5fee8a5af6b74"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW020",
+      "source_model_id": "W20",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Weathered waymarker",
+        "en": "Weathered waymarker",
+        "zh-CN": "Weathered waymarker"
+      },
+      "zip_file": "FW020_CC0.zip",
+      "zip_bytes": 1232275,
+      "zip_sha256": "be9bce4c9ac9f524d303661be5475940ace65c2a83ffa2dcdc524b7b1797699a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW020_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W20_Weathered_waymarker.blend",
+          "sha256": "feff5ed618bc577118ae140a236f84ea1a9eafe8561dfb0cf178bfacb8e4a291"
+        },
+        {
+          "file": "models/W20_Weathered_waymarker.glb",
+          "sha256": "595e7df67566992cdb98dbf969a78856af12e896e99d473936e7e32205896148"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW021",
+      "source_model_id": "W21",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW021",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wall apothecary shelf",
+        "en": "Wall apothecary shelf",
+        "zh-CN": "Wall apothecary shelf"
+      },
+      "zip_file": "FW021_CC0.zip",
+      "zip_bytes": 2182263,
+      "zip_sha256": "a0b33f2b23a8263f7ad83a68ab41b2087bb79bac588ff0a29cccfd1db19e4381",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W21_Wall_apothecary_shelf.blend",
+          "sha256": "993eabe4dcfcb74069f606903c4b8daaa2a1499dd9c4f71b819f95a77e59fc83"
+        },
+        {
+          "file": "models/W21_Wall_apothecary_shelf.glb",
+          "sha256": "6d2f5e7d677ac0dbc332bb00aec38f5a1cea0c2bbc484e8fa73c6c38804ca236"
+        }
+      ]
+    },
+    {
+      "asset_id": "FW022",
+      "source_model_id": "W22",
+      "category": "forest_witch",
+      "theme": "FW",
+      "record_kind": "model",
+      "design_id": "FW022",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Lavender drying bundle",
+        "en": "Lavender drying bundle",
+        "zh-CN": "Lavender drying bundle"
+      },
+      "zip_file": "FW022_CC0.zip",
+      "zip_bytes": 832927,
+      "zip_sha256": "7c9da09c5a13ea7acdac796e5cfd039ecad891e1c3b9d18a7512c03522c81389",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW022_CC0.zip",
+      "catalog_file": "catalog/forest_witch.md",
+      "files": [
+        {
+          "file": "models/W22_Lavender_drying_bundle.blend",
+          "sha256": "00770b68994403127478e61f6476c0c98f9f7fc51f476057e9ca5ecb89fcaac0"
+        },
+        {
+          "file": "models/W22_Lavender_drying_bundle.glb",
+          "sha256": "4612becb6f37d44efdb43a557920b443e4398a413aed1b8d42bd46be4d6a31ef"
+        }
+      ]
+    }
+  ]
+}

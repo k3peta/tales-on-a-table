@@ -1,0 +1,729 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-inn",
+  "item_count": 24,
+  "design_count": 24,
+  "counting_note": "BLEND/GLBは同一レコードの形式違いです。",
+  "items": [
+    {
+      "asset_id": "IN001",
+      "source_model_id": "I01",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stone hearth",
+        "en": "Stone hearth",
+        "zh-CN": "Stone hearth"
+      },
+      "zip_file": "IN001_CC0.zip",
+      "zip_bytes": 486503,
+      "zip_sha256": "91ae2e437021ab345ff6856749e971df53c42319035d2ae72ea2783daad7bc5e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN001_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I01_Stone_hearth.blend",
+          "sha256": "6a6b1e9a4fba89011ef9b222e688c4366f8cbccf128431e6aca78f1dbcccc542"
+        },
+        {
+          "file": "models/I01_Stone_hearth.glb",
+          "sha256": "1ff42d335c1d64e62f2853c44d50bd7ac583bde5e39a88982b8b26e25250021f"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN002",
+      "source_model_id": "I02",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Reception counter",
+        "en": "Reception counter",
+        "zh-CN": "Reception counter"
+      },
+      "zip_file": "IN002_CC0.zip",
+      "zip_bytes": 331852,
+      "zip_sha256": "9ced7c1ac5f9aee2d1ef46ff1753f08276058ef323ad414013dda37f8a6fd2f7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN002_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I02_Reception_counter.blend",
+          "sha256": "1973d3bd5d4d3b9ebcf8e4cf6405cc26c92b352c7fccd327a440dd75031222d4"
+        },
+        {
+          "file": "models/I02_Reception_counter.glb",
+          "sha256": "1aacfa86a3ca7a58254d50a6fe4fb1bf1d0e9e2f760eb6378569e87e306b1d87"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN003",
+      "source_model_id": "I03",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stair flight",
+        "en": "Stair flight",
+        "zh-CN": "Stair flight"
+      },
+      "zip_file": "IN003_CC0.zip",
+      "zip_bytes": 341002,
+      "zip_sha256": "4e4d44020d22c15933139d48c893b6839a68662d91592abc347ef615e8c64dc7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN003_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I03_Stair_flight.blend",
+          "sha256": "230e028dd38372b7679071f6f4b9c5dbe92612145de6b6763b334250dbc45393"
+        },
+        {
+          "file": "models/I03_Stair_flight.glb",
+          "sha256": "ef2cc92cce574dea287d735db178ab13e2963128bb0e5598b5af617101381100"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN004",
+      "source_model_id": "I04",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Trestle table",
+        "en": "Trestle table",
+        "zh-CN": "Trestle table"
+      },
+      "zip_file": "IN004_CC0.zip",
+      "zip_bytes": 263385,
+      "zip_sha256": "d90a0914c21b72812543fae1698beaf8950117bd2251cc337fb374a46f2097e0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN004_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I04_Trestle_table.blend",
+          "sha256": "e22236a71aa52061e63b3c228f5463226360f8d10962ade23f3ddc56d7f8b1b7"
+        },
+        {
+          "file": "models/I04_Trestle_table.glb",
+          "sha256": "45649a16335dfc1df992b7071c97c664c6432cdb86520f30afb95f3ff336051e"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN005",
+      "source_model_id": "I05",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Dining bench",
+        "en": "Dining bench",
+        "zh-CN": "Dining bench"
+      },
+      "zip_file": "IN005_CC0.zip",
+      "zip_bytes": 230457,
+      "zip_sha256": "ca2e522cdf07221302f4b7cbb4d91e8ba8d97c57eefe9812c3e15d3ee86bbe9d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN005_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I05_Dining_bench.blend",
+          "sha256": "fa15573c53861cfe1837f9188e5befa2e380497c9ab0f19dc9318f229b02e344"
+        },
+        {
+          "file": "models/I05_Dining_bench.glb",
+          "sha256": "d6f305992124e872a12552347f115f822c4dabf82c53c9435d51df14935988ff"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN006",
+      "source_model_id": "I06",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Highback chair",
+        "en": "Highback chair",
+        "zh-CN": "Highback chair"
+      },
+      "zip_file": "IN006_CC0.zip",
+      "zip_bytes": 353552,
+      "zip_sha256": "d67b886f9364d65f616050884ae3c0f4580ca078cd7eb6d8425e5e41d76f1a1c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN006_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I06_Highback_chair.blend",
+          "sha256": "1ebb469b105b3c96c1734411d5ec30c10b0ed818f6e8c157424f354ea5ed4845"
+        },
+        {
+          "file": "models/I06_Highback_chair.glb",
+          "sha256": "b3f068cd3b513a97fb54dd681c2f470587256f56f02887f4f54ec1e23cccdc59"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN007",
+      "source_model_id": "I07",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Woven runner",
+        "en": "Woven runner",
+        "zh-CN": "Woven runner"
+      },
+      "zip_file": "IN007_CC0.zip",
+      "zip_bytes": 152129,
+      "zip_sha256": "682f6812c30d068c73272998d3ff8a9e04f2225a293c4a312e4fb0f2de6c3757",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN007_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I07_Woven_runner.blend",
+          "sha256": "52c05b9fb265f9cf6280c6edd04a0805cac700180386a68e5e2adda7c9a08dae"
+        },
+        {
+          "file": "models/I07_Woven_runner.glb",
+          "sha256": "cbf82ba58ee956ae83def23df71943e1a121fde483c2322433ba1d364ad41b68"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN008",
+      "source_model_id": "I08",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Guest ledger",
+        "en": "Guest ledger",
+        "zh-CN": "Guest ledger"
+      },
+      "zip_file": "IN008_CC0.zip",
+      "zip_bytes": 242827,
+      "zip_sha256": "b382b290f382a92353b87343e51125e16d2a9fb14478401560cc3a9271a14931",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN008_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I08_Guest_ledger.blend",
+          "sha256": "96f7a2d6fc9088f277e22807ff077d835e8c8148538053148ee8ffe1cac0f545"
+        },
+        {
+          "file": "models/I08_Guest_ledger.glb",
+          "sha256": "14cfb1129955f3a739385525cecde4a39471e49b298b710ea71a4c343291f5a3"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN009",
+      "source_model_id": "I09",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Counter bell",
+        "en": "Counter bell",
+        "zh-CN": "Counter bell"
+      },
+      "zip_file": "IN009_CC0.zip",
+      "zip_bytes": 156885,
+      "zip_sha256": "07738620b76a8fdf75ad0e014e1535cc4f5eec0e64397b5af5905cc998770097",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN009_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I09_Counter_bell.blend",
+          "sha256": "40d33f14b6402efcc51b872635ee21b8f16aca1ffd572a3c6570a44e100094c7"
+        },
+        {
+          "file": "models/I09_Counter_bell.glb",
+          "sha256": "1031b74e300b9b3b47d646e9db11ae7eb45586d98a536abe6051f81a4c0b9022"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN010",
+      "source_model_id": "I10",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Room key rack",
+        "en": "Room key rack",
+        "zh-CN": "Room key rack"
+      },
+      "zip_file": "IN010_CC0.zip",
+      "zip_bytes": 253207,
+      "zip_sha256": "bb3fa24652ac8acc642d23b82c839aec8685622e9271d827918f8ec276c0880e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN010_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I10_Room_key_rack.blend",
+          "sha256": "974491fe27c179ed35eb91595cc6bff33c63d944423cd7b1cad072d23790ddce"
+        },
+        {
+          "file": "models/I10_Room_key_rack.glb",
+          "sha256": "5528a35fb6cce51ca067c31adb8b2bff08b8bcab9fe837ebd27cb11cfd5af9dd"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN011",
+      "source_model_id": "I11",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Travel chest",
+        "en": "Travel chest",
+        "zh-CN": "Travel chest"
+      },
+      "zip_file": "IN011_CC0.zip",
+      "zip_bytes": 275594,
+      "zip_sha256": "6ae89f9e5b73972570f76e6c022e587feb5fd211c18b8376fbff280292d18e57",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN011_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I11_Travel_chest.blend",
+          "sha256": "882e89db987d0a0d2d02cc980a10a09b5ceb84e82bb715f9eaa82e5221052084"
+        },
+        {
+          "file": "models/I11_Travel_chest.glb",
+          "sha256": "6b50165b2660b92df72d5faa24d09beb7c61952ef12d4c2cb5b44a6eefd2d7bc"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN012",
+      "source_model_id": "I12",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Travel satchel",
+        "en": "Travel satchel",
+        "zh-CN": "Travel satchel"
+      },
+      "zip_file": "IN012_CC0.zip",
+      "zip_bytes": 336416,
+      "zip_sha256": "f504c111490a81464b510e4ad6ad0385290943e4d39befa4b358833f9d126a9d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN012_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I12_Travel_satchel.blend",
+          "sha256": "66f0a3bd475e22145006e548cb99563341928783e978a6c0f25cf9a92feb2faf"
+        },
+        {
+          "file": "models/I12_Travel_satchel.glb",
+          "sha256": "ee722ed9e91fc9c4572b8ab1183f5723eade7f97c9e94072886c62c80edfc758"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN013",
+      "source_model_id": "I13",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Rolled blanket",
+        "en": "Rolled blanket",
+        "zh-CN": "Rolled blanket"
+      },
+      "zip_file": "IN013_CC0.zip",
+      "zip_bytes": 189956,
+      "zip_sha256": "6f1828cb07355a8378ee494963c7718d39af6dbf024a5d521b9e227b47491264",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN013_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I13_Rolled_blanket.blend",
+          "sha256": "12104b1c0f8425947336f659ba109363d56cfe09a94cf49ac4a8ebf30e47d170"
+        },
+        {
+          "file": "models/I13_Rolled_blanket.glb",
+          "sha256": "f54b21422b9cb353783c3927dbc2b48cd64ce20dd8bf0cab9f4314c431e9c511"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN014",
+      "source_model_id": "I14",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Log basket",
+        "en": "Log basket",
+        "zh-CN": "Log basket"
+      },
+      "zip_file": "IN014_CC0.zip",
+      "zip_bytes": 376552,
+      "zip_sha256": "9b68eda7fdfab5e497f4c91fe316baed0cca188b5606ec6abaf33fb529fff43a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN014_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I14_Log_basket.blend",
+          "sha256": "c52c58e33932f6e4ba7c84dacccd4210d3174ea7b40ef887237eca6794e6ac91"
+        },
+        {
+          "file": "models/I14_Log_basket.glb",
+          "sha256": "10f26db8b6d43b532f8af1328412b1c761b0f80bf085d2171b8c6b49f2ab2c26"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN015",
+      "source_model_id": "I15",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Fire tools",
+        "en": "Fire tools",
+        "zh-CN": "Fire tools"
+      },
+      "zip_file": "IN015_CC0.zip",
+      "zip_bytes": 131229,
+      "zip_sha256": "b054d12bc0c53368c874e68b8b555c0733a7c4108e90846e344b78230fde026d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN015_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I15_Fire_tools.blend",
+          "sha256": "200ecb8f5db626272b9cf1860d29bcf2419b60aa864a4f04d95fa1a95109b721"
+        },
+        {
+          "file": "models/I15_Fire_tools.glb",
+          "sha256": "887a938f24fff0f75d284b336a12982993eb325c2dff12f77849cd0214f9a294"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN016",
+      "source_model_id": "I16",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Pewter tankard",
+        "en": "Pewter tankard",
+        "zh-CN": "Pewter tankard"
+      },
+      "zip_file": "IN016_CC0.zip",
+      "zip_bytes": 111048,
+      "zip_sha256": "e3766bbcda1334330bc906ae6ff924123efe100856936dc7bddadd379847510e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN016_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I16_Pewter_tankard.blend",
+          "sha256": "bc2f8d5e7544a878f0e3849b2c2aee50d2c221f32c59207aa5fa94bde817b5ef"
+        },
+        {
+          "file": "models/I16_Pewter_tankard.glb",
+          "sha256": "4d6c2be914fcff91af290610d87af26e64715b049adf13b6e4e2d0d218319c79"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN017",
+      "source_model_id": "I17",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Ceramic pitcher",
+        "en": "Ceramic pitcher",
+        "zh-CN": "Ceramic pitcher"
+      },
+      "zip_file": "IN017_CC0.zip",
+      "zip_bytes": 215924,
+      "zip_sha256": "a6cb502bbad2c0f9ad67cd1aa9424c066712b899e8228c724dc9c22034e87786",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I17_Ceramic_pitcher.blend",
+          "sha256": "4f9db46a9ede2c9a44f76609df9c73b6157a66eb4501a7812e0dc0e32ea52ef0"
+        },
+        {
+          "file": "models/I17_Ceramic_pitcher.glb",
+          "sha256": "98291c69327bb5268fd882f030979c2d9fb654357ad29c6107adba0571d77ff9"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN018",
+      "source_model_id": "I18",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bread board",
+        "en": "Bread board",
+        "zh-CN": "Bread board"
+      },
+      "zip_file": "IN018_CC0.zip",
+      "zip_bytes": 446681,
+      "zip_sha256": "53aa6a5491f08f9fe969fac193b2c880652e16f039597f16e16cf185b883a988",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN018_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I18_Bread_board.blend",
+          "sha256": "b01762d92cf134c5c7b67f0f52caabbe02a06e7749eb70eff9f167a2b377566c"
+        },
+        {
+          "file": "models/I18_Bread_board.glb",
+          "sha256": "fe5e3992479b30249bd59f1ef3ca55a57a500a98552adb1957589e5f2506347e"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN019",
+      "source_model_id": "I19",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Soup bowl",
+        "en": "Soup bowl",
+        "zh-CN": "Soup bowl"
+      },
+      "zip_file": "IN019_CC0.zip",
+      "zip_bytes": 100274,
+      "zip_sha256": "f1e81b37984f05d114ea37299e934ce9da44b70f941c762c6efa7bc06426ed5c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN019_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I19_Soup_bowl.blend",
+          "sha256": "204359e3d2493674da819b3f542cf90e23153ddccbe3a99793ec4b556a2d835a"
+        },
+        {
+          "file": "models/I19_Soup_bowl.glb",
+          "sha256": "5466fce233665df56cc1fde65e9daab95076a374114a22b86a01a27cfa3e1e89"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN020",
+      "source_model_id": "I20",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Table linen",
+        "en": "Table linen",
+        "zh-CN": "Table linen"
+      },
+      "zip_file": "IN020_CC0.zip",
+      "zip_bytes": 92381,
+      "zip_sha256": "699c1a33dcbaba55d73cc95376fdbe71a3029ec5208e28fd5b8facb65c3064cc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN020_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I20_Table_linen.blend",
+          "sha256": "b2d919f81cd73622903589b6f84d50e6d7b0fa527a881bcacb9ff7e3579eb4b4"
+        },
+        {
+          "file": "models/I20_Table_linen.glb",
+          "sha256": "8ccf01ba58f46b5354a308f671a6109c7382d5ff8f108a1099ae866d6817b716"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN021",
+      "source_model_id": "I21",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN021",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mantel lantern",
+        "en": "Mantel lantern",
+        "zh-CN": "Mantel lantern"
+      },
+      "zip_file": "IN021_CC0.zip",
+      "zip_bytes": 139357,
+      "zip_sha256": "f612f1075e10c8d21f4ea0d001d4a5e83beaa61aaff132290e91bce1b3382f7e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN021_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I21_Mantel_lantern.blend",
+          "sha256": "bb67aeb171d82843009b731f5c3f5a2025e3b546fe96073128a943469e91e3f4"
+        },
+        {
+          "file": "models/I21_Mantel_lantern.glb",
+          "sha256": "bbf04e167d6086535d29c139445e31fa6cfedbad28c64de78103dd509795ce37"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN022",
+      "source_model_id": "I22",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN022",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Ale barrel",
+        "en": "Ale barrel",
+        "zh-CN": "Ale barrel"
+      },
+      "zip_file": "IN022_CC0.zip",
+      "zip_bytes": 308017,
+      "zip_sha256": "d86cb2e116ef0d22b92975639bf04027362c086b05489dc24e3912cd03a608c7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN022_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I22_Ale_barrel.blend",
+          "sha256": "4b2aa08f5388f2320d24fbc96d9b33a83d22f3ce9bf36a6cb2b3841101d8dd5a"
+        },
+        {
+          "file": "models/I22_Ale_barrel.glb",
+          "sha256": "9476f4b752ae555139d5b059039bfc96ad7e6b1cfeb5ef23ab90704c51c46213"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN023",
+      "source_model_id": "I23",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN023",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Travel boots",
+        "en": "Travel boots",
+        "zh-CN": "Travel boots"
+      },
+      "zip_file": "IN023_CC0.zip",
+      "zip_bytes": 266379,
+      "zip_sha256": "23f56be65382fadfc355a288dc5dc2f2a2ac7dc8b9907fd276c466719766f144",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN023_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I23_Travel_boots.blend",
+          "sha256": "3e97f5d8108a110df937092cbac6c230d6677c29fd76b3a887962b0b94e84b1c"
+        },
+        {
+          "file": "models/I23_Travel_boots.glb",
+          "sha256": "98e517c905c2e51c3f333b3ed0c9aa60fcddcdb5b49ccf85bd305aeb5c540d34"
+        }
+      ]
+    },
+    {
+      "asset_id": "IN024",
+      "source_model_id": "I24",
+      "category": "inn",
+      "theme": "IN",
+      "record_kind": "model",
+      "design_id": "IN024",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Hanging cloak",
+        "en": "Hanging cloak",
+        "zh-CN": "Hanging cloak"
+      },
+      "zip_file": "IN024_CC0.zip",
+      "zip_bytes": 158716,
+      "zip_sha256": "ab8248752f306e62cf3abd1af3e8c8fe81436a476bdb630f0de578bbdbff97a1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN024_CC0.zip",
+      "catalog_file": "catalog/inn.md",
+      "files": [
+        {
+          "file": "models/I24_Hanging_cloak.blend",
+          "sha256": "50f35b5bf336fc4273751b19b0cf378524e4981b5ad066286e68e34f29c2ef13"
+        },
+        {
+          "file": "models/I24_Hanging_cloak.glb",
+          "sha256": "da667bea343e0298fea5fed2f7338405a3b8351510a36183b5ace465bfb2ef2e"
+        }
+      ]
+    }
+  ]
+}

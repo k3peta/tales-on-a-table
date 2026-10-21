@@ -1,0 +1,819 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-alchemist",
+  "item_count": 27,
+  "design_count": 24,
+  "counting_note": "末尾3点は既存の魔法使いの本を積み直したグループで、新規書籍の設計ではありません。",
+  "items": [
+    {
+      "asset_id": "AL001",
+      "source_model_id": "L01",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stone laboratory bench",
+        "en": "Stone laboratory bench",
+        "zh-CN": "Stone laboratory bench"
+      },
+      "zip_file": "AL001_CC0.zip",
+      "zip_bytes": 200185,
+      "zip_sha256": "83fe327dd61f96628c226c18e751aa77e1e35f6c34ad594875fdc1d0c4c11197",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL001_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L01_Stone_laboratory_bench.blend",
+          "sha256": "39fa824b292339d4f0e63c283f207276022aa248906af87c55f29816ef29f39a"
+        },
+        {
+          "file": "models/L01_Stone_laboratory_bench.glb",
+          "sha256": "2ad2c4810e745c998d9af00466489838250e1a36387f6ccffd0301f9f9e74d07"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL002",
+      "source_model_id": "L02",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Refractory furnace",
+        "en": "Refractory furnace",
+        "zh-CN": "Refractory furnace"
+      },
+      "zip_file": "AL002_CC0.zip",
+      "zip_bytes": 473042,
+      "zip_sha256": "c077a6944e79da8783196644c85bb87e128525dae648f9dc56e0cae498a09ac6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL002_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L02_Refractory_furnace.blend",
+          "sha256": "6e8cfa775341b6734aca91705ae8bdb5ca372310119b43d342372c822c112e8f"
+        },
+        {
+          "file": "models/L02_Refractory_furnace.glb",
+          "sha256": "f08877e925f660c4513761770383b8b48349a29a12feab9108508219a20f5c2a"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL003",
+      "source_model_id": "L03",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper alembic",
+        "en": "Copper alembic",
+        "zh-CN": "Copper alembic"
+      },
+      "zip_file": "AL003_CC0.zip",
+      "zip_bytes": 558604,
+      "zip_sha256": "bc33eafbcd75fb6abb78131de617984d4db154efcd8d8173bf614729da13126e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL003_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L03_Copper_alembic.blend",
+          "sha256": "080e880c615819fe88a2ecade21d0126778cbbc5238f3fd49b990d3cff0b5f90"
+        },
+        {
+          "file": "models/L03_Copper_alembic.glb",
+          "sha256": "616c27734787999ebdcbf6dd5be722a43e8473ade041e04408781f78592a1593"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL004",
+      "source_model_id": "L04",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Cooling vat",
+        "en": "Cooling vat",
+        "zh-CN": "Cooling vat"
+      },
+      "zip_file": "AL004_CC0.zip",
+      "zip_bytes": 100698,
+      "zip_sha256": "ee4f1bad30923c651b2b8e2a2b93aedc79d7ad4a637de336e68d8eb1c3176d93",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL004_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L04_Cooling_vat.blend",
+          "sha256": "6cb4725c04ba1cff9493c1923c846f018f765e5bda88f993f585f05736b3dbb4"
+        },
+        {
+          "file": "models/L04_Cooling_vat.glb",
+          "sha256": "e1b92e2f9692152c568611ea96b0a5c79c919fbb6170ad0e82b4be635e36875e"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL005",
+      "source_model_id": "L05",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Reading desk",
+        "en": "Reading desk",
+        "zh-CN": "Reading desk"
+      },
+      "zip_file": "AL005_CC0.zip",
+      "zip_bytes": 279421,
+      "zip_sha256": "6ef9f74a75ca6d5ddd971733613f16719c8e6b017a58f8e5c9b3532ec99a1f72",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL005_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L05_Reading_desk.blend",
+          "sha256": "466a622d7c4b9e749633b6fdb964e912326a0a965c8202e86c6fa5a794478ff5"
+        },
+        {
+          "file": "models/L05_Reading_desk.glb",
+          "sha256": "efe27ed177df091c87b70e28cff569893a1b86300e7562f1d71481619e3aac6b"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL006",
+      "source_model_id": "L06",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open folio",
+        "en": "Open folio",
+        "zh-CN": "Open folio"
+      },
+      "zip_file": "AL006_CC0.zip",
+      "zip_bytes": 202004,
+      "zip_sha256": "f720394cddf6c2c13fdfea0f67d4500ae79f43e6683cef1fdadfb9dc06663f8c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL006_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L06_Open_folio.blend",
+          "sha256": "6ad2ce0b4656be426f1a652d57638082cc7a4ee7a1ff38c88290db7096d25cbc"
+        },
+        {
+          "file": "models/L06_Open_folio.glb",
+          "sha256": "f3cdf25951567ffa4ffd3eb2ce2c4e25e9147005aff210b4aebf19d2bdf28545"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL007",
+      "source_model_id": "L07",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Assayers balance",
+        "en": "Assayers balance",
+        "zh-CN": "Assayers balance"
+      },
+      "zip_file": "AL007_CC0.zip",
+      "zip_bytes": 182432,
+      "zip_sha256": "114a6476ee1c0a7b4ac5b1318d2323b9d981c2b7fee90f28f58eed974fad1114",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL007_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L07_Assayers_balance.blend",
+          "sha256": "af4cf3712cf46ee5704791d37131340082a5f80609a470d3f98ff71a811ca110"
+        },
+        {
+          "file": "models/L07_Assayers_balance.glb",
+          "sha256": "2fd29a9ac0f2be7d091f2af5ea22eb929a0ea46e204b8e200190b3e7cc9e1638"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL008",
+      "source_model_id": "L08",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Green reagent bottle",
+        "en": "Green reagent bottle",
+        "zh-CN": "Green reagent bottle"
+      },
+      "zip_file": "AL008_CC0.zip",
+      "zip_bytes": 106284,
+      "zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L08_Green_reagent_bottle.blend",
+          "sha256": "c5bb245123fc3ff38652c5b7e0cf21adb8fa7082edfeb7f58e09c2c44c4eee9c"
+        },
+        {
+          "file": "models/L08_Green_reagent_bottle.glb",
+          "sha256": "d82071cdf08adf08e1490a3bf0e0fdb1bd9007122ce80e252bf858c14cc782b2"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL009",
+      "source_model_id": "L09",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Small reagent bottle",
+        "en": "Small reagent bottle",
+        "zh-CN": "Small reagent bottle"
+      },
+      "zip_file": "AL009_CC0.zip",
+      "zip_bytes": 106288,
+      "zip_sha256": "f064283cd9024aa6a2a03fa0a03db19be7a2f7360437627078af0c1e39095d4f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL009_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L09_Small_reagent_bottle.blend",
+          "sha256": "f66e95f8243d760c41458d1a640866d6920ff665e05a3a6a835e82f617068728"
+        },
+        {
+          "file": "models/L09_Small_reagent_bottle.glb",
+          "sha256": "636011c68c8e7b2d55ca9d7298c398d86faa3bd86f6f8b3b68e16ae54d717997"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL010",
+      "source_model_id": "L10",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Glass retort",
+        "en": "Glass retort",
+        "zh-CN": "Glass retort"
+      },
+      "zip_file": "AL010_CC0.zip",
+      "zip_bytes": 135650,
+      "zip_sha256": "3984f6ce8107060f7c324f06b7897a27073fe4425ab5d44c7c8536176d0c6c86",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL010_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L10_Glass_retort.blend",
+          "sha256": "2a5438770a6155554d629f5a59fc553b9db787630eefcb4887f1b011b6fceccb"
+        },
+        {
+          "file": "models/L10_Glass_retort.glb",
+          "sha256": "32db885bab80674dce96fe1a28be5343cab04e1407eab498fab98686fb993bb8"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL011",
+      "source_model_id": "L11",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mortar pestle",
+        "en": "Mortar pestle",
+        "zh-CN": "Mortar pestle"
+      },
+      "zip_file": "AL011_CC0.zip",
+      "zip_bytes": 196205,
+      "zip_sha256": "e01f1b31203401bf4d16bdde1bc1c390c40f5b1a2bf4a017d000ed8808565ee6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL011_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L11_Mortar_pestle.blend",
+          "sha256": "380de0294c96b1d5f4cd8a93f054b1a83b02b1f6931b861474800c76d45e7915"
+        },
+        {
+          "file": "models/L11_Mortar_pestle.glb",
+          "sha256": "c602dfaa08135cd75b436d2a011bf7893a16e299cdd7e714fbc69fa1827ba642"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL012",
+      "source_model_id": "L12",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Mineral sample tray",
+        "en": "Mineral sample tray",
+        "zh-CN": "Mineral sample tray"
+      },
+      "zip_file": "AL012_CC0.zip",
+      "zip_bytes": 270485,
+      "zip_sha256": "f95d6b41f0087d54666a73f75d7d9ffc50d1c742d1d4ed6bc8aa4d5066ee33af",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL012_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L12_Mineral_sample_tray.blend",
+          "sha256": "13c6e76de592b6ebfc42fc715393137f467b0473d48fafe53a88bda133c89d0b"
+        },
+        {
+          "file": "models/L12_Mineral_sample_tray.glb",
+          "sha256": "1184e981a2c4e2cee04cb45ecc4f377023af070432c17a8603f3fbefec5c4e66"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL013",
+      "source_model_id": "L13",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper funnel",
+        "en": "Copper funnel",
+        "zh-CN": "Copper funnel"
+      },
+      "zip_file": "AL013_CC0.zip",
+      "zip_bytes": 202451,
+      "zip_sha256": "670b703de495dd2c2f86967f7a601fbda93c6057ec09d492b38f138a489727d0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL013_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L13_Copper_funnel.blend",
+          "sha256": "6090b1209ebbf2866781ecdf4eb857ab09e06dc9fdc13095cdf06a2d97b432c9"
+        },
+        {
+          "file": "models/L13_Copper_funnel.glb",
+          "sha256": "17ee462d25cef5a169062617ec744b6879d590b4d21f4fa31deda07da4e7d893"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL014",
+      "source_model_id": "L14",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bellows",
+        "en": "Bellows",
+        "zh-CN": "Bellows"
+      },
+      "zip_file": "AL014_CC0.zip",
+      "zip_bytes": 377029,
+      "zip_sha256": "f00fb12b0ccde8f23d32bb7a10ba4f2b77022081965777a471e653252f7d3b1a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL014_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L14_Bellows.blend",
+          "sha256": "719eca16c3ea0cbbf0221626297f7e7e99d1af6ce75fdbb4a71d7ec8c37ee05d"
+        },
+        {
+          "file": "models/L14_Bellows.glb",
+          "sha256": "600561c034811c50ca9ad063e8f68c62efa474afa6427586bde604e284ec0f9f"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL015",
+      "source_model_id": "L15",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Long tongs",
+        "en": "Long tongs",
+        "zh-CN": "Long tongs"
+      },
+      "zip_file": "AL015_CC0.zip",
+      "zip_bytes": 91368,
+      "zip_sha256": "89896b8da59ee64bb0cf926ad8a34e8ca8b7a3860e3a4bd7853aa506bc7aa837",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL015_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L15_Long_tongs.blend",
+          "sha256": "9a99f1c73234dd4e40a1b0a864e02b5ce815a456c6d4678702ee4c560b0994ab"
+        },
+        {
+          "file": "models/L15_Long_tongs.glb",
+          "sha256": "419702f21ff047afbf50fb6bd30a2c2596cb25b778e620c57aa5d881431258bc"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL016",
+      "source_model_id": "L16",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Storage chest",
+        "en": "Storage chest",
+        "zh-CN": "Storage chest"
+      },
+      "zip_file": "AL016_CC0.zip",
+      "zip_bytes": 280168,
+      "zip_sha256": "b5f99094bb1fb1c39bd7bd02be8e52dd5754b1e23d2547c1b08f47efdceb0be1",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L16_Storage_chest.blend",
+          "sha256": "801c607b3ebc8587e5a7145febf96335dbab4e1f706ac2dbd786858360fded8f"
+        },
+        {
+          "file": "models/L16_Storage_chest.glb",
+          "sha256": "ae76212d13020397264cde813d5ed2011a6efda53b397c418e686f3ea9ffb2b7"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL017",
+      "source_model_id": "L17",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bound volumes",
+        "en": "Bound volumes",
+        "zh-CN": "Bound volumes"
+      },
+      "zip_file": "AL017_CC0.zip",
+      "zip_bytes": 184673,
+      "zip_sha256": "99108a59bf2a77fdb7f89223ffa8bf78245bd24377d772d4d63238040250ea54",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL017_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L17_Bound_volumes.blend",
+          "sha256": "7179a38b9bb4013ec2b67c26a133a0931646776072b74c6d654873c4b2d3ead6"
+        },
+        {
+          "file": "models/L17_Bound_volumes.glb",
+          "sha256": "d65f5183d3f6c01dd5232b790f39a4df718b4ae49c54fcd9ba1a83cfd521ed6f"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL018",
+      "source_model_id": "L18",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Ink and quill",
+        "en": "Ink and quill",
+        "zh-CN": "Ink and quill"
+      },
+      "zip_file": "AL018_CC0.zip",
+      "zip_bytes": 113423,
+      "zip_sha256": "74f86c0489a096661b66427a906908b8da41763d1f24c93b8c0b62f4e7798c30",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L18_Ink_and_quill.blend",
+          "sha256": "c947e2045bde9d76785d47c45cdbebf0987a0dc952ff4e39eaba8631fe1ae66e"
+        },
+        {
+          "file": "models/L18_Ink_and_quill.glb",
+          "sha256": "860d2101ab4874e5612af5dbdc7ee9c1091a7e908ff9e1699e6a24e6dc8c4c85"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL019",
+      "source_model_id": "L19",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Stool",
+        "en": "Stool",
+        "zh-CN": "Stool"
+      },
+      "zip_file": "AL019_CC0.zip",
+      "zip_bytes": 264122,
+      "zip_sha256": "90bd693c5607b98edde6641b35608c99f689583f463258a5bce0b7bc67ab62b6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL019_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L19_Stool.blend",
+          "sha256": "a9b02852aab0e5ec78896548013571b1440c7271c52ca08442e965665b9de451"
+        },
+        {
+          "file": "models/L19_Stool.glb",
+          "sha256": "7d8c348c26da829e5b2b1643c3582200818edb72ca20753ca384795916058517"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL020",
+      "source_model_id": "L20",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Crucibles",
+        "en": "Crucibles",
+        "zh-CN": "Crucibles"
+      },
+      "zip_file": "AL020_CC0.zip",
+      "zip_bytes": 198245,
+      "zip_sha256": "a1869eaa3a4a85ea154c433fd3040165c9a12bb29f942d60eb3b6d86d59a4b98",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L20_Crucibles.blend",
+          "sha256": "cc7b5f5ca4f712e3313b8e9f7dfd9a1b477ec4ff48e358d2c43b801f05256185"
+        },
+        {
+          "file": "models/L20_Crucibles.glb",
+          "sha256": "70eefba80b4c56d9c8978f46d01ad01545c50facc1024c0137e2add2bb936c58"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL021",
+      "source_model_id": "L21",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL021",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Copper ladle",
+        "en": "Copper ladle",
+        "zh-CN": "Copper ladle"
+      },
+      "zip_file": "AL021_CC0.zip",
+      "zip_bytes": 196833,
+      "zip_sha256": "fcf70005153b2be25be868fe73ce718ac41cdf8fa7d5eba76349c00c6585ccb9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L21_Copper_ladle.blend",
+          "sha256": "ddb8a0f693bd9be1f8ab49107306d2070700137702447f7a7d3259629ad76d3a"
+        },
+        {
+          "file": "models/L21_Copper_ladle.glb",
+          "sha256": "053f2285a8c6982b1e9bbb6c69929f8dfeb126198b275150f9b621209151ca07"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL022",
+      "source_model_id": "L22",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL022",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wall instrument chart",
+        "en": "Wall instrument chart",
+        "zh-CN": "Wall instrument chart"
+      },
+      "zip_file": "AL022_CC0.zip",
+      "zip_bytes": 309855,
+      "zip_sha256": "2fc55367890c4efc813d35a37b0af04aab2c5a6a4b68217a1faab4e0b70c7bc7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L22_Wall_instrument_chart.blend",
+          "sha256": "86324283ff6f97709dd757e518af5d700d2a371780caa57a83267a6f06e83f40"
+        },
+        {
+          "file": "models/L22_Wall_instrument_chart.glb",
+          "sha256": "88406a9e11b7e0c35de81acc573a33db267bea5b671c3962cbd2b4bf612c0a61"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL023",
+      "source_model_id": "L23",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL023",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bucket",
+        "en": "Bucket",
+        "zh-CN": "Bucket"
+      },
+      "zip_file": "AL023_CC0.zip",
+      "zip_bytes": 237821,
+      "zip_sha256": "8201cba91e39247619e1dcbefcd9a131b812686b3552a6645e94c9a1aa6b86da",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L23_Bucket.blend",
+          "sha256": "8fc83a6a8be5a98c46bec66ce32419085980effd1deacce83e00e91679f84f88"
+        },
+        {
+          "file": "models/L23_Bucket.glb",
+          "sha256": "41e4e2a8d5c6f22388266dd8a1e65144b40678592fc27d63958705274f73b434"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL024",
+      "source_model_id": "L24",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "model",
+      "design_id": "AL024",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Hourglass",
+        "en": "Hourglass",
+        "zh-CN": "Hourglass"
+      },
+      "zip_file": "AL024_CC0.zip",
+      "zip_bytes": 103581,
+      "zip_sha256": "12c904a8e363d4965c8547c36d584810da4afd3bff6bfb8d0c725c72630dd306",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L24_Hourglass.blend",
+          "sha256": "6ed157840942914c4be462a090d44c5c5cd94a2c8e1c33230feab36730b863d4"
+        },
+        {
+          "file": "models/L24_Hourglass.glb",
+          "sha256": "7b73a44b32131e8a9b4f17d22ae38e3c94bc5fbc13788035bc2e3dab837ad780"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL025",
+      "source_model_id": "L25",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "group",
+      "design_id": null,
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Bench wizard volumes",
+        "en": "Bench wizard volumes",
+        "zh-CN": "Bench wizard volumes"
+      },
+      "zip_file": "AL025_CC0.zip",
+      "zip_bytes": 2284622,
+      "zip_sha256": "b89cc4bc0fdbfeb3d1f5accdcd3efe062a2476be9c7e8883f9e923d2327be466",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL025_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L25_Bench_wizard_volumes.blend",
+          "sha256": "82040a1a49af741f081b258dfc80aeb5ddcf9ec07c9d5db62fd4969d72d8749d"
+        },
+        {
+          "file": "models/L25_Bench_wizard_volumes.glb",
+          "sha256": "7d191b3e0a14525b19aefabb8aa67e9ea3f1903ee413e632b2fe8be20702d0b0"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL026",
+      "source_model_id": "L26",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "group",
+      "design_id": null,
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Desk side book pile",
+        "en": "Desk side book pile",
+        "zh-CN": "Desk side book pile"
+      },
+      "zip_file": "AL026_CC0.zip",
+      "zip_bytes": 2463111,
+      "zip_sha256": "ff433e001c1df8d9372957bd3a17dfb718a19ae7773f685465ca84074d4b50e9",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL026_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L26_Desk_side_book_pile.blend",
+          "sha256": "58773f66d73f086acda0acb58a6ff8272c7fd82c2637994b122ac6561f03a3b4"
+        },
+        {
+          "file": "models/L26_Desk_side_book_pile.glb",
+          "sha256": "5f8e5b24d1d8b69552e84b81c981bbaad689f543825cc60f244b7d0cddf2896a"
+        }
+      ]
+    },
+    {
+      "asset_id": "AL027",
+      "source_model_id": "L27",
+      "category": "alchemist",
+      "theme": "AL",
+      "record_kind": "group",
+      "design_id": null,
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Chest reference stack",
+        "en": "Chest reference stack",
+        "zh-CN": "Chest reference stack"
+      },
+      "zip_file": "AL027_CC0.zip",
+      "zip_bytes": 1997245,
+      "zip_sha256": "3a2449ca53946840d4ed2bf6512ef9776e9c3ff7b214c3595c1b28716cea01bc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL027_CC0.zip",
+      "catalog_file": "catalog/alchemist.md",
+      "files": [
+        {
+          "file": "models/L27_Chest_reference_stack.blend",
+          "sha256": "5595c3751eb13ac7b178fb602bf0c9f8cd5fe98a937f8ee7040472883ec59d7c"
+        },
+        {
+          "file": "models/L27_Chest_reference_stack.glb",
+          "sha256": "cfa8f0031d8508d5873186c504ff3a6911f3b31f6a3d01a71ef4ff495575fece"
+        }
+      ]
+    }
+  ]
+}

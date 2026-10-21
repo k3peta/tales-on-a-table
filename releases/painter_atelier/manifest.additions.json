@@ -1,0 +1,729 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-painter-atelier",
+  "item_count": 24,
+  "design_count": 24,
+  "counting_note": "BLEND/GLBは同一レコードの形式違いです。",
+  "items": [
+    {
+      "asset_id": "PA001",
+      "source_model_id": "A01",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA001",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Paint spattered worktable",
+        "en": "Paint spattered worktable",
+        "zh-CN": "Paint spattered worktable"
+      },
+      "zip_file": "PA001_CC0.zip",
+      "zip_bytes": 555909,
+      "zip_sha256": "258c0da5ab72120b3f56d49b3f49a445a4d3c781e1678f287064e3f773687959",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA001_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A01_Paint_spattered_worktable.blend",
+          "sha256": "7c420fda21643a5d919140534e31f9a627b591de2040cbdf7b7b8ada86a3d9b9"
+        },
+        {
+          "file": "models/A01_Paint_spattered_worktable.glb",
+          "sha256": "9c69160ecc7bbffd11eccd078f67310d4c783eceacb82b5425922c3e888a1c54"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA002",
+      "source_model_id": "A02",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA002",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Adjustable studio easel",
+        "en": "Adjustable studio easel",
+        "zh-CN": "Adjustable studio easel"
+      },
+      "zip_file": "PA002_CC0.zip",
+      "zip_bytes": 146177,
+      "zip_sha256": "4e3f0b84d3125c48b0810218e11b25a0cd5b968c72617de1f04e01e73208e4ef",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A02_Adjustable_studio_easel.blend",
+          "sha256": "80ddc2d7219276b7e54b48191de3e6bcb41f3b5891aae682451a38f6526a72d1"
+        },
+        {
+          "file": "models/A02_Adjustable_studio_easel.glb",
+          "sha256": "9619038bad054f4e61ca6d24fc5754671c7df1bf31e6f287e77671a8e4a6e527"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA003",
+      "source_model_id": "A03",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA003",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Unfinished original river landscape",
+        "en": "Unfinished original river landscape",
+        "zh-CN": "Unfinished original river landscape"
+      },
+      "zip_file": "PA003_CC0.zip",
+      "zip_bytes": 713117,
+      "zip_sha256": "8492d400b37bb2a73b297952a1b105fdd5d54332f7a16c26fa6c799e4f030f7e",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA003_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A03_Unfinished_original_river_landscape.blend",
+          "sha256": "a4490786006584eada230a411f18790700c2c93e12f153c6d237e956aaa4cb4e"
+        },
+        {
+          "file": "models/A03_Unfinished_original_river_landscape.glb",
+          "sha256": "ea11aecd2d88484154b1d7d5a422b370c675c39b06253e23f7a5d4a045d4ce2b"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA004",
+      "source_model_id": "A04",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA004",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Round painters stool",
+        "en": "Round painters stool",
+        "zh-CN": "Round painters stool"
+      },
+      "zip_file": "PA004_CC0.zip",
+      "zip_bytes": 110359,
+      "zip_sha256": "66be85b6b1db5304b1b7d6eedcb3d6bcfbd241477a985c3af9576de9e541ccfa",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA004_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A04_Round_painters_stool.blend",
+          "sha256": "d9171ff7ffc386364db1e84087c40b6f13e7ee2414d7b325b1a1eebc1791ddc7"
+        },
+        {
+          "file": "models/A04_Round_painters_stool.glb",
+          "sha256": "64a5e490660ad579174201ca5c6a8196c13af3de712b9df3d55a409323158be3"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA005",
+      "source_model_id": "A05",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA005",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Oval loaded palette",
+        "en": "Oval loaded palette",
+        "zh-CN": "Oval loaded palette"
+      },
+      "zip_file": "PA005_CC0.zip",
+      "zip_bytes": 159923,
+      "zip_sha256": "f60ca2c990ade8f123dacf5ebb9dbad58216d9d24abfc122d222fc1b47f929e7",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA005_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A05_Oval_loaded_palette.blend",
+          "sha256": "b8a10dc6dc36b9de24a23e882e3da0f2966d5cd9edbf36c23dd13c6374bde96f"
+        },
+        {
+          "file": "models/A05_Oval_loaded_palette.glb",
+          "sha256": "68a2a32f46018029107ede365d7c73c759cce66c675cd3b9709a1f4c835eb178"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA006",
+      "source_model_id": "A06",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA006",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Brush crock",
+        "en": "Brush crock",
+        "zh-CN": "Brush crock"
+      },
+      "zip_file": "PA006_CC0.zip",
+      "zip_bytes": 237470,
+      "zip_sha256": "1a86947751c26e3f0b36d7a0176301fe525108f83b438888993252a4a9845e70",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA006_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A06_Brush_crock.blend",
+          "sha256": "9f5a6d45e6a0d47290f848b4381b0610653129eb3ba496d68155f4d164360f3a"
+        },
+        {
+          "file": "models/A06_Brush_crock.glb",
+          "sha256": "73a640073595cd58b17747d3e77be4cc805b04d069ef11fc190fc2306054d1b7"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA007",
+      "source_model_id": "A07",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA007",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Rinsing jar",
+        "en": "Rinsing jar",
+        "zh-CN": "Rinsing jar"
+      },
+      "zip_file": "PA007_CC0.zip",
+      "zip_bytes": 97363,
+      "zip_sha256": "2b221ad0a8e2c6336305e11b3046d2fddb5341a6735fa642be14670c3b907a15",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA007_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A07_Rinsing_jar.blend",
+          "sha256": "9ae6b64362d563a575691c80fb673b69294d2b33a4416057ed26e56e9a393e91"
+        },
+        {
+          "file": "models/A07_Rinsing_jar.glb",
+          "sha256": "2061fd66277b3e111476e1ec5f09289378f56a22f14f85c32cd6e9a12c19b2d7"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA008",
+      "source_model_id": "A08",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA008",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Pigment jars on tray",
+        "en": "Pigment jars on tray",
+        "zh-CN": "Pigment jars on tray"
+      },
+      "zip_file": "PA008_CC0.zip",
+      "zip_bytes": 124568,
+      "zip_sha256": "78b1901edcb5abb04182ece32e9e3af289d36135565acb0711be34f96156540f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA008_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A08_Pigment_jars_on_tray.blend",
+          "sha256": "03888e17d705776278989b6d0b2402ae4b1f290c26a7afb1e082b15cb568c9ee"
+        },
+        {
+          "file": "models/A08_Pigment_jars_on_tray.glb",
+          "sha256": "7c9a35ed14e7529a4b6f7d7dae2040f0a3f837492c80d8a5ec37e631014a1ea6"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA009",
+      "source_model_id": "A09",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA009",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Paint tubes",
+        "en": "Paint tubes",
+        "zh-CN": "Paint tubes"
+      },
+      "zip_file": "PA009_CC0.zip",
+      "zip_bytes": 157728,
+      "zip_sha256": "0df2fd199939daea13a499c2909f4c97aa7840f2dc2724937f64223a86131dc5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA009_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A09_Paint_tubes.blend",
+          "sha256": "bea16f131bd561779d8aa58beb0c4c0edad2fe2ee3fd180b11739dd5cae233d0"
+        },
+        {
+          "file": "models/A09_Paint_tubes.glb",
+          "sha256": "509ddbf648c7316eabfbfe36202ec9c46570c5888dd22b1be732a8b78d7b0b55"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA010",
+      "source_model_id": "A10",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA010",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Palette knives",
+        "en": "Palette knives",
+        "zh-CN": "Palette knives"
+      },
+      "zip_file": "PA010_CC0.zip",
+      "zip_bytes": 115329,
+      "zip_sha256": "fe9ea69856164000c053f45e53043a4fafbd65b4bbf6b7389d424b8252174c9c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA010_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A10_Palette_knives.blend",
+          "sha256": "007b4e29a675a20d127b022ada3c69f8d92953f7a76dfacb2e377541719c22e7"
+        },
+        {
+          "file": "models/A10_Palette_knives.glb",
+          "sha256": "689d997c7786a9f540c2eff3226c87b8722bf403860eb91903d4806e369ef677"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA011",
+      "source_model_id": "A11",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA011",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Paint stained linen rag",
+        "en": "Paint stained linen rag",
+        "zh-CN": "Paint stained linen rag"
+      },
+      "zip_file": "PA011_CC0.zip",
+      "zip_bytes": 121279,
+      "zip_sha256": "2046c5c07466669106159e83f9f58983e120e732790c550de7148f86e9380e02",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA011_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A11_Paint_stained_linen_rag.blend",
+          "sha256": "9545e5c2c975bf5743585035fee593ad48f44d5e5aca4731dc1c479870c4a5a6"
+        },
+        {
+          "file": "models/A11_Paint_stained_linen_rag.glb",
+          "sha256": "14c4878ce7481c56e01a144dedcf24820fa9501e2a2f59a8d5d5fd24f0576af0"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA012",
+      "source_model_id": "A12",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA012",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Open sketchbook",
+        "en": "Open sketchbook",
+        "zh-CN": "Open sketchbook"
+      },
+      "zip_file": "PA012_CC0.zip",
+      "zip_bytes": 125634,
+      "zip_sha256": "b23dc8d611b7e35c7ee80b854126694c255a0a86221ccb3b4f99f70a04bc37ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA012_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A12_Open_sketchbook.blend",
+          "sha256": "922139ba29e0839e61ac0342e41120a2a898067fdd818063dc327bdbe0c4d07f"
+        },
+        {
+          "file": "models/A12_Open_sketchbook.glb",
+          "sha256": "87b86678c148ef6534f2cd776c30bc095fa76b27ba63ae7030d34ab7ee6d40c3"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA013",
+      "source_model_id": "A13",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA013",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Charcoal sticks",
+        "en": "Charcoal sticks",
+        "zh-CN": "Charcoal sticks"
+      },
+      "zip_file": "PA013_CC0.zip",
+      "zip_bytes": 99378,
+      "zip_sha256": "934536ee18831f3496954e364bf8b3d13b49a183d610f8323cbee4860bd171a6",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA013_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A13_Charcoal_sticks.blend",
+          "sha256": "0bf613777992a5824e4fbf4a3687285c21191a970f50a089e1dca44882a0a034"
+        },
+        {
+          "file": "models/A13_Charcoal_sticks.glb",
+          "sha256": "9af4a0b6dd46332e6136b1a6f2d2fa1b1e7fe952933c4278b4c3b7a782282f65"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA014",
+      "source_model_id": "A14",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA014",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Canvas rolls",
+        "en": "Canvas rolls",
+        "zh-CN": "Canvas rolls"
+      },
+      "zip_file": "PA014_CC0.zip",
+      "zip_bytes": 135479,
+      "zip_sha256": "989a4d5b6904741915bf387ce23024bd14ecf6eaab34296fe98b812e5519975c",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA014_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A14_Canvas_rolls.blend",
+          "sha256": "c6e5560a3f4e81b9591f70830ab903fb43b072f77965a17a098b04a827f0ab34"
+        },
+        {
+          "file": "models/A14_Canvas_rolls.glb",
+          "sha256": "7c85d4dade400e547f5bb28922d1840e1b2b0368fdfa730b267de0b159579e85"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA015",
+      "source_model_id": "A15",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA015",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Blank stretched canvas",
+        "en": "Blank stretched canvas",
+        "zh-CN": "Blank stretched canvas"
+      },
+      "zip_file": "PA015_CC0.zip",
+      "zip_bytes": 104424,
+      "zip_sha256": "1affe99e53830d28f47676638b328b8306ce9616e0f0d6069973affec5766d3d",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA015_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A15_Blank_stretched_canvas.blend",
+          "sha256": "81a20d8513538bae6fb8fdab66bafb23a10b5fe5a8145db5d7dd5746c0d251f6"
+        },
+        {
+          "file": "models/A15_Blank_stretched_canvas.glb",
+          "sha256": "63464967ae367e18a4f1895d9d6692b883a35d158ec9d5a2adfdcfb5ac44dcef"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA016",
+      "source_model_id": "A16",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA016",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Empty carved picture frame",
+        "en": "Empty carved picture frame",
+        "zh-CN": "Empty carved picture frame"
+      },
+      "zip_file": "PA016_CC0.zip",
+      "zip_bytes": 131456,
+      "zip_sha256": "122487c224a12f243be3f6fa8e9ac7681a34721ad3013ab6f8278d25f70601ae",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA016_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A16_Empty_carved_picture_frame.blend",
+          "sha256": "1427a1dd6d10eded93049d45f1b85f747d03e6a767db13b501b35ac3fd841517"
+        },
+        {
+          "file": "models/A16_Empty_carved_picture_frame.glb",
+          "sha256": "f5c02ebe5e6bf098862582252c81ee506ba9552b115a8f22297032d2c53f5285"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA017",
+      "source_model_id": "A17",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA017",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Plaster stilllife stand",
+        "en": "Plaster stilllife stand",
+        "zh-CN": "Plaster stilllife stand"
+      },
+      "zip_file": "PA017_CC0.zip",
+      "zip_bytes": 218642,
+      "zip_sha256": "230df170182c737816f6992ccefee13890ed2b86aded9d90efc4f5a89186b566",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA017_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A17_Plaster_stilllife_stand.blend",
+          "sha256": "f2a070bd3b68def71f535f0b214794424978e01a7a9ee2a84e2f566085030d07"
+        },
+        {
+          "file": "models/A17_Plaster_stilllife_stand.glb",
+          "sha256": "bbc0e011d23fb786a010f469184e9f4951019238e38db2b5da54ba8c39bc8879"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA018",
+      "source_model_id": "A18",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA018",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Plaster classical vessel",
+        "en": "Plaster classical vessel",
+        "zh-CN": "Plaster classical vessel"
+      },
+      "zip_file": "PA018_CC0.zip",
+      "zip_bytes": 123517,
+      "zip_sha256": "33f74e1d49b38e2a490a365934023a799c1f621b307509abaaad64bb7ce23d3f",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA018_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A18_Plaster_classical_vessel.blend",
+          "sha256": "05243ecaeee53717abcb3d6f03cbd620581708a51c07e63fed9361eaea0d2c23"
+        },
+        {
+          "file": "models/A18_Plaster_classical_vessel.glb",
+          "sha256": "374c9edf853b3cb6c797042d9d973c80bda7f34f683776cb76938dfe056f5cb5"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA019",
+      "source_model_id": "A19",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA019",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Plaster geometric studies",
+        "en": "Plaster geometric studies",
+        "zh-CN": "Plaster geometric studies"
+      },
+      "zip_file": "PA019_CC0.zip",
+      "zip_bytes": 107544,
+      "zip_sha256": "37fd176e347373bd0fe7124ea938778a152304ed4177dc36568c1f9c5c55be0a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA019_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A19_Plaster_geometric_studies.blend",
+          "sha256": "913d8178786bed2c6caf099f1327f33a91f3cfc2c68a3b66f745886b0828a18b"
+        },
+        {
+          "file": "models/A19_Plaster_geometric_studies.glb",
+          "sha256": "6e3b4a500958bbcfc068611bc20c3e264a807be24c2d9608e5c9fc5922e7185e"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA020",
+      "source_model_id": "A20",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA020",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wooden supply chest",
+        "en": "Wooden supply chest",
+        "zh-CN": "Wooden supply chest"
+      },
+      "zip_file": "PA020_CC0.zip",
+      "zip_bytes": 126324,
+      "zip_sha256": "86b437d895679be7e061140b75be125af066f631162666ff718c877dd326af92",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA020_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A20_Wooden_supply_chest.blend",
+          "sha256": "15f14f13b7775443ade2473d800361536a03d2ed87b4388b9c2cdc23a71c5313"
+        },
+        {
+          "file": "models/A20_Wooden_supply_chest.glb",
+          "sha256": "efaeed1bb2160a52e8873e857c6128e00cc7266fbc64b35d6d256893f533d6cf"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA021",
+      "source_model_id": "A21",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA021",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Folded dropcloth",
+        "en": "Folded dropcloth",
+        "zh-CN": "Folded dropcloth"
+      },
+      "zip_file": "PA021_CC0.zip",
+      "zip_bytes": 105891,
+      "zip_sha256": "d8a161f4c01e9d6cda8330f265daace826c1074701232cad9102c9f135307de0",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA021_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A21_Folded_dropcloth.blend",
+          "sha256": "398ae4bd8b9f05158e79aa7f793d353c29ea122f3eedb7103ebc18652efd76d9"
+        },
+        {
+          "file": "models/A21_Folded_dropcloth.glb",
+          "sha256": "c7ba25655a12adae558f41c2d6ba00e822bf325721bccbbcce1f7d557fd59ff1"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA022",
+      "source_model_id": "A22",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA022",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Small ceramic pitcher",
+        "en": "Small ceramic pitcher",
+        "zh-CN": "Small ceramic pitcher"
+      },
+      "zip_file": "PA022_CC0.zip",
+      "zip_bytes": 110059,
+      "zip_sha256": "c54a1e650824922bdf405bdab9d4ae5e47677c208c74475dbd1c4147e05ba2bc",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA022_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A22_Small_ceramic_pitcher.blend",
+          "sha256": "f8b70f7b6d5e323ec0869b0f3147b914f2936dc8faaf7dc84c70b0a7d63d3696"
+        },
+        {
+          "file": "models/A22_Small_ceramic_pitcher.glb",
+          "sha256": "922bbc81856a8d96565bc60b6d63fdcd4fc4f0c062dc51acc2206f724787f2c2"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA023",
+      "source_model_id": "A23",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA023",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Wall shelf with drawing papers",
+        "en": "Wall shelf with drawing papers",
+        "zh-CN": "Wall shelf with drawing papers"
+      },
+      "zip_file": "PA023_CC0.zip",
+      "zip_bytes": 165420,
+      "zip_sha256": "ab91eb8d40662d391df883f4700f98f3180bf6e96c09cbf941379db9f03ef2d5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA023_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A23_Wall_shelf_with_drawing_papers.blend",
+          "sha256": "a112fbee8de3ff93888bb188d9bad8b3c299975d167f5627d31a02caccccbdf5"
+        },
+        {
+          "file": "models/A23_Wall_shelf_with_drawing_papers.glb",
+          "sha256": "937fd713ca1ccab0949e123d6c436fdfed5c2bb1c9954bfc550c66521e710481"
+        }
+      ]
+    },
+    {
+      "asset_id": "PA024",
+      "source_model_id": "A24",
+      "category": "painter_atelier",
+      "theme": "PA",
+      "record_kind": "model",
+      "design_id": "PA024",
+      "revision": "publication-20261021-latest",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Pinboard and reference sketches",
+        "en": "Pinboard and reference sketches",
+        "zh-CN": "Pinboard and reference sketches"
+      },
+      "zip_file": "PA024_CC0.zip",
+      "zip_bytes": 162306,
+      "zip_sha256": "f540033ab17f3bbc5d05b6f7474bc869a0370e3ce1d4add460a1fdfcfcec6e67",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA024_CC0.zip",
+      "catalog_file": "catalog/painter_atelier.md",
+      "files": [
+        {
+          "file": "models/A24_Pinboard_and_reference_sketches.blend",
+          "sha256": "02b07886d3d5397e989d3a52bff62ecc02fb4e2f7fb475ce6f650b593a9a1fc2"
+        },
+        {
+          "file": "models/A24_Pinboard_and_reference_sketches.glb",
+          "sha256": "6b9356630caf223135ed823e02dfa6a3d2f2e37ad5749d4435ee9ca2382b8f6b"
+        }
+      ]
+    }
+  ]
+}

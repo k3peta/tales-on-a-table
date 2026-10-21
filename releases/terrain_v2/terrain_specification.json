@@ -1,0 +1,1965 @@
+{
+  "schema": "terrain2m-seam-v2",
+  "units": "metres",
+  "origin": "XY centre, ground Z=0",
+  "footprint": [
+    -1,
+    1,
+    -1,
+    1
+  ],
+  "bottom_z": -0.98,
+  "path_width_m": 0.75,
+  "water_width_m": 1.2,
+  "water_surface_z": -0.01,
+  "water_bed_z": -0.19,
+  "tiles": [
+    {
+      "id": "T001",
+      "family": "grass",
+      "variant": "short_meadow",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T001_grass_short_meadow_HQ.blend",
+          "glb": "T001_grass_short_meadow_HQ.glb",
+          "triangles": 16998,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T001_grass_short_meadow_LITE.blend",
+          "glb": "T001_grass_short_meadow_LITE.glb",
+          "triangles": 8002,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass",
+        "E": "grass",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T002",
+      "family": "grass",
+      "variant": "long_meadow",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T002_grass_long_meadow_HQ.blend",
+          "glb": "T002_grass_long_meadow_HQ.glb",
+          "triangles": 31278,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T002_grass_long_meadow_LITE.blend",
+          "glb": "T002_grass_long_meadow_LITE.glb",
+          "triangles": 15142,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass",
+        "E": "grass",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T003",
+      "family": "grass",
+      "variant": "wildflowers",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T003_grass_wildflowers_HQ.blend",
+          "glb": "T003_grass_wildflowers_HQ.glb",
+          "triangles": 27118,
+          "objects": 53
+        },
+        "LITE": {
+          "blend": "T003_grass_wildflowers_LITE.blend",
+          "glb": "T003_grass_wildflowers_LITE.glb",
+          "triangles": 12062,
+          "objects": 53
+        }
+      },
+      "biome_edges": {
+        "N": "grass",
+        "E": "grass",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T004",
+      "family": "grass",
+      "variant": "dry_tussocks",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T004_grass_dry_tussocks_HQ.blend",
+          "glb": "T004_grass_dry_tussocks_HQ.glb",
+          "triangles": 10878,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T004_grass_dry_tussocks_LITE.blend",
+          "glb": "T004_grass_dry_tussocks_LITE.glb",
+          "triangles": 4942,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass",
+        "E": "grass",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T005",
+      "family": "grass",
+      "variant": "moss_patches",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T005_grass_moss_patches_HQ.blend",
+          "glb": "T005_grass_moss_patches_HQ.glb",
+          "triangles": 15966,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T005_grass_moss_patches_LITE.blend",
+          "glb": "T005_grass_moss_patches_LITE.glb",
+          "triangles": 7486,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass",
+        "E": "grass",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T006",
+      "family": "grass",
+      "variant": "forest_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T006_grass_forest_transition_HQ.blend",
+          "glb": "T006_grass_forest_transition_HQ.glb",
+          "triangles": 10590,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T006_grass_forest_transition_LITE.blend",
+          "glb": "T006_grass_forest_transition_LITE.glb",
+          "triangles": 4798,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "W": "grass",
+        "E": "forest",
+        "N": "grass>forest",
+        "S": "grass>forest"
+      }
+    },
+    {
+      "id": "T007",
+      "family": "grass",
+      "variant": "rock_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T007_grass_rock_transition_HQ.blend",
+          "glb": "T007_grass_rock_transition_HQ.glb",
+          "triangles": 9550,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T007_grass_rock_transition_LITE.blend",
+          "glb": "T007_grass_rock_transition_LITE.glb",
+          "triangles": 4118,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "W": "grass",
+        "E": "rock",
+        "N": "grass>rock",
+        "S": "grass>rock"
+      }
+    },
+    {
+      "id": "T008",
+      "family": "grass",
+      "variant": "sand_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T008_grass_sand_transition_HQ.blend",
+          "glb": "T008_grass_sand_transition_HQ.glb",
+          "triangles": 7302,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T008_grass_sand_transition_LITE.blend",
+          "glb": "T008_grass_sand_transition_LITE.glb",
+          "triangles": 3154,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "W": "grass",
+        "E": "sand",
+        "N": "grass>sand",
+        "S": "grass>sand"
+      }
+    },
+    {
+      "id": "T009",
+      "family": "forest",
+      "variant": "leaf_litter",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T009_forest_leaf_litter_HQ.blend",
+          "glb": "T009_forest_leaf_litter_HQ.glb",
+          "triangles": 7082,
+          "objects": 16
+        },
+        "LITE": {
+          "blend": "T009_forest_leaf_litter_LITE.blend",
+          "glb": "T009_forest_leaf_litter_LITE.glb",
+          "triangles": 2802,
+          "objects": 16
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T010",
+      "family": "forest",
+      "variant": "mossy_roots",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T010_forest_mossy_roots_HQ.blend",
+          "glb": "T010_forest_mossy_roots_HQ.glb",
+          "triangles": 12098,
+          "objects": 22
+        },
+        "LITE": {
+          "blend": "T010_forest_mossy_roots_LITE.blend",
+          "glb": "T010_forest_mossy_roots_LITE.glb",
+          "triangles": 5122,
+          "objects": 22
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T011",
+      "family": "forest",
+      "variant": "fern_floor",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T011_forest_fern_floor_HQ.blend",
+          "glb": "T011_forest_fern_floor_HQ.glb",
+          "triangles": 15778,
+          "objects": 16
+        },
+        "LITE": {
+          "blend": "T011_forest_fern_floor_LITE.blend",
+          "glb": "T011_forest_fern_floor_LITE.glb",
+          "triangles": 7082,
+          "objects": 16
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T012",
+      "family": "forest",
+      "variant": "fallen_branch",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T012_forest_fallen_branch_HQ.blend",
+          "glb": "T012_forest_fallen_branch_HQ.glb",
+          "triangles": 7198,
+          "objects": 17
+        },
+        "LITE": {
+          "blend": "T012_forest_fallen_branch_LITE.blend",
+          "glb": "T012_forest_fallen_branch_LITE.glb",
+          "triangles": 2806,
+          "objects": 17
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T013",
+      "family": "forest",
+      "variant": "stump_clearing",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T013_forest_stump_clearing_HQ.blend",
+          "glb": "T013_forest_stump_clearing_HQ.glb",
+          "triangles": 5378,
+          "objects": 16
+        },
+        "LITE": {
+          "blend": "T013_forest_stump_clearing_LITE.blend",
+          "glb": "T013_forest_stump_clearing_LITE.glb",
+          "triangles": 1930,
+          "objects": 16
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T014",
+      "family": "forest",
+      "variant": "stone_moss",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T014_forest_stone_moss_HQ.blend",
+          "glb": "T014_forest_stone_moss_HQ.glb",
+          "triangles": 8478,
+          "objects": 15
+        },
+        "LITE": {
+          "blend": "T014_forest_stone_moss_LITE.blend",
+          "glb": "T014_forest_stone_moss_LITE.glb",
+          "triangles": 3502,
+          "objects": 15
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T015",
+      "family": "forest",
+      "variant": "sparse_grass",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T015_forest_sparse_grass_HQ.blend",
+          "glb": "T015_forest_sparse_grass_HQ.glb",
+          "triangles": 9482,
+          "objects": 16
+        },
+        "LITE": {
+          "blend": "T015_forest_sparse_grass_LITE.blend",
+          "glb": "T015_forest_sparse_grass_LITE.glb",
+          "triangles": 4002,
+          "objects": 16
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T016",
+      "family": "forest",
+      "variant": "exposed_roots",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T016_forest_exposed_roots_HQ.blend",
+          "glb": "T016_forest_exposed_roots_HQ.glb",
+          "triangles": 9438,
+          "objects": 21
+        },
+        "LITE": {
+          "blend": "T016_forest_exposed_roots_LITE.blend",
+          "glb": "T016_forest_exposed_roots_LITE.glb",
+          "triangles": 3814,
+          "objects": 21
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "forest",
+        "W": "forest"
+      }
+    },
+    {
+      "id": "T017",
+      "family": "path",
+      "variant": "straight_NS",
+      "ports": [
+        "N",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T017_path_straight_NS_HQ.blend",
+          "glb": "T017_path_straight_NS_HQ.glb",
+          "triangles": 15902,
+          "objects": 8
+        },
+        "LITE": {
+          "blend": "T017_path_straight_NS_LITE.blend",
+          "glb": "T017_path_straight_NS_LITE.glb",
+          "triangles": 5830,
+          "objects": 8
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T018",
+      "family": "path",
+      "variant": "bend_NE",
+      "ports": [
+        "N",
+        "E"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T018_path_bend_NE_HQ.blend",
+          "glb": "T018_path_bend_NE_HQ.glb",
+          "triangles": 16502,
+          "objects": 7
+        },
+        "LITE": {
+          "blend": "T018_path_bend_NE_LITE.blend",
+          "glb": "T018_path_bend_NE_LITE.glb",
+          "triangles": 6150,
+          "objects": 7
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T019",
+      "family": "path",
+      "variant": "junction_NES",
+      "ports": [
+        "N",
+        "E",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T019_path_junction_NES_HQ.blend",
+          "glb": "T019_path_junction_NES_HQ.glb",
+          "triangles": 14552,
+          "objects": 6
+        },
+        "LITE": {
+          "blend": "T019_path_junction_NES_LITE.blend",
+          "glb": "T019_path_junction_NES_LITE.glb",
+          "triangles": 5200,
+          "objects": 6
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T020",
+      "family": "path",
+      "variant": "cross_NESW",
+      "ports": [
+        "N",
+        "E",
+        "S",
+        "W"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T020_path_cross_NESW_HQ.blend",
+          "glb": "T020_path_cross_NESW_HQ.glb",
+          "triangles": 13666,
+          "objects": 5
+        },
+        "LITE": {
+          "blend": "T020_path_cross_NESW_LITE.blend",
+          "glb": "T020_path_cross_NESW_LITE.glb",
+          "triangles": 4782,
+          "objects": 5
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T021",
+      "family": "path",
+      "variant": "end_N",
+      "ports": [
+        "N"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T021_path_end_N_HQ.blend",
+          "glb": "T021_path_end_N_HQ.glb",
+          "triangles": 16776,
+          "objects": 8
+        },
+        "LITE": {
+          "blend": "T021_path_end_N_LITE.blend",
+          "glb": "T021_path_end_N_LITE.glb",
+          "triangles": 6264,
+          "objects": 8
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T022",
+      "family": "path",
+      "variant": "straight_NS_rutted",
+      "ports": [
+        "N",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T022_path_straight_NS_rutted_HQ.blend",
+          "glb": "T022_path_straight_NS_rutted_HQ.glb",
+          "triangles": 15742,
+          "objects": 6
+        },
+        "LITE": {
+          "blend": "T022_path_straight_NS_rutted_LITE.blend",
+          "glb": "T022_path_straight_NS_rutted_LITE.glb",
+          "triangles": 5790,
+          "objects": 6
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T023",
+      "family": "path",
+      "variant": "bend_NE_stony",
+      "ports": [
+        "N",
+        "E"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T023_path_bend_NE_stony_HQ.blend",
+          "glb": "T023_path_bend_NE_stony_HQ.glb",
+          "triangles": 16542,
+          "objects": 6
+        },
+        "LITE": {
+          "blend": "T023_path_bend_NE_stony_LITE.blend",
+          "glb": "T023_path_bend_NE_stony_LITE.glb",
+          "triangles": 6190,
+          "objects": 6
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T024",
+      "family": "path",
+      "variant": "junction_NES_clearing",
+      "ports": [
+        "N",
+        "E",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T024_path_junction_NES_clearing_HQ.blend",
+          "glb": "T024_path_junction_NES_clearing_HQ.glb",
+          "triangles": 15200,
+          "objects": 6
+        },
+        "LITE": {
+          "blend": "T024_path_junction_NES_clearing_LITE.blend",
+          "glb": "T024_path_junction_NES_clearing_LITE.glb",
+          "triangles": 5524,
+          "objects": 6
+        }
+      },
+      "biome_edges": {
+        "N": "path",
+        "E": "path",
+        "S": "path",
+        "W": "path"
+      }
+    },
+    {
+      "id": "T025",
+      "family": "rock",
+      "variant": "flat_scree",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T025_rock_flat_scree_HQ.blend",
+          "glb": "T025_rock_flat_scree_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T025_rock_flat_scree_LITE.blend",
+          "glb": "T025_rock_flat_scree_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T026",
+      "family": "rock",
+      "variant": "low_outcrop",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T026_rock_low_outcrop_HQ.blend",
+          "glb": "T026_rock_low_outcrop_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T026_rock_low_outcrop_LITE.blend",
+          "glb": "T026_rock_low_outcrop_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T027",
+      "family": "rock",
+      "variant": "tall_outcrop",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T027_rock_tall_outcrop_HQ.blend",
+          "glb": "T027_rock_tall_outcrop_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T027_rock_tall_outcrop_LITE.blend",
+          "glb": "T027_rock_tall_outcrop_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T028",
+      "family": "rock",
+      "variant": "layered_ridge",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T028_rock_layered_ridge_HQ.blend",
+          "glb": "T028_rock_layered_ridge_HQ.glb",
+          "triangles": 3158,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T028_rock_layered_ridge_LITE.blend",
+          "glb": "T028_rock_layered_ridge_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T029",
+      "family": "rock",
+      "variant": "broken_slabs",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T029_rock_broken_slabs_HQ.blend",
+          "glb": "T029_rock_broken_slabs_HQ.glb",
+          "triangles": 3158,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T029_rock_broken_slabs_LITE.blend",
+          "glb": "T029_rock_broken_slabs_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T030",
+      "family": "rock",
+      "variant": "moss_boulders",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T030_rock_moss_boulders_HQ.blend",
+          "glb": "T030_rock_moss_boulders_HQ.glb",
+          "triangles": 6158,
+          "objects": 25
+        },
+        "LITE": {
+          "blend": "T030_rock_moss_boulders_LITE.blend",
+          "glb": "T030_rock_moss_boulders_LITE.glb",
+          "triangles": 2142,
+          "objects": 25
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T031",
+      "family": "rock",
+      "variant": "sand_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T031_rock_sand_transition_HQ.blend",
+          "glb": "T031_rock_sand_transition_HQ.glb",
+          "triangles": 6158,
+          "objects": 25
+        },
+        "LITE": {
+          "blend": "T031_rock_sand_transition_LITE.blend",
+          "glb": "T031_rock_sand_transition_LITE.glb",
+          "triangles": 2142,
+          "objects": 25
+        }
+      },
+      "biome_edges": {
+        "W": "rock",
+        "E": "sand",
+        "N": "rock>sand",
+        "S": "rock>sand"
+      }
+    },
+    {
+      "id": "T032",
+      "family": "rock",
+      "variant": "snow_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T032_rock_snow_transition_HQ.blend",
+          "glb": "T032_rock_snow_transition_HQ.glb",
+          "triangles": 6158,
+          "objects": 25
+        },
+        "LITE": {
+          "blend": "T032_rock_snow_transition_LITE.blend",
+          "glb": "T032_rock_snow_transition_LITE.glb",
+          "triangles": 2142,
+          "objects": 25
+        }
+      },
+      "biome_edges": {
+        "W": "rock",
+        "E": "snow",
+        "N": "rock>snow",
+        "S": "rock>snow"
+      }
+    },
+    {
+      "id": "T033",
+      "family": "sand",
+      "variant": "flat_fine",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T033_sand_flat_fine_HQ.blend",
+          "glb": "T033_sand_flat_fine_HQ.glb",
+          "triangles": 2878,
+          "objects": 4
+        },
+        "LITE": {
+          "blend": "T033_sand_flat_fine_LITE.blend",
+          "glb": "T033_sand_flat_fine_LITE.glb",
+          "triangles": 902,
+          "objects": 4
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T034",
+      "family": "sand",
+      "variant": "wind_ripples",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T034_sand_wind_ripples_HQ.blend",
+          "glb": "T034_sand_wind_ripples_HQ.glb",
+          "triangles": 2798,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T034_sand_wind_ripples_LITE.blend",
+          "glb": "T034_sand_wind_ripples_LITE.glb",
+          "triangles": 2546,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T035",
+      "family": "sand",
+      "variant": "low_dune",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T035_sand_low_dune_HQ.blend",
+          "glb": "T035_sand_low_dune_HQ.glb",
+          "triangles": 2958,
+          "objects": 5
+        },
+        "LITE": {
+          "blend": "T035_sand_low_dune_LITE.blend",
+          "glb": "T035_sand_low_dune_LITE.glb",
+          "triangles": 2586,
+          "objects": 5
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T036",
+      "family": "sand",
+      "variant": "pebble_patch",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T036_sand_pebble_patch_HQ.blend",
+          "glb": "T036_sand_pebble_patch_HQ.glb",
+          "triangles": 5438,
+          "objects": 36
+        },
+        "LITE": {
+          "blend": "T036_sand_pebble_patch_LITE.blend",
+          "glb": "T036_sand_pebble_patch_LITE.glb",
+          "triangles": 1542,
+          "objects": 36
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T037",
+      "family": "sand",
+      "variant": "dry_grass",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T037_sand_dry_grass_HQ.blend",
+          "glb": "T037_sand_dry_grass_HQ.glb",
+          "triangles": 4798,
+          "objects": 8
+        },
+        "LITE": {
+          "blend": "T037_sand_dry_grass_LITE.blend",
+          "glb": "T037_sand_dry_grass_LITE.glb",
+          "triangles": 1802,
+          "objects": 8
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T038",
+      "family": "sand",
+      "variant": "rock_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T038_sand_rock_transition_HQ.blend",
+          "glb": "T038_sand_rock_transition_HQ.glb",
+          "triangles": 3678,
+          "objects": 14
+        },
+        "LITE": {
+          "blend": "T038_sand_rock_transition_LITE.blend",
+          "glb": "T038_sand_rock_transition_LITE.glb",
+          "triangles": 1102,
+          "objects": 14
+        }
+      },
+      "biome_edges": {
+        "W": "sand",
+        "E": "rock",
+        "N": "sand>rock",
+        "S": "sand>rock"
+      }
+    },
+    {
+      "id": "T039",
+      "family": "sand",
+      "variant": "mud_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T039_sand_mud_transition_HQ.blend",
+          "glb": "T039_sand_mud_transition_HQ.glb",
+          "triangles": 3518,
+          "objects": 12
+        },
+        "LITE": {
+          "blend": "T039_sand_mud_transition_LITE.blend",
+          "glb": "T039_sand_mud_transition_LITE.glb",
+          "triangles": 1062,
+          "objects": 12
+        }
+      },
+      "biome_edges": {
+        "W": "sand",
+        "E": "mud",
+        "N": "sand>mud",
+        "S": "sand>mud"
+      }
+    },
+    {
+      "id": "T040",
+      "family": "sand",
+      "variant": "shell_gravel",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T040_sand_shell_gravel_HQ.blend",
+          "glb": "T040_sand_shell_gravel_HQ.glb",
+          "triangles": 7118,
+          "objects": 57
+        },
+        "LITE": {
+          "blend": "T040_sand_shell_gravel_LITE.blend",
+          "glb": "T040_sand_shell_gravel_LITE.glb",
+          "triangles": 1962,
+          "objects": 57
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T041",
+      "family": "water",
+      "variant": "straight_NS",
+      "ports": [
+        "N",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T041_water_straight_NS_HQ.blend",
+          "glb": "T041_water_straight_NS_HQ.glb",
+          "triangles": 19746,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T041_water_straight_NS_LITE.blend",
+          "glb": "T041_water_straight_NS_LITE.glb",
+          "triangles": 6482,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T042",
+      "family": "water",
+      "variant": "bend_NE",
+      "ports": [
+        "N",
+        "E"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T042_water_bend_NE_HQ.blend",
+          "glb": "T042_water_bend_NE_HQ.glb",
+          "triangles": 19412,
+          "objects": 10
+        },
+        "LITE": {
+          "blend": "T042_water_bend_NE_LITE.blend",
+          "glb": "T042_water_bend_NE_LITE.glb",
+          "triangles": 6638,
+          "objects": 10
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T043",
+      "family": "water",
+      "variant": "junction_NES",
+      "ports": [
+        "N",
+        "E",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T043_water_junction_NES_HQ.blend",
+          "glb": "T043_water_junction_NES_HQ.glb",
+          "triangles": 19535,
+          "objects": 9
+        },
+        "LITE": {
+          "blend": "T043_water_junction_NES_LITE.blend",
+          "glb": "T043_water_junction_NES_LITE.glb",
+          "triangles": 6183,
+          "objects": 9
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T044",
+      "family": "water",
+      "variant": "cross_NESW",
+      "ports": [
+        "N",
+        "E",
+        "S",
+        "W"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T044_water_cross_NESW_HQ.blend",
+          "glb": "T044_water_cross_NESW_HQ.glb",
+          "triangles": 19380,
+          "objects": 8
+        },
+        "LITE": {
+          "blend": "T044_water_cross_NESW_LITE.blend",
+          "glb": "T044_water_cross_NESW_LITE.glb",
+          "triangles": 5892,
+          "objects": 8
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T045",
+      "family": "water",
+      "variant": "end_N_pool",
+      "ports": [
+        "N"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T045_water_end_N_pool_HQ.blend",
+          "glb": "T045_water_end_N_pool_HQ.glb",
+          "triangles": 20121,
+          "objects": 17
+        },
+        "LITE": {
+          "blend": "T045_water_end_N_pool_LITE.blend",
+          "glb": "T045_water_end_N_pool_LITE.glb",
+          "triangles": 6893,
+          "objects": 17
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T046",
+      "family": "water",
+      "variant": "straight_NS_reeds",
+      "ports": [
+        "N",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T046_water_straight_NS_reeds_HQ.blend",
+          "glb": "T046_water_straight_NS_reeds_HQ.glb",
+          "triangles": 20154,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T046_water_straight_NS_reeds_LITE.blend",
+          "glb": "T046_water_straight_NS_reeds_LITE.glb",
+          "triangles": 6686,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T047",
+      "family": "water",
+      "variant": "bend_NE_stones",
+      "ports": [
+        "N",
+        "E"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T047_water_bend_NE_stones_HQ.blend",
+          "glb": "T047_water_bend_NE_stones_HQ.glb",
+          "triangles": 19868,
+          "objects": 10
+        },
+        "LITE": {
+          "blend": "T047_water_bend_NE_stones_LITE.blend",
+          "glb": "T047_water_bend_NE_stones_LITE.glb",
+          "triangles": 6866,
+          "objects": 10
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T048",
+      "family": "water",
+      "variant": "junction_NES_marsh",
+      "ports": [
+        "N",
+        "E",
+        "S"
+      ],
+      "files": {
+        "HQ": {
+          "blend": "T048_water_junction_NES_marsh_HQ.blend",
+          "glb": "T048_water_junction_NES_marsh_HQ.glb",
+          "triangles": 19687,
+          "objects": 10
+        },
+        "LITE": {
+          "blend": "T048_water_junction_NES_marsh_LITE.blend",
+          "glb": "T048_water_junction_NES_marsh_LITE.glb",
+          "triangles": 6239,
+          "objects": 10
+        }
+      },
+      "biome_edges": {
+        "N": "water",
+        "E": "water",
+        "S": "water",
+        "W": "water"
+      }
+    },
+    {
+      "id": "T049",
+      "family": "snow",
+      "variant": "fresh_flat",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T049_snow_fresh_flat_HQ.blend",
+          "glb": "T049_snow_fresh_flat_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T049_snow_fresh_flat_LITE.blend",
+          "glb": "T049_snow_fresh_flat_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T050",
+      "family": "snow",
+      "variant": "wind_drift",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T050_snow_wind_drift_HQ.blend",
+          "glb": "T050_snow_wind_drift_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T050_snow_wind_drift_LITE.blend",
+          "glb": "T050_snow_wind_drift_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T051",
+      "family": "snow",
+      "variant": "rock_exposed",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T051_snow_rock_exposed_HQ.blend",
+          "glb": "T051_snow_rock_exposed_HQ.glb",
+          "triangles": 3358,
+          "objects": 10
+        },
+        "LITE": {
+          "blend": "T051_snow_rock_exposed_LITE.blend",
+          "glb": "T051_snow_rock_exposed_LITE.glb",
+          "triangles": 1022,
+          "objects": 10
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T052",
+      "family": "snow",
+      "variant": "grass_exposed",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T052_snow_grass_exposed_HQ.blend",
+          "glb": "T052_snow_grass_exposed_HQ.glb",
+          "triangles": 4398,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T052_snow_grass_exposed_LITE.blend",
+          "glb": "T052_snow_grass_exposed_LITE.glb",
+          "triangles": 1702,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T053",
+      "family": "snow",
+      "variant": "ice_patch",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T053_snow_ice_patch_HQ.blend",
+          "glb": "T053_snow_ice_patch_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T053_snow_ice_patch_LITE.blend",
+          "glb": "T053_snow_ice_patch_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T054",
+      "family": "snow",
+      "variant": "forest_floor",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T054_snow_forest_floor_HQ.blend",
+          "glb": "T054_snow_forest_floor_HQ.glb",
+          "triangles": 5038,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T054_snow_forest_floor_LITE.blend",
+          "glb": "T054_snow_forest_floor_LITE.glb",
+          "triangles": 1862,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T055",
+      "family": "snow",
+      "variant": "sand_transition",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T055_snow_sand_transition_HQ.blend",
+          "glb": "T055_snow_sand_transition_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T055_snow_sand_transition_LITE.blend",
+          "glb": "T055_snow_sand_transition_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "W": "snow",
+        "E": "sand",
+        "N": "snow>sand",
+        "S": "snow>sand"
+      }
+    },
+    {
+      "id": "T056",
+      "family": "snow",
+      "variant": "compacted_tracks",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T056_snow_compacted_tracks_HQ.blend",
+          "glb": "T056_snow_compacted_tracks_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T056_snow_compacted_tracks_LITE.blend",
+          "glb": "T056_snow_compacted_tracks_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T057",
+      "family": "grass",
+      "variant": "forest_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T057_grass_forest_transition_outer_corner_HQ.blend",
+          "glb": "T057_grass_forest_transition_outer_corner_HQ.glb",
+          "triangles": 15558,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T057_grass_forest_transition_outer_corner_LITE.blend",
+          "glb": "T057_grass_forest_transition_outer_corner_LITE.glb",
+          "triangles": 7282,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass>forest",
+        "E": "grass>forest",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T058",
+      "family": "grass",
+      "variant": "forest_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T058_grass_forest_transition_inner_corner_HQ.blend",
+          "glb": "T058_grass_forest_transition_inner_corner_HQ.glb",
+          "triangles": 6774,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T058_grass_forest_transition_inner_corner_LITE.blend",
+          "glb": "T058_grass_forest_transition_inner_corner_LITE.glb",
+          "triangles": 2890,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "forest",
+        "E": "forest",
+        "S": "grass>forest",
+        "W": "grass>forest"
+      }
+    },
+    {
+      "id": "T059",
+      "family": "grass",
+      "variant": "rock_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T059_grass_rock_transition_outer_corner_HQ.blend",
+          "glb": "T059_grass_rock_transition_outer_corner_HQ.glb",
+          "triangles": 16198,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T059_grass_rock_transition_outer_corner_LITE.blend",
+          "glb": "T059_grass_rock_transition_outer_corner_LITE.glb",
+          "triangles": 7442,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "N": "grass>rock",
+        "E": "grass>rock",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T060",
+      "family": "grass",
+      "variant": "rock_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T060_grass_rock_transition_inner_corner_HQ.blend",
+          "glb": "T060_grass_rock_transition_inner_corner_HQ.glb",
+          "triangles": 7414,
+          "objects": 11
+        },
+        "LITE": {
+          "blend": "T060_grass_rock_transition_inner_corner_LITE.blend",
+          "glb": "T060_grass_rock_transition_inner_corner_LITE.glb",
+          "triangles": 3050,
+          "objects": 11
+        }
+      },
+      "biome_edges": {
+        "N": "rock",
+        "E": "rock",
+        "S": "grass>rock",
+        "W": "grass>rock"
+      }
+    },
+    {
+      "id": "T061",
+      "family": "grass",
+      "variant": "sand_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T061_grass_sand_transition_outer_corner_HQ.blend",
+          "glb": "T061_grass_sand_transition_outer_corner_HQ.glb",
+          "triangles": 15558,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T061_grass_sand_transition_outer_corner_LITE.blend",
+          "glb": "T061_grass_sand_transition_outer_corner_LITE.glb",
+          "triangles": 7282,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "grass>sand",
+        "E": "grass>sand",
+        "S": "grass",
+        "W": "grass"
+      }
+    },
+    {
+      "id": "T062",
+      "family": "grass",
+      "variant": "sand_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T062_grass_sand_transition_inner_corner_HQ.blend",
+          "glb": "T062_grass_sand_transition_inner_corner_HQ.glb",
+          "triangles": 6774,
+          "objects": 3
+        },
+        "LITE": {
+          "blend": "T062_grass_sand_transition_inner_corner_LITE.blend",
+          "glb": "T062_grass_sand_transition_inner_corner_LITE.glb",
+          "triangles": 2890,
+          "objects": 3
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "grass>sand",
+        "W": "grass>sand"
+      }
+    },
+    {
+      "id": "T063",
+      "family": "rock",
+      "variant": "sand_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T063_rock_sand_transition_outer_corner_HQ.blend",
+          "glb": "T063_rock_sand_transition_outer_corner_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T063_rock_sand_transition_outer_corner_LITE.blend",
+          "glb": "T063_rock_sand_transition_outer_corner_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock>sand",
+        "E": "rock>sand",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T064",
+      "family": "rock",
+      "variant": "sand_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T064_rock_sand_transition_inner_corner_HQ.blend",
+          "glb": "T064_rock_sand_transition_inner_corner_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T064_rock_sand_transition_inner_corner_LITE.blend",
+          "glb": "T064_rock_sand_transition_inner_corner_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "rock>sand",
+        "W": "rock>sand"
+      }
+    },
+    {
+      "id": "T065",
+      "family": "rock",
+      "variant": "snow_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T065_rock_snow_transition_outer_corner_HQ.blend",
+          "glb": "T065_rock_snow_transition_outer_corner_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T065_rock_snow_transition_outer_corner_LITE.blend",
+          "glb": "T065_rock_snow_transition_outer_corner_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "rock>snow",
+        "E": "rock>snow",
+        "S": "rock",
+        "W": "rock"
+      }
+    },
+    {
+      "id": "T066",
+      "family": "rock",
+      "variant": "snow_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T066_rock_snow_transition_inner_corner_HQ.blend",
+          "glb": "T066_rock_snow_transition_inner_corner_HQ.glb",
+          "triangles": 4478,
+          "objects": 24
+        },
+        "LITE": {
+          "blend": "T066_rock_snow_transition_inner_corner_LITE.blend",
+          "glb": "T066_rock_snow_transition_inner_corner_LITE.glb",
+          "triangles": 1302,
+          "objects": 24
+        }
+      },
+      "biome_edges": {
+        "N": "snow",
+        "E": "snow",
+        "S": "rock>snow",
+        "W": "rock>snow"
+      }
+    },
+    {
+      "id": "T067",
+      "family": "sand",
+      "variant": "mud_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T067_sand_mud_transition_outer_corner_HQ.blend",
+          "glb": "T067_sand_mud_transition_outer_corner_HQ.glb",
+          "triangles": 2878,
+          "objects": 4
+        },
+        "LITE": {
+          "blend": "T067_sand_mud_transition_outer_corner_LITE.blend",
+          "glb": "T067_sand_mud_transition_outer_corner_LITE.glb",
+          "triangles": 902,
+          "objects": 4
+        }
+      },
+      "biome_edges": {
+        "N": "sand>mud",
+        "E": "sand>mud",
+        "S": "sand",
+        "W": "sand"
+      }
+    },
+    {
+      "id": "T068",
+      "family": "sand",
+      "variant": "mud_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T068_sand_mud_transition_inner_corner_HQ.blend",
+          "glb": "T068_sand_mud_transition_inner_corner_HQ.glb",
+          "triangles": 2878,
+          "objects": 4
+        },
+        "LITE": {
+          "blend": "T068_sand_mud_transition_inner_corner_LITE.blend",
+          "glb": "T068_sand_mud_transition_inner_corner_LITE.glb",
+          "triangles": 902,
+          "objects": 4
+        }
+      },
+      "biome_edges": {
+        "N": "mud",
+        "E": "mud",
+        "S": "sand>mud",
+        "W": "sand>mud"
+      }
+    },
+    {
+      "id": "T069",
+      "family": "snow",
+      "variant": "sand_transition_outer_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T069_snow_sand_transition_outer_corner_HQ.blend",
+          "glb": "T069_snow_sand_transition_outer_corner_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T069_snow_sand_transition_outer_corner_LITE.blend",
+          "glb": "T069_snow_sand_transition_outer_corner_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "snow>sand",
+        "E": "snow>sand",
+        "S": "snow",
+        "W": "snow"
+      }
+    },
+    {
+      "id": "T070",
+      "family": "snow",
+      "variant": "sand_transition_inner_corner",
+      "ports": [],
+      "files": {
+        "HQ": {
+          "blend": "T070_snow_sand_transition_inner_corner_HQ.blend",
+          "glb": "T070_snow_sand_transition_inner_corner_HQ.glb",
+          "triangles": 2718,
+          "objects": 2
+        },
+        "LITE": {
+          "blend": "T070_snow_sand_transition_inner_corner_LITE.blend",
+          "glb": "T070_snow_sand_transition_inner_corner_LITE.glb",
+          "triangles": 862,
+          "objects": 2
+        }
+      },
+      "biome_edges": {
+        "N": "sand",
+        "E": "sand",
+        "S": "snow>sand",
+        "W": "snow>sand"
+      }
+    }
+  ],
+  "water_banks": "Exact clipped-shoreline walls from bed to adjacent surface; port caps at exact grid edge.",
+  "publication_id_map": {
+    "T001": "TR001",
+    "T002": "TR002",
+    "T003": "TR003",
+    "T004": "TR004",
+    "T005": "TR005",
+    "T006": "TR006",
+    "T007": "TR007",
+    "T008": "TR008",
+    "T009": "TR009",
+    "T010": "TR010",
+    "T011": "TR011",
+    "T012": "TR012",
+    "T013": "TR013",
+    "T014": "TR014",
+    "T015": "TR015",
+    "T016": "TR016",
+    "T017": "TR017",
+    "T018": "TR018",
+    "T019": "TR019",
+    "T020": "TR020",
+    "T021": "TR021",
+    "T022": "TR022",
+    "T023": "TR023",
+    "T024": "TR024",
+    "T025": "TR025",
+    "T026": "TR026",
+    "T027": "TR027",
+    "T028": "TR028",
+    "T029": "TR029",
+    "T030": "TR030",
+    "T031": "TR031",
+    "T032": "TR032",
+    "T033": "TR033",
+    "T034": "TR034",
+    "T035": "TR035",
+    "T036": "TR036",
+    "T037": "TR037",
+    "T038": "TR038",
+    "T039": "TR039",
+    "T040": "TR040",
+    "T041": "TR041",
+    "T042": "TR042",
+    "T043": "TR043",
+    "T044": "TR044",
+    "T045": "TR045",
+    "T046": "TR046",
+    "T047": "TR047",
+    "T048": "TR048",
+    "T049": "TR049",
+    "T050": "TR050",
+    "T051": "TR051",
+    "T052": "TR052",
+    "T053": "TR053",
+    "T054": "TR054",
+    "T055": "TR055",
+    "T056": "TR056",
+    "T057": "TR057",
+    "T058": "TR058",
+    "T059": "TR059",
+    "T060": "TR060",
+    "T061": "TR061",
+    "T062": "TR062",
+    "T063": "TR063",
+    "T064": "TR064",
+    "T065": "TR065",
+    "T066": "TR066",
+    "T067": "TR067",
+    "T068": "TR068",
+    "T069": "TR069",
+    "T070": "TR070"
+  }
+}

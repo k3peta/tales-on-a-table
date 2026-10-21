@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "release_tag": "v2026.10.21-octagonal-conservatory",
+  "item_count": 12,
+  "design_count": 6,
+  "counting_note": "12 architecture placement records; seven ordinary wall orientations are one design. Shared assembly origin and placement preserved.",
+  "items": [
+    {
+      "asset_id": "OC001",
+      "source_model_id": "ARCH_01",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC001",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Octagonal stone foundation",
+        "en": "Octagonal stone foundation",
+        "zh-CN": "Octagonal stone foundation"
+      },
+      "zip_file": "OC001_CC0.zip",
+      "zip_bytes": 143442,
+      "zip_sha256": "4721be9a17aa3c5f8dcb0d4a41bd91aecbd37e8060abb89056fba1c2ec7a13bd",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC001_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_01_Octagonal_stone_foundation.blend",
+          "sha256": "92df5ea9835ff1be1b97c34f9b6ca429a698142513a2154fbc899074ef6fb856"
+        },
+        {
+          "file": "models/ARCH_01_Octagonal_stone_foundation.glb",
+          "sha256": "5227400c3ad569a8b33007da67b8c2c2550d018a0a00f3099fbe2592fdc742f6"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC002",
+      "source_model_id": "ARCH_02",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC002",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Central raised bed",
+        "en": "Central raised bed",
+        "zh-CN": "Central raised bed"
+      },
+      "zip_file": "OC002_CC0.zip",
+      "zip_bytes": 122092,
+      "zip_sha256": "225aa1d93c4d92442c67a0f78c5a01bcb45cc4a3e1e1a513b11710bfa27c31d8",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC002_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_02_Central_raised_bed.blend",
+          "sha256": "619f37b8d888fcb8d14b4815a9b92583e91f618006fe23fb8ad93c288e14b278"
+        },
+        {
+          "file": "models/ARCH_02_Central_raised_bed.glb",
+          "sha256": "68e06c51b7968a3c47db1ebf6f4203385db9a37d48e44edc3d22b40cb1344ab9"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC010",
+      "source_model_id": "ARCH_10",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC010_CC0.zip",
+      "zip_bytes": 181334,
+      "zip_sha256": "0dd1449f813c38842f921de263a28474d7967896102ba1d77dae12f9e40c7388",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC010_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_10_Gothic_wall_sector.blend",
+          "sha256": "a6541c813db78bf8d3f8baf08363f4ca6fbdc0a93a42a1f1255ea691f97ad6b8"
+        },
+        {
+          "file": "models/ARCH_10_Gothic_wall_sector.glb",
+          "sha256": "5f95b129e10bd824133e64347c417c4827fdfc79b67457921a9ef00aecb4ed50"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC011",
+      "source_model_id": "ARCH_11",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC011_CC0.zip",
+      "zip_bytes": 165255,
+      "zip_sha256": "005d66e484886e12ab613e1c49de39d70f3601ba9fbfb0a1acd3afc5a39d771a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC011_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_11_Gothic_wall_sector.blend",
+          "sha256": "2c46ce956537e6a6db1408b39fa31dbcc0ec78bf1304e6a4aa6ae527337c7f05"
+        },
+        {
+          "file": "models/ARCH_11_Gothic_wall_sector.glb",
+          "sha256": "2601a58c290b3636b8dd82584dd5d403a13b22552cd34f8277652614cd4af0a9"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC012",
+      "source_model_id": "ARCH_12",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC012_CC0.zip",
+      "zip_bytes": 179726,
+      "zip_sha256": "98a0d3100308b58a297cbc24fefc9c5e2098f156b863fe4c03254a22eca6c9d4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC012_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_12_Gothic_wall_sector.blend",
+          "sha256": "9b4aaf25ddee7adf251260c5e58492de1abf2f117e2811d2122f520f006304e1"
+        },
+        {
+          "file": "models/ARCH_12_Gothic_wall_sector.glb",
+          "sha256": "b92a825203a15de7f36cd288451a40d41fa426dba411862216a29271d07afeae"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC013",
+      "source_model_id": "ARCH_13",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC013_CC0.zip",
+      "zip_bytes": 163547,
+      "zip_sha256": "2e515f88fd356356a7401ffebdb39fb924dc60c873822d84cc42e834174d44b4",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC013_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_13_Gothic_wall_sector.blend",
+          "sha256": "a6391eef94d84cd3e89356da45f13c884e82e757bed9693440d88b0d5c501e11"
+        },
+        {
+          "file": "models/ARCH_13_Gothic_wall_sector.glb",
+          "sha256": "3cd862b5afb89c71eacb4872c47bf867e3a425f8a583c221d2d4fdacc67c16d4"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC014",
+      "source_model_id": "ARCH_14",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC014_CC0.zip",
+      "zip_bytes": 180339,
+      "zip_sha256": "da74ba51cf9e93b2a91a388c0c5f850ea74843455ac7c8dfc464766a30e62086",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC014_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_14_Gothic_wall_sector.blend",
+          "sha256": "0deb8b9e7194685410ac1f45a8f4c5da73138ba4ae68391c7458b054000cf884"
+        },
+        {
+          "file": "models/ARCH_14_Gothic_wall_sector.glb",
+          "sha256": "865881b7fdc81940e833734efe50026d944589703ee2af7e586398ed41c65fa7"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC015",
+      "source_model_id": "ARCH_15",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC015",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector (entrance / south)",
+        "en": "Gothic wall sector (entrance / south)",
+        "zh-CN": "Gothic wall sector (entrance / south)"
+      },
+      "zip_file": "OC015_CC0.zip",
+      "zip_bytes": 150626,
+      "zip_sha256": "438f11a7d3ef97f714797166cfbd18196d674e21b4e2c7235e8d9ea44787805a",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC015_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_15_Gothic_wall_sector.blend",
+          "sha256": "d360b39f6e85be652b0a68d9cdd380ec50e00e06d2698178d714e64c303f685d"
+        },
+        {
+          "file": "models/ARCH_15_Gothic_wall_sector.glb",
+          "sha256": "d2234b47622ebcaf0a065afe7621182cbc8f5d6d81dbaa4ad541a76cb1bfecdc"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC016",
+      "source_model_id": "ARCH_16",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC016_CC0.zip",
+      "zip_bytes": 179497,
+      "zip_sha256": "590c54bd1a5296d3ca74d06203545eabbcbdfde4996f94abb31b341768ba89be",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC016_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_16_Gothic_wall_sector.blend",
+          "sha256": "364714d09d7d95f0a442dc6ebf1f44ff2c6c7170fe71ef85fb14465a20eb8900"
+        },
+        {
+          "file": "models/ARCH_16_Gothic_wall_sector.glb",
+          "sha256": "021ed1e9561591da0f493672e1ab59510b7894ee0d2aceb30d1e17b408180f94"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC017",
+      "source_model_id": "ARCH_17",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "placement_variant",
+      "design_id": "OC_REGULAR_WALL",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Gothic wall sector",
+        "en": "Gothic wall sector",
+        "zh-CN": "Gothic wall sector"
+      },
+      "zip_file": "OC017_CC0.zip",
+      "zip_bytes": 163852,
+      "zip_sha256": "21e8b5914df62d93eff00a5c922c997e8d1282585d799726769ab5a92ad12fd5",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC017_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_17_Gothic_wall_sector.blend",
+          "sha256": "2d804ae28451c4f7c0b2c41b6d3eaf955e2d77097ed70715934cef5006629eb9"
+        },
+        {
+          "file": "models/ARCH_17_Gothic_wall_sector.glb",
+          "sha256": "f04868d82eb47a5a58a82b0094fce5de3cc02f7d434888ad4c608a33a4bc2d27"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC020",
+      "source_model_id": "ARCH_20",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC020",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "High octagonal glass roof",
+        "en": "High octagonal glass roof",
+        "zh-CN": "High octagonal glass roof"
+      },
+      "zip_file": "OC020_CC0.zip",
+      "zip_bytes": 125355,
+      "zip_sha256": "5d8d463041b6a4e0bd86d9cad396dcd28ee484f7de155fb5df56c0c51b831676",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC020_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_20_High_octagonal_glass_roof.blend",
+          "sha256": "73e2b3a7c62450ba8e153e6938d8b38c5082d320abc8468985c17ec05c43bc50"
+        },
+        {
+          "file": "models/ARCH_20_High_octagonal_glass_roof.glb",
+          "sha256": "349fb7e4a0e34ead652a6d0d672b4853306d0aab0e15f4a1763876085dfef3bd"
+        }
+      ]
+    },
+    {
+      "asset_id": "OC021",
+      "source_model_id": "ARCH_21",
+      "category": "octagonal_conservatory",
+      "theme": "OC",
+      "record_kind": "model",
+      "design_id": "OC021",
+      "revision": "closed-publication-20261021",
+      "license": "CC0-1.0",
+      "names": {
+        "ja": "Entrance details",
+        "en": "Entrance details",
+        "zh-CN": "Entrance details"
+      },
+      "zip_file": "OC021_CC0.zip",
+      "zip_bytes": 99495,
+      "zip_sha256": "506f70a2f40b75de9538facaa2830cd5f5ef94fe8076be27a54f08eec1f33c79",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC021_CC0.zip",
+      "catalog_file": "catalog/octagonal_conservatory.md",
+      "files": [
+        {
+          "file": "models/ARCH_21_Entrance_details.blend",
+          "sha256": "00b39246855ce9af764ca62cd43e8d70a16790aa5ebdd8f578187cc3ab39a077"
+        },
+        {
+          "file": "models/ARCH_21_Entrance_details.glb",
+          "sha256": "98e5775951410ceafdbb12aba86447a6396ab18f4b4dfceddcdb75492d5b50d9"
+        }
+      ]
+    }
+  ]
+}
