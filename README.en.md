@@ -1,3 +1,5 @@
+Latest distribution total: **882 records** (878 + 4). [Botanical diversity models](catalog/botanical_diversity_v1.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **878 records** (875 + 3). [Slope fences and crossing stile](catalog/rustic_slope_connections_v2.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **875 records** (873 + 2). [Terrain batch 11 downloads](catalog/terrain_connectivity_v11.md). Counts below describe earlier publication batches.

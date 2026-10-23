@@ -1,0 +1,101 @@
+{
+  "record_count": 4,
+  "items": [
+    {
+      "asset_id": "BD101_Bellflower",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 201765,
+      "zip_sha256": "efe60d2a8d206b5db5dd699135782ad7ab8c405e68497a4cfd853b71daf9bf10",
+      "names": {
+        "ja": "Bellflower",
+        "en": "Bellflower",
+        "zh-CN": "Bellflower"
+      },
+      "descriptions": {
+        "ja": "Hollow five-lobed hanging bells on branching stems. Flower border.",
+        "en": "Hollow five-lobed hanging bells on branching stems. Flower border.",
+        "zh-CN": "Hollow five-lobed hanging bells on branching stems. Flower border."
+      },
+      "zip_file": "BD101_Bellflower_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD102_Iris",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 97159,
+      "zip_sha256": "54f0be757c9a12a1c6cc210f05f37b29d3554c4e6c9a534273be8fd76850c44b",
+      "names": {
+        "ja": "Iris",
+        "en": "Iris",
+        "zh-CN": "Iris"
+      },
+      "descriptions": {
+        "ja": "Sword-shaped basal leaves and alternating upright/falling petals. Garden border.",
+        "en": "Sword-shaped basal leaves and alternating upright/falling petals. Garden border.",
+        "zh-CN": "Sword-shaped basal leaves and alternating upright/falling petals. Garden border."
+      },
+      "zip_file": "BD102_Iris_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD103_PeaVine",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 176655,
+      "zip_sha256": "1006c359c7e732362496e5451c15c5b1c3acd3dc973f271c6172e5624dd48244",
+      "names": {
+        "ja": "PeaVine",
+        "en": "PeaVine",
+        "zh-CN": "PeaVine"
+      },
+      "descriptions": {
+        "ja": "Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired.",
+        "en": "Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired.",
+        "zh-CN": "Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired."
+      },
+      "zip_file": "BD103_PeaVine_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD104_LobedIvy",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 208293,
+      "zip_sha256": "3f10498e4a0c10f6028221401ea2683cf4f8287ba6474dd6b333032be08950c7",
+      "names": {
+        "ja": "LobedIvy",
+        "en": "LobedIvy",
+        "zh-CN": "LobedIvy"
+      },
+      "descriptions": {
+        "ja": "Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine.",
+        "en": "Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine.",
+        "zh-CN": "Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine."
+      },
+      "zip_file": "BD104_LobedIvy_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
