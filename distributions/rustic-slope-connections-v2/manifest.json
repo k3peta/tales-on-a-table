@@ -1,0 +1,83 @@
+{
+  "record_count": 3,
+  "structural_derivatives": 2,
+  "local_use_candidates": 1,
+  "independent_total": null,
+  "items": [
+    {
+      "asset_id": "RS201",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "design_classification": "structural_derivative",
+      "independent_design_increment": null,
+      "revision": "rustic-slope-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 125379,
+      "zip_sha256": "3566a0d7ee89192925020d70324f2824cb4e592bdd9850dde67eef8ad9ce33f6",
+      "names": {
+        "ja": "Pasture slope bay",
+        "en": "Pasture slope bay",
+        "zh-CN": "Pasture slope bay"
+      },
+      "descriptions": {
+        "ja": "Static fence model; see catalogue for placement limits.",
+        "en": "Static fence model; see catalogue for placement limits.",
+        "zh-CN": "Static fence model; see catalogue for placement limits."
+      },
+      "zip_file": "RS201_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip",
+      "theme": "rustic_slope_connections"
+    },
+    {
+      "asset_id": "RS202",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "design_classification": "structural_derivative",
+      "independent_design_increment": null,
+      "revision": "rustic-slope-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 176959,
+      "zip_sha256": "c1b9a7d6cf03f010916121877a9d8c4278ca1bd98fbd9852b239bf6e3a484cfb",
+      "names": {
+        "ja": "Garden slope bay",
+        "en": "Garden slope bay",
+        "zh-CN": "Garden slope bay"
+      },
+      "descriptions": {
+        "ja": "Static fence model; see catalogue for placement limits.",
+        "en": "Static fence model; see catalogue for placement limits.",
+        "zh-CN": "Static fence model; see catalogue for placement limits."
+      },
+      "zip_file": "RS202_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip",
+      "theme": "rustic_slope_connections"
+    },
+    {
+      "asset_id": "RS203",
+      "category": "furnishing",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "rustic-slope-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 174748,
+      "zip_sha256": "80883be0321a82a6eff0ae6466a71b8a2fb4782c3bac1d19556294a1f0062016",
+      "names": {
+        "ja": "Fence crossing stile",
+        "en": "Fence crossing stile",
+        "zh-CN": "Fence crossing stile"
+      },
+      "descriptions": {
+        "ja": "Static fence model; see catalogue for placement limits.",
+        "en": "Static fence model; see catalogue for placement limits.",
+        "zh-CN": "Static fence model; see catalogue for placement limits."
+      },
+      "zip_file": "RS203_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip",
+      "theme": "rustic_slope_connections"
+    }
+  ]
+}

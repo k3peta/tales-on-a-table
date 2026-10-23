@@ -1,3 +1,5 @@
+Latest distribution total: **878 records** (875 + 3). [Slope fences and crossing stile](catalog/rustic_slope_connections_v2.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **875 records** (873 + 2). [Terrain batch 11 downloads](catalog/terrain_connectivity_v11.md). Counts below describe earlier publication batches.
 
 Latest distribution total: **873 records** (872 + VF001). [Lakeside marble fountain model](catalog/vf001_fountain_v2.md). Earlier totals below describe previous batches.
