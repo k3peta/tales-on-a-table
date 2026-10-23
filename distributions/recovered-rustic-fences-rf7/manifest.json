@@ -1,0 +1,201 @@
+{
+  "record_count": 7,
+  "items": [
+    {
+      "asset_id": "RF01",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 152733,
+      "zip_sha256": "7f57cd095f51f184912298b667c889e332fa080e494ee0e8e0140a9591c43bc9",
+      "names": {
+        "ja": "Pasture inline shared post",
+        "en": "Pasture inline shared post",
+        "zh-CN": "Pasture inline shared post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Pasture inline shared post",
+        "en": "Recovered existing model: Pasture inline shared post",
+        "zh-CN": "Recovered existing model: Pasture inline shared post"
+      },
+      "zip_file": "RF01_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF01_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF02",
+      "category": "furnishing",
+      "record_kind": "model",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "recovered_existing_component",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 72622,
+      "zip_sha256": "7a26ab0e37a6dc9f63b2638b6476762ce671ced97e8b6d2ba295e6f1b75027ac",
+      "names": {
+        "ja": "Pasture gate fixed catch",
+        "en": "Pasture gate fixed catch",
+        "zh-CN": "Pasture gate fixed catch"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Pasture gate fixed catch",
+        "en": "Recovered existing model: Pasture gate fixed catch",
+        "zh-CN": "Recovered existing model: Pasture gate fixed catch"
+      },
+      "zip_file": "RF02_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF02_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF03",
+      "category": "furnishing",
+      "record_kind": "model",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "recovered_existing_component",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 160820,
+      "zip_sha256": "6754d7d51cbf8e01cf5010e24306063e5c32364be65ef92353cc5d51a38c430a",
+      "names": {
+        "ja": "Low kitchen-garden round-stake bay",
+        "en": "Low kitchen-garden round-stake bay",
+        "zh-CN": "Low kitchen-garden round-stake bay"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Low kitchen-garden round-stake bay",
+        "en": "Recovered existing model: Low kitchen-garden round-stake bay",
+        "zh-CN": "Recovered existing model: Low kitchen-garden round-stake bay"
+      },
+      "zip_file": "RF03_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF03_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF04",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 150362,
+      "zip_sha256": "d384e85eec39d88af42672d6f59c4a2940da958f11e2ebee57861266067b1ab6",
+      "names": {
+        "ja": "Garden corner post",
+        "en": "Garden corner post",
+        "zh-CN": "Garden corner post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden corner post",
+        "en": "Recovered existing model: Garden corner post",
+        "zh-CN": "Recovered existing model: Garden corner post"
+      },
+      "zip_file": "RF04_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF04_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF05",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 149000,
+      "zip_sha256": "029121de72e927415048ccf6816c4574ee4396e3dbb301562522e2c90c950ca8",
+      "names": {
+        "ja": "Garden inline shared post",
+        "en": "Garden inline shared post",
+        "zh-CN": "Garden inline shared post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden inline shared post",
+        "en": "Recovered existing model: Garden inline shared post",
+        "zh-CN": "Recovered existing model: Garden inline shared post"
+      },
+      "zip_file": "RF05_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF05_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF06",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 150883,
+      "zip_sha256": "24d022ec360591dcc90ff1888f3e9756b47c4a461b532f4bf34e7f8afdd07cc2",
+      "names": {
+        "ja": "Garden terminal post",
+        "en": "Garden terminal post",
+        "zh-CN": "Garden terminal post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden terminal post",
+        "en": "Recovered existing model: Garden terminal post",
+        "zh-CN": "Recovered existing model: Garden terminal post"
+      },
+      "zip_file": "RF06_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF06_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF07",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 194253,
+      "zip_sha256": "37a42a488756f817e4682baf0d87088b92af71f2e55e97780f1c73427b13c79f",
+      "names": {
+        "ja": "Low garden gate with fixed hinge and catch hardware",
+        "en": "Low garden gate with fixed hinge and catch hardware",
+        "zh-CN": "Low garden gate with fixed hinge and catch hardware"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Low garden gate with fixed hinge and catch hardware",
+        "en": "Recovered existing model: Low garden gate with fixed hinge and catch hardware",
+        "zh-CN": "Recovered existing model: Low garden gate with fixed hinge and catch hardware"
+      },
+      "zip_file": "RF07_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF07_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

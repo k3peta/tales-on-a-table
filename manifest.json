@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 891,
+  "item_count": 898,
   "count_by_kind": {
-    "model": 749,
+    "model": 751,
     "derived_component": 2,
     "group": 29,
-    "structural_variant": 7,
+    "structural_variant": 12,
     "connection_configuration": 3,
     "placement_variant": 6,
     "terrain_distribution_record": 95
@@ -36,7 +36,8 @@
     "terrain_connectivity": 95,
     "rustic_slope_connections": 3,
     "botanical_diversity": 10,
-    "stone_paving": 3
+    "stone_paving": 3,
+    "recovered_rustic_fences": 7
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -27127,6 +27128,202 @@
       "zip_file": "PAV-FAN-v2-models-CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip",
       "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF01",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 152733,
+      "zip_sha256": "7f57cd095f51f184912298b667c889e332fa080e494ee0e8e0140a9591c43bc9",
+      "names": {
+        "ja": "Pasture inline shared post",
+        "en": "Pasture inline shared post",
+        "zh-CN": "Pasture inline shared post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Pasture inline shared post",
+        "en": "Recovered existing model: Pasture inline shared post",
+        "zh-CN": "Recovered existing model: Pasture inline shared post"
+      },
+      "zip_file": "RF01_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF01_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF02",
+      "category": "furnishing",
+      "record_kind": "model",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "recovered_existing_component",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 72622,
+      "zip_sha256": "7a26ab0e37a6dc9f63b2638b6476762ce671ced97e8b6d2ba295e6f1b75027ac",
+      "names": {
+        "ja": "Pasture gate fixed catch",
+        "en": "Pasture gate fixed catch",
+        "zh-CN": "Pasture gate fixed catch"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Pasture gate fixed catch",
+        "en": "Recovered existing model: Pasture gate fixed catch",
+        "zh-CN": "Recovered existing model: Pasture gate fixed catch"
+      },
+      "zip_file": "RF02_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF02_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF03",
+      "category": "furnishing",
+      "record_kind": "model",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "recovered_existing_component",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 160820,
+      "zip_sha256": "6754d7d51cbf8e01cf5010e24306063e5c32364be65ef92353cc5d51a38c430a",
+      "names": {
+        "ja": "Low kitchen-garden round-stake bay",
+        "en": "Low kitchen-garden round-stake bay",
+        "zh-CN": "Low kitchen-garden round-stake bay"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Low kitchen-garden round-stake bay",
+        "en": "Recovered existing model: Low kitchen-garden round-stake bay",
+        "zh-CN": "Recovered existing model: Low kitchen-garden round-stake bay"
+      },
+      "zip_file": "RF03_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF03_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF04",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 150362,
+      "zip_sha256": "d384e85eec39d88af42672d6f59c4a2940da958f11e2ebee57861266067b1ab6",
+      "names": {
+        "ja": "Garden corner post",
+        "en": "Garden corner post",
+        "zh-CN": "Garden corner post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden corner post",
+        "en": "Recovered existing model: Garden corner post",
+        "zh-CN": "Recovered existing model: Garden corner post"
+      },
+      "zip_file": "RF04_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF04_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF05",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 149000,
+      "zip_sha256": "029121de72e927415048ccf6816c4574ee4396e3dbb301562522e2c90c950ca8",
+      "names": {
+        "ja": "Garden inline shared post",
+        "en": "Garden inline shared post",
+        "zh-CN": "Garden inline shared post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden inline shared post",
+        "en": "Recovered existing model: Garden inline shared post",
+        "zh-CN": "Recovered existing model: Garden inline shared post"
+      },
+      "zip_file": "RF05_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF05_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF06",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 150883,
+      "zip_sha256": "24d022ec360591dcc90ff1888f3e9756b47c4a461b532f4bf34e7f8afdd07cc2",
+      "names": {
+        "ja": "Garden terminal post",
+        "en": "Garden terminal post",
+        "zh-CN": "Garden terminal post"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Garden terminal post",
+        "en": "Recovered existing model: Garden terminal post",
+        "zh-CN": "Recovered existing model: Garden terminal post"
+      },
+      "zip_file": "RF06_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF06_CC0.zip",
+      "theme": "recovered_rustic_fences",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RF07",
+      "category": "furnishing",
+      "record_kind": "structural_variant",
+      "recovered_existing": true,
+      "new_geometry": false,
+      "independent_design_increment": null,
+      "design_classification": "structural_derivative",
+      "revision": "recovered-rustic-fences-rf7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 194253,
+      "zip_sha256": "37a42a488756f817e4682baf0d87088b92af71f2e55e97780f1c73427b13c79f",
+      "names": {
+        "ja": "Low garden gate with fixed hinge and catch hardware",
+        "en": "Low garden gate with fixed hinge and catch hardware",
+        "zh-CN": "Low garden gate with fixed hinge and catch hardware"
+      },
+      "descriptions": {
+        "ja": "Recovered existing model: Low garden gate with fixed hinge and catch hardware",
+        "en": "Recovered existing model: Low garden gate with fixed hinge and catch hardware",
+        "zh-CN": "Recovered existing model: Low garden gate with fixed hinge and catch hardware"
+      },
+      "zip_file": "RF07_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF07_CC0.zip",
+      "theme": "recovered_rustic_fences",
       "global_unique": "unconfirmed"
     }
   ]
