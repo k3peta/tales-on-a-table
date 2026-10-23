@@ -1,0 +1,2103 @@
+{
+  "schema_version": 1,
+  "record_count": 91,
+  "local_use_candidates": 67,
+  "structural_variants": 24,
+  "independent_design_total": null,
+  "counting_note": "Distribution records, not a verified global count of independent designs. BLEND and GLB are two formats of each record.",
+  "items": [
+    {
+      "asset_id": "TG001",
+      "batch": 1,
+      "name": "ramp half",
+      "zip_file": "TG001_CC0.zip",
+      "zip_bytes": 214238,
+      "zip_sha256": "210d1045e1779b4b346af0d0133c26f39ba3b9159b1b0ec7aefe2d1eec579bff",
+      "model_files": [
+        {
+          "file": "models/TG001.glb",
+          "sha256": "c24bc2917bdbb09ec1815b20a2d92ba6aa0ebfedef2173d86baebdcf8d73edbb",
+          "bytes": 267664
+        },
+        {
+          "file": "models/TG001.blend",
+          "sha256": "b80948d836f231da70e9c66ad96fcf561910612e3295d10eee4d8e20ce37ea39",
+          "bytes": 493554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG001_CC0.zip"
+    },
+    {
+      "asset_id": "TG002",
+      "batch": 1,
+      "name": "ramp full",
+      "zip_file": "TG002_CC0.zip",
+      "zip_bytes": 212917,
+      "zip_sha256": "23d95d03f19214c5ace134bcca9a3df1c305230fa2c69b7ff4e266127266f99d",
+      "model_files": [
+        {
+          "file": "models/TG002.glb",
+          "sha256": "2ebc1666032cb88eb386424a39c67f0b57d5a2e689ec05cf7bddefdf69f389d6",
+          "bytes": 267152
+        },
+        {
+          "file": "models/TG002.blend",
+          "sha256": "12034e07cede1d259b7254786235bee3ee2d8e57898173f057fbaed80b44a670",
+          "bytes": 493554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG002_CC0.zip"
+    },
+    {
+      "asset_id": "TG003",
+      "batch": 1,
+      "name": "ramp inner",
+      "zip_file": "TG003_CC0.zip",
+      "zip_bytes": 219117,
+      "zip_sha256": "59aff36d0a8384776c7f7781ad682c888e50601eec76991797ce2779d7092c7f",
+      "model_files": [
+        {
+          "file": "models/TG003.glb",
+          "sha256": "b157fcc55eb013d7f8ee3abca1e0c274bdc380ab869efff4cd8f071982fd280b",
+          "bytes": 277548
+        },
+        {
+          "file": "models/TG003.blend",
+          "sha256": "a6b3203d2f37e9b18dc048069a5005d0a90b7abc064faf25f89e051195d053a9",
+          "bytes": 500758
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG003_CC0.zip"
+    },
+    {
+      "asset_id": "TG004",
+      "batch": 1,
+      "name": "ramp outer",
+      "zip_file": "TG004_CC0.zip",
+      "zip_bytes": 220235,
+      "zip_sha256": "e62703d66cb8273b17cf81b7014490d7ef31c6d2633e14bd421c69ad702de7c2",
+      "model_files": [
+        {
+          "file": "models/TG004.glb",
+          "sha256": "96fd0cc713b42cb78df3654645294782c26664e3f733d08454100ca91ef8f321",
+          "bytes": 278924
+        },
+        {
+          "file": "models/TG004.blend",
+          "sha256": "da1bb639c2d47bc2f61f43ba2f85a0e8db83aac33675e3f57cd81110386f7b34",
+          "bytes": 500842
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG004_CC0.zip"
+    },
+    {
+      "asset_id": "TG005",
+      "batch": 1,
+      "name": "stairs half",
+      "zip_file": "TG005_CC0.zip",
+      "zip_bytes": 92695,
+      "zip_sha256": "327d0479b68f53de8a97f91b96179f13579ed7b56e76128ba766bd7d09b62e91",
+      "model_files": [
+        {
+          "file": "models/TG005.glb",
+          "sha256": "aaf548b6fa53611c3c8fc82fd07bfe0f9a0f58f12fe603e9deec334ecced55de",
+          "bytes": 46000
+        },
+        {
+          "file": "models/TG005.blend",
+          "sha256": "57e57e1568d26e15685cf901e07f1ae70b957541e40fbcc0ad17acfe1d7d70be",
+          "bytes": 353744
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG005_CC0.zip"
+    },
+    {
+      "asset_id": "TG006",
+      "batch": 1,
+      "name": "stairs full",
+      "zip_file": "TG006_CC0.zip",
+      "zip_bytes": 112381,
+      "zip_sha256": "046cfc8a05e492142cb7f21b7726492054c1e76c7c54a57f645cd882d3dafa98",
+      "model_files": [
+        {
+          "file": "models/TG006.glb",
+          "sha256": "7dd4991a77b55c2024f448d951178f3f0512349d36c0d12e2034bc6ad9d69900",
+          "bytes": 75208
+        },
+        {
+          "file": "models/TG006.blend",
+          "sha256": "c3e2f687337a1df692b7febecc4dc630c03f06609391bb2bee7e31b94f2bfef7",
+          "bytes": 389824
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG006_CC0.zip"
+    },
+    {
+      "asset_id": "TG007",
+      "batch": 1,
+      "name": "cliff straight",
+      "zip_file": "TG007_CC0.zip",
+      "zip_bytes": 153811,
+      "zip_sha256": "af6ec1c4082da7ecd01a6235c6dce21f12fc4030a4ef8bbe1848184aed4bbe0c",
+      "model_files": [
+        {
+          "file": "models/TG007.glb",
+          "sha256": "cd8762ae257b2d821f51e4e911d5d30526477b5bb09cd390ed20ac95cf11049c",
+          "bytes": 114076
+        },
+        {
+          "file": "models/TG007.blend",
+          "sha256": "7eadd393574746f4b4813a337b37b228eb33ebb51a186548c675407544dce970",
+          "bytes": 493554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG007_CC0.zip"
+    },
+    {
+      "asset_id": "TG008",
+      "batch": 1,
+      "name": "cliff outer",
+      "zip_file": "TG008_CC0.zip",
+      "zip_bytes": 153941,
+      "zip_sha256": "e580024024b3f8534b4d2c0ca8cf5b6a40d8568d35867591de6e13076391da52",
+      "model_files": [
+        {
+          "file": "models/TG008.glb",
+          "sha256": "9688cf1dea59ad08c9ce6e28e3b4ba3c989f824611cd3e2f930b8e13f84948cd",
+          "bytes": 113596
+        },
+        {
+          "file": "models/TG008.blend",
+          "sha256": "7e80203941bbfdaf202350fc38da8e3772dccf0254a0cceedea3e4fb20087ba4",
+          "bytes": 493538
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG008_CC0.zip"
+    },
+    {
+      "asset_id": "TG009",
+      "batch": 1,
+      "name": "cliff inner",
+      "zip_file": "TG009_CC0.zip",
+      "zip_bytes": 153772,
+      "zip_sha256": "91db2a574dad4876abd720af283ea62fbc4b5d887be1b3a807a275e22071f977",
+      "model_files": [
+        {
+          "file": "models/TG009.glb",
+          "sha256": "cf217c11b3c271f4a6806de5c86c278d804cc76e34470066e885a444ee203005",
+          "bytes": 112420
+        },
+        {
+          "file": "models/TG009.blend",
+          "sha256": "5a05e9ba852988724145dbc87936deeb7403d3bbbc78aa784a30cdf781beb49b",
+          "bytes": 493538
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG009_CC0.zip"
+    },
+    {
+      "asset_id": "TG010",
+      "batch": 1,
+      "name": "cliff nose",
+      "zip_file": "TG010_CC0.zip",
+      "zip_bytes": 154534,
+      "zip_sha256": "391e48845a34af7a190a409f807707e9cfdc3f7f7c57eaee5a363303a482c0c6",
+      "model_files": [
+        {
+          "file": "models/TG010.glb",
+          "sha256": "7ec24e3e8a8116e45bf757bc019f03ebb6df913ce3721f3742cfb218b3829e77",
+          "bytes": 113352
+        },
+        {
+          "file": "models/TG010.blend",
+          "sha256": "cbb0198a3ecfe9a7f499eb2b1f81f8403a3f414ad0f4b83761536f262f225153",
+          "bytes": 495218
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG010_CC0.zip"
+    },
+    {
+      "asset_id": "TG011",
+      "batch": 1,
+      "name": "overhang straight",
+      "zip_file": "TG011_CC0.zip",
+      "zip_bytes": 153775,
+      "zip_sha256": "c2861dabb64131c5d0626669c52b4a0e716aa9891ed7c82beaec2ed0e74cd514",
+      "model_files": [
+        {
+          "file": "models/TG011.glb",
+          "sha256": "e5e402ffb79493b78769a23a35238022db37d2f9da1bef0fa7d6eb54d8edca11",
+          "bytes": 112948
+        },
+        {
+          "file": "models/TG011.blend",
+          "sha256": "551a374dacee6e58e6c78671a22d5684b2af25abd8bc855fe714166637518c79",
+          "bytes": 502184
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG011_CC0.zip"
+    },
+    {
+      "asset_id": "TG012",
+      "batch": 1,
+      "name": "overhang end",
+      "zip_file": "TG012_CC0.zip",
+      "zip_bytes": 154303,
+      "zip_sha256": "4ff861e275a7674e5a114d996b33d09298741d8bb343a615f652714ba49693a1",
+      "model_files": [
+        {
+          "file": "models/TG012.glb",
+          "sha256": "dbe67b4a61490f98f5b3a4f0c7e33a6b8333a73807a5f9dde874bc24a224b278",
+          "bytes": 113952
+        },
+        {
+          "file": "models/TG012.blend",
+          "sha256": "9032e9f8a64769e6e24755bbee36eed9f7ce3d3607d7b92ae038a42dbafd49c2",
+          "bytes": 508295
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG012_CC0.zip"
+    },
+    {
+      "asset_id": "TG013",
+      "batch": 1,
+      "name": "overhang corner",
+      "zip_file": "TG013_CC0.zip",
+      "zip_bytes": 155002,
+      "zip_sha256": "4cd7ccd752b083c4b3efbfca7eba97e5731ccbd136166a83cd6d1b78380e4c03",
+      "model_files": [
+        {
+          "file": "models/TG013.glb",
+          "sha256": "98f5fad685ff2645e7127100ddc90dbc34431bd8613c787248c2c7e98be9a179",
+          "bytes": 116348
+        },
+        {
+          "file": "models/TG013.blend",
+          "sha256": "2e6639dd9d20fe1ca263f64e596098e09ae24abca7d43c7f0db655b7b57a1a8a",
+          "bytes": 514406
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG013_CC0.zip"
+    },
+    {
+      "asset_id": "TG014",
+      "batch": 1,
+      "name": "pit floor",
+      "zip_file": "TG014_CC0.zip",
+      "zip_bytes": 204822,
+      "zip_sha256": "f89f434501323779dfb2cf1833dac5067ddb6ecb8c346bc75af1048ff51a77ae",
+      "model_files": [
+        {
+          "file": "models/TG014.glb",
+          "sha256": "3f50ebe2c227153e8cf939a9658e512fc59a0da2a1027301c77532604f988c3d",
+          "bytes": 262644
+        },
+        {
+          "file": "models/TG014.blend",
+          "sha256": "94c0fede469c99961646f07f6f22efe21f454cb3476458e5c576b985f6a8c08e",
+          "bytes": 489962
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG014_CC0.zip"
+    },
+    {
+      "asset_id": "TG015",
+      "batch": 1,
+      "name": "pit rim",
+      "zip_file": "TG015_CC0.zip",
+      "zip_bytes": 214014,
+      "zip_sha256": "7edf11f12bdb41ea919af676dc3a45b62fe142a8fc3443ea8bd3bbfee1d99d60",
+      "model_files": [
+        {
+          "file": "models/TG015.glb",
+          "sha256": "9ac2269d152ec4689af57a9f933a7eb0de702c76e5311b4b69bf6a617ae27a62",
+          "bytes": 268032
+        },
+        {
+          "file": "models/TG015.blend",
+          "sha256": "e4e207d145f6578050ab5105da9a970054d13f99e19ce247fb793fe10b7a3739",
+          "bytes": 493554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG015_CC0.zip"
+    },
+    {
+      "asset_id": "TG016",
+      "batch": 1,
+      "name": "pit outer",
+      "zip_file": "TG016_CC0.zip",
+      "zip_bytes": 219328,
+      "zip_sha256": "d717cb545fccadd6f12a4c280bf44a697b4f2509cf192a40b30f5c1481331a19",
+      "model_files": [
+        {
+          "file": "models/TG016.glb",
+          "sha256": "887422b8bcb612bc2921f1ba0a656f48668a1421c83d74775c5b67358165645e",
+          "bytes": 275888
+        },
+        {
+          "file": "models/TG016.blend",
+          "sha256": "e7c7becadf1afae73e8484a16f6769fa02abb0b8c8cc10c69d3aa7bb6abf7d37",
+          "bytes": 500758
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG016_CC0.zip"
+    },
+    {
+      "asset_id": "TG017",
+      "batch": 1,
+      "name": "pit inner",
+      "zip_file": "TG017_CC0.zip",
+      "zip_bytes": 219836,
+      "zip_sha256": "5cf1a3840eed5d6e8c22a6e8b0cefd46c4311d49b8c459b5336efd72c68bf374",
+      "model_files": [
+        {
+          "file": "models/TG017.glb",
+          "sha256": "4e553fee516c4709b6f0933a184a37b96096738896ca5867d9c82746a01124b1",
+          "bytes": 279324
+        },
+        {
+          "file": "models/TG017.blend",
+          "sha256": "3f4ce768d28b0ee5fb27aa78becd1789fdce21bde1a020ba7ed36c7fba243ea7",
+          "bytes": 500842
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG017_CC0.zip"
+    },
+    {
+      "asset_id": "TG018",
+      "batch": 1,
+      "name": "pit closed",
+      "zip_file": "TG018_CC0.zip",
+      "zip_bytes": 213603,
+      "zip_sha256": "0b89c4426d09472aaa9b2a593e40da60988308ad03853cf9c391ed0c11a8776e",
+      "model_files": [
+        {
+          "file": "models/TG018.glb",
+          "sha256": "915187631f679aac959fff2debc813aa1d59e4431d405921997fc647d9c9a2bf",
+          "bytes": 283508
+        },
+        {
+          "file": "models/TG018.blend",
+          "sha256": "ca1e4d1b46f0532a4ef546d8ec2a1047548c012b1d96e5d7e6573415446806cc",
+          "bytes": 502458
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG018_CC0.zip"
+    },
+    {
+      "asset_id": "TG019",
+      "batch": 1,
+      "name": "water full",
+      "zip_file": "TG019_CC0.zip",
+      "zip_bytes": 262135,
+      "zip_sha256": "77da683de0865addba4029152f9286be9d7eb9ed2c15af1e5ad2bd5ad1e86c6a",
+      "model_files": [
+        {
+          "file": "models/TG019.glb",
+          "sha256": "313a00470dc6329c27d9fbd9e07561af632ffd8732fa945d19ac547e6b663184",
+          "bytes": 331704
+        },
+        {
+          "file": "models/TG019.blend",
+          "sha256": "8c99352a42492d983d0c9e628ed2e7895a510c3f7b8bfe80f84f2813da762d9e",
+          "bytes": 805494
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG019_CC0.zip"
+    },
+    {
+      "asset_id": "TG020",
+      "batch": 1,
+      "name": "shore",
+      "zip_file": "TG020_CC0.zip",
+      "zip_bytes": 228856,
+      "zip_sha256": "519a1a2d1853cff853607fa5ab50df4fa854dbb67d270d1235a1a65565ec35c4",
+      "model_files": [
+        {
+          "file": "models/TG020.glb",
+          "sha256": "3bc9a77986c0aea8ef06c898c942a06873eb3bcf7b4aadb4181ca62eecbfe1f3",
+          "bytes": 256736
+        },
+        {
+          "file": "models/TG020.blend",
+          "sha256": "f47ab444b220718a2094ceb206a67d8aba1ab85bb3476c0b429f4ab2f35b2b4f",
+          "bytes": 686086
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG020_CC0.zip"
+    },
+    {
+      "asset_id": "TG021",
+      "batch": 1,
+      "name": "shore outer",
+      "zip_file": "TG021_CC0.zip",
+      "zip_bytes": 256714,
+      "zip_sha256": "95a7632e5456b8b37ba81bd3c6e1e93c05494392b41334801888211840e26292",
+      "model_files": [
+        {
+          "file": "models/TG021.glb",
+          "sha256": "ff680c5dc530d7b0304fe308f49a908d33f78598d25e2da150af6108e5d10474",
+          "bytes": 310636
+        },
+        {
+          "file": "models/TG021.blend",
+          "sha256": "64f6bd59ce2737a8a5a4f7fa2fd62d44e098654ed460845dc26202e121b5a5f8",
+          "bytes": 760392
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG021_CC0.zip"
+    },
+    {
+      "asset_id": "TG022",
+      "batch": 1,
+      "name": "shore inner",
+      "zip_file": "TG022_CC0.zip",
+      "zip_bytes": 201281,
+      "zip_sha256": "0bf66a45f2712e74849faa24b5179b5c5018b57e92fcb0111f2e7c9cfdd99495",
+      "model_files": [
+        {
+          "file": "models/TG022.glb",
+          "sha256": "96e0f616b249889adb035b302e8d0e2444de01fb6b86de06ed673ed8bb237692",
+          "bytes": 202980
+        },
+        {
+          "file": "models/TG022.blend",
+          "sha256": "4d7428fcb8ba02b7f09e9cb74cfafb3b99173a217fb5d64170c08130eedeac2e",
+          "bytes": 611748
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG022_CC0.zip"
+    },
+    {
+      "asset_id": "TG023",
+      "batch": 1,
+      "name": "estuary",
+      "zip_file": "TG023_CC0.zip",
+      "zip_bytes": 261954,
+      "zip_sha256": "d7ee6896283dfab22cc54e358e920595b647c5102ecee56734fd2c254a6bdd64",
+      "model_files": [
+        {
+          "file": "models/TG023.glb",
+          "sha256": "20948750df9cf6a498c635789483b5707972036dc7cb43650012c962574b06d3",
+          "bytes": 338236
+        },
+        {
+          "file": "models/TG023.blend",
+          "sha256": "9d3fc054fcf902c7f6c183afde21f65661990f21f2a1c62825cb21a4adf831f4",
+          "bytes": 788850
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG023_CC0.zip"
+    },
+    {
+      "asset_id": "TG024",
+      "batch": 1,
+      "name": "beach",
+      "zip_file": "TG024_CC0.zip",
+      "zip_bytes": 253382,
+      "zip_sha256": "105033acb2846984665ed78ba209fc0bd22b15e64ceb9fd98759658d687551d9",
+      "model_files": [
+        {
+          "file": "models/TG024.glb",
+          "sha256": "041fba89fc2a87052bda153f61dcd26cf3907c18d50372c8c06ce92590ce726d",
+          "bytes": 327792
+        },
+        {
+          "file": "models/TG024.blend",
+          "sha256": "fd80b5cacdbe667e2d1171905b6388688d4fcab5484a523f0bfe4d220d0e4bf7",
+          "bytes": 748166
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG024_CC0.zip"
+    },
+    {
+      "asset_id": "TG025",
+      "batch": 1,
+      "name": "beach outer",
+      "zip_file": "TG025_CC0.zip",
+      "zip_bytes": 269616,
+      "zip_sha256": "c11e595b67b3ed5404c8b6328a7ae82e792efef1ba3e5dfee87e41316f1dd1af",
+      "model_files": [
+        {
+          "file": "models/TG025.glb",
+          "sha256": "c6002c6cb8ef25e9b4f9e37e5511eb821fc6b2d4550d54c01ef4cf91671f7f9f",
+          "bytes": 371648
+        },
+        {
+          "file": "models/TG025.blend",
+          "sha256": "43263b0db06d2104324454e024f48631bc2ce59183f97c648bafdfe250f52e04",
+          "bytes": 804480
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG025_CC0.zip"
+    },
+    {
+      "asset_id": "TG026",
+      "batch": 1,
+      "name": "beach inner",
+      "zip_file": "TG026_CC0.zip",
+      "zip_bytes": 241512,
+      "zip_sha256": "09aa1771891d5d1ab4f7d895ccbc45a6d0f808a29e006f630d6a3c1e7c7b86a2",
+      "model_files": [
+        {
+          "file": "models/TG026.glb",
+          "sha256": "915ba9875c3085d242205dc6f6e4d9944981322501a6299e1c109c58d57e6bbd",
+          "bytes": 297204
+        },
+        {
+          "file": "models/TG026.blend",
+          "sha256": "cfb39d27e3e04deb030790a08b641d298fb899cfb92a9978b2eed4e68995ce0f",
+          "bytes": 706260
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG026_CC0.zip"
+    },
+    {
+      "asset_id": "TG027",
+      "batch": 1,
+      "name": "tide pool",
+      "zip_file": "TG027_CC0.zip",
+      "zip_bytes": 304918,
+      "zip_sha256": "6b3d347eb67d8597514965d2d5fc4ddc190e1681fad48e56ac31e98ffaafbaab",
+      "model_files": [
+        {
+          "file": "models/TG027.glb",
+          "sha256": "868fff8f049211a5728ab7504c8c06c67e403654b45590290d6d597231f1b837",
+          "bytes": 473876
+        },
+        {
+          "file": "models/TG027.blend",
+          "sha256": "fa92eb4d61780eb6d0e6d4d145285cdf20fd5edeb51eb048b69ed718aa615e1d",
+          "bytes": 740258
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG027_CC0.zip"
+    },
+    {
+      "asset_id": "TG028",
+      "batch": 1,
+      "name": "arch",
+      "zip_file": "TG028_CC0.zip",
+      "zip_bytes": 154386,
+      "zip_sha256": "5962b8082f3f2fa7ae9200b78ebf1292fa669bc421f019668d9cee87773acde4",
+      "model_files": [
+        {
+          "file": "models/TG028.glb",
+          "sha256": "b7a754b7f92b621889e9b44dbd8b8b34d83f852fff521ae423b46aa4b77ec62b",
+          "bytes": 115336
+        },
+        {
+          "file": "models/TG028.blend",
+          "sha256": "d7a7f1b5e6408628a24d06c8ccd53565f9757d61d8f9ba2c32db74e6b784d676",
+          "bytes": 508295
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG028_CC0.zip"
+    },
+    {
+      "asset_id": "TG029",
+      "batch": 1,
+      "name": "plateau half",
+      "zip_file": "TG029_CC0.zip",
+      "zip_bytes": 205706,
+      "zip_sha256": "a22f35398a132b9401cc0c11d6cdc7b3eac9192fbd089b907d956cbe92a0c9b1",
+      "model_files": [
+        {
+          "file": "models/TG029.glb",
+          "sha256": "10e9b3356d19b8673da10f6bcf16b7741db05ea0b079fdc204061f121fc953d4",
+          "bytes": 263048
+        },
+        {
+          "file": "models/TG029.blend",
+          "sha256": "2f4322df25b08b3a07bab2c6c25af0b837b8d6a108817dcd9d9348f6c0b12143",
+          "bytes": 489962
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG029_CC0.zip"
+    },
+    {
+      "asset_id": "TG030",
+      "batch": 1,
+      "name": "plateau full",
+      "zip_file": "TG030_CC0.zip",
+      "zip_bytes": 204695,
+      "zip_sha256": "54b177ed3083d1e89f892dc8f5bfac07a90728754bf859a8154952f11cab0ca4",
+      "model_files": [
+        {
+          "file": "models/TG030.glb",
+          "sha256": "a31f2b96444545001983d0a487a7d21d3897d13c005a9c3da8fb0034902fc284",
+          "bytes": 262444
+        },
+        {
+          "file": "models/TG030.blend",
+          "sha256": "9a092b67362f9605ab1d197de033e63388e253eb28de7c2ed88632fe2704e7db",
+          "bytes": 489962
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG030_CC0.zip"
+    },
+    {
+      "asset_id": "TG031",
+      "batch": 1,
+      "name": "cliff half to full",
+      "zip_file": "TG031_CC0.zip",
+      "zip_bytes": 153700,
+      "zip_sha256": "55fc0305cdc43dbe03919fb40994b3971e63a5dbf9d17e807a97aeb983ab02f5",
+      "model_files": [
+        {
+          "file": "models/TG031.glb",
+          "sha256": "8ff575d0cb5a268f435cd3047977dfd2f1f9532f8d295f2e94b081962390d764",
+          "bytes": 113572
+        },
+        {
+          "file": "models/TG031.blend",
+          "sha256": "d8bfefe8290e10608f2e375af15ce894766995bb68c98a68bfb596e14ed4909a",
+          "bytes": 493554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG031_CC0.zip"
+    },
+    {
+      "asset_id": "TG032",
+      "batch": 1,
+      "name": "ravine",
+      "zip_file": "TG032_CC0.zip",
+      "zip_bytes": 155848,
+      "zip_sha256": "95ca8327f0dfb623bbbf401230228ae37f18dbdcedb43f346d24a4188492dd47",
+      "model_files": [
+        {
+          "file": "models/TG032.glb",
+          "sha256": "704acda0e34a466df4d013d6ab06875d596544e953320a166000f0131b369fd8",
+          "bytes": 117700
+        },
+        {
+          "file": "models/TG032.blend",
+          "sha256": "464d575ee267e780afab72eee3a6a47dd95f1afa4435a81ba61f9ed252b4303b",
+          "bytes": 497082
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG032_CC0.zip"
+    },
+    {
+      "asset_id": "TG033",
+      "batch": 1,
+      "name": "ravine bend",
+      "zip_file": "TG033_CC0.zip",
+      "zip_bytes": 154002,
+      "zip_sha256": "2b50d3dea8fadd20ed8995e0c3f7fb9b57ceb0793ca9a8f084be650d3776e695",
+      "model_files": [
+        {
+          "file": "models/TG033.glb",
+          "sha256": "adddc87fda06601d0646f2faa6c4ced063e2c3478ad792677b3d9f99fae746f2",
+          "bytes": 115840
+        },
+        {
+          "file": "models/TG033.blend",
+          "sha256": "334efa334041f8b4e4a90e33479ce4f8601acba0e68d486b43defdd270385545",
+          "bytes": 492606
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG033_CC0.zip"
+    },
+    {
+      "asset_id": "TG034",
+      "batch": 1,
+      "name": "ravine T",
+      "zip_file": "TG034_CC0.zip",
+      "zip_bytes": 154758,
+      "zip_sha256": "b4651305745084bfb3f8ce55611398b7e650366b1119e238996f09c2c57f56e1",
+      "model_files": [
+        {
+          "file": "models/TG034.glb",
+          "sha256": "334ccbf58f0f6eb5619aaf68ee32868d11f664373ea240f9d27c9122d0246632",
+          "bytes": 115960
+        },
+        {
+          "file": "models/TG034.blend",
+          "sha256": "8645ae5ac496c93f837b1578d3e5f4615a4511085c090e00ecb9f6bddd96be1e",
+          "bytes": 495150
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG034_CC0.zip"
+    },
+    {
+      "asset_id": "TV201",
+      "batch": 2,
+      "name": "ravine end",
+      "zip_file": "TV201_CC0.zip",
+      "zip_bytes": 160850,
+      "zip_sha256": "1e696ef50a6b85d306a88ef63236120f404bec2ceb109b1a38de2d4451f4929f",
+      "model_files": [
+        {
+          "file": "models/TV201.glb",
+          "sha256": "2ff1315d55bb113f15fb5ac580ea14bb83a46a45b27245abec861cd1386e6140",
+          "bytes": 131048
+        },
+        {
+          "file": "models/TV201.blend",
+          "sha256": "2601966f6004d83567508bf452362844d808b7ba3a50eea995da3e8865732a5b",
+          "bytes": 509384
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV201_CC0.zip"
+    },
+    {
+      "asset_id": "TV202",
+      "batch": 2,
+      "name": "ravine cross",
+      "zip_file": "TV202_CC0.zip",
+      "zip_bytes": 161328,
+      "zip_sha256": "b4873a40ca0c8f59c093fbf779c5a961ff6c7b2a9a0421202a33a7391882c15f",
+      "model_files": [
+        {
+          "file": "models/TV202.glb",
+          "sha256": "d1ea6855821f22c187db9006c1921aa248182eba75dd4e5c15309774d4ccb844",
+          "bytes": 129804
+        },
+        {
+          "file": "models/TV202.blend",
+          "sha256": "2d8845a4f12c1345efb65514e4be620ef6ac1777d182282d39fa0b04071f8448",
+          "bytes": 511600
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV202_CC0.zip"
+    },
+    {
+      "asset_id": "TV203",
+      "batch": 2,
+      "name": "ravine ramp entry",
+      "zip_file": "TV203_CC0.zip",
+      "zip_bytes": 169651,
+      "zip_sha256": "79995fc77df54af03efacdaf21214a5c629da097e57fab72ddab78adc72feff1",
+      "model_files": [
+        {
+          "file": "models/TV203.glb",
+          "sha256": "9d46d3c1e87c590424a585f5f50c34d285ba4bdba7bd97a09563495352f912d8",
+          "bytes": 163368
+        },
+        {
+          "file": "models/TV203.blend",
+          "sha256": "b36dcc8b5bc58dd72a9e7b975c385c618d0edb140edad00641c94c4be650d798",
+          "bytes": 526188
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV203_CC0.zip"
+    },
+    {
+      "asset_id": "TV204",
+      "batch": 2,
+      "name": "ravine stair entry",
+      "zip_file": "TV204_CC0.zip",
+      "zip_bytes": 165060,
+      "zip_sha256": "52b5b52b2b4014a080ff443905d24d64cbbd6feb12f1be5adde122e079f8d0ce",
+      "model_files": [
+        {
+          "file": "models/TV204.glb",
+          "sha256": "6c2e8789ec7613b5bb9c4954f2cb4fd0cbd8fa6f3a536f9a7940b15a7a2bd42d",
+          "bytes": 138680
+        },
+        {
+          "file": "models/TV204.blend",
+          "sha256": "de687d76625e65d83f1b8ab5f9dc7e1658d54b63769d1454ee648e9311bf460b",
+          "bytes": 520128
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV204_CC0.zip"
+    },
+    {
+      "asset_id": "TV205",
+      "batch": 2,
+      "name": "cliff double bench",
+      "zip_file": "TV205_CC0.zip",
+      "zip_bytes": 161079,
+      "zip_sha256": "0b539d35162bfdc2c97d0660d5e610fbe6cd55d99c9cdeca62243b28bb6b36b1",
+      "model_files": [
+        {
+          "file": "models/TV205.glb",
+          "sha256": "2ef2d40d6c1f09e6a23f2e15cd5397cab1bdb55a79e309ce08a1a7e58f97da0a",
+          "bytes": 129336
+        },
+        {
+          "file": "models/TV205.blend",
+          "sha256": "c69f982f77764a282575e71b7a6b6ee2c7f0fe65952b9abebab37236876f014a",
+          "bytes": 512592
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV205_CC0.zip"
+    },
+    {
+      "asset_id": "TV206",
+      "batch": 2,
+      "name": "cliff access slot",
+      "zip_file": "TV206_CC0.zip",
+      "zip_bytes": 170032,
+      "zip_sha256": "e54172ae218cc9bb301725308f54468860152aae3a49d7dfde6fffa2fcb126aa",
+      "model_files": [
+        {
+          "file": "models/TV206.glb",
+          "sha256": "04a7441abb5dfd00f0d715779460aaef2abf6720404382bcf5c19e44cf8c533f",
+          "bytes": 164288
+        },
+        {
+          "file": "models/TV206.blend",
+          "sha256": "d0cb635e0e46ef3ae3755f1b19604278f0af4140bbf1debc60bb017af851867b",
+          "bytes": 526624
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV206_CC0.zip"
+    },
+    {
+      "asset_id": "TV207",
+      "batch": 2,
+      "name": "overhang closed",
+      "zip_file": "TV207_CC0.zip",
+      "zip_bytes": 161197,
+      "zip_sha256": "2c5979aa7a81458ed0fc3ccba8951e3bd1f01d2cb32c48b86d6a5053ae1e378e",
+      "model_files": [
+        {
+          "file": "models/TV207.glb",
+          "sha256": "4c356ae925c87ded6d1b16fefc1b4feb841c8bc1f5ebed418856398f26fccaf5",
+          "bytes": 129908
+        },
+        {
+          "file": "models/TV207.blend",
+          "sha256": "57282cea4e2210961f5953bf774095861d8e04611c8aae479043900b3d94bfc3",
+          "bytes": 529852
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV207_CC0.zip"
+    },
+    {
+      "asset_id": "TV208",
+      "batch": 2,
+      "name": "water ravine sill",
+      "zip_file": "TV208_CC0.zip",
+      "zip_bytes": 245920,
+      "zip_sha256": "a9ebe1507d39483fd01ed418182a0cebc2cab41bf986795cbab0d0cfce8140f5",
+      "model_files": [
+        {
+          "file": "models/TV208.glb",
+          "sha256": "5e61ffee17e7870b9c5557cd3c697902eabd153faf539ba600083bd2489759f9",
+          "bytes": 301128
+        },
+        {
+          "file": "models/TV208.blend",
+          "sha256": "6a9cf13f617c7fdf63aa834f72c28e30fd6fde20138ed596dc9090e31893b990",
+          "bytes": 727996
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV208_CC0.zip"
+    },
+    {
+      "asset_id": "TV209",
+      "batch": 2,
+      "name": "river Y",
+      "zip_file": "TV209_CC0.zip",
+      "zip_bytes": 259055,
+      "zip_sha256": "482594c1e7298574d1d00cccfc2123b44cb9ea713e4b1dc538340cfe48781b45",
+      "model_files": [
+        {
+          "file": "models/TV209.glb",
+          "sha256": "9500340e956209fab92a540aeca23ff40689cff5268500a575983c3939e5027c",
+          "bytes": 326488
+        },
+        {
+          "file": "models/TV209.blend",
+          "sha256": "7a58a8ef02253909760ce1ab027b2837ba09f1a344200cd64bf1751bd9e74518",
+          "bytes": 782554
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV209_CC0.zip"
+    },
+    {
+      "asset_id": "TV210",
+      "batch": 2,
+      "name": "ravine widen",
+      "zip_file": "TV210_CC0.zip",
+      "zip_bytes": 160408,
+      "zip_sha256": "88cea54ebe59d33632570b2bcfe960781eab2eac4016b577d9d3557c53899311",
+      "model_files": [
+        {
+          "file": "models/TV210.glb",
+          "sha256": "b2bb4f2f162a73ad827724518a1171e8eacccfd019eff7b21dacd9d3da573aa1",
+          "bytes": 131924
+        },
+        {
+          "file": "models/TV210.blend",
+          "sha256": "105bc0282f0a8c209c2ab97ca3bd2160c81f941e1a358b16a2be4843b1290d99",
+          "bytes": 506428
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV210_CC0.zip"
+    },
+    {
+      "asset_id": "TX301",
+      "batch": 3,
+      "name": "ramp late half",
+      "zip_file": "TX301_CC0.zip",
+      "zip_bytes": 161287,
+      "zip_sha256": "0b017e53cb47f51b8564e62409deb44868d466cccd8b9ddab6faa2b1f49a9a4e",
+      "model_files": [
+        {
+          "file": "models/TX301.glb",
+          "sha256": "1c14f7562fa822f9d698409dc1cc7338a16ebfeba6d1227f8e475e1b622f4aa0",
+          "bytes": 130892
+        },
+        {
+          "file": "models/TX301.blend",
+          "sha256": "7138210d772d43ec307ff7c0595df0e32b858de970400b27a72ed463cb256c62",
+          "bytes": 511790
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX301_CC0.zip"
+    },
+    {
+      "asset_id": "TX302",
+      "batch": 3,
+      "name": "ramp early half",
+      "zip_file": "TX302_CC0.zip",
+      "zip_bytes": 161174,
+      "zip_sha256": "1d92bc7a76c19aa95b560b66157f46d4ec839fcca5b71a39e1f95774bd85dd84",
+      "model_files": [
+        {
+          "file": "models/TX302.glb",
+          "sha256": "43cc147bb92bab54caaed465cbca85d2a33ffcf0b3ed0ca83ceeef3a99f34669",
+          "bytes": 131420
+        },
+        {
+          "file": "models/TX302.blend",
+          "sha256": "83feb0ff0ec372a6e806eb245c57b5550fc26af2973ea8289def2ddec24ce916",
+          "bytes": 511790
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX302_CC0.zip"
+    },
+    {
+      "asset_id": "TX303",
+      "batch": 3,
+      "name": "ramp S full",
+      "zip_file": "TX303_CC0.zip",
+      "zip_bytes": 169848,
+      "zip_sha256": "28f58064fc48e2503e6f8019588b8f2eb895bc6f5d24f2f144ea5a863891d8ae",
+      "model_files": [
+        {
+          "file": "models/TX303.glb",
+          "sha256": "e2cd7de8ba719ee5009296cc4fa65a246e39270434bac6e8b17d02baede9ebea",
+          "bytes": 183120
+        },
+        {
+          "file": "models/TX303.blend",
+          "sha256": "955e0bfae5155a5dcfaf0d26cd105edbbd9e9fed9d4d2556173d4ea20ca446d9",
+          "bytes": 522614
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX303_CC0.zip"
+    },
+    {
+      "asset_id": "TX304",
+      "batch": 3,
+      "name": "ramp bilinear corner",
+      "zip_file": "TX304_CC0.zip",
+      "zip_bytes": 235059,
+      "zip_sha256": "db95d8fecd14f1aecbbab0568ff85cea5a6d1c0bf35b8e73a5deab8a9f17ab4c",
+      "model_files": [
+        {
+          "file": "models/TX304.glb",
+          "sha256": "a38c7928b01b5e932906a4775619ccb784e7425c06a090dd3c8b1ee3e7166c87",
+          "bytes": 308620
+        },
+        {
+          "file": "models/TX304.blend",
+          "sha256": "ef3ad5cd754c2f5afdffd39cf7c420bfd56635039983668a4140702d53209eb4",
+          "bytes": 544246
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX304_CC0.zip"
+    },
+    {
+      "asset_id": "TX305",
+      "batch": 3,
+      "name": "ramp diagonal",
+      "zip_file": "TX305_CC0.zip",
+      "zip_bytes": 193317,
+      "zip_sha256": "b3f52967cd22dbef48d5b0176bb6eec057fae466dd623a98c3e7c01a1ca86655",
+      "model_files": [
+        {
+          "file": "models/TX305.glb",
+          "sha256": "87eec05114bd6bd967817128f52bd65708da1768dc7da6bf6b1fc7e54d622be8",
+          "bytes": 177212
+        },
+        {
+          "file": "models/TX305.blend",
+          "sha256": "975dcbc58d6a13d96c49595fb8f7161c412eb8109df25ae5c869c1f06ef2dca2",
+          "bytes": 543870
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX305_CC0.zip"
+    },
+    {
+      "asset_id": "TX306",
+      "batch": 3,
+      "name": "cliff double corner",
+      "zip_file": "TX306_CC0.zip",
+      "zip_bytes": 158934,
+      "zip_sha256": "39f31144fe0645d5495aa7f3dc4cec11281855afc5a5f056436297e374393c02",
+      "model_files": [
+        {
+          "file": "models/TX306.glb",
+          "sha256": "35eef021857b7a46f8f626ebfe7ce15464a6623c3016bfbb6255b318a5d17e5a",
+          "bytes": 126936
+        },
+        {
+          "file": "models/TX306.blend",
+          "sha256": "fd6cf340cddc166ed267ddf045f7f6cc1b8e4bb86919d4e7785ddcc6fae75f32",
+          "bytes": 504574
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX306_CC0.zip"
+    },
+    {
+      "asset_id": "TX307",
+      "batch": 3,
+      "name": "river width transition",
+      "zip_file": "TX307_CC0.zip",
+      "zip_bytes": 216989,
+      "zip_sha256": "092d6ed364111d47508a5a65c469bd5a3c9409c22b77cb86bccfae0e5d59585a",
+      "model_files": [
+        {
+          "file": "models/TX307.glb",
+          "sha256": "9658227c0564ed50050d94fb92ca9ae358435384abf4cc609d36a1a3fee8c825",
+          "bytes": 233792
+        },
+        {
+          "file": "models/TX307.blend",
+          "sha256": "a4a3230fda5ac9658d5f2d58a5adab876d74b6ef3294fd2e2905221a94b174c4",
+          "bytes": 653380
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX307_CC0.zip"
+    },
+    {
+      "asset_id": "TX308",
+      "batch": 3,
+      "name": "river narrow bend",
+      "zip_file": "TX308_CC0.zip",
+      "zip_bytes": 192276,
+      "zip_sha256": "7f82dd220ad2a31c73d2e4718780c0b204293beb31d3c2b5720914318ca42537",
+      "model_files": [
+        {
+          "file": "models/TX308.glb",
+          "sha256": "e91990b20f55613f3d35e9ccefc2ccea4a234b040f69d7f0412030ab8b4c582b",
+          "bytes": 192188
+        },
+        {
+          "file": "models/TX308.blend",
+          "sha256": "ad584d26c267be0bf66d77bbb9c189a1b86942012ad2a760cec83abb9df9696f",
+          "bytes": 601668
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX308_CC0.zip"
+    },
+    {
+      "asset_id": "TX309",
+      "batch": 3,
+      "name": "overhang full corner",
+      "zip_file": "TX309_CC0.zip",
+      "zip_bytes": 157507,
+      "zip_sha256": "2a855ebf1bd4f2697b9b90a65f383e6cc6e479e8d2fc468b2e1b3f9b5a8355dc",
+      "model_files": [
+        {
+          "file": "models/TX309.glb",
+          "sha256": "56a15729c8ec7c3185e500ab32fae2c45139ec94c2205ca760234cc3094bc04c",
+          "bytes": 124948
+        },
+        {
+          "file": "models/TX309.blend",
+          "sha256": "d2ce1950d02082d688bbf9e5ae91fb6713557474c3ac59b8def4ebfd1a99d0a3",
+          "bytes": 515691
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX309_CC0.zip"
+    },
+    {
+      "asset_id": "TX310",
+      "batch": 3,
+      "name": "river narrow end",
+      "zip_file": "TX310_CC0.zip",
+      "zip_bytes": 177768,
+      "zip_sha256": "1f9ed5e27117d1c8edcfa0b4e5403738687146af46a675b06466392721f2ec72",
+      "model_files": [
+        {
+          "file": "models/TX310.glb",
+          "sha256": "9cb3063d6beae99ed6cc3a207bc2a7616651887b7b06f4bac7903880ed165646",
+          "bytes": 166588
+        },
+        {
+          "file": "models/TX310.blend",
+          "sha256": "943e14034e64aa1cacbaf6ede6ba28468d3cc0723c2af2434071a10029ce2620",
+          "bytes": 565951
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX310_CC0.zip"
+    },
+    {
+      "asset_id": "TW401",
+      "batch": 4,
+      "name": "waterfall channel",
+      "zip_file": "TW401_CC0.zip",
+      "zip_bytes": 157638,
+      "zip_sha256": "e8a4dbc33b7556b5b265168c4ec5a8f48d528f8b9583b8d1acab9e4bf8364745",
+      "model_files": [
+        {
+          "file": "models/TW401.glb",
+          "sha256": "7eaa7c22730bf8843157f3ef512d8d7960b0014a7c81b42cb6e520f046b5ed64",
+          "bytes": 114300
+        },
+        {
+          "file": "models/TW401.blend",
+          "sha256": "fde8f69b03ba5a172016aeecf22fcf7c93b6d1ced6f3a82903669a428e4f6f56",
+          "bytes": 508000
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW401_CC0.zip"
+    },
+    {
+      "asset_id": "TW402",
+      "batch": 4,
+      "name": "cascade channel",
+      "zip_file": "TW402_CC0.zip",
+      "zip_bytes": 162526,
+      "zip_sha256": "809283306641f8951bfd5fe7c66d12b9ffff8854fd5e731b97850d26ad311b8b",
+      "model_files": [
+        {
+          "file": "models/TW402.glb",
+          "sha256": "4b0a8f134c4251ae894f4aa9b1d6fb13a591b411a89f4dc9a0b7f2b66ccac4ef",
+          "bytes": 127140
+        },
+        {
+          "file": "models/TW402.blend",
+          "sha256": "8ac3d10c226d7606aca990dd93442eb080c2019be8bb15c9e01d4e960046f9e0",
+          "bytes": 519280
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW402_CC0.zip"
+    },
+    {
+      "asset_id": "TW403",
+      "batch": 4,
+      "name": "upper straight",
+      "zip_file": "TW403_CC0.zip",
+      "zip_bytes": 231465,
+      "zip_sha256": "4aa2a565cf4aa667f34373ffc61aec3f36fe5b3e8b6ef34a08d3ad60e106ace2",
+      "model_files": [
+        {
+          "file": "models/TW403.glb",
+          "sha256": "002100c893e30429965570024701b2f192fbfdc24cbb9a15212fcc30ed7a4f61",
+          "bytes": 265620
+        },
+        {
+          "file": "models/TW403.blend",
+          "sha256": "ab2d5815e6830ad404980bbfe9c665247e2c7bfd2247a17c72b8c2579c1b234b",
+          "bytes": 690354
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW403_CC0.zip"
+    },
+    {
+      "asset_id": "TW404",
+      "batch": 4,
+      "name": "upper bend",
+      "zip_file": "TW404_CC0.zip",
+      "zip_bytes": 230222,
+      "zip_sha256": "4b446e946cfea5ddf2e0c9c880298083e15a1e5d7182e352599152ac8d42587e",
+      "model_files": [
+        {
+          "file": "models/TW404.glb",
+          "sha256": "862d9982807dc70c2de5d39ef4e6e63fbc6b26215fb4a9923dd5e44df5cbd6e4",
+          "bytes": 262468
+        },
+        {
+          "file": "models/TW404.blend",
+          "sha256": "5a64583400e12a3415d4ae3f97d1501cd29be21486a7bf4703205ba29a115515",
+          "bytes": 684632
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW404_CC0.zip"
+    },
+    {
+      "asset_id": "TW405",
+      "batch": 4,
+      "name": "upper T",
+      "zip_file": "TW405_CC0.zip",
+      "zip_bytes": 247156,
+      "zip_sha256": "f6865362b86cb539c8d13f344bd1d71fa3f096553ec8dd54663e8396c6c605b0",
+      "model_files": [
+        {
+          "file": "models/TW405.glb",
+          "sha256": "57f3f59583cb1af60467edd91e835b422e061d577bb7f6a53623e3369f861b84",
+          "bytes": 294132
+        },
+        {
+          "file": "models/TW405.blend",
+          "sha256": "210eb862ca4745de9808cd9691404a1a50216f49f5a6140b89e7c31f02e2520a",
+          "bytes": 727098
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW405_CC0.zip"
+    },
+    {
+      "asset_id": "TW406",
+      "batch": 4,
+      "name": "upper end",
+      "zip_file": "TW406_CC0.zip",
+      "zip_bytes": 214215,
+      "zip_sha256": "d8424bf17e3b8515fd98777f2b345403c91ff02932d99d3675177bd1fb1f3380",
+      "model_files": [
+        {
+          "file": "models/TW406.glb",
+          "sha256": "324f510d7db4ca0afe05629b5a982ff3aff0ed931fc9858936370789b7d994cb",
+          "bytes": 229240
+        },
+        {
+          "file": "models/TW406.blend",
+          "sha256": "023344fcf95cf7f3ee6b42ef14335faea2ca93cf4cbcbebe96d5dec52a65698b",
+          "bytes": 641271
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW406_CC0.zip"
+    },
+    {
+      "asset_id": "TW407",
+      "batch": 4,
+      "name": "upper cross",
+      "zip_file": "TW407_CC0.zip",
+      "zip_bytes": 259551,
+      "zip_sha256": "9f38c9688bb4e3e1f6519703f3262f15a15c3e04f645dd2a481b432d6c6302f7",
+      "model_files": [
+        {
+          "file": "models/TW407.glb",
+          "sha256": "5c311cc9697c90a82f9458c5a6b0f345fd54705fac149f6dc77edb0a4539c411",
+          "bytes": 325444
+        },
+        {
+          "file": "models/TW407.blend",
+          "sha256": "dafc246954c9c7d02bf33b55df03f3ecaf95af5172fb2470b80cd72db283bfb7",
+          "bytes": 763842
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW407_CC0.zip"
+    },
+    {
+      "asset_id": "TW408",
+      "batch": 4,
+      "name": "upper lake",
+      "zip_file": "TW408_CC0.zip",
+      "zip_bytes": 267088,
+      "zip_sha256": "02deb1b7f3e7e970b2777e7ce8b178a69615c312157c38d0edf1ed72eaebaead",
+      "model_files": [
+        {
+          "file": "models/TW408.glb",
+          "sha256": "84859cbe1a747edc631e4ad2373e90702b46d84f880b55efa6bdd2f4efb7e46f",
+          "bytes": 356072
+        },
+        {
+          "file": "models/TW408.blend",
+          "sha256": "306111eb8e08c6cbeecde730734b6a1755649fe33c2a2d69ba647c9faac9c104",
+          "bytes": 807330
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW408_CC0.zip"
+    },
+    {
+      "asset_id": "TW409",
+      "batch": 4,
+      "name": "upper lake outlet",
+      "zip_file": "TW409_CC0.zip",
+      "zip_bytes": 258134,
+      "zip_sha256": "a62f1dbeee1e0931e524d021b2f1c7d752fb005fbdb4e0f01f6ecf5d7bb24779",
+      "model_files": [
+        {
+          "file": "models/TW409.glb",
+          "sha256": "4f1b1fb0c575a760668a1840b14e2e733dc5809f7d7ea860ec2b09846b863b5b",
+          "bytes": 331752
+        },
+        {
+          "file": "models/TW409.blend",
+          "sha256": "f94ce2fd4a369e8a54811e5955de3f1f71f339f1f61e4726ffd8205afcc8f1d7",
+          "bytes": 768362
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW409_CC0.zip"
+    },
+    {
+      "asset_id": "TW410",
+      "batch": 4,
+      "name": "waterfall lake",
+      "zip_file": "TW410_CC0.zip",
+      "zip_bytes": 152673,
+      "zip_sha256": "64cfa663392a8c19f6028b4ad4696785a92719411ffdcc2fdb5c584032fe81b9",
+      "model_files": [
+        {
+          "file": "models/TW410.glb",
+          "sha256": "8874b560566e4e38c5504813d908099a05b2b002be3f7c1523cfe58196d3f6c1",
+          "bytes": 102744
+        },
+        {
+          "file": "models/TW410.blend",
+          "sha256": "ac71570f9ec16322382fd60d92952863a31c02fd4c590f9a4e0a2574d1e3ecbe",
+          "bytes": 500816
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW410_CC0.zip"
+    },
+    {
+      "asset_id": "TY501",
+      "batch": 5,
+      "name": "pit steps",
+      "zip_file": "TY501_CC0.zip",
+      "zip_bytes": 179004,
+      "zip_sha256": "f73e92e004398fa93a6d524650080d2c65be04ee020094c0e53431e23265d927",
+      "model_files": [
+        {
+          "file": "models/TY501.glb",
+          "sha256": "9515ea27a3befb2967091cdefe484cb73a17735720a102aa94eb940037a47405",
+          "bytes": 180440
+        },
+        {
+          "file": "models/TY501.blend",
+          "sha256": "1afd1f67d081e14d8497cfe14c39d0c50c614803407ecbe4b09d7c3a6f983340",
+          "bytes": 552052
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY501_CC0.zip"
+    },
+    {
+      "asset_id": "TY502",
+      "batch": 5,
+      "name": "pit basin NE",
+      "zip_file": "TY502_CC0.zip",
+      "zip_bytes": 163622,
+      "zip_sha256": "5a9528856513dbb0460b467f9e3a66f55822df19eb3d0cc6c37e108c8b8322f6",
+      "model_files": [
+        {
+          "file": "models/TY502.glb",
+          "sha256": "f0445dd2b90f948f2d5fe7e5e489bc5abd780592cef984f5cef33f070ddc5e7a",
+          "bytes": 150224
+        },
+        {
+          "file": "models/TY502.blend",
+          "sha256": "b96f4a2601fe1d291a9283e09f50a379cb6dc51f13eda85ce0321f0346311ad2",
+          "bytes": 522296
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY502_CC0.zip"
+    },
+    {
+      "asset_id": "TY503",
+      "batch": 5,
+      "name": "pit bridge",
+      "zip_file": "TY503_CC0.zip",
+      "zip_bytes": 168201,
+      "zip_sha256": "ab1b3763d1fc70536de72c8792b1a0f33e4db57a5f60332054dcfc2f66efb86e",
+      "model_files": [
+        {
+          "file": "models/TY503.glb",
+          "sha256": "0a424884a3bc3e4293b0b582cd55bc7233d9d98499899a3397544a69f937d7fe",
+          "bytes": 159464
+        },
+        {
+          "file": "models/TY503.blend",
+          "sha256": "386fd72265e57c3dd918555515b115dca9658fb76b8802fd262b789b95c0aaf0",
+          "bytes": 537715
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY503_CC0.zip"
+    },
+    {
+      "asset_id": "TY504",
+      "batch": 5,
+      "name": "pit island moat",
+      "zip_file": "TY504_CC0.zip",
+      "zip_bytes": 167793,
+      "zip_sha256": "4e55957336b68428169f61d5f433a19b9b8a62a47e033ba0eb32e63a2ceb65f5",
+      "model_files": [
+        {
+          "file": "models/TY504.glb",
+          "sha256": "eaf7dc75eeb30387b7c4caf03b58d35af6cfa42576afa1e864fedf00f6c6bde8",
+          "bytes": 158612
+        },
+        {
+          "file": "models/TY504.blend",
+          "sha256": "425f58c2e01786ff8d3770e0365cbbab3629d8bcf689669f6c08c44cffc1cff4",
+          "bytes": 533236
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY504_CC0.zip"
+    },
+    {
+      "asset_id": "TY505",
+      "batch": 5,
+      "name": "cliff double inner",
+      "zip_file": "TY505_CC0.zip",
+      "zip_bytes": 165545,
+      "zip_sha256": "2177ab9a8d05fb58fe1fa334e7139f5521b9368fead73e2d8567c153ee0df810",
+      "model_files": [
+        {
+          "file": "models/TY505.glb",
+          "sha256": "fddfde38ce7cd20daed949c38421e59016c4eec05e2c6d0912ee38a12e6eb0fa",
+          "bytes": 157852
+        },
+        {
+          "file": "models/TY505.blend",
+          "sha256": "be4fd813da65ad310c6171feb13b795336715c834eea6af1d071bc2518477978",
+          "bytes": 525996
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY505_CC0.zip"
+    },
+    {
+      "asset_id": "TY506",
+      "batch": 5,
+      "name": "cliff double nose",
+      "zip_file": "TY506_CC0.zip",
+      "zip_bytes": 167399,
+      "zip_sha256": "8be0fcda7c2069e1c85d59197539b0326e3d029d5fa0cb5bfa6bb4c3afef7ece",
+      "model_files": [
+        {
+          "file": "models/TY506.glb",
+          "sha256": "081c0d08cb54dd9634cd43948df9639e27f61c3726b27de1a8935ca0a812f0be",
+          "bytes": 162456
+        },
+        {
+          "file": "models/TY506.blend",
+          "sha256": "beb2515fded58bd5828c0754f566041642862e2e7c2da51b511da064aa81adcf",
+          "bytes": 530700
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY506_CC0.zip"
+    },
+    {
+      "asset_id": "TY507",
+      "batch": 5,
+      "name": "cave T",
+      "zip_file": "TY507_CC0.zip",
+      "zip_bytes": 163981,
+      "zip_sha256": "0dc67b6ee36d3fc411e341a2780947f64f96404fc588eb3ee1080e4e545af286",
+      "model_files": [
+        {
+          "file": "models/TY507.glb",
+          "sha256": "20253a0999b7466847fe472c71f8ed6576aee2ccc45a34b73468b51d41f6bed0",
+          "bytes": 148252
+        },
+        {
+          "file": "models/TY507.blend",
+          "sha256": "714c5a57ab1e0adb6f01657c957e758ffb9ba87eaae5c6949384f3128c364804",
+          "bytes": 543056
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY507_CC0.zip"
+    },
+    {
+      "asset_id": "TY508",
+      "batch": 5,
+      "name": "cave cross",
+      "zip_file": "TY508_CC0.zip",
+      "zip_bytes": 164290,
+      "zip_sha256": "49247ea7d5eda4b50fa4440ee98f0e7d145873014d7a7821b93fd7cc0cf4223f",
+      "model_files": [
+        {
+          "file": "models/TY508.glb",
+          "sha256": "93d0985ca23c102a3fc96f7a00f8bcc7413aa09ae2de8a82f1aaa15c58e3be0f",
+          "bytes": 149152
+        },
+        {
+          "file": "models/TY508.blend",
+          "sha256": "5c2cba72c9822cc16e6500ef31fa67dd601918f49f87b22dfb9a4641354f5bc9",
+          "bytes": 549167
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY508_CC0.zip"
+    },
+    {
+      "asset_id": "TY509",
+      "batch": 5,
+      "name": "cave portal",
+      "zip_file": "TY509_CC0.zip",
+      "zip_bytes": 163585,
+      "zip_sha256": "6168f897b1cad69dc681e3a6d3e518b5dd5db9e5870168e22350c235f3c4fb9c",
+      "model_files": [
+        {
+          "file": "models/TY509.glb",
+          "sha256": "ec4c6327effa67783a97d50737a7c5ff3e35e500f169450061b106ef5d6dc2e5",
+          "bytes": 148048
+        },
+        {
+          "file": "models/TY509.blend",
+          "sha256": "0315cf9f057ed4b8f8aa8e4d1c70ae71e35dffabded4150a4ae6252cdc17bff8",
+          "bytes": 536945
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY509_CC0.zip"
+    },
+    {
+      "asset_id": "TZ601",
+      "batch": 6,
+      "name": "river culvert",
+      "zip_file": "TZ601_CC0.zip",
+      "zip_bytes": 230375,
+      "zip_sha256": "e84cfad457763d3639cf2fdca7cf470fb91fc8ec6003f58f2304db86593091d5",
+      "model_files": [
+        {
+          "file": "models/TZ601.glb",
+          "sha256": "0414bed09981191614a7909de9867d18374de381b4fe114f7d2ed9ab0f5bbf1a",
+          "bytes": 252112
+        },
+        {
+          "file": "models/TZ601.blend",
+          "sha256": "aa6e53ba230d028f47d5bcff865c37c0b69b96ab8316e6e40da0629dd06047fc",
+          "bytes": 705055
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ601_CC0.zip"
+    },
+    {
+      "asset_id": "TZ602",
+      "batch": 6,
+      "name": "river portal",
+      "zip_file": "TZ602_CC0.zip",
+      "zip_bytes": 230500,
+      "zip_sha256": "dafa2ff035d51ff044c39aecc96809776afef28d1af68535acda2a9633835552",
+      "model_files": [
+        {
+          "file": "models/TZ602.glb",
+          "sha256": "2b2579808574cd3b4361a98212e6d5d63558775a3470f08286a61bc4dfa2dd4a",
+          "bytes": 253220
+        },
+        {
+          "file": "models/TZ602.blend",
+          "sha256": "6cd7ac67810cd10e9a4bca6db6bd2b2dc676ad1c58706e52e003e3db6a0ea85a",
+          "bytes": 705055
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ602_CC0.zip"
+    },
+    {
+      "asset_id": "TU701",
+      "batch": 7,
+      "name": "wet bend",
+      "zip_file": "TU701_CC0.zip",
+      "zip_bytes": 233124,
+      "zip_sha256": "cec01eae19662d7a9f01424d77536b301c13b5b0f65af58ded50b12ad8ceb338",
+      "model_files": [
+        {
+          "file": "models/TU701.glb",
+          "sha256": "1e9cd5062f37467e95978c6bdd35b5663341e9dccf863399786cc68bd2856485",
+          "bytes": 269360
+        },
+        {
+          "file": "models/TU701.blend",
+          "sha256": "a4e53997cbde38ecf04cf3a33f6d60acb515348f88fa14afe57e076fb5396c35",
+          "bytes": 733009
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU701_CC0.zip"
+    },
+    {
+      "asset_id": "TU702",
+      "batch": 7,
+      "name": "wet T",
+      "zip_file": "TU702_CC0.zip",
+      "zip_bytes": 249846,
+      "zip_sha256": "faa778adbda3d8f6163582d39b41a88afc27ccf9e4db4060e0332f3b33e34dc4",
+      "model_files": [
+        {
+          "file": "models/TU702.glb",
+          "sha256": "c53b328a7a30d0aee26c029eaecd36a42fd5aad03571c1815b9ba87179308baf",
+          "bytes": 295792
+        },
+        {
+          "file": "models/TU702.blend",
+          "sha256": "d794f1de9c125f3b706ae440c97a79b3082546c9a1c34309e03a0758128ff7ba",
+          "bytes": 769372
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU702_CC0.zip"
+    },
+    {
+      "asset_id": "TU703",
+      "batch": 7,
+      "name": "wet cross",
+      "zip_file": "TU703_CC0.zip",
+      "zip_bytes": 260263,
+      "zip_sha256": "93a0086239e097824c6a2026f8c564bf2ee8fe9f092b0a930726d2f32ac8c96b",
+      "model_files": [
+        {
+          "file": "models/TU703.glb",
+          "sha256": "e43bc04d7164c0a2b2ac067851aa33ac2190b8af2638f860a2037e25a4401509",
+          "bytes": 322172
+        },
+        {
+          "file": "models/TU703.blend",
+          "sha256": "79ca7adc679d3b680d5ebfbbdc3813a1ef94e138703aec66dcf82c0bbceb2e5b",
+          "bytes": 800021
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU703_CC0.zip"
+    },
+    {
+      "asset_id": "TU704",
+      "batch": 7,
+      "name": "wet end",
+      "zip_file": "TU704_CC0.zip",
+      "zip_bytes": 217167,
+      "zip_sha256": "6509a41fdbcaf25661173954c343cdd9797ec7808e5cd2d44fdfdea953049143",
+      "model_files": [
+        {
+          "file": "models/TU704.glb",
+          "sha256": "af14df2a53a6fa4434023768a4b82d0c0248648f96d6d1963ffd9782efb3ad7e",
+          "bytes": 239860
+        },
+        {
+          "file": "models/TU704.blend",
+          "sha256": "ea508d34edf09fd7a307f873ec7c258f00dbbcf8440dde9dd6180a6ab417bcdd",
+          "bytes": 695735
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU704_CC0.zip"
+    },
+    {
+      "asset_id": "TU705",
+      "batch": 7,
+      "name": "walk portal",
+      "zip_file": "TU705_CC0.zip",
+      "zip_bytes": 236326,
+      "zip_sha256": "aabd7b1f6206dd1cad44642fb6288f4c844dd64d8a09cd9e7b244abf6186b1e1",
+      "model_files": [
+        {
+          "file": "models/TU705.glb",
+          "sha256": "e26edc4ea9c89d1c0bd182d842a774d9754d9fac8220df056aced93486654328",
+          "bytes": 265860
+        },
+        {
+          "file": "models/TU705.blend",
+          "sha256": "7ca394ea6c1ea766f3c84ad7d0a95ab3dd8cdd1002e4a0b0883417518894c61c",
+          "bytes": 714279
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU705_CC0.zip"
+    },
+    {
+      "asset_id": "TU706",
+      "batch": 7,
+      "name": "walk culvert",
+      "zip_file": "TU706_CC0.zip",
+      "zip_bytes": 195960,
+      "zip_sha256": "6ff3ee050f4ba17d0715b423ddf8a8f638160cd9091e591cd0a8893ae16fc0f9",
+      "model_files": [
+        {
+          "file": "models/TU706.glb",
+          "sha256": "1b1e2884fe015f42d771ceda012bb6ce8e7cfb44eb1748b6566a27d5a22c8c11",
+          "bytes": 202144
+        },
+        {
+          "file": "models/TU706.blend",
+          "sha256": "c56f7ddfea796e6c90109c24ad865b9218c895b46081d482c0a5d48400a16b90",
+          "bytes": 645603
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU706_CC0.zip"
+    },
+    {
+      "asset_id": "UA801",
+      "batch": 8,
+      "name": "three level corner",
+      "zip_file": "UA801_CC0.zip",
+      "zip_bytes": 156195,
+      "zip_sha256": "4dc9370644ccd549be4731fbe83a8e76d14ff6e3eb53203c5c0db16cf4d77bb6",
+      "model_files": [
+        {
+          "file": "models/UA801.glb",
+          "sha256": "ebc95d6cb3fd2e3f367358de9da5859b39f662aa9be913b4201dd7f6353ced02",
+          "bytes": 115060
+        },
+        {
+          "file": "models/UA801.blend",
+          "sha256": "93d5ab6de25e5550f2c11ff12e86a68ca2deafe0c9901e6b6d358502c27ad994",
+          "bytes": 499922
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA801_CC0.zip"
+    },
+    {
+      "asset_id": "UA802",
+      "batch": 8,
+      "name": "diagonal supported adapter",
+      "zip_file": "UA802_CC0.zip",
+      "zip_bytes": 210438,
+      "zip_sha256": "13512b2530c662995cd6050b51f311d8155293d8e4cbc5d7802fe111088a1e3d",
+      "model_files": [
+        {
+          "file": "models/UA802.glb",
+          "sha256": "38da01c748d631cbbae2d3fe90b380d414133f635a17638a58b89365150432b9",
+          "bytes": 269600
+        },
+        {
+          "file": "models/UA802.blend",
+          "sha256": "920da3a3a18d4c4ee9d84fd35e44046ac45f99966198a18854b5da6be503828c",
+          "bytes": 511512
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA802_CC0.zip"
+    },
+    {
+      "asset_id": "UA803",
+      "batch": 8,
+      "name": "switchback stair",
+      "zip_file": "UA803_CC0.zip",
+      "zip_bytes": 161882,
+      "zip_sha256": "8e86f6b791b7ecb2edcabe43c177e42e4fa1cc9725a0f2b96031d845b278a967",
+      "model_files": [
+        {
+          "file": "models/UA803.glb",
+          "sha256": "15ec88522fd636eb6676f666fa11d6e954d3be8d5b2924fb23d3e1ba83c0f1f7",
+          "bytes": 123536
+        },
+        {
+          "file": "models/UA803.blend",
+          "sha256": "6a1bf4444bbe34dc713bb0126a9fd6c3fc7bf8a8bcbc76c983a08fa7db92867e",
+          "bytes": 511062
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA803_CC0.zip"
+    },
+    {
+      "asset_id": "UA804",
+      "batch": 8,
+      "name": "switchback approach",
+      "zip_file": "UA804_CC0.zip",
+      "zip_bytes": 160639,
+      "zip_sha256": "c8c06b297a7b0b40c9b8aafc4b25c391d2512c75fcd9cfdfbd61dd0e0b930ed3",
+      "model_files": [
+        {
+          "file": "models/UA804.glb",
+          "sha256": "05fcc187d0ca51bf7b4db09d1f5c303eefe1c9da0c7849483fb9f553e01612cc",
+          "bytes": 121752
+        },
+        {
+          "file": "models/UA804.blend",
+          "sha256": "361aa0dc26083991673f91ed0c3d59e9cb2024927f13ff11e077aa74144064a6",
+          "bytes": 506930
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA804_CC0.zip"
+    },
+    {
+      "asset_id": "UA805",
+      "batch": 8,
+      "name": "stacked crossing",
+      "zip_file": "UA805_CC0.zip",
+      "zip_bytes": 232685,
+      "zip_sha256": "ac62f6a170e3bb796fb9426d12616d36b2725e24096f255206b843492c641c01",
+      "model_files": [
+        {
+          "file": "models/UA805.glb",
+          "sha256": "068434e9c8e9a7ad739ab9acc27b0fa30c8b7d6223d9fc9062c63e00392d99f8",
+          "bytes": 262996
+        },
+        {
+          "file": "models/UA805.blend",
+          "sha256": "cf9ef348ac1c43aef595ed37cddedb04d12b6abdbb626849bb5c2c9212dad86c",
+          "bytes": 729732
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA805_CC0.zip"
+    },
+    {
+      "asset_id": "UA806",
+      "batch": 8,
+      "name": "upper cave portal",
+      "zip_file": "UA806_CC0.zip",
+      "zip_bytes": 155950,
+      "zip_sha256": "af65c399d439324353b3b5aeb369db52bfe42c229cafd2beadc2af7f86872809",
+      "model_files": [
+        {
+          "file": "models/UA806.glb",
+          "sha256": "18c561750ab0c1aceaaa03d31e0556315d578279a75c7505c37237bffc10fc92",
+          "bytes": 115844
+        },
+        {
+          "file": "models/UA806.blend",
+          "sha256": "c2b4a684dcf49bee0390a8858d06779c2172c56bda53b40683812ab42eb4bfb9",
+          "bytes": 512859
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA806_CC0.zip"
+    },
+    {
+      "asset_id": "UB901",
+      "batch": 9,
+      "name": "beach_shore_transition",
+      "zip_file": "UB901_CC0.zip",
+      "zip_bytes": 290795,
+      "zip_sha256": "beaf0b7beb7dc2860b7b979d8bdb88b85082def982e5e1ad69a2e8fb4f617d4e",
+      "model_files": [
+        {
+          "file": "models/UB901.glb",
+          "sha256": "8f03203c3254b6ebe528997ce85842aa95a1f05f90d3059c326324cbfa81769f",
+          "bytes": 418200
+        },
+        {
+          "file": "models/UB901.blend",
+          "sha256": "11ae7c21d4ecdab0216cbd85bd108b587a0279a371a5cb7542075cd1f270abaa",
+          "bytes": 720430
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB901_CC0.zip"
+    },
+    {
+      "asset_id": "UB902",
+      "batch": 9,
+      "name": "beach_cliff",
+      "zip_file": "UB902_CC0.zip",
+      "zip_bytes": 251045,
+      "zip_sha256": "975858264739eeaa045741e9825759eaffc87e44551410e0b03de99258ca2878",
+      "model_files": [
+        {
+          "file": "models/UB902.glb",
+          "sha256": "fe9c137ea9cf7acbfbd87ec1a4c22e5e10c475222063e4dbe2837b7e877c6383",
+          "bytes": 317036
+        },
+        {
+          "file": "models/UB902.blend",
+          "sha256": "996aaa5146345220ec6bd67ab1d1a921827a776a18e44a47e205ef785600a755",
+          "bytes": 744670
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB902_CC0.zip"
+    },
+    {
+      "asset_id": "UB903",
+      "batch": 9,
+      "name": "beach_cliff_end",
+      "zip_file": "UB903_CC0.zip",
+      "zip_bytes": 251770,
+      "zip_sha256": "850827881830e0a034c1d66bfd3181b8be06368cbb2864da14a32845e92091f3",
+      "model_files": [
+        {
+          "file": "models/UB903.glb",
+          "sha256": "f23a2888befdc282cb879ef82f8bd9508e3b1064a997badfbdc171b261b0d6b4",
+          "bytes": 317500
+        },
+        {
+          "file": "models/UB903.blend",
+          "sha256": "f58b3c5019ea03e0c399d0d3f5b125ea92b1b08de720c12523293b319bdd690e",
+          "bytes": 745190
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB903_CC0.zip"
+    },
+    {
+      "asset_id": "UB904",
+      "batch": 9,
+      "name": "twin_sandbar",
+      "zip_file": "UB904_CC0.zip",
+      "zip_bytes": 272621,
+      "zip_sha256": "e294dc1b78d47b9c61701abd9663317b36e019a32a1f5e9f780931bc5c9f1995",
+      "model_files": [
+        {
+          "file": "models/UB904.glb",
+          "sha256": "fdfdc087112f58dd05e068ae11a0476472379c4b914337a49197b527f2118d36",
+          "bytes": 385752
+        },
+        {
+          "file": "models/UB904.blend",
+          "sha256": "1d25eb4bc1315f1bf8fb8252ef56e72dc584f062830f4c8c71f84abfd13e7b4c",
+          "bytes": 799570
+        }
+      ],
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB904_CC0.zip"
+    }
+  ]
+}

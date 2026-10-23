@@ -1,5 +1,11 @@
 # Tales on a Table — 519条3D素材记录
 
+新增91条地形记录直接通过仓库内 distributions/terrain-connectivity-91/zips/ 分发；原有779条记录保留GitHub Releases链接。下方旧版Release下载说明适用于原有记录。
+
+## 模块化地形 — 91条分发记录
+
+[目录与下载](catalog/terrain_connectivity_v1.md)。已有779＋新增91＝870条分发记录，不代表已核实的独立设计总数。
+
 [日本語](README.md) · [English](README.en.md)
 
 ## 2m地形タイル v2

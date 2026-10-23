@@ -3,3 +3,6 @@
 *.blend1
 *.glb
 .DS_Store
+
+# Approved model-only terrain distribution packages
+!/distributions/terrain-connectivity-91/zips/*_CC0.zip

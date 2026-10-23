@@ -1,5 +1,11 @@
 # Tales on a Table — 519 3D asset records
 
+The new 91 terrain records are distributed directly from distributions/terrain-connectivity-91/zips/ in this repository. The existing 779 records keep their GitHub Releases links. Legacy Release-download instructions below apply to those earlier records.
+
+## Modular terrain — 91 distribution records
+
+[Catalogue and downloads](catalog/terrain_connectivity_v1.md). 779 existing + 91 new = 870 distribution records, not a verified global count of independent designs.
+
 [日本語](README.md) · [简体中文](README.zh-CN.md)
 
 ## 2m地形タイル v2

@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 779,
+  "item_count": 870,
   "count_by_kind": {
     "model": 734,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 5,
     "connection_configuration": 3,
-    "placement_variant": 6
+    "placement_variant": 6,
+    "terrain_distribution_record": 91
   },
   "count_by_collection": {
     "tavern": 56,
@@ -31,9 +32,10 @@
     "inn": 24,
     "octagonal_conservatory": 12,
     "painter_atelier": 24,
-    "terrain_v2": 70
+    "terrain_v2": 70,
+    "terrain_connectivity": 91
   },
-  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record.",
+  "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
     {
       "asset_id": "FT_001",
@@ -24425,6 +24427,2190 @@
           "sha256": "4c9e7eec12513e59abc4d73bba8c28acae17baced7ea5b8160a5d56fba4c650c"
         }
       ]
+    },
+    {
+      "asset_id": "TG001",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 214238,
+      "zip_sha256": "210d1045e1779b4b346af0d0133c26f39ba3b9159b1b0ec7aefe2d1eec579bff",
+      "names": {
+        "ja": "ramp half",
+        "en": "ramp half",
+        "zh-CN": "ramp half"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG001_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG001_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG002",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 212917,
+      "zip_sha256": "23d95d03f19214c5ace134bcca9a3df1c305230fa2c69b7ff4e266127266f99d",
+      "names": {
+        "ja": "ramp full",
+        "en": "ramp full",
+        "zh-CN": "ramp full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG002_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG002_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG003",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 219117,
+      "zip_sha256": "59aff36d0a8384776c7f7781ad682c888e50601eec76991797ce2779d7092c7f",
+      "names": {
+        "ja": "ramp inner",
+        "en": "ramp inner",
+        "zh-CN": "ramp inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG003_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG003_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG004",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 220235,
+      "zip_sha256": "e62703d66cb8273b17cf81b7014490d7ef31c6d2633e14bd421c69ad702de7c2",
+      "names": {
+        "ja": "ramp outer",
+        "en": "ramp outer",
+        "zh-CN": "ramp outer"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG004_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG004_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG005",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 92695,
+      "zip_sha256": "327d0479b68f53de8a97f91b96179f13579ed7b56e76128ba766bd7d09b62e91",
+      "names": {
+        "ja": "stairs half",
+        "en": "stairs half",
+        "zh-CN": "stairs half"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG005_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG005_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG006",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 112381,
+      "zip_sha256": "046cfc8a05e492142cb7f21b7726492054c1e76c7c54a57f645cd882d3dafa98",
+      "names": {
+        "ja": "stairs full",
+        "en": "stairs full",
+        "zh-CN": "stairs full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG006_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG006_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG007",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 153811,
+      "zip_sha256": "af6ec1c4082da7ecd01a6235c6dce21f12fc4030a4ef8bbe1848184aed4bbe0c",
+      "names": {
+        "ja": "cliff straight",
+        "en": "cliff straight",
+        "zh-CN": "cliff straight"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG007_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG007_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG008",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 153941,
+      "zip_sha256": "e580024024b3f8534b4d2c0ca8cf5b6a40d8568d35867591de6e13076391da52",
+      "names": {
+        "ja": "cliff outer",
+        "en": "cliff outer",
+        "zh-CN": "cliff outer"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG008_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG008_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG009",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 153772,
+      "zip_sha256": "91db2a574dad4876abd720af283ea62fbc4b5d887be1b3a807a275e22071f977",
+      "names": {
+        "ja": "cliff inner",
+        "en": "cliff inner",
+        "zh-CN": "cliff inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG009_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG009_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG010",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 154534,
+      "zip_sha256": "391e48845a34af7a190a409f807707e9cfdc3f7f7c57eaee5a363303a482c0c6",
+      "names": {
+        "ja": "cliff nose",
+        "en": "cliff nose",
+        "zh-CN": "cliff nose"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG010_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG010_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG011",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 153775,
+      "zip_sha256": "c2861dabb64131c5d0626669c52b4a0e716aa9891ed7c82beaec2ed0e74cd514",
+      "names": {
+        "ja": "overhang straight",
+        "en": "overhang straight",
+        "zh-CN": "overhang straight"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG011_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG011_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG012",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 154303,
+      "zip_sha256": "4ff861e275a7674e5a114d996b33d09298741d8bb343a615f652714ba49693a1",
+      "names": {
+        "ja": "overhang end",
+        "en": "overhang end",
+        "zh-CN": "overhang end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG012_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG012_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG013",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 155002,
+      "zip_sha256": "4cd7ccd752b083c4b3efbfca7eba97e5731ccbd136166a83cd6d1b78380e4c03",
+      "names": {
+        "ja": "overhang corner",
+        "en": "overhang corner",
+        "zh-CN": "overhang corner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG013_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG013_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG014",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 204822,
+      "zip_sha256": "f89f434501323779dfb2cf1833dac5067ddb6ecb8c346bc75af1048ff51a77ae",
+      "names": {
+        "ja": "pit floor",
+        "en": "pit floor",
+        "zh-CN": "pit floor"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG014_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG014_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG015",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 214014,
+      "zip_sha256": "7edf11f12bdb41ea919af676dc3a45b62fe142a8fc3443ea8bd3bbfee1d99d60",
+      "names": {
+        "ja": "pit rim",
+        "en": "pit rim",
+        "zh-CN": "pit rim"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG015_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG015_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG016",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 219328,
+      "zip_sha256": "d717cb545fccadd6f12a4c280bf44a697b4f2509cf192a40b30f5c1481331a19",
+      "names": {
+        "ja": "pit outer",
+        "en": "pit outer",
+        "zh-CN": "pit outer"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG016_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG016_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG017",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 219836,
+      "zip_sha256": "5cf1a3840eed5d6e8c22a6e8b0cefd46c4311d49b8c459b5336efd72c68bf374",
+      "names": {
+        "ja": "pit inner",
+        "en": "pit inner",
+        "zh-CN": "pit inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG017_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG017_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG018",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 213603,
+      "zip_sha256": "0b89c4426d09472aaa9b2a593e40da60988308ad03853cf9c391ed0c11a8776e",
+      "names": {
+        "ja": "pit closed",
+        "en": "pit closed",
+        "zh-CN": "pit closed"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG018_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG018_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG019",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 262135,
+      "zip_sha256": "77da683de0865addba4029152f9286be9d7eb9ed2c15af1e5ad2bd5ad1e86c6a",
+      "names": {
+        "ja": "water full",
+        "en": "water full",
+        "zh-CN": "water full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG019_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG019_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG020",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 228856,
+      "zip_sha256": "519a1a2d1853cff853607fa5ab50df4fa854dbb67d270d1235a1a65565ec35c4",
+      "names": {
+        "ja": "shore",
+        "en": "shore",
+        "zh-CN": "shore"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG020_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG020_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG021",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 256714,
+      "zip_sha256": "95a7632e5456b8b37ba81bd3c6e1e93c05494392b41334801888211840e26292",
+      "names": {
+        "ja": "shore outer",
+        "en": "shore outer",
+        "zh-CN": "shore outer"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG021_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG021_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG022",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 201281,
+      "zip_sha256": "0bf66a45f2712e74849faa24b5179b5c5018b57e92fcb0111f2e7c9cfdd99495",
+      "names": {
+        "ja": "shore inner",
+        "en": "shore inner",
+        "zh-CN": "shore inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG022_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG022_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG023",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 261954,
+      "zip_sha256": "d7ee6896283dfab22cc54e358e920595b647c5102ecee56734fd2c254a6bdd64",
+      "names": {
+        "ja": "estuary",
+        "en": "estuary",
+        "zh-CN": "estuary"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG023_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG023_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG024",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 253382,
+      "zip_sha256": "105033acb2846984665ed78ba209fc0bd22b15e64ceb9fd98759658d687551d9",
+      "names": {
+        "ja": "beach",
+        "en": "beach",
+        "zh-CN": "beach"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG024_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG024_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG025",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 269616,
+      "zip_sha256": "c11e595b67b3ed5404c8b6328a7ae82e792efef1ba3e5dfee87e41316f1dd1af",
+      "names": {
+        "ja": "beach outer",
+        "en": "beach outer",
+        "zh-CN": "beach outer"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG025_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG025_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG026",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 241512,
+      "zip_sha256": "09aa1771891d5d1ab4f7d895ccbc45a6d0f808a29e006f630d6a3c1e7c7b86a2",
+      "names": {
+        "ja": "beach inner",
+        "en": "beach inner",
+        "zh-CN": "beach inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG026_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG026_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG027",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 304918,
+      "zip_sha256": "6b3d347eb67d8597514965d2d5fc4ddc190e1681fad48e56ac31e98ffaafbaab",
+      "names": {
+        "ja": "tide pool",
+        "en": "tide pool",
+        "zh-CN": "tide pool"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG027_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG027_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG028",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 154386,
+      "zip_sha256": "5962b8082f3f2fa7ae9200b78ebf1292fa669bc421f019668d9cee87773acde4",
+      "names": {
+        "ja": "arch",
+        "en": "arch",
+        "zh-CN": "arch"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG028_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG028_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG029",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 205706,
+      "zip_sha256": "a22f35398a132b9401cc0c11d6cdc7b3eac9192fbd089b907d956cbe92a0c9b1",
+      "names": {
+        "ja": "plateau half",
+        "en": "plateau half",
+        "zh-CN": "plateau half"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG029_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG029_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG030",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 204695,
+      "zip_sha256": "54b177ed3083d1e89f892dc8f5bfac07a90728754bf859a8154952f11cab0ca4",
+      "names": {
+        "ja": "plateau full",
+        "en": "plateau full",
+        "zh-CN": "plateau full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG030_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG030_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG031",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 153700,
+      "zip_sha256": "55fc0305cdc43dbe03919fb40994b3971e63a5dbf9d17e807a97aeb983ab02f5",
+      "names": {
+        "ja": "cliff half to full",
+        "en": "cliff half to full",
+        "zh-CN": "cliff half to full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG031_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG031_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG032",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 155848,
+      "zip_sha256": "95ca8327f0dfb623bbbf401230228ae37f18dbdcedb43f346d24a4188492dd47",
+      "names": {
+        "ja": "ravine",
+        "en": "ravine",
+        "zh-CN": "ravine"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG032_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG032_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG033",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 154002,
+      "zip_sha256": "2b50d3dea8fadd20ed8995e0c3f7fb9b57ceb0793ca9a8f084be650d3776e695",
+      "names": {
+        "ja": "ravine bend",
+        "en": "ravine bend",
+        "zh-CN": "ravine bend"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG033_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG033_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TG034",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 154758,
+      "zip_sha256": "b4651305745084bfb3f8ce55611398b7e650366b1119e238996f09c2c57f56e1",
+      "names": {
+        "ja": "ravine T",
+        "en": "ravine T",
+        "zh-CN": "ravine T"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TG034_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG034_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 1
+    },
+    {
+      "asset_id": "TV201",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 160850,
+      "zip_sha256": "1e696ef50a6b85d306a88ef63236120f404bec2ceb109b1a38de2d4451f4929f",
+      "names": {
+        "ja": "ravine end",
+        "en": "ravine end",
+        "zh-CN": "ravine end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV201_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV201_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV202",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161328,
+      "zip_sha256": "b4873a40ca0c8f59c093fbf779c5a961ff6c7b2a9a0421202a33a7391882c15f",
+      "names": {
+        "ja": "ravine cross",
+        "en": "ravine cross",
+        "zh-CN": "ravine cross"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV202_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV202_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV203",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 169651,
+      "zip_sha256": "79995fc77df54af03efacdaf21214a5c629da097e57fab72ddab78adc72feff1",
+      "names": {
+        "ja": "ravine ramp entry",
+        "en": "ravine ramp entry",
+        "zh-CN": "ravine ramp entry"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV203_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV203_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV204",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 165060,
+      "zip_sha256": "52b5b52b2b4014a080ff443905d24d64cbbd6feb12f1be5adde122e079f8d0ce",
+      "names": {
+        "ja": "ravine stair entry",
+        "en": "ravine stair entry",
+        "zh-CN": "ravine stair entry"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV204_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV204_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV205",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161079,
+      "zip_sha256": "0b539d35162bfdc2c97d0660d5e610fbe6cd55d99c9cdeca62243b28bb6b36b1",
+      "names": {
+        "ja": "cliff double bench",
+        "en": "cliff double bench",
+        "zh-CN": "cliff double bench"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV205_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV205_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV206",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 170032,
+      "zip_sha256": "e54172ae218cc9bb301725308f54468860152aae3a49d7dfde6fffa2fcb126aa",
+      "names": {
+        "ja": "cliff access slot",
+        "en": "cliff access slot",
+        "zh-CN": "cliff access slot"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV206_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV206_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV207",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161197,
+      "zip_sha256": "2c5979aa7a81458ed0fc3ccba8951e3bd1f01d2cb32c48b86d6a5053ae1e378e",
+      "names": {
+        "ja": "overhang closed",
+        "en": "overhang closed",
+        "zh-CN": "overhang closed"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV207_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV207_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV208",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 245920,
+      "zip_sha256": "a9ebe1507d39483fd01ed418182a0cebc2cab41bf986795cbab0d0cfce8140f5",
+      "names": {
+        "ja": "water ravine sill",
+        "en": "water ravine sill",
+        "zh-CN": "water ravine sill"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV208_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV208_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV209",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 259055,
+      "zip_sha256": "482594c1e7298574d1d00cccfc2123b44cb9ea713e4b1dc538340cfe48781b45",
+      "names": {
+        "ja": "river Y",
+        "en": "river Y",
+        "zh-CN": "river Y"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV209_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV209_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TV210",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 160408,
+      "zip_sha256": "88cea54ebe59d33632570b2bcfe960781eab2eac4016b577d9d3557c53899311",
+      "names": {
+        "ja": "ravine widen",
+        "en": "ravine widen",
+        "zh-CN": "ravine widen"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TV210_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV210_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 2
+    },
+    {
+      "asset_id": "TX301",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161287,
+      "zip_sha256": "0b017e53cb47f51b8564e62409deb44868d466cccd8b9ddab6faa2b1f49a9a4e",
+      "names": {
+        "ja": "ramp late half",
+        "en": "ramp late half",
+        "zh-CN": "ramp late half"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX301_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX301_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX302",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161174,
+      "zip_sha256": "1d92bc7a76c19aa95b560b66157f46d4ec839fcca5b71a39e1f95774bd85dd84",
+      "names": {
+        "ja": "ramp early half",
+        "en": "ramp early half",
+        "zh-CN": "ramp early half"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX302_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX302_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX303",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 169848,
+      "zip_sha256": "28f58064fc48e2503e6f8019588b8f2eb895bc6f5d24f2f144ea5a863891d8ae",
+      "names": {
+        "ja": "ramp S full",
+        "en": "ramp S full",
+        "zh-CN": "ramp S full"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX303_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX303_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX304",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 235059,
+      "zip_sha256": "db95d8fecd14f1aecbbab0568ff85cea5a6d1c0bf35b8e73a5deab8a9f17ab4c",
+      "names": {
+        "ja": "ramp bilinear corner",
+        "en": "ramp bilinear corner",
+        "zh-CN": "ramp bilinear corner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX304_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX304_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX305",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 193317,
+      "zip_sha256": "b3f52967cd22dbef48d5b0176bb6eec057fae466dd623a98c3e7c01a1ca86655",
+      "names": {
+        "ja": "ramp diagonal",
+        "en": "ramp diagonal",
+        "zh-CN": "ramp diagonal"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX305_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX305_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX306",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 158934,
+      "zip_sha256": "39f31144fe0645d5495aa7f3dc4cec11281855afc5a5f056436297e374393c02",
+      "names": {
+        "ja": "cliff double corner",
+        "en": "cliff double corner",
+        "zh-CN": "cliff double corner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX306_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX306_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX307",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 216989,
+      "zip_sha256": "092d6ed364111d47508a5a65c469bd5a3c9409c22b77cb86bccfae0e5d59585a",
+      "names": {
+        "ja": "river width transition",
+        "en": "river width transition",
+        "zh-CN": "river width transition"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX307_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX307_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX308",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 192276,
+      "zip_sha256": "7f82dd220ad2a31c73d2e4718780c0b204293beb31d3c2b5720914318ca42537",
+      "names": {
+        "ja": "river narrow bend",
+        "en": "river narrow bend",
+        "zh-CN": "river narrow bend"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX308_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX308_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX309",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 157507,
+      "zip_sha256": "2a855ebf1bd4f2697b9b90a65f383e6cc6e479e8d2fc468b2e1b3f9b5a8355dc",
+      "names": {
+        "ja": "overhang full corner",
+        "en": "overhang full corner",
+        "zh-CN": "overhang full corner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX309_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX309_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TX310",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 177768,
+      "zip_sha256": "1f9ed5e27117d1c8edcfa0b4e5403738687146af46a675b06466392721f2ec72",
+      "names": {
+        "ja": "river narrow end",
+        "en": "river narrow end",
+        "zh-CN": "river narrow end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TX310_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX310_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 3
+    },
+    {
+      "asset_id": "TW401",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 157638,
+      "zip_sha256": "e8a4dbc33b7556b5b265168c4ec5a8f48d528f8b9583b8d1acab9e4bf8364745",
+      "names": {
+        "ja": "waterfall channel",
+        "en": "waterfall channel",
+        "zh-CN": "waterfall channel"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW401_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW401_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW402",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 162526,
+      "zip_sha256": "809283306641f8951bfd5fe7c66d12b9ffff8854fd5e731b97850d26ad311b8b",
+      "names": {
+        "ja": "cascade channel",
+        "en": "cascade channel",
+        "zh-CN": "cascade channel"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW402_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW402_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW403",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 231465,
+      "zip_sha256": "4aa2a565cf4aa667f34373ffc61aec3f36fe5b3e8b6ef34a08d3ad60e106ace2",
+      "names": {
+        "ja": "upper straight",
+        "en": "upper straight",
+        "zh-CN": "upper straight"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW403_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW403_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW404",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 230222,
+      "zip_sha256": "4b446e946cfea5ddf2e0c9c880298083e15a1e5d7182e352599152ac8d42587e",
+      "names": {
+        "ja": "upper bend",
+        "en": "upper bend",
+        "zh-CN": "upper bend"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW404_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW404_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW405",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 247156,
+      "zip_sha256": "f6865362b86cb539c8d13f344bd1d71fa3f096553ec8dd54663e8396c6c605b0",
+      "names": {
+        "ja": "upper T",
+        "en": "upper T",
+        "zh-CN": "upper T"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW405_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW405_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW406",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 214215,
+      "zip_sha256": "d8424bf17e3b8515fd98777f2b345403c91ff02932d99d3675177bd1fb1f3380",
+      "names": {
+        "ja": "upper end",
+        "en": "upper end",
+        "zh-CN": "upper end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW406_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW406_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW407",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 259551,
+      "zip_sha256": "9f38c9688bb4e3e1f6519703f3262f15a15c3e04f645dd2a481b432d6c6302f7",
+      "names": {
+        "ja": "upper cross",
+        "en": "upper cross",
+        "zh-CN": "upper cross"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW407_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW407_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW408",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 267088,
+      "zip_sha256": "02deb1b7f3e7e970b2777e7ce8b178a69615c312157c38d0edf1ed72eaebaead",
+      "names": {
+        "ja": "upper lake",
+        "en": "upper lake",
+        "zh-CN": "upper lake"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW408_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW408_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW409",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 258134,
+      "zip_sha256": "a62f1dbeee1e0931e524d021b2f1c7d752fb005fbdb4e0f01f6ecf5d7bb24779",
+      "names": {
+        "ja": "upper lake outlet",
+        "en": "upper lake outlet",
+        "zh-CN": "upper lake outlet"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW409_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW409_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TW410",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 152673,
+      "zip_sha256": "64cfa663392a8c19f6028b4ad4696785a92719411ffdcc2fdb5c584032fe81b9",
+      "names": {
+        "ja": "waterfall lake",
+        "en": "waterfall lake",
+        "zh-CN": "waterfall lake"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TW410_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW410_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 4
+    },
+    {
+      "asset_id": "TY501",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 179004,
+      "zip_sha256": "f73e92e004398fa93a6d524650080d2c65be04ee020094c0e53431e23265d927",
+      "names": {
+        "ja": "pit steps",
+        "en": "pit steps",
+        "zh-CN": "pit steps"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY501_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY501_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY502",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 163622,
+      "zip_sha256": "5a9528856513dbb0460b467f9e3a66f55822df19eb3d0cc6c37e108c8b8322f6",
+      "names": {
+        "ja": "pit basin NE",
+        "en": "pit basin NE",
+        "zh-CN": "pit basin NE"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY502_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY502_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY503",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 168201,
+      "zip_sha256": "ab1b3763d1fc70536de72c8792b1a0f33e4db57a5f60332054dcfc2f66efb86e",
+      "names": {
+        "ja": "pit bridge",
+        "en": "pit bridge",
+        "zh-CN": "pit bridge"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY503_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY503_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY504",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 167793,
+      "zip_sha256": "4e55957336b68428169f61d5f433a19b9b8a62a47e033ba0eb32e63a2ceb65f5",
+      "names": {
+        "ja": "pit island moat",
+        "en": "pit island moat",
+        "zh-CN": "pit island moat"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY504_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY504_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY505",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 165545,
+      "zip_sha256": "2177ab9a8d05fb58fe1fa334e7139f5521b9368fead73e2d8567c153ee0df810",
+      "names": {
+        "ja": "cliff double inner",
+        "en": "cliff double inner",
+        "zh-CN": "cliff double inner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY505_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY505_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY506",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 167399,
+      "zip_sha256": "8be0fcda7c2069e1c85d59197539b0326e3d029d5fa0cb5bfa6bb4c3afef7ece",
+      "names": {
+        "ja": "cliff double nose",
+        "en": "cliff double nose",
+        "zh-CN": "cliff double nose"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY506_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY506_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY507",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 163981,
+      "zip_sha256": "0dc67b6ee36d3fc411e341a2780947f64f96404fc588eb3ee1080e4e545af286",
+      "names": {
+        "ja": "cave T",
+        "en": "cave T",
+        "zh-CN": "cave T"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY507_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY507_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY508",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 164290,
+      "zip_sha256": "49247ea7d5eda4b50fa4440ee98f0e7d145873014d7a7821b93fd7cc0cf4223f",
+      "names": {
+        "ja": "cave cross",
+        "en": "cave cross",
+        "zh-CN": "cave cross"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY508_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY508_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TY509",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 163585,
+      "zip_sha256": "6168f897b1cad69dc681e3a6d3e518b5dd5db9e5870168e22350c235f3c4fb9c",
+      "names": {
+        "ja": "cave portal",
+        "en": "cave portal",
+        "zh-CN": "cave portal"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TY509_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY509_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 5
+    },
+    {
+      "asset_id": "TZ601",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 230375,
+      "zip_sha256": "e84cfad457763d3639cf2fdca7cf470fb91fc8ec6003f58f2304db86593091d5",
+      "names": {
+        "ja": "river culvert",
+        "en": "river culvert",
+        "zh-CN": "river culvert"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TZ601_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ601_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 6
+    },
+    {
+      "asset_id": "TZ602",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 230500,
+      "zip_sha256": "dafa2ff035d51ff044c39aecc96809776afef28d1af68535acda2a9633835552",
+      "names": {
+        "ja": "river portal",
+        "en": "river portal",
+        "zh-CN": "river portal"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TZ602_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ602_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 6
+    },
+    {
+      "asset_id": "TU701",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 233124,
+      "zip_sha256": "cec01eae19662d7a9f01424d77536b301c13b5b0f65af58ded50b12ad8ceb338",
+      "names": {
+        "ja": "wet bend",
+        "en": "wet bend",
+        "zh-CN": "wet bend"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU701_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU701_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "TU702",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 249846,
+      "zip_sha256": "faa778adbda3d8f6163582d39b41a88afc27ccf9e4db4060e0332f3b33e34dc4",
+      "names": {
+        "ja": "wet T",
+        "en": "wet T",
+        "zh-CN": "wet T"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU702_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU702_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "TU703",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 260263,
+      "zip_sha256": "93a0086239e097824c6a2026f8c564bf2ee8fe9f092b0a930726d2f32ac8c96b",
+      "names": {
+        "ja": "wet cross",
+        "en": "wet cross",
+        "zh-CN": "wet cross"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU703_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU703_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "TU704",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 217167,
+      "zip_sha256": "6509a41fdbcaf25661173954c343cdd9797ec7808e5cd2d44fdfdea953049143",
+      "names": {
+        "ja": "wet end",
+        "en": "wet end",
+        "zh-CN": "wet end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU704_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU704_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "TU705",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 236326,
+      "zip_sha256": "aabd7b1f6206dd1cad44642fb6288f4c844dd64d8a09cd9e7b244abf6186b1e1",
+      "names": {
+        "ja": "walk portal",
+        "en": "walk portal",
+        "zh-CN": "walk portal"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU705_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU705_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "TU706",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 195960,
+      "zip_sha256": "6ff3ee050f4ba17d0715b423ddf8a8f638160cd9091e591cd0a8893ae16fc0f9",
+      "names": {
+        "ja": "walk culvert",
+        "en": "walk culvert",
+        "zh-CN": "walk culvert"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "TU706_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU706_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 7
+    },
+    {
+      "asset_id": "UA801",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 156195,
+      "zip_sha256": "4dc9370644ccd549be4731fbe83a8e76d14ff6e3eb53203c5c0db16cf4d77bb6",
+      "names": {
+        "ja": "three level corner",
+        "en": "three level corner",
+        "zh-CN": "three level corner"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA801_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA801_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UA802",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 210438,
+      "zip_sha256": "13512b2530c662995cd6050b51f311d8155293d8e4cbc5d7802fe111088a1e3d",
+      "names": {
+        "ja": "diagonal supported adapter",
+        "en": "diagonal supported adapter",
+        "zh-CN": "diagonal supported adapter"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA802_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA802_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UA803",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 161882,
+      "zip_sha256": "8e86f6b791b7ecb2edcabe43c177e42e4fa1cc9725a0f2b96031d845b278a967",
+      "names": {
+        "ja": "switchback stair",
+        "en": "switchback stair",
+        "zh-CN": "switchback stair"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA803_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA803_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UA804",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 160639,
+      "zip_sha256": "c8c06b297a7b0b40c9b8aafc4b25c391d2512c75fcd9cfdfbd61dd0e0b930ed3",
+      "names": {
+        "ja": "switchback approach",
+        "en": "switchback approach",
+        "zh-CN": "switchback approach"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA804_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA804_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UA805",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 232685,
+      "zip_sha256": "ac62f6a170e3bb796fb9426d12616d36b2725e24096f255206b843492c641c01",
+      "names": {
+        "ja": "stacked crossing",
+        "en": "stacked crossing",
+        "zh-CN": "stacked crossing"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA805_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA805_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UA806",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 155950,
+      "zip_sha256": "af65c399d439324353b3b5aeb369db52bfe42c229cafd2beadc2af7f86872809",
+      "names": {
+        "ja": "upper cave portal",
+        "en": "upper cave portal",
+        "zh-CN": "upper cave portal"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UA806_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA806_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 8
+    },
+    {
+      "asset_id": "UB901",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 290795,
+      "zip_sha256": "beaf0b7beb7dc2860b7b979d8bdb88b85082def982e5e1ad69a2e8fb4f617d4e",
+      "names": {
+        "ja": "beach_shore_transition",
+        "en": "beach_shore_transition",
+        "zh-CN": "beach_shore_transition"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UB901_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB901_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 9
+    },
+    {
+      "asset_id": "UB902",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 251045,
+      "zip_sha256": "975858264739eeaa045741e9825759eaffc87e44551410e0b03de99258ca2878",
+      "names": {
+        "ja": "beach_cliff",
+        "en": "beach_cliff",
+        "zh-CN": "beach_cliff"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UB902_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB902_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 9
+    },
+    {
+      "asset_id": "UB903",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 251770,
+      "zip_sha256": "850827881830e0a034c1d66bfd3181b8be06368cbb2864da14a32845e92091f3",
+      "names": {
+        "ja": "beach_cliff_end",
+        "en": "beach_cliff_end",
+        "zh-CN": "beach_cliff_end"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UB903_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB903_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 9
+    },
+    {
+      "asset_id": "UB904",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 272621,
+      "zip_sha256": "e294dc1b78d47b9c61701abd9663317b36e019a32a1f5e9f780931bc5c9f1995",
+      "names": {
+        "ja": "twin_sandbar",
+        "en": "twin_sandbar",
+        "zh-CN": "twin_sandbar"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UB904_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB904_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 9
     }
   ]
 }

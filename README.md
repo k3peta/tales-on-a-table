@@ -1,5 +1,11 @@
 # Tales on a Table — 小さな世界の素材棚
 
+今回の接続地形91件はリポジトリ内の distributions/terrain-connectivity-91/zips/ から直接配布します。従来の779件は各カタログのGitHub Releasesリンクを維持しています。下記の従来Release配布説明とは保存先が異なります。
+
+## 2m接続地形 — 91配布レコード
+
+[一覧と個別ダウンロード](catalog/terrain_connectivity_v1.md)。既存779＋追加91＝870配布レコード。全履歴の独立モデル種類数は未確定。
+
 [English](README.en.md) · [简体中文](README.zh-CN.md)
 
 ## 2m地形タイル v2
