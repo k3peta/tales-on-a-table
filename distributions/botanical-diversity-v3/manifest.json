@@ -1,0 +1,77 @@
+{
+  "record_count": 3,
+  "items": [
+    {
+      "asset_id": "BD301_StrawberryRunner",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 164215,
+      "zip_sha256": "6444d2a8aec1287c0977ed33211ef624154dc7d3db7649e0d8d3470a38546542",
+      "names": {
+        "ja": "StrawberryRunner",
+        "en": "StrawberryRunner",
+        "zh-CN": "StrawberryRunner"
+      },
+      "descriptions": {
+        "ja": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.",
+        "en": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.",
+        "zh-CN": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges."
+      },
+      "zip_file": "BD301_StrawberryRunner_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD302_TrailingCucumber",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 169500,
+      "zip_sha256": "8f40baab7c39ffdd19534a68d540ae201ba1c3ed0c2ca3c79a7cf3644ed66c7b",
+      "names": {
+        "ja": "TrailingCucumber",
+        "en": "TrailingCucumber",
+        "zh-CN": "TrailingCucumber"
+      },
+      "descriptions": {
+        "ja": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.",
+        "en": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.",
+        "zh-CN": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed."
+      },
+      "zip_file": "BD302_TrailingCucumber_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD303_DandelionSeedhead",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 592909,
+      "zip_sha256": "4bd2edbe7cfd72b8b4595a1127298e9ff8a39afe7f4396261c5b21f5df6eb502",
+      "names": {
+        "ja": "DandelionSeedhead",
+        "en": "DandelionSeedhead",
+        "zh-CN": "DandelionSeedhead"
+      },
+      "descriptions": {
+        "ja": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.",
+        "en": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.",
+        "zh-CN": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds."
+      },
+      "zip_file": "BD303_DandelionSeedhead_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

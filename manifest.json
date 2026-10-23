@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 885,
+  "item_count": 888,
   "count_by_kind": {
-    "model": 743,
+    "model": 746,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 7,
@@ -35,7 +35,7 @@
     "terrain_v2": 70,
     "terrain_connectivity": 95,
     "rustic_slope_connections": 3,
-    "botanical_diversity": 7
+    "botanical_diversity": 10
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -26981,6 +26981,78 @@
       },
       "zip_file": "BD203_FloweringAllium_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD301_StrawberryRunner",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 164215,
+      "zip_sha256": "6444d2a8aec1287c0977ed33211ef624154dc7d3db7649e0d8d3470a38546542",
+      "names": {
+        "ja": "StrawberryRunner",
+        "en": "StrawberryRunner",
+        "zh-CN": "StrawberryRunner"
+      },
+      "descriptions": {
+        "ja": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.",
+        "en": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.",
+        "zh-CN": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges."
+      },
+      "zip_file": "BD301_StrawberryRunner_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD302_TrailingCucumber",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 169500,
+      "zip_sha256": "8f40baab7c39ffdd19534a68d540ae201ba1c3ed0c2ca3c79a7cf3644ed66c7b",
+      "names": {
+        "ja": "TrailingCucumber",
+        "en": "TrailingCucumber",
+        "zh-CN": "TrailingCucumber"
+      },
+      "descriptions": {
+        "ja": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.",
+        "en": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.",
+        "zh-CN": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed."
+      },
+      "zip_file": "BD302_TrailingCucumber_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD303_DandelionSeedhead",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 592909,
+      "zip_sha256": "4bd2edbe7cfd72b8b4595a1127298e9ff8a39afe7f4396261c5b21f5df6eb502",
+      "names": {
+        "ja": "DandelionSeedhead",
+        "en": "DandelionSeedhead",
+        "zh-CN": "DandelionSeedhead"
+      },
+      "descriptions": {
+        "ja": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.",
+        "en": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.",
+        "zh-CN": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds."
+      },
+      "zip_file": "BD303_DandelionSeedhead_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip",
       "theme": "botanical_diversity",
       "global_unique": "unconfirmed"
     }

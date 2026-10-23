@@ -1,3 +1,5 @@
+Latest distribution total: **888 records** (885 + 3). [Botanical diversity models](catalog/botanical_diversity_v3.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **885 records** (882 + 3). [Botanical diversity models](catalog/botanical_diversity_v2.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **882 records** (878 + 4). [Botanical diversity models](catalog/botanical_diversity_v1.md). Earlier totals below describe previous batches.
