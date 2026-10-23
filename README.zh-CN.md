@@ -1,3 +1,5 @@
+Latest distribution total: **872 records** (870 + 2). [Terrain batch 10 downloads](catalog/terrain_connectivity_v10.md). Counts below describe earlier publication batches.
+
 # Tales on a Table — 519条3D素材记录
 
 新增91条地形记录直接通过仓库内 distributions/terrain-connectivity-91/zips/ 分发；原有779条记录保留GitHub Releases链接。下方旧版Release下载说明适用于原有记录。

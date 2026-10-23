@@ -1,0 +1,7 @@
+CC0 1.0 Universal
+
+The model geometry, UVs, materials and embedded resources necessary to display this model are offered under CC0 1.0 Universal, within the distributor's rights. Commercial use, modification, copying and redistribution are permitted; attribution is optional. No warranty is provided and third-party rights are not granted.
+
+モデル形状・UV・材質・表示に必要な内蔵素材のみ、配布者の権利の範囲でCC0 1.0を適用します。記事・画像・完成配置シーン・制作コードには適用しません。無保証です。
+
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

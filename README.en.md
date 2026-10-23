@@ -1,3 +1,5 @@
+Latest distribution total: **872 records** (870 + 2). [Terrain batch 10 downloads](catalog/terrain_connectivity_v10.md). Counts below describe earlier publication batches.
+
 # Tales on a Table — 519 3D asset records
 
 The new 91 terrain records are distributed directly from distributions/terrain-connectivity-91/zips/ in this repository. The existing 779 records keep their GitHub Releases links. Legacy Release-download instructions below apply to those earlier records.

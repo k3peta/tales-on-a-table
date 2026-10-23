@@ -1,0 +1,58 @@
+{
+  "record_count": 2,
+  "items": [
+    {
+      "asset_id": "UC1001",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-v10-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 680258,
+      "zip_sha256": "bdd7e3ed0201e0434fe488ea17b780c036505e968fd5e688bc9221da4cac91d5",
+      "names": {
+        "ja": "浅瀬",
+        "en": "Shallow ford",
+        "zh-CN": "Shallow ford"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UC1001_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1001_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 10
+    },
+    {
+      "asset_id": "UC1002",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-v10-20261023",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 505289,
+      "zip_sha256": "08edc415cbd136a4cc9efb6a84071fd89ba65f85bfd3002c5489898db27c5290",
+      "names": {
+        "ja": "縦穴付き洞",
+        "en": "Cave skylight",
+        "zh-CN": "Cave skylight"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UC1002_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1002_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 10
+    }
+  ],
+  "excluded_candidates": [
+    "UC1003",
+    "UC1004"
+  ],
+  "independent_design_total": null
+}

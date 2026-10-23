@@ -6,3 +6,5 @@
 
 # Approved model-only terrain distribution packages
 !/distributions/terrain-connectivity-91/zips/*_CC0.zip
+
+!/distributions/terrain-connectivity-10/zips/*_CC0.zip

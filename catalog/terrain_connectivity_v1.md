@@ -105,3 +105,5 @@
 ## 配布方式
 
 今回の91 ZIPは上表のGitHub実ファイルから直接取得できます。従来のRelease配布を変更するものではありません。第1バッチ34件の旧Release下書きは未公開のまま保持され、追加の配布レコードとして数えません。
+
+[Additional batch 10: UC1001 and UC1002](terrain_connectivity_v10.md). These two records are separate from this 91-record batch.

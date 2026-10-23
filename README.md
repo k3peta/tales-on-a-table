@@ -1,3 +1,5 @@
+Latest distribution total: **872 records** (870 + 2). [Terrain batch 10 downloads](catalog/terrain_connectivity_v10.md). Counts below describe earlier publication batches.
+
 # Tales on a Table — 小さな世界の素材棚
 
 今回の接続地形91件はリポジトリ内の distributions/terrain-connectivity-91/zips/ から直接配布します。従来の779件は各カタログのGitHub Releasesリンクを維持しています。下記の従来Release配布説明とは保存先が異なります。
