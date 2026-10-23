@@ -1,3 +1,5 @@
+Latest distribution total: **917 records** (911 + 6). [Terrain use models](catalog/terrain_use_plan_v1.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **911 records** (909 + 2). [Natural rock form models](catalog/natural_rock_forms_v1.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **909 records** (905 + 4). [Field growth models](catalog/botanical_field_growth_v1.md). Earlier totals below describe previous batches.

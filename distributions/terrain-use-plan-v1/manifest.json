@@ -1,0 +1,163 @@
+{
+  "record_count": 6,
+  "local_use_candidates": 3,
+  "structural_variants": 3,
+  "items": [
+    {
+      "asset_id": "NP101_BraidedIsland",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 243950,
+      "zip_sha256": "5e16a99943d2b34122161bd0172605dbac81f6864914c131d292f30fdf5f0a61",
+      "names": {
+        "ja": "BraidedIsland",
+        "en": "BraidedIsland",
+        "zh-CN": "BraidedIsland"
+      },
+      "descriptions": {
+        "ja": "Local-use candidate: single N/S river split around central dry island then rejoined inside2m.",
+        "en": "Local-use candidate: single N/S river split around central dry island then rejoined inside2m.",
+        "zh-CN": "Local-use candidate: single N/S river split around central dry island then rejoined inside2m."
+      },
+      "zip_file": "NP101_BraidedIsland_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "NP102_SteppingCrossing",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 248287,
+      "zip_sha256": "ca5a70358b4a0329feb21c27a2ce21aa9dc7907fcd179800d5e5bdb6ee8ed20d",
+      "names": {
+        "ja": "SteppingCrossing",
+        "en": "SteppingCrossing",
+        "zh-CN": "SteppingCrossing"
+      },
+      "descriptions": {
+        "ja": "Local-use candidate: five grounded stepping stones crossing river, top.075m; water gaps remain. Not tested for walking.",
+        "en": "Local-use candidate: five grounded stepping stones crossing river, top.075m; water gaps remain. Not tested for walking.",
+        "zh-CN": "Local-use candidate: five grounded stepping stones crossing river, top.075m; water gaps remain. Not tested for walking."
+      },
+      "zip_file": "NP102_SteppingCrossing_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "NP103_DoubleMouth",
+      "category": "terrain",
+      "record_kind": "structural_variant",
+      "design_classification": "structural_variant",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 269016,
+      "zip_sha256": "704a16d1cf329015f9407d507d8d71a84769540954a0092a65b306ad6f8182e9",
+      "names": {
+        "ja": "DoubleMouth",
+        "en": "DoubleMouth",
+        "zh-CN": "DoubleMouth"
+      },
+      "descriptions": {
+        "ja": "Structural variant: N river into S full sea, central sand island makes two outlets.",
+        "en": "Structural variant: N river into S full sea, central sand island makes two outlets.",
+        "zh-CN": "Structural variant: N river into S full sea, central sand island makes two outlets."
+      },
+      "zip_file": "NP103_DoubleMouth_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "NP104_WetOverhang",
+      "category": "terrain",
+      "record_kind": "structural_variant",
+      "design_classification": "structural_variant",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 260493,
+      "zip_sha256": "8f20792164b9dea014171f436567f706729f66ba3b10918c543376f34691b5ba",
+      "names": {
+        "ja": "WetOverhang",
+        "en": "WetOverhang",
+        "zh-CN": "WetOverhang"
+      },
+      "descriptions": {
+        "ja": "Structural variant: full sea bed-.19/water-.01 under roof underside.75/top1; N solid land1.",
+        "en": "Structural variant: full sea bed-.19/water-.01 under roof underside.75/top1; N solid land1.",
+        "zh-CN": "Structural variant: full sea bed-.19/water-.01 under roof underside.75/top1; N solid land1."
+      },
+      "zip_file": "NP104_WetOverhang_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "NP105_CliffRiver",
+      "category": "terrain",
+      "record_kind": "structural_variant",
+      "design_classification": "structural_variant",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 242795,
+      "zip_sha256": "802f4f9138f2be5a4959188aeae3e3ac14be8e0e27f09579e6918a0beed01001",
+      "names": {
+        "ja": "CliffRiver",
+        "en": "CliffRiver",
+        "zh-CN": "CliffRiver"
+      },
+      "descriptions": {
+        "ja": "Structural variant: river bed-.19/water-.01, W bank1 and E bank0. N/S water ports standard; land heights differ on west.",
+        "en": "Structural variant: river bed-.19/water-.01, W bank1 and E bank0. N/S water ports standard; land heights differ on west.",
+        "zh-CN": "Structural variant: river bed-.19/water-.01, W bank1 and E bank0. N/S water ports standard; land heights differ on west."
+      },
+      "zip_file": "NP105_CliffRiver_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "NP106_RecessedFall",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "terrain-use-plan-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 249011,
+      "zip_sha256": "3ca15526b54a10d3c42ca3461779f132d3624c81834eb8aaf9aa08283f608144",
+      "names": {
+        "ja": "RecessedFall",
+        "en": "RecessedFall",
+        "zh-CN": "RecessedFall"
+      },
+      "descriptions": {
+        "ja": "Local-use candidate: lower river-.19/- .01 and upper bed1.31/water1.49, banks1.5. Behind water curtain lower cavity has ceiling1.05, open side. Not a human passage guarantee.",
+        "en": "Local-use candidate: lower river-.19/- .01 and upper bed1.31/water1.49, banks1.5. Behind water curtain lower cavity has ceiling1.05, open side. Not a human passage guarantee.",
+        "zh-CN": "Local-use candidate: lower river-.19/- .01 and upper bed1.31/water1.49, banks1.5. Behind water curtain lower cavity has ceiling1.05, open side. Not a human passage guarantee."
+      },
+      "zip_file": "NP106_RecessedFall_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip",
+      "theme": "terrain_use_plan",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
