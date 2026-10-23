@@ -1,3 +1,5 @@
+Latest distribution total: **904 records** (900 + 4). [Rural interface models](catalog/rural_interfaces_v1.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **900 records** (898 + 2). [Elevated ruin connector models](catalog/elevated_ruin_connectors_v1.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **898 records** (891 + 7 existing works first distributed). [Recovered rustic fence models](catalog/recovered_rustic_fences_rf7.md). Earlier totals below describe previous batches.

@@ -1,0 +1,101 @@
+{
+  "record_count": 4,
+  "items": [
+    {
+      "asset_id": "RI101_RaisedFlume",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "rural-interface-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 71971,
+      "zip_sha256": "21fc76e4573ec7954c8fab50704a5d70f8533c09cf255376fe1e3a6bc8e5fec6",
+      "names": {
+        "ja": "RaisedFlume",
+        "en": "RaisedFlume",
+        "zh-CN": "RaisedFlume"
+      },
+      "descriptions": {
+        "ja": "2m NS supported flume. Open ends y+-1, wet width .6m, bed Z1, side top1.3. Ground feet Z0.",
+        "en": "2m NS supported flume. Open ends y+-1, wet width .6m, bed Z1, side top1.3. Ground feet Z0.",
+        "zh-CN": "2m NS supported flume. Open ends y+-1, wet width .6m, bed Z1, side top1.3. Ground feet Z0."
+      },
+      "zip_file": "RI101_RaisedFlume_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip",
+      "theme": "rural_interfaces",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RI102_SluiceDistributor",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "rural-interface-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 73971,
+      "zip_sha256": "5affc96d2dd7b1e4492dc2af3ba8808377ded96bb83abda45ffc7d8f68503f99",
+      "names": {
+        "ja": "SluiceDistributor",
+        "en": "SluiceDistributor",
+        "zh-CN": "SluiceDistributor"
+      },
+      "descriptions": {
+        "ja": "2x2m supported distributor. S(0,-1,1), N(0,1,1), E(1,0,1) bed ports, .6m wet width. Gate fixed raised, .39m gap beneath gate. No animated or hydraulic simulation.",
+        "en": "2x2m supported distributor. S(0,-1,1), N(0,1,1), E(1,0,1) bed ports, .6m wet width. Gate fixed raised, .39m gap beneath gate. No animated or hydraulic simulation.",
+        "zh-CN": "2x2m supported distributor. S(0,-1,1), N(0,1,1), E(1,0,1) bed ports, .6m wet width. Gate fixed raised, .39m gap beneath gate. No animated or hydraulic simulation."
+      },
+      "zip_file": "RI102_SluiceDistributor_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip",
+      "theme": "rural_interfaces",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RI103_DitchFence",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "rural-interface-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 78306,
+      "zip_sha256": "ac96a314b008901a11d1fac8066200e979e015e3286635c862902b073eca4a92",
+      "names": {
+        "ja": "DitchFence",
+        "en": "DitchFence",
+        "zh-CN": "DitchFence"
+      },
+      "descriptions": {
+        "ja": "2m fence bay across ditch. Bank origin Z0, post bottoms0; centre hanging slat bottom-.46m. Intended .5m deep ditch, .04m clearance. Fixed slats and hinge pins, no movement or collision test.",
+        "en": "2m fence bay across ditch. Bank origin Z0, post bottoms0; centre hanging slat bottom-.46m. Intended .5m deep ditch, .04m clearance. Fixed slats and hinge pins, no movement or collision test.",
+        "zh-CN": "2m fence bay across ditch. Bank origin Z0, post bottoms0; centre hanging slat bottom-.46m. Intended .5m deep ditch, .04m clearance. Fixed slats and hinge pins, no movement or collision test."
+      },
+      "zip_file": "RI103_DitchFence_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip",
+      "theme": "rural_interfaces",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "RI104_EavesDownchute",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "rural-interface-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 68838,
+      "zip_sha256": "d423244492cc619879633273735313f8ae3e2b0002b57480a5572d1d83c8f8e5",
+      "names": {
+        "ja": "EavesDownchute",
+        "en": "EavesDownchute",
+        "zh-CN": "EavesDownchute"
+      },
+      "descriptions": {
+        "ja": "Attachment module: NS gutter y-1..1 at bedZ2; chute y1..2 drops to bedZ1. Wet width.6m, walls.3m. Attach to eaves/wall; not ground-supported. Outlet (0,2,1) fits raised flume. Roof and wall not included.",
+        "en": "Attachment module: NS gutter y-1..1 at bedZ2; chute y1..2 drops to bedZ1. Wet width.6m, walls.3m. Attach to eaves/wall; not ground-supported. Outlet (0,2,1) fits raised flume. Roof and wall not included.",
+        "zh-CN": "Attachment module: NS gutter y-1..1 at bedZ2; chute y1..2 drops to bedZ1. Wet width.6m, walls.3m. Attach to eaves/wall; not ground-supported. Outlet (0,2,1) fits raised flume. Roof and wall not included."
+      },
+      "zip_file": "RI104_EavesDownchute_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip",
+      "theme": "rural_interfaces",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
