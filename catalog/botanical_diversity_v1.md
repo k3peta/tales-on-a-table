@@ -21,3 +21,7 @@ Pea supports are separate. Ivy faces -Y, with the wall plane at +Y=0.025 m; it d
 - BD102_Iris: Sword-shaped basal leaves and alternating upright/falling petals. Garden border.
 - BD103_PeaVine: Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired.
 - BD104_LobedIvy: Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine.
+
+## Bellflower comparison note
+
+BD101 Bellflower has use similarity to existing FP05 Bluebells. Geometric equivalence and historical independent-design increment remain unconfirmed; do not count it as a confirmed unique shape. Distribution record count is unchanged.

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 882,
+  "item_count": 885,
   "count_by_kind": {
-    "model": 740,
+    "model": 743,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 7,
@@ -35,7 +35,7 @@
     "terrain_v2": 70,
     "terrain_connectivity": 95,
     "rustic_slope_connections": 3,
-    "botanical_diversity": 4
+    "botanical_diversity": 7
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -26834,7 +26834,11 @@
       "zip_file": "BD101_Bellflower_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip",
       "theme": "botanical_diversity",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "design_classification": "use_similarity_review_pending",
+      "similarity_reference": "FP05_Bluebells",
+      "independent_design_increment": null,
+      "similarity_note": "BD101 Bellflower has use similarity to existing FP05 Bluebells. Geometric equivalence and historical independent-design increment remain unconfirmed; do not count it as a confirmed unique shape."
     },
     {
       "asset_id": "BD102_Iris",
@@ -26905,6 +26909,78 @@
       },
       "zip_file": "BD104_LobedIvy_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD201_WaterLily",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 158198,
+      "zip_sha256": "7d3eb97a87b07356e26817d03dc09752c700a0b43567da85a4ef5889dd0f5bc6",
+      "names": {
+        "ja": "WaterLily",
+        "en": "WaterLily",
+        "zh-CN": "WaterLily"
+      },
+      "descriptions": {
+        "ja": "Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included.",
+        "en": "Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included.",
+        "zh-CN": "Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included."
+      },
+      "zip_file": "BD201_WaterLily_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD202_Horsetail",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 295660,
+      "zip_sha256": "c3233b52b8578115c126026b897836264c0d80dcd52470e4c86e2349ef4755a9",
+      "names": {
+        "ja": "Horsetail",
+        "en": "Horsetail",
+        "zh-CN": "Horsetail"
+      },
+      "descriptions": {
+        "ja": "Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level.",
+        "en": "Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level.",
+        "zh-CN": "Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level."
+      },
+      "zip_file": "BD202_Horsetail_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip",
+      "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BD203_FloweringAllium",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-diversity-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 221678,
+      "zip_sha256": "129da66c7efc6315e85e3197705977f5a641a90658ce31d6e4858e3c5f1a981e",
+      "names": {
+        "ja": "FloweringAllium",
+        "en": "FloweringAllium",
+        "zh-CN": "FloweringAllium"
+      },
+      "descriptions": {
+        "ja": "Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level.",
+        "en": "Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level.",
+        "zh-CN": "Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level."
+      },
+      "zip_file": "BD203_FloweringAllium_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip",
       "theme": "botanical_diversity",
       "global_unique": "unconfirmed"
     }

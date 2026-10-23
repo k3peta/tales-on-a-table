@@ -23,7 +23,11 @@
       "zip_file": "BD101_Bellflower_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip",
       "theme": "botanical_diversity",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "design_classification": "use_similarity_review_pending",
+      "similarity_reference": "FP05_Bluebells",
+      "independent_design_increment": null,
+      "similarity_note": "BD101 Bellflower has use similarity to existing FP05 Bluebells. Geometric equivalence and historical independent-design increment remain unconfirmed; do not count it as a confirmed unique shape."
     },
     {
       "asset_id": "BD102_Iris",
