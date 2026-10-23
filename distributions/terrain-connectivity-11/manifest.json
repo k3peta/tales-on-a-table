@@ -1,0 +1,62 @@
+{
+  "record_count": 2,
+  "items": [
+    {
+      "asset_id": "UD1101",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-v11-20261024",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 63486,
+      "zip_sha256": "6f8d4d86376f0ffc0df18dad09923908e17345d8bca9a8ce49292bf69a1dbe9c",
+      "names": {
+        "ja": "縁下排水口",
+        "en": "Under-rim drain",
+        "zh-CN": "Under-rim drain"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UD1101_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 11,
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null
+    },
+    {
+      "asset_id": "UD1102",
+      "category": "terrain",
+      "record_kind": "terrain_distribution_record",
+      "revision": "terrain-connectivity-v11-20261024",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 168460,
+      "zip_sha256": "8970c80f137b0b4b785a82fcfe7a66236b5151c8b1355a459598bb6dd5c10216",
+      "names": {
+        "ja": "洞内落差水路",
+        "en": "Covered waterfall",
+        "zh-CN": "Covered waterfall"
+      },
+      "descriptions": {
+        "ja": "2m接続地形の配布レコード。BLENDとGLBを同梱。独立造形の種類数とは区別。",
+        "en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
+        "zh-CN": "2米模块化地形分发记录，包含BLEND与GLB；不等同于独立设计数量。"
+      },
+      "zip_file": "UD1102_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1102_CC0.zip",
+      "theme": "terrain_connectivity",
+      "batch": 11,
+      "design_classification": "structural_derivative",
+      "independent_design_increment": null
+    }
+  ],
+  "excluded_candidates": [
+    "sea_cave_entry",
+    "corner_drain"
+  ],
+  "independent_design_total": null
+}
