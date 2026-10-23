@@ -1,0 +1,53 @@
+{
+  "record_count": 2,
+  "items": [
+    {
+      "asset_id": "ER101_StairTJunction",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "elevated-ruin-connectors-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 110862,
+      "zip_sha256": "46ffbd74c79d28a913b659032429666036fe78e8a8a5cd278da4201215d3f5a6",
+      "names": {
+        "ja": "StairTJunction",
+        "en": "StairTJunction",
+        "zh-CN": "StairTJunction"
+      },
+      "descriptions": {
+        "ja": "2x4m stair-top T junction. Low S interface (0,-2,0), first riser .125m; 8 treads .25m run/.125m rise. Top floor1m; W(-1,1,1), E(1,1,1), N(0,2,1). Stair tread width .9m. Landing underside .8m; not a human underpass.",
+        "en": "2x4m stair-top T junction. Low S interface (0,-2,0), first riser .125m; 8 treads .25m run/.125m rise. Top floor1m; W(-1,1,1), E(1,1,1), N(0,2,1). Stair tread width .9m. Landing underside .8m; not a human underpass.",
+        "zh-CN": "2x4m stair-top T junction. Low S interface (0,-2,0), first riser .125m; 8 treads .25m run/.125m rise. Top floor1m; W(-1,1,1), E(1,1,1), N(0,2,1). Stair tread width .9m. Landing underside .8m; not a human underpass."
+      },
+      "zip_file": "ER101_StairTJunction_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip",
+      "theme": "elevated_ruin_connectors",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "ER102_RuinArchWalkway",
+      "category": "architecture",
+      "record_kind": "model",
+      "revision": "elevated-ruin-connectors-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 116512,
+      "zip_sha256": "453cc74c04a20ebd8da4d82932dbc91fe0125619a2dd895128de6fcec3375c5d",
+      "names": {
+        "ja": "RuinArchWalkway",
+        "en": "RuinArchWalkway",
+        "zh-CN": "RuinArchWalkway"
+      },
+      "descriptions": {
+        "ja": "2m EW upper walkway at Z3m over NS arch. Deck width1m, conservative guard clearance .955m. Lower opening width1.2m; spring1.6m, centre crown2.2m. E/W upper ports (+/-1,0,3). Upper and lower routes are separate. Broken stone crest remains below deck.",
+        "en": "2m EW upper walkway at Z3m over NS arch. Deck width1m, conservative guard clearance .955m. Lower opening width1.2m; spring1.6m, centre crown2.2m. E/W upper ports (+/-1,0,3). Upper and lower routes are separate. Broken stone crest remains below deck.",
+        "zh-CN": "2m EW upper walkway at Z3m over NS arch. Deck width1m, conservative guard clearance .955m. Lower opening width1.2m; spring1.6m, centre crown2.2m. E/W upper ports (+/-1,0,3). Upper and lower routes are separate. Broken stone crest remains below deck."
+      },
+      "zip_file": "ER102_RuinArchWalkway_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip",
+      "theme": "elevated_ruin_connectors",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
