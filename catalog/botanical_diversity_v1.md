@@ -9,7 +9,7 @@
 |BD103_PeaVine|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)|176655|
 |BD104_LobedIvy|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)|208293|
 
-[Checksums](../distributions/botanical-diversity-v1/SHA256SUMS.txt). Model geometry and embedded display materials only: CC0-1.0. No generation code, private records, images or assembled scenes are distributed. The separate 12-record farm reuse review remains on hold and is not included.
+[Checksums](../distributions/botanical-diversity-v1/SHA256SUMS.txt). Model geometry and embedded display materials only: CC0-1.0. No generation code, private records, images or assembled scenes are distributed.
 
 ## Uses and limits
 
