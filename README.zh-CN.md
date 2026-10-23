@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **920条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **921条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — Total at this publication: **921 records** (920 + 1). [Static mudflat](catalog/static_mudflat_v1.md).
 
 - 2026-10-24 JST — Total at this publication: **920 records** (917 + 3). [Cave decoration models](catalog/cave_deposition_v1.md).
 

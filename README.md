@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **920配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **921配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — Total at this publication: **921 records** (920 + 1). [Static mudflat](catalog/static_mudflat_v1.md).
 
 - 2026-10-24 JST — Total at this publication: **920 records** (917 + 3). [Cave decoration models](catalog/cave_deposition_v1.md).
 

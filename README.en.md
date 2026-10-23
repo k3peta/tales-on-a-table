@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **920 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **921 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — Total at this publication: **921 records** (920 + 1). [Static mudflat](catalog/static_mudflat_v1.md).
 
 - 2026-10-24 JST — Total at this publication: **920 records** (917 + 3). [Cave decoration models](catalog/cave_deposition_v1.md).
 

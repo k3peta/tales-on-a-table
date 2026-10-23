@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 920,
+  "item_count": 921,
   "count_by_kind": {
-    "model": 770,
+    "model": 771,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 15,
@@ -44,7 +44,8 @@
     "botanical_field_growth": 4,
     "natural_rock_forms": 2,
     "terrain_use_plan": 6,
-    "cave_deposition": 3
+    "cave_deposition": 3,
+    "static_mudflat": 1
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -27877,6 +27878,32 @@
       "zip_file": "CD103_RimstonePools_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip",
       "theme": "cave_deposition",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MF101_DrainedMudflat",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "static-mudflat-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 1163024,
+      "zip_sha256": "0fe1188ca57f54506c7db8f9509df6a2faff09504a7e044fea9223afc37abd81",
+      "names": {
+        "ja": "DrainedMudflat",
+        "en": "DrainedMudflat",
+        "zh-CN": "DrainedMudflat"
+      },
+      "descriptions": {
+        "ja": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only",
+        "en": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only",
+        "zh-CN": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only"
+      },
+      "zip_file": "MF101_DrainedMudflat_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip",
+      "theme": "static_mudflat",
       "global_unique": "unconfirmed"
     }
   ]

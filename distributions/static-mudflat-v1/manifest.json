@@ -1,0 +1,31 @@
+{
+  "record_count": 1,
+  "items": [
+    {
+      "asset_id": "MF101_DrainedMudflat",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "static-mudflat-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 1163024,
+      "zip_sha256": "0fe1188ca57f54506c7db8f9509df6a2faff09504a7e044fea9223afc37abd81",
+      "names": {
+        "ja": "DrainedMudflat",
+        "en": "DrainedMudflat",
+        "zh-CN": "DrainedMudflat"
+      },
+      "descriptions": {
+        "ja": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only",
+        "en": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only",
+        "zh-CN": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only"
+      },
+      "zip_file": "MF101_DrainedMudflat_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip",
+      "theme": "static_mudflat",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
