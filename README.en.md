@@ -1,3 +1,5 @@
+Latest distribution total: **909 records** (905 + 4). [Field growth models](catalog/botanical_field_growth_v1.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **905 records** (904 + 1). [Open tree guard model](catalog/tree_guard_v1.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **904 records** (900 + 4). [Rural interface models](catalog/rural_interfaces_v1.md). Earlier totals below describe previous batches.

@@ -1,0 +1,101 @@
+{
+  "record_count": 4,
+  "items": [
+    {
+      "asset_id": "BG401_Maize",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-field-growth-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 107389,
+      "zip_sha256": "3db4fa0524ac7aaca6738537eb7803609ea10e93a2ca75e214ec409be267bb6e",
+      "names": {
+        "ja": "Maize",
+        "en": "Maize",
+        "zh-CN": "Maize"
+      },
+      "descriptions": {
+        "ja": "Tall stalk with long blade leaves, lateral husked ears and terminal branched tassel.",
+        "en": "Tall stalk with long blade leaves, lateral husked ears and terminal branched tassel.",
+        "zh-CN": "Tall stalk with long blade leaves, lateral husked ears and terminal branched tassel."
+      },
+      "zip_file": "BG401_Maize_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG401_Maize_CC0.zip",
+      "theme": "botanical_field_growth",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BG402_Eggplant",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-field-growth-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 116162,
+      "zip_sha256": "fe30cb1ce0bf3868163ca52e162faf41f0db3571f5d9ad3a79c7dfb00df213af",
+      "names": {
+        "ja": "Eggplant",
+        "en": "Eggplant",
+        "zh-CN": "Eggplant"
+      },
+      "descriptions": {
+        "ja": "Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx.",
+        "en": "Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx.",
+        "zh-CN": "Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx."
+      },
+      "zip_file": "BG402_Eggplant_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG402_Eggplant_CC0.zip",
+      "theme": "botanical_field_growth",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BG403_Artichoke",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-field-growth-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 121561,
+      "zip_sha256": "b991f3bdd75f6674126ab8d5ce12afa1bffc74c0b4a3721766b96dbf7776cb3d",
+      "names": {
+        "ja": "Artichoke",
+        "en": "Artichoke",
+        "zh-CN": "Artichoke"
+      },
+      "descriptions": {
+        "ja": "Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts.",
+        "en": "Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts.",
+        "zh-CN": "Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts."
+      },
+      "zip_file": "BG403_Artichoke_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG403_Artichoke_CC0.zip",
+      "theme": "botanical_field_growth",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "BG404_AsparagusShoots",
+      "category": "plant",
+      "record_kind": "model",
+      "revision": "botanical-field-growth-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 84891,
+      "zip_sha256": "4b9aacb7ac1e40fefcb34d5ea306f5758dbbd537c795800827e92edce4f71e9f",
+      "names": {
+        "ja": "AsparagusShoots",
+        "en": "AsparagusShoots",
+        "zh-CN": "AsparagusShoots"
+      },
+      "descriptions": {
+        "ja": "Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage.",
+        "en": "Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage.",
+        "zh-CN": "Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage."
+      },
+      "zip_file": "BG404_AsparagusShoots_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG404_AsparagusShoots_CC0.zip",
+      "theme": "botanical_field_growth",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
