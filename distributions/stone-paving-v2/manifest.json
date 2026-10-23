@@ -1,0 +1,77 @@
+{
+  "record_count": 3,
+  "items": [
+    {
+      "asset_id": "PAV-RUN",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 198485,
+      "zip_sha256": "04213e66f7a0c5548c170cf66895de2673e017428c01680e013bae037de3e30a",
+      "names": {
+        "ja": "PAV-RUN",
+        "en": "PAV-RUN",
+        "zh-CN": "PAV-RUN"
+      },
+      "descriptions": {
+        "ja": "Running bond",
+        "en": "Running bond",
+        "zh-CN": "Running bond"
+      },
+      "zip_file": "PAV-RUN-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-RUN-v2-models-CC0.zip",
+      "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "PAV-BASKET",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 182796,
+      "zip_sha256": "3e3712160b5acac158cb9bc556b38c6317653d1edb701cad99ff00337c9f9b2d",
+      "names": {
+        "ja": "PAV-BASKET",
+        "en": "PAV-BASKET",
+        "zh-CN": "PAV-BASKET"
+      },
+      "descriptions": {
+        "ja": "Basket weave",
+        "en": "Basket weave",
+        "zh-CN": "Basket weave"
+      },
+      "zip_file": "PAV-BASKET-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-BASKET-v2-models-CC0.zip",
+      "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "PAV-FAN",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 505920,
+      "zip_sha256": "d51cee2abcdec7801264736e20b1b6d648f49833c0610fd727490fbafb933e89",
+      "names": {
+        "ja": "PAV-FAN",
+        "en": "PAV-FAN",
+        "zh-CN": "PAV-FAN"
+      },
+      "descriptions": {
+        "ja": "Fan paving accent panel",
+        "en": "Fan paving accent panel",
+        "zh-CN": "Fan paving accent panel"
+      },
+      "zip_file": "PAV-FAN-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip",
+      "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 888,
+  "item_count": 891,
   "count_by_kind": {
-    "model": 746,
+    "model": 749,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 7,
@@ -35,7 +35,8 @@
     "terrain_v2": 70,
     "terrain_connectivity": 95,
     "rustic_slope_connections": 3,
-    "botanical_diversity": 10
+    "botanical_diversity": 10,
+    "stone_paving": 3
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -27054,6 +27055,78 @@
       "zip_file": "BD303_DandelionSeedhead_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip",
       "theme": "botanical_diversity",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "PAV-RUN",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 198485,
+      "zip_sha256": "04213e66f7a0c5548c170cf66895de2673e017428c01680e013bae037de3e30a",
+      "names": {
+        "ja": "PAV-RUN",
+        "en": "PAV-RUN",
+        "zh-CN": "PAV-RUN"
+      },
+      "descriptions": {
+        "ja": "Running bond",
+        "en": "Running bond",
+        "zh-CN": "Running bond"
+      },
+      "zip_file": "PAV-RUN-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-RUN-v2-models-CC0.zip",
+      "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "PAV-BASKET",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 182796,
+      "zip_sha256": "3e3712160b5acac158cb9bc556b38c6317653d1edb701cad99ff00337c9f9b2d",
+      "names": {
+        "ja": "PAV-BASKET",
+        "en": "PAV-BASKET",
+        "zh-CN": "PAV-BASKET"
+      },
+      "descriptions": {
+        "ja": "Basket weave",
+        "en": "Basket weave",
+        "zh-CN": "Basket weave"
+      },
+      "zip_file": "PAV-BASKET-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-BASKET-v2-models-CC0.zip",
+      "theme": "stone_paving",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "PAV-FAN",
+      "category": "surface",
+      "record_kind": "model",
+      "revision": "stone-paving-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 505920,
+      "zip_sha256": "d51cee2abcdec7801264736e20b1b6d648f49833c0610fd727490fbafb933e89",
+      "names": {
+        "ja": "PAV-FAN",
+        "en": "PAV-FAN",
+        "zh-CN": "PAV-FAN"
+      },
+      "descriptions": {
+        "ja": "Fan paving accent panel",
+        "en": "Fan paving accent panel",
+        "zh-CN": "Fan paving accent panel"
+      },
+      "zip_file": "PAV-FAN-v2-models-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip",
+      "theme": "stone_paving",
       "global_unique": "unconfirmed"
     }
   ]

@@ -1,3 +1,5 @@
+Latest distribution total: **891 records** (888 + 3). [Stone paving models](catalog/stone_paving_v2.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **888 records** (885 + 3). [Botanical diversity models](catalog/botanical_diversity_v3.md). Earlier totals below describe previous batches.
 
 Latest distribution total: **885 records** (882 + 3). [Botanical diversity models](catalog/botanical_diversity_v2.md). Earlier totals below describe previous batches.
