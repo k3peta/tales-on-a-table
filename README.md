@@ -1,3 +1,5 @@
+Latest distribution total: **873 records** (872 + VF001). [Lakeside marble fountain model](catalog/vf001_fountain_v2.md). Earlier totals below describe previous batches.
+
 Latest distribution total: **872 records** (870 + 2). [Terrain batch 10 downloads](catalog/terrain_connectivity_v10.md). Counts below describe earlier publication batches.
 
 # Tales on a Table — 小さな世界の素材棚

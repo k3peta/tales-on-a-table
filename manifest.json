@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 872,
+  "item_count": 873,
   "count_by_kind": {
-    "model": 734,
+    "model": 735,
     "derived_component": 2,
     "group": 29,
     "structural_variant": 5,
@@ -19,7 +19,7 @@
     "antique_shop": 93,
     "wizard_study": 40,
     "captain_cabin": 26,
-    "independent_furnishings": 6,
+    "independent_furnishings": 7,
     "treasury": 17,
     "armory": 71,
     "farmhouse_barn": 8,
@@ -26659,6 +26659,29 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1002_CC0.zip",
       "theme": "terrain_connectivity",
       "batch": 10
+    },
+    {
+      "asset_id": "VF001",
+      "category": "furnishing",
+      "record_kind": "model",
+      "revision": "v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 2453624,
+      "zip_sha256": "735ee327291ef060d2a76392f5e23e51e306ec0b91dd7caf8e8740ffbaf1bd06",
+      "names": {
+        "ja": "湖畔の大理石噴水",
+        "en": "Lakeside marble fountain",
+        "zh-CN": "Lakeside marble fountain"
+      },
+      "descriptions": {
+        "ja": "静止した水の表現を含む単体モデル。BLEND/GLB同梱。",
+        "en": "Standalone model with static water geometry. Includes BLEND and GLB, not an application.",
+        "zh-CN": "Standalone model with static water geometry. Includes BLEND and GLB."
+      },
+      "zip_file": "VF001-v2-public-clean-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip",
+      "theme": "independent_furnishings"
     }
   ]
 }

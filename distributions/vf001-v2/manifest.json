@@ -1,0 +1,28 @@
+{
+  "record_count": 1,
+  "items": [
+    {
+      "asset_id": "VF001",
+      "category": "furnishing",
+      "record_kind": "model",
+      "revision": "v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and included display materials only",
+      "zip_bytes": 2453624,
+      "zip_sha256": "735ee327291ef060d2a76392f5e23e51e306ec0b91dd7caf8e8740ffbaf1bd06",
+      "names": {
+        "ja": "湖畔の大理石噴水",
+        "en": "Lakeside marble fountain",
+        "zh-CN": "Lakeside marble fountain"
+      },
+      "descriptions": {
+        "ja": "静止した水の表現を含む単体モデル。BLEND/GLB同梱。",
+        "en": "Standalone model with static water geometry. Includes BLEND and GLB, not an application.",
+        "zh-CN": "Standalone model with static water geometry. Includes BLEND and GLB."
+      },
+      "zip_file": "VF001-v2-public-clean-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip",
+      "theme": "independent_furnishings"
+    }
+  ]
+}

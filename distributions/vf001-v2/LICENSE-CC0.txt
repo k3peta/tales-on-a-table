@@ -1,0 +1,5 @@
+VF001 - Lakeside marble fountain
+The model geometry and its included display materials in VF001.glb and VF001.blend are dedicated to the public domain under CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+This dedication applies only to those model files and included materials. It does not cover generation code, application source, private handoff documents, rendered example images, or completed arrangement scenes.
+No third-party textures are included. The displayed water is static geometry.
