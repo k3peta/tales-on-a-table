@@ -1,0 +1,83 @@
+{
+  "record_count": 3,
+  "items": [
+    {
+      "asset_id": "CD101_CeilingPendants",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_morphology_use_candidate",
+      "independent_design_increment": null,
+      "revision": "cave-deposition-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 184974,
+      "zip_sha256": "f36fe5b2dfca427633835752ae853b0fa1f83a67971d4499a9430140aeab0701",
+      "names": {
+        "ja": "CeilingPendants",
+        "en": "CeilingPendants",
+        "zh-CN": "CeilingPendants"
+      },
+      "descriptions": {
+        "ja": "Ceiling mineral pendants. Anchor origin on ceiling plane; place at Z0.75 for a cave ceiling0.75. Upper0.04m embeds into roof. Lowest local Z-0.465.",
+        "en": "Ceiling mineral pendants. Anchor origin on ceiling plane; place at Z0.75 for a cave ceiling0.75. Upper0.04m embeds into roof. Lowest local Z-0.465.",
+        "zh-CN": "Ceiling mineral pendants. Anchor origin on ceiling plane; place at Z0.75 for a cave ceiling0.75. Upper0.04m embeds into roof. Lowest local Z-0.465."
+      },
+      "zip_file": "CD101_CeilingPendants_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip",
+      "theme": "cave_deposition",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CD102_FoldedCurtain",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_morphology_use_candidate",
+      "independent_design_increment": null,
+      "revision": "cave-deposition-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 243747,
+      "zip_sha256": "aae0c55156498c8b7788538bbbd2dcff1dc8fd3b4c477fbf6f9d14e7afe08710",
+      "names": {
+        "ja": "FoldedCurtain",
+        "en": "FoldedCurtain",
+        "zh-CN": "FoldedCurtain"
+      },
+      "descriptions": {
+        "ja": "Folded cave curtain. Ceiling anchor origin; place at Y0.65 Z0.75 in a2m room with north inner wallY0.8. Upper0.04m embeds into roof.",
+        "en": "Folded cave curtain. Ceiling anchor origin; place at Y0.65 Z0.75 in a2m room with north inner wallY0.8. Upper0.04m embeds into roof.",
+        "zh-CN": "Folded cave curtain. Ceiling anchor origin; place at Y0.65 Z0.75 in a2m room with north inner wallY0.8. Upper0.04m embeds into roof."
+      },
+      "zip_file": "CD102_FoldedCurtain_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip",
+      "theme": "cave_deposition",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CD103_RimstonePools",
+      "category": "terrain",
+      "record_kind": "model",
+      "design_classification": "local_morphology_use_candidate",
+      "independent_design_increment": null,
+      "revision": "cave-deposition-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 192791,
+      "zip_sha256": "c9586959660d9d4e1a5a31298f7fa025e2d1de5c9cfc5645a013f194f77abf0c",
+      "names": {
+        "ja": "RimstonePools",
+        "en": "RimstonePools",
+        "zh-CN": "RimstonePools"
+      },
+      "descriptions": {
+        "ja": "Closed rimstone pools. Floor anchor originZ0. Local static water levels0.27,0.17,0.07m. Not compatible with standard river waterZ-0.01 without deliberate separate basin placement.",
+        "en": "Closed rimstone pools. Floor anchor originZ0. Local static water levels0.27,0.17,0.07m. Not compatible with standard river waterZ-0.01 without deliberate separate basin placement.",
+        "zh-CN": "Closed rimstone pools. Floor anchor originZ0. Local static water levels0.27,0.17,0.07m. Not compatible with standard river waterZ-0.01 without deliberate separate basin placement."
+      },
+      "zip_file": "CD103_RimstonePools_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip",
+      "theme": "cave_deposition",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
