@@ -497,3 +497,39 @@ Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not indepe
 [Full comparison](../../previews/quality-at032-041-v1/AT_041__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_041__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_at032_041.md)
 
 CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_043__color_orange
+
+**Blue two-handled amphora**
+
+青い双耳アンフォラ
+
+[![AT_043__color_orange](../../previews/quality-at042-051-v1/AT_043__color_orange_thumb.png)](../../previews/quality-at042-051-v1/AT_043__color_orange_comparison.png)
+
+Use / purpose: Orange amphora ceramic retaining original fittings and ornament.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_043](base-10.md#at_043). Geometry baseline: original; UV retained relative to that baseline.
+
+[Full comparison](../../previews/quality-at042-051-v1/AT_043__color_orange_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-051-v1/AT_043__color_orange_CC0.zip) · [Source catalogue](../../catalog/material_variants_at042_051.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_051__color_blue
+
+**Mother-of-pearl jewelry box**
+
+螺鈿の宝石箱
+
+[![AT_051__color_blue](../../previews/quality-at042-051-v1/AT_051__color_blue_thumb.png)](../../previews/quality-at042-051-v1/AT_051__color_blue_comparison.png)
+
+Use / purpose: Blue jewel-box exterior retaining inlay, fittings and interior.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_051](base-10.md#at_051). Geometry baseline: original; UV retained relative to that baseline.
+
+[Full comparison](../../previews/quality-at042-051-v1/AT_051__color_blue_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-051-v1/AT_051__color_blue_CC0.zip) · [Source catalogue](../../catalog/material_variants_at042_051.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).

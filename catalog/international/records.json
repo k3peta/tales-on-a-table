@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 119,
-      "id_mapped_preview": 119,
+      "records": 121,
+      "id_mapped_preview": 121,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 119,
-      "formats_known": 119,
+      "purpose_en_present": 121,
+      "formats_known": 121,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -9644,7 +9644,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Cup interior decoration cross-section diagnosis pending; unresolved."
     },
     {
       "id": "AT_043",
@@ -9900,7 +9901,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Polygon budget exceeded; unrepaired."
     },
     {
       "id": "AT_051",
@@ -22514,7 +22516,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Original black end patches; QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
+      "known_issue": "Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared.",
       "revision_history": [
         {
           "id": "WT007__repair",
@@ -22522,8 +22524,8 @@
           "geometry_revision": "channel_fitted_water_v2",
           "image": "previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png",
           "comparison": "previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png",
-          "status": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
-          "qa_status": "reconciliation_pending"
+          "status": "withdrawn validation claim; historical v1",
+          "qa_status": "validation_claim_withdrawn"
         }
       ]
     },
@@ -22557,7 +22559,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Original black end patches; QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
+      "known_issue": "Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared.",
       "revision_history": [
         {
           "id": "WT008__repair",
@@ -22565,8 +22567,8 @@
           "geometry_revision": "channel_fitted_water_v2",
           "image": "previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png",
           "comparison": "previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png",
-          "status": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
-          "qa_status": "reconciliation_pending"
+          "status": "withdrawn validation claim; historical v1",
+          "qa_status": "validation_claim_withdrawn"
         }
       ]
     },
@@ -38702,6 +38704,72 @@
       ],
       "comparison": {
         "file": "previews/quality-at032-041-v1/AT_041__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_043__color_orange",
+      "kind": "variant",
+      "base_id": "AT_043",
+      "name_en": "Blue two-handled amphora",
+      "name_ja": "青い双耳アンフォラ",
+      "purpose_en": "Orange amphora ceramic retaining original fittings and ornament.",
+      "record_kind": "model",
+      "image": "previews/quality-at042-051-v1/AT_043__color_orange_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-051-v1/AT_043__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at042_051.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at042-051-v1/AT_043__color_orange_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_051__color_blue",
+      "kind": "variant",
+      "base_id": "AT_051",
+      "name_en": "Mother-of-pearl jewelry box",
+      "name_ja": "螺鈿の宝石箱",
+      "purpose_en": "Blue jewel-box exterior retaining inlay, fittings and interior.",
+      "record_kind": "model",
+      "image": "previews/quality-at042-051-v1/AT_051__color_blue_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-051-v1/AT_051__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at042_051.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at042-051-v1/AT_051__color_blue_comparison.png",
         "layout": "left: original; right: accepted variant; same overview camera"
       },
       "geometry_revision": "original",

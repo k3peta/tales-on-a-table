@@ -18828,8 +18828,25 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip",
-          "qa_status": "reconciliation_pending",
-          "qa_note": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA."
+          "qa_status": "validation_claim_withdrawn",
+          "qa_note": "Old candidate pass report incorrectly applied; null-material-slot strict test failed. Historical package retained; use v2 validation status."
+        },
+        {
+          "id": "WT007__repair",
+          "base_id": "WT007",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "channel_fitted_water_v3_clean_slots",
+          "uv_revision": "existing_uv_preserved_missing_uv_added_boolean_water_revised",
+          "finish": "repair",
+          "description": "Trim water solid to existing channel banks, removing coplanar overlapping black wedges at tile ends. Water level -0.01 m and 2 m tile preserved; outlet water width 1.188421 m matches both revised tiles.",
+          "zip": "WT007__repair_CC0.zip",
+          "bytes": 3766453,
+          "sha256": "21ad458cdf977d93e771a8e619a6debb8c6c274f6cf752da15374dffba5d4730",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip",
+          "qa_status": "public_download_reimport_pending"
         }
       ]
     },
@@ -18879,8 +18896,25 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip",
-          "qa_status": "reconciliation_pending",
-          "qa_note": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA."
+          "qa_status": "validation_claim_withdrawn",
+          "qa_note": "Old candidate pass report incorrectly applied; null-material-slot strict test failed. Historical package retained; use v2 validation status."
+        },
+        {
+          "id": "WT008__repair",
+          "base_id": "WT008",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "channel_fitted_water_v3_clean_slots",
+          "uv_revision": "existing_uv_preserved_missing_uv_added_boolean_water_revised",
+          "finish": "repair",
+          "description": "Trim water solid to existing channel banks, removing coplanar overlapping black wedges at tile ends. Water level -0.01 m and 2 m tile preserved; outlet water width 1.188421 m matches both revised tiles.",
+          "zip": "WT008__repair_CC0.zip",
+          "bytes": 4643667,
+          "sha256": "cdffa6be9e068a54be7248e7ef37f9598fcde8eb36af21e47001658a83a7872d",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip",
+          "qa_status": "public_download_reimport_pending"
         }
       ]
     },

@@ -1,5 +1,7 @@
 # Stream-end repairs / 川断面修復 / 河道断面修复
 
+**Correction / 訂正:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared. [Replacement v2](wt007_008_replacement_v2.md). Original and v1 archives retained as history.
+
 **WT007/WT008 — QA status pending / 検査記録の照合待ち / 检查记录待核对**
 
 QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.

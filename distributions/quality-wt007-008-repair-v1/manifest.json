@@ -15,8 +15,8 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip",
-      "qa_status": "reconciliation_pending",
-      "qa_note": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA."
+      "qa_status": "validation_claim_withdrawn",
+      "qa_note": "Old candidate pass report incorrectly applied; null-material-slot strict test failed. Historical package retained; use v2 validation status."
     },
     {
       "id": "WT008__repair",
@@ -33,8 +33,8 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip",
-      "qa_status": "reconciliation_pending",
-      "qa_note": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA."
+      "qa_status": "validation_claim_withdrawn",
+      "qa_note": "Old candidate pass report incorrectly applied; null-material-slot strict test failed. Historical package retained; use v2 validation status."
     }
   ],
   "new_base_models": 0,

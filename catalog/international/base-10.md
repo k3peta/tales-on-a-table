@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2](../../catalog/tableware_02.md) · [Catalogue 3](../../catalog/tableware_02.zh-CN.md)
 
+**Unresolved:** Cup interior decoration cross-section diagnosis pending; unresolved.
+
 ## AT_043
 
 **Blue two-handled amphora**
@@ -201,6 +203,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_03.en.md) · [Catalogue 2](../../catalog/curios-tools_03.md) · [Catalogue 3](../../catalog/curios-tools_03.zh-CN.md)
+
+**Unresolved:** Polygon budget exceeded; unrepaired.
 
 ## AT_051
 
