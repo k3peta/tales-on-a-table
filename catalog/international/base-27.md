@@ -436,6 +436,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW014
 
 **Low three legged stool**
@@ -457,6 +459,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW015
 
@@ -480,6 +484,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW016
 
 **Mushroom sorting tray**
@@ -501,6 +507,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW017
 
@@ -524,6 +532,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW018
 
 **Folded linen and wash basin**
@@ -545,6 +555,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md) · [Catalogue 2](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW019
 
@@ -568,6 +580,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW020
 
 **Weathered waymarker**
@@ -590,6 +604,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW021
 
 **Wall apothecary shelf**
@@ -611,3 +627,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.

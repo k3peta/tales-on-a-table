@@ -1,0 +1,426 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "FW022",
+      "source_zip_sha256": "7c9da09c5a13ea7acdac796e5cfd039ecad891e1c3b9d18a7512c03522c81389",
+      "source_glb_sha256": "4612becb6f37d44efdb43a557920b443e4398a413aed1b8d42bd46be4d6a31ef",
+      "camera_location": [
+        0.5671182870864868,
+        -0.9805437326431274,
+        0.8426307439804077
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.8969941139221191,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW022_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/FW022.png",
+      "image_source_sha256": "78e03b699d3cf207bf0d45994c0e496ad355ed712f281f95b2e67d6b771e1904",
+      "image_sha256": "9976727f54d6db3a9bce42561c1516581e9fd3c5d6ac164224348dc49fb21083",
+      "thumbnail": "previews/forest-inn15/thumbnails/FW022.png",
+      "thumbnail_source_sha256": "9e2342f5e2b6a1257dca5620a75e7e55e37782e5948b655624e46559168739fd",
+      "thumbnail_sha256": "0bfe9040f098ca9625a45874711d8dc329c3fc01ebca98cf3e3128081b00e208"
+    },
+    {
+      "id": "IN001",
+      "source_zip_sha256": "91ae2e437021ab345ff6856749e971df53c42319035d2ae72ea2783daad7bc5e",
+      "source_glb_sha256": "1ff42d335c1d64e62f2853c44d50bd7ac583bde5e39a88982b8b26e25250021f",
+      "camera_location": [
+        3.118499994277954,
+        -5.480999946594238,
+        4.603499889373779
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.9004998207092285,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN001.png",
+      "image_source_sha256": "4d64f13539298e314277f4cc9e546e659d3d5ce8a41583dc30a399dde38b8784",
+      "image_sha256": "8e64b03df1ed01379e004e1cc5724e0636def5518a5d8ef6f21cf3cc20320127",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN001.png",
+      "thumbnail_source_sha256": "36985f252ae9ef4628415ac219123223eb580eae5e4d354972568c63df7820c0",
+      "thumbnail_sha256": "cdeaaadf1cefa7ae363395616f69243f491f976ae6d873a6a6dd8e82237fa407"
+    },
+    {
+      "id": "IN002",
+      "source_zip_sha256": "9ced7c1ac5f9aee2d1ef46ff1753f08276058ef323ad414013dda37f8a6fd2f7",
+      "source_glb_sha256": "1aacfa86a3ca7a58254d50a6fe4fb1bf1d0e9e2f760eb6378569e87e306b1d87",
+      "camera_location": [
+        1.784999966621399,
+        -3.0799999237060547,
+        2.3249998092651367
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.805000066757202,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN002.png",
+      "image_source_sha256": "b416794e5b96d434187accbe2ca3c38179e50dc8e6fbeda677c6aa0abcc8eb62",
+      "image_sha256": "b44028cf9fb336ddd3d8dada969d294265757b7f2564a21d1bf288258586f3b5",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN002.png",
+      "thumbnail_source_sha256": "034931226b5bdbdaacde21ad6c2a725a8687278bd7d5480e60ae458324d766eb",
+      "thumbnail_sha256": "e2acf77fee9adb9c9f42efd75175dd303115870690e7a592b7474a1246cd6e07"
+    },
+    {
+      "id": "IN003",
+      "source_zip_sha256": "4e4d44020d22c15933139d48c893b6839a68662d91592abc347ef615e8c64dc7",
+      "source_glb_sha256": "ef2cc92cce574dea287d735db178ab13e2963128bb0e5598b5af617101381100",
+      "camera_location": [
+        4.515748977661133,
+        -5.784499168395996,
+        6.045749187469482
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 7.119749069213867,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN003.png",
+      "image_source_sha256": "b92a213e0f94c1e6f64b7f378fd5719696d9b1609c67a59caae672d051275399",
+      "image_sha256": "7d3989c536e8aea86a541565ea288aa2aba5d45efe71c76dd2a64da8aaa1a91e",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN003.png",
+      "thumbnail_source_sha256": "c4dcf64985b5b1f82c7eb161f7971a9e5666476945202b3b379fc3eb5511c3d8",
+      "thumbnail_sha256": "f625bb6ae13e8f6b2e2b84b310c6472f8b8af72647f08d66814577642ebeea0d"
+    },
+    {
+      "id": "IN004",
+      "source_zip_sha256": "d90a0914c21b72812543fae1698beaf8950117bd2251cc337fb374a46f2097e0",
+      "source_glb_sha256": "45649a16335dfc1df992b7071c97c664c6432cdb86520f30afb95f3ff336051e",
+      "camera_location": [
+        2.2259998321533203,
+        -3.815999746322632,
+        2.69599986076355
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.497999906539917,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN004.png",
+      "image_source_sha256": "2a9dd20d71d1173daf8d664fabd02849a302a911e1387278b10f413daae06f44",
+      "image_sha256": "dcdaa78d0b45ca7e2e67019e1ee774e8ce56250b5a67d64408d333b4c1764690",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN004.png",
+      "thumbnail_source_sha256": "181486baa9e01b9a3e147c46281df5c4e80491811014ac0ea79ac5d1b4f4b6c5",
+      "thumbnail_sha256": "bba8dc86e97da031c3eacc20ade75a36f300c3e3404a20f0a9789232c2d6cb73"
+    },
+    {
+      "id": "IN005",
+      "source_zip_sha256": "ca2e522cdf07221302f4b7cbb4d91e8ba8d97c57eefe9812c3e15d3ee86bbe9d",
+      "source_glb_sha256": "d6f305992124e872a12552347f115f822c4dabf82c53c9435d51df14935988ff",
+      "camera_location": [
+        2.1524999141693115,
+        -3.68999981880188,
+        2.4099998474121094
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.382499933242798,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN005.png",
+      "image_source_sha256": "2def68563a8fb5583034fb2beb2dce3e2945480d036c097771417306dbe6e78c",
+      "image_sha256": "e9f5a38e3f9808a215a146b96d5622e7c5ebcf14f98d1e94cec7a89b3b715c1d",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN005.png",
+      "thumbnail_source_sha256": "f763a31ffe6864c3242f7988de348b85fcb2d73d9107ee5bb2ceb989a5d3c12c",
+      "thumbnail_sha256": "46d227b963c097d27027104052018a7db8348f075cf8141b931781aa90e37565"
+    },
+    {
+      "id": "IN006",
+      "source_zip_sha256": "d67b886f9364d65f616050884ae3c0f4580ca078cd7eb6d8425e5e41d76f1a1c",
+      "source_glb_sha256": "b3f068cd3b513a97fb54dd681c2f470587256f56f02887f4f54ec1e23cccdc59",
+      "camera_location": [
+        1.218000054359436,
+        -2.0880000591278076,
+        1.7980000972747803
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.914000153541565,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN006.png",
+      "image_source_sha256": "f5b0188e2439415426000cd8780ae8d21a8ced01b62c2041c2f08adf29954cb9",
+      "image_sha256": "0c374eeca5fc84dc0b06618f3b334cbe28dddb3de62b6f2bc0b91f9973f70714",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN006.png",
+      "thumbnail_source_sha256": "8afc96a0fdbb315370b5d42722585e6540f2702458f347b62c9d564d57e3a8c3",
+      "thumbnail_sha256": "4e3cbebc1c1af6a217696d06f31abeef662ee5b13a638a8bb499c48e26854cec"
+    },
+    {
+      "id": "IN007",
+      "source_zip_sha256": "682f6812c30d068c73272998d3ff8a9e04f2225a293c4a312e4fb0f2de6c3757",
+      "source_glb_sha256": "cbf82ba58ee956ae83def23df71943e1a121fde483c2322433ba1d364ad41b68",
+      "camera_location": [
+        1.9962515830993652,
+        -2.85178804397583,
+        4.192122459411621
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        -1.9143920226838418e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 2.5666093826293945,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN007.png",
+      "image_source_sha256": "51cf18f2a12c4d3feae8301cf88b375a3f942399615a27c7a32a864a58cdd6fc",
+      "image_sha256": "1814438c2e1cc49cd8ff667f3dc13c3e1d697e45f0af8999a9653f3ca1652af8",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN007.png",
+      "thumbnail_source_sha256": "e56cd4e179ce486285d961969b1bb0d848da188dad8e0337c9aee2a51aa67b7f",
+      "thumbnail_sha256": "3ea5bb879d453317f40a22790ceec7697a45fb4051fe9e82084fa9539f641ed4"
+    },
+    {
+      "id": "IN008",
+      "source_zip_sha256": "b382b290f382a92353b87343e51125e16d2a9fb14478401560cc3a9271a14931",
+      "source_glb_sha256": "14cfb1129955f3a739385525cecde4a39471e49b298b710ea71a4c343291f5a3",
+      "camera_location": [
+        0.5879999399185181,
+        -0.8399999141693115,
+        1.2577499151229858
+      ],
+      "camera_rotation_euler": [
+        0.6941076517105103,
+        7.209538921415515e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.7801754474639893,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN008.png",
+      "image_source_sha256": "f5b3747f827f625469c9c565068552676df6ef3755e309cc17f1eeecb6250ea3",
+      "image_sha256": "80faba814634094f908b0c5686ac99b2f7d3b596eefd5cddd046f852aa785956",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN008.png",
+      "thumbnail_source_sha256": "fddd771d187814fb1de5472516342ab3831b07585c6aff42ffdb43575b79cbc6",
+      "thumbnail_sha256": "e3e1808c1afe211a693e08ff2bf4bffa36aea18ea08ca4dc7960afffd2c70065"
+    },
+    {
+      "id": "IN009",
+      "source_zip_sha256": "07738620b76a8fdf75ad0e014e1535cc4f5eec0e64397b5af5905cc998770097",
+      "source_glb_sha256": "1031b74e300b9b3b47d646e9db11ae7eb45586d98a536abe6051f81a4c0b9022",
+      "camera_location": [
+        0.22049997746944427,
+        -0.3779999911785126,
+        0.3104999363422394
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.3464999794960022,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN009_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN009.png",
+      "image_source_sha256": "024fd93a3e7eeb5d358d862a89d4b7808f899f7616c60f2d46ec4049608eee0e",
+      "image_sha256": "312be2a6eb9d322ac6ed789d1fb4c569ba536005946e4a8c071364c7a4fbf83b",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN009.png",
+      "thumbnail_source_sha256": "4f3e7ef864ccdd13a3301bbdde72f4997b63c440fb3ae1b954af8f14d388cbbc",
+      "thumbnail_sha256": "8e2ca59cc3857642f34c6c3195510c9e6ed70d5b868600b75d619bc040056512"
+    },
+    {
+      "id": "IN010",
+      "source_zip_sha256": "bb3fa24652ac8acc642d23b82c839aec8685622e9271d827918f8ec276c0880e",
+      "source_glb_sha256": "5528a35fb6cce51ca067c31adb8b2bff08b8bcab9fe837ebd27cb11cfd5af9dd",
+      "camera_location": [
+        0.8819999694824219,
+        -1.5674999952316284,
+        1.1319999694824219
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 1.3860000371932983,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN010.png",
+      "image_source_sha256": "8f1c460529b59f1fc1c410e092286cc37c12816be0fd0bb78706b6a8022ba9b8",
+      "image_sha256": "539c4744c8d27271d542db6bb280f7f698ed0a35d17743fade5037bbc0d5a03e",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN010.png",
+      "thumbnail_source_sha256": "47dc74695273e361dbc9ac4caf296dcfa1d8c135169c75cd3bcbd02a86f09ff7",
+      "thumbnail_sha256": "b3a147d0f382937ffc59f29b79325b926ce5ef3e7744896ed495028183b624f0"
+    },
+    {
+      "id": "IN011",
+      "source_zip_sha256": "6ae89f9e5b73972570f76e6c022e587feb5fd211c18b8376fbff280292d18e57",
+      "source_glb_sha256": "6b50165b2660b92df72d5faa24d09beb7c61952ef12d4c2cb5b44a6eefd2d7bc",
+      "camera_location": [
+        0.8084999322891235,
+        -1.3997498750686646,
+        1.0904998779296875
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.7837950489793e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 1.2704999446868896,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN011.png",
+      "image_source_sha256": "59064a8c3de1813be8dc2f5547a1e182a1896d4a31d30b6332793a02e9e1f4be",
+      "image_sha256": "6fbca818bced03c12990cad6eaefb9474802ab774d49c2d9052b8c08bc8c5808",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN011.png",
+      "thumbnail_source_sha256": "c627b08526a7dd987880a585f0baf35141b8158bb248b35030233b02c8998c01",
+      "thumbnail_sha256": "37fec30c8627b4d46cd5b41ed655ebaa1e092e0b0cd7ca07520f02638e86281f"
+    },
+    {
+      "id": "IN012",
+      "source_zip_sha256": "f504c111490a81464b510e4ad6ad0385290943e4d39befa4b358833f9d126a9d",
+      "source_glb_sha256": "ee722ed9e91fc9c4572b8ab1183f5723eade7f97c9e94072886c62c80edfc758",
+      "camera_location": [
+        0.65625,
+        -1.1487500667572021,
+        0.96875
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.03125,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN012.png",
+      "image_source_sha256": "5deaeb737cab7a847699a28c798e43eb0f38c17e1ab9ca11d1f5edf14959d030",
+      "image_sha256": "3040fe0110b78584b1831145f7269373f6ea4041a5ee61239a029b47c335781e",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN012.png",
+      "thumbnail_source_sha256": "70400c6ad94ef3e98f1e21cda0ffe30883c2491909f32158085978b2958ce99d",
+      "thumbnail_sha256": "1e05d1a1798054e9993185e255b879b837f8e3e8bff39c542b6e9f57d21e8d60"
+    },
+    {
+      "id": "IN013",
+      "source_zip_sha256": "6f1828cb07355a8378ee494963c7718d39af6dbf024a5d521b9e227b47491264",
+      "source_glb_sha256": "f54b21422b9cb353783c3927dbc2b48cd64ce20dd8bf0cab9f4314c431e9c511",
+      "camera_location": [
+        0.693000078201294,
+        -1.1880000829696655,
+        0.827000081539154
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 1.0890001058578491,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN013.png",
+      "image_source_sha256": "941f11cc406c7003dd92bdb400a61b4457c2bacdcc72441967384a47b3bb917d",
+      "image_sha256": "873ab2c6784260854b7722fab88f84bbbad4c53b2eda70e9361096f3ff05e576",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN013.png",
+      "thumbnail_source_sha256": "70bb3ca3ce03cd3b2d4433410ea6702fc9a9a6b8b5882a2b95ecc8f99f4b440c",
+      "thumbnail_sha256": "5cb904c2d74cb81c7d32ec9095a79e641aefe0ae01870f741cf7af99bded2a84"
+    },
+    {
+      "id": "IN014",
+      "source_zip_sha256": "9b68eda7fdfab5e497f4c91fe316baed0cca188b5606ec6abaf33fb529fff43a",
+      "source_glb_sha256": "10f26db8b6d43b532f8af1328412b1c761b0f80bf085d2171b8c6b49f2ab2c26",
+      "camera_location": [
+        0.689009964466095,
+        -1.1811599731445312,
+        0.9358718395233154
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.0827299356460571,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/forest-inn15/renders/IN014.png",
+      "image_source_sha256": "f4eda562dee5261f530d528435fa5796f2ff3716e5b8a60e6f72b6ca2c90fee6",
+      "image_sha256": "02711635ed9fc113138af736ff4dccca573d7407d9fa328712fbcc764b00e291",
+      "thumbnail": "previews/forest-inn15/thumbnails/IN014.png",
+      "thumbnail_source_sha256": "3ac204d2c492ec30dbe3be210addb0b41d8fcb8f233fff76b38cd3ee6d51c45a",
+      "thumbnail_sha256": "0cf5722673ae4927d0e7e8f7f44a0820a898530a4ec4a802a21b7b86eabf64bc"
+    }
+  ]
+}

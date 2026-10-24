@@ -7,6 +7,8 @@
 
 ## 公開履歴
 
+- 2026-10-24 — [AT067 section revision](catalog/at067_scratch_repair.md), no count increment; public-download check pending.
+
 - 2026-10-24 — [FW material repairs](catalog/fw_normal_repairs.md):10 revisions, no new count; corrected images now737/1008, missing271. Original versions retained.
 
 - 2026-10-24 — [Quality25](catalog/material_variants_at062_071.md):2 variants,1 gem revision; base1008 unchanged, variants126. [Images](catalog/international/README.md):727 mapped,281 missing;FW repairs tracked separately.

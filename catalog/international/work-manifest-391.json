@@ -3832,7 +3832,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW022_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3847,6 +3846,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3857,7 +3860,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN001_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3872,6 +3874,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3882,7 +3888,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN002_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3897,6 +3902,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3907,7 +3916,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN003_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3922,6 +3930,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3932,7 +3944,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN004_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3947,6 +3958,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3957,7 +3972,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN005_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3972,6 +3986,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3982,7 +4000,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN006_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3997,6 +4014,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4007,7 +4028,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN007_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4022,6 +4042,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4032,7 +4056,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN008_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4047,6 +4070,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4057,7 +4084,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN009_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4072,6 +4098,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4082,7 +4112,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN010_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4097,6 +4126,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4107,7 +4140,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN011_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4122,6 +4154,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4132,7 +4168,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN012_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4147,6 +4182,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4157,7 +4196,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN013_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4172,6 +4210,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4182,7 +4224,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN014_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4197,6 +4238,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 737,
-      "preview_not_mapped": 271,
+      "id_mapped_preview": 752,
+      "preview_not_mapped": 256,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -10471,7 +10471,15 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Polygon-budget issue and possibly detached scratch strips remain unrepaired; diagnosis pending."
+      "known_issue": "Original floating scratch strips; surface-ribbon geometry/UV revision final-ZIP guarded, public identity match pending. 21140 triangles still over budget.",
+      "revision_history": [
+        {
+          "id": "AT_067__repair",
+          "geometry_revision": "scratch_surface_ribbons_v2",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at067-scratch-repair-v1/AT_067__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_068",
@@ -24491,7 +24499,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW014",
@@ -24518,7 +24527,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW015",
@@ -24545,7 +24555,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW016",
@@ -24572,7 +24583,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW017",
@@ -24599,7 +24611,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW018",
@@ -24627,7 +24640,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW019",
@@ -24654,7 +24668,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW020",
@@ -24681,7 +24696,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW021",
@@ -24708,7 +24724,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW022",
@@ -24718,8 +24735,8 @@
       "name_ja": "Lavender drying bundle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/FW022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24735,7 +24752,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/FW022.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN001",
@@ -24745,8 +24764,8 @@
       "name_ja": "Stone hearth",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24762,7 +24781,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN001.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN002",
@@ -24772,8 +24793,8 @@
       "name_ja": "Reception counter",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24789,7 +24810,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN002.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN003",
@@ -24799,8 +24822,8 @@
       "name_ja": "Stair flight",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24816,7 +24839,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN003.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN004",
@@ -24826,8 +24851,8 @@
       "name_ja": "Trestle table",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24843,7 +24868,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN004.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN005",
@@ -24853,8 +24880,8 @@
       "name_ja": "Dining bench",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24870,7 +24897,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN005.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN006",
@@ -24880,8 +24909,8 @@
       "name_ja": "Highback chair",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24897,7 +24926,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN006.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN007",
@@ -24907,8 +24938,8 @@
       "name_ja": "Woven runner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24924,7 +24955,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN007.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN008",
@@ -24934,8 +24967,8 @@
       "name_ja": "Guest ledger",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24951,7 +24984,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN008.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN009",
@@ -24961,8 +24996,8 @@
       "name_ja": "Counter bell",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24978,7 +25013,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN009.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN010",
@@ -24988,8 +25025,8 @@
       "name_ja": "Room key rack",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25005,7 +25042,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN010.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN011",
@@ -25015,8 +25054,8 @@
       "name_ja": "Travel chest",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25032,7 +25071,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN011.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN012",
@@ -25042,8 +25083,8 @@
       "name_ja": "Travel satchel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25059,7 +25100,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN012.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN013",
@@ -25069,8 +25112,8 @@
       "name_ja": "Rolled blanket",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25086,7 +25129,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN013.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN014",
@@ -25096,8 +25141,8 @@
       "name_ja": "Log basket",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/forest-inn15/thumbnails/IN014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 15 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25113,7 +25158,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN014.png",
+      "image_manifest": "previews/forest-inn15/manifest.json"
     },
     {
       "id": "IN015",

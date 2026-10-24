@@ -7242,7 +7242,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_067_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "4885e3185adb9724a8d8b63fd94023046203f5790cf2a404de9b1c0e103bbd06",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_067__repair",
+          "base_id": "AT_067",
+          "entity_type": "revision",
+          "geometry_revision": "scratch_surface_ribbons_v2",
+          "uv_revision": "scratch_uv_replaced",
+          "zip": "AT_067__repair_CC0.zip",
+          "sha256": "11281a322a451e659b80c1669481907c268f28ea36885ebaa8b903525efa413d",
+          "bytes": 1704487,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at067-scratch-repair-v1/AT_067__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_068",

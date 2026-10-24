@@ -205,3 +205,5 @@ Quality24:8 comparison/thumbnail images; separate variants124. Base727 image map
 Quality25:6 comparison/thumbnail images; separate variants126. Base727 image mappings,281 missing before separate FW repair image update. Image completion is not all-model quality approval.
 
 2026-10-24 update:FW10 corrected-revision images added, base737/1008 image mappings, missing271. Previous10 FW holds remain historical; original downloads preserved. Variants126 separate. [FW material repairs](fw_normal_repairs.md).
+
+FW022 / IN001–014:15 individual full renders +15 thumbnails added. International base ID mappings752/1008, missing256; variant126/126. Not a claim that every prior mapping is an isolated individual render.

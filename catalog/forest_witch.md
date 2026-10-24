@@ -159,3 +159,15 @@ Rainwater barrel
 [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW012.png)
 
 [![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FW022 — Lavender drying bundle
+
+Lavender drying bundle
+
+[![FW022](../previews/forest-inn15/thumbnails/FW022.png)](../previews/forest-inn15/renders/FW022.png)
+
+[Full image](../previews/forest-inn15/renders/FW022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW022_CC0.zip)

@@ -50,7 +50,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue 2](../../catalog/curios-tools_04.md) · [Catalogue 3](../../catalog/curios-tools_04.zh-CN.md)
 
-**Unresolved:**Budget/redesign issue and scratch-strip diagnosis pending.
+**Version history:** Scratch strips diagnosed and revised; see revision below. Polygon-budget issue remains unresolved.
+
+**Revision available, public-download check pending:** [AT067 repair and comparison](../../catalog/at067_scratch_repair.md). Original download/image retained.
 
 ## AT_068
 

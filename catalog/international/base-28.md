@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Lavender drying bundle
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW022](../../previews/forest-inn15/thumbnails/FW022.png)](../../previews/forest-inn15/renders/FW022.png)
+
+[Full-size image](../../previews/forest-inn15/renders/FW022.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Stone hearth
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN001](../../previews/forest-inn15/thumbnails/IN001.png)](../../previews/forest-inn15/renders/IN001.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Reception counter
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN002](../../previews/forest-inn15/thumbnails/IN002.png)](../../previews/forest-inn15/renders/IN002.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Stair flight
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN003](../../previews/forest-inn15/thumbnails/IN003.png)](../../previews/forest-inn15/renders/IN003.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Trestle table
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN004](../../previews/forest-inn15/thumbnails/IN004.png)](../../previews/forest-inn15/renders/IN004.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Dining bench
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN005](../../previews/forest-inn15/thumbnails/IN005.png)](../../previews/forest-inn15/renders/IN005.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Highback chair
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN006](../../previews/forest-inn15/thumbnails/IN006.png)](../../previews/forest-inn15/renders/IN006.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Woven runner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN007](../../previews/forest-inn15/thumbnails/IN007.png)](../../previews/forest-inn15/renders/IN007.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Guest ledger
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN008](../../previews/forest-inn15/thumbnails/IN008.png)](../../previews/forest-inn15/renders/IN008.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Counter bell
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN009](../../previews/forest-inn15/thumbnails/IN009.png)](../../previews/forest-inn15/renders/IN009.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Room key rack
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN010](../../previews/forest-inn15/thumbnails/IN010.png)](../../previews/forest-inn15/renders/IN010.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Travel chest
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN011](../../previews/forest-inn15/thumbnails/IN011.png)](../../previews/forest-inn15/renders/IN011.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Travel satchel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN012](../../previews/forest-inn15/thumbnails/IN012.png)](../../previews/forest-inn15/renders/IN012.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +322,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Rolled blanket
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN013](../../previews/forest-inn15/thumbnails/IN013.png)](../../previews/forest-inn15/renders/IN013.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +346,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Log basket
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN014](../../previews/forest-inn15/thumbnails/IN014.png)](../../previews/forest-inn15/renders/IN014.png)
+
+[Full-size image](../../previews/forest-inn15/renders/IN014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
