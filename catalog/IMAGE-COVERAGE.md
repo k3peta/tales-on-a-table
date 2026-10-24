@@ -103,7 +103,7 @@
 |[prison.en.md](prison.en.md)|4|existing images; detailed coverage review pending|
 |[prison.md](prison.md)|4|existing images; detailed coverage review pending|
 |[prison.zh-CN.md](prison.zh-CN.md)|4|existing images; detailed coverage review pending|
-|[recovered_rustic_fences_rf7.md](recovered_rustic_fences_rf7.md)|0|pending: final render/ID mapping not yet verified|
+|[recovered_rustic_fences_rf7.md](recovered_rustic_fences_rf7.md)|10|completed:7 IDs, direct public-model renders and3 reverse views|
 |[rural_interfaces_v1.md](rural_interfaces_v1.md)|4|updated this pass|
 |[rustic_slope_connections_v2.md](rustic_slope_connections_v2.md)|3|updated this pass|
 |[scene_polish_herbalist.md](scene_polish_herbalist.md)|10|updated this pass|
@@ -116,7 +116,7 @@
 |[tableware_02.en.md](tableware_02.en.md)|11|existing images; detailed coverage review pending|
 |[tableware_02.md](tableware_02.md)|11|existing images; detailed coverage review pending|
 |[tableware_02.zh-CN.md](tableware_02.zh-CN.md)|11|existing images; detailed coverage review pending|
-|[terrain_connectivity_v1.md](terrain_connectivity_v1.md)|0|pending: final render/ID mapping not yet verified|
+|[terrain_connectivity_v1.md](terrain_connectivity_v1.md)|9|completed:91 IDs mapped to9 verified group renders|
 |[terrain_connectivity_v10.md](terrain_connectivity_v10.md)|2|updated this pass|
 |[terrain_connectivity_v11.md](terrain_connectivity_v11.md)|2|updated this pass|
 |[terrain_use_plan_v1.md](terrain_use_plan_v1.md)|4|updated this pass|
@@ -140,6 +140,6 @@
 |[wizard-study.md](wizard-study.md)|40|existing images; detailed coverage review pending|
 |[wizard-study.zh-CN.md](wizard-study.zh-CN.md)|40|existing images; detailed coverage review pending|
 
-未対応の具体的理由: recovered_rustic_fences_rf7 は完成バッチ内に実レンダーが見つからず、terrain_connectivity_v1 は34件時点の画像と現行91件の個別対応が未検証。次回は制作者の確定画像一覧を照合して追加します。既存画像ページのモデル別網羅性は今回未査定。
+2026-10-24追補: RF7とterrain91の確定画像対応が届き、上記2件の画像追加待ちは解消。既存画像ページの全モデル別網羅性・隠面・機能は未査定。
 
 |[material_variants_ft021_030.md](material_variants_ft021_030.md)|18|added: accepted9 variants, original/variant comparisons|
