@@ -222,6 +222,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality43:** 8 zero faces removed;87k exceeds50k; colors retained. [Details](../material_variants_arm077_wh006.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_077__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/ARM_077__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_078
 
 **工房の研磨台**
@@ -269,6 +271,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality43:** 256 zero faces removed; below50k; cold static forge only. [Details](../material_variants_arm077_wh006.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_079__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/ARM_079__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## ARM_080
 
@@ -318,6 +322,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality43:** 6700 zero faces removed, missing UV added;348k heavy composite armor/stand/tag. [Details](../material_variants_arm077_wh006.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_001__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_001__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## WH_NEW_002
 
 **装飾用の大型弩**
@@ -341,6 +347,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality43:** 1658 zero faces removed, missing UV added;63k over50k; static decorative assembly. [Details](../material_variants_arm077_wh006.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_002__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_002__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## WH_NEW_003
 
@@ -366,6 +374,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality43:** 1632 zero faces removed, missing UV added;40k over20k. [Details](../material_variants_arm077_wh006.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_003__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_003__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## WH_NEW_004
 
 **琥珀結晶の二股槍**
@@ -389,6 +399,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality43:** 764 zero faces removed, missing UV added;22k over20k; cyan variant uses repaired baseline. [Details](../material_variants_arm077_wh006.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_004__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## WH_NEW_005
 
@@ -414,6 +426,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality43:** 1040 zero faces removed, missing UV added;36k over20k. [Details](../material_variants_arm077_wh006.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_005__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_005__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## WH_NEW_006
 
 **二段20本剣ラック**
@@ -437,6 +451,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality43:** 5820 zero faces removed, missing UV added;90k over50k; empty20slot rack counted once. [Details](../material_variants_arm077_wh006.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_006__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm077-wh006-v1/WH_NEW_006__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## WH_NEW_007
 

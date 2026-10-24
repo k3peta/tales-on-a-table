@@ -18485,7 +18485,8 @@
         {
           "id": "ARM_077__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "8 zero faces removed;87k exceeds50k; colors retained."
@@ -18568,7 +18569,8 @@
         {
           "id": "ARM_079__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "256 zero faces removed; below50k; cold static forge only."
@@ -18651,7 +18653,8 @@
         {
           "id": "WH_NEW_001__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "6700 zero faces removed, missing UV added;348k heavy composite armor/stand/tag."
@@ -18696,7 +18699,8 @@
         {
           "id": "WH_NEW_002__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "1658 zero faces removed, missing UV added;63k over50k; static decorative assembly."
@@ -18741,7 +18745,8 @@
         {
           "id": "WH_NEW_003__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "1632 zero faces removed, missing UV added;40k over20k."
@@ -18786,7 +18791,8 @@
         {
           "id": "WH_NEW_004__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "764 zero faces removed, missing UV added;22k over20k; cyan variant uses repaired baseline."
@@ -18831,7 +18837,8 @@
         {
           "id": "WH_NEW_005__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "1040 zero faces removed, missing UV added;36k over20k."
@@ -18876,7 +18883,8 @@
         {
           "id": "WH_NEW_006__repair",
           "catalog": "catalog/material_variants_arm077_wh006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "5820 zero faces removed, missing UV added;90k over50k; empty20slot rack counted once."

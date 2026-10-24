@@ -12,7 +12,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_077__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "ARM_079__repair",
@@ -26,7 +26,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_079__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_001__repair",
@@ -40,7 +40,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_001__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_002__repair",
@@ -54,7 +54,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_002__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_003__repair",
@@ -68,7 +68,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_003__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_004__cyancrystal",
@@ -82,7 +82,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_004__repair",
@@ -96,7 +96,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_005__repair",
@@ -110,7 +110,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_005__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "WH_NEW_006__repair",
@@ -124,7 +124,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_006__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     }
   ],
   "new_base_models": 0,

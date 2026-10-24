@@ -1,0 +1,338 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "bf8fdd99a41387d718dc91f8c70a8cef7ca8a60b",
+  "guard_run_id": "e98dbf7d-72d3-4bad-83ed-b9a06e58686b",
+  "started_utc": "2026-10-24T16:34:22.471661+00:00",
+  "finished_utc": "2026-10-24T16:35:22.974351+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "ARM_077__repair",
+      "zip": "ARM_077__repair_CC0.zip",
+      "zip_sha256": "ab68aaf1e93fc43c3d95dff52c75c45252ed115cc647f60b0fbe431de8b9fd87",
+      "members": {
+        "ARM_077__repair.blend": "21d1edae5849f76293c7a6570377f46c66c5e526f36e690c2d8dcddf09e639c5",
+        "ARM_077__repair.glb": "911b0a000ef34e4969449b78b69ef307a0f54daf518a03bc06a47a013cd97902"
+      }
+    },
+    {
+      "id": "ARM_079__repair",
+      "zip": "ARM_079__repair_CC0.zip",
+      "zip_sha256": "075d77dfbe205c9e517994b6d3a7de3efdce921ad80589557e40e268e7051ef9",
+      "members": {
+        "ARM_079__repair.blend": "c441451f813d54b627248973dc67cb96c3f561edab5e25c646f29e764b1f5fa1",
+        "ARM_079__repair.glb": "616c6347a986a5c31633cb181c776b33c59354e52964ba83c48e777516144312"
+      }
+    },
+    {
+      "id": "WH_NEW_001__repair",
+      "zip": "WH_NEW_001__repair_CC0.zip",
+      "zip_sha256": "5d139c059e8666be24ad46c63e2a15faa9fdb4e2f7d22b897d7af2a7082d0874",
+      "members": {
+        "WH_NEW_001__repair.blend": "4cb1a65fe6e3f0870231e546afbfa2417b1bb660c14983d5801a97c50c12bea5",
+        "WH_NEW_001__repair.glb": "b7d9892eab810497426bc0a7a6f1f8ec1c364e188b87c512f28ec7bdf34a1d9e"
+      }
+    },
+    {
+      "id": "WH_NEW_002__repair",
+      "zip": "WH_NEW_002__repair_CC0.zip",
+      "zip_sha256": "9e40ab69e7d136bdc66b1413e343b9ec4167ea6108d155d3838f73f9dfcf1a5a",
+      "members": {
+        "WH_NEW_002__repair.blend": "bd93e333ba91f216d3c90e66937ae697f197bff98cdfba84f84d4800506ebce3",
+        "WH_NEW_002__repair.glb": "0eec47acb283f155506e2267784024aa0a33d033e0711af1dcd157311404b037"
+      }
+    },
+    {
+      "id": "WH_NEW_003__repair",
+      "zip": "WH_NEW_003__repair_CC0.zip",
+      "zip_sha256": "5aa418d41c7efced2bc9071c2c3c743b6952813d8725edf05b5fd4b595670a36",
+      "members": {
+        "WH_NEW_003__repair.glb": "9c495965f0820464f78ebab9e4c964ff22250cb7fbc50a26f7fa63fbff01273d",
+        "WH_NEW_003__repair.blend": "587213852e81f49732aac8195805abf9e222f9a50872fed4f7b900d2ef666db2"
+      }
+    },
+    {
+      "id": "WH_NEW_004__cyancrystal",
+      "zip": "WH_NEW_004__cyancrystal_CC0.zip",
+      "zip_sha256": "ce3c6799eaec1fdc49f4b40ab2cfb10f450dc512606ea9a331ae6c437742c509",
+      "members": {
+        "WH_NEW_004__cyancrystal.glb": "791b2ec64a6eaab57d56bdaa05075abbb5336f2e605d2f1356873bac954e2d75",
+        "WH_NEW_004__cyancrystal.blend": "9b02c22265603fa3ecb52d31190a85b6218491fe22b756e690f7a179d338c5bc"
+      }
+    },
+    {
+      "id": "WH_NEW_004__repair",
+      "zip": "WH_NEW_004__repair_CC0.zip",
+      "zip_sha256": "8d84d4d98b17dd775ddba1e60715629c38d2bf3ae57e519dc1f98d1651b8c9e8",
+      "members": {
+        "WH_NEW_004__repair.blend": "ae649c17ba9a2b2464c72c11e53ad0f59ce32ad93466275433f96a5f0058d65a",
+        "WH_NEW_004__repair.glb": "b7cb0c063cc4ebfea66110bbdc58403029e69824ff6d622be8eefd27bd63d863"
+      }
+    },
+    {
+      "id": "WH_NEW_005__repair",
+      "zip": "WH_NEW_005__repair_CC0.zip",
+      "zip_sha256": "0012e32670abede3d03bf6a4d524e7cbead6e211c972e3cdf9acb8116cc262d4",
+      "members": {
+        "WH_NEW_005__repair.glb": "505ad4850899ab19007a1c96d7575ab70c90090d6d8b247aa1d1197f960228f2",
+        "WH_NEW_005__repair.blend": "dbc19647ea7dcd44527c37fcb5db6713e2785d00c3f138a3e2f66f38064f4007"
+      }
+    },
+    {
+      "id": "WH_NEW_006__repair",
+      "zip": "WH_NEW_006__repair_CC0.zip",
+      "zip_sha256": "882b194c9b1393c5eafade2ff3bf90afc5d519f652cf387948b4721fbc3c63c4",
+      "members": {
+        "WH_NEW_006__repair.blend": "adc7bca7aaac4ec10268be52b3ff8f1c488b2a930e10ebcdf7263da3ce890deb",
+        "WH_NEW_006__repair.glb": "14db6b6d5b3e71e9a95d2b5db7ede00460dca70118cb9b9133ba0a450a377501"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "ARM_077__repair",
+      "formats": {
+        "blend": {
+          "triangles": 87804,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 87804,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 2.9802322387695312e-08,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_079__repair",
+      "formats": {
+        "blend": {
+          "triangles": 47780,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 47780,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_001__repair",
+      "formats": {
+        "blend": {
+          "triangles": 342176,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 342176,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 1.2013700256829907e-07,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_002__repair",
+      "formats": {
+        "blend": {
+          "triangles": 61998,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 61998,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_003__repair",
+      "formats": {
+        "blend": {
+          "triangles": 38876,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 38876,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_004__repair",
+      "formats": {
+        "blend": {
+          "triangles": 22112,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 22112,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_004__cyancrystal",
+      "formats": {
+        "blend": {
+          "triangles": 22112,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 22112,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_005__repair",
+      "formats": {
+        "blend": {
+          "triangles": 35580,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 35580,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 3.332000986233652e-08,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_006__repair",
+      "formats": {
+        "blend": {
+          "triangles": 90736,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 90736,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 2.384185791015625e-07,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

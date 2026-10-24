@@ -6,7 +6,7 @@ ARM0778, ARM079256 exact-zero faces removed, original colors retained. WH0016700
 
 改訂8件非加算、シアン結晶variant1件別集計。WHはUV追加あり、元頂点色なし。台付き鎧は複合記録、20枠棚は家具1件で武器20個ではありません。8个修订不新增模型；1个青色晶体变体单独统计。WH补充UV，原模型没有顶点色；展示组合和空架不拆分增加数量。
 
-Same camera/light/scale comparisons. Final-ZIP guard checks BLEND/GLB geometry/UV/spatial vertex colors and rejects four old missing-color fixtures. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP guard checks BLEND/GLB geometry/UV/spatial vertex colors and rejects four old missing-color fixtures. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed426 distribution records;582 remain;131 budget issues unresolved. Nine new warnings. Cold forge and decorative weapon props remain static: no functional mechanism, collision, rig, load, gameplay or Blender4.3.2 approval. ARM079 is below50k warning; other budget issues remain. Earlier diagnoses retained.
 
@@ -155,3 +155,5 @@ Exact-zero-area cleanup retains all positive surfaces and source vertex colors w
 [![WH_NEW_006__repair close_comparison](../previews/quality-arm077-wh006-v1/WH_NEW_006__repair_close_comparison.png)](../previews/quality-arm077-wh006-v1/WH_NEW_006__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-arm077-wh006-v1/validation.json).
