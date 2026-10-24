@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 921,
+  "item_count": 929,
   "count_by_kind": {
-    "model": 771,
+    "model": 777,
     "derived_component": 2,
-    "group": 29,
+    "group": 31,
     "structural_variant": 15,
     "connection_configuration": 3,
     "placement_variant": 6,
@@ -45,7 +45,8 @@
     "natural_rock_forms": 2,
     "terrain_use_plan": 6,
     "cave_deposition": 3,
-    "static_mudflat": 1
+    "static_mudflat": 1,
+    "fortified_city_sites": 8
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -27904,6 +27905,214 @@
       "zip_file": "MF101_DrainedMudflat_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip",
       "theme": "static_mudflat",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS101_TimberScaffold",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 106336,
+      "zip_sha256": "8522c29dcaaaec21a9d84ac921ad5ba6162c771cf11c17afe14c2ec3e3ab2ac8",
+      "names": {
+        "ja": "TimberScaffold",
+        "en": "TimberScaffold",
+        "zh-CN": "TimberScaffold"
+      },
+      "descriptions": {
+        "ja": "2m bay deckZ2 with integral ladder and guard rails; published ladder alone not a scaffold",
+        "en": "2m bay deckZ2 with integral ladder and guard rails; published ladder alone not a scaffold",
+        "zh-CN": "2m bay deckZ2 with integral ladder and guard rails; published ladder alone not a scaffold"
+      },
+      "zip_file": "FCS101_TimberScaffold_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS102_TreadwheelHoist",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 219378,
+      "zip_sha256": "f31b61b6fb029baca5b89552abc61f594288a52fbe559d86f9e7568955d1bafd",
+      "names": {
+        "ja": "TreadwheelHoist",
+        "en": "TreadwheelHoist",
+        "zh-CN": "TreadwheelHoist"
+      },
+      "descriptions": {
+        "ja": "Grounded frame, treadwheel, boom and hanging stone sling; loose pulley not complete hoist",
+        "en": "Grounded frame, treadwheel, boom and hanging stone sling; loose pulley not complete hoist",
+        "zh-CN": "Grounded frame, treadwheel, boom and hanging stone sling; loose pulley not complete hoist"
+      },
+      "zip_file": "FCS102_TreadwheelHoist_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS103_UnfinishedMasonry",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "structural_variant",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 88992,
+      "zip_sha256": "08cb33d3d55cca079dce5f0e35636927a22ee701419f6d5426fcf1e4233e564b",
+      "names": {
+        "ja": "UnfinishedMasonry",
+        "en": "UnfinishedMasonry",
+        "zh-CN": "UnfinishedMasonry"
+      },
+      "descriptions": {
+        "ja": "2m masonry bay with stepped unlaid top and tooth end; old wall remains existing reference",
+        "en": "2m masonry bay with stepped unlaid top and tooth end; old wall remains existing reference",
+        "zh-CN": "2m masonry bay with stepped unlaid top and tooth end; old wall remains existing reference"
+      },
+      "zip_file": "FCS103_UnfinishedMasonry_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS104_MasonsDressingBank",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "structural_variant",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 86468,
+      "zip_sha256": "220c68d5b69839442c9cbb983ef3191f36064ef9ad0d772972d9c6e4bf3b4a70",
+      "names": {
+        "ja": "MasonsDressingBank",
+        "en": "MasonsDressingBank",
+        "zh-CN": "MasonsDressingBank"
+      },
+      "descriptions": {
+        "ja": "Stone dressing bank with ashlar block and wedges; generic workbench not newly counted independent",
+        "en": "Stone dressing bank with ashlar block and wedges; generic workbench not newly counted independent",
+        "zh-CN": "Stone dressing bank with ashlar block and wedges; generic workbench not newly counted independent"
+      },
+      "zip_file": "FCS104_MasonsDressingBank_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS105_RoadGatehouse",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 390688,
+      "zip_sha256": "7e901ced09d6325454169154b35024b5ca0492fe5644c45494c6cd6f9e003990",
+      "names": {
+        "ja": "RoadGatehouse",
+        "en": "RoadGatehouse",
+        "zh-CN": "RoadGatehouse"
+      },
+      "descriptions": {
+        "ja": "6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program",
+        "en": "6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program",
+        "zh-CN": "6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program"
+      },
+      "zip_file": "FCS105_RoadGatehouse_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS106_WatchKiosk",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 101310,
+      "zip_sha256": "ef30983eb8e366a083a9650ed62a814a49b0e235280146b895117e8c5daed262",
+      "names": {
+        "ja": "WatchKiosk",
+        "en": "WatchKiosk",
+        "zh-CN": "WatchKiosk"
+      },
+      "descriptions": {
+        "ja": "2m guard booth with open door/window, bench and pitched roof; not barn/wine facility",
+        "en": "2m guard booth with open door/window, bench and pitched roof; not barn/wine facility",
+        "zh-CN": "2m guard booth with open door/window, bench and pitched roof; not barn/wine facility"
+      },
+      "zip_file": "FCS106_WatchKiosk_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCSV01_ConstructionSite",
+      "category": "architecture",
+      "record_kind": "group",
+      "design_classification": "vignette_reused_components",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 559301,
+      "zip_sha256": "50a04d77e8483badafc47ca4aa33c2682151d59917dbd0565245070c65462420",
+      "names": {
+        "ja": "ConstructionSite",
+        "en": "ConstructionSite",
+        "zh-CN": "ConstructionSite"
+      },
+      "descriptions": {
+        "ja": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
+        "en": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
+        "zh-CN": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape."
+      },
+      "zip_file": "FCSV01_ConstructionSite_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip",
+      "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCSV02_RoadEntrance",
+      "category": "architecture",
+      "record_kind": "group",
+      "design_classification": "vignette_reused_components",
+      "independent_design_increment": null,
+      "revision": "fortified-city-sites-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 903641,
+      "zip_sha256": "ca58b779ff7c36d58dc29e61a5e71be993153324bd589f6d6bf778e7bd62d05e",
+      "names": {
+        "ja": "RoadEntrance",
+        "en": "RoadEntrance",
+        "zh-CN": "RoadEntrance"
+      },
+      "descriptions": {
+        "ja": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
+        "en": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
+        "zh-CN": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape."
+      },
+      "zip_file": "FCSV02_RoadEntrance_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip",
+      "theme": "fortified_city_sites",
       "global_unique": "unconfirmed"
     }
   ]
