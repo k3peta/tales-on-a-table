@@ -32,6 +32,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Quality54:** 64 exact-zero faces removed512→448tri;positive surfaces/chipped rim retained. [Details](../material_variants_fp008_fp017.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP010__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp008-017-v1/FP010__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## FP011
 
 **Water jug**
@@ -60,6 +62,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Quality54:** 64 exact-zero faces removed1024→960tri;blue glaze uses repaired baseline,wear/noncolor channels retained. [Details](../material_variants_fp008_fp017.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp008-017-v1/FP011__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## FP012
 
 **Pewter drinking cup**
@@ -87,6 +91,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5`.
 
 **Quality54:** 48 exact-zero faces removed448→400tri;metal wear retained,no food-use guarantee. [Details](../material_variants_fp008_fp017.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP012__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp008-017-v1/FP012__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## FP013
 
@@ -171,6 +177,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9`.
 
 **Quality54:** 64 exact-zero tray faces removed;positive surfaces/candle/existing emission retained. [Details](../material_variants_fp008_fp017.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP015__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp008-017-v1/FP015__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## FP016
 

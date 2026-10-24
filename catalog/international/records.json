@@ -23269,7 +23269,8 @@
         {
           "id": "FP010__repair",
           "catalog": "catalog/material_variants_fp008_fp017.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "64 exact-zero faces removed512→448tri;positive surfaces/chipped rim retained."
@@ -23355,7 +23356,8 @@
         {
           "id": "FP011__repair",
           "catalog": "catalog/material_variants_fp008_fp017.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "64 exact-zero faces removed1024→960tri;blue glaze uses repaired baseline,wear/noncolor channels retained."
@@ -23441,7 +23443,8 @@
         {
           "id": "FP012__repair",
           "catalog": "catalog/material_variants_fp008_fp017.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "48 exact-zero faces removed448→400tri;metal wear retained,no food-use guarantee."
@@ -23685,7 +23688,8 @@
         {
           "id": "FP015__repair",
           "catalog": "catalog/material_variants_fp008_fp017.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "64 exact-zero tray faces removed;positive surfaces/candle/existing emission retained."

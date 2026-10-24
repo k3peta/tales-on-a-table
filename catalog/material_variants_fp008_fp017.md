@@ -8,7 +8,7 @@ FP011 blue glaze variant uses repaired960tri jug baseline (original1024tri). Sam
 
 10配布レコード/10モデル査定。ゼロ面除去改訂4件は非加算、修復後水差し基準の青variant1件別集計。10个配布记录/10个模型；四个零面积清理修订不增加基本数量，蓝色釉面变体以修复后水壶为基准。
 
-Same camera/light/scale comparisons. Final-ZIP checks BLEND/GLB geometry/UV/spatial attributes against explicit repaired baselines. Originals lack COLOR_0; absence retained, not loss. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP checks BLEND/GLB geometry/UV/spatial attributes against explicit repaired baselines. Originals lack COLOR_0; absence retained, not loss. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed536 distribution records;472 remain;143 budget issues unchanged. BM007/BM054 and wood/material diagnoses retained. No collision/chain rig/fluid/food-use/fire/melting/bristle physics/gameplay/Blender4.3.2 guarantee. Geometry score changes do not mean all-quality approval.
 
@@ -93,3 +93,5 @@ Blue glaze UV texture recolor based on repaired FP011 geometry; original wear lu
 [![FP011__blue_glaze close_comparison](../previews/quality-fp008-017-v1/FP011__blue_glaze_close_comparison.png)](../previews/quality-fp008-017-v1/FP011__blue_glaze_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-fp008-017-v1/validation.json).
