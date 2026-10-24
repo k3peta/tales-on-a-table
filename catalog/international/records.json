@@ -12043,7 +12043,8 @@
         {
           "id": "WS_019__repair",
           "catalog": "catalog/material_variants_ws019_028.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision;61208tri remains over budget. Dark glass variant rejected."
@@ -12084,7 +12085,8 @@
         {
           "id": "WS_020__repair",
           "catalog": "catalog/material_variants_ws019_028.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision;56342tri remains over budget;14 tiny positive faces retained."
@@ -12159,7 +12161,8 @@
         {
           "id": "WS_022__repair",
           "catalog": "catalog/material_variants_ws019_028.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision; optical magnification accuracy untested."
@@ -12200,7 +12203,8 @@
         {
           "id": "WS_023__repair",
           "catalog": "catalog/material_variants_ws019_028.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision; no sand flow or timing simulation."

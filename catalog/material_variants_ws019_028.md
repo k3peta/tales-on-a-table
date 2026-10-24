@@ -8,7 +8,7 @@ Only strictly zero-area triangles removed: WS019 feather8 (61216 to61208tri), WS
 
 4个严格零面积面清理修订不新增模型，保留正面积表面与UV。WS024橙色灯罩为1个同形材质变体，无新增发光。WS021修复待审，暗色玻璃候选拒绝，均不发布。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds approved packages only, input/model/script hashes and run/time/build. Material-property tests for attempted candidates are not publication approval. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds approved packages only, input/model/script hashes and run/time/build. Material-property tests for attempted candidates are not publication approval. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed296 source records,712 remain;56 budget/redesign issues remain. WS021 publication scan unresolved; no credential exposure is established. WS026 coarse lid grain and joint gaps need diagnosis. No optical accuracy, sand simulation/timing, astronomy precision, working mechanisms, collision, load or Blender4.3.2 guarantee.
 
@@ -93,3 +93,5 @@ Orange lampshade basecolor texture; original geometry/UV and other material prop
 [![WS_024__color_orange close_comparison](../previews/quality-ws019-028-v1/WS_024__color_orange_close_comparison.png)](../previews/quality-ws019-028-v1/WS_024__color_orange_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-ws019-028-v1/validation.json).
