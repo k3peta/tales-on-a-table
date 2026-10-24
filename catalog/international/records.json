@@ -33442,7 +33442,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR049_CC0.zip",
       "pictured_zip_sha256": "cc8cc4ce393d91e734e27ee773ae9578e01186eff5ed7ddbfa5a8e858c890be7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR049_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "95f94e84f427a723da193259da7f34c46c122616f3af59f298dda9a12852eb17",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR049_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c26a30143cbba2d975d609c01bae8a17a85b999347e52356fc80e0da61ea8258",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR050",
@@ -33475,7 +33492,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR050_CC0.zip",
       "pictured_zip_sha256": "2e49aa8faa10c1167c1fb0fe9f601de62af49e74d0f1df5c8ce8b2bcf3eddb8d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR050_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a0101ee96417d136a11280faed25f2e479825791e396abb14b6da7d08da787ac",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR050_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e84968daf27e12042066ac355cfce5dffe92b2b8140603221148be1eec33ba1f",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR051",
@@ -33508,7 +33542,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR051_CC0.zip",
       "pictured_zip_sha256": "d1eb531c63e2a46b8210287015c06090b6b9caed41026d0625e8dd61150a8a57",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR051_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "16204803e3e92e4859a37f3619e3e5811f1f9cb183a3306f1fc3c32d8bdc9205",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR051_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "60bf60b89b9221f8afe9631bb740779aaba7771b025ac0537b90fa54a69d3cd6",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR052",
@@ -33541,7 +33592,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR052_CC0.zip",
       "pictured_zip_sha256": "9fdccb0f861c7eefb449313c0113888bd2237ff7ed264c247401f705e8d92efa",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR052_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8ab5ab85d234c1f25391a036e47db073ecf9b98d35f00485b8c9fd00de7e7e50",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR052_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "0924b1cde3f7365b7db2b9dc402cf9a9f5a059a72f809be5e8015dd6de2f6b0a",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR053",
@@ -33574,7 +33642,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR053_CC0.zip",
       "pictured_zip_sha256": "067dd2d59415c093c764873faade51d6e95ec768ae1f8974d4e70865e3b14de6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR053_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6cf9415f9d27bbcc73b895e7d1be1c77f138110f550d2fc42586ff86df41537f",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR053_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "5387264d9f91e8c9db9ee7eb7ed0cb806d09a16ae0c6db7a66841e71e000d5ed",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR054",
@@ -33607,7 +33692,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR054_CC0.zip",
       "pictured_zip_sha256": "745707becb6536d04ab5101608e98e90fc9aa6149e6563fb24eb547f602f8ff7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR054_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "db390438ce3e764605730abde51a8c2b1dd900c16f5f72becce3fa7e35d692cf",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR054_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "592a065977de2af909a43d8cee5f722f0ff659c1b6fbc15ad825bf301e25adbb",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR055",
@@ -33640,7 +33742,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR055_CC0.zip",
       "pictured_zip_sha256": "bc069a397a233733abdf5dbee6643ccbac3157712a6cddc970a32d44335814eb",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR055_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "166d1d8bc2ac04ba7eb4089a5d00f504675b004e57bfdd4ca14d0d2772930370",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR055_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "677f022d602f7dad16029e63517739dfd4542856db82706c37211c930208dc11",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR056",
@@ -33673,7 +33792,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR056_CC0.zip",
       "pictured_zip_sha256": "9a66c7b5f61636ea4d6537e543062b0b18c978d2b0721f7734146219db4f6494",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR056_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "dd667c05db7a4dca566ecacf4800bcabb397e8d8d68ee692a9d1087e5de2f5c6",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR056_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "cacf6b7968e1452413d9c302f9b164553ab5f19202ee543958112091e35d2341",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR057",
@@ -33706,7 +33842,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR057_CC0.zip",
       "pictured_zip_sha256": "fc296ef849aa7306cd52fb1b5c31b3a7b73f6acc8fd674f986194d9b867bb974",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR057_HQ__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ef7b8592b085fcf83aa0fd668912c5813dc252c304c401e8935e5ac5bbf98a0f",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR057_LITE__repair",
+          "catalog": "catalog/quality-tr048-057-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "955a0dd28c9d8cd9d60c77221d417ccf8e0ea069bbb8003f80cfa2e901fd01fe",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR058",
