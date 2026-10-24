@@ -26,7 +26,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2](../../catalog/tableware_02.md) · [Catalogue 3](../../catalog/tableware_02.zh-CN.md)
 
-**Unresolved:** Cup interior decoration cross-section diagnosis pending; unresolved.
+**Original-version history:** Cup ornament-face intrusion diagnosed and addressed by exterior_leaf_seating_v1; see validated revision below.
 
 **Revision: final ZIP guard and public-download identity verified:** [AT042 repair and comparison](../../catalog/at042_section_repair.md). Original download/image retained.
 
