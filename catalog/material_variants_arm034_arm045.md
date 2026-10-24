@@ -6,7 +6,7 @@ ARM040144 and ARM045120 exact-zero triangles removed, retaining positive surface
 
 改訂2件非加算、青麻服/銅色肩鎧variant2件別集計。左右組は1既存記録、矢束も1記録、適合鞘は構造派生。独立形状数とはしません。2个修订不新增模型；2个同形颜色变体单独统计。成对护具、箭束和适配衍生件不拆分增加数量。
 
-Ten real IDs: ARM034,035,037,039F001,039,040,041,042,043,045. Missing IDs not assessed. Same camera/light/scale comparisons. Final ZIP guard covers geometry/UV/spatial vertex colors of BLEND and GLB; four known bad color fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Ten real IDs: ARM034,035,037,039F001,039,040,041,042,043,045. Missing IDs not assessed. Same camera/light/scale comparisons. Final ZIP guard covers geometry/UV/spatial vertex colors of BLEND and GLB; four known bad color fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed396 distribution records;612 remain;107 budget issues unresolved. All10 exceed the20k portable-prop warning threshold, which is not a game-performance guarantee. ARM045 remains68 triangles over after cleanup. Pairs, arrow bundle and fitted-scabbard derivative remain separate classifications. No rig, wearable fit, strap motion, load, collision, gameplay or Blender4.3.2 approval. Existing diagnoses retained.
 
@@ -75,3 +75,5 @@ Exact-zero-area cleanup with original positive surfaces, UV and vertex colors re
 [![ARM_045__repair close_comparison](../previews/quality-arm034-045-v1/ARM_045__repair_close_comparison.png)](../previews/quality-arm034-045-v1/ARM_045__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-arm034-045-v1/validation.json).

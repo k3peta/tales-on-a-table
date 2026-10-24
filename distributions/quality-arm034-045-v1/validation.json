@@ -1,0 +1,178 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "d6b010b3396571d833f5f4f1f3876f9a9e1a0dee",
+  "guard_run_id": "0cc34eb6-eb9f-4e38-90bc-c933024d3858",
+  "started_utc": "2026-10-24T16:12:57.769735+00:00",
+  "finished_utc": "2026-10-24T16:13:27.637969+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "ARM_034__navylinen",
+      "zip": "ARM_034__navylinen_CC0.zip",
+      "zip_sha256": "d01c66dafe779a4d802828746a8c302928285e5316db6a7ab969b1f7e89f065e",
+      "members": {
+        "ARM_034__navylinen.glb": "b54cfdb228d2419878078c2ef6e8e2aa14105b8eadcf219afdfbf2c494dad07c",
+        "ARM_034__navylinen.blend": "d4f1ff097303deb448e1b99eb1090baf52c439f99ac2e84eea26636439dd01e0"
+      }
+    },
+    {
+      "id": "ARM_035__coppertint",
+      "zip": "ARM_035__coppertint_CC0.zip",
+      "zip_sha256": "88aaf27dfc1b21e27ff9d8e12058dfb25072c6ab3863874d16f7db9605ddfc2d",
+      "members": {
+        "ARM_035__coppertint.blend": "ac5ff7bd581fac7d293a177817249e042a390865e691353244b21f839a004684",
+        "ARM_035__coppertint.glb": "ba6c52de7bef440a154647bec7302791596f27bac5635b36d195926b93c78afc"
+      }
+    },
+    {
+      "id": "ARM_040__repair",
+      "zip": "ARM_040__repair_CC0.zip",
+      "zip_sha256": "7461d0b17c3c3e1533a4008241edfc7814c25e614a3724950a5a407b1d66517e",
+      "members": {
+        "ARM_040__repair.blend": "d513905791d29f2b3fa67edfa5a8054d7d20d5f658fe381bfd10312f2debba5d",
+        "ARM_040__repair.glb": "0551b245a7c0b2e617c2adbd2126c2ce2336301516ff2e5fffa9a3512b62c7ac"
+      }
+    },
+    {
+      "id": "ARM_045__repair",
+      "zip": "ARM_045__repair_CC0.zip",
+      "zip_sha256": "0541b02a98fd286015822768cad4b59e8364558d5d4d48ea256fa325c23402b9",
+      "members": {
+        "ARM_045__repair.glb": "6b5418228e96080c8721c8a96945e57bbd2bb7535a29535a03e3cf151e0ee99c",
+        "ARM_045__repair.blend": "b061a4c5be3aa825e46e46a6fd6b98bc21663d39fb0625c0fde59668bd4a3954"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "ARM_034__navylinen",
+      "formats": {
+        "blend": {
+          "triangles": 150036,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 150036,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_035__coppertint",
+      "formats": {
+        "blend": {
+          "triangles": 116640,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 116640,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_040__repair",
+      "formats": {
+        "blend": {
+          "triangles": 58864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 58864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_045__repair",
+      "formats": {
+        "blend": {
+          "triangles": 20068,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 20068,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 7.679882507716229e-09,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

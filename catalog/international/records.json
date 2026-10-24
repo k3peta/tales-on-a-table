@@ -17486,7 +17486,8 @@
         {
           "id": "ARM_040__repair",
           "catalog": "catalog/material_variants_arm034_arm045.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "144 zero faces removed;58864tri over20k."
@@ -17645,7 +17646,8 @@
         {
           "id": "ARM_045__repair",
           "catalog": "catalog/material_variants_arm034_arm045.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "120 zero faces removed;20068tri,68 over budget; bundle counted once."

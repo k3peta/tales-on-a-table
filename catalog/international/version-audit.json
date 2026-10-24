@@ -30,10 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "ARM_040",
-      "ARM_045"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -49,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 876,
-      "exact_image_zip_evidence": 130,
-      "exact_image_zip_binding_public_retrieval_pending": 2
+      "exact_image_zip_evidence": 132
     }
   },
   "items": [
@@ -7774,16 +7770,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_040__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "ARM_040__repair",
             "zip_sha256": "7461d0b17c3c3e1533a4008241edfc7814c25e614a3724950a5a407b1d66517e",
             "image": "previews/quality-arm034-045-v1/ARM_040__repair_thumb.png",
             "image_sha256": "8880f4b13e06f4a25ea7491b479bd598cb57aa4fe4e865651404ae8b14e959e4",
-            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "d6b010b3396571d833f5f4f1f3876f9a9e1a0dee"
       }
     },
     {
@@ -7850,16 +7847,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_045__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "ARM_045__repair",
             "zip_sha256": "0541b02a98fd286015822768cad4b59e8364558d5d4d48ea256fa325c23402b9",
             "image": "previews/quality-arm034-045-v1/ARM_045__repair_thumb.png",
             "image_sha256": "2a7a5dd3e63ab37197bf05f889446491a77a32a23af6ef5e384d5916fd984ccb",
-            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "d6b010b3396571d833f5f4f1f3876f9a9e1a0dee"
       }
     },
     {

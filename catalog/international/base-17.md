@@ -196,6 +196,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality40:** 144 zero faces removed;58864tri over20k. [Details](../material_variants_arm034_arm045.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_040__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm034-045-v1/ARM_040__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_041
 
 **兵士の幅広剣帯**
@@ -291,6 +293,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality40:** 120 zero faces removed;20068tri,68 over budget; bundle counted once. [Details](../material_variants_arm034_arm045.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_045__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm034-045-v1/ARM_045__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## ARM_050
 
