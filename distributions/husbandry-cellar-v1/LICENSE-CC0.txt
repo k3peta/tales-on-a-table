@@ -1,0 +1,1 @@
+CC0-1.0 applies only to the model geometry and included materials. See the individual LICENSE-CC0.txt in each ZIP. Code, app sources, arrangements, images and private documentation are excluded.

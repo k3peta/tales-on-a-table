@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 929,
+  "item_count": 941,
   "count_by_kind": {
-    "model": 777,
+    "model": 789,
     "derived_component": 2,
     "group": 31,
     "structural_variant": 15,
@@ -46,7 +46,8 @@
     "terrain_use_plan": 6,
     "cave_deposition": 3,
     "static_mudflat": 1,
-    "fortified_city_sites": 8
+    "fortified_city_sites": 8,
+    "husbandry_cellar": 12
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -28113,6 +28114,318 @@
       "zip_file": "FCSV02_RoadEntrance_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip",
       "theme": "fortified_city_sites",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV101",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 171403,
+      "zip_sha256": "4783376d1cee9e389bfb1aae9e4aacb5d97484725cc554353c27b34283fbc4e9",
+      "names": {
+        "ja": "HCV101",
+        "en": "HCV101",
+        "zh-CN": "HCV101"
+      },
+      "descriptions": {
+        "ja": "HCV101: Horse box front with upper grille",
+        "en": "HCV101: Horse box front with upper grille",
+        "zh-CN": "HCV101: Horse box front with upper grille"
+      },
+      "zip_file": "HCV101-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV101-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV102",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 108167,
+      "zip_sha256": "167d0544f83f74c6b78555d2e5e8883b4bac3ce1a9041e01af6692fa2a24fdf7",
+      "names": {
+        "ja": "HCV102",
+        "en": "HCV102",
+        "zh-CN": "HCV102"
+      },
+      "descriptions": {
+        "ja": "HCV102: Angled horse hay manger",
+        "en": "HCV102: Angled horse hay manger",
+        "zh-CN": "HCV102: Angled horse hay manger"
+      },
+      "zip_file": "HCV102-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV103",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 94328,
+      "zip_sha256": "25c91b8bc9c934e2dffa79407b84a7d7221f015ffe7e220a6ad816e82f7e75fa",
+      "names": {
+        "ja": "HCV103",
+        "en": "HCV103",
+        "zh-CN": "HCV103"
+      },
+      "descriptions": {
+        "ja": "HCV103: Saddle and bridle stand",
+        "en": "HCV103: Saddle and bridle stand",
+        "zh-CN": "HCV103: Saddle and bridle stand"
+      },
+      "zip_file": "HCV103-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV103-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV201",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 103760,
+      "zip_sha256": "4588080dad3c9626b88d53e2dcb64512f9f6986206bb88dd9a967bed715e84d3",
+      "names": {
+        "ja": "HCV201",
+        "en": "HCV201",
+        "zh-CN": "HCV201"
+      },
+      "descriptions": {
+        "ja": "HCV201: Cattle communal feed barrier and bunk",
+        "en": "HCV201: Cattle communal feed barrier and bunk",
+        "zh-CN": "HCV201: Cattle communal feed barrier and bunk"
+      },
+      "zip_file": "HCV201-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV201-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV202",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 84538,
+      "zip_sha256": "69d786af4e66ae57bbdb39079bcef428715335913bd4c5bfcdba9150eae3dd82",
+      "names": {
+        "ja": "HCV202",
+        "en": "HCV202",
+        "zh-CN": "HCV202"
+      },
+      "descriptions": {
+        "ja": "HCV202: Raised livestock stone water trough",
+        "en": "HCV202: Raised livestock stone water trough",
+        "zh-CN": "HCV202: Raised livestock stone water trough"
+      },
+      "zip_file": "HCV202-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV202-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV203",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 89479,
+      "zip_sha256": "c471b7a389defea9dac65e229518267cb8a7b7c8139f72f017bf61b69eea4174",
+      "names": {
+        "ja": "HCV203",
+        "en": "HCV203",
+        "zh-CN": "HCV203"
+      },
+      "descriptions": {
+        "ja": "HCV203: Barn grated drainage channel",
+        "en": "HCV203: Barn grated drainage channel",
+        "zh-CN": "HCV203: Barn grated drainage channel"
+      },
+      "zip_file": "HCV203-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV203-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV301",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 418804,
+      "zip_sha256": "1239f07983a2a70f50f6217291a0e7d7923ef6835387b313485ab96fd03fccfa",
+      "names": {
+        "ja": "HCV301",
+        "en": "HCV301",
+        "zh-CN": "HCV301"
+      },
+      "descriptions": {
+        "ja": "HCV301: Basket screw wine press",
+        "en": "HCV301: Basket screw wine press",
+        "zh-CN": "HCV301: Basket screw wine press"
+      },
+      "zip_file": "HCV301-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV301-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV302",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 209391,
+      "zip_sha256": "ef101497be52eae92f66f0a0a127e9e482265c11f6418d86674c505e0f15c3a3",
+      "names": {
+        "ja": "HCV302",
+        "en": "HCV302",
+        "zh-CN": "HCV302"
+      },
+      "descriptions": {
+        "ja": "HCV302: Open fermentation vat with paddle",
+        "en": "HCV302: Open fermentation vat with paddle",
+        "zh-CN": "HCV302: Open fermentation vat with paddle"
+      },
+      "zip_file": "HCV302-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV302-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV303",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 109101,
+      "zip_sha256": "0348ff9a3d75207fc9304d2f7208e10104eb43df74a754d24c6416989986e686",
+      "names": {
+        "ja": "HCV303",
+        "en": "HCV303",
+        "zh-CN": "HCV303"
+      },
+      "descriptions": {
+        "ja": "HCV303: Raised-edge sorting and draining table",
+        "en": "HCV303: Raised-edge sorting and draining table",
+        "zh-CN": "HCV303: Raised-edge sorting and draining table"
+      },
+      "zip_file": "HCV303-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV401",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 108504,
+      "zip_sha256": "3b9885aed2a49741a0d66d4aedd5fad6d2ca46132e554582e8f3d9882e1b1414",
+      "names": {
+        "ja": "HCV401",
+        "en": "HCV401",
+        "zh-CN": "HCV401"
+      },
+      "descriptions": {
+        "ja": "HCV401: Two-tier four-barrel cradle rack",
+        "en": "HCV401: Two-tier four-barrel cradle rack",
+        "zh-CN": "HCV401: Two-tier four-barrel cradle rack"
+      },
+      "zip_file": "HCV401-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV401-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV402",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 127041,
+      "zip_sha256": "197be5b80556e5f262fb93456902a9e2370f501ec12de799551e8dccd26567ff",
+      "names": {
+        "ja": "HCV402",
+        "en": "HCV402",
+        "zh-CN": "HCV402"
+      },
+      "descriptions": {
+        "ja": "HCV402: Bottle storage cubby wall",
+        "en": "HCV402: Bottle storage cubby wall",
+        "zh-CN": "HCV402: Bottle storage cubby wall"
+      },
+      "zip_file": "HCV402-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip",
+      "theme": "husbandry_cellar",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV403",
+      "category": "facility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 149813,
+      "zip_sha256": "5844670ab846ca7d475e5158a1d850d3d156ff5df0d6aad789264d5e43041cc1",
+      "names": {
+        "ja": "HCV403",
+        "en": "HCV403",
+        "zh-CN": "HCV403"
+      },
+      "descriptions": {
+        "ja": "HCV403: Segmented cellar arch rib",
+        "en": "HCV403: Segmented cellar arch rib",
+        "zh-CN": "HCV403: Segmented cellar arch rib"
+      },
+      "zip_file": "HCV403-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV403-CC0.zip",
+      "theme": "husbandry_cellar",
       "global_unique": "unconfirmed"
     }
   ]

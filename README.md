@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **929配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **941配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **941 records** (929 + 12 standalone components; 4 reused models and 4 private scenes excluded). [Husbandry and cellar](catalog/husbandry_cellar_v1.md).
 
 - 2026-10-24 JST — **929 records** (921 + 6 standalone models + 2 assembled vignettes; reused components not added). [Fortified city sites](catalog/fortified_city_sites_v1.md).
 
