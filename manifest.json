@@ -2653,7 +2653,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_033_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "522f9b47ed59c7737f8d0dae7fa1471b91691b8d2c3622200cf95705a2f8d754",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_033__repair",
+          "base_id": "FH_033",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "腰掛けの反復木目を抑え、座板・貫・継ぎ目を読みやすくした材質改訂。",
+          "zip": "FH_033__repair_CC0.zip",
+          "bytes": 7046943,
+          "sha256": "b1092b1d019ba441e22402858bf0768e05b3170d93c99a2c63a950426ca13da0",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_033__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_034",
@@ -2679,7 +2696,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_034_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "5acbbfda9715b02c98b3511ddf0bbc42f5758ed28370a122e47825effc8ea1d5",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_034__repair",
+          "base_id": "FH_034",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "補修板の反復木目を抑え、刻みと補修道具を読みやすくした材質改訂。",
+          "zip": "FH_034__repair_CC0.zip",
+          "bytes": 7826673,
+          "sha256": "b38bf6f4e04ca168da1b0992b9a8638cc47e0481c5d80e660145340dee6f815d",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_034__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_035",
@@ -2783,7 +2817,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_038_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "0af5a83c1fb2b886091a2a65716a4b4a3435246c048e4bec2114b80fced6ca02",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_038__repair",
+          "base_id": "FH_038",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "missing_uv0_added_plus_wearuv",
+          "finish": "repair",
+          "description": "長靴の甲2メッシュに欠落していたUVを追加。元の色と形状を維持。",
+          "zip": "FH_038__repair_CC0.zip",
+          "bytes": 817769,
+          "sha256": "3abd794b284b00676767a9962f03e225203ffb52b3633a4a15490b245d052cfe",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_038__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_039",
@@ -2809,7 +2860,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_039_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "ce5268e9de088e9acb0f5936bc2c43a5c5fe4180a32e9c3c1847ce5248c60fba",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_039__repair",
+          "base_id": "FH_039",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "灯火手入れ箱の木目を抑え、仕切りと道具の判別を改善。",
+          "zip": "FH_039__repair_CC0.zip",
+          "bytes": 10687857,
+          "sha256": "6ef0f0500bc3a83664fa2784af7c45e28dbf6349c25ba924c3e3f58d4f0b920e",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_039__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_040",
@@ -2835,7 +2903,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_040_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "7e05538d383cdee3792a36c4d51bb9105449a1646593eeb214b39a86008e6ac9",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_040__repair",
+          "base_id": "FH_040",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "潮位板の木目を抑え、目盛りの視認性を改善。",
+          "zip": "FH_040__repair_CC0.zip",
+          "bytes": 2253606,
+          "sha256": "1b223ec2cb8df8816e90e5f48e1db877285e51f77d12f39811292c2658f4ce1b",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_040__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_041",
