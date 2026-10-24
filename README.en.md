@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **972 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **976 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **976 records** (972 + 4 components; reused worktable/private scenes excluded). [stable-care-v1](catalog/stable_care_v1.md).
 
 - 2026-10-24 JST — **972 records** (970 + 2 components; reused hen/private scenes excluded). [poultry-support-v1](catalog/poultry_support_v1.md).
 

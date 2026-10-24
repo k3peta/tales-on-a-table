@@ -1,0 +1,109 @@
+{
+  "record_count": 4,
+  "items": [
+    {
+      "asset_id": "HCV801",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "stable-care-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 131898,
+      "zip_sha256": "3ec476add1308706551fd100b85e360c1539450067986f742b3919cc1f57fc2a",
+      "names": {
+        "ja": "HCV801",
+        "en": "HCV801",
+        "zh-CN": "HCV801"
+      },
+      "descriptions": {
+        "ja": "HCV801: Oval toothed curry comb with hand strap",
+        "en": "HCV801: Oval toothed curry comb with hand strap",
+        "zh-CN": "HCV801: Oval toothed curry comb with hand strap"
+      },
+      "zip_file": "HCV801-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV801-CC0.zip",
+      "theme": "stable_care_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV802",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "stable-care-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 106696,
+      "zip_sha256": "5da20e871423a09033ad1624fb4fcce837e174ae18346d1f636287ea614e9b53",
+      "names": {
+        "ja": "HCV802",
+        "en": "HCV802",
+        "zh-CN": "HCV802"
+      },
+      "descriptions": {
+        "ja": "HCV802: Wood handled curved hoof pick",
+        "en": "HCV802: Wood handled curved hoof pick",
+        "zh-CN": "HCV802: Wood handled curved hoof pick"
+      },
+      "zip_file": "HCV802-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV802-CC0.zip",
+      "theme": "stable_care_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV803",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "stable-care-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 589626,
+      "zip_sha256": "84ee046b0140d7ebb135e47656154c58fe119eca9e3a1e025103f0afcc789207",
+      "names": {
+        "ja": "HCV803",
+        "en": "HCV803",
+        "zh-CN": "HCV803"
+      },
+      "descriptions": {
+        "ja": "HCV803: Stiff body grooming brush",
+        "en": "HCV803: Stiff body grooming brush",
+        "zh-CN": "HCV803: Stiff body grooming brush"
+      },
+      "zip_file": "HCV803-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV803-CC0.zip",
+      "theme": "stable_care_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV804",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "stable-care-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 90419,
+      "zip_sha256": "923d72f8e1f85a65fe552df3be7f561d923857244f6bf0d91c389ff9d35e22ae",
+      "names": {
+        "ja": "HCV804",
+        "en": "HCV804",
+        "zh-CN": "HCV804"
+      },
+      "descriptions": {
+        "ja": "HCV804: Right angle cargo rope edge guard",
+        "en": "HCV804: Right angle cargo rope edge guard",
+        "zh-CN": "HCV804: Right angle cargo rope edge guard"
+      },
+      "zip_file": "HCV804-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV804-CC0.zip",
+      "theme": "stable_care_v1",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
