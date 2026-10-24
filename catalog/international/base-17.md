@@ -50,6 +50,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality39:** 64 zero-area triangles removed;91016tri over20k. [Details](../material_variants_arm024_arm033.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_033__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm024-033-v1/ARM_033__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_034
 
 **縫い鎧の綿入れ胴着**

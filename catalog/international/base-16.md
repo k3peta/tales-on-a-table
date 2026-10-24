@@ -448,6 +448,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality39:** 23 zero-area triangles removed;258 positive tiny retained;109853tri over20k. [Details](../material_variants_arm024_arm033.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_026__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm024-033-v1/ARM_026__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_027
 
 **幅広ひさしの歩兵兜**
@@ -562,3 +564,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 **Quality39:** 48 zero-area triangles removed;10 positive tiny retained;68384tri over20k; shoulder attachment/rig unverified. [Details](../material_variants_arm024_arm033.md).
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_031__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm024-033-v1/ARM_031__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.

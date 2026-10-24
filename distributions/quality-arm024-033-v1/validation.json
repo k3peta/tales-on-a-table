@@ -1,0 +1,210 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "00142af63cf5551a45a516026436434934b72590",
+  "guard_run_id": "f45941af-b01d-458e-91ee-ef482752997f",
+  "started_utc": "2026-10-24T16:05:39.801731+00:00",
+  "finished_utc": "2026-10-24T16:06:37.476237+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "ARM_026__repair",
+      "zip": "ARM_026__repair_CC0.zip",
+      "zip_sha256": "c8c34d90b48ef6b84e7ba81d8e74dd3387b007c3a4e549fee214111153e58026",
+      "members": {
+        "ARM_026__repair.glb": "a976877b3bb226efef78024cfb2ee6a6421e4686b3aeffdc6cbf4153c9ec49b0",
+        "ARM_026__repair.blend": "6bffe4a27875db1b5ebc8ee07d17bc72c5712e04cb15134937e9b7f6de20bce7"
+      }
+    },
+    {
+      "id": "ARM_027__coppertint",
+      "zip": "ARM_027__coppertint_CC0.zip",
+      "zip_sha256": "5359df03bb72fcc05221f42f5889a1ddb3f673996f3093fb1884c4a4db89b1af",
+      "members": {
+        "ARM_027__coppertint.blend": "64d191b672334e9cf448564f209925cdb3b83cb6f40ab2222400b3881e2a1110",
+        "ARM_027__coppertint.glb": "68226ca70c7c297422a334836a627d69c68db3d36b5e24070997661a833cd68b"
+      }
+    },
+    {
+      "id": "ARM_030__navyhide",
+      "zip": "ARM_030__navyhide_CC0.zip",
+      "zip_sha256": "eb3b27ec2c9083f6ae51d277f33a3bdcf453294518f133430f99c4217c143fc8",
+      "members": {
+        "ARM_030__navyhide.blend": "19e018b6372057fbc041beee885aee676071d32cd10d17752162e22a204e7183",
+        "ARM_030__navyhide.glb": "aaa723c12c5944431d28f5235b1284f076828fe2ca7316685eedf7d34bed0aa2"
+      }
+    },
+    {
+      "id": "ARM_031__repair",
+      "zip": "ARM_031__repair_CC0.zip",
+      "zip_sha256": "98acb21003515b718fcf1efc03f52c7e4c835fd402cb3cc701fdf3192be978df",
+      "members": {
+        "ARM_031__repair.glb": "304ec00fda9620333431c89513c292c241009e83e695146754e6c7d71f46cec3",
+        "ARM_031__repair.blend": "a0a24ee1df4d37e73ce6acfeea8d507a764fccfbafd47931d4d8bfb201b079df"
+      }
+    },
+    {
+      "id": "ARM_033__repair",
+      "zip": "ARM_033__repair_CC0.zip",
+      "zip_sha256": "e7a2f8fd8c08c2a656ca8c0bbba0be0e592db66110809f963d2bc11728a29f54",
+      "members": {
+        "ARM_033__repair.blend": "076813502ffd34513d1e8ced948cbb4362e990cd62c49455f84ecab939e84c39",
+        "ARM_033__repair.glb": "58d18621c9f0306128d55b3310dd1856cd399099d93d27a5726ab5cc0b0349cc"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "ARM_026__repair",
+      "formats": {
+        "blend": {
+          "triangles": 109853,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 109853,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 1.7071425162384912e-08,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_027__coppertint",
+      "formats": {
+        "blend": {
+          "triangles": 134014,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 134014,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 1.5017125321037383e-08,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_030__navyhide",
+      "formats": {
+        "blend": {
+          "triangles": 237841,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 237841,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_031__repair",
+      "formats": {
+        "blend": {
+          "triangles": 68384,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 68384,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_033__repair",
+      "formats": {
+        "blend": {
+          "triangles": 91016,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 91016,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

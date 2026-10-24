@@ -6,7 +6,7 @@ ARM02623, ARM03148 and ARM03364 exact-zero triangles removed; all positive surfa
 
 改訂3件は非加算。銅色兜/紺革フード2variantは別集計。元頂点色・形状UVを保持。3个修订不新增模型；铜色头盔和深蓝皮兜帽2个变体单独统计。
 
-Same camera/light/scale comparisons. Final-ZIP guard includes spatial vertex-color correspondence for actual BLEND/GLB; four known old missing-color files rejected despite equal geometry. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP guard includes spatial vertex-color correspondence for actual BLEND/GLB; four known old missing-color files rejected despite equal geometry. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed386 distribution records,622 remain;97 budget/redesign issues unresolved. All10 source models exceed20k. ARM026109853, ARM03168384, ARM03391016 triangles after cleanup. Armor shoulder attachment/rig behavior remains unverified. No collision/load/weapon functionality/gameplay or Blender4.3.2 guarantee. No arbitrary decimation; earlier diagnoses retained.
 
@@ -91,3 +91,5 @@ Exact-zero-area cleanup with all positive surfaces and vertex colors retained: A
 [![ARM_033__repair close_comparison](../previews/quality-arm024-033-v1/ARM_033__repair_close_comparison.png)](../previews/quality-arm024-033-v1/ARM_033__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-arm024-033-v1/validation.json).
