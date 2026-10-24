@@ -6,7 +6,7 @@ BM059 market awning blue/green stripes: packed UV base-color texture changes col
 
 10配布レコード・収録11モデルを査定。日除けの青/緑variant2件、基本・改訂加算0。10个配布记录/11个模型；遮阳棚蓝色和绿色条纹两个材质变体，基础数量不变。
 
-Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed496 distribution records;512 remain;142 polygon-budget issues remain, none added this batch. BM007 diagnosis remains. BM054 tea-vessel narrow mouth makes contents hard to read; detached liquid is not established, original generator intent unavailable. Purpose/readability diagnosis remains open; not repaired or a polygon-budget issue. BM029 failed blue-glass candidate remains unpublished, not an established public-original defect.
 
@@ -45,3 +45,5 @@ Awning colored stripe base color replaced by packed UV texture; geometry, UV and
 [![BM_059__green_stripe close_comparison](../previews/quality-bm051-060-v1/BM_059__green_stripe_close_comparison.png)](../previews/quality-bm051-060-v1/BM_059__green_stripe_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm051-060-v1/validation.json).
