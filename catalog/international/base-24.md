@@ -394,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Three legged millers stool
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM013](../../previews/mill-terrain-apiary24/thumbnails/WM013.png)](../../previews/mill-terrain-apiary24/renders/WM013.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WM013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -416,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Sheep grazing
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM014](../../previews/mill-terrain-apiary24/thumbnails/WM014.png)](../../previews/mill-terrain-apiary24/renders/WM014.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WM014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -438,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Sheep resting
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM015](../../previews/mill-terrain-apiary24/thumbnails/WM015.png)](../../previews/mill-terrain-apiary24/renders/WM015.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WM015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -460,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Sheep standing
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM016](../../previews/mill-terrain-apiary24/thumbnails/WM016.png)](../../previews/mill-terrain-apiary24/renders/WM016.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WM016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -482,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Mill transmission gears
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM017](../../previews/mill-terrain-apiary24/thumbnails/WM017.png)](../../previews/mill-terrain-apiary24/renders/WM017.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WM017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -504,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Low meadow
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT001](../../previews/mill-terrain-apiary24/thumbnails/WT001.png)](../../previews/mill-terrain-apiary24/renders/WT001.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -526,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Flower meadow
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT002](../../previews/mill-terrain-apiary24/thumbnails/WT002.png)](../../previews/mill-terrain-apiary24/renders/WT002.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -548,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Deciduous copse
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT003](../../previews/mill-terrain-apiary24/thumbnails/WT003.png)](../../previews/mill-terrain-apiary24/renders/WT003.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -570,7 +586,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Weathered rock outcrop
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT004](../../previews/mill-terrain-apiary24/thumbnails/WT004.png)](../../previews/mill-terrain-apiary24/renders/WT004.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

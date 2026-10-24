@@ -1,0 +1,678 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "AP001",
+      "source_zip_sha256": "3f691ef1cf18bd892ec84043dfaa1331fbcb0c82b63a4f75ad02fe0e04f432ca",
+      "source_glb_sha256": "a3676e04bd76c9cf63998594f3bd743f4fe2abc57d0384a8d85e12acb45c5f17",
+      "camera_location": [
+        1.324540376663208,
+        -2.2706406116485596,
+        1.9555976390838623
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 2.081420660018921,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP001.png",
+      "image_source_sha256": "884eba9e930db7a86a8dcae6faf97af60c1c15822ddbe68329c028a24c7ad9cf",
+      "image_sha256": "79c339cb7f5087b7e79e0ee76ace3e3fe0164c662acdd61987679c6b19abde59",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP001.png",
+      "thumbnail_source_sha256": "f26eddb2ce3b8c125cf44f290911f7eb1df950136e089496005e9277abb32109",
+      "thumbnail_sha256": "a91f437888c7c70fa8c188c9152061be96558e19b3cb9f24c7486407746d4679"
+    },
+    {
+      "id": "AP002",
+      "source_zip_sha256": "f8e0a767156e4127d220195bccc8eac53cc9f3209a380f01a3d8c09149be5b58",
+      "source_glb_sha256": "7d8ddbd4063229132a6b636b2dacb81e7a6642093dc3f17bf51c6720a3ef725d",
+      "camera_location": [
+        0.7139999866485596,
+        -1.224000096321106,
+        0.9465000629425049
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.0119699684073566e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.1220000982284546,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP002.png",
+      "image_source_sha256": "f3ba41facbd3ebc692b29e5c4818a7900cf558690087f13cf6c0676d29236cd6",
+      "image_sha256": "879b85105a8384086080823cee9d4b3ca00d0729ebcab7da4c7a33a4f5ffca79",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP002.png",
+      "thumbnail_source_sha256": "05736fa0a4dc4e85e9da73fc4904e3b80f93b5b6bc3aa8dbfec0f67857358ff0",
+      "thumbnail_sha256": "a2d87ebd97c9439dea1097d1b7536bb9007c2528b21fc52967b7be5083ca038d"
+    },
+    {
+      "id": "AP003",
+      "source_zip_sha256": "2547d52969c7969c969edd5dab248b66a3ac2b06fe3babd4a7cc679d08495050",
+      "source_glb_sha256": "7aa0f7fd11e4c67627d9338253ba0deb2d251105557f6151ec0d52ba6b24ea69",
+      "camera_location": [
+        0.6719999313354492,
+        -1.1547210216522217,
+        0.9094998836517334
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.055999994277954,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP003.png",
+      "image_source_sha256": "646489010805c2710e79d61092d8e41657d8c1796817868a0ff4c32746835567",
+      "image_sha256": "a2285d60995e952d0d37c4c2494510c70c3ca73ad8c4199ceff451b3b324613a",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP003.png",
+      "thumbnail_source_sha256": "3cb54bdd0be53dc7d988613955191946221332089483b689d7f74a6658537053",
+      "thumbnail_sha256": "5318139dc3554a1a58c5f8790549613268582a286f360d95404c0be9484622ba"
+    },
+    {
+      "id": "AP004",
+      "source_zip_sha256": "342714651f9aaf00ce0310411fd314a0dec0fb007f2a139cf8ceed1c9c5317fb",
+      "source_glb_sha256": "f5b5c659bf894ab58392a452fe132dfa5e71eaafd29bbf7947a54653df0a4dac",
+      "camera_location": [
+        0.7432165741920471,
+        -1.2740856409072876,
+        1.097129225730896
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.2273483276367188,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP004.png",
+      "image_source_sha256": "425eb3c8dad7e74aa3163779c93d1ca5284c64be2ae6ca1fc11aa8c5bf07e786",
+      "image_sha256": "f96bcf314621f80709540025fe350d151c1f277763a65ce5cf163417ce9df8e8",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP004.png",
+      "thumbnail_source_sha256": "73c74cf741d40eb71a3f322f5cc38da68b99735e04527c0623f426e365b9499f",
+      "thumbnail_sha256": "e09f3e01d77ca4e2b06b07b49832feb6564339febd878e1f2363a0ffb9387c53"
+    },
+    {
+      "id": "AP005",
+      "source_zip_sha256": "42b1f4fa1cd6d8770c327b0b77ff257d2606346cd0a627b3fd1765aa01312450",
+      "source_glb_sha256": "252a88a7c1dee22e94dbc478038650468fe99f017628e8e74d67e4bce629bc4a",
+      "camera_location": [
+        0.4620000422000885,
+        -0.7919999957084656,
+        0.6819999814033508
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.7260000109672546,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP005.png",
+      "image_source_sha256": "05adc61f8476411e0176173a08168a41b0a25bf5df1c5d7727f10c8a8eec213a",
+      "image_sha256": "be522dbeec1c71c9870c25d9a6e958194e2a4d152becdb1492b30f46e5a1485b",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP005.png",
+      "thumbnail_source_sha256": "099ad82b2c922b307aa355171d0323ff61c75f243dc364ea2b6ed9cd21f5b923",
+      "thumbnail_sha256": "200afb98eb843b3f4c00a2df95f6aa8348f4d49ae50d6c025fd05b6fc828c0db"
+    },
+    {
+      "id": "AP006",
+      "source_zip_sha256": "75dcaecfa33862ff368ddb8ce7050256ae81783c28ccc9a190ef8ad95f610cfd",
+      "source_glb_sha256": "beb3efb2ec3cdb4d6d20a4d2fd43830aebe4d27b0ac6a98baa29db8256d1f4e7",
+      "camera_location": [
+        2.309999942779541,
+        -3.9600000381469727,
+        2.839355230331421
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.630000114440918,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP006.png",
+      "image_source_sha256": "2e94a2f1fdac29118b4d7b0b094ea2d9bc44a5d186752a8d32e2d6bdbe971573",
+      "image_sha256": "60151cc9a4fe35adc9b7a3560e240000855a97108d5cf96b59c1c143e072a33c",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP006.png",
+      "thumbnail_source_sha256": "6e8a9830d937f3158747464caf2b0c26cac092d59d26b64a4a6b751aa22ce143",
+      "thumbnail_sha256": "fb15465a99b24e4d7aabf53b6236147ab5b8b9bc5b6c74a9e51f5703b16aaf8e"
+    },
+    {
+      "id": "AP007",
+      "source_zip_sha256": "c85925b162e9f1a4c4246ffbe5f5704246531b0ea8179f22393a2951a2ebc5e2",
+      "source_glb_sha256": "b8e9cc3da98ced72b8c7b91a4c098eddeee6be0bcc1ef5881df2273ed5df5228",
+      "camera_location": [
+        1.8437998294830322,
+        -3.160493850708008,
+        2.721799850463867
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.89739990234375,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP007.png",
+      "image_source_sha256": "60f74f793013ed4385803fff383ac6136a86c9168bf0dd7437ced3095cc65b7f",
+      "image_sha256": "98eb80ea6e4f0b33e4c33e75662e6aad10a2e5931cf99fc92d7464237a968dcb",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP007.png",
+      "thumbnail_source_sha256": "c6b17733bc32442e4eb423685c08421d6078c280e4b0c63760537cee8c53f5c7",
+      "thumbnail_sha256": "a200e109216a6001d716a9a35fcb442d6507a902e5b1f39b3864b1bde92dc9c6"
+    },
+    {
+      "id": "AP008",
+      "source_zip_sha256": "a056b89edc07b2c8b0be99fab5375c17348a107ba205dd6d61e9662655ee3d4b",
+      "source_glb_sha256": "8c65aef603450618e6ad423c58ff384b5de87cadca2abddddf709e05e5fd4dd1",
+      "camera_location": [
+        0.600600004196167,
+        -1.0296000242233276,
+        0.8866000175476074
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.9438000321388245,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP008.png",
+      "image_source_sha256": "293909f0616fc22aba2d0b9fe46c7fbe861530ee72eed5d47e9d316fe9853459",
+      "image_sha256": "b8cc0205bfed21250b837bdef1477ce96860923e445bb9bb6bb211869f51aac1",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP008.png",
+      "thumbnail_source_sha256": "23fb291b7d97e5271919604eb4f4cd8c330cfc9ff8cefcb8cac79447a66cfa30",
+      "thumbnail_sha256": "1a1e9b46c8387624a6634bc126552144a86119ae781a784703c5a6fcc3a6c719"
+    },
+    {
+      "id": "AP009",
+      "source_zip_sha256": "2465bce38c0e27f314f04618d8ddb12c57d3e232fcd295129c759f01e42cb7ae",
+      "source_glb_sha256": "3bb48bdb52349622c6f3727a652ffd530c5ed7769a617f8b6bda9c913cecae86",
+      "camera_location": [
+        0.34964999556541443,
+        -0.599399983882904,
+        0.5161499977111816
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.5494499802589417,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP009_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP009.png",
+      "image_source_sha256": "ef196ac936d8a2b7443f57c5730a287137d5f9acdf90d26a1452ea1944d8b258",
+      "image_sha256": "886786cbe4f11049e9fb031c734e86d25fcf331e5261db1ff4c142f1628459bb",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP009.png",
+      "thumbnail_source_sha256": "e7139dec5ed4d8a45492db9c9d772f2615914930c5c30d213d65f8817e8ae96d",
+      "thumbnail_sha256": "649a7cf33a73e39633313f07273f33a32836df0e11c428fdb38063af86e8e965"
+    },
+    {
+      "id": "AP010",
+      "source_zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
+      "source_glb_sha256": "3544d52780a92e9d27acbf889e9eb2cdb0add92f285e6a9527a772ea82d58836",
+      "camera_location": [
+        0.47309356927871704,
+        -0.8109541535377502,
+        0.5670565962791443
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 0.7433747053146362,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP010.png",
+      "image_source_sha256": "37ce7508dd1f2a10359df81fbe78c532f8ea497f37748a7062140237db4e384e",
+      "image_sha256": "24ba00289633a6d2d3003926665a5fcf1aa9f2a87286cc051bd59fe9411385b5",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP010.png",
+      "thumbnail_source_sha256": "a7154855b5aeb80979d4bd2695a7d484021007a75b3c4bf57ed1477e6c991a46",
+      "thumbnail_sha256": "1812e9bb0c513c582719312f7b6274858e7504bf595d8d24ba7d5974010ed43e"
+    },
+    {
+      "id": "AP011",
+      "source_zip_sha256": "bc26a22f17f0d83a5621fb2c15040ac202e141f5710fd6fec61adc70469117c6",
+      "source_glb_sha256": "c44d3b72ae78d83a21b28069d121a27ae6055e7fe46ac142309604e02cae07a6",
+      "camera_location": [
+        0.44363072514533997,
+        -0.7604497671127319,
+        0.5068457722663879
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.6970790028572083,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/AP011.png",
+      "image_source_sha256": "710fbccd4bbe53102c5a94af94874c172c681c339f76dffbc38cb7920c258922",
+      "image_sha256": "f2fec8d462aa332e7e18a1454a73257d4b09c28192930bb069ef8e8707671a3a",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/AP011.png",
+      "thumbnail_source_sha256": "cc63df8a1c4ac7bcdfc68dee40ba4c366e55edd32c2fa482a262b171a36a0d2d",
+      "thumbnail_sha256": "e4677191f4fa50381c693148ef320e386da2643261a448e798d6d844457e8315"
+    },
+    {
+      "id": "WM013",
+      "source_zip_sha256": "e31b4d28cfbb7a5e285e7c5c66db14b63b2af57cfdb1e2f735527594a3d5c791",
+      "source_glb_sha256": "dcb96b98b583956ffb5fc8360c0aec752ae9b20139b23b8b0983a38e0a35a081",
+      "camera_location": [
+        0.5669999718666077,
+        -0.972000002861023,
+        0.8240661025047302
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.9203057885169983,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WM013.png",
+      "image_source_sha256": "b84d88756b2284de520260b0bb5271cf4a69551031c0cb129110cff4ef2fed9d",
+      "image_sha256": "92ec963fce452d397096cf82baa6e7f327eac48f551d957e8355da59be3105ad",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WM013.png",
+      "thumbnail_source_sha256": "e877d321ca06ed6414aa99dccc7735cbf563a9da047547b2e3033775e09e172c",
+      "thumbnail_sha256": "aa3794fc114b684dc957f14bd1fabf07dab2c9d5d575f003343f723de8f8a891"
+    },
+    {
+      "id": "WM014",
+      "source_zip_sha256": "04be1105e8144509c59ad8aa44956470271fd588ab09a6b9b36b8348bd21e896",
+      "source_glb_sha256": "5354e5fc2a82eb00640e766940f45dae257b4f65e1fc6ba4a3c3353fb3282d44",
+      "camera_location": [
+        1.169940710067749,
+        -2.005612373352051,
+        1.591066837310791
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.8384783267974854,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WM014.png",
+      "image_source_sha256": "c7a9ad130a74f225b532dbac881166682b27bbbb458f5b036d7ee9c2ae31d4c9",
+      "image_sha256": "078a08bb4afe1eba835752d52b21544a700b5c6be46a0777bbd0d752656d8058",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WM014.png",
+      "thumbnail_source_sha256": "dc667268b41f4235b67dc7aac336304f0e5b3380ba0b3ab73802f41ac272f053",
+      "thumbnail_sha256": "76d2aa130e132e845da84e5d730ae41faf189fb535cfaa6fe255465793964d3c"
+    },
+    {
+      "id": "WM015",
+      "source_zip_sha256": "f06f677515760c87ce58b173b82292217923758dc585a568080839656549f88b",
+      "source_glb_sha256": "338b1ebf165c677a39a04d3c14ceeac07c1713052e2731465a30af0547b9f7d2",
+      "camera_location": [
+        1.1849631071090698,
+        -2.031365156173706,
+        1.4916741847991943
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.8620847463607788,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WM015.png",
+      "image_source_sha256": "2bc72084f014d957d4197852778df016d240aca0f13f2bcc1aad676e58b0f5c7",
+      "image_sha256": "d867220e10633760d4256ff0af2288197f42462c4876fc95b856e9ac417547ed",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WM015.png",
+      "thumbnail_source_sha256": "36e5519979ceb5095fb03c189d82fa7bd00518a52dd314310c643b547104d2fc",
+      "thumbnail_sha256": "582057822e92b31512dee11d1c295a95e8254b286953938b00fbc5ab8930d1e0"
+    },
+    {
+      "id": "WM016",
+      "source_zip_sha256": "8694d155e9f6c87241b9a780221f69e6a7ad5fa7d4c91a4eafc24770f12d7107",
+      "source_glb_sha256": "15cf91836082716fbc0fcef1f5dc70c31f3e5605c75003533da617e798b576db",
+      "camera_location": [
+        1.1803348064422607,
+        -2.0234313011169434,
+        1.6340465545654297
+      ],
+      "camera_rotation_euler": [
+        1.104056715965271,
+        7.026432768952873e-09,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.8548121452331543,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WM016.png",
+      "image_source_sha256": "8cd901c6f866f9fdc6115c05df9348b801cd1894db6dfee77f1b8c0a5257f79d",
+      "image_sha256": "0a5403766c31cc840157fdaae1d8e57ef95db8b7a9f6ddc00bf00f5e30e5c433",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WM016.png",
+      "thumbnail_source_sha256": "27b07a341b590ebf876e28d8d07d5531f9af9de6e34abd499b754264c45e3ba3",
+      "thumbnail_sha256": "0d1ea77b5e70c2395a543c4c870159be3af3db4d234875439f4a6523c78509c7"
+    },
+    {
+      "id": "WM017",
+      "source_zip_sha256": "ece039adbd38f241bdf227c09c4bbe48b68eb2aad87a6a82918c8ca4d766afb6",
+      "source_glb_sha256": "ca5d8acfdc9b18c8b45a614f81fba9fedf66cf89c7ccd9279453495f0eb52e07",
+      "camera_location": [
+        2.058000087738037,
+        -3.5280001163482666,
+        3.0380001068115234
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.2340002059936523,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WM017.png",
+      "image_source_sha256": "f343dd03bcf54a1d98337c6bdec1d0b304da2fc5cb3348c9b9638aebe60f4b9d",
+      "image_sha256": "64893e0694deb1e00b488b437cf453f7e105a1f8964b48904cc42c2d3d20f2b2",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WM017.png",
+      "thumbnail_source_sha256": "2e6198d7fd010ded15e6c65ac0a353ab7aca06fcb93ea4b412f2a679414d1239",
+      "thumbnail_sha256": "f97891b45048bc0fb40aedc9946c9ae12a0beca30896b69239a72228cfca37c7"
+    },
+    {
+      "id": "WT001",
+      "source_zip_sha256": "3579a63bebf86d1d958accf8ea7ec57614ff6a510d2dd05542a73bd0362ea362",
+      "source_glb_sha256": "f9b0111068efbe04078ded994371c2d6cc2f8f609ca4d5caa43bb47d3ca3ddef",
+      "camera_location": [
+        2.1339900493621826,
+        -3.6693198680877686,
+        1.7469960451126099
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.353083372116089,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT001.png",
+      "image_source_sha256": "6d78376dcfb9d5525bbdb2aa0bb471301b2fa0032df0ed35eb9bb73cfb2f6f60",
+      "image_sha256": "de479b394ebf07167bf9186b216db27519477f31ebebbe7f7fe9d96bc20af8ad",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT001.png",
+      "thumbnail_source_sha256": "d526c15b2c41c6be52e43cf0668f55c50425727f844f7333d05b635b512b6c9a",
+      "thumbnail_sha256": "03a8ba72fb1abc1194d580e3b26d55022073705eb03344da2ba4197b3dd0cde8"
+    },
+    {
+      "id": "WT002",
+      "source_zip_sha256": "226d0cafef2e09aa1798be01a2e71e954aa9131374a04bbba5bc0edf60010d2d",
+      "source_glb_sha256": "13d76356fa22e86ac203c98da5f159e6955f79b30ff9acacd9aea65043b9bc7d",
+      "camera_location": [
+        2.1232903003692627,
+        -3.6353890895843506,
+        1.7489206790924072
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.576443947077678e-09,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.325387954711914,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT002.png",
+      "image_source_sha256": "e13f8eeb0a0a32652acd1627968cdea5aecb5d54b8054f73d1779c951746ce72",
+      "image_sha256": "627c07ab18c79c3321db4f33aa241a62088840d46943a5e759005148ec5df514",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT002.png",
+      "thumbnail_source_sha256": "a2d4cbea8270e756ac0bf2628ca1466ae6aaca2e3ea8b1547f8dffb9a5a44c8a",
+      "thumbnail_sha256": "d83992f72b97a258eb55508e9e19632da20352091986338c1abe11c4ead7cee2"
+    },
+    {
+      "id": "WT003",
+      "source_zip_sha256": "797af9c6c09dd5cd671e1550cff812f909b9bef130660726ab1b762150146f42",
+      "source_glb_sha256": "26657ba86a7aeae6e04b1727aee87d420b5315f7e79a58cdb3246998bb7e3922",
+      "camera_location": [
+        4.285240173339844,
+        -7.463096618652344,
+        5.384299278259277
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 6.774899005889893,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT003.png",
+      "image_source_sha256": "868d36dcb9518a66ddd7c0bb24f56c3c9840b3584a3645f889e071a303a2be89",
+      "image_sha256": "d986dc4fb6e91c038b4d1dc94073a763a2caa6ee8fbfe4e070a54d0b02d5c3a3",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT003.png",
+      "thumbnail_source_sha256": "03c1140ebaf261e366a4d4965cebcbcded13eb6b6983c6f83138c8fea649bdfa",
+      "thumbnail_sha256": "7120bd0edc53424947533edd37080c2dbcc8bc135083115549a80a54573efd3f"
+    },
+    {
+      "id": "WT004",
+      "source_zip_sha256": "54304a77e91f1778d450bb86be8e211bad6b146b4b2acf1700f9247e1fd6b444",
+      "source_glb_sha256": "8a20963d93b1519a0ee2d421325ccec27b456056f60d7b5f43c082faee9041ea",
+      "camera_location": [
+        2.129833221435547,
+        -3.6583385467529297,
+        2.100983142852783
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.409898042678833,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT004.png",
+      "image_source_sha256": "35c7074a2208df5233c428f6d4cd81412e46116ff6abadd15fd99208b3ff6945",
+      "image_sha256": "f04dc439b71d48cc91a41535f91766c91696c72cb02b5649a5c3f9e541b2463e",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT004.png",
+      "thumbnail_source_sha256": "a003f22e0f4ce121dea5cde9e4e33fc291b588453286d2f5cb22f4f02037f591",
+      "thumbnail_sha256": "2a4bde6346df90d0ca82a5c1602f7b6a33f676f36c826f1de87a862bdc7754f0"
+    },
+    {
+      "id": "WT005",
+      "source_zip_sha256": "ddfe65bfb7b08239db445c7b0d941e9d6f43c6acf199da87a7f08e36bca3f4bf",
+      "source_glb_sha256": "e37dff84f0026ba00ca619f1bea30b2b0b3b2aa07900d3623a312d5b3d80e67a",
+      "camera_location": [
+        2.104823112487793,
+        -3.6167216300964355,
+        1.7175921201705933
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 3.314469814300537,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT005.png",
+      "image_source_sha256": "616f02019eaeda602ea09229e4ba182f2faffef58972fb7eb9ce13a26d7f9d64",
+      "image_sha256": "3057076632b206accfb925163b5b4fe6853d08e12a7c527e022bebbcc47dda5f",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT005.png",
+      "thumbnail_source_sha256": "1aa1aa08b47d6c4a5efbb1c49e03d6b9a06a6b22f74b064b10936445f7e1ee6c",
+      "thumbnail_sha256": "c628fdbb065171de3270e112f503c4a43a2902e6f643ba427cef4ae845649c28"
+    },
+    {
+      "id": "WT006",
+      "source_zip_sha256": "4a3cf9938f841e89a01e965b16884c4b45022ecf5efbf5e7ad17c6d40ec25523",
+      "source_glb_sha256": "cb7016ff2d67fdf1c72b79d43debf272264126a1bc6abeab0ae333a665dd543a",
+      "camera_location": [
+        2.1398324966430664,
+        -3.6729631423950195,
+        1.7424448728561401
+      ],
+      "camera_rotation_euler": [
+        1.10405695438385,
+        4.7072099107481336e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 3.3600525856018066,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT006.png",
+      "image_source_sha256": "d30226483ccd9882bdd172b6edcb59405fb033ecef77e17918703f1cf9aa5d30",
+      "image_sha256": "5a872f7c04146430a657d07159918fc014dc2bad869a87196b84b1ae7778a646",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT006.png",
+      "thumbnail_source_sha256": "70c69b6535b0740722a914b99880522f249ef3c03b8a49a3fba21d998ab7c4eb",
+      "thumbnail_sha256": "d26de5ec8717cd89b0af40350142d85cf896ab5fc12cfa5ec57931282838b4f7"
+    },
+    {
+      "id": "WT007",
+      "source_zip_sha256": "1a8541449e9f4f6162edcc06b73288847fd7dbef01a1bc73ed96d6a3f13a0341",
+      "source_glb_sha256": "6a81cda0ed148ca1f239c079832300f13b64a9810569e549f9cb1a6b1a5267d9",
+      "camera_location": [
+        2.1118571758270264,
+        -3.638805627822876,
+        1.7309222221374512
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.3355720043182373,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT007.png",
+      "image_source_sha256": "b024f17168a26023b7431f579cde7d271ea96b80d38884481fd98e8f0bb50cad",
+      "image_sha256": "3887999ce87c10f547e9f4391e14d92c73d052a62a49a3875939f0b84d1b1ded",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT007.png",
+      "thumbnail_source_sha256": "9da242b584138869c994df691aa852ccbac9ff2a6c6dea52992b08d09d6e0880",
+      "thumbnail_sha256": "c030eba41c32b71a0f1cad1315f4c17a16eb01e2b6362df2ff9f044aa4b30137"
+    },
+    {
+      "id": "WT008",
+      "source_zip_sha256": "3161937a8a2358681cca78c81f392156bbcbd9d836472ba37a45f30c223f4c46",
+      "source_glb_sha256": "5f21b653c46314143a7acd898c33144f2281ffb9a52f61e5d8c787e8e4c7349a",
+      "camera_location": [
+        2.1111161708831787,
+        -3.6433558464050293,
+        1.7240064144134521
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.333348512649536,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mill-terrain-apiary24/renders/WT008.png",
+      "image_source_sha256": "865232b3bf8a747c3280e3dbde1582b1174f01b084094ac6a579d63443d1b48d",
+      "image_sha256": "650a3e6c23a81f82c4d86854a52424c242ec6de60a06327ddde0384aadf19b99",
+      "thumbnail": "previews/mill-terrain-apiary24/thumbnails/WT008.png",
+      "thumbnail_source_sha256": "a8c57b9af0bcecf451b84563f2da7352bd07de83d0fb69861e8cca875657a6ba",
+      "thumbnail_sha256": "628296420336aecd0a01ca08edde1ccddfb5138364adfbb304a27762006b98b3"
+    }
+  ]
+}

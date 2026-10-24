@@ -151,3 +151,115 @@ Original archives/images above remain as version history. Scoped defects repaire
 [![Revised WM009](../previews/quality-pmnode-wm009-repair-v1/WM009__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/WM009__repair_comparison.png)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### WM013 — Three legged millers stool
+
+Three legged millers stool
+
+[![WM013](../previews/mill-terrain-apiary24/thumbnails/WM013.png)](../previews/mill-terrain-apiary24/renders/WM013.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WM013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM013_CC0.zip)
+
+### WM014 — Sheep grazing
+
+Sheep grazing
+
+[![WM014](../previews/mill-terrain-apiary24/thumbnails/WM014.png)](../previews/mill-terrain-apiary24/renders/WM014.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WM014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM014_CC0.zip)
+
+### WM015 — Sheep resting
+
+Sheep resting
+
+[![WM015](../previews/mill-terrain-apiary24/thumbnails/WM015.png)](../previews/mill-terrain-apiary24/renders/WM015.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WM015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM015_CC0.zip)
+
+### WM016 — Sheep standing
+
+Sheep standing
+
+[![WM016](../previews/mill-terrain-apiary24/thumbnails/WM016.png)](../previews/mill-terrain-apiary24/renders/WM016.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WM016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM016_CC0.zip)
+
+### WM017 — Mill transmission gears
+
+Mill transmission gears
+
+[![WM017](../previews/mill-terrain-apiary24/thumbnails/WM017.png)](../previews/mill-terrain-apiary24/renders/WM017.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WM017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM017_CC0.zip)
+
+### WT001 — Low meadow
+
+Low meadow
+
+[![WT001](../previews/mill-terrain-apiary24/thumbnails/WT001.png)](../previews/mill-terrain-apiary24/renders/WT001.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT001_CC0.zip)
+
+### WT002 — Flower meadow
+
+Flower meadow
+
+[![WT002](../previews/mill-terrain-apiary24/thumbnails/WT002.png)](../previews/mill-terrain-apiary24/renders/WT002.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT002_CC0.zip)
+
+### WT003 — Deciduous copse
+
+Deciduous copse
+
+[![WT003](../previews/mill-terrain-apiary24/thumbnails/WT003.png)](../previews/mill-terrain-apiary24/renders/WT003.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT003_CC0.zip)
+
+### WT004 — Weathered rock outcrop
+
+Weathered rock outcrop
+
+[![WT004](../previews/mill-terrain-apiary24/thumbnails/WT004.png)](../previews/mill-terrain-apiary24/renders/WT004.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT004_CC0.zip)
+
+### WT005 — Path straight NS
+
+Path straight NS
+
+[![WT005](../previews/mill-terrain-apiary24/thumbnails/WT005.png)](../previews/mill-terrain-apiary24/renders/WT005.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT005_CC0.zip)
+
+### WT006 — Path bend NE
+
+Path bend NE
+
+[![WT006](../previews/mill-terrain-apiary24/thumbnails/WT006.png)](../previews/mill-terrain-apiary24/renders/WT006.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip)
+
+**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval.
+
+### WT007 — Stream straight NS
+
+Stream straight NS
+
+[![WT007](../previews/mill-terrain-apiary24/thumbnails/WT007.png)](../previews/mill-terrain-apiary24/renders/WT007.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip)
+
+**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval.
+
+### WT008 — Stream bend NE
+
+Stream bend NE
+
+[![WT008](../previews/mill-terrain-apiary24/thumbnails/WT008.png)](../previews/mill-terrain-apiary24/renders/WT008.png)
+
+[Full image](../previews/mill-terrain-apiary24/renders/WT008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip)

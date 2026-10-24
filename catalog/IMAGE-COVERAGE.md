@@ -187,3 +187,5 @@ FP025 / PM001–011 / WM001–012:24 individual full renders +24 thumbnails adde
 - [Quality 19](material_variants_at002_011.md):8 accepted comparison/thumbnail images. Cumulative186 assessed distribution records, not unique shapes.
 
 - [Quality20](material_variants_at012_021.md) and [PM/WM repairs](pmnode_wm009_repairs.md):16 comparison/thumbnail images. Cumulative196 assessed distribution records, not unique shapes.
+
+WM013–017 / WT001–008 / AP001–011:24 individual full renders +24 thumbnails added. International base ID mappings689/1008, missing319; variant114/114. Not a claim that every prior mapping is an isolated individual render.

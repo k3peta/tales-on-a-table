@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 665,
-      "preview_not_mapped": 343,
+      "id_mapped_preview": 689,
+      "preview_not_mapped": 319,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -22150,8 +22150,8 @@
       "name_ja": "Three legged millers stool",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WM013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22169,7 +22169,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WM013.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WM014",
@@ -22179,8 +22181,8 @@
       "name_ja": "Sheep grazing",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WM014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22198,7 +22200,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WM014.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WM015",
@@ -22208,8 +22212,8 @@
       "name_ja": "Sheep resting",
       "purpose_en": null,
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WM015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22227,7 +22231,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WM015.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WM016",
@@ -22237,8 +22243,8 @@
       "name_ja": "Sheep standing",
       "purpose_en": null,
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WM016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22256,7 +22262,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WM016.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WM017",
@@ -22266,8 +22274,8 @@
       "name_ja": "Mill transmission gears",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WM017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22285,7 +22293,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WM017.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT001",
@@ -22295,8 +22305,8 @@
       "name_ja": "Low meadow",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22314,7 +22324,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT001.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT002",
@@ -22324,8 +22336,8 @@
       "name_ja": "Flower meadow",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22343,7 +22355,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT002.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT003",
@@ -22353,8 +22367,8 @@
       "name_ja": "Deciduous copse",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22372,7 +22386,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT003.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT004",
@@ -22382,8 +22398,8 @@
       "name_ja": "Weathered rock outcrop",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22401,7 +22417,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT004.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT005",
@@ -22411,8 +22429,8 @@
       "name_ja": "Path straight NS",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22430,7 +22448,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT005.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT006",
@@ -22440,8 +22460,8 @@
       "name_ja": "Path bend NE",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22459,7 +22479,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT006.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "WT007",
@@ -22469,8 +22491,8 @@
       "name_ja": "Stream straight NS",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22488,7 +22510,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "known_issue": "Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval."
     },
     {
       "id": "WT008",
@@ -22498,8 +22523,8 @@
       "name_ja": "Stream bend NE",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/WT008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22517,7 +22542,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "known_issue": "Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval."
     },
     {
       "id": "AP001",
@@ -22527,8 +22555,8 @@
       "name_ja": "Weather lift beehive",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22546,7 +22574,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP001.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP002",
@@ -22556,8 +22586,8 @@
       "name_ja": "Open hive body",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22575,7 +22605,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP002.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP003",
@@ -22585,8 +22617,8 @@
       "name_ja": "Honeycomb frame",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22604,7 +22636,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP003.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP004",
@@ -22614,8 +22648,8 @@
       "name_ja": "Coiled straw skep",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22633,7 +22667,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP004.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP005",
@@ -22643,8 +22679,8 @@
       "name_ja": "Copper bee smoker",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22662,7 +22698,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP005.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP006",
@@ -22672,8 +22710,8 @@
       "name_ja": "Honey workbench",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22691,7 +22729,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP006.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP007",
@@ -22701,8 +22741,8 @@
       "name_ja": "Manual honey press",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22721,7 +22761,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP007.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP008",
@@ -22731,8 +22773,8 @@
       "name_ja": "Staved honey pail",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22750,7 +22792,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP008.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP009",
@@ -22760,8 +22804,8 @@
       "name_ja": "Honey storage jar",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22779,7 +22823,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP009.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP010",
@@ -22789,8 +22835,8 @@
       "name_ja": "Honey dipper bowl",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22808,7 +22854,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP010.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP011",
@@ -22818,8 +22866,8 @@
       "name_ja": "Beeswax blocks",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mill-terrain-apiary24/thumbnails/AP011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22837,7 +22885,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP011.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json"
     },
     {
       "id": "AP012",

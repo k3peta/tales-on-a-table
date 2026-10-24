@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Path straight NS
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT005](../../previews/mill-terrain-apiary24/thumbnails/WT005.png)](../../previews/mill-terrain-apiary24/renders/WT005.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Path bend NE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT006](../../previews/mill-terrain-apiary24/thumbnails/WT006.png)](../../previews/mill-terrain-apiary24/renders/WT006.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Stream straight NS
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT007](../../previews/mill-terrain-apiary24/thumbnails/WT007.png)](../../previews/mill-terrain-apiary24/renders/WT007.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -70,13 +76,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## WT008
 
 **Stream bend NE**
 
 Stream bend NE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WT008](../../previews/mill-terrain-apiary24/thumbnails/WT008.png)](../../previews/mill-terrain-apiary24/renders/WT008.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/WT008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -92,13 +102,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## AP001
 
 **Weather lift beehive**
 
 Weather lift beehive
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP001](../../previews/mill-terrain-apiary24/thumbnails/AP001.png)](../../previews/mill-terrain-apiary24/renders/AP001.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +134,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Open hive body
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP002](../../previews/mill-terrain-apiary24/thumbnails/AP002.png)](../../previews/mill-terrain-apiary24/renders/AP002.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +158,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Honeycomb frame
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP003](../../previews/mill-terrain-apiary24/thumbnails/AP003.png)](../../previews/mill-terrain-apiary24/renders/AP003.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +182,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Coiled straw skep
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP004](../../previews/mill-terrain-apiary24/thumbnails/AP004.png)](../../previews/mill-terrain-apiary24/renders/AP004.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +206,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Copper bee smoker
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP005](../../previews/mill-terrain-apiary24/thumbnails/AP005.png)](../../previews/mill-terrain-apiary24/renders/AP005.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +230,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Honey workbench
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP006](../../previews/mill-terrain-apiary24/thumbnails/AP006.png)](../../previews/mill-terrain-apiary24/renders/AP006.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +254,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Manual honey press
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP007](../../previews/mill-terrain-apiary24/thumbnails/AP007.png)](../../previews/mill-terrain-apiary24/renders/AP007.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +278,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Staved honey pail
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP008](../../previews/mill-terrain-apiary24/thumbnails/AP008.png)](../../previews/mill-terrain-apiary24/renders/AP008.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +302,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Honey storage jar
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP009](../../previews/mill-terrain-apiary24/thumbnails/AP009.png)](../../previews/mill-terrain-apiary24/renders/AP009.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +326,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Honey dipper bowl
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP010](../../previews/mill-terrain-apiary24/thumbnails/AP010.png)](../../previews/mill-terrain-apiary24/renders/AP010.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +350,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Beeswax blocks
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP011](../../previews/mill-terrain-apiary24/thumbnails/AP011.png)](../../previews/mill-terrain-apiary24/renders/AP011.png)
+
+[Full-size image](../../previews/mill-terrain-apiary24/renders/AP011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
