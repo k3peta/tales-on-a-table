@@ -1,0 +1,210 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "1fd039381e01f967b0dc75995be6b812a8eb5912",
+  "guard_run_id": "ebc8114b-201c-4244-b21b-235faedf2750",
+  "started_utc": "2026-10-24T16:43:03.462015+00:00",
+  "finished_utc": "2026-10-24T16:43:17.803629+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "BN_003__repair",
+      "zip": "BN_003__repair_CC0.zip",
+      "zip_sha256": "18f4c40dd8ff8b2e5f4b09c986fdaa6e28848c15a9e7e3bb43481c7e133ac83c",
+      "members": {
+        "BN_003__repair.glb": "3862088c09d601e95b1e7f64e7893a4e56dab9601ceace7022ba5a0b0521e52f",
+        "BN_003__repair.blend": "1b9a72e28b2388e89b4e30dd3ad90227672845267c1598bde11c43236cfba8c0"
+      }
+    },
+    {
+      "id": "BN_005__repair",
+      "zip": "BN_005__repair_CC0.zip",
+      "zip_sha256": "e7a3bfac6a02e79ac8334cdc32623f951e3243ccf9737dd3e468e6a8814b227f",
+      "members": {
+        "BN_005__repair.glb": "ce265e29ec4cef29ab4f34b466fb3984a146cbc1be6d1f9d2dcdcb9609b57659",
+        "BN_005__repair.blend": "1947fe7cb596d18227165154b01bca67ece5c5c8b1bc0a571422108924d70e3b"
+      }
+    },
+    {
+      "id": "BN_006__bluewood",
+      "zip": "BN_006__bluewood_CC0.zip",
+      "zip_sha256": "9c536632c923bbd2f6c118bd8a0708a9e219bd3b3c08fba83dcbe2c4b14a6909",
+      "members": {
+        "BN_006__bluewood.glb": "f47bb943eff920c5240e4a10bc4e52602354dcc0fd6263b18ad390e59180144a",
+        "BN_006__bluewood.blend": "6bfa0ef7965c02c431308f32906d9b7424a9eda1c8e70b35b6e6f6c91b37c5e3"
+      }
+    },
+    {
+      "id": "WH_NEW_007__repair",
+      "zip": "WH_NEW_007__repair_CC0.zip",
+      "zip_sha256": "388aeb6a08058aad006b5e76345a31b624595ec2dcae3103965725da547454c3",
+      "members": {
+        "WH_NEW_007__repair.blend": "0db8d6675da7057c32fb1f15c9596c9892100e0d40658bb5910ee9c82525c080",
+        "WH_NEW_007__repair.glb": "cfbb775dea707f5485e6160ce004b54aaf6f7794f9ad68056ee3b13bcf99da85"
+      }
+    },
+    {
+      "id": "WH_NEW_008__repair",
+      "zip": "WH_NEW_008__repair_CC0.zip",
+      "zip_sha256": "63b56bd4ff263af60cc0deb148906d3f4cf85e658cf0e4066281bab1f2530d0c",
+      "members": {
+        "WH_NEW_008__repair.blend": "6a68c49f690b419d66bc282e80fba1df854189329751fec448aba141450f1bd6",
+        "WH_NEW_008__repair.glb": "94213187d7727b53476357e10c014d4044022da93aeeb8639ee152c51302e1a4"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "WH_NEW_007__repair",
+      "formats": {
+        "blend": {
+          "triangles": 47298,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 47298,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 1.2287812012345967e-07,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WH_NEW_008__repair",
+      "formats": {
+        "blend": {
+          "triangles": 51944,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 51944,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 4.214684778958144e-08,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "BN_003__repair",
+      "formats": {
+        "blend": {
+          "triangles": 3752,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 3752,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 7.46511830129748e-09,
+          "embedded_images": 2,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "BN_005__repair",
+      "formats": {
+        "blend": {
+          "triangles": 85280,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 85280,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 3.332000986233652e-08,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "BN_006__bluewood",
+      "formats": {
+        "blend": {
+          "triangles": 4224,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 4224,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

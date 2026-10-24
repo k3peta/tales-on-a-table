@@ -478,6 +478,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality44:** 2942 zero faces removed; missing UV added;47298tri below50k;empty20slot rack no swords. [Details](../material_variants_wh007_bn008.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_007__repair_CC0.zip) · [Matching revision preview](../../previews/quality-wh007-bn008-v1/WH_NEW_007__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## WH_NEW_008
 
 **倉庫の梱包箱**
@@ -501,6 +503,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality44:** 3096 zero faces removed; missing UV added;51944tri over50k;uniform grain remains. [Details](../material_variants_wh007_bn008.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_008__repair_CC0.zip) · [Matching revision preview](../../previews/quality-wh007-bn008-v1/WH_NEW_008__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## BN_001
 
@@ -573,6 +577,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
 
 **Quality44:** 3752tri unchanged geometry;one missing UV layer added, not original-UV-invariant. [Details](../material_variants_wh007_bn008.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_003__repair_CC0.zip) · [Matching revision preview](../../previews/quality-wh007-bn008-v1/BN_003__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## BN_004
 

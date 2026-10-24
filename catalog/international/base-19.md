@@ -28,6 +28,8 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md) · [Cata
 
 **Quality44:** 85280tri over20k;11missing UV layers added, geometry unchanged;dense fibers remain. [Details](../material_variants_wh007_bn008.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_005__repair_CC0.zip) · [Matching revision preview](../../previews/quality-wh007-bn008-v1/BN_005__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## BN_006
 
 **Three-compartment grain bin**

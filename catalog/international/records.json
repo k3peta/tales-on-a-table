@@ -18929,7 +18929,8 @@
         {
           "id": "WH_NEW_007__repair",
           "catalog": "catalog/material_variants_wh007_bn008.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "2942 zero faces removed; missing UV added;47298tri below50k;empty20slot rack no swords."
@@ -18974,7 +18975,8 @@
         {
           "id": "WH_NEW_008__repair",
           "catalog": "catalog/material_variants_wh007_bn008.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "3096 zero faces removed; missing UV added;51944tri over50k;uniform grain remains."
@@ -19095,7 +19097,8 @@
         {
           "id": "BN_003__repair",
           "catalog": "catalog/material_variants_wh007_bn008.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "3752tri unchanged geometry;one missing UV layer added, not original-UV-invariant."
@@ -19180,7 +19183,8 @@
         {
           "id": "BN_005__repair",
           "catalog": "catalog/material_variants_wh007_bn008.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "85280tri over20k;11missing UV layers added, geometry unchanged;dense fibers remain."
