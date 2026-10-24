@@ -1,0 +1,265 @@
+{
+  "record_count": 10,
+  "items": [
+    {
+      "asset_id": "HCV501",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "architectural_component",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 988929,
+      "zip_sha256": "c5d1c78a2a7faf494066ad50174907594dcbc3c2a5f240d93839bfd712b5002e",
+      "names": {
+        "ja": "HCV501",
+        "en": "HCV501",
+        "zh-CN": "HCV501"
+      },
+      "descriptions": {
+        "ja": "HCV501: Removable tiled gable roof with timber trusses",
+        "en": "HCV501: Removable tiled gable roof with timber trusses",
+        "zh-CN": "HCV501: Removable tiled gable roof with timber trusses"
+      },
+      "zip_file": "HCV501-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV501-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV502",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "architectural_component",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 226666,
+      "zip_sha256": "7a166705ddb5f9b64a3917bbce75717571c77723b7a062d60f8a3c25dd5d02a8",
+      "names": {
+        "ja": "HCV502",
+        "en": "HCV502",
+        "zh-CN": "HCV502"
+      },
+      "descriptions": {
+        "ja": "HCV502: Wide barn facade with fixed-open double doors",
+        "en": "HCV502: Wide barn facade with fixed-open double doors",
+        "zh-CN": "HCV502: Wide barn facade with fixed-open double doors"
+      },
+      "zip_file": "HCV502-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV502-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV503",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "architectural_component",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 125511,
+      "zip_sha256": "bee785fdfbbdcaba3dd0d43eb5d4806799fa0811cbf19e295b8067462d468bb9",
+      "names": {
+        "ja": "HCV503",
+        "en": "HCV503",
+        "zh-CN": "HCV503"
+      },
+      "descriptions": {
+        "ja": "HCV503: Two-metre ventilated barn wall bay",
+        "en": "HCV503: Two-metre ventilated barn wall bay",
+        "zh-CN": "HCV503: Two-metre ventilated barn wall bay"
+      },
+      "zip_file": "HCV503-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV503-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV504",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 176952,
+      "zip_sha256": "e87b68202d706692557f46443eb569a9d1c7a94016637055721b60ee4387edfa",
+      "names": {
+        "ja": "HCV504",
+        "en": "HCV504",
+        "zh-CN": "HCV504"
+      },
+      "descriptions": {
+        "ja": "HCV504: Radial bottle draining tree",
+        "en": "HCV504: Radial bottle draining tree",
+        "zh-CN": "HCV504: Radial bottle draining tree"
+      },
+      "zip_file": "HCV504-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV504-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV505",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 154880,
+      "zip_sha256": "4e1b82a722670ad2787b10ad97fbef6bebae870d8fba11156280c94852a1a237",
+      "names": {
+        "ja": "HCV505",
+        "en": "HCV505",
+        "zh-CN": "HCV505"
+      },
+      "descriptions": {
+        "ja": "HCV505: Lever corking bench with bottle centering socket",
+        "en": "HCV505: Lever corking bench with bottle centering socket",
+        "zh-CN": "HCV505: Lever corking bench with bottle centering socket"
+      },
+      "zip_file": "HCV505-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV505-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV506",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 239649,
+      "zip_sha256": "3520b3d929dd2af5678bb5cf47fc988d1cfc67c1af65260f6a26c62c6274886c",
+      "names": {
+        "ja": "HCV506",
+        "en": "HCV506",
+        "zh-CN": "HCV506"
+      },
+      "descriptions": {
+        "ja": "HCV506: Two-wheel slatted harvest handcart",
+        "en": "HCV506: Two-wheel slatted harvest handcart",
+        "zh-CN": "HCV506: Two-wheel slatted harvest handcart"
+      },
+      "zip_file": "HCV506-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV506-CC0.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV_SCENE_HORSE",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "revised_private_scene_first_distribution",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 11120837,
+      "zip_sha256": "90c4e2c842a2a8e30645f6a18ff7f265b8b1f0b483b96881fc7f0d0930338fa3",
+      "names": {
+        "ja": "HCV_SCENE_HORSE",
+        "en": "HCV_SCENE_HORSE",
+        "zh-CN": "HCV_SCENE_HORSE"
+      },
+      "descriptions": {
+        "ja": "horse - rearrangeable static vignette, revision 2",
+        "en": "horse - rearrangeable static vignette, revision 2",
+        "zh-CN": "horse - rearrangeable static vignette, revision 2"
+      },
+      "zip_file": "horse-scene-v2.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV_SCENE_CATTLE",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "revised_private_scene_first_distribution",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 8599344,
+      "zip_sha256": "ea8487ac078bf06503b9f0babadcb01ec6a5749a86c233d10df755efaf34af75",
+      "names": {
+        "ja": "HCV_SCENE_CATTLE",
+        "en": "HCV_SCENE_CATTLE",
+        "zh-CN": "HCV_SCENE_CATTLE"
+      },
+      "descriptions": {
+        "ja": "cattle - rearrangeable static vignette, revision 2",
+        "en": "cattle - rearrangeable static vignette, revision 2",
+        "zh-CN": "cattle - rearrangeable static vignette, revision 2"
+      },
+      "zip_file": "cattle-scene-v2.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cattle-scene-v2.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV_SCENE_WINERY",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "revised_private_scene_first_distribution",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 12366164,
+      "zip_sha256": "4e58c918dffa6cd0d23e0c52ce208929693df0228e15e291bf4055aa3d8fa36f",
+      "names": {
+        "ja": "HCV_SCENE_WINERY",
+        "en": "HCV_SCENE_WINERY",
+        "zh-CN": "HCV_SCENE_WINERY"
+      },
+      "descriptions": {
+        "ja": "winery - rearrangeable static vignette, revision 2",
+        "en": "winery - rearrangeable static vignette, revision 2",
+        "zh-CN": "winery - rearrangeable static vignette, revision 2"
+      },
+      "zip_file": "winery-scene-v2.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV_SCENE_CELLAR",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "revised_private_scene_first_distribution",
+      "independent_design_increment": null,
+      "revision": "husbandry-cellar-v2",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 10454895,
+      "zip_sha256": "904e0308eeaed4bd0fb711fc6786506d8a97b1fa4eec53f74e26e04e430aa988",
+      "names": {
+        "ja": "HCV_SCENE_CELLAR",
+        "en": "HCV_SCENE_CELLAR",
+        "zh-CN": "HCV_SCENE_CELLAR"
+      },
+      "descriptions": {
+        "ja": "cellar - rearrangeable static vignette, revision 2",
+        "en": "cellar - rearrangeable static vignette, revision 2",
+        "zh-CN": "cellar - rearrangeable static vignette, revision 2"
+      },
+      "zip_file": "cellar-scene-v2.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip",
+      "theme": "husbandry_cellar_v2",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

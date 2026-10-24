@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **955配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **965配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **965 records** (955 + 6 components + 4 scene first-distributions; scenes are NOT CC0 arrangements). [husbandry-cellar-v2](catalog/husbandry_cellar_v2.md).
 
 - 2026-10-24 JST — **955 records** (950 + 3 components + 2 assemblies; existing hay excluded from new counts). [Cheese and hay buildings](catalog/cheese_hay_buildings_v1.md).
 

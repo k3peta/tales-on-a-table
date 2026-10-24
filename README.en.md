@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **955 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **965 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **965 records** (955 + 6 components + 4 scene first-distributions; scenes are NOT CC0 arrangements). [husbandry-cellar-v2](catalog/husbandry_cellar_v2.md).
 
 - 2026-10-24 JST — **955 records** (950 + 3 components + 2 assemblies; existing hay excluded from new counts). [Cheese and hay buildings](catalog/cheese_hay_buildings_v1.md).
 
