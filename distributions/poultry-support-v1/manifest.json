@@ -1,0 +1,57 @@
+{
+  "record_count": 2,
+  "items": [
+    {
+      "asset_id": "HCV701",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "poultry-support-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 521053,
+      "zip_sha256": "dd3ca6cf63e8fdd80ace5b9e5b4df940257463f803384dac332b0101882af62d",
+      "names": {
+        "ja": "HCV701",
+        "en": "HCV701",
+        "zh-CN": "HCV701"
+      },
+      "descriptions": {
+        "ja": "HCV701: Raised three-bay hen nesting box",
+        "en": "HCV701: Raised three-bay hen nesting box",
+        "zh-CN": "HCV701: Raised three-bay hen nesting box"
+      },
+      "zip_file": "HCV701-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV701-CC0.zip",
+      "theme": "poultry_support_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV702",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "poultry-support-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 539230,
+      "zip_sha256": "74fe01a7d8cfc8c7779cf59fe0ec24ff366b53c41e9423c1d0695410eb7a55d6",
+      "names": {
+        "ja": "HCV702",
+        "en": "HCV702",
+        "zh-CN": "HCV702"
+      },
+      "descriptions": {
+        "ja": "HCV702: Covered poultry gravity feeder with pecking tray",
+        "en": "HCV702: Covered poultry gravity feeder with pecking tray",
+        "zh-CN": "HCV702: Covered poultry gravity feeder with pecking tray"
+      },
+      "zip_file": "HCV702-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV702-CC0.zip",
+      "theme": "poultry_support_v1",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

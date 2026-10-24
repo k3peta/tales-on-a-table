@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **970条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **972条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — **972 records** (970 + 2 components; reused hen/private scenes excluded). [poultry-support-v1](catalog/poultry_support_v1.md).
 
 - 2026-10-24 JST — **970 records** (965 + 5 components; reused models/private scenes excluded). [livestock-tack-v1](catalog/livestock_tack_v1.md).
 

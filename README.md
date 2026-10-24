@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **970配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **972配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **972 records** (970 + 2 components; reused hen/private scenes excluded). [poultry-support-v1](catalog/poultry_support_v1.md).
 
 - 2026-10-24 JST — **970 records** (965 + 5 components; reused models/private scenes excluded). [livestock-tack-v1](catalog/livestock_tack_v1.md).
 
