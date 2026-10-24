@@ -142,3 +142,39 @@ HCV303
 [![HCV303](../previews/hcv-chb24/thumbnails/HCV303.png)](../previews/hcv-chb24/renders/HCV303.png)
 
 [Full image](../previews/hcv-chb24/renders/HCV303.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV801 — HCV801
+
+HCV801
+
+[![HCV801](../previews/chbv-mrt24/thumbnails/HCV801.png)](../previews/chbv-mrt24/renders/HCV801.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV801.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV801-CC0.zip)
+
+### HCV802 — HCV802
+
+HCV802
+
+[![HCV802](../previews/chbv-mrt24/thumbnails/HCV802.png)](../previews/chbv-mrt24/renders/HCV802.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV802.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV802-CC0.zip)
+
+### HCV803 — HCV803
+
+HCV803
+
+[![HCV803](../previews/chbv-mrt24/thumbnails/HCV803.png)](../previews/chbv-mrt24/renders/HCV803.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV803.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV803-CC0.zip)
+
+### HCV804 — HCV804
+
+HCV804
+
+[![HCV804](../previews/chbv-mrt24/thumbnails/HCV804.png)](../previews/chbv-mrt24/renders/HCV804.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV804.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV804-CC0.zip)

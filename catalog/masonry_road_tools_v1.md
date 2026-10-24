@@ -136,3 +136,15 @@ FiresteelKit
 ![masonry-road-tools-v1 — survey_close](../previews/catalog-20261024/masonry-road-tools-v1-survey_close.jpg)
 
 ![masonry-road-tools-v1 — tools_overview](../previews/catalog-20261024/masonry-road-tools-v1-tools_overview.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### MRT101_PlumbLevel — PlumbLevel
+
+PlumbLevel
+
+[![MRT101_PlumbLevel](../previews/chbv-mrt24/thumbnails/MRT101_PlumbLevel.png)](../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png)
+
+[Full image](../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT101_PlumbLevel_CC0.zip)

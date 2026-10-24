@@ -57,3 +57,31 @@ HCV702
 ![poultry-support-v1 — poultry-detail](../previews/catalog-20261024/poultry-support-v1-poultry-detail.jpg)
 
 ![poultry-support-v1 — poultry-overview](../previews/catalog-20261024/poultry-support-v1-poultry-overview.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV604 — HCV604
+
+HCV604
+
+[![HCV604](../previews/chbv-mrt24/thumbnails/HCV604.png)](../previews/chbv-mrt24/renders/HCV604.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV604.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV604-CC0.zip)
+
+### HCV701 — HCV701
+
+HCV701
+
+[![HCV701](../previews/chbv-mrt24/thumbnails/HCV701.png)](../previews/chbv-mrt24/renders/HCV701.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV701.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV701-CC0.zip)
+
+### HCV702 — HCV702
+
+HCV702
+
+[![HCV702](../previews/chbv-mrt24/thumbnails/HCV702.png)](../previews/chbv-mrt24/renders/HCV702.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV702.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV702-CC0.zip)

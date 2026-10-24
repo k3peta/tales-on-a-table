@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "CP_019__orange_wool",
+      "base_id": "CP_019",
+      "entity_type": "material_variant",
+      "zip": "CP_019__orange_wool_CC0.zip",
+      "sha256": "5139a38297e2bc3df93ac38d2bbc50f0ebb6026d5275bad6dbe8896392867036",
+      "bytes": 758614,
+      "description": "Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_019__orange_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "CP_023__repair",
+      "base_id": "CP_023",
+      "entity_type": "revision",
+      "zip": "CP_023__repair_CC0.zip",
+      "sha256": "87c5a4e4802f149a439afbeee95dc9bfd65fd05906605cbcbfc518056b972e02",
+      "bytes": 442710,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "CP_023__orange_glaze_smooth",
+      "base_id": "CP_023",
+      "entity_type": "material_variant",
+      "zip": "CP_023__orange_glaze_smooth_CC0.zip",
+      "sha256": "724b4da97eead4f2b05b85498f7dfd611fed4011097400860a1a1786f59a315f",
+      "bytes": 451668,
+      "description": "Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__orange_glaze_smooth_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 1
+}

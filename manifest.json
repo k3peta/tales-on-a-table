@@ -10119,7 +10119,22 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "CP_023__repair",
+          "base_id": "CP_023",
+          "entity_type": "revision",
+          "zip": "CP_023__repair_CC0.zip",
+          "sha256": "87c5a4e4802f149a439afbeee95dc9bfd65fd05906605cbcbfc518056b972e02",
+          "bytes": 442710,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "CP_024",

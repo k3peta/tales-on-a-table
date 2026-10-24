@@ -118,6 +118,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality33:** Thin chart strokes at thumbnail size; navigation accuracy unverified. [Details](../material_variants_cp013_023.md).
+
 ## CP_014
 
 **Brass chart dividers**
@@ -206,6 +208,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality33:** 24 positive tiny triangles retained. [Details](../material_variants_cp013_023.md).
+
 ## CP_019
 
 **Cabin berth with storage**
@@ -227,6 +231,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality33:** Orange wool retains original geometry but adds1 missing UV layer. [Details](../material_variants_cp013_023.md).
 
 ## CP_020
 
@@ -250,6 +256,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality33:** 37712 triangles exceeds20k budget;9 constant-color meshes lack UV; redesign unresolved. [Details](../material_variants_cp013_023.md).
+
 ## CP_021
 
 **Large sheathed captain's knife**
@@ -271,6 +279,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality33:** 2 flat-color meshes lack UV; future mapping limitation. [Details](../material_variants_cp013_023.md).
 
 ## CP_022
 
@@ -294,6 +304,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality33:** 1 flat-color mesh lacks UV; dark optical reflection retained. [Details](../material_variants_cp013_023.md).
+
 ## CP_023
 
 **Ceramic coffee jug**
@@ -315,6 +327,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality33:** 384 exact-zero triangles removed,2 missing UV layers added; handle-joint shading still under diagnosis. Smooth orange glaze uses repaired baseline. [Details](../material_variants_cp013_023.md).
 
 ## CP_024
 

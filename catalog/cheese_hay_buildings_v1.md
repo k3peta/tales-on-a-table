@@ -155,3 +155,31 @@ HCV102
 [![HCV102](../previews/hcv-chb24/thumbnails/HCV102.png)](../previews/hcv-chb24/renders/HCV102.png)
 
 [Full image](../previews/hcv-chb24/renders/HCV102.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CHBV01_CheeseRipeningHut — CheeseRipeningHut
+
+CheeseRipeningHut
+
+[![CHBV01_CheeseRipeningHut](../previews/chbv-mrt24/thumbnails/CHBV01_CheeseRipeningHut.png)](../previews/chbv-mrt24/renders/CHBV01_CheeseRipeningHut.png)
+
+[Full image](../previews/chbv-mrt24/renders/CHBV01_CheeseRipeningHut.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV01_CheeseRipeningHut_CC0.zip)
+
+### CHBV02_DryHayStore — DryHayStore
+
+DryHayStore
+
+[![CHBV02_DryHayStore](../previews/chbv-mrt24/thumbnails/CHBV02_DryHayStore.png)](../previews/chbv-mrt24/renders/CHBV02_DryHayStore.png)
+
+[Full image](../previews/chbv-mrt24/renders/CHBV02_DryHayStore.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV02_DryHayStore_CC0.zip)
+
+### HCV503 — HCV503
+
+HCV503
+
+[![HCV503](../previews/chbv-mrt24/thumbnails/HCV503.png)](../previews/chbv-mrt24/renders/HCV503.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV503.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV503-CC0.zip)

@@ -9518,7 +9518,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV01_CheeseRipeningHut_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9531,6 +9530,10 @@
     },
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9541,7 +9544,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV02_DryHayStore_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9554,6 +9556,10 @@
     },
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9564,7 +9570,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV501-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9577,6 +9582,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9587,7 +9596,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV502-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9600,6 +9608,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9610,7 +9622,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV503-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9624,6 +9635,10 @@
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md",
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9634,7 +9649,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV504-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9647,6 +9661,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9657,7 +9675,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV505-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9670,6 +9687,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9680,7 +9701,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV506-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9694,6 +9714,10 @@
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md",
       "catalog/livestock_tack_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9704,7 +9728,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9717,6 +9740,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9727,7 +9754,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cattle-scene-v2.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9740,6 +9766,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9750,7 +9780,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9763,6 +9792,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9773,7 +9806,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9786,6 +9818,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9796,7 +9832,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV601-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9809,6 +9844,10 @@
     },
     "existing_catalogs": [
       "catalog/livestock_tack_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9819,7 +9858,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV602-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9832,6 +9870,10 @@
     },
     "existing_catalogs": [
       "catalog/livestock_tack_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9842,7 +9884,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV603-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9856,6 +9897,10 @@
     "existing_catalogs": [
       "catalog/goat_care_platform_v1.md",
       "catalog/livestock_tack_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9866,7 +9911,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV604-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9880,6 +9924,10 @@
     "existing_catalogs": [
       "catalog/livestock_tack_v1.md",
       "catalog/poultry_support_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9890,7 +9938,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV605-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9903,6 +9950,10 @@
     },
     "existing_catalogs": [
       "catalog/livestock_tack_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9913,7 +9964,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV701-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9926,6 +9976,10 @@
     },
     "existing_catalogs": [
       "catalog/poultry_support_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9936,7 +9990,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/poultry-support-v1/HCV702-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9949,6 +10002,10 @@
     },
     "existing_catalogs": [
       "catalog/poultry_support_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9959,7 +10016,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV801-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9972,6 +10028,10 @@
     },
     "existing_catalogs": [
       "catalog/stable_care_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9982,7 +10042,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV802-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9995,6 +10054,10 @@
     },
     "existing_catalogs": [
       "catalog/stable_care_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10005,7 +10068,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV803-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10018,6 +10080,10 @@
     },
     "existing_catalogs": [
       "catalog/stable_care_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10028,7 +10094,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV804-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10041,6 +10106,10 @@
     },
     "existing_catalogs": [
       "catalog/stable_care_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10051,7 +10120,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT101_PlumbLevel_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10064,6 +10132,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

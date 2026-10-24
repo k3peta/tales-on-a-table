@@ -169,3 +169,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base CP_004](base-13.md#cp_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_004__color_green_CC0.zip) · [Full comparison](../../previews/quality-ws039-cp012-v1/CP_004__color_green_overview_comparison.png) · [Details](../material_variants_ws039_cp012.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## CP_019__orange_wool
+
+**Cabin berth with storage** · 収納付きの船室寝台
+
+[![CP_019__orange_wool](../../previews/quality-cp013-023-v1/CP_019__orange_wool_thumb.png)](../../previews/quality-cp013-023-v1/CP_019__orange_wool_overview_comparison.png)
+
+Use: Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base CP_019](base-14.md#cp_019) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_019__orange_wool_CC0.zip) · [Full comparison](../../previews/quality-cp013-023-v1/CP_019__orange_wool_overview_comparison.png) · [Details](../material_variants_cp013_023.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## CP_023__orange_glaze_smooth
+
+**Ceramic coffee jug** · コーヒー入りの陶製ジャグ
+
+[![CP_023__orange_glaze_smooth](../../previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_thumb.png)](../../previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_overview_comparison.png)
+
+Use: Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base CP_023](base-14.md#cp_023) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__orange_glaze_smooth_CC0.zip) · [Full comparison](../../previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_overview_comparison.png) · [Details](../material_variants_cp013_023.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

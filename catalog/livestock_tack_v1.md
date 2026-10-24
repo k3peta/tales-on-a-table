@@ -122,3 +122,59 @@ HCV605
 ![livestock-tack-v1 — hen](../previews/catalog-20261024/livestock-tack-v1-hen.jpg)
 
 ![livestock-tack-v1 — saddle](../previews/catalog-20261024/livestock-tack-v1-saddle.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV506 — HCV506
+
+HCV506
+
+[![HCV506](../previews/chbv-mrt24/thumbnails/HCV506.png)](../previews/chbv-mrt24/renders/HCV506.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV506.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV506-CC0.zip)
+
+**Known issue:** Standalone mounting shafts shown separately; assembled fit and operation untested.
+
+### HCV601 — HCV601
+
+HCV601
+
+[![HCV601](../previews/chbv-mrt24/thumbnails/HCV601.png)](../previews/chbv-mrt24/renders/HCV601.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV601.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV601-CC0.zip)
+
+**Known issue:** Standalone mounting fittings shown separately; assembled fit and operation untested.
+
+### HCV602 — HCV602
+
+HCV602
+
+[![HCV602](../previews/chbv-mrt24/thumbnails/HCV602.png)](../previews/chbv-mrt24/renders/HCV602.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV602.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV602-CC0.zip)
+
+### HCV603 — HCV603
+
+HCV603
+
+[![HCV603](../previews/chbv-mrt24/thumbnails/HCV603.png)](../previews/chbv-mrt24/renders/HCV603.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV603.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV603-CC0.zip)
+
+### HCV604 — HCV604
+
+HCV604
+
+[![HCV604](../previews/chbv-mrt24/thumbnails/HCV604.png)](../previews/chbv-mrt24/renders/HCV604.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV604.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV604-CC0.zip)
+
+### HCV605 — HCV605
+
+HCV605
+
+[![HCV605](../previews/chbv-mrt24/thumbnails/HCV605.png)](../previews/chbv-mrt24/renders/HCV605.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV605.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV605-CC0.zip)

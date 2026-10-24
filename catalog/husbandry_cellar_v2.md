@@ -199,3 +199,87 @@ HCV_SCENE_CELLAR
 ![husbandry-cellar-v2 — winery-exterior](../previews/catalog-20261024/husbandry-cellar-v2-winery-exterior.jpg)
 
 ![husbandry-cellar-v2 — winery-interior](../previews/catalog-20261024/husbandry-cellar-v2-winery-interior.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV501 — HCV501
+
+HCV501
+
+[![HCV501](../previews/chbv-mrt24/thumbnails/HCV501.png)](../previews/chbv-mrt24/renders/HCV501.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV501.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV501-CC0.zip)
+
+### HCV502 — HCV502
+
+HCV502
+
+[![HCV502](../previews/chbv-mrt24/thumbnails/HCV502.png)](../previews/chbv-mrt24/renders/HCV502.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV502.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV502-CC0.zip)
+
+### HCV503 — HCV503
+
+HCV503
+
+[![HCV503](../previews/chbv-mrt24/thumbnails/HCV503.png)](../previews/chbv-mrt24/renders/HCV503.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV503.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV503-CC0.zip)
+
+### HCV504 — HCV504
+
+HCV504
+
+[![HCV504](../previews/chbv-mrt24/thumbnails/HCV504.png)](../previews/chbv-mrt24/renders/HCV504.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV504.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV504-CC0.zip)
+
+### HCV505 — HCV505
+
+HCV505
+
+[![HCV505](../previews/chbv-mrt24/thumbnails/HCV505.png)](../previews/chbv-mrt24/renders/HCV505.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV505.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV505-CC0.zip)
+
+### HCV506 — HCV506
+
+HCV506
+
+[![HCV506](../previews/chbv-mrt24/thumbnails/HCV506.png)](../previews/chbv-mrt24/renders/HCV506.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV506.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/HCV506-CC0.zip)
+
+### HCV_SCENE_CATTLE — HCV_SCENE_CATTLE
+
+HCV_SCENE_CATTLE
+
+[![HCV_SCENE_CATTLE](../previews/chbv-mrt24/thumbnails/HCV_SCENE_CATTLE.png)](../previews/chbv-mrt24/renders/HCV_SCENE_CATTLE.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV_SCENE_CATTLE.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cattle-scene-v2.zip)
+
+### HCV_SCENE_CELLAR — HCV_SCENE_CELLAR
+
+HCV_SCENE_CELLAR
+
+[![HCV_SCENE_CELLAR](../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png)](../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip)
+
+### HCV_SCENE_HORSE — HCV_SCENE_HORSE
+
+HCV_SCENE_HORSE
+
+[![HCV_SCENE_HORSE](../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png)](../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip)
+
+### HCV_SCENE_WINERY — HCV_SCENE_WINERY
+
+HCV_SCENE_WINERY
+
+[![HCV_SCENE_WINERY](../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png)](../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip)

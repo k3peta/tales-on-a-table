@@ -420,7 +420,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md)
 
 CheeseRipeningHut
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CHBV01_CheeseRipeningHut](../../previews/chbv-mrt24/thumbnails/CHBV01_CheeseRipeningHut.png)](../../previews/chbv-mrt24/renders/CHBV01_CheeseRipeningHut.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/CHBV01_CheeseRipeningHut.png)
 
 Use / purpose: CHBV01_CheeseRipeningHut
 
@@ -442,7 +444,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md)
 
 DryHayStore
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CHBV02_DryHayStore](../../previews/chbv-mrt24/thumbnails/CHBV02_DryHayStore.png)](../../previews/chbv-mrt24/renders/CHBV02_DryHayStore.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/CHBV02_DryHayStore.png)
 
 Use / purpose: CHBV02_DryHayStore
 
@@ -464,7 +468,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md)
 
 HCV501
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV501](../../previews/chbv-mrt24/thumbnails/HCV501.png)](../../previews/chbv-mrt24/renders/HCV501.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV501.png)
 
 Use / purpose: HCV501: Removable tiled gable roof with timber trusses
 
@@ -486,7 +492,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV502
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV502](../../previews/chbv-mrt24/thumbnails/HCV502.png)](../../previews/chbv-mrt24/renders/HCV502.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV502.png)
 
 Use / purpose: HCV502: Wide barn facade with fixed-open double doors
 
@@ -508,7 +516,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV503
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV503](../../previews/chbv-mrt24/thumbnails/HCV503.png)](../../previews/chbv-mrt24/renders/HCV503.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV503.png)
 
 Use / purpose: HCV503: Two-metre ventilated barn wall bay
 
@@ -530,7 +540,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md) · [Cata
 
 HCV504
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV504](../../previews/chbv-mrt24/thumbnails/HCV504.png)](../../previews/chbv-mrt24/renders/HCV504.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV504.png)
 
 Use / purpose: HCV504: Radial bottle draining tree
 
@@ -552,7 +564,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV505
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV505](../../previews/chbv-mrt24/thumbnails/HCV505.png)](../../previews/chbv-mrt24/renders/HCV505.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV505.png)
 
 Use / purpose: HCV505: Lever corking bench with bottle centering socket
 

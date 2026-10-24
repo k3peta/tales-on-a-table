@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 953,
-      "preview_not_mapped": 55,
+      "id_mapped_preview": 977,
+      "preview_not_mapped": 31,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 133,
-      "id_mapped_preview": 133,
+      "records": 135,
+      "id_mapped_preview": 135,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 133,
-      "formats_known": 133,
+      "purpose_en_present": 135,
+      "formats_known": 135,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -13159,7 +13159,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Thin chart strokes at thumbnail size; navigation accuracy unverified."
     },
     {
       "id": "CP_014",
@@ -13291,7 +13292,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "24 positive tiny triangles retained."
     },
     {
       "id": "CP_019",
@@ -13324,7 +13326,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Orange wool retains original geometry but adds1 missing UV layer."
     },
     {
       "id": "CP_020",
@@ -13357,7 +13360,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "37712 triangles exceeds20k budget;9 constant-color meshes lack UV; redesign unresolved."
     },
     {
       "id": "CP_021",
@@ -13390,7 +13394,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "2 flat-color meshes lack UV; future mapping limitation."
     },
     {
       "id": "CP_022",
@@ -13423,7 +13428,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "1 flat-color mesh lacks UV; dark optical reflection retained."
     },
     {
       "id": "CP_023",
@@ -13456,7 +13462,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_023__repair",
+          "catalog": "catalog/material_variants_cp013_023.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "384 exact-zero triangles removed,2 missing UV layers added; handle-joint shading still under diagnosis. Smooth orange glaze uses repaired baseline."
     },
     {
       "id": "CP_024",
@@ -34260,8 +34274,8 @@
       "name_ja": "CheeseRipeningHut",
       "purpose_en": "CHBV01_CheeseRipeningHut",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/CHBV01_CheeseRipeningHut.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34280,7 +34294,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/CHBV01_CheeseRipeningHut.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "CHBV02_DryHayStore",
@@ -34290,8 +34306,8 @@
       "name_ja": "DryHayStore",
       "purpose_en": "CHBV02_DryHayStore",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/CHBV02_DryHayStore.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34310,7 +34326,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/CHBV02_DryHayStore.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV501",
@@ -34320,8 +34338,8 @@
       "name_ja": "HCV501",
       "purpose_en": "HCV501: Removable tiled gable roof with timber trusses",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV501.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34340,7 +34358,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV501.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV502",
@@ -34350,8 +34370,8 @@
       "name_ja": "HCV502",
       "purpose_en": "HCV502: Wide barn facade with fixed-open double doors",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV502.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34370,7 +34390,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV502.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV503",
@@ -34380,8 +34402,8 @@
       "name_ja": "HCV503",
       "purpose_en": "HCV503: Two-metre ventilated barn wall bay",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV503.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34401,7 +34423,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV503.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV504",
@@ -34411,8 +34435,8 @@
       "name_ja": "HCV504",
       "purpose_en": "HCV504: Radial bottle draining tree",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV504.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34431,7 +34455,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV504.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV505",
@@ -34441,8 +34467,8 @@
       "name_ja": "HCV505",
       "purpose_en": "HCV505: Lever corking bench with bottle centering socket",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV505.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34461,7 +34487,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV505.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV506",
@@ -34471,8 +34499,8 @@
       "name_ja": "HCV506",
       "purpose_en": "HCV506: Two-wheel slatted harvest handcart",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV506.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34492,7 +34520,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV506.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV_SCENE_HORSE",
@@ -34502,8 +34532,8 @@
       "name_ja": "HCV_SCENE_HORSE",
       "purpose_en": "horse - rearrangeable static vignette, revision 2",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34522,7 +34552,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV_SCENE_CATTLE",
@@ -34532,8 +34564,8 @@
       "name_ja": "HCV_SCENE_CATTLE",
       "purpose_en": "cattle - rearrangeable static vignette, revision 2",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_CATTLE.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34552,7 +34584,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV_SCENE_CATTLE.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV_SCENE_WINERY",
@@ -34562,8 +34596,8 @@
       "name_ja": "HCV_SCENE_WINERY",
       "purpose_en": "winery - rearrangeable static vignette, revision 2",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34582,7 +34616,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV_SCENE_CELLAR",
@@ -34592,8 +34628,8 @@
       "name_ja": "HCV_SCENE_CELLAR",
       "purpose_en": "cellar - rearrangeable static vignette, revision 2",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34612,7 +34648,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV601",
@@ -34622,8 +34660,8 @@
       "name_ja": "HCV601",
       "purpose_en": "HCV601: Paired static donkey cart shaft adapters",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV601.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34642,7 +34680,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV601.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json",
+      "known_issue": "Standalone mounting shafts shown separately; assembled fit and operation untested."
     },
     {
       "id": "HCV602",
@@ -34652,8 +34693,8 @@
       "name_ja": "HCV602",
       "purpose_en": "HCV602: Matched saddle attachment straps and shaft loops",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV602.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34672,7 +34713,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV602.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json",
+      "known_issue": "Standalone mounting fittings shown separately; assembled fit and operation untested."
     },
     {
       "id": "HCV603",
@@ -34682,8 +34726,8 @@
       "name_ja": "HCV603",
       "purpose_en": "HCV603: Standing bearded goat with cloven hooves",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV603.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34703,7 +34747,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV603.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV604",
@@ -34713,8 +34759,8 @@
       "name_ja": "HCV604",
       "purpose_en": "HCV604: Standing russet hen with layered feathers",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV604.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34734,7 +34780,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV604.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV605",
@@ -34744,8 +34792,8 @@
       "name_ja": "HCV605",
       "purpose_en": "HCV605: Saddle with hanging stirrups",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV605.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34764,7 +34812,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV605.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV701",
@@ -34774,8 +34824,8 @@
       "name_ja": "HCV701",
       "purpose_en": "HCV701: Raised three-bay hen nesting box",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV701.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34794,7 +34844,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV701.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV702",
@@ -34804,8 +34856,8 @@
       "name_ja": "HCV702",
       "purpose_en": "HCV702: Covered poultry gravity feeder with pecking tray",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV702.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34824,7 +34876,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV702.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV801",
@@ -34834,8 +34888,8 @@
       "name_ja": "HCV801",
       "purpose_en": "HCV801: Oval toothed curry comb with hand strap",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV801.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34854,7 +34908,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV801.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV802",
@@ -34864,8 +34920,8 @@
       "name_ja": "HCV802",
       "purpose_en": "HCV802: Wood handled curved hoof pick",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV802.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34884,7 +34940,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV802.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV803",
@@ -34894,8 +34952,8 @@
       "name_ja": "HCV803",
       "purpose_en": "HCV803: Stiff body grooming brush",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV803.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34914,7 +34972,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV803.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "HCV804",
@@ -34924,8 +34984,8 @@
       "name_ja": "HCV804",
       "purpose_en": "HCV804: Right angle cargo rope edge guard",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/HCV804.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34944,7 +35004,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/HCV804.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "MRT101_PlumbLevel",
@@ -34954,8 +35016,8 @@
       "name_ja": "PlumbLevel",
       "purpose_en": "MRT101_PlumbLevel",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/chbv-mrt24/thumbnails/MRT101_PlumbLevel.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34974,7 +35036,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/chbv-mrt24/renders/MRT101_PlumbLevel.png",
+      "image_manifest": "previews/chbv-mrt24/manifest.json"
     },
     {
       "id": "MRT102_SurveyCross",
@@ -40123,6 +40187,72 @@
       },
       "geometry_revision": "CP_004__repair",
       "uv_revision": "CP_004__repair retained original positive-surface UV"
+    },
+    {
+      "id": "CP_019__orange_wool",
+      "kind": "variant",
+      "base_id": "CP_019",
+      "name_en": "Cabin berth with storage",
+      "name_ja": "収納付きの船室寝台",
+      "purpose_en": "Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.",
+      "record_kind": "model",
+      "image": "previews/quality-cp013-023-v1/CP_019__orange_wool_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_019__orange_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_cp013_023.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-cp013-023-v1/CP_019__orange_wool_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original CP_019 geometry",
+      "uv_revision": "1 missing UV layer added; not original-UV-invariant"
+    },
+    {
+      "id": "CP_023__orange_glaze_smooth",
+      "kind": "variant",
+      "base_id": "CP_023",
+      "name_en": "Ceramic coffee jug",
+      "name_ja": "コーヒー入りの陶製ジャグ",
+      "purpose_en": "Orange texture mapped to CP019 wool or CP023 exterior glaze only. CP019 original geometry retained; CP023 uses zero-area-cleaned baseline. Missing UV is explicitly added where recorded; all other material properties retained.",
+      "record_kind": "model",
+      "image": "previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__orange_glaze_smooth_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_cp013_023.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "CP_023__repair",
+      "uv_revision": "CP_023 repair adds2 missing UV layers; variant retains repaired baseline"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

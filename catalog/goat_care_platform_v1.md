@@ -41,3 +41,15 @@ HCV1001
 ![goat-care-platform-v1 — goat-fit](../previews/catalog-20261024/goat-care-platform-v1-goat-fit.jpg)
 
 ![goat-care-platform-v1 — platform](../previews/catalog-20261024/goat-care-platform-v1-platform.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV603 — HCV603
+
+HCV603
+
+[![HCV603](../previews/chbv-mrt24/thumbnails/HCV603.png)](../previews/chbv-mrt24/renders/HCV603.png)
+
+[Full image](../previews/chbv-mrt24/renders/HCV603.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV603-CC0.zip)

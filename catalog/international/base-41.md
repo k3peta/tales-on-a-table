@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 HCV506
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV506](../../previews/chbv-mrt24/thumbnails/HCV506.png)](../../previews/chbv-mrt24/renders/HCV506.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV506.png)
 
 Use / purpose: HCV506: Two-wheel slatted harvest handcart
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md) · [Catalogu
 
 HCV_SCENE_HORSE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV_SCENE_HORSE](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png)
 
 Use / purpose: horse - rearrangeable static vignette, revision 2
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV_SCENE_CATTLE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV_SCENE_CATTLE](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CATTLE.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_CATTLE.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_CATTLE.png)
 
 Use / purpose: cattle - rearrangeable static vignette, revision 2
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV_SCENE_WINERY
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV_SCENE_WINERY](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png)
 
 Use / purpose: winery - rearrangeable static vignette, revision 2
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV_SCENE_CELLAR
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV_SCENE_CELLAR](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png)
 
 Use / purpose: cellar - rearrangeable static vignette, revision 2
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV601
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV601](../../previews/chbv-mrt24/thumbnails/HCV601.png)](../../previews/chbv-mrt24/renders/HCV601.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV601.png)
 
 Use / purpose: HCV601: Paired static donkey cart shaft adapters
 
@@ -136,13 +148,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/livestock_tack_v1.md)
 
+**Known issue:** Standalone mounting shafts shown separately; assembled fit and operation untested. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## HCV602
 
 **HCV602**
 
 HCV602
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV602](../../previews/chbv-mrt24/thumbnails/HCV602.png)](../../previews/chbv-mrt24/renders/HCV602.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV602.png)
 
 Use / purpose: HCV602: Matched saddle attachment straps and shaft loops
 
@@ -158,13 +174,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/livestock_tack_v1.md)
 
+**Known issue:** Standalone mounting fittings shown separately; assembled fit and operation untested. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## HCV603
 
 **HCV603**
 
 HCV603
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV603](../../previews/chbv-mrt24/thumbnails/HCV603.png)](../../previews/chbv-mrt24/renders/HCV603.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV603.png)
 
 Use / purpose: HCV603: Standing bearded goat with cloven hooves
 
@@ -186,7 +206,9 @@ Source details: [Catalogue 1](../../catalog/goat_care_platform_v1.md) · [Catalo
 
 HCV604
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV604](../../previews/chbv-mrt24/thumbnails/HCV604.png)](../../previews/chbv-mrt24/renders/HCV604.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV604.png)
 
 Use / purpose: HCV604: Standing russet hen with layered feathers
 
@@ -208,7 +230,9 @@ Source details: [Catalogue 1](../../catalog/livestock_tack_v1.md) · [Catalogue 
 
 HCV605
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV605](../../previews/chbv-mrt24/thumbnails/HCV605.png)](../../previews/chbv-mrt24/renders/HCV605.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV605.png)
 
 Use / purpose: HCV605: Saddle with hanging stirrups
 
@@ -230,7 +254,9 @@ Source details: [Catalogue 1](../../catalog/livestock_tack_v1.md)
 
 HCV701
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV701](../../previews/chbv-mrt24/thumbnails/HCV701.png)](../../previews/chbv-mrt24/renders/HCV701.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV701.png)
 
 Use / purpose: HCV701: Raised three-bay hen nesting box
 
@@ -252,7 +278,9 @@ Source details: [Catalogue 1](../../catalog/poultry_support_v1.md)
 
 HCV702
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV702](../../previews/chbv-mrt24/thumbnails/HCV702.png)](../../previews/chbv-mrt24/renders/HCV702.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV702.png)
 
 Use / purpose: HCV702: Covered poultry gravity feeder with pecking tray
 
@@ -274,7 +302,9 @@ Source details: [Catalogue 1](../../catalog/poultry_support_v1.md)
 
 HCV801
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV801](../../previews/chbv-mrt24/thumbnails/HCV801.png)](../../previews/chbv-mrt24/renders/HCV801.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV801.png)
 
 Use / purpose: HCV801: Oval toothed curry comb with hand strap
 
@@ -296,7 +326,9 @@ Source details: [Catalogue 1](../../catalog/stable_care_v1.md)
 
 HCV802
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV802](../../previews/chbv-mrt24/thumbnails/HCV802.png)](../../previews/chbv-mrt24/renders/HCV802.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV802.png)
 
 Use / purpose: HCV802: Wood handled curved hoof pick
 
@@ -318,7 +350,9 @@ Source details: [Catalogue 1](../../catalog/stable_care_v1.md)
 
 HCV803
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV803](../../previews/chbv-mrt24/thumbnails/HCV803.png)](../../previews/chbv-mrt24/renders/HCV803.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV803.png)
 
 Use / purpose: HCV803: Stiff body grooming brush
 
@@ -340,7 +374,9 @@ Source details: [Catalogue 1](../../catalog/stable_care_v1.md)
 
 HCV804
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV804](../../previews/chbv-mrt24/thumbnails/HCV804.png)](../../previews/chbv-mrt24/renders/HCV804.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/HCV804.png)
 
 Use / purpose: HCV804: Right angle cargo rope edge guard
 
@@ -362,7 +398,9 @@ Source details: [Catalogue 1](../../catalog/stable_care_v1.md)
 
 PlumbLevel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT101_PlumbLevel](../../previews/chbv-mrt24/thumbnails/MRT101_PlumbLevel.png)](../../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png)
+
+[Full-size image](../../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png)
 
 Use / purpose: MRT101_PlumbLevel
 
