@@ -5624,7 +5624,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR003_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5639,6 +5638,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5649,7 +5652,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR004_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5664,6 +5666,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5674,7 +5680,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR005_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5689,6 +5694,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5699,7 +5708,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR006_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5714,6 +5722,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5724,7 +5736,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR007_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5739,6 +5750,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5749,7 +5764,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR008_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5764,6 +5778,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5774,7 +5792,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR009_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5789,6 +5806,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5799,7 +5820,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR010_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5814,6 +5834,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5824,7 +5848,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR011_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5839,6 +5862,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5849,7 +5876,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR012_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5864,6 +5890,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5874,7 +5904,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR013_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5889,6 +5918,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5899,7 +5932,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR014_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5914,6 +5946,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5924,7 +5960,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR015_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5939,6 +5974,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5949,7 +5988,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR016_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5964,6 +6002,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5974,7 +6016,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR017_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -5989,6 +6030,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -5999,7 +6044,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR018_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6014,6 +6058,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6024,7 +6072,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR019_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6039,6 +6086,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6049,7 +6100,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR020_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6064,6 +6114,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6074,7 +6128,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR021_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6089,6 +6142,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6099,7 +6156,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR022_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6114,6 +6170,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6124,7 +6184,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR023_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6139,6 +6198,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6149,7 +6212,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR024_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6164,6 +6226,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6174,7 +6240,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR025_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6189,6 +6254,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -6199,7 +6268,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR026_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -6214,6 +6282,10 @@
     },
     "existing_catalogs": [
       "catalog/terrain_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

@@ -470,7 +470,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2](../../catalog/containers_02.md) · [Catalogue 3](../../catalog/containers_02.zh-CN.md)
 
-**Audit status (no adopted repair):** Paper/box-wall overhang versus intersection diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before local revision:** Paper/box-wall overhang versus intersection diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
 
 ## AT_086
 
@@ -546,7 +548,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
-**Audit status (no adopted repair):** Dark scroll bases/open ties: material, shading and construction diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before local revision:** Dark scroll bases/open ties: material, shading and construction diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
 
 ## AT_089
 

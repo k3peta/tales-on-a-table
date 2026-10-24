@@ -215,3 +215,5 @@ Quality26:2 comparison/thumbnail images; separate variants127. Base752 image map
 IN015–024 / OC001–002,010–017,020–021 / PA001–002:24 individual full renders +24 thumbnails added. International base ID mappings785/1008, missing223; variant127/127. Not a claim that every prior mapping is an isolated individual render.
 
 PA003–024 / TR001–002:24 individual full renders +24 thumbnails added. International base ID mappings809/1008, missing199; variant127/127. Not a claim that every prior mapping is an isolated individual render.
+
+TR003–026:24 individual full renders +24 thumbnails added. International base ID mappings833/1008, missing175; variant127/127. Not a claim that every prior mapping is an isolated individual render.

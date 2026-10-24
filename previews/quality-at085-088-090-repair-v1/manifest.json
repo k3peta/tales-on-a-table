@@ -1,0 +1,47 @@
+{
+  "image_rights": "Catalogue images outside modelCC0",
+  "items": [
+    {
+      "id": "AT_085__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_085_overview_before-after.png",
+      "source_sha256": "831a95d35d33216f18bce3f797710d9da7e6a8bba45d7de73cdf2d666f209f80",
+      "sha256": "9c63f7547aee25bd8e162c2122485dcb40f05c7a0e8885c2f2794881d1c402c6",
+      "zip_sha256": "4a96bb8a0a86e968a0ea6161a39d750d9b60a0b28e5513d167332c364ab5fd42"
+    },
+    {
+      "id": "AT_085__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_085_close_before-after.png",
+      "source_sha256": "d46d7d157af96d7bef15ea13a195d8242ca09cfdbbab1f478568ef645992e52a",
+      "sha256": "d2cebf5be1a33a164d8da0d943d4ac971ba9d65503373e76701c94221c3fb076",
+      "zip_sha256": "4a96bb8a0a86e968a0ea6161a39d750d9b60a0b28e5513d167332c364ab5fd42"
+    },
+    {
+      "id": "AT_088__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_088_overview_before-after.png",
+      "source_sha256": "2b67906bd7f0fc872d27b92332fe4c562248320a462bc3a6f31ecd0ed6ddd29f",
+      "sha256": "073fdef9f6d45b9d6a2c9c67820243f7d3dc7a67f452e5ce0a188f58bc888b53",
+      "zip_sha256": "5e5ef2be232621631571f8b8eaadab4167fd6af0d7a02446d0066a8abcf8fab9"
+    },
+    {
+      "id": "AT_088__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_088_close_before-after.png",
+      "source_sha256": "39934d5376c5c502740fa28f77ccf30b1e5626320e618202b5e8938f24bf2b94",
+      "sha256": "9bb5cc394e3913683e750e65d8984795b75fab5c09860165b8859e3a39177c98",
+      "zip_sha256": "5e5ef2be232621631571f8b8eaadab4167fd6af0d7a02446d0066a8abcf8fab9"
+    },
+    {
+      "id": "AT_090__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_090_overview_before-after.png",
+      "source_sha256": "3ebce8f513638241eb8a1f922665b78d14c26fa0a766da52c899ff93156bcb29",
+      "sha256": "b162863f23e6a6111f1e17af2f60e4f5304dd837bb4d8b633cb39dc0dcdd1973",
+      "zip_sha256": "21c95d9b910cff9ab5cdeabedabb2861392aed2951200bed796773694f118afd"
+    },
+    {
+      "id": "AT_090__repair",
+      "file": "previews/quality-at085-088-090-repair-v1/AT_090_close_before-after.png",
+      "source_sha256": "00d0e17e12841f27008d4559a85ed97674236b14762eee7aa6e2d65b8d93199b",
+      "sha256": "cab448fd183a3a231eac7c441ffe52931ca75a14fb7e7d6c2916e8f3c8276268",
+      "zip_sha256": "21c95d9b910cff9ab5cdeabedabb2861392aed2951200bed796773694f118afd"
+    }
+  ]
+}

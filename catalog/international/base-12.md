@@ -26,7 +26,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
-**Audit status (no adopted repair):** Separated paper layers/rigid cord bridges: intended assembly unconfirmed. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before local revision:** Separated paper layers/rigid cord bridges: intended assembly unconfirmed. [Audit scope](../quality_audit_at082_092.md).
+
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
 
 ## AT_092
 

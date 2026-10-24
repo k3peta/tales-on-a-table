@@ -98,3 +98,7 @@ Image batch7 accepted24 of24; no held images in this batch. Remaining223 unpictu
 PA003–024 / TR001–002 now include individual full-size images and thumbnails. Base ID image mappings: 809/1008; remaining199. Material variants:127/127. [Coverage](COVERAGE.md).
 
 Image batch8 accepted24 of24; no held images in this batch. Remaining199 unpictured base records are tracked separately.
+
+TR003–026 now include individual full-size images and thumbnails. Base ID image mappings: 833/1008; remaining175. Material variants:127/127. [Coverage](COVERAGE.md).
+
+Image batch9 accepted24 of24; no held images in this batch. Remaining175 unpictured base records are tracked separately.

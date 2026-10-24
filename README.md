@@ -7,6 +7,8 @@
 
 ## 公開履歴
 
+- 2026-10-24 — [Three local revisions](catalog/local_repairs_at085_088_090.md), no new count. [24 HQ images](catalog/international/README.md): base image mappings833/1008, missing175. Base1008/variant127/assessed266 unchanged;46 budget issues remain.
+
 - 2026-10-24 — [Five binding revisions](catalog/binding_repairs_at082_089.md),no new count. [24 images](catalog/international/README.md):base image mappings809/1008,missing199. Base1008/variant127/assessed266 unchanged;46 budget issues remain.
 
 - 2026-10-24 — [24 real-model images](catalog/international/README.md):base image mappings785/1008,missing223. [Audit27](catalog/quality_audit_at082_092.md):10 assessed,0 adopted revisions/variants; cumulative266,remaining742. Base1008/variants127 unchanged.

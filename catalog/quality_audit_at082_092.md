@@ -24,3 +24,5 @@ Cumulative266 assessed distribution records,742 remaining. Prior45 budget/redesi
 ## Subsequent version update
 
 AT082/083/086/087/089 now have [binding revisions](binding_repairs_at082_089.md). Original findings above are historical, not a claim that all remaining diagnoses are solved.
+
+AT085/088/090 have [local revisions](local_repairs_at085_088_090.md), final v3 only; historical failures retained.

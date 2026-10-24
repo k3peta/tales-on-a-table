@@ -111,3 +111,199 @@ grass long meadow
 [Full image](../previews/atelier-terrain24/renders/TR002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR002_CC0.zip)
 
 Image scope: TR001/TR002 show HQ only; LITE not shown.
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### TR003 — grass wildflowers
+
+grass wildflowers
+
+[![TR003](../previews/terrain-tr003-026/thumbnails/TR003.png)](../previews/terrain-tr003-026/renders/TR003.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR003_CC0.zip)
+
+### TR004 — grass dry tussocks
+
+grass dry tussocks
+
+[![TR004](../previews/terrain-tr003-026/thumbnails/TR004.png)](../previews/terrain-tr003-026/renders/TR004.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR004_CC0.zip)
+
+### TR005 — grass moss patches
+
+grass moss patches
+
+[![TR005](../previews/terrain-tr003-026/thumbnails/TR005.png)](../previews/terrain-tr003-026/renders/TR005.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR005_CC0.zip)
+
+### TR006 — grass forest transition
+
+grass forest transition
+
+[![TR006](../previews/terrain-tr003-026/thumbnails/TR006.png)](../previews/terrain-tr003-026/renders/TR006.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR006_CC0.zip)
+
+### TR007 — grass rock transition
+
+grass rock transition
+
+[![TR007](../previews/terrain-tr003-026/thumbnails/TR007.png)](../previews/terrain-tr003-026/renders/TR007.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR007_CC0.zip)
+
+### TR008 — grass sand transition
+
+grass sand transition
+
+[![TR008](../previews/terrain-tr003-026/thumbnails/TR008.png)](../previews/terrain-tr003-026/renders/TR008.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR008_CC0.zip)
+
+### TR009 — forest leaf litter
+
+forest leaf litter
+
+[![TR009](../previews/terrain-tr003-026/thumbnails/TR009.png)](../previews/terrain-tr003-026/renders/TR009.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR009.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR009_CC0.zip)
+
+### TR010 — forest mossy roots
+
+forest mossy roots
+
+[![TR010](../previews/terrain-tr003-026/thumbnails/TR010.png)](../previews/terrain-tr003-026/renders/TR010.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR010_CC0.zip)
+
+### TR011 — forest fern floor
+
+forest fern floor
+
+[![TR011](../previews/terrain-tr003-026/thumbnails/TR011.png)](../previews/terrain-tr003-026/renders/TR011.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR011_CC0.zip)
+
+### TR012 — forest fallen branch
+
+forest fallen branch
+
+[![TR012](../previews/terrain-tr003-026/thumbnails/TR012.png)](../previews/terrain-tr003-026/renders/TR012.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR012_CC0.zip)
+
+### TR013 — forest stump clearing
+
+forest stump clearing
+
+[![TR013](../previews/terrain-tr003-026/thumbnails/TR013.png)](../previews/terrain-tr003-026/renders/TR013.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR013_CC0.zip)
+
+### TR014 — forest stone moss
+
+forest stone moss
+
+[![TR014](../previews/terrain-tr003-026/thumbnails/TR014.png)](../previews/terrain-tr003-026/renders/TR014.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR014_CC0.zip)
+
+### TR015 — forest sparse grass
+
+forest sparse grass
+
+[![TR015](../previews/terrain-tr003-026/thumbnails/TR015.png)](../previews/terrain-tr003-026/renders/TR015.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR015_CC0.zip)
+
+### TR016 — forest exposed roots
+
+forest exposed roots
+
+[![TR016](../previews/terrain-tr003-026/thumbnails/TR016.png)](../previews/terrain-tr003-026/renders/TR016.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR016_CC0.zip)
+
+### TR017 — path straight NS
+
+path straight NS
+
+[![TR017](../previews/terrain-tr003-026/thumbnails/TR017.png)](../previews/terrain-tr003-026/renders/TR017.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR017_CC0.zip)
+
+### TR018 — path bend NE
+
+path bend NE
+
+[![TR018](../previews/terrain-tr003-026/thumbnails/TR018.png)](../previews/terrain-tr003-026/renders/TR018.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR018_CC0.zip)
+
+### TR019 — path junction NES
+
+path junction NES
+
+[![TR019](../previews/terrain-tr003-026/thumbnails/TR019.png)](../previews/terrain-tr003-026/renders/TR019.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR019_CC0.zip)
+
+### TR020 — path cross NESW
+
+path cross NESW
+
+[![TR020](../previews/terrain-tr003-026/thumbnails/TR020.png)](../previews/terrain-tr003-026/renders/TR020.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR020_CC0.zip)
+
+### TR021 — path end N
+
+path end N
+
+[![TR021](../previews/terrain-tr003-026/thumbnails/TR021.png)](../previews/terrain-tr003-026/renders/TR021.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR021_CC0.zip)
+
+### TR022 — path straight NS rutted
+
+path straight NS rutted
+
+[![TR022](../previews/terrain-tr003-026/thumbnails/TR022.png)](../previews/terrain-tr003-026/renders/TR022.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR022_CC0.zip)
+
+### TR023 — path bend NE stony
+
+path bend NE stony
+
+[![TR023](../previews/terrain-tr003-026/thumbnails/TR023.png)](../previews/terrain-tr003-026/renders/TR023.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR023.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR023_CC0.zip)
+
+### TR024 — path junction NES clearing
+
+path junction NES clearing
+
+[![TR024](../previews/terrain-tr003-026/thumbnails/TR024.png)](../previews/terrain-tr003-026/renders/TR024.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR024_CC0.zip)
+
+### TR025 — rock flat scree
+
+rock flat scree
+
+[![TR025](../previews/terrain-tr003-026/thumbnails/TR025.png)](../previews/terrain-tr003-026/renders/TR025.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR025.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR025_CC0.zip)
+
+### TR026 — rock low outcrop
+
+rock low outcrop
+
+[![TR026](../previews/terrain-tr003-026/thumbnails/TR026.png)](../previews/terrain-tr003-026/renders/TR026.png)
+
+[Full image](../previews/terrain-tr003-026/renders/TR026.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR026_CC0.zip)

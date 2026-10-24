@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 809,
-      "preview_not_mapped": 199,
+      "id_mapped_preview": 833,
+      "preview_not_mapped": 175,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -11078,7 +11078,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Paper/box-wall overhang versus intersection diagnosis pending."
+      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_085__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_085__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_086",
@@ -11191,7 +11198,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Dark scroll bases/open ties: material, shading and construction diagnosis pending."
+      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_088__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_088__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_089",
@@ -11264,7 +11278,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Separated paper layers/rigid cord bridges: intended assembly unconfirmed."
+      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_090__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_090__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_092",
@@ -26714,8 +26735,8 @@
       "name_ja": "grass wildflowers",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26731,7 +26752,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR003.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR004",
@@ -26741,8 +26764,8 @@
       "name_ja": "grass dry tussocks",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26758,7 +26781,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR004.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR005",
@@ -26768,8 +26793,8 @@
       "name_ja": "grass moss patches",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26785,7 +26810,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR005.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR006",
@@ -26795,8 +26822,8 @@
       "name_ja": "grass forest transition",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26812,7 +26839,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR006.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR007",
@@ -26822,8 +26851,8 @@
       "name_ja": "grass rock transition",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26839,7 +26868,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR007.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR008",
@@ -26849,8 +26880,8 @@
       "name_ja": "grass sand transition",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26866,7 +26897,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR008.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR009",
@@ -26876,8 +26909,8 @@
       "name_ja": "forest leaf litter",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26893,7 +26926,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR009.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR010",
@@ -26903,8 +26938,8 @@
       "name_ja": "forest mossy roots",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26920,7 +26955,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR010.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR011",
@@ -26930,8 +26967,8 @@
       "name_ja": "forest fern floor",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26947,7 +26984,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR011.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR012",
@@ -26957,8 +26996,8 @@
       "name_ja": "forest fallen branch",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26974,7 +27013,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR012.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR013",
@@ -26984,8 +27025,8 @@
       "name_ja": "forest stump clearing",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27001,7 +27042,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR013.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR014",
@@ -27011,8 +27054,8 @@
       "name_ja": "forest stone moss",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27028,7 +27071,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR014.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR015",
@@ -27038,8 +27083,8 @@
       "name_ja": "forest sparse grass",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27055,7 +27100,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR015.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR016",
@@ -27065,8 +27112,8 @@
       "name_ja": "forest exposed roots",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27082,7 +27129,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR016.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR017",
@@ -27092,8 +27141,8 @@
       "name_ja": "path straight NS",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27109,7 +27158,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR017.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR018",
@@ -27119,8 +27170,8 @@
       "name_ja": "path bend NE",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27136,7 +27187,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR018.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR019",
@@ -27146,8 +27199,8 @@
       "name_ja": "path junction NES",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27163,7 +27216,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR019.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR020",
@@ -27173,8 +27228,8 @@
       "name_ja": "path cross NESW",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27190,7 +27245,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR020.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR021",
@@ -27200,8 +27257,8 @@
       "name_ja": "path end N",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27217,7 +27274,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR021.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR022",
@@ -27227,8 +27286,8 @@
       "name_ja": "path straight NS rutted",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27244,7 +27303,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR022.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR023",
@@ -27254,8 +27315,8 @@
       "name_ja": "path bend NE stony",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR023.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27271,7 +27332,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR023.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR024",
@@ -27281,8 +27344,8 @@
       "name_ja": "path junction NES clearing",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR024.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27298,7 +27361,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR024.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR025",
@@ -27308,8 +27373,8 @@
       "name_ja": "rock flat scree",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR025.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27325,7 +27390,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR025.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR026",
@@ -27335,8 +27402,8 @@
       "name_ja": "rock low outcrop",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr003-026/thumbnails/TR026.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -27352,7 +27419,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr003-026/renders/TR026.png",
+      "image_manifest": "previews/terrain-tr003-026/manifest.json"
     },
     {
       "id": "TR027",

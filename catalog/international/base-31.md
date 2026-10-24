@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 forest fallen branch
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR012](../../previews/terrain-tr003-026/thumbnails/TR012.png)](../../previews/terrain-tr003-026/renders/TR012.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -26,13 +28,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR013
 
 **forest stump clearing**
 
 forest stump clearing
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR013](../../previews/terrain-tr003-026/thumbnails/TR013.png)](../../previews/terrain-tr003-026/renders/TR013.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -48,13 +54,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR014
 
 **forest stone moss**
 
 forest stone moss
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR014](../../previews/terrain-tr003-026/thumbnails/TR014.png)](../../previews/terrain-tr003-026/renders/TR014.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -70,13 +80,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR015
 
 **forest sparse grass**
 
 forest sparse grass
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR015](../../previews/terrain-tr003-026/thumbnails/TR015.png)](../../previews/terrain-tr003-026/renders/TR015.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -92,13 +106,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR016
 
 **forest exposed roots**
 
 forest exposed roots
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR016](../../previews/terrain-tr003-026/thumbnails/TR016.png)](../../previews/terrain-tr003-026/renders/TR016.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -114,13 +132,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR017
 
 **path straight NS**
 
 path straight NS
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR017](../../previews/terrain-tr003-026/thumbnails/TR017.png)](../../previews/terrain-tr003-026/renders/TR017.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -136,13 +158,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR018
 
 **path bend NE**
 
 path bend NE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR018](../../previews/terrain-tr003-026/thumbnails/TR018.png)](../../previews/terrain-tr003-026/renders/TR018.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR018.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -158,13 +184,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR019
 
 **path junction NES**
 
 path junction NES
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR019](../../previews/terrain-tr003-026/thumbnails/TR019.png)](../../previews/terrain-tr003-026/renders/TR019.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR019.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -180,13 +210,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR020
 
 **path cross NESW**
 
 path cross NESW
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR020](../../previews/terrain-tr003-026/thumbnails/TR020.png)](../../previews/terrain-tr003-026/renders/TR020.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -202,13 +236,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR021
 
 **path end N**
 
 path end N
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR021](../../previews/terrain-tr003-026/thumbnails/TR021.png)](../../previews/terrain-tr003-026/renders/TR021.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR021.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -224,13 +262,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR022
 
 **path straight NS rutted**
 
 path straight NS rutted
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR022](../../previews/terrain-tr003-026/thumbnails/TR022.png)](../../previews/terrain-tr003-026/renders/TR022.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR022.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -246,13 +288,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR023
 
 **path bend NE stony**
 
 path bend NE stony
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR023](../../previews/terrain-tr003-026/thumbnails/TR023.png)](../../previews/terrain-tr003-026/renders/TR023.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR023.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -268,13 +314,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR024
 
 **path junction NES clearing**
 
 path junction NES clearing
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR024](../../previews/terrain-tr003-026/thumbnails/TR024.png)](../../previews/terrain-tr003-026/renders/TR024.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR024.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -290,13 +340,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR025
 
 **rock flat scree**
 
 rock flat scree
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR025](../../previews/terrain-tr003-026/thumbnails/TR025.png)](../../previews/terrain-tr003-026/renders/TR025.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR025.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -312,13 +366,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
 ## TR026
 
 **rock low outcrop**
 
 rock low outcrop
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR026](../../previews/terrain-tr003-026/thumbnails/TR026.png)](../../previews/terrain-tr003-026/renders/TR026.png)
+
+[Full-size image](../../previews/terrain-tr003-026/renders/TR026.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -333,6 +391,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
 ## TR027
 
