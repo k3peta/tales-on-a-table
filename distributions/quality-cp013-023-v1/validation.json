@@ -1,0 +1,106 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "19dcc5ced23f017e391f17c0d8a839a24416c598",
+  "guard_run_id": "f3f226ae-7290-4dc0-adac-4b482e823f94",
+  "started_utc": "2026-10-24T14:29:34.132907+00:00",
+  "finished_utc": "2026-10-24T14:29:35.746518+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "CP_019__orange_wool",
+      "zip": "CP_019__orange_wool_CC0.zip",
+      "zip_sha256": "5139a38297e2bc3df93ac38d2bbc50f0ebb6026d5275bad6dbe8896392867036",
+      "members": {
+        "CP_019__orange_wool.glb": "1aaf2d40c65fd40a7a757ac92546d34b13f2df6df0c64e4b37d88027dfc0c1e9",
+        "CP_019__orange_wool.blend": "f06e8e10681728a1f5d48b55f81663613a3e459f4be7d85687269e19acaa146f"
+      }
+    },
+    {
+      "id": "CP_023__repair",
+      "zip": "CP_023__repair_CC0.zip",
+      "zip_sha256": "87c5a4e4802f149a439afbeee95dc9bfd65fd05906605cbcbfc518056b972e02",
+      "members": {
+        "CP_023__repair.glb": "a62d5ed531d17582ee691ae7ed1cfb1d8182f0a68d062bf86567b09bf2a41d2c",
+        "CP_023__repair.blend": "ee12e3409c92d06e3aa97be9372273477bdf5f42bb54a5148ecee59957a81750"
+      }
+    },
+    {
+      "id": "CP_023__orange_glaze_smooth",
+      "zip": "CP_023__orange_glaze_smooth_CC0.zip",
+      "zip_sha256": "724b4da97eead4f2b05b85498f7dfd611fed4011097400860a1a1786f59a315f",
+      "members": {
+        "CP_023__orange_glaze_smooth.blend": "02aa51997c3a62fa9dc269259ef1b632c1fe5b06e965e7278eb2c6d6b9bd01e6",
+        "CP_023__orange_glaze_smooth.glb": "d1414123cd173f62340c8e2a312d16397cfd2b94a5ed7b8fdb86ffd548df7b51"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "CP_019__orange_wool",
+      "formats": {
+        "blend": {
+          "triangles": 14072,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 14072,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 4.215713644839525e-08,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_023__repair",
+      "formats": {
+        "blend": {
+          "triangles": 10864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_023__orange_glaze_smooth",
+      "formats": {
+        "blend": {
+          "triangles": 10864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10864,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

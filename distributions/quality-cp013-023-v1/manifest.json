@@ -11,7 +11,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_019__orange_wool_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "CP_023__repair",
@@ -24,7 +24,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "CP_023__orange_glaze_smooth",
@@ -37,7 +37,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__orange_glaze_smooth_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     }
   ],
   "new_base_models": 0,

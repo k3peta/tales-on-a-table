@@ -13467,7 +13467,8 @@
         {
           "id": "CP_023__repair",
           "catalog": "catalog/material_variants_cp013_023.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "384 exact-zero triangles removed,2 missing UV layers added; handle-joint shading still under diagnosis. Smooth orange glaze uses repaired baseline."
