@@ -5081,7 +5081,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_054_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "d3a4b72354d7a0ecd3057de1af4582ee94373206839643c9a7166c176ddb4c2c",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_054__repair",
+          "base_id": "OL_054",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "color_target": "wood_quality_revision",
+          "finish": "repair",
+          "description": "鏡付き棚の強い周期木目を抑えた材質改訂。金具と鏡面を保持。",
+          "zip": "OL_054__repair_CC0.zip",
+          "bytes": 3609156,
+          "sha256": "db24c95857e58354ddb539477116f86bba9094d1fb22025c2276a802bd51dc06",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_054__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_055",

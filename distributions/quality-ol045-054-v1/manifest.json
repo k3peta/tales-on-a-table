@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": "OL_045__glass_orange",
+      "base_id": "OL_045",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_unchanged",
+      "color_target": "exterior_mosaic_glass_not_liquid",
+      "finish": "glass_orange",
+      "description": "\u4e09\u811a\u30e9\u30f3\u30d7\u306e\u5916\u88c5\u30e2\u30b6\u30a4\u30af\u30ac\u30e9\u30b9\u3092\u30aa\u30ec\u30f3\u30b8\u7cfb\u3078\u3002\u6db2\u4f53\u8272\u3067\u306f\u306a\u3044\u3002\u539f\u672c\u900f\u904e/\u767a\u5149/\u76ee\u5730/\u811a\u3092\u4fdd\u6301\u3002",
+      "zip": "OL_045__glass_orange_CC0.zip",
+      "bytes": 8308609,
+      "sha256": "e5e79f2610325695b575c2efb11bcaa8dd09cfc812b30113cc1d6aaa4c10fda3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_045__glass_orange_CC0.zip"
+    },
+    {
+      "id": "OL_045__glass_green",
+      "base_id": "OL_045",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_unchanged",
+      "color_target": "exterior_mosaic_glass_not_liquid",
+      "finish": "glass_green",
+      "description": "\u4e09\u811a\u30e9\u30f3\u30d7\u306e\u5916\u88c5\u30e2\u30b6\u30a4\u30af\u30ac\u30e9\u30b9\u3092\u30b0\u30ea\u30fc\u30f3\u7cfb\u3078\u3002\u6db2\u4f53\u8272\u3067\u306f\u306a\u3044\u3002\u539f\u672c\u900f\u904e/\u767a\u5149/\u76ee\u5730/\u811a\u3092\u4fdd\u6301\u3002",
+      "zip": "OL_045__glass_green_CC0.zip",
+      "bytes": 8309139,
+      "sha256": "fbda1ffbd37e4357808af60f03eabf806412eaebb4d36649fb8feaea720a6132",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_045__glass_green_CC0.zip"
+    },
+    {
+      "id": "OL_053__color",
+      "base_id": "OL_053",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "color_target": "frame_metal",
+      "finish": "color",
+      "description": "\u93e1\u306e\u91d1\u5c5e\u67a0\u3092\u91d1\u8272\u304b\u3089\u9280\u8272\u3078\u3002\u93e1\u9762\u3068\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_053__color_CC0.zip",
+      "bytes": 3379994,
+      "sha256": "605f332689dd811ec297e80ab7b92619a9408f196fc85ea991d9048b1e5e80fc",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_053__color_CC0.zip"
+    },
+    {
+      "id": "OL_054__repair",
+      "base_id": "OL_054",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "color_target": "wood_quality_revision",
+      "finish": "repair",
+      "description": "\u93e1\u4ed8\u304d\u68da\u306e\u5f37\u3044\u5468\u671f\u6728\u76ee\u3092\u6291\u3048\u305f\u6750\u8cea\u6539\u8a02\u3002\u91d1\u5177\u3068\u93e1\u9762\u3092\u4fdd\u6301\u3002",
+      "zip": "OL_054__repair_CC0.zip",
+      "bytes": 3609156,
+      "sha256": "db24c95857e58354ddb539477116f86bba9094d1fb22025c2276a802bd51dc06",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_054__repair_CC0.zip"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 3,
+  "revisions": 1
+}
