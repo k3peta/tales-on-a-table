@@ -185,4 +185,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality50 variants](variant-06.md):164 separately counted material variants; base1008 unchanged. No new revisions; awning variants public ZIP/member/image identity verified.
 
-[Quality51 variants](variant-06.md):166 separately counted material variants; base1008 unchanged. No new revisions; vegetable variants public match pending.
+[Quality51 variants](variant-06.md):166 separately counted material variants; base1008 unchanged. No new revisions; vegetable variants public ZIP/member/image identity verified.
