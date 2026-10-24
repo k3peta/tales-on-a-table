@@ -194,3 +194,5 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 [Quality54 variants](variant-06.md):170 separately counted material variants; base1008 unchanged. FP010/011/012/015 revisions and repaired-jug variant public ZIP/member/image identity verified.
 
 [Quality55 variants](variant-06.md):171 separately counted material variants; base1008 unchanged. FP021/025 revisions and repaired-uniform variant public ZIP/member/image identity verified.
+
+[Quality56 UV revision](../material_variants_pm003_wm001.md):171 separately counted material variants; base1008 unchanged. PM005 UV-only revision public match pending.

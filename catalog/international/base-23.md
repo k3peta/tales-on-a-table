@@ -540,6 +540,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Quality56:** 3564tri barred wall uses connector pillars at2m pitch;security/collision untested. [Details](../material_variants_pm003_wm001.md).
+
 ## PM004
 
 **Cell Door 2m**
@@ -564,6 +566,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Quality56:** 5332tri cell door;hinge setup retained,opening sweep not retested. [Details](../material_variants_pm003_wm001.md).
+
 ## PM005
 
 **Arched Window Wall 2m**
@@ -587,6 +591,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+**Quality56:** 6388tri unchanged geometry;Mortar_Core missingUV0 added,existingUV retained;not original-UV-invariant. [Details](../material_variants_pm003_wm001.md).
 
 ## PM006
 
@@ -620,6 +626,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM006__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality56:** 876tri existing public mortar-recess repair retained SHA-matched;no new revision. [Details](../material_variants_pm003_wm001.md).
+
 ## PM007
 
 **Drained Corridor Floor 2x2**
@@ -644,6 +652,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Quality56:** 4548tri drained floor2m,top0,bottom-0.16;no fluid simulation. [Details](../material_variants_pm003_wm001.md).
+
 ## PM008
 
 **Corridor Junction Hatch 2x2**
@@ -667,3 +677,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+**Quality56:** 2896tri hatch floor;raised hardware maxZ0.051m intentional,no opening test. [Details](../material_variants_pm003_wm001.md).

@@ -19,3 +19,5 @@ Quality53:150 latest revision bindings verified including FP006;852 records have
 Quality54:154 latest revision bindings verified including FP010/011/012/015;852 records have no revision entry.
 
 Quality55:156 latest revision bindings verified including FP021/025;852 records have no revision entry.
+
+Quality56:156 prior revision bindings verified; PM005 public retrieval pending;851 records have no revision entry.

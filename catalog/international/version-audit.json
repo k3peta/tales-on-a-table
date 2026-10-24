@@ -30,7 +30,9 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "PM005"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +47,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 852,
-      "exact_image_zip_evidence": 156
+      "none": 851,
+      "exact_image_zip_evidence": 156,
+      "exact_image_zip_binding_public_retrieval_pending": 1
     }
   },
   "items": [
@@ -10561,7 +10564,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "PM005__repair",
+        "zip_sha256": "cfe825256c6ffa207342a3d9404f9bdf5ae59ed2b1868a1eb23a9a6a79a69da5",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pm003-wm001-v1/PM005__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "PM005__repair",
+            "zip_sha256": "cfe825256c6ffa207342a3d9404f9bdf5ae59ed2b1868a1eb23a9a6a79a69da5",
+            "image": "previews/quality-pm003-wm001-v1/PM005__repair_thumb.png",
+            "image_sha256": "b2ee3269ded402e28c5a2c6d7e4f9cbe340fc0c74d8fa1511b018ca6839ceb51",
+            "evidence": "Final ZIP/source image hashes verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "PM006",

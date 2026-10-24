@@ -24562,7 +24562,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM003_Barred_Wall_2m.zip",
       "pictured_zip_sha256": "16c987317a9cbb39daeab4f2676163641a5f4ee436d08c4f8eb84ad675c6d5bd",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3564tri barred wall uses connector pillars at2m pitch;security/collision untested."
     },
     {
       "id": "PM004",
@@ -24597,7 +24598,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM004_Cell_Door_2m.zip",
       "pictured_zip_sha256": "5f3ff4032e34127fb2e9a4e801c6dddd0c377a05adc8e9ea31504e915677e50e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5332tri cell door;hinge setup retained,opening sweep not retested."
     },
     {
       "id": "PM005",
@@ -24632,7 +24634,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM005_Arched_Window_Wall_2m.zip",
       "pictured_zip_sha256": "84bc2f7864adeedd2bfcc085fb6e010a0ad81dcd7b2884801f2a13cfcbd979de",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PM005__repair",
+          "catalog": "catalog/material_variants_pm003_wm001.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "6388tri unchanged geometry;Mortar_Core missingUV0 added,existingUV retained;not original-UV-invariant."
     },
     {
       "id": "PM006",
@@ -24664,7 +24674,7 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM006.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Original version: Black side faces are an unresolved original-model issue. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "876tri existing public mortar-recess repair retained SHA-matched;no new revision.",
       "revision_history": [
         {
           "id": "PM006__repair",
@@ -24713,7 +24723,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM007_Drained_Corridor_Floor_2x2.zip",
       "pictured_zip_sha256": "8f8b59b8ea1fd8f449bb1e09cf1b0333771d5961a979f51490b0827775a14fcc",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4548tri drained floor2m,top0,bottom-0.16;no fluid simulation."
     },
     {
       "id": "PM008",
@@ -24748,7 +24759,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM008_Corridor_Junction_Hatch_2x2.zip",
       "pictured_zip_sha256": "50323f37a886fd9ac31e97f9f2d7415dd580ad350105bb2143bb9e7d2a91e504",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2896tri hatch floor;raised hardware maxZ0.051m intentional,no opening test."
     },
     {
       "id": "PM009",
@@ -24780,7 +24792,7 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM009.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "876tri L configuration;current PM006-family repair retained,reused geometry.",
       "revision_history": [
         {
           "id": "PM009__repair",
@@ -24826,7 +24838,7 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM010.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "876tri T configuration;current PM006-family repair retained,reused geometry.",
       "revision_history": [
         {
           "id": "PM010__repair",
@@ -24872,7 +24884,7 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM011.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "876tri end configuration;current PM006-family repair retained,reused geometry.",
       "revision_history": [
         {
           "id": "PM011__repair",
@@ -24921,7 +24933,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM001_CC0.zip",
       "pictured_zip_sha256": "904cd2d030df52b5a4495ac1f194d0b390e93eb74ea7a09083f5dc60186c11ee",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "33058tri below provisional50k assembly warning;timber-check detail UV missing UNREPAIRED;rotation/water/power untested."
     },
     {
       "id": "WM002",

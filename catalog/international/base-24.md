@@ -36,6 +36,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM009__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality56:** 876tri L configuration;current PM006-family repair retained,reused geometry. [Details](../material_variants_pm003_wm001.md).
+
 ## PM010
 
 **T Junction Configuration**
@@ -67,6 +69,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM010__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
+**Quality56:** 876tri T configuration;current PM006-family repair retained,reused geometry. [Details](../material_variants_pm003_wm001.md).
 
 ## PM011
 
@@ -100,6 +104,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM011__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality56:** 876tri end configuration;current PM006-family repair retained,reused geometry. [Details](../material_variants_pm003_wm001.md).
+
 ## WM001
 
 **Undershot waterwheel**
@@ -123,6 +129,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality56:** 33058tri below provisional50k assembly warning;timber-check detail UV missing UNREPAIRED;rotation/water/power untested. [Details](../material_variants_pm003_wm001.md).
 
 ## WM002
 
