@@ -1,0 +1,112 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "27c21c66f48320612fc08cf011e49b40afbb2a18",
+  "guard_run_id": "61eca22b-47e7-49ce-bfcf-68ff5fb3b67d",
+  "started_utc": "2026-10-24T13:00:15.211913+00:00",
+  "finished_utc": "2026-10-24T13:00:19.323450+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "WS_001__repair",
+      "zip": "WS_001__repair_CC0.zip",
+      "zip_sha256": "17652dc1b600680e2fb84206eb49f6d44dfbf910c759777ccb658353ca0ebc63",
+      "members": {
+        "WS_001__repair.blend": "a8c56231afff4214cb38fdc5bd4d2f0628b628c6d7494bbc1e91df34f7322632",
+        "WS_001__repair.glb": "1c0b1014a9c6fa70597b39d3b7436a4597facbed3b9032165f3c3281bdf05f46"
+      }
+    },
+    {
+      "id": "WS_002__color_blue",
+      "zip": "WS_002__color_blue_CC0.zip",
+      "zip_sha256": "f32b9291ba8cf036952f38a5d5dc1db4546f03bb43c4ffa68a5199f6222039ba",
+      "members": {
+        "WS_002__color_blue.glb": "be30ad64915a2274fe4e354ce992260923e16c9eb85680b1697b838d006d27f4",
+        "WS_002__color_blue.blend": "3ad296c59f7e2b3fa2402a726c28b41201a7a2ce89d19131602945c462ec8066"
+      }
+    },
+    {
+      "id": "WS_003__color_green",
+      "zip": "WS_003__color_green_CC0.zip",
+      "zip_sha256": "d69f15128f0f970f2ccbd26f488b6453b6a2f000fd49f558996a98546dc8d385",
+      "members": {
+        "WS_003__color_green.blend": "4efd2f2256264dc90154a0b34ca763474e48009d8c75adf32eeab0fa795108f4",
+        "WS_003__color_green.glb": "50c1177f47881615c2536690dfe034ca19919a5bda40f3569c4666a5bfcaab86"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "WS_001__repair",
+      "formats": {
+        "blend": {
+          "zero_world_area_faces": 0,
+          "triangles": 35660,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "zero_world_area_faces": 0,
+          "triangles": 35660,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_002__color_blue",
+      "formats": {
+        "blend": {
+          "zero_world_area_faces": 0,
+          "triangles": 13828,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        },
+        "glb": {
+          "zero_world_area_faces": 0,
+          "triangles": 13828,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_003__color_green",
+      "formats": {
+        "blend": {
+          "zero_world_area_faces": 0,
+          "triangles": 20696,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        },
+        "glb": {
+          "zero_world_area_faces": 0,
+          "triangles": 20696,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

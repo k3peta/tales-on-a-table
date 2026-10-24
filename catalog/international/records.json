@@ -11422,7 +11422,8 @@
         {
           "id": "WS_001__repair",
           "catalog": "catalog/material_variants_at093_ws008.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision;35660tri still over budget; Moon title versus star ornament unresolved."

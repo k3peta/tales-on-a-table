@@ -8,7 +8,7 @@ WS001の面積ゼロ三角形3720枚のみ除去。正の微小面64枚は保持
 
 WS001仅移除3720个严格零面积三角形，保留64个微小正面积面，仍超预算。WS002蓝色、WS003绿色封面保持几何和UV，单独计为2种材质变体。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds final packages, inputs, scripts, run/time/build. Texture contract resolves image bytes and samplers instead of export-dependent indices; packed image decoding and external-URI checks passed. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds final packages, inputs, scripts, run/time/build. Texture contract resolves image bytes and samplers instead of export-dependent indices; packed image decoding and external-URI checks passed. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed276 source records,732 remain;51 budget/redesign issues remain. AT093/094 default-white material intent unresolved; WS004 binding joint gaps, WS005 raised cord bridge need diagnosis. AT094/WS001/003/004/006 over budget. No complete defect-free, functional binding, gameplay/collision or Blender4.3.2 guarantee.
 
@@ -61,3 +61,5 @@ Upper cover changed to green mapped micrograin, original geometry andUV retained
 [![WS_003__color_green close_comparison](../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_close_comparison.png)](../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-at093-094-ws001-008-v1/validation.json).
