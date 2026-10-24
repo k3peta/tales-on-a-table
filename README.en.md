@@ -2,9 +2,11 @@
 
 Current total: **1008 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
-**20 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
+**45 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
 
 ## Publication history
+
+- 2026-10-24 JST — Material variants45 =20+25; existing1008 unchanged, new base shapes0. [FT011–020](catalog/material_variants_ft011_020.md).
 
 - 2026-10-24 JST — [**20 material variants separately**; existing1008 distribution records unchanged; new base shapes0.](catalog/material_variants_ft001_010.md).
 
