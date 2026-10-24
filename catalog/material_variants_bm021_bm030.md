@@ -6,7 +6,7 @@ BM026 teal mask face only: original geometry/UV/vertex colors retained, red eye 
 
 10配布11収録モデル査定、青緑仮面variant1件のみ。青ガラス提灯候補は不採用・非公開、元提灯は不変。10个配布记录/11个模型；仅青绿色面具变体发布。蓝玻璃候选因顶点色不匹配被拒绝，原提灯不变。
 
-Same camera/light/scale comparison. Authoritative final-ZIP validation-v2 checks BLEND/GLB geometry/UV/spatial vertex colors, four old loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Authoritative final-ZIP validation-v2 checks BLEND/GLB geometry/UV/spatial vertex colors, four old loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed466 distribution records;542 remain;134 budget issues and BM007 diagnosis unchanged. Existing key color member, coin arrangement and single shoe not inflated into new counts. Source audit GLB only; original bundled BLEND not independently imported. Accepted ZIP both formats tested. Static chain/scales/straps; no collision/load/rig/function/transparent-sort/Blender4.3.2 approval.
 
@@ -27,3 +27,5 @@ Teal UV tint on ivory mask face; straps/red trim/brass and other channels unchan
 [![BM_026__tealmask close_comparison](../previews/quality-bm021-030-v1/BM_026__tealmask_close_comparison.png)](../previews/quality-bm021-030-v1/BM_026__tealmask_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm021-030-v1/validation.json).
