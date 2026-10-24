@@ -8,7 +8,7 @@ Blue ring-display textile, green cameo background and orange mechanical-bird fin
 
 基础1008保持，新增3个同形颜色变体单独统计。羽毛笔位置修订不计新增。羽毛笔对比方向相同、取景分别调整，并非相同比例。
 
-Producer final-ZIP guard binds package/member/input/verifier hashes, run ID, timestamps and Blender5.2.2. Public artifact matching is pending. Publication does not claim a separate Blender rerun. Cumulative236 assessed distribution records,772 remaining;41 budget/redesign issues remain, including AT058 at98392 triangles. Ten FW material/image holds tracked separately. Gameplay, continuous collision, balance, optical behavior and Blender4.3.2 compatibility unverified.
+Producer final-ZIP guard binds package/member/input/verifier hashes, run ID, timestamps and Blender5.2.2. Publicly downloaded ZIP and internal models exactly match the guarded final artifacts. [Validation evidence](../distributions/quality-at052-061-v1/validation.json). Publication does not claim a separate Blender rerun. Cumulative236 assessed distribution records,772 remaining;41 budget/redesign issues remain, including AT058 at98392 triangles. Ten FW material/image holds tracked separately. Gameplay, continuous collision, balance, optical behavior and Blender4.3.2 compatibility unverified.
 
 Models and embedded materials only: CC0-1.0. Images are catalogue artwork outside modelCC0; [license scope](../LICENSE.md). Code/private reports are not distributed.
 

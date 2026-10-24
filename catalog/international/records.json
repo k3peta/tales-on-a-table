@@ -10107,7 +10107,7 @@
         {
           "id": "AT_056__repair",
           "catalog": "catalog/material_variants_at052_061.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
