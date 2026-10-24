@@ -1,0 +1,205 @@
+[
+  {
+    "id": "PA002__repair",
+    "base_record": "PA002",
+    "lod": null,
+    "zip_sha256": "7245aecda6acd29d784954cc019c0e2f829cd08e7d61988443d30feca617b529",
+    "model_members": {
+      "PA002__repair.blend": "0e6730413b80e921342cc796a592fb6fe68784773a0a156096ecec4c367a534f",
+      "PA002__repair.glb": "5b9bca9faaae0d61b4e1a1c3018e03c59ede0534dfd940b700e9f24e59b0a883"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA002__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA002__repair_thumbnail.png",
+        "sha256": "0bbff2687846601934ed91a07014dcf8f231a150ccfccc5dfdd22f4a2622245f",
+        "source_sha256": "cfe471d79aad99fc340e95e99f940b485cd036a1d499c9e0ea6dd4eb8dee9a66"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA002__repair_full.png",
+        "sha256": "4c1a7056b4ed53ff96574d90fe6e86ed96383365e9a9e30af8471c8d0247abb0",
+        "source_sha256": "bd28547b4b21c8f09bfe14813a2f86b3e6b8c17256d5a3796637a118a41ea6a7"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA002__repair_comparison.png",
+        "sha256": "f2a0386aca051d68f4e632ca2176f3a36f1b3390604aea69a7aa40de34900aa6",
+        "source_sha256": "270db6b3beb0e157d3e9d57b2350ad1e05d8bec9d16901488965666fd5532cb6"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA003__repair",
+    "base_record": "PA003",
+    "lod": null,
+    "zip_sha256": "76392d591eac28aceb87f8636d3a67fae8b763e058170a066853002cbb4385da",
+    "model_members": {
+      "PA003__repair.glb": "b607799bf0d646a9cfb460a546e8f8d0326174647baed044fb7b7cca234a75e9",
+      "PA003__repair.blend": "ae456b3e93e5e3e05eb5fb2a53864fddea890a7fee1602e7d99ed4bb1f4b3915"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA003__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA003__repair_thumbnail.png",
+        "sha256": "9993e8b3e38eac2964bfe6770d7a5062a7b15cffc18a3da286f9bb8f564bc972",
+        "source_sha256": "49555af35b9fd50ed1cfc181f76e9c688a38d9348c7c008498c09703231696d3"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA003__repair_full.png",
+        "sha256": "7b57b703f00a19dc39c489d4f85f51feb8c90dc95c2819af9cedcadebb6ad68b",
+        "source_sha256": "d4e3cbf0aa6ecc9ca18075affea435159c1b57019e7ca2a416912e799891f11b"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA003__repair_comparison.png",
+        "sha256": "ae55b617b27a2ca0b45ee69a91c656438c5e4b0d2c64d903feae7d73fd0ff719",
+        "source_sha256": "e14610842828513d82733a31c635441d42c22ad03a58f5448fe5d7243f2f8ad2"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA004__repair",
+    "base_record": "PA004",
+    "lod": null,
+    "zip_sha256": "e3b293f21526f96b90e9aa60b2ead64584448fa33f69d8690151450656f60d8b",
+    "model_members": {
+      "PA004__repair.blend": "d3e71c72807417e1311b63fd2edb513b4021554b5d599a61fa91f5a288acf113",
+      "PA004__repair.glb": "5f07f724ead2ebc8f31d9fc81fd742e5f562a370d818cfcd063962063cae7377"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA004__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA004__repair_thumbnail.png",
+        "sha256": "673b32d50836fe4a1c366dd22914ffd8eda14010e9a89504070c7f9f600f16a1",
+        "source_sha256": "2e48c08dc3f95c573f5c1f91d1762aba8d6a05bf5e2c69593befacabab369262"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA004__repair_full.png",
+        "sha256": "35c8bb78e97e10dfa23bbaeb8f5bb87a4ec12cb3724a035512d083dd1aa6e8a6",
+        "source_sha256": "a9ae9d0087518f07952a2380d165cffd4eb210b828be7d5a2680cd0b75a88774"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA004__repair_comparison.png",
+        "sha256": "5cc20449d344d9c0463b9835ee3810e900b5e849298c8b88009c1af2b43dddf7",
+        "source_sha256": "1a6911067051eb2a1309028ce111fa5be75497f7ace2da35dd53a1d8bc045072"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA005__repair",
+    "base_record": "PA005",
+    "lod": null,
+    "zip_sha256": "679d033b228f39e7d4faaa14128030040e9aa44f9779875f9c3e7f68b2951ee4",
+    "model_members": {
+      "PA005__repair.glb": "acb906214fc6e997a794cb9a2cb52f8ea7eef3b3fbf91bd6db913fb228a49d65",
+      "PA005__repair.blend": "29ad73d86ca93bc1d3b86970ab83f1c118d1338825e24a1cd55001f2cf851508"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA005__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA005__repair_thumbnail.png",
+        "sha256": "d4213883a4bfde7dfc2a94677bc31da866f012b7b9783a2d612722d9c3c434dd",
+        "source_sha256": "2a6248c5ce0efe7916922fedf40268eba995c4e3cd44c48d82f10db90fe5eda8"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA005__repair_full.png",
+        "sha256": "c56639a74647f9db6dca57a07996251e4010cd73b966fc272bba312ba94b1919",
+        "source_sha256": "39e0e0abf287792c530a89984931af1b34c019aa504846dd9ba102d69bd21d4b"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA005__repair_comparison.png",
+        "sha256": "6879e8f5409ad3aee7a6b551b94157e0be659ad502a2a7b90aa4726fbcf075f8",
+        "source_sha256": "967e0bf4f9d3761b725f6546fc3f4788c8ce0ae5b8722fb5d87ddb3eaf902757"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA006__repair",
+    "base_record": "PA006",
+    "lod": null,
+    "zip_sha256": "58db65ce72bc6da9216cbf901d0d64f04ae3283700ccab50f577bd378379ad2c",
+    "model_members": {
+      "PA006__repair.glb": "e085bf76a71517f3caf0eb7bdfce4c057180bdb2710f34448157721dce887621",
+      "PA006__repair.blend": "e9dc4404d44cdb7c36d32a27bcee3529ba9f1b1de15060b2dd6ba661ca9981b7"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA006__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA006__repair_thumbnail.png",
+        "sha256": "dadc8a717151cc718bbdac37a51fbac19d53256a3c83b490eba268e5ccf56fac",
+        "source_sha256": "348095618031e9041b8ef843a078254a30ad64cc62b7f82080bfc07d29701008"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA006__repair_full.png",
+        "sha256": "558295cca0a582b650701e6e02756ded3eaa39ff8add8d51f0fe7cd1736ec934",
+        "source_sha256": "2146ceef20422e92a6bcc4b8282fcbb885e31a54ad7fff9457c724553f2a1218"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA006__repair_comparison.png",
+        "sha256": "8861ef351b169e739697fcdd5f9f94206de81a7f8404ba1fa9962b6bb6842fe8",
+        "source_sha256": "51cd61a1775f729e6f6793c8e2e8e44223d53513e3f1873a5be982f1be1d1a2b"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA008__repair",
+    "base_record": "PA008",
+    "lod": null,
+    "zip_sha256": "aa8c495b4b94fb1a0d1f5a9c6e7c76160b6c40dbcde5b9196996705868b5429c",
+    "model_members": {
+      "PA008__repair.blend": "a1857302dc0105b485b94234f899930e8e8a861d051182164a9b73e536f15acd",
+      "PA008__repair.glb": "0a6e1214ea89685487230103909df651200393f65454a9aed50a02d5177f3465"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA008__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA008__repair_thumbnail.png",
+        "sha256": "954646918e220407ca148ba5a4e69bd19f7d7902e70bd777d0f8e43811610c7f",
+        "source_sha256": "1b7fb1f9f2f94575c99eadc290f3ae8413552a00d3247104160227e297cecb59"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA008__repair_full.png",
+        "sha256": "2ecf735fbc8bc78f6629ec56d4913a08a34c5add964d77002cc6e91a5eed540c",
+        "source_sha256": "ed1775bccd755a9aa83b6af0749d94202e31b1f064f164d8dcbe683d0571d435"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA008__repair_comparison.png",
+        "sha256": "a38fac662e9dcaca341db7814790a9b3169980db7a28768aea234a95b1ddad62",
+        "source_sha256": "a43b087e451d025a419d993a4b1d5bc1eddae090f6b7a8478997398fbecc46a3"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "PA010__repair",
+    "base_record": "PA010",
+    "lod": null,
+    "zip_sha256": "47af803925927f71318e4aa81a65a5aa22baa2952a1887893d94258488b6fc71",
+    "model_members": {
+      "PA010__repair.glb": "841ac7d55de162c48d82fb0fa0a24ffc3ee70c27b538be35c5c687b7b43b7393",
+      "PA010__repair.blend": "ed76407072d32c32020e8937f09bb5f88f62cc99a63bd8989ef1bcaa7d00bbfb"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA010__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-pa-wood-repair-v1/PA010__repair_thumbnail.png",
+        "sha256": "a160071512fcc9889e84baa80aa789bc37cf0f69edbd1e663c1394182c8f6340",
+        "source_sha256": "b6cc67014d046032c116f62af7e9ce731f23283446ac80157cca4db480a64923"
+      },
+      "full": {
+        "file": "previews/quality-pa-wood-repair-v1/PA010__repair_full.png",
+        "sha256": "a85557d58c4ef50b40abb18293f28946e9f973b273033320466c93e10b37bdac",
+        "source_sha256": "fc27030ae7e0e43894f9fc20f56363a747eba621b63cc4b4473c497d894cc568"
+      },
+      "comparison": {
+        "file": "previews/quality-pa-wood-repair-v1/PA010__repair_comparison.png",
+        "sha256": "df6062bb9be1cc2c9bbc5e2ed1f84081ecf9c15b4d2818117b4d18a3aa42e8de",
+        "source_sha256": "d9ce70f1c0939cbb726a6514cd825bd97f94e962549fd60603a3e1eb6d55c7ff"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

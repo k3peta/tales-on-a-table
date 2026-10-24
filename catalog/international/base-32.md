@@ -28,6 +28,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR036_HQ__repair](../../previews/quality-tr028-037-v1/TR036_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR036_HQ__repair_full.png)
+
+[TR036_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR036_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR036_LITE__repair](../../previews/quality-tr028-037-v1/TR036_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR036_LITE__repair_full.png)
+
+[TR036_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR036_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
 ## TR037
 
 **sand dry grass**
@@ -51,6 +61,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR037_HQ__repair](../../previews/quality-tr028-037-v1/TR037_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR037_HQ__repair_full.png)
+
+[TR037_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR037_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR037_LITE__repair](../../previews/quality-tr028-037-v1/TR037_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR037_LITE__repair_full.png)
+
+[TR037_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR037_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
 
 ## TR038
 
@@ -76,6 +96,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR038_HQ__repair](../../previews/quality-tr038-047-v1/TR038_HQ__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR038_HQ__repair_full.png)
+
+[TR038_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR038_HQ__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
+
+[![TR038_LITE__repair](../../previews/quality-tr038-047-v1/TR038_LITE__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR038_LITE__repair_full.png)
+
+[TR038_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR038_LITE__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
+
 ## TR039
 
 **sand mud transition**
@@ -100,6 +130,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR039_HQ__repair](../../previews/quality-tr038-047-v1/TR039_HQ__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR039_HQ__repair_full.png)
+
+[TR039_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR039_HQ__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
+
+[![TR039_LITE__repair](../../previews/quality-tr038-047-v1/TR039_LITE__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR039_LITE__repair_full.png)
+
+[TR039_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR039_LITE__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
+
 ## TR040
 
 **sand shell gravel**
@@ -123,6 +163,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR040_HQ__repair](../../previews/quality-tr038-047-v1/TR040_HQ__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR040_HQ__repair_full.png)
+
+[TR040_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR040_HQ__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
+
+[![TR040_LITE__repair](../../previews/quality-tr038-047-v1/TR040_LITE__repair_thumbnail.png)](../../previews/quality-tr038-047-v1/TR040_LITE__repair_full.png)
+
+[TR040_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR040_LITE__repair_CC0.zip) · [Details](../quality-tr038-047-v1.md).
 
 ## TR041
 

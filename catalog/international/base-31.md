@@ -30,6 +30,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR012_HQ__repair](../../previews/quality-tr-held-repair-v2/TR012_HQ__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR012_HQ__repair_full.png)
+
+[TR012_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_HQ__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
+
+[![TR012_LITE__repair](../../previews/quality-tr-held-repair-v2/TR012_LITE__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR012_LITE__repair_full.png)
+
+[TR012_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_LITE__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
+
 ## TR013
 
 **forest stump clearing**
@@ -82,6 +92,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR014_HQ__repair](../../previews/quality-tr008-017-v1/TR014_HQ__repair_thumbnail.png)](../../previews/quality-tr008-017-v1/TR014_HQ__repair_full.png)
+
+[TR014_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR014_HQ__repair_CC0.zip) · [Details](../quality-tr008-017-v1.md).
+
+[![TR014_LITE__repair](../../previews/quality-tr008-017-v1/TR014_LITE__repair_thumbnail.png)](../../previews/quality-tr008-017-v1/TR014_LITE__repair_full.png)
+
+[TR014_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR014_LITE__repair_CC0.zip) · [Details](../quality-tr008-017-v1.md).
+
 ## TR015
 
 **forest sparse grass**
@@ -107,6 +127,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR015_HQ__repair](../../previews/quality-tr-held-repair-v2/TR015_HQ__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR015_HQ__repair_full.png)
+
+[TR015_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_HQ__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
+
+[![TR015_LITE__repair](../../previews/quality-tr-held-repair-v2/TR015_LITE__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR015_LITE__repair_full.png)
+
+[TR015_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_LITE__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
 
 ## TR016
 
@@ -134,6 +164,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR016_HQ__repair](../../previews/quality-tr-held-repair-v2/TR016_HQ__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR016_HQ__repair_full.png)
+
+[TR016_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_HQ__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
+
+[![TR016_LITE__repair](../../previews/quality-tr-held-repair-v2/TR016_LITE__repair_thumbnail.png)](../../previews/quality-tr-held-repair-v2/TR016_LITE__repair_full.png)
+
+[TR016_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_LITE__repair_CC0.zip) · [Details](../quality-tr-held-repair-v2.md).
+
 ## TR017
 
 **path straight NS**
@@ -159,6 +199,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR017_HQ__repair](../../previews/quality-tr008-017-v1/TR017_HQ__repair_thumbnail.png)](../../previews/quality-tr008-017-v1/TR017_HQ__repair_full.png)
+
+[TR017_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR017_HQ__repair_CC0.zip) · [Details](../quality-tr008-017-v1.md).
+
+[![TR017_LITE__repair](../../previews/quality-tr008-017-v1/TR017_LITE__repair_thumbnail.png)](../../previews/quality-tr008-017-v1/TR017_LITE__repair_full.png)
+
+[TR017_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR017_LITE__repair_CC0.zip) · [Details](../quality-tr008-017-v1.md).
 
 ## TR018
 
@@ -186,6 +236,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR018_HQ__repair](../../previews/quality-tr018-027-v1/TR018_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR018_HQ__repair_full.png)
+
+[TR018_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR018_LITE__repair](../../previews/quality-tr018-027-v1/TR018_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR018_LITE__repair_full.png)
+
+[TR018_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
 ## TR019
 
 **path junction NES**
@@ -211,6 +271,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR019_HQ__repair](../../previews/quality-tr018-027-v1/TR019_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR019_HQ__repair_full.png)
+
+[TR019_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR019_LITE__repair](../../previews/quality-tr018-027-v1/TR019_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR019_LITE__repair_full.png)
+
+[TR019_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
 
 ## TR020
 
@@ -238,6 +308,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR020_HQ__repair](../../previews/quality-tr018-027-v1/TR020_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR020_HQ__repair_full.png)
+
+[TR020_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR020_LITE__repair](../../previews/quality-tr018-027-v1/TR020_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR020_LITE__repair_full.png)
+
+[TR020_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
 ## TR021
 
 **path end N**
@@ -263,6 +343,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR021_HQ__repair](../../previews/quality-tr018-027-v1/TR021_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR021_HQ__repair_full.png)
+
+[TR021_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR021_LITE__repair](../../previews/quality-tr018-027-v1/TR021_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR021_LITE__repair_full.png)
+
+[TR021_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
 
 ## TR022
 
@@ -290,6 +380,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR022_HQ__repair](../../previews/quality-tr018-027-v1/TR022_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR022_HQ__repair_full.png)
+
+[TR022_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR022_LITE__repair](../../previews/quality-tr018-027-v1/TR022_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR022_LITE__repair_full.png)
+
+[TR022_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
 ## TR023
 
 **path bend NE stony**
@@ -315,6 +415,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR023_HQ__repair](../../previews/quality-tr018-027-v1/TR023_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR023_HQ__repair_full.png)
+
+[TR023_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR023_LITE__repair](../../previews/quality-tr018-027-v1/TR023_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR023_LITE__repair_full.png)
+
+[TR023_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
 
 ## TR024
 
@@ -342,6 +452,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR024_HQ__repair](../../previews/quality-tr018-027-v1/TR024_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR024_HQ__repair_full.png)
+
+[TR024_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR024_LITE__repair](../../previews/quality-tr018-027-v1/TR024_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR024_LITE__repair_full.png)
+
+[TR024_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
 ## TR025
 
 **rock flat scree**
@@ -367,6 +487,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR025_HQ__repair](../../previews/quality-tr018-027-v1/TR025_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR025_HQ__repair_full.png)
+
+[TR025_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR025_LITE__repair](../../previews/quality-tr018-027-v1/TR025_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR025_LITE__repair_full.png)
+
+[TR025_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
 
 ## TR026
 
@@ -394,6 +524,16 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 **Image scope:** HQ shown; LITE not shown. Repeated vegetation, pale stones and weak rut detail are faithful to the current model, not a complete quality approval.
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR026_HQ__repair](../../previews/quality-tr018-027-v1/TR026_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR026_HQ__repair_full.png)
+
+[TR026_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR026_LITE__repair](../../previews/quality-tr018-027-v1/TR026_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR026_LITE__repair_full.png)
+
+[TR026_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
 ## TR027
 
 **rock tall outcrop**
@@ -417,6 +557,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR027_HQ__repair](../../previews/quality-tr018-027-v1/TR027_HQ__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR027_HQ__repair_full.png)
+
+[TR027_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_HQ__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
+
+[![TR027_LITE__repair](../../previews/quality-tr018-027-v1/TR027_LITE__repair_thumbnail.png)](../../previews/quality-tr018-027-v1/TR027_LITE__repair_full.png)
+
+[TR027_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_LITE__repair_CC0.zip) · [Details](../quality-tr018-027-v1.md).
 
 ## TR028
 
@@ -442,6 +592,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR028_HQ__repair](../../previews/quality-tr028-037-v1/TR028_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR028_HQ__repair_full.png)
+
+[TR028_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR028_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR028_LITE__repair](../../previews/quality-tr028-037-v1/TR028_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR028_LITE__repair_full.png)
+
+[TR028_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR028_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
 ## TR029
 
 **rock broken slabs**
@@ -465,6 +625,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR029_HQ__repair](../../previews/quality-tr028-037-v1/TR029_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR029_HQ__repair_full.png)
+
+[TR029_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR029_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR029_LITE__repair](../../previews/quality-tr028-037-v1/TR029_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR029_LITE__repair_full.png)
+
+[TR029_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR029_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
 
 ## TR030
 
@@ -490,6 +660,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR030_HQ__repair](../../previews/quality-tr028-037-v1/TR030_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR030_HQ__repair_full.png)
+
+[TR030_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR030_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR030_LITE__repair](../../previews/quality-tr028-037-v1/TR030_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR030_LITE__repair_full.png)
+
+[TR030_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR030_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
 ## TR031
 
 **rock sand transition**
@@ -513,6 +693,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR031_HQ__repair](../../previews/quality-tr028-037-v1/TR031_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR031_HQ__repair_full.png)
+
+[TR031_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR031_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR031_LITE__repair](../../previews/quality-tr028-037-v1/TR031_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR031_LITE__repair_full.png)
+
+[TR031_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR031_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
 
 ## TR032
 
@@ -538,6 +728,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR032_HQ__repair](../../previews/quality-tr028-037-v1/TR032_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR032_HQ__repair_full.png)
+
+[TR032_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR032_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR032_LITE__repair](../../previews/quality-tr028-037-v1/TR032_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR032_LITE__repair_full.png)
+
+[TR032_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR032_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
 ## TR033
 
 **sand flat fine**
@@ -561,6 +761,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR033_HQ__repair](../../previews/quality-tr028-037-v1/TR033_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR033_HQ__repair_full.png)
+
+[TR033_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR033_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR033_LITE__repair](../../previews/quality-tr028-037-v1/TR033_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR033_LITE__repair_full.png)
+
+[TR033_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR033_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
 
 ## TR034
 
@@ -586,6 +796,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR034_HQ__repair](../../previews/quality-tr028-037-v1/TR034_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR034_HQ__repair_full.png)
+
+[TR034_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR034_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR034_LITE__repair](../../previews/quality-tr028-037-v1/TR034_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR034_LITE__repair_full.png)
+
+[TR034_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR034_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
 ## TR035
 
 **sand low dune**
@@ -609,3 +829,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![TR035_HQ__repair](../../previews/quality-tr028-037-v1/TR035_HQ__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR035_HQ__repair_full.png)
+
+[TR035_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR035_HQ__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).
+
+[![TR035_LITE__repair](../../previews/quality-tr028-037-v1/TR035_LITE__repair_thumbnail.png)](../../previews/quality-tr028-037-v1/TR035_LITE__repair_full.png)
+
+[TR035_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR035_LITE__repair_CC0.zip) · [Details](../quality-tr028-037-v1.md).

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "PA007__repair",
+      "base_id": "PA007",
+      "entity_type": "revision",
+      "zip": "PA007__repair_CC0.zip",
+      "sha256": "b28cd581255278fdd4c16f3a1855d70d18385af91cc0204dc3e645778dec6227",
+      "bytes": 77524,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA007__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "PA009__repair",
+      "base_id": "PA009",
+      "entity_type": "revision",
+      "zip": "PA009__repair_CC0.zip",
+      "sha256": "c30910ecd91cd17fcef438aa670ef67fe3055abb7184ea9447a2f78882d521df",
+      "bytes": 156540,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA009__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 0,
+  "revised_contained_models": 2
+}

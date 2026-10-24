@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 171,
-      "id_mapped_preview": 171,
+      "records": 187,
+      "id_mapped_preview": 187,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 171,
-      "formats_known": 171,
+      "purpose_en_present": 187,
+      "formats_known": 187,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -24970,7 +24970,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM002_CC0.zip",
       "pictured_zip_sha256": "155113faeda9fea0c9f29e41bbeae0638560574ca118a60f5558962e68b21221",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM002__repair",
+          "catalog": "catalog/quality-wm002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f874101051995353d4fe245af6984f59d8c5ff0fa8f1cf3a9e0a77cacde0c804",
+          "lod": null
+        }
+      ],
+      "known_issue": "WM002:24 exact-zero faces measured in world space removed; local-space zero count was0. Timber detail UV added; repetitive grain remains. WM009 prior heel-wall repair retained. WM001 missing UV unresolved. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM003",
@@ -25005,7 +25015,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM003_CC0.zip",
       "pictured_zip_sha256": "1e60b4c89eb6baea07781a31cf3fd0e0bcdf11619c189be447685d44b91dde3f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM003__repair",
+          "catalog": "catalog/quality-wm002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a1c10791f2c0c25cb1e491dbc58f5dd752bee63a82de06b552888a6b36e88825",
+          "lod": null
+        }
+      ],
+      "known_issue": "WM002:24 exact-zero faces measured in world space removed; local-space zero count was0. Timber detail UV added; repetitive grain remains. WM009 prior heel-wall repair retained. WM001 missing UV unresolved. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM004",
@@ -25075,7 +25095,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM005_CC0.zip",
       "pictured_zip_sha256": "be3930aeea29d59bcf60376e6b8ef60c134287a82fbb76188639db5db91c9d6a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM005__repair",
+          "catalog": "catalog/quality-wm002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "059cb001f5f2115669833e83b1edc4fb13b354311f3cd6bb912dd37c60ce1c8a",
+          "lod": null
+        }
+      ],
+      "known_issue": "WM002:24 exact-zero faces measured in world space removed; local-space zero count was0. Timber detail UV added; repetitive grain remains. WM009 prior heel-wall repair retained. WM001 missing UV unresolved. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM006",
@@ -25111,7 +25141,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM006_CC0.zip",
       "pictured_zip_sha256": "6b687d723ccf85df3daf35c92374fb2a3d8f6d242d9da17736f36bbd13410481",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM006__repair",
+          "catalog": "catalog/quality-wm002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3745d29504e393e91cc667739b11da2d9f40681d92c7232b8e52d4004bc362d9",
+          "lod": null
+        }
+      ],
+      "known_issue": "WM002:24 exact-zero faces measured in world space removed; local-space zero count was0. Timber detail UV added; repetitive grain remains. WM009 prior heel-wall repair retained. WM001 missing UV unresolved. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM007",
@@ -25146,7 +25186,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM007_CC0.zip",
       "pictured_zip_sha256": "ac3b5c2a7401478edc58158132e4316290935e43012d270284c0512313709cac",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM007__repair",
+          "catalog": "catalog/quality-wm002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c46138277b74cafda6dbcf7fdb4adc5b7c58dc8ac62c5d3dfeb264d4c69acd2a",
+          "lod": null
+        }
+      ],
+      "known_issue": "WM002:24 exact-zero faces measured in world space removed; local-space zero count was0. Timber detail UV added; repetitive grain remains. WM009 prior heel-wall repair retained. WM001 missing UV unresolved. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM008",
@@ -25402,7 +25452,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM014_CC0.zip",
       "pictured_zip_sha256": "04be1105e8144509c59ad8aa44956470271fd588ab09a6b9b36b8348bd21e896",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM014__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "67818be1e51317f463d6b3360dcb9acfb89d6497599115fb91b7fa3606188a21",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM015",
@@ -25437,7 +25497,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM015_CC0.zip",
       "pictured_zip_sha256": "f06f677515760c87ce58b173b82292217923758dc585a568080839656549f88b",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM015__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "455a036a237c58b42dd235c02df9180ab5e183577e7217d9834d14ec3b94877b",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM016",
@@ -25472,7 +25542,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM016_CC0.zip",
       "pictured_zip_sha256": "8694d155e9f6c87241b9a780221f69e6a7ad5fa7d4c91a4eafc24770f12d7107",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM016__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7f4e14011095eb61e0283d735079759c82857d7a5c6e690743b38d99d44ed476",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WM017",
@@ -25507,7 +25587,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM017_CC0.zip",
       "pictured_zip_sha256": "ece039adbd38f241bdf227c09c4bbe48b68eb2aad87a6a82918c8ca4d766afb6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WM017__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "69841e7b65af191985d47dda1b056f876e8719fb2c51efbc388a823119c771a0",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT001",
@@ -25542,7 +25632,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT001_CC0.zip",
       "pictured_zip_sha256": "3579a63bebf86d1d958accf8ea7ec57614ff6a510d2dd05542a73bd0362ea362",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT001__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1fc4dda67861756c482e63982cc670ab17edfd86a3231389309db8f07ac342e6",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT002",
@@ -25577,7 +25677,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT002_CC0.zip",
       "pictured_zip_sha256": "226d0cafef2e09aa1798be01a2e71e954aa9131374a04bbba5bc0edf60010d2d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT002__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "502a87fcac9b1a1c8a7a793c71eb0d387dc8d843dc7cf4fb14c1784712b69988",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT003",
@@ -25612,7 +25722,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT003_CC0.zip",
       "pictured_zip_sha256": "797af9c6c09dd5cd671e1550cff812f909b9bef130660726ab1b762150146f42",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT003__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1c1af8ab3db9ddaaf88bed686664a3b4975cd858c175418d8a2de81cfdbc6809",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT004",
@@ -25647,7 +25767,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT004_CC0.zip",
       "pictured_zip_sha256": "54304a77e91f1778d450bb86be8e211bad6b146b4b2acf1700f9247e1fd6b444",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT004__repair",
+          "catalog": "catalog/quality-wm012-wt004-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2f37f21aebc034e0209e7ba0112a9b7ebb39ca2d0dde05e093cb9a47a0d063de",
+          "lod": null
+        }
+      ],
+      "known_issue": "Sheep are three poses of one design; polygon-budget warnings remain. UV/zero-face revisions are not new shapes. WT001/002 are legacy prototypes, not terrain-v2-compatible modules. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT005",
@@ -25682,7 +25812,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT005_CC0.zip",
       "pictured_zip_sha256": "ddfe65bfb7b08239db445c7b0d941e9d6f43c6acf199da87a7f08e36bca3f4bf",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT005__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "621621a5539e22347e8bfd1f75ebd261f28fd3289e85c9a479920a588bd1a637",
+          "lod": null
+        }
+      ],
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT006",
@@ -25717,7 +25857,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip",
       "pictured_zip_sha256": "4a3cf9938f841e89a01e965b16884c4b45022ecf5efbf5e7ad17c6d40ec25523",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WT006__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "dc66c688f4cda837834b7d1b4feab3aa34a58f4799463c3a049bf1c41cf4df45",
+          "lod": null
+        }
+      ],
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "WT007",
@@ -25749,7 +25899,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee.",
       "revision_history": [
         {
           "id": "WT007__repair",
@@ -25766,6 +25916,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip",
           "qa_status": "public_download_reimport_passed",
           "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
+        },
+        {
+          "id": "WT007__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a8918e6b47b00e0842be01c6191bf653e9664a2959bf4723bd009f015c2b5beb",
+          "lod": null
         }
       ],
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip",
@@ -25803,7 +25960,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee.",
       "revision_history": [
         {
           "id": "WT008__repair",
@@ -25820,6 +25977,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip",
           "qa_status": "public_download_reimport_passed",
           "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
+        },
+        {
+          "id": "WT008__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "66da351dcfe6d364d9d31fec2f6bf4a931337099012a2489f309f6b7185274e4",
+          "lod": null
         }
       ],
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip",
@@ -25860,7 +26024,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP001_CC0.zip",
       "pictured_zip_sha256": "3f691ef1cf18bd892ec84043dfaa1331fbcb0c82b63a4f75ad02fe0e04f432ca",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP001__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "aa7576a245d73ca7e731ebeaf1e2ef8be4cf14353bb7bf13184c1881d9301207",
+          "lod": null
+        }
+      ],
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP002",
@@ -25930,7 +26104,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP003_CC0.zip",
       "pictured_zip_sha256": "2547d52969c7969c969edd5dab248b66a3ac2b06fe3babd4a7cc679d08495050",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP003__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3151ac0cf30f6ac01ee8de436e6a85caece453fbde59c7335c670bc3b3607145",
+          "lod": null
+        }
+      ],
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP004",
@@ -26000,7 +26184,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP005_CC0.zip",
       "pictured_zip_sha256": "42b1f4fa1cd6d8770c327b0b77ff257d2606346cd0a627b3fd1765aa01312450",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP005__repair",
+          "catalog": "catalog/quality-wt005-ap006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "052b7e864ca8c2aea9d2fc2ae3efae0103e0311b2aeed0b998c58c392dcfa219",
+          "lod": null
+        }
+      ],
+      "known_issue": "WT007/008 use the current v2 clean-slot water repair, retaining its water shape; grass zero faces removed. Original faulty v1 is not restored. Bank mosaic remains. Opaque liquid surfaces remain opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP006",
@@ -26071,7 +26265,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP007_CC0.zip",
       "pictured_zip_sha256": "c85925b162e9f1a4c4246ffbe5f5704246531b0ea8179f22393a2951a2ebc5e2",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP007__repair",
+          "catalog": "catalog/quality-ap007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "5cad5faa6c0ca426f60685fc9877fdb9f649526a7db4dc52934a98151fa2a62b",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and ceramic color variants. AP009 glossy opaque material remains opaque despite its glass name. No fluid/heat simulation. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP008",
@@ -26141,7 +26345,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP009_CC0.zip",
       "pictured_zip_sha256": "2465bce38c0e27f314f04618d8ddb12c57d3e232fcd295129c759f01e42cb7ae",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP009__repair",
+          "catalog": "catalog/quality-ap007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6ede72a9c5eb8670af3de71dafe21421d0eb882846d5345d75d4f30da186c7fb",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and ceramic color variants. AP009 glossy opaque material remains opaque despite its glass name. No fluid/heat simulation. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP010",
@@ -26176,7 +26390,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
       "pictured_zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP010__repair",
+          "catalog": "catalog/quality-ap007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c434dc92669e38d34d0b14a0d498dca030b58ba236a0a611fd3989c93be60933",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and ceramic color variants. AP009 glossy opaque material remains opaque despite its glass name. No fluid/heat simulation. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP011",
@@ -26246,7 +26470,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP012_CC0.zip",
       "pictured_zip_sha256": "9d20cf6acff1eb75c9affa41b5598fb3128c777c3c49fb10a5474b81ad72f745",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP012__repair",
+          "catalog": "catalog/quality-ap007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ae5ab045266438a09d7adee8a15de8578c679893a5f61a043d557b152a7b2baf",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and ceramic color variants. AP009 glossy opaque material remains opaque despite its glass name. No fluid/heat simulation. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP013",
@@ -26316,7 +26550,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP014_CC0.zip",
       "pictured_zip_sha256": "49d09bb90e7070291257a0690a0f18219a665c031bf8a5d051639c16dc68b194",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP014__repair",
+          "catalog": "catalog/quality-ap007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2a07eda5803a5da1602dbc250d4475ce3a141d6e4745fb292ef7fa472ebc9427",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and ceramic color variants. AP009 glossy opaque material remains opaque despite its glass name. No fluid/heat simulation. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP015",
@@ -26457,7 +26701,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP018_CC0.zip",
       "pictured_zip_sha256": "d2aa82108d45e88e4016d102da60c8ec34535287ba8214c90a45f07a0722fb19",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP018__repair",
+          "catalog": "catalog/quality-ap017-al006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8788e4ab9788b75c86333ccec7f84239574f833005e5e7a4135711dd6a449d75",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup; ceramic color does not change stones or water. Static props only; heat/pressure not validated. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP019",
@@ -26492,7 +26746,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip",
       "pictured_zip_sha256": "b7f5434d37fc26679ece7199c1861e4128cc0e3e28050ca7b5fd3de92afcb5ed",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AP019__repair",
+          "catalog": "catalog/quality-ap017-al006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "83cb6e3e1fa9e621ce27e1c9875e4816341a9fb9df03215570af5a673520203d",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup; ceramic color does not change stones or water. Static props only; heat/pressure not validated. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AP020",
@@ -26626,7 +26890,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL003_CC0.zip",
       "pictured_zip_sha256": "bc33eafbcd75fb6abb78131de617984d4db154efcd8d8173bf614729da13126e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL003__repair",
+          "catalog": "catalog/quality-ap017-al006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "35f199adb23301298c39e1fe46ac4da51173fa844a1c049013f24d1f2a19535d",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup; ceramic color does not change stones or water. Static props only; heat/pressure not validated. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL004",
@@ -26660,7 +26934,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL004_CC0.zip",
       "pictured_zip_sha256": "ee4f1bad30923c651b2b8e2a2b93aedc79d7ad4a637de336e68d8eb1c3176d93",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL004__repair",
+          "catalog": "catalog/quality-ap017-al006-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ae12a96e94ea1699a55fad947c9ccdd2c4ef7f34dfe996db0f1d0a49b55c35a5",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup; ceramic color does not change stones or water. Static props only; heat/pressure not validated. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL005",
@@ -26759,7 +27043,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL007_CC0.zip",
       "pictured_zip_sha256": "114a6476ee1c0a7b4ac5b1318d2323b9d981c2b7fee90f28f58eed974fad1114",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL007__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ee840d258cde0bbd1b718cb1a8dc9eeca395b1ec47120cc30dfb2196aaaa1eaf",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL008",
@@ -26792,7 +27086,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
       "pictured_zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL008__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d267b142b951c7cf45d8a8763d412f8230a7c6b22d4ba7250373e2af349d2af3",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL009",
@@ -26825,7 +27129,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL009_CC0.zip",
       "pictured_zip_sha256": "f064283cd9024aa6a2a03fa0a03db19be7a2f7360437627078af0c1e39095d4f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL009__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f6938e367478c31f8dbc0fca2a5c9426beb76059f142050dbfd1e9ffac329757",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL010",
@@ -26858,7 +27172,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL010_CC0.zip",
       "pictured_zip_sha256": "3984f6ce8107060f7c324f06b7897a27073fe4425ab5d44c7c8536176d0c6c86",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL010__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "73930f8f2fdf6dae43d581aab4689cf41652b5b93ac5006913b5c2bfb47d24a2",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL011",
@@ -26891,7 +27215,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL011_CC0.zip",
       "pictured_zip_sha256": "e01f1b31203401bf4d16bdde1bc1c390c40f5b1a2bf4a017d000ed8808565ee6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL011__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "316e12a602e24abc0d603e9ffb9fda429c98db2a1d48734d50b80fc3e47e6713",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL012",
@@ -27056,7 +27390,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip",
       "pictured_zip_sha256": "b5f99094bb1fb1c39bd7bd02be8e52dd5754b1e23d2547c1b08f47efdceb0be1",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL016__repair",
+          "catalog": "catalog/quality-al007-016-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d1c5d03990e38b1cf20954689de552a6aa4b0a06554dd4eb6b50416d22ee2615",
+          "lod": null
+        }
+      ],
+      "known_issue": "AL008 variants color the glass shell, not liquid. Transmission/IOR/roughness retained. Scaled AL009 bottle is related geometry, not an independent new shape. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL017",
@@ -27122,7 +27466,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip",
       "pictured_zip_sha256": "74f86c0489a096661b66427a906908b8da41763d1f24c93b8c0b62f4e7798c30",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL018__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ca8225ec73bf17b20247a33e894e3c38a44c1dfa108d2a45211bf2dd59cdb075",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL019",
@@ -27188,7 +27542,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
       "pictured_zip_sha256": "a1869eaa3a4a85ea154c433fd3040165c9a12bb29f942d60eb3b6d86d59a4b98",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL020__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c713e8f74e437b0a8ddad0f4aa145fbe350193d1398c9feb86c296e979ecf4bd",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL021",
@@ -27221,7 +27585,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip",
       "pictured_zip_sha256": "fcf70005153b2be25be868fe73ce718ac41cdf8fa7d5eba76349c00c6585ccb9",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL021__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8c9c6aacd4f572c0da2b2263edffced3944467425bfceed7f070f3f89fcd5050",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL022",
@@ -27254,7 +27628,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip",
       "pictured_zip_sha256": "2fc55367890c4efc813d35a37b0af04aab2c5a6a4b68217a1faab4e0b70c7bc7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL022__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ab918d2a5e721e73d0a348ecb06e5e505d05ca2bd25bad3b54bbfb7caccb7134",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL023",
@@ -27287,7 +27671,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip",
       "pictured_zip_sha256": "8201cba91e39247619e1dcbefcd9a131b812686b3552a6645e94c9a1aa6b86da",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL023__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "36be91556e64b956d3f7fae85cff1eb9956e08b2789113eef5813b843a847a5a",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL024",
@@ -27320,7 +27714,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip",
       "pictured_zip_sha256": "12c904a8e363d4965c8547c36d584810da4afd3bff6bfb8d0c725c72630dd306",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "AL024__repair",
+          "catalog": "catalog/quality-al017-026-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4ff5b1ae10c9c6e9d9b6dec0220feca37f6488707c52c02d6ce028cf422dee40",
+          "lod": null
+        }
+      ],
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles, including24 in AL022. Ivory ceramic candidate rejected; blue accepted. Stylized feather remains. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "AL025",
@@ -27491,7 +27895,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Existing corrected normal-reference baselines retained. FW006 solid basket liner is intentional. AL027 grouped books remain over provisional budget. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw-normal-repair-v1/renders/FW002.png",
       "image_model_revision": "FW002__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
@@ -27501,6 +27905,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW002__repair",
+          "catalog": "catalog/quality-al027-fw009-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3f838a2dfa26dc023154f4afee0ad8a0df8c90d23f250da0ea88bfed6dfdba43",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip",
@@ -27540,7 +27951,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip",
       "pictured_zip_sha256": "f5a51f7b38cc2ddf23db3ceffebf63116205c164316c38908550766907db50b0",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FW003__repair",
+          "catalog": "catalog/quality-al027-fw009-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d9f1d0a05ed0cf8d0d21bd8cfd2060fe2869fd8c578649cb1fcececd58214881",
+          "lod": null
+        }
+      ],
+      "known_issue": "Existing corrected normal-reference baselines retained. FW006 solid basket liner is intentional. AL027 grouped books remain over provisional budget. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "FW004",
@@ -27662,7 +28083,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip",
       "pictured_zip_sha256": "82718e23402496c9f402787e990c08324e85777264e10a8a2d23473014373c4c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FW006__repair",
+          "catalog": "catalog/quality-al027-fw009-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9171358c1e23d03d319afcfaf55d0a4bc9f4decd94d5a829c1de58590543a6e4",
+          "lod": null
+        }
+      ],
+      "known_issue": "Existing corrected normal-reference baselines retained. FW006 solid basket liner is intentional. AL027 grouped books remain over provisional budget. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "FW007",
@@ -27734,7 +28165,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Existing corrected normal-reference baselines retained. FW006 solid basket liner is intentional. AL027 grouped books remain over provisional budget. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw-normal-repair-v1/renders/FW008.png",
       "image_model_revision": "FW008__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
@@ -27744,6 +28175,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW008__repair",
+          "catalog": "catalog/quality-al027-fw009-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "64394a0ded5c81a4631e6a5fdf53f3c00a4614d0917d6bdca7c09f9c19081a6c",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip",
@@ -27822,7 +28260,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw-normal-repair-v1/renders/FW010.png",
       "image_model_revision": "FW010__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
@@ -27832,6 +28270,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW010__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c12d47362fda1afb6fe300b4f2597216d2501d148796f9721076b5103241f879",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip",
@@ -27910,7 +28355,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw-normal-repair-v1/renders/FW012.png",
       "image_model_revision": "FW012__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
@@ -27920,6 +28365,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW012__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "818b5cc8d9dd3049b7ee43867267ec5a42ef112051fe8d07e27f1e6cdf94e5e9",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip",
@@ -27954,7 +28406,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW013.png",
       "image_model_revision": "FW013__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
@@ -27964,6 +28416,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW013__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b85a704deb7494d0a7ce24fb68dc7a8205b2c31de38f080f82c193b3cc783dfa",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip",
@@ -28042,7 +28501,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
       "image_model_revision": "FW015__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
@@ -28052,6 +28511,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW015__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "362cfe339d3fddaa09eedff61e0d690ffc4d8de4b4ef06ad5e655b6ead714a81",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip",
@@ -28086,7 +28552,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW016.png",
       "image_model_revision": "FW016__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
@@ -28096,6 +28562,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW016__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7d277a777c3c5189e1c035982325dddce98c80a924ab58497d2379b43dbb01c5",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip",
@@ -28175,7 +28648,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW018.png",
       "image_model_revision": "FW018__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
@@ -28185,6 +28658,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW018__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b8b4c85352491e5f50da618e24f4f62a039b28f975c48faf8ab69287abca3f46",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip",
@@ -28219,7 +28699,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "Exact-zero cleanup retains positive tiny triangles. Pots grouped in one record; opaque water unchanged. Coarse repetitive wood remains. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW019.png",
       "image_model_revision": "FW019__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
@@ -28229,6 +28709,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW019__repair",
+          "catalog": "catalog/quality-fw010-019-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4fdaf30ec46bcb6606f230686d725fe9ef5b10b343a558b9c2c20135579e32f0",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip",
@@ -28307,7 +28794,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "known_issue": "FW021 zero cleanup; FW022 remains over budget. IN007 color variant only; no cloth simulation. No general gameplay/physical-quality guarantee.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW021.png",
       "image_model_revision": "FW021__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
@@ -28317,6 +28804,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
           "qa_status": "public_download_matches_final_zip_guard",
           "status": "public_download_matches_final_zip_guard"
+        },
+        {
+          "id": "FW021__repair",
+          "catalog": "catalog/quality-fw020-in007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4f0b4e1700586ee7264ee2f3dd73757b2d92730702512c05fa92563ad219949c",
+          "lod": null
         }
       ],
       "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip",
@@ -28653,7 +29147,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN009_CC0.zip",
       "pictured_zip_sha256": "07738620b76a8fdf75ad0e014e1535cc4f5eec0e64397b5af5905cc998770097",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN009__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "47a093e101a04ce5bfd923cb0c74d2d6df8da4f3cc51845dd12f5dcbda14c172",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN010",
@@ -28686,7 +29190,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN010_CC0.zip",
       "pictured_zip_sha256": "bb3fa24652ac8acc642d23b82c839aec8685622e9271d827918f8ec276c0880e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN010__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2a856ffc006cb8b88303acd5d6ac8af3b1b3881050774a40c8171d6c7c13a7c4",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN011",
@@ -28719,7 +29233,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN011_CC0.zip",
       "pictured_zip_sha256": "6ae89f9e5b73972570f76e6c022e587feb5fd211c18b8376fbff280292d18e57",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN011__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "acd4a08923008d0ccc67bdf367a74b2056158309ab361d74b3b9f07fe0be19bd",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN012",
@@ -28752,7 +29276,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN012_CC0.zip",
       "pictured_zip_sha256": "f504c111490a81464b510e4ad6ad0385290943e4d39befa4b358833f9d126a9d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN012__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "15a20eab84328411d85ebfffcb3b44edd0f10ee43c58a47eb6c557965c172cb8",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN013",
@@ -28818,7 +29352,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN014_CC0.zip",
       "pictured_zip_sha256": "9b68eda7fdfab5e497f4c91fe316baed0cca188b5606ec6abaf33fb529fff43a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN014__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "164cbe4fc07f9c136a0f2b9485bb103206c3cbd447b06114f2d40d5a56f53a79",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN015",
@@ -28884,7 +29428,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN016_CC0.zip",
       "pictured_zip_sha256": "e3766bbcda1334330bc906ae6ff924123efe100856936dc7bddadd379847510e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN016__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e349105cf19ae144999db75f5a6f5c201bbc7bd52ef957c8a644ad9d32cc28c3",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN017",
@@ -28917,7 +29471,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip",
       "pictured_zip_sha256": "a6cb502bbad2c0f9ad67cd1aa9424c066712b899e8228c724dc9c22034e87786",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN017__repair",
+          "catalog": "catalog/quality-in008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9a32d3d0f127c1bd28125407d7505a40e80cf17f378f8c36cd5c9bbd0a1dc35a",
+          "lod": null
+        }
+      ],
+      "known_issue": "Zero-face cleanup and blue ceramic/rust wool variants. IN016 inner-wall/handle shading diagnosis remains unresolved; not a full geometry-quality approval. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN018",
@@ -28950,7 +29514,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN018_CC0.zip",
       "pictured_zip_sha256": "53aa6a5491f08f9fe969fac193b2c880652e16f039597f16e16cf185b883a988",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN018__repair",
+          "catalog": "catalog/quality-in018-oc010-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a620b5f60a820b9920fba825acbe60adfa93c9644d38f8ad85f97f5bcf20e001",
+          "lod": null
+        }
+      ],
+      "known_issue": "Boot pair is one record. Tablecloth and cloak are static shapes. OC modules are checked separately, not a complete building assembly. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN019",
@@ -28983,7 +29557,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN019_CC0.zip",
       "pictured_zip_sha256": "f1e81b37984f05d114ea37299e934ce9da44b70f941c762c6efa7bc06426ed5c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN019__repair",
+          "catalog": "catalog/quality-in018-oc010-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "da0b10c06a4da76d4c86a9c19d03f44cb20b891b6a9deb8a92d8ec90bffdce0f",
+          "lod": null
+        }
+      ],
+      "known_issue": "Boot pair is one record. Tablecloth and cloak are static shapes. OC modules are checked separately, not a complete building assembly. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN020",
@@ -29082,7 +29666,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN022_CC0.zip",
       "pictured_zip_sha256": "d86cb2e116ef0d22b92975639bf04027362c086b05489dc24e3912cd03a608c7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN022__repair",
+          "catalog": "catalog/quality-in018-oc010-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "72c4abde630f83ad3849aba9f34a39569f446db993796ef83fde699c7e27aedf",
+          "lod": null
+        }
+      ],
+      "known_issue": "Boot pair is one record. Tablecloth and cloak are static shapes. OC modules are checked separately, not a complete building assembly. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN023",
@@ -29115,7 +29709,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN023_CC0.zip",
       "pictured_zip_sha256": "23f56be65382fadfc355a288dc5dc2f2a2ac7dc8b9907fd276c466719766f144",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "IN023__repair",
+          "catalog": "catalog/quality-in018-oc010-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "085e60918a5fcb30c324cb87b19c8ee7e3287e164e0d75bdbda11681513b3ce7",
+          "lod": null
+        }
+      ],
+      "known_issue": "Boot pair is one record. Tablecloth and cloak are static shapes. OC modules are checked separately, not a complete building assembly. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "IN024",
@@ -29610,7 +30214,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip",
       "pictured_zip_sha256": "4e3f0b84d3125c48b0810218e11b25a0cd5b968c72617de1f04e01e73208e4ef",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA002__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7245aecda6acd29d784954cc019c0e2f829cd08e7d61988443d30feca617b529",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA003",
@@ -29643,7 +30257,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA003_CC0.zip",
       "pictured_zip_sha256": "8492d400b37bb2a73b297952a1b105fdd5d54332f7a16c26fa6c799e4f030f7e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA003__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "76392d591eac28aceb87f8636d3a67fae8b763e058170a066853002cbb4385da",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA004",
@@ -29676,7 +30300,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA004_CC0.zip",
       "pictured_zip_sha256": "66be85b6b1db5304b1b7d6eedcb3d6bcfbd241477a985c3af9576de9e541ccfa",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA004__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e3b293f21526f96b90e9aa60b2ead64584448fa33f69d8690151450656f60d8b",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA005",
@@ -29709,7 +30343,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA005_CC0.zip",
       "pictured_zip_sha256": "f60ca2c990ade8f123dacf5ebb9dbad58216d9d24abfc122d222fc1b47f929e7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA005__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "679d033b228f39e7d4faaa14128030040e9aa44f9779875f9c3e7f68b2951ee4",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA006",
@@ -29743,7 +30387,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA006_CC0.zip",
       "pictured_zip_sha256": "1a86947751c26e3f0b36d7a0176301fe525108f83b438888993252a4a9845e70",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA006__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "58db65ce72bc6da9216cbf901d0d64f04ae3283700ccab50f577bd378379ad2c",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA007",
@@ -29776,7 +30430,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA007_CC0.zip",
       "pictured_zip_sha256": "2b221ad0a8e2c6336305e11b3046d2fddb5341a6735fa642be14670c3b907a15",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA007__repair",
+          "catalog": "catalog/quality-pa002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b28cd581255278fdd4c16f3a1855d70d18385af91cc0204dc3e645778dec6227",
+          "lod": null
+        }
+      ],
+      "known_issue": "Only PA007 and PA009 from this batch are distributed here. PA006/008/010 old candidates are superseded by the wood correction below. PA007 surface remains opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA008",
@@ -29809,7 +30473,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA008_CC0.zip",
       "pictured_zip_sha256": "78b1901edcb5abb04182ece32e9e3af289d36135565acb0711be34f96156540f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA008__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "aa8c495b4b94fb1a0d1f5a9c6e7c76160b6c40dbcde5b9196996705868b5429c",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA009",
@@ -29842,7 +30516,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA009_CC0.zip",
       "pictured_zip_sha256": "0df2fd199939daea13a499c2909f4c97aa7840f2dc2724937f64223a86131dc5",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA009__repair",
+          "catalog": "catalog/quality-pa002-011-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c30910ecd91cd17fcef438aa670ef67fe3055abb7184ea9447a2f78882d521df",
+          "lod": null
+        }
+      ],
+      "known_issue": "Only PA007 and PA009 from this batch are distributed here. PA006/008/010 old candidates are superseded by the wood correction below. PA007 surface remains opaque. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA010",
@@ -29875,7 +30559,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA010_CC0.zip",
       "pictured_zip_sha256": "fe9ea69856164000c053f45e53043a4fafbd65b4bbf6b7389d424b8252174c9c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA010__repair",
+          "catalog": "catalog/quality-pa-wood-repair-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "47af803925927f71318e4aa81a65a5aa22baa2952a1887893d94258488b6fc71",
+          "lod": null
+        }
+      ],
+      "known_issue": "PA002/003/004/005/006/008/010: source BLEND procedural wood baked to1024px base-color/normal maps. Original UV0 retained; bake UV added. Replaces unpublished pale GLB candidates. Finite sampled bake, not pixel-identical procedural reproduction. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA011",
@@ -29942,7 +30636,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA012_CC0.zip",
       "pictured_zip_sha256": "b23dc8d611b7e35c7ee80b854126694c255a0a86221ccb3b4f99f70a04bc37ae",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA012__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6b4f4fa89e51c074b430f20d9a32b2ee149d766715864d14fbe02aa25c2c921f",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA013",
@@ -29975,7 +30679,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA013_CC0.zip",
       "pictured_zip_sha256": "934536ee18831f3496954e364bf8b3d13b49a183d610f8323cbee4860bd171a6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA013__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "33a2060307496316955915d0dbc7921d7b97a4a02544fde6fdf2ee92587996a2",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA014",
@@ -30008,7 +30722,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA014_CC0.zip",
       "pictured_zip_sha256": "989a4d5b6904741915bf387ce23024bd14ecf6eaab34296fe98b812e5519975c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA014__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "45782a6d12d2aa783b2d05b6913b266e27faee360241073ab04b9165f7be6e8a",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA015",
@@ -30041,7 +30765,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA015_CC0.zip",
       "pictured_zip_sha256": "1affe99e53830d28f47676638b328b8306ce9616e0f0d6069973affec5766d3d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA015__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b64b9b53f4a3db097ef224201353b2dc6077bd1bd4e54c82f3de9c870a2b6c92",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA016",
@@ -30074,7 +30808,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA016_CC0.zip",
       "pictured_zip_sha256": "122487c224a12f243be3f6fa8e9ac7681a34721ad3013ab6f8278d25f70601ae",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA016__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "877c68d9955c8f2ad42c8131bda0acba45cae0bfbbb4731e5e3be64bab207ab6",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA017",
@@ -30107,7 +30851,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA017_CC0.zip",
       "pictured_zip_sha256": "230df170182c737816f6992ccefee13890ed2b86aded9d90efc4f5a89186b566",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA017__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e36a5180a4a38ccf88ce0fca4e536ab12e263c791afba51bdcefc622bb85404d",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA018",
@@ -30140,7 +30894,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA018_CC0.zip",
       "pictured_zip_sha256": "33f74e1d49b38e2a490a365934023a799c1f621b307509abaaad64bb7ce23d3f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA018__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4babb46e735d4ff52da82f061ec5d133f83b54b849669fb23074573ff367cb55",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA019",
@@ -30173,7 +30937,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA019_CC0.zip",
       "pictured_zip_sha256": "37fd176e347373bd0fe7124ea938778a152304ed4177dc36568c1f9c5c55be0a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA019__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c80c91568d1eab7c5753b37d99caf43b8cc096ea5b544a7c91f17300d297ffd2",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA020",
@@ -30206,7 +30980,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA020_CC0.zip",
       "pictured_zip_sha256": "86b437d895679be7e061140b75be125af066f631162666ff718c877dd326af92",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA020__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3f0b6297160b643401d14afa8eba9eddfbceb860856d96d3891b8cfaba5e2601",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA021",
@@ -30239,7 +31023,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA021_CC0.zip",
       "pictured_zip_sha256": "d8a161f4c01e9d6cda8330f265daace826c1074701232cad9102c9f135307de0",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA021__repair",
+          "catalog": "catalog/quality-pa012-021-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8c8c65ec8fc4685dbc40f89f7f7cd88d38a962f842a4357fc5e3fb73765c2ec6",
+          "lod": null
+        }
+      ],
+      "known_issue": "Ten material/UV revisions, five also exact-zero cleanup. Original UV0 retained; bake atlas added. PA020 atlas-edge limitations remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA022",
@@ -30269,11 +31063,20 @@
       "uv_revision": null,
       "full_image": "previews/atelier-terrain24/renders/PA022.png",
       "image_manifest": "previews/atelier-terrain24/manifest.json",
-      "known_issue": "Dark lower shading undiagnosed; image completion is not quality approval.",
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee.",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA022_CC0.zip",
       "pictured_zip_sha256": "c54a1e650824922bdf405bdab9d4ae5e47677c208c74475dbd1c4147e05ba2bc",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA022__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "606facedb8fe22d4ec44084efa92cff1c5d52fb9477485724799bbbecee6367f",
+          "lod": null
+        }
+      ]
     },
     {
       "id": "PA023",
@@ -30306,7 +31109,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA023_CC0.zip",
       "pictured_zip_sha256": "ab91eb8d40662d391df883f4700f98f3180bf6e96c09cbf941379db9f03ef2d5",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA023__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6b20c8804cb30de7d21cbe8e130621538d2eb6c66f93c861d220eb10afc5f580",
+          "lod": null
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "PA024",
@@ -30339,7 +31152,17 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA024_CC0.zip",
       "pictured_zip_sha256": "f540033ab17f3bbc5d05b6f7474bc869a0370e3ce1d4add460a1fdfcfcec6e67",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "PA024__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "333410cc16838a546286eb7458b82902fcc953fb4cf4c7e5c469427a4ba9e283",
+          "lod": null
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR001",
@@ -30372,7 +31195,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR001_CC0.zip",
       "pictured_zip_sha256": "db6b3fb2f37e4b8125f091683b961f6ee13a438705e06245bd1522c43e88c28a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR001_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3ce73c9c91d87e068756b3abddf36805ede5819986aa70f83e0a4eb7a699787c",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR001_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9c46728354e780aad50897c5617f226725821935792a5e23e4dcadd0618f8089",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR002",
@@ -30405,7 +31245,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR002_CC0.zip",
       "pictured_zip_sha256": "02f4bb1f6f137cd7f31ad9ce13edb62d53b9bd7932f4d6b8402cc7df6b7ca1b6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR002_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8f07a0674327e8b2310f63e68c4c87ec7658f7238d6f892f0740e834367f2be8",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR002_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "de1149de5aeb1d24b6be69a2bcfe0b0f7bbde149bc9a30abe10276ff8c350774",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR003",
@@ -30438,7 +31295,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR003_CC0.zip",
       "pictured_zip_sha256": "692dac09853dcaf1edd8975e478296911dd5e459a0bb84d6944c7cbb738b9767",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR003_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f76852e5c9305aa9198560ad842cbab3341fd0caab5aad34bd6372eb52ca6437",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR003_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b466915b2426404845633d709b84f6b7e42cdcc16cad95a61b9352404a6abaf1",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR004",
@@ -30471,7 +31345,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR004_CC0.zip",
       "pictured_zip_sha256": "b2d6e774389a567e2b814380a8d27341e3c830dbdb7e5361f84fc9d133c5f5ce",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR004_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b8a2b79dc315a6e1318155b7700ff03009122fa6104af931f8e9d85ad93bc9c2",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR004_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "57c6e9236947b032229a9c0d564d252855389d32d7ea9aebb5ac86ea4c6ffc10",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR005",
@@ -30504,7 +31395,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR005_CC0.zip",
       "pictured_zip_sha256": "d8e594d3449c8d25e1ed2c310ea91f9d95224d2a37181b7e6c1719d3c30d4c91",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR005_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7e63f24045e9e6744697e6d309ac9bc05e750457835f16fac0a1f7c983843000",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR005_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "12711ed93b9872670b1b62019fac1242015709ea75390df07d6ba1c99fd0d68c",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR006",
@@ -30537,7 +31445,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR006_CC0.zip",
       "pictured_zip_sha256": "698d55209a4ed3bfbc6f3a949981f0413fb0ac9ab7fdba7d9a830d0ef3a2f84b",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR006_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "86c87b9716adcccaa9caf35da1a863596fdbee4e6687624f4206a3c4e9473218",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR006_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "72d71de25b254882e1662a579292b7ab29f42b4f4cd76329038624b3244daedd",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR007",
@@ -30570,7 +31495,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR007_CC0.zip",
       "pictured_zip_sha256": "77ad8c424b2b5728eea4f787f1bf57883a955e52e634c32f946eedae75c54e62",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR007_HQ__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9bfa6478de8b2b58c2700e5285e092b875c944282295b1684aef42320d8ce9b5",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR007_LITE__repair",
+          "catalog": "catalog/quality-pa022-tr007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6fe68259502514022730bb59b7b96e4b3bc59e8495ed86adc3df60c0b9c473f0",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "17 contained models across10 distribution records: PA022–024 plus TR001–007 HQ/LITE. HQ/LITE not counted as independent base records. Original terrain colors retained; baked normal atlas added. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR008",
@@ -30603,7 +31545,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR008_CC0.zip",
       "pictured_zip_sha256": "9b4cfab62014f6c91d85dc5f94c1a6dd0c5273c379f1c9d416113ebb56bbdd7b",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR008_HQ__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "53ccc6084969534479a33c004516ea334f3ed892af24eed2b8d28c517f5db1d6",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR008_LITE__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1ab8a265ea61b7e9917758a10acff5c8c33ef9c9996cb44a3f4e6d66dd294386",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR008/011/014/017 HQ/LITE adopted in this batch. Other accepted corrections are listed in the v2 batch. TR013 remains held due to dark stump seam. Finite normal bake is not exact source shading. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR009",
@@ -30636,7 +31595,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR009_CC0.zip",
       "pictured_zip_sha256": "676b7eccb5eb62b27ebee569bef52474ea38defe4ce12f912a46bc8e078df77d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR009_HQ__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b9960f7ff4f95332a85f72ba08aa721eb4ee5ebcf3ec8362023eb022893850a4",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR009_LITE__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7c29746673edabc133e2fc5b67a4f70e692d2af9d4e98cc8c24bd4d9ec819de6",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR009/010/012/015/016 HQ/LITE v2: normal atlas consistently uses UV2 with UV0-copy padding where required. Strict validator unchanged; superseded held v1 candidates excluded. TR013 still held. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR010",
@@ -30669,7 +31645,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR010_CC0.zip",
       "pictured_zip_sha256": "7a95be1fdb0c05343961f089353c0a9d41a47e46cec210704e327ca570dbb482",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR010_HQ__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7e05aacd80d89f8c1989b3c76a5f6b21dc88da3ac68711e0f9c1679ff3713a00",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR010_LITE__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2c99b7fc4a7f41e38ed094ae9285d55f51f5700ed65501cc5914139164a36de9",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR009/010/012/015/016 HQ/LITE v2: normal atlas consistently uses UV2 with UV0-copy padding where required. Strict validator unchanged; superseded held v1 candidates excluded. TR013 still held. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR011",
@@ -30702,7 +31695,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR011_CC0.zip",
       "pictured_zip_sha256": "684e047c4b31ca17d20e2354175f30d2ca5e815a93b4f1386c34b1a5c93a9629",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR011_HQ__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "90b3eaf5d5a14c0ebf7069e79931d93f8280ddf4811cd52e795691b721535951",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR011_LITE__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "cd3a4c85928ced214366e2133f43336b1a4a835ac7c24584945f9c93f69f24e6",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR008/011/014/017 HQ/LITE adopted in this batch. Other accepted corrections are listed in the v2 batch. TR013 remains held due to dark stump seam. Finite normal bake is not exact source shading. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR012",
@@ -30735,7 +31745,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR012_CC0.zip",
       "pictured_zip_sha256": "8c21448ce5bf8708e0c2c0b8de5e31439de7eaaecd8774754e92270c3c3c9f33",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR012_HQ__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "459455c17d914d3565509e540af0cdf59bc36882e7472f31fbbe57fe631fc768",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR012_LITE__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "05b5e30894a703103489012d520750ac8e015998a0618bd3a96d324aa7659363",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR009/010/012/015/016 HQ/LITE v2: normal atlas consistently uses UV2 with UV0-copy padding where required. Strict validator unchanged; superseded held v1 candidates excluded. TR013 still held. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR013",
@@ -30801,7 +31828,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR014_CC0.zip",
       "pictured_zip_sha256": "6684b3687540b8f6d45f6edcb49e52d836483e75c73b6708e3b0c53663d0d310",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR014_HQ__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "5a3ce5a2a188d839f037e9cf4043c8c6f5f6eb992a9621819d51273baab08098",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR014_LITE__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e6a1d8985703b3f023d1d71e90997e8cd46c0e0b34d1948fcd9cdac6aad28504",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR008/011/014/017 HQ/LITE adopted in this batch. Other accepted corrections are listed in the v2 batch. TR013 remains held due to dark stump seam. Finite normal bake is not exact source shading. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR015",
@@ -30834,7 +31878,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR015_CC0.zip",
       "pictured_zip_sha256": "8283bcb98e2b27e92189dca3f08aacddbfe38bcb80169930a936551fae9e2598",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR015_HQ__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "13c0d7ecb089be30f4bbb75e2c7375590425c6a487486b91bf2fffcf05b48fc0",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR015_LITE__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c4545ff6003c682a48ff64b95997565998e338741675f9a870ceb89275e590ba",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR009/010/012/015/016 HQ/LITE v2: normal atlas consistently uses UV2 with UV0-copy padding where required. Strict validator unchanged; superseded held v1 candidates excluded. TR013 still held. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR016",
@@ -30867,7 +31928,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR016_CC0.zip",
       "pictured_zip_sha256": "c6b98fe8417b533581cea41b0d4848d785cf9e6f5f7e471a42596f9d20521ef1",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR016_HQ__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a228a4ed3fa83af1ba7b475dfb67e78f2fb939c8ee91bea4992b118f3e3991ac",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR016_LITE__repair",
+          "catalog": "catalog/quality-tr-held-repair-v2.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7d9d4d28dc059d16cf84fdec63ebeb584ea497e0a9da48e565cb9c232a54d615",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR009/010/012/015/016 HQ/LITE v2: normal atlas consistently uses UV2 with UV0-copy padding where required. Strict validator unchanged; superseded held v1 candidates excluded. TR013 still held. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR017",
@@ -30900,7 +31978,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR017_CC0.zip",
       "pictured_zip_sha256": "26611d7a4c2ac688d0720d08e665ffb4b936a55b11d20b1641698b531952b7b1",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR017_HQ__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d2a0e7916570f6333a3928422d17096ced96f0807813b3a64fcd0c973c4892b7",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR017_LITE__repair",
+          "catalog": "catalog/quality-tr008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "0c1c2fdf5e087d38d0cc134ef1f8b09b27e89d4bb517f015ed1efd988d541662",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR008/011/014/017 HQ/LITE adopted in this batch. Other accepted corrections are listed in the v2 batch. TR013 remains held due to dark stump seam. Finite normal bake is not exact source shading. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR018",
@@ -30933,7 +32028,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR018_CC0.zip",
       "pictured_zip_sha256": "5d1d0ae62389ec0662942df6b2b2df1cb9b7002a2735f11307cf2e9b7a828262",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR018_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3dfa5e19ee73ac4e9678fd42583de16ed029be052f11868386921bc560321c62",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR018_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "621a444b140b66a7653272d05c33e707dbbe42a95b2464f40fedd424ca0c29bd",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR019",
@@ -30966,7 +32078,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR019_CC0.zip",
       "pictured_zip_sha256": "39d316dfacfe6f43ccde08b82bcbef89d4419c41cf7db36ce7e43aacea9c3dcc",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR019_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3adedb18677ca62921565547b78069b852ae15b4225306358b091c56cf2a92db",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR019_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f442674d3d331bbef4983de86cc2cd606a1be967b2317d0ef9a1b8961b95fc88",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR020",
@@ -30999,7 +32128,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR020_CC0.zip",
       "pictured_zip_sha256": "6507b2c027deec0c2d8c48dac094737685b273d607b187d17fff557d925ac144",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR020_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ea2e8c7febc7a93c9b3c8ff8758646884186f38ea2c3ac55178e5a4e52960a9e",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR020_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a8f78d5fd6d2904cd7c541dc1c86a7bb7099298175b91abbd976960c598061b7",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR021",
@@ -31032,7 +32178,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR021_CC0.zip",
       "pictured_zip_sha256": "bf5d65d4d3f6fd99bc9f92a209d7ba5a3580504961084e1e9a48d00b9d218094",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR021_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "cabf25da01d3137edf489ef6f6a738f2b5c0ab296bcc502d8c3651f959c9a60b",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR021_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "5288bbf1c6d2fbfb6b1150efbaf3bacd4a76c20e0290081065987f24cd4d3cce",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR022",
@@ -31065,7 +32228,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR022_CC0.zip",
       "pictured_zip_sha256": "c0b34dcbc99ee9edc722aabbe8b6dd57cb683711da44224591594f52712ed360",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR022_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e1e69e7fce9279abfccde4aae49b56ed98fa3f0308e2bfb8aab263d6e8620628",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR022_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "37120aac875939e992821dfa12b58fa42f55036b19adee14aefd97c095a50427",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR023",
@@ -31098,7 +32278,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR023_CC0.zip",
       "pictured_zip_sha256": "103720154717f9b25bbeec56ddaa3b067ea1a6d50db118ebc8fa2947a9b5568b",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR023_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "5fec09f4e0c2670a8cb192cd02d63871f97564ad6c16a8f1ffe8421b64ee7b40",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR023_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b89c67905d00021fc3db5dd77258cc4f1441319bdce4afac65f26fce3050aceb",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR024",
@@ -31131,7 +32328,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR024_CC0.zip",
       "pictured_zip_sha256": "c358f7f09e0808bed7789208cee3c5f6b23b6c00808758aff4ff5e75de509378",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR024_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1162230c4f9fd05de72ddff77eb99955b8020c9dd365c307e18065818d632764",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR024_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e37eaf8e6e7683735b769b798f3af908ae68c698fe722933f110bd618aa26a43",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR025",
@@ -31164,7 +32378,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR025_CC0.zip",
       "pictured_zip_sha256": "28de0eb77d97ae82cd0295d92eef43ae87aca6c298291573b511efbc1bba2253",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR025_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "898b7564a520de3b499dc3af2a41dbcdd4f27f5ad4837d7cb1f9f27e328da456",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR025_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "34e1381febf5eddae343e74e3a996c78caeb5de1f0e2573cfec6b9ddd7096a2c",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR026",
@@ -31197,7 +32428,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR026_CC0.zip",
       "pictured_zip_sha256": "01799f14bdc8ae7604da2d047d9ae61f8c750966091377940fb63d5b84b2c02f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR026_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "bed033cfc07c6bb0c1896c3a2faa15b0d7a418a7745b11bb58ce38180dc0b743",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR026_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a5390e2216157996a88d47e0d6cf8481c9c0c41ecfa4d3f6a4c3df582d33f6af",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR027",
@@ -31230,7 +32478,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR027_CC0.zip",
       "pictured_zip_sha256": "910aa3b8a5a97f708f8724f749946e22029734f6ae30231566512107cbd9b6e1",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR027_HQ__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "0dba992fe9338e86efa9ed31af81bcac0cd6a6fdc0d4c0f1ea3ff83e11177117",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR027_LITE__repair",
+          "catalog": "catalog/quality-tr018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a26b6ef2e533382b170c3841528db8ecbe717a194cf879921bf2d31974acfb6e",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR018–027 HQ/LITE: normal restoration and exact-zero cleanup; retained original UV layers plus atlas/padding. HQ/LITE remain parts of existing records. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR028",
@@ -31263,7 +32528,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR028_CC0.zip",
       "pictured_zip_sha256": "9eca0856a514bddb0a02986b2afb53c5266e0e5ca953cb9a2e9cdf71527a0a5f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR028_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3019bf768eb1c98f19fc14d30ab3e8491dff6febe59a251068a89cbda404b743",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR028_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c380a1635c6c72837f76fab824dcb30ff00375d1af6c613bf85b6f03d95c88db",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR029",
@@ -31296,7 +32578,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR029_CC0.zip",
       "pictured_zip_sha256": "140999a784ba814e4406c4f8c6ef32356f705147dab9d1168ffc394e1c716fb2",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR029_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "24cf6ff51d4f5690e67b274f69d960d2a3ead884608f8b78c7486cdb65796be5",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR029_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "eee9f229193d953bf1a637d1e2c2339dbdc476035e5c4763a6893e5d6ac31631",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR030",
@@ -31329,7 +32628,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR030_CC0.zip",
       "pictured_zip_sha256": "1da048e6f75b9e6926f20dc4bc54847e26beac34db2c0475835303ea4972f753",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR030_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "71e20ee90203531a4d4c27557f2e69d95bd4846bcf37e43172336d2f585b8434",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR030_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "58a37d60a65014e091e1853b03e02d5a3367cb0211baeff1c2feaf212a389db0",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR031",
@@ -31362,7 +32678,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR031_CC0.zip",
       "pictured_zip_sha256": "8bc324c29ad07536197d7d22cb85f9e2980eca90de8f65c55aafd215c7a5233f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR031_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2e8b9ce456548b52fcbda3b6e018ca522f1ea84cba302a34ebf81a3f891b1b47",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR031_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e5429dfb4ad59f901a0c35b368cbe0cb0e3f6e5c662daa316d8151c9986ab38a",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR032",
@@ -31395,7 +32728,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR032_CC0.zip",
       "pictured_zip_sha256": "8e47fdfd105d60108b7058a05f16ce9e652403092d9d252d5820692983b4cb22",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR032_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c2a4d8167b88cc54a1a9cc54d39d7f97e7353a0c5123bfd4d1931500a08efa69",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR032_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "55bafc9d6b83d075996203f57f845728fd78671a022bad34f20efcca15bbde2d",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR033",
@@ -31428,7 +32778,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR033_CC0.zip",
       "pictured_zip_sha256": "720754a45f8439f3da090038922ab1b7f788cbb743c88823406a7574d3c4af18",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR033_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9dcca5b187c3cb6ad2f62c0bc0b65c4f31e10609976038873f8eb3a8b00d75b8",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR033_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8f85b853a0c4e9c07acef3ea6549ce095a73485cedc0ef792adfb8a932ce724c",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR034",
@@ -31461,7 +32828,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR034_CC0.zip",
       "pictured_zip_sha256": "0cf2ff654056ac1f30bf50b6fbd66ecc67b914da0e9b3951641df0a0b2a36c78",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR034_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8acf0881205e1319131d13ff2c317d3c50fd77d70439e69b258ada9fc4d5bd31",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR034_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c9de22ffe4747a91bd2eba25d9bc522d0babf1ad355caaebcb494004e09533cc",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR035",
@@ -31494,7 +32878,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR035_CC0.zip",
       "pictured_zip_sha256": "95ef0284d69c2cd017d731498a2c83ec8a78f98d077aaa489dc2020092bd119c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR035_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d785c0846e7c1d60b1b79442a11be225b1293b119749af8dc6a27ea086748d38",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR035_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a072b036f117f8848419027b7d1e513979cb760186edd917ef18c430dcce2e90",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR036",
@@ -31527,7 +32928,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR036_CC0.zip",
       "pictured_zip_sha256": "2db5eb3f7397242dbf25f40cba80c557ea7b0ede7a42d5d2177561df769e7a4a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR036_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "852915adeaa509438e6f5b7cb9ee1b39952207f3486f49fb9e974020572c7fff",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR036_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "0557edcc1d6687fc1aad9426088bd35a27f016ef07cdb9bc052ed3a4439eedf2",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR037",
@@ -31560,7 +32978,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR037_CC0.zip",
       "pictured_zip_sha256": "91688ab95171c3ee9cb439ebc802a707bd8a1110ab7b421e6bdd54e1cbbee9d1",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR037_HQ__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9b076b4744a56d5188fd6115b624dc88e738896b564524d958d353e50f7d5c1b",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR037_LITE__repair",
+          "catalog": "catalog/quality-tr028-037-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9758c7018ef683c9435035e61683c0339388c76dd1c448ca102b1fa62b69c1c3",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR028–037 HQ/LITE: partial material repair, restored soil bump; fine rock grain attenuated. No new shape; no exact procedural fidelity claim. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR038",
@@ -31593,7 +33028,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR038_CC0.zip",
       "pictured_zip_sha256": "506d86e6b52168fa2a02b3e81d0d7514a4b57969bcdebea06e3aac1975640807",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR038_HQ__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "30448628c0b8556e020bd153f9d59671b11cae1fc4ef2cea36eb902b5186f97f",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR038_LITE__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "863ef186f9aff2068961d9f8bc03db4fe77a8a60298b9d319466cf446f5d1558",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR038–040 HQ/LITE adopted. TR041–047 HQ/LITE14 candidates held for earth/water coplanarity and LITE black wedges; not distributed. Trial cleanup counts are not claimed as completed repairs. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR039",
@@ -31626,7 +33078,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR039_CC0.zip",
       "pictured_zip_sha256": "de626136dd2503169fcd6a5b309459a00a325285641769a056fbce155605d604",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR039_HQ__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9ce4230e3a47c8eab1556eb7d6ceb00c7debde90dc7c364f90fb9073df6305c7",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR039_LITE__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f0ed6a489ba600529b85ec740db2cff7938fa8b51ccf75e50eee84c89dffb6a9",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR038–040 HQ/LITE adopted. TR041–047 HQ/LITE14 candidates held for earth/water coplanarity and LITE black wedges; not distributed. Trial cleanup counts are not claimed as completed repairs. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR040",
@@ -31659,7 +33128,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR040_CC0.zip",
       "pictured_zip_sha256": "30d8bdde66544be9e9c0729fe80ecfd6417fb8e23935d54b5aa5e3a4bc79166e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR040_HQ__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "cd9e2972311b4c4169b46d6bb4003553d122749ebcc2d41c7b16fe3ba5abf677",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR040_LITE__repair",
+          "catalog": "catalog/quality-tr038-047-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c79d707a0e12112dbf0f6f338a5acbe680195b039fbc07f09a3747d681270a7b",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "Only TR038–040 HQ/LITE adopted. TR041–047 HQ/LITE14 candidates held for earth/water coplanarity and LITE black wedges; not distributed. Trial cleanup counts are not claimed as completed repairs. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR041",
@@ -46442,6 +47928,649 @@
       "pictured_zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "WT003__autumn_ochre",
+      "kind": "variant",
+      "base_id": "WT003",
+      "name_en": "Deciduous copse",
+      "name_ja": "Deciduous copse",
+      "purpose_en": "Autumn ochre leaf UV color texture on repaired WT003 baseline; geometry/UV retained against repaired baseline. Not a new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-wm012-wt004-v1/WT003__autumn_ochre_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT003__autumn_ochre_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-wm012-wt004-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-wm012-wt004-v1/WT003__autumn_ochre_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/WT003.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT003_CC0.zip",
+      "pictured_zip_sha256": "797af9c6c09dd5cd671e1550cff812f909b9bef130660726ab1b762150146f42",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AP001__blue_cedar",
+      "kind": "variant",
+      "base_id": "AP001",
+      "name_en": "Weather lift beehive",
+      "name_ja": "Weather lift beehive",
+      "purpose_en": "Blue cedar recolor of existing UV woodgrain on repaired AP001 baseline, other material channels and shape retained. Not a new base.",
+      "record_kind": "model",
+      "image": "previews/quality-wt005-ap006-v1/AP001__blue_cedar_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP001__blue_cedar_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-wt005-ap006-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-wt005-ap006-v1/AP001__blue_cedar_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP001.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP001_CC0.zip",
+      "pictured_zip_sha256": "3f691ef1cf18bd892ec84043dfaa1331fbcb0c82b63a4f75ad02fe0e04f432ca",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AP010__cobalt_glaze",
+      "kind": "variant",
+      "base_id": "AP010",
+      "name_en": "Honey dipper bowl",
+      "name_ja": "Honey dipper bowl",
+      "purpose_en": "Recolor existing bowl glaze UV texture on repaired AP010 baseline. Honey/wood, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-ap007-016-v1/AP010__cobalt_glaze_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP010__cobalt_glaze_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-ap007-016-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ap007-016-v1/AP010__cobalt_glaze_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP010.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
+      "pictured_zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AP010__rust_red_glaze",
+      "kind": "variant",
+      "base_id": "AP010",
+      "name_en": "Honey dipper bowl",
+      "name_ja": "Honey dipper bowl",
+      "purpose_en": "Recolor existing bowl glaze UV texture on repaired AP010 baseline. Honey/wood, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-ap007-016-v1/AP010__rust_red_glaze_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP010__rust_red_glaze_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-ap007-016-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ap007-016-v1/AP010__rust_red_glaze_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/mill-terrain-apiary24/renders/AP010.png",
+      "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP010_CC0.zip",
+      "pictured_zip_sha256": "fa50ea8cecb9bb13bc3537167897864caa9b1c4097e0bf9a64cc51090907b669",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AP019__blue_ceramic",
+      "kind": "variant",
+      "base_id": "AP019",
+      "name_en": "Bee water tray",
+      "name_ja": "Bee water tray",
+      "purpose_en": "Recolor existing ceramic UV texture on repaired AP019 baseline. Water/stone, transmission, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-ap017-al006-v1/AP019__blue_ceramic_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP019__blue_ceramic_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-ap017-al006-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ap017-al006-v1/AP019__blue_ceramic_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP019.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip",
+      "pictured_zip_sha256": "b7f5434d37fc26679ece7199c1861e4128cc0e3e28050ca7b5fd3de92afcb5ed",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AL008__amber_glass",
+      "kind": "variant",
+      "base_id": "AL008",
+      "name_en": "Green reagent bottle",
+      "name_ja": "Green reagent bottle",
+      "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-al007-016-v1/AL008__amber_glass_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL008__amber_glass_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-al007-016-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-al007-016-v1/AL008__amber_glass_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL008.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
+      "pictured_zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AL008__cyan_glass",
+      "kind": "variant",
+      "base_id": "AL008",
+      "name_en": "Green reagent bottle",
+      "name_ja": "Green reagent bottle",
+      "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-al007-016-v1/AL008__cyan_glass_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL008__cyan_glass_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-al007-016-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-al007-016-v1/AL008__cyan_glass_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL008.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
+      "pictured_zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AL008__emerald_glass",
+      "kind": "variant",
+      "base_id": "AL008",
+      "name_en": "Green reagent bottle",
+      "name_ja": "Green reagent bottle",
+      "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-al007-016-v1/AL008__emerald_glass_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL008__emerald_glass_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-al007-016-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-al007-016-v1/AL008__emerald_glass_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL008.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
+      "pictured_zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "AL020__blue_ceramic",
+      "kind": "variant",
+      "base_id": "AL020",
+      "name_en": "Crucibles",
+      "name_ja": "Crucibles",
+      "purpose_en": "Ceramic UV color on repaired AL020 baseline; roughness and other channels retained. No heat/material safety claim. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-al017-026-v1/AL020__blue_ceramic_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL020__blue_ceramic_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-al017-026-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-al017-026-v1/AL020__blue_ceramic_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL020.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
+      "pictured_zip_sha256": "a1869eaa3a4a85ea154c433fd3040165c9a12bb29f942d60eb3b6d86d59a4b98",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "FW015__blue_linen",
+      "kind": "variant",
+      "base_id": "FW015",
+      "name_en": "Canvas gathering satchel",
+      "name_ja": "Canvas gathering satchel",
+      "purpose_en": "Blue linen UV color; other materials and roughness preserved. Baseline defined by final validation. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-fw010-019-v1/FW015__blue_linen_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW015__blue_linen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-fw010-019-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-fw010-019-v1/FW015__blue_linen_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
+      "image_model_revision": "FW015__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
+      "revision_history": [],
+      "legacy_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
+      "pictured_zip_sha256": "37484503ff3b6cfcce7c5a56ab02dd598a1c9d651201fe4e3e9f74dee33094fb",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "IN007__blue_wool",
+      "kind": "variant",
+      "base_id": "IN007",
+      "name_en": "Woven runner",
+      "name_ja": "Woven runner",
+      "purpose_en": "Blue wool UV color; trim and roughness preserved. No new base model.",
+      "record_kind": "model",
+      "image": "previews/quality-fw020-in007-v1/IN007__blue_wool_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/IN007__blue_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-fw020-in007-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-fw020-in007-v1/IN007__blue_wool_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN007.png",
+      "image_manifest": "previews/forest-inn15/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN007_CC0.zip",
+      "pictured_zip_sha256": "682f6812c30d068c73272998d3ff8a9e04f2225a293c4a312e4fb0f2de6c3757",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "IN013__rust_wool",
+      "kind": "variant",
+      "base_id": "IN013",
+      "name_en": "Rolled blanket",
+      "name_ja": "Rolled blanket",
+      "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "record_kind": "model",
+      "image": "previews/quality-in008-017-v1/IN013__rust_wool_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN013__rust_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-in008-017-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-in008-017-v1/IN013__rust_wool_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/forest-inn15/renders/IN013.png",
+      "image_manifest": "previews/forest-inn15/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN013_CC0.zip",
+      "pictured_zip_sha256": "6f1828cb07355a8378ee494963c7718d39af6dbf024a5d521b9e227b47491264",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "IN017__blue_ceramic",
+      "kind": "variant",
+      "base_id": "IN017",
+      "name_en": "Ceramic pitcher",
+      "name_ja": "Ceramic pitcher",
+      "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "record_kind": "model",
+      "image": "previews/quality-in008-017-v1/IN017__blue_ceramic_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN017__blue_ceramic_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-in008-017-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-in008-017-v1/IN017__blue_ceramic_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN017.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip",
+      "pictured_zip_sha256": "a6cb502bbad2c0f9ad67cd1aa9424c066712b899e8228c724dc9c22034e87786",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "IN020__blue_linen",
+      "kind": "variant",
+      "base_id": "IN020",
+      "name_en": "Table linen",
+      "name_ja": "Table linen",
+      "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "record_kind": "model",
+      "image": "previews/quality-in018-oc010-v1/IN020__blue_linen_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN020__blue_linen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-in018-oc010-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN020__blue_linen_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN020.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN020_CC0.zip",
+      "pictured_zip_sha256": "699c1a33dcbaba55d73cc95376fdbe71a3029ec5208e28fd5b8facb65c3064cc",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "IN024__rust_wool",
+      "kind": "variant",
+      "base_id": "IN024",
+      "name_en": "Hanging cloak",
+      "name_ja": "Hanging cloak",
+      "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "record_kind": "model",
+      "image": "previews/quality-in018-oc010-v1/IN024__rust_wool_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN024__rust_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-in018-oc010-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN024__rust_wool_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN024.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN024_CC0.zip",
+      "pictured_zip_sha256": "ab8248752f306e62cf3abd1af3e8c8fe81436a476bdb630f0de578bbdbff97a1",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
+    },
+    {
+      "id": "OC015__amber_glass",
+      "kind": "variant",
+      "base_id": "OC015",
+      "name_en": "Gothic wall sector (entrance / south)",
+      "name_ja": "Gothic wall sector (entrance / south)",
+      "purpose_en": "Architectural glazing amber color on unchanged geometry/UV; transmission/IOR/roughness and structural materials preserved. No emission, liquid edit or optical portability guarantee.",
+      "record_kind": "model",
+      "image": "previews/quality-oc011-pa001-v1/OC015__amber_glass_thumbnail.png",
+      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-oc011-pa001-v1/OC015__amber_glass_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/quality-oc011-pa001-v1.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-oc011-pa001-v1/OC015__amber_glass_overview_comparison.png",
+        "layout": "source/final panels as labelled in batch catalogue"
+      },
+      "geometry_revision": null,
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC015.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC015_CC0.zip",
+      "pictured_zip_sha256": "438f11a7d3ef97f714797166cfbd18196d674e21b4e2c7235e8d9ea44787805a",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": []
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

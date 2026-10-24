@@ -1,0 +1,582 @@
+[
+  {
+    "id": "TR018_HQ__repair",
+    "base_record": "TR018",
+    "lod": "HQ",
+    "zip_sha256": "3dfa5e19ee73ac4e9678fd42583de16ed029be052f11868386921bc560321c62",
+    "model_members": {
+      "TR018_HQ__repair.blend": "565d1fbf0b08f6afab6dd944a20373840a4cce7af3bbe558d1ef67eda9feef94",
+      "TR018_HQ__repair.glb": "ef6c91127c23bd0c6bca646d193ae8007ac4a0aa3a9a437c62d1c1d17ebcaa72"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR018_HQ__repair_thumbnail.png",
+        "sha256": "e9262d192e5107ebe0487c2c4a2f8c284dec484b43eccf18b02f5e515363ea0b",
+        "source_sha256": "53ef169a192e56c7b0169572e53f84df7a7c2b0f07a37d00236e07e350b2f901"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR018_HQ__repair_full.png",
+        "sha256": "f032e6c3fd4711b7e01f0eb646a8ccdecfee3b702413497c478e05a5fe8eeb7d",
+        "source_sha256": "b302bb22e43908fb20186e82b8340784de76ecdfeea99274001fa2e3f6c270c9"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR018_HQ__repair_comparison.png",
+        "sha256": "7b5734abea3eff226a905580dc00b53d911abe71348c9a9fe1820ab57b1e8d08",
+        "source_sha256": "f8dbc09eeb770a155bb75df292b15b4bb6b6bf5286d840929c325546b18b1263"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR018_LITE__repair",
+    "base_record": "TR018",
+    "lod": "LITE",
+    "zip_sha256": "621a444b140b66a7653272d05c33e707dbbe42a95b2464f40fedd424ca0c29bd",
+    "model_members": {
+      "TR018_LITE__repair.glb": "ea83b0cf153c56c04eb59a451a5b2a0404630cccad29d7d77d9fa34446cd5f3b",
+      "TR018_LITE__repair.blend": "8593d1f24191c2285c25797bdf121033dd01e22fc401233b43ed389a32e2b843"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR018_LITE__repair_thumbnail.png",
+        "sha256": "1f4c53bd6e52ce4fce2eeee34daf75f1834f07e5149aa4dceb88f795f4f47a49",
+        "source_sha256": "471b4f7a8412a19685c11bfd0ee035b886690aca28aef8701ad8cce27a09bd41"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR018_LITE__repair_full.png",
+        "sha256": "df62c213f0f870870ab81dc8ad3b3bee9a9d5f4a2c18e4d269ba7d85e0b209bc",
+        "source_sha256": "f162701f40a7a0dfeb69c602269c9d41986a77f524028c9738f4f5baa021ca4e"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR018_LITE__repair_comparison.png",
+        "sha256": "edf63fefbf04084fa459641b2393f731bc1396699e32f0ef249f9f42e484d7b0",
+        "source_sha256": "175673bf76982133ab1b9107b0e84873b2696aee4be067cc96afbed9625cc348"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR019_HQ__repair",
+    "base_record": "TR019",
+    "lod": "HQ",
+    "zip_sha256": "3adedb18677ca62921565547b78069b852ae15b4225306358b091c56cf2a92db",
+    "model_members": {
+      "TR019_HQ__repair.blend": "c41990cf4252d96fd26e1c86522764c5b683487bf74ee91cdc3efecac0eb71fa",
+      "TR019_HQ__repair.glb": "92e25824108a66528dbe306a9104d24d342cbab5009a5a0992ed4746b2a06f66"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR019_HQ__repair_thumbnail.png",
+        "sha256": "50d6c6b6c70ca3f62f84ba1c1e1349923236fabdfd695c3530c635077b86b200",
+        "source_sha256": "2f0cdc8e384f023497d8efd85f39b29826396646ab352736777f4b2c9b03edbf"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR019_HQ__repair_full.png",
+        "sha256": "baff0e3b3f4811d03d4259590f70ec961fab18a31558124d3d5cc31b6065581a",
+        "source_sha256": "eb645e8a0fdfa8be042b4e8343b7d3590d675f9419532c609756a9f1c68db36e"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR019_HQ__repair_comparison.png",
+        "sha256": "e1d8ebfecee9a2f969791735f747bd26ba5e5454c780b095924bfa81930fc324",
+        "source_sha256": "a8df5d53dab8447b3b3394794522218f33eb51880ec18dcff89f06fa42dcd4a2"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR019_LITE__repair",
+    "base_record": "TR019",
+    "lod": "LITE",
+    "zip_sha256": "f442674d3d331bbef4983de86cc2cd606a1be967b2317d0ef9a1b8961b95fc88",
+    "model_members": {
+      "TR019_LITE__repair.glb": "80779236bc814e83a80fe2e3ff54cd20b1c40c29b262922daac726edda2187a2",
+      "TR019_LITE__repair.blend": "271118c70b07c56ff17c4c4417e1d9edf9be53b9f4bac5265f9e312116c527a3"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR019_LITE__repair_thumbnail.png",
+        "sha256": "5bb0e0124d24f3810f9ae1153334dc304e9b820efb2ffff85e58ae757d92d54a",
+        "source_sha256": "246c780921fcf22a3285b11e3bd4693d1cb921ef7dc5776dcf28d53de7445faf"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR019_LITE__repair_full.png",
+        "sha256": "11f4276be9e15c60bd4f375d03bc1637eaca536fddf6855a0bea682e4fc3bb91",
+        "source_sha256": "4fe1dddee3fde4ab461a0cd4ab9d3e82cfc61d89a876df2285235c1366f9151b"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR019_LITE__repair_comparison.png",
+        "sha256": "04a718ad4bc2f46cd44bcad4c62193690ca2ddd7cc40f69a2eaa11714486d645",
+        "source_sha256": "e2876c4b428840d091a0bcaef0c3932855f3a8d4520fc65fba886b897eabc92a"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR020_HQ__repair",
+    "base_record": "TR020",
+    "lod": "HQ",
+    "zip_sha256": "ea2e8c7febc7a93c9b3c8ff8758646884186f38ea2c3ac55178e5a4e52960a9e",
+    "model_members": {
+      "TR020_HQ__repair.glb": "05007eab0845a2a1f375a228f7d45517c2f18ca24c4254b2db7d46c8b05fcba5",
+      "TR020_HQ__repair.blend": "339fcf29812d397e6f9d9be53742ea34220790850cff7948cf1f2b5adc7fa8dd"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR020_HQ__repair_thumbnail.png",
+        "sha256": "3b6376fdd398d3e89104aadfc4ef95edf5198f8b7c76404ac3d5cffcba8c0ac1",
+        "source_sha256": "0d30e4da9fc643cd3ba5abe977b667885c9752143a6edc1d13bbc843ab06244a"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR020_HQ__repair_full.png",
+        "sha256": "6965b6caf49766550142a0778893646acf6dedb4db3a80d92d88abca3de425d4",
+        "source_sha256": "a3b9942a20e522ca4276277b14e8c30469ba1ea6aaeff7f5396c897805507637"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR020_HQ__repair_comparison.png",
+        "sha256": "055f66dbbf33dc3b651bed7569ec848dc06bfc9562f9247e0ac7869b2eadd3e7",
+        "source_sha256": "6b254ab8e4d5af202224d61cb91137c0aff8e8ea313c8347ca6531ab30ac0c85"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR020_LITE__repair",
+    "base_record": "TR020",
+    "lod": "LITE",
+    "zip_sha256": "a8f78d5fd6d2904cd7c541dc1c86a7bb7099298175b91abbd976960c598061b7",
+    "model_members": {
+      "TR020_LITE__repair.blend": "4fc5cd9c034e42579da80203b0f64910adf7e180a753154e0875667a6d22f15a",
+      "TR020_LITE__repair.glb": "5265e7855cfe53234cc53b504775a49eed8b0437383f7819d97f1f585fe4ccfe"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR020_LITE__repair_thumbnail.png",
+        "sha256": "42d7d5faf60cf3021449d0dfd60d96aaaf583b53534aa434e23dd4056eb10603",
+        "source_sha256": "cbc3a3ac39c3dd2d8a2390718f7c6a506ad31246f0f731a2b85ba0319c1b9f32"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR020_LITE__repair_full.png",
+        "sha256": "b339a8b4b8e999dda3a020bfbfafb1988150514bc62054413038a0d18e963866",
+        "source_sha256": "626ff9c90030da698171deda46f9148dffac9489f9abe31bcdb592e5703cfc25"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR020_LITE__repair_comparison.png",
+        "sha256": "f72e2bffd7762c62be721f57b0183e86d1e27f3f18a6ae8c28730fc6c3a90bd8",
+        "source_sha256": "a834e7fff97534198030182169d2e35a78ff08896351bcae1f8420e8d2052284"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR021_HQ__repair",
+    "base_record": "TR021",
+    "lod": "HQ",
+    "zip_sha256": "cabf25da01d3137edf489ef6f6a738f2b5c0ab296bcc502d8c3651f959c9a60b",
+    "model_members": {
+      "TR021_HQ__repair.glb": "85b944e8aae4ee3f3871f4f46d55481da63d1f2e55d393ca1f070b1b2fb03603",
+      "TR021_HQ__repair.blend": "5672564adcdc145414f01aa0226930e300f7e15e9b74f4aaf7b873cd06314bdc"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR021_HQ__repair_thumbnail.png",
+        "sha256": "6f00e03c8c8e0fbc3acfa16569aa68f25400e4d51148e0a7183e157306607fe5",
+        "source_sha256": "27514c84300dde4e5abf95aae4e35482be71c09c12008c6b0a23175989657985"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR021_HQ__repair_full.png",
+        "sha256": "ec21095e44c6f8e878db38b62fcdb47c5c8ba25bff10a16e0b39c7a73b9486c1",
+        "source_sha256": "df144a9061e468d3a2c3d07ccf88f868804649a6428334d5812b416768bad9a1"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR021_HQ__repair_comparison.png",
+        "sha256": "b992f9cc08e97d46b46335383f222b522d5060930ac72a8d0c298d0aba507042",
+        "source_sha256": "d3e209ad6f17f9e9ed49ed6485fd3b471232b4e903e7691e63d42ee74871c525"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR021_LITE__repair",
+    "base_record": "TR021",
+    "lod": "LITE",
+    "zip_sha256": "5288bbf1c6d2fbfb6b1150efbaf3bacd4a76c20e0290081065987f24cd4d3cce",
+    "model_members": {
+      "TR021_LITE__repair.blend": "54e660f1395480a2dd51e8b62d45b002ee27939cd877aae9c8042f1e5d6a10ed",
+      "TR021_LITE__repair.glb": "7442812cbda911a9a4ee46a7c1aa413c7c0a096816bfe32db020a04aebf87bfb"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR021_LITE__repair_thumbnail.png",
+        "sha256": "b3553dbc58f83f6bb147b7788775ce33f6f604e29ab45773d1bd3232d2ff7f2d",
+        "source_sha256": "86eb709138624349db7bb8844fd5fbbab4604ccea9eff8d5a717cd22bc48a571"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR021_LITE__repair_full.png",
+        "sha256": "4e3c5d18f5bc833c350d4d50c8b1a9b10aece1200c6d24da441ab405509c4fe5",
+        "source_sha256": "954f369e2ad6e31fc08b24ff892b3b522e7abb037e3bd557b5fec7382ce533d2"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR021_LITE__repair_comparison.png",
+        "sha256": "59fc571004052768b41e4ddfc2befb2f62016a473c4e77ccd16f030fca7f84f5",
+        "source_sha256": "c4fda6968f4ae752e193abd6083ff434e42877abffc242db2949f77b1b182705"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR022_HQ__repair",
+    "base_record": "TR022",
+    "lod": "HQ",
+    "zip_sha256": "e1e69e7fce9279abfccde4aae49b56ed98fa3f0308e2bfb8aab263d6e8620628",
+    "model_members": {
+      "TR022_HQ__repair.glb": "97f7ccb1426c5f907d2f29c7485c8a0ceeb05209f642fd4c16debb1b06e2eba2",
+      "TR022_HQ__repair.blend": "033ae3f06bba5fdadfc5067467b114ea32efc84ab95106c7aad3030eb1faa238"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR022_HQ__repair_thumbnail.png",
+        "sha256": "23394e4e1ad17cb65160b919aed6c86af2646eaf45a4b0b4023b74e68d3f2062",
+        "source_sha256": "e440627d1863b90fb4b9e5e68303740a628b76076e8014c0c2cc8edcb85ce919"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR022_HQ__repair_full.png",
+        "sha256": "59f3cdc02f7ef81b5aee5fd5e3c5b27052ffd9107a841bd0a309999f04f2742b",
+        "source_sha256": "ca06d646f555a9b77dbb9fca381ebe6513917656fd87f027c2599876e6234506"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR022_HQ__repair_comparison.png",
+        "sha256": "12a14fd55ef67c2949162575aa48f517943de159883a6f632078e8b031d25fb0",
+        "source_sha256": "96942984bc18b7056f4db8f0e819c5546ef2f65f6a2187cc61482bedfa293f38"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR022_LITE__repair",
+    "base_record": "TR022",
+    "lod": "LITE",
+    "zip_sha256": "37120aac875939e992821dfa12b58fa42f55036b19adee14aefd97c095a50427",
+    "model_members": {
+      "TR022_LITE__repair.glb": "184ab97c663371ca6ad950e23d795fdd42931250b320392216b35304064bf87f",
+      "TR022_LITE__repair.blend": "4950b1a7e1ada5f8160da291cddffa03cb5ebc74a9014589a267dd642c29240b"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR022_LITE__repair_thumbnail.png",
+        "sha256": "354ab800c5ca5b5098cb8eb18917d5bbdb4a0305ab2046377a5086f30f1cba70",
+        "source_sha256": "9021e98c9422035d38d30d13624d3f12f8dec6d1b7815974cf6de53aafaa3d73"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR022_LITE__repair_full.png",
+        "sha256": "c000f400fa23575d115c429137ecfd2ee22167bcfb8229890b9f932008752695",
+        "source_sha256": "5c06a8cc7574851ab65c3bd4d6857ae7e0ba4253938c020af125816b332fb78b"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR022_LITE__repair_comparison.png",
+        "sha256": "f4bf2b1791bfb04c977bd7169d9f8d40bd9188b92f63d775b2323752d9e56a75",
+        "source_sha256": "0cae4dac03973b4e192fe5516693d893e19080016a101e76d65a0b73407dfd03"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR023_HQ__repair",
+    "base_record": "TR023",
+    "lod": "HQ",
+    "zip_sha256": "5fec09f4e0c2670a8cb192cd02d63871f97564ad6c16a8f1ffe8421b64ee7b40",
+    "model_members": {
+      "TR023_HQ__repair.glb": "4342aa0a09b91faa81b05f1091565dcdcda3868a3f2dccb19e9f11edd3535b61",
+      "TR023_HQ__repair.blend": "da33a60c087e126c1c06b1b1896aaa251658c1b5b3822695c3aef856c6aaa3a3"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR023_HQ__repair_thumbnail.png",
+        "sha256": "29b2c483dbca18bf4471544a0364e616438ed94dc5f4188bb0d053863e2dfdd0",
+        "source_sha256": "4fc2402b3550367a84731692f3067e4b3183aab42f2cd2ec16682419cbeaef9c"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR023_HQ__repair_full.png",
+        "sha256": "53c0908b1326d6d9e773d5dbaab2d72c9d2f6fa2b1e22ff499040602fdeca6b9",
+        "source_sha256": "dd4019a782c2e1c14c8ab914f2c611df64c56425e5359f24069666bdc403870d"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR023_HQ__repair_comparison.png",
+        "sha256": "17fc80a6e0a65d87f09b7e06912db1a04539c8ecc626c936b25091343800cc52",
+        "source_sha256": "6cb2e10f84b9efa33283936b9b3ffd9a34d9ff2370e49fa84dffc5903ef75e6c"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR023_LITE__repair",
+    "base_record": "TR023",
+    "lod": "LITE",
+    "zip_sha256": "b89c67905d00021fc3db5dd77258cc4f1441319bdce4afac65f26fce3050aceb",
+    "model_members": {
+      "TR023_LITE__repair.blend": "5c0298e4cc6562579402c86143ee1687913a82c2de38eed97b41e26c03e00d35",
+      "TR023_LITE__repair.glb": "6ae3cb16b4ee62f6cdf937f008edfa1c7787381656a35345a4a516b9b0e5a26f"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR023_LITE__repair_thumbnail.png",
+        "sha256": "6f70e5c63cad14dbefbc405b1a9fee20bacc3d5092ebd8f1a8f03f470413f28f",
+        "source_sha256": "a5578008b1d42089ad14cdc2c9e70ee9a28f989bde7d356ac18b6d13916912bf"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR023_LITE__repair_full.png",
+        "sha256": "cc5be1677ba449235ab8b667f12635d5c6dacb0474754413b7764a7984effd37",
+        "source_sha256": "8ef427a8ac9ee5c245e4f586772b37b6a1f1f950971d8107fdaf69b2c0d4c23f"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR023_LITE__repair_comparison.png",
+        "sha256": "e60c1620e93df26e6d28ae7ea3dc4a37cc8951d2df7170dbf03919ef3c38205a",
+        "source_sha256": "80affade0d3fc74a5ddc8e4ed140669fd52c0b7b5358497f18fc902be4ad5146"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR024_HQ__repair",
+    "base_record": "TR024",
+    "lod": "HQ",
+    "zip_sha256": "1162230c4f9fd05de72ddff77eb99955b8020c9dd365c307e18065818d632764",
+    "model_members": {
+      "TR024_HQ__repair.glb": "c8f7c9d7e7847a20b13328e307eee16ea86104db6cc0880fa3620148ffcc836f",
+      "TR024_HQ__repair.blend": "d63a72f048b593012ac7d1fb99f633e263f6c7581b16a0aa7832adeb74cd04c8"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR024_HQ__repair_thumbnail.png",
+        "sha256": "f5005de3f9f560d18211340d6ce15fcfb30cfbd90e273d5d129efda8cd1d2b1f",
+        "source_sha256": "9cbf7fb60539def863c2560ea20bbeaa4bcedacff45a679c0d8083cdf464b6ce"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR024_HQ__repair_full.png",
+        "sha256": "acdc1f1ff97308820c7ba4bc02ea0b7b4f3e16a12156dc55a442cbbe7db97afa",
+        "source_sha256": "8b5941b71364c3582c791001c753566698188be8dc9eb20d81d9885fda35477f"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR024_HQ__repair_comparison.png",
+        "sha256": "0bf7928eaf61a9d39a6ec485d4fb97a7a088c6d8c031bc237795009c3e4c8e1c",
+        "source_sha256": "bfaefdf45baa4c5a65f744fe991d91027ff14a980d3b8848a3e85c625636cc96"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR024_LITE__repair",
+    "base_record": "TR024",
+    "lod": "LITE",
+    "zip_sha256": "e37eaf8e6e7683735b769b798f3af908ae68c698fe722933f110bd618aa26a43",
+    "model_members": {
+      "TR024_LITE__repair.glb": "1287eb3276f0b5ffd1196ab6addde4458a6633e302c19cf57864ee92b39f4289",
+      "TR024_LITE__repair.blend": "61d90b577dd62bb56c3194b114bd57960297e54beb5fa53ff7f22e3a3f04de87"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR024_LITE__repair_thumbnail.png",
+        "sha256": "03445546d75e267a873f444b22c856a848a49dd320214d47e9faab3c0978b368",
+        "source_sha256": "19216aeeb909623c36f092a2e38056615aa0369f1a321bac914cbfa71003c5bb"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR024_LITE__repair_full.png",
+        "sha256": "0fa533050d6b7b59566bd2fab84a03f1ee64b13cc54bd65a8eb127714826291e",
+        "source_sha256": "3a935978592b758f541eb0cbb4383b5513d01487356427ad0283a3c01c2024ca"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR024_LITE__repair_comparison.png",
+        "sha256": "bf858090e5a76531cd95551aee5951d68f505d709b99cbb6e6702c21e4e3ec88",
+        "source_sha256": "018aaca80dc94dfa8b8897b2470caf340dd1b3cc181276a7992b5933d8ae3141"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR025_HQ__repair",
+    "base_record": "TR025",
+    "lod": "HQ",
+    "zip_sha256": "898b7564a520de3b499dc3af2a41dbcdd4f27f5ad4837d7cb1f9f27e328da456",
+    "model_members": {
+      "TR025_HQ__repair.glb": "5a92aff51b9b32e8c8412d63fa5c3e4d9638f0c6441de937081c7fe63cbcdce3",
+      "TR025_HQ__repair.blend": "595cceb4106e2528f4f72f7a9f4c0e7498ad168e7c6e4fa69af42bb4f73a7923"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR025_HQ__repair_thumbnail.png",
+        "sha256": "50f5ed309d09fb4ee779925fc36689bb4cdf7ae2f70fa64a4532032dd3ec490f",
+        "source_sha256": "f6478bf970485bdd3f286fee03dc54e1243b23d67bb5beb682a326f24bc5bfe0"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR025_HQ__repair_full.png",
+        "sha256": "5fea285440287bc24206548436a0b5001c62f8c5269489df07fb8fed2c8b1914",
+        "source_sha256": "90d72774aded122783ccb496bb2f7436d64c180225e976ec5bc8d3e6f57e3138"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR025_HQ__repair_comparison.png",
+        "sha256": "8bc1114246059fcf8b7800fc4d0b8c3c5bde5a2193a9f111b87ea37dd43bfd62",
+        "source_sha256": "1412b7a3ec9192b684c58316d46f6ef81df011d7409bd16c283bd5617165a750"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR025_LITE__repair",
+    "base_record": "TR025",
+    "lod": "LITE",
+    "zip_sha256": "34e1381febf5eddae343e74e3a996c78caeb5de1f0e2573cfec6b9ddd7096a2c",
+    "model_members": {
+      "TR025_LITE__repair.blend": "733ad6ef1f7541e8e98bfd0ff9d4c2c2934e1b5adf9643fbb20910684692a058",
+      "TR025_LITE__repair.glb": "ceaf13aae965da838079e6d962031c27e7f29aea7894bc11a4e024114a618fe4"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR025_LITE__repair_thumbnail.png",
+        "sha256": "2b0978f756ea1dde52aa214558bcab1bb4f55f7048e8b1a49e361eae0a726263",
+        "source_sha256": "1c340b9e9db213ccbed3fbaa6300f194a35d8361b8d0dfdcd9bfa2fa64b59170"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR025_LITE__repair_full.png",
+        "sha256": "b0c53668bc4055d2a0187015e30c22291416dcc5c8dc444b3ba0157be9234dcf",
+        "source_sha256": "e22d795128c63c22cf2d3b478275cd33e4728de34485cfbe808050ae26752ede"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR025_LITE__repair_comparison.png",
+        "sha256": "684b62a48f7419920273d90830c0943de7ff7e4785dcab114d4c2c0d4f48a476",
+        "source_sha256": "e90c719a9412ea72898c08266cd693be3b7e3f946e569395a7ab2b10bf01d89b"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR026_HQ__repair",
+    "base_record": "TR026",
+    "lod": "HQ",
+    "zip_sha256": "bed033cfc07c6bb0c1896c3a2faa15b0d7a418a7745b11bb58ce38180dc0b743",
+    "model_members": {
+      "TR026_HQ__repair.blend": "f4fafbc79a348b1a1ace7ad4a7056f4d85e065fe60d331d1a3dd2aa189a80cdd",
+      "TR026_HQ__repair.glb": "3a0dbf8791ec44c6f0d4aacba71ce977168df62886dcc8b5a8bd931a0e3a3614"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR026_HQ__repair_thumbnail.png",
+        "sha256": "04153f91c6dd31d2727e8766302911f148791a0bf1cea314b7dc5854a144e95f",
+        "source_sha256": "bd4007cee75e7c0ed7ac35fa792436caa45b2b22bea637e6f37b7c56b691fb26"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR026_HQ__repair_full.png",
+        "sha256": "617e958e1cbd475451623b98422e68a1c9c1232dd3dc7183b0206a118e3d4429",
+        "source_sha256": "6df53a74336562353a7ed34910f36413f5dbbb6609a9633627ffbecbef3026c2"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR026_HQ__repair_comparison.png",
+        "sha256": "6d6b40d75a024964b4d9b09a0a239aa622e6955e15da4509b3db46459842433e",
+        "source_sha256": "4a5bb489da9613f636894d81bb714db523003a8ea3d7e0bf40e125a3817ec720"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR026_LITE__repair",
+    "base_record": "TR026",
+    "lod": "LITE",
+    "zip_sha256": "a5390e2216157996a88d47e0d6cf8481c9c0c41ecfa4d3f6a4c3df582d33f6af",
+    "model_members": {
+      "TR026_LITE__repair.blend": "0c7ed5857728bde42404b77e1315e9867d52808dec1935bb35504ba80edfbdb3",
+      "TR026_LITE__repair.glb": "b191b430e97f6283202a9cd99255750d8b4a1962715327afd7d8a6ac46302dc7"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR026_LITE__repair_thumbnail.png",
+        "sha256": "c06829ca038130f4ac99007d2aee9f3491d25b64d656ab81442389136810822c",
+        "source_sha256": "3a4d001a1be376fc7b3c3012b7d8d13f6711d45a80114223a2d04171dd84650b"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR026_LITE__repair_full.png",
+        "sha256": "95d4fc16847e5795d42979f1b54567246d6220d1b2c57d667c84a1221f9c3ea4",
+        "source_sha256": "77c32f5c70e891400e8cf8e339fe3c712a9bc9621fcc35d7e96dcd5af7d22b66"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR026_LITE__repair_comparison.png",
+        "sha256": "a1c031d23e7cf657403bcc514ec02a4d80873acf5301dc62bad2ad8ae9209b21",
+        "source_sha256": "10ca771ab0cd49c249ddf63dbad206ab0c02658a0850390e3a88a02d17563657"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR027_HQ__repair",
+    "base_record": "TR027",
+    "lod": "HQ",
+    "zip_sha256": "0dba992fe9338e86efa9ed31af81bcac0cd6a6fdc0d4c0f1ea3ff83e11177117",
+    "model_members": {
+      "TR027_HQ__repair.glb": "552641e058a80c216509f8e6bf1c7f22d109a2087143316986a4d3ed55ac281a",
+      "TR027_HQ__repair.blend": "b8d02b1d819c8d55a073cf97f2b84a232d7ecb5f62611a701ddd2b959436ca45"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR027_HQ__repair_thumbnail.png",
+        "sha256": "897acaee0bb9e0d856bebc69cc5ecbe6065bbc4263fae45e386a5c0712439fbb",
+        "source_sha256": "773ff10adcfdc16e81a026d665a63013ad4e5882cf1818409278b4cc20ec4371"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR027_HQ__repair_full.png",
+        "sha256": "de17ba9dd1fcd009813cb1e148ad89c69f238636097d4dbb95fccda5d927e990",
+        "source_sha256": "1884d87f67a873b05e7f0720c6ac1884ab2f674b5fb2f70f2d560f4e937b2231"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR027_HQ__repair_comparison.png",
+        "sha256": "91736ad17140be3af3fdd50b91fec2ee736739e6912c694e406e991aeca49bc6",
+        "source_sha256": "3401a62105dd9a03d0c068a31cac324bd5a72561b5a35dca71a073ec7045a88b"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR027_LITE__repair",
+    "base_record": "TR027",
+    "lod": "LITE",
+    "zip_sha256": "a26b6ef2e533382b170c3841528db8ecbe717a194cf879921bf2d31974acfb6e",
+    "model_members": {
+      "TR027_LITE__repair.glb": "24076e40a6927cae44334d27711f46bf8eb541e07d1041460c9053a704eb7562",
+      "TR027_LITE__repair.blend": "8c7321f608327652ec3d297718a343b65286503d8af39f7ad92574a103df3558"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr018-027-v1/TR027_LITE__repair_thumbnail.png",
+        "sha256": "b71e5c8ec4e77cd73a5d82cf612251c1167299f3bf684d83899969e27a4b7d83",
+        "source_sha256": "6af2a8cd57e8825a4011a5e52aaf2ceff9842ae509e17ff85fc6f6e1e64d7b8d"
+      },
+      "full": {
+        "file": "previews/quality-tr018-027-v1/TR027_LITE__repair_full.png",
+        "sha256": "45b0be8e166295da58259b873cded309dbe95e4b9415444583237e7b1d477856",
+        "source_sha256": "489ad8e14074ea37e4679fb43bff9963985f85aba68b8583e246c5181a16bf4c"
+      },
+      "comparison": {
+        "file": "previews/quality-tr018-027-v1/TR027_LITE__repair_comparison.png",
+        "sha256": "ce9f79beb544ae2dd4e79ffce62f25de3b22396bbf68644f82efbc99b26db481",
+        "source_sha256": "2858765f5feee28f41e5173e3f786b7d75df38c8b113e67b6c3e79d8d4d6686e"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

@@ -244,6 +244,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN009__repair](../../previews/quality-in008-017-v1/IN009__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN009__repair_full.png)
+
+[IN009__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN009__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
+
 ## IN010
 
 **Room key rack**
@@ -267,6 +273,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/inn.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN010__repair](../../previews/quality-in008-017-v1/IN010__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN010__repair_full.png)
+
+[IN010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN010__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
 
 ## IN011
 
@@ -292,6 +304,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN011__repair](../../previews/quality-in008-017-v1/IN011__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN011__repair_full.png)
+
+[IN011__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN011__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
+
 ## IN012
 
 **Travel satchel**
@@ -315,6 +333,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/inn.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN012__repair](../../previews/quality-in008-017-v1/IN012__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN012__repair_full.png)
+
+[IN012__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN012__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
 
 ## IN013
 
@@ -364,6 +388,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN014__repair](../../previews/quality-in008-017-v1/IN014__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN014__repair_full.png)
+
+[IN014__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN014__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
+
 ## IN015
 
 **Fire tools**
@@ -412,6 +442,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN016__repair](../../previews/quality-in008-017-v1/IN016__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN016__repair_full.png)
+
+[IN016__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN016__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
+
 ## IN017
 
 **Ceramic pitcher**
@@ -435,6 +471,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/inn.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN017__repair](../../previews/quality-in008-017-v1/IN017__repair_thumbnail.png)](../../previews/quality-in008-017-v1/IN017__repair_full.png)
+
+[IN017__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN017__repair_CC0.zip) · [Details](../quality-in008-017-v1.md).
 
 ## IN018
 
@@ -460,6 +502,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN018__repair](../../previews/quality-in018-oc010-v1/IN018__repair_thumbnail.png)](../../previews/quality-in018-oc010-v1/IN018__repair_full.png)
+
+[IN018__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN018__repair_CC0.zip) · [Details](../quality-in018-oc010-v1.md).
+
 ## IN019
 
 **Soup bowl**
@@ -483,6 +531,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/inn.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN019__repair](../../previews/quality-in018-oc010-v1/IN019__repair_thumbnail.png)](../../previews/quality-in018-oc010-v1/IN019__repair_full.png)
+
+[IN019__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN019__repair_CC0.zip) · [Details](../quality-in018-oc010-v1.md).
 
 ## IN020
 
@@ -556,6 +610,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/inn.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN022__repair](../../previews/quality-in018-oc010-v1/IN022__repair_thumbnail.png)](../../previews/quality-in018-oc010-v1/IN022__repair_full.png)
+
+[IN022__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN022__repair_CC0.zip) · [Details](../quality-in018-oc010-v1.md).
+
 ## IN023
 
 **Travel boots**
@@ -579,3 +639,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/inn.md)
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![IN023__repair](../../previews/quality-in018-oc010-v1/IN023__repair_thumbnail.png)](../../previews/quality-in018-oc010-v1/IN023__repair_full.png)
+
+[IN023__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN023__repair_CC0.zip) · [Details](../quality-in018-oc010-v1.md).

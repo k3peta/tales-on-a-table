@@ -1,0 +1,78 @@
+{
+  "status": "final_zip_guard_passed_public_download_match_pending",
+  "run": {
+    "run_id": "09124ede-0059-41c4-8a0b-788cb877460f",
+    "started_utc": "2026-10-24T19:47:26.634924+00:00",
+    "finished_utc": "2026-10-24T19:47:27.716262+00:00",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    }
+  },
+  "scope": "Producer final-ZIP BLEND/GLB numeric checks; publisher verifies artifact hashes, not a separate Blender run. Detailed limitations in catalogue.",
+  "packages": [
+    {
+      "id": "PA007__repair",
+      "zip_sha256": "b28cd581255278fdd4c16f3a1855d70d18385af91cc0204dc3e645778dec6227",
+      "members": {
+        "PA007__repair.blend": "a5f4556a27d4bebd959dad68e7068e5b41fcff91210dbbaacad740a3e5d5a979",
+        "PA007__repair.glb": "39a7de0e3c77dade5b30c0e52fe903ae0a04270ddc90e26666161d92d270ecef"
+      },
+      "numeric": {
+        "id": "PA007__repair",
+        "formats": {
+          "blend": {
+            "triangles": 508,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 508,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "PA009__repair",
+      "zip_sha256": "c30910ecd91cd17fcef438aa670ef67fe3055abb7184ea9447a2f78882d521df",
+      "members": {
+        "PA009__repair.glb": "258eaed4d103bca8bd219f8149028dfd715d30e4df0561ce5c590e1c22449e71",
+        "PA009__repair.blend": "5f31c6a7dfb0684a9f41a95b8024673ab3c37bfda4a368b96f6d585806f32962"
+      },
+      "numeric": {
+        "id": "PA009__repair",
+        "formats": {
+          "blend": {
+            "triangles": 2267,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 2267,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    }
+  ],
+  "known_bad_color_fixtures_rejected": 5
+}

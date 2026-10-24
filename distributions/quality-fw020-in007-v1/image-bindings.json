@@ -1,0 +1,70 @@
+[
+  {
+    "id": "FW021__repair",
+    "base_record": "FW021",
+    "lod": null,
+    "zip_sha256": "4f0b4e1700586ee7264ee2f3dd73757b2d92730702512c05fa92563ad219949c",
+    "model_members": {
+      "FW021__repair.glb": "bad765d4d1be7d3ae985996fc9bf1a1cc3088bc2afd4f747faa834faa453f968",
+      "FW021__repair.blend": "dbba8903c9188064395fecfd141cf540b61b64ecdff2715e669a99fdfb059688"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/FW021__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-fw020-in007-v1/FW021__repair_thumbnail.png",
+        "sha256": "d6b44505a39bc3ee205c0175a7fcab1d024dc983b9dfc29c7fb962b1bcd4f8ba",
+        "source_sha256": "8659af1fcb71a8bed46007e8fa731dc7be690744686e4f981b773bf810b016db"
+      },
+      "full": {
+        "file": "previews/quality-fw020-in007-v1/FW021__repair_full.png",
+        "sha256": "06392f712ca6fec8dedc48839516fbfadac7934b74717fe80f8fd54d9a393881",
+        "source_sha256": "239297e5f38d516876104312252bcb2e436ba1dd399f4f981f01a2779b96cb2a"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-fw020-in007-v1/FW021__repair_overview_comparison.png",
+        "sha256": "6bd5874e4885b8375c88eaa6a872e464531b70af4ce0287579bb064ed3ef3785",
+        "source_sha256": "330a57ea69c8b62ef2d2fe8d712a7e8f51cdf80fd631b5279b169706c48534d2"
+      },
+      "close_comparison": {
+        "file": "previews/quality-fw020-in007-v1/FW021__repair_close_comparison.png",
+        "sha256": "98570b201d0d893912fbfc3a6b4e0bdbe991b3f6c8b9cccf891e267e1f5cb119",
+        "source_sha256": "8bdb4ab00f8cd57924c271cb73a4673252cb9e8fa79a84fd0d0928f195a375b6"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN007__blue_wool",
+    "base_record": "IN007",
+    "lod": null,
+    "zip_sha256": "4e8fd6a623018c17e97db428e36908af40707feb9fd727399962ec596e2f33a3",
+    "model_members": {
+      "IN007__blue_wool.blend": "6b67f2afb77a084c5a7ede846625de135760874dba944202dea0d0c14f258a10",
+      "IN007__blue_wool.glb": "60e73569c64d6528144698082e4cd3efc82abf7e418bc94c68c7736bdb2aae0f"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/IN007__blue_wool_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-fw020-in007-v1/IN007__blue_wool_thumbnail.png",
+        "sha256": "daa5040de5422546bada4e5d648fe0c71f3fd8424cc126b4949c42bae98a941b",
+        "source_sha256": "0c7f795da63cc0a32431e26ece4bdb5abcc7d4c9dbaacf27d6c10e06da2c467b"
+      },
+      "full": {
+        "file": "previews/quality-fw020-in007-v1/IN007__blue_wool_full.png",
+        "sha256": "87f0cf3353f09385dd6541bb9dbef919718ea92ce6b13ad654f46f68829872a1",
+        "source_sha256": "012a10eab079b6be431d7c99022204bbed21eee637c2f3dd1e96032328e43c0c"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-fw020-in007-v1/IN007__blue_wool_overview_comparison.png",
+        "sha256": "542076970bd39cc948aa867376f959002cfac1de2ead54c28ae23b3e260c296c",
+        "source_sha256": "7f99b1b760d6e5bc974e93abd298d8a0be302b11c520009fd123c7c129b33773"
+      },
+      "close_comparison": {
+        "file": "previews/quality-fw020-in007-v1/IN007__blue_wool_close_comparison.png",
+        "sha256": "c7d8e506016f6749781dbbd7ea8e022d94343f2e2bcdeed3798a626af984a99b",
+        "source_sha256": "7bf5480045a127d9a5644489d5b60cce30707f212de3ab28fa59d9b24ce95bcd"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

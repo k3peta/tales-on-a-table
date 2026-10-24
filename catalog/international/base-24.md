@@ -156,6 +156,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM002__repair](../../previews/quality-wm002-011-v1/WM002__repair_thumbnail.png)](../../previews/quality-wm002-011-v1/WM002__repair_full.png)
+
+[WM002__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM002__repair_CC0.zip) · [Details](../quality-wm002-011-v1.md).
+
 ## WM003
 
 **Millers workbench**
@@ -179,6 +185,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM003__repair](../../previews/quality-wm002-011-v1/WM003__repair_thumbnail.png)](../../previews/quality-wm002-011-v1/WM003__repair_full.png)
+
+[WM003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM003__repair_CC0.zip) · [Details](../quality-wm002-011-v1.md).
 
 ## WM004
 
@@ -228,6 +240,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM005__repair](../../previews/quality-wm002-011-v1/WM005__repair_thumbnail.png)](../../previews/quality-wm002-011-v1/WM005__repair_full.png)
+
+[WM005__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM005__repair_CC0.zip) · [Details](../quality-wm002-011-v1.md).
+
 ## WM006
 
 **Flour collection trough**
@@ -252,6 +270,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md) · [Catalogue 2](../../catalog/watermill.en.md) · [Catalogue 3](../../catalog/watermill.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM006__repair](../../previews/quality-wm002-011-v1/WM006__repair_thumbnail.png)](../../previews/quality-wm002-011-v1/WM006__repair_full.png)
+
+[WM006__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM006__repair_CC0.zip) · [Details](../quality-wm002-011-v1.md).
+
 ## WM007
 
 **Small footbridge**
@@ -275,6 +299,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM007__repair](../../previews/quality-wm002-011-v1/WM007__repair_thumbnail.png)](../../previews/quality-wm002-011-v1/WM007__repair_full.png)
+
+[WM007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM007__repair_CC0.zip) · [Details](../quality-wm002-011-v1.md).
 
 ## WM008
 
@@ -452,6 +482,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM014__repair](../../previews/quality-wm012-wt004-v1/WM014__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WM014__repair_full.png)
+
+[WM014__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM014__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
+
 ## WM015
 
 **Sheep resting**
@@ -475,6 +511,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM015__repair](../../previews/quality-wm012-wt004-v1/WM015__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WM015__repair_full.png)
+
+[WM015__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM015__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
 
 ## WM016
 
@@ -500,6 +542,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM016__repair](../../previews/quality-wm012-wt004-v1/WM016__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WM016__repair_full.png)
+
+[WM016__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM016__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
+
 ## WM017
 
 **Mill transmission gears**
@@ -523,6 +571,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WM017__repair](../../previews/quality-wm012-wt004-v1/WM017__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WM017__repair_full.png)
+
+[WM017__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM017__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
 
 ## WT001
 
@@ -548,6 +602,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT001__repair](../../previews/quality-wm012-wt004-v1/WT001__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WT001__repair_full.png)
+
+[WT001__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT001__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
+
 ## WT002
 
 **Flower meadow**
@@ -571,6 +631,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT002__repair](../../previews/quality-wm012-wt004-v1/WT002__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WT002__repair_full.png)
+
+[WT002__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT002__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
 
 ## WT003
 
@@ -596,6 +662,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT003__repair](../../previews/quality-wm012-wt004-v1/WT003__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WT003__repair_full.png)
+
+[WT003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT003__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).
+
 ## WT004
 
 **Weathered rock outcrop**
@@ -619,3 +691,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT004__repair](../../previews/quality-wm012-wt004-v1/WT004__repair_thumbnail.png)](../../previews/quality-wm012-wt004-v1/WT004__repair_full.png)
+
+[WT004__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT004__repair_CC0.zip) · [Details](../quality-wm012-wt004-v1.md).

@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "IN018__repair",
+      "base_id": "IN018",
+      "entity_type": "revision",
+      "zip": "IN018__repair_CC0.zip",
+      "sha256": "a620b5f60a820b9920fba825acbe60adfa93c9644d38f8ad85f97f5bcf20e001",
+      "bytes": 487874,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN018__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN019__repair",
+      "base_id": "IN019",
+      "entity_type": "revision",
+      "zip": "IN019__repair_CC0.zip",
+      "sha256": "da0b10c06a4da76d4c86a9c19d03f44cb20b891b6a9deb8a92d8ec90bffdce0f",
+      "bytes": 77645,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN019__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN020__blue_linen",
+      "base_id": "IN020",
+      "entity_type": "material_variant",
+      "zip": "IN020__blue_linen_CC0.zip",
+      "sha256": "66702de819116eca5236aee383325ec7a9b967d996e92f49848fdd7833e03bbc",
+      "bytes": 72087,
+      "description": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN020__blue_linen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN022__repair",
+      "base_id": "IN022",
+      "entity_type": "revision",
+      "zip": "IN022__repair_CC0.zip",
+      "sha256": "72c4abde630f83ad3849aba9f34a39569f446db993796ef83fde699c7e27aedf",
+      "bytes": 301322,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN022__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN023__repair",
+      "base_id": "IN023",
+      "entity_type": "revision",
+      "zip": "IN023__repair_CC0.zip",
+      "sha256": "085e60918a5fcb30c324cb87b19c8ee7e3287e164e0d75bdbda11681513b3ce7",
+      "bytes": 251068,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN023__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN024__rust_wool",
+      "base_id": "IN024",
+      "entity_type": "material_variant",
+      "zip": "IN024__rust_wool_CC0.zip",
+      "sha256": "633fb4969b3cf3e26fd2d6276729aaa052d29e4442bab09d5e8280e1cbe54d3e",
+      "bytes": 143043,
+      "description": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN024__rust_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revised_contained_models": 4
+}

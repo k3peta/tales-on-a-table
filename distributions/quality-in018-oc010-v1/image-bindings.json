@@ -1,0 +1,206 @@
+[
+  {
+    "id": "IN018__repair",
+    "base_record": "IN018",
+    "lod": null,
+    "zip_sha256": "a620b5f60a820b9920fba825acbe60adfa93c9644d38f8ad85f97f5bcf20e001",
+    "model_members": {
+      "IN018__repair.glb": "36db87e686c0c37fb168717cf61613b2e18a70a18d7b7250fe7f344ee9f6cf4c",
+      "IN018__repair.blend": "b5f4c28a330ce16efc8b20a7734dad4280007977e5ce704fb548e48f9de0b1c4"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN018__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN018__repair_thumbnail.png",
+        "sha256": "cd819d9752cc774642e0fad216f231ddaa1edba6e331ddede6da9abcdc369d43",
+        "source_sha256": "7a33a55b7b049ffb5ac5f0b1516e5a0881679b7b8cf5f48e72fb5ffadfeadd52"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN018__repair_full.png",
+        "sha256": "b27b5d0cffbc8e29d539af75b4034d219b94aa5e624f214b28b9520f72f68959",
+        "source_sha256": "b0f35aaea9dc7f454b35a5db1268e3f17110e94e992e5edd1658356fb59dc0f7"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN018__repair_overview_comparison.png",
+        "sha256": "3766a660defe3247c85145c42470dc6a874473647c1c6a672eea57dc94ef1328",
+        "source_sha256": "34f3999aedee832a0dc1df2b1bb0cfa643c57b918cbecd27a646698bd2bb0da7"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN018__repair_close_comparison.png",
+        "sha256": "78084a5b399c6f43be70507b13c25429c2da426016eca7586617d73eba40f80c",
+        "source_sha256": "0903ab664ce6869c3977a62636f5e4a49da1612bb9ec2d81f12749e4adbc2d7a"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN019__repair",
+    "base_record": "IN019",
+    "lod": null,
+    "zip_sha256": "da0b10c06a4da76d4c86a9c19d03f44cb20b891b6a9deb8a92d8ec90bffdce0f",
+    "model_members": {
+      "IN019__repair.blend": "100d0b11695c1c3f99a339713b997e5109f958fadaeeed2f09b8f208e977c49e",
+      "IN019__repair.glb": "d2966692983ba1cc178341c439ae35dcb25f0bc77e8d5fb15016ece2e24a33c5"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN019__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN019__repair_thumbnail.png",
+        "sha256": "86cf796d2ed5440eb30abfd2ff20f446976d7643a93d2dd29f6810a33313fe34",
+        "source_sha256": "4d958e68abd0589da862eafdf07c75b4f5f326d584f8ab8b2643cbe099d0ba4d"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN019__repair_full.png",
+        "sha256": "534329d7e6cec93af6c9193e56dfe219e69cc3b66ae5cbbf1570bfe45b769958",
+        "source_sha256": "d3964cd7e0004b8de1e65d402b29eec708de092f11baf379b144a2d42e40a85b"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN019__repair_overview_comparison.png",
+        "sha256": "5dcb705b91e411d594577b0bfa9ac3af1b65506e1e918588defae7a028cad469",
+        "source_sha256": "ebd4fda5e4a706d2d92da914dc0933f80037061b117fcdd508ded09e11e6ed34"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN019__repair_close_comparison.png",
+        "sha256": "42fd056a588cd551907af9f7313efe5a744b288a53b74032b2024a44bbb37821",
+        "source_sha256": "cb159c36f60ab821507b280bf0dd3ca8fe079b4df366e5fe8f88bae985b7e8c4"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN020__blue_linen",
+    "base_record": "IN020",
+    "lod": null,
+    "zip_sha256": "66702de819116eca5236aee383325ec7a9b967d996e92f49848fdd7833e03bbc",
+    "model_members": {
+      "IN020__blue_linen.blend": "82da6ee7e2c5039c93e25fb329051d606c945220b4db93092d7240dbe9c77fa0",
+      "IN020__blue_linen.glb": "00cd7f5f12119a7bce3a3c4a46331a799f09fdb62eda9aa34b146da1b3a14eb7"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN020__blue_linen_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN020__blue_linen_thumbnail.png",
+        "sha256": "ba1a7e8fff0f46886163a965818966d8b09a91b429a7e23cfeccd3caef72c95d",
+        "source_sha256": "eba118249f3b8b7657daeda69ef6e32c26b7a591177789d41c5ec292f747b1a1"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN020__blue_linen_full.png",
+        "sha256": "ab9c15acaaf916bf1819e8d261275c403e236885a30ed67c85fb7bacdc35d967",
+        "source_sha256": "adf5ac4917cb2d0829fd387ca643e255b579b458667342498f1c5980c9ace843"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN020__blue_linen_overview_comparison.png",
+        "sha256": "7484db503473ce9314d3302ac8d739d23511fef931fdfbe3ebb43b5637860a95",
+        "source_sha256": "64f2bfd1171193602a69cda2b11b19e14df6db5d63c3c07b32228ef7f09a56c4"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN020__blue_linen_close_comparison.png",
+        "sha256": "6ca624e02d41d27b5e31838a5bddfd845fe0874290241a3354a4bbcc83f277ca",
+        "source_sha256": "fec1613a01f0202106a5f3faea4a8afae7c331c90079681e45116054b1a51abe"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN022__repair",
+    "base_record": "IN022",
+    "lod": null,
+    "zip_sha256": "72c4abde630f83ad3849aba9f34a39569f446db993796ef83fde699c7e27aedf",
+    "model_members": {
+      "IN022__repair.blend": "8b00be8c929e6c8280a8218b75ad0fc2684d1956f957862b0d8acb29c076d9b2",
+      "IN022__repair.glb": "f1efa7faa0af7078c7e83194e750f64966440a4daab6277c584e730b01a0755a"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN022__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN022__repair_thumbnail.png",
+        "sha256": "7fb9e1ff3f4f4008df6afb9b01d226c63e6ce5b9d28c12e8f9123be0c0ea4e15",
+        "source_sha256": "d1337b0c78ff5c24ef4554c16b1465a873e0fc11b567b2282486b788851bfd35"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN022__repair_full.png",
+        "sha256": "5c130ba62e91f1c85decc0a4e943cf7dc40de374c78fc54179711fd8b73fdb8b",
+        "source_sha256": "177deae6f57f169431b4c5e8d8de0a700f1ce29e7a8c705cb69d9a1198a24716"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN022__repair_overview_comparison.png",
+        "sha256": "4622fa272c669b3fdfe5bf2c86722fc53cf5ebf8df48f4ab21b9319b3dcf3890",
+        "source_sha256": "94c0a7fd8edc3c25c2da9ca309a053dff0a6ab7d4ddb04036959359b8a94bcf9"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN022__repair_close_comparison.png",
+        "sha256": "23348a66285598c03759c4581db3457eca93ea38601f492364ae25ce48e63271",
+        "source_sha256": "ebdc5b1944b0ae452f0936bef02838e28abd68b33ecf1df15783a7117776e922"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN023__repair",
+    "base_record": "IN023",
+    "lod": null,
+    "zip_sha256": "085e60918a5fcb30c324cb87b19c8ee7e3287e164e0d75bdbda11681513b3ce7",
+    "model_members": {
+      "IN023__repair.glb": "c1ec2b9eb1b06911b309eadcb50c89f352b75f73d3877a7bc93306adf49f1a8b",
+      "IN023__repair.blend": "5974fdc5f91930f201666a945bcd0b3020b6f26baf7667434a2821d7db95aece"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN023__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN023__repair_thumbnail.png",
+        "sha256": "e6ddaf53a166c64d37219199673cd882f35be992c03fd701e63a41a78ebcb139",
+        "source_sha256": "9cfd7cf3a1635fda668ed0ae075c287e4d45e142605cd5d0039bd38114e1059f"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN023__repair_full.png",
+        "sha256": "2ac47b8e02fdeb865ae961b1b49b6a73f05d9b58022f714c31eb621047ae54ba",
+        "source_sha256": "f62e3121a09d72b5bdf75ea9cfe785aac95ceb12742a0e85b78c6fde666b8244"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN023__repair_overview_comparison.png",
+        "sha256": "a1dba47399abc93c608eaa98cfbf3d15bfa830e9657f0a8345c98847486f1fa4",
+        "source_sha256": "2d14a3c6a366615e7033ee77c9fe741230590c439c990bfe28c2a4064be991cb"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN023__repair_close_comparison.png",
+        "sha256": "4fa1af4ff417f62414de44066e428e6ccafe99875f399ca080ba78f7787ddf52",
+        "source_sha256": "e3ea42508c3a8d6317c6478ecbc55c09de9c813ab21f5e00da3853714a88c670"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "IN024__rust_wool",
+    "base_record": "IN024",
+    "lod": null,
+    "zip_sha256": "633fb4969b3cf3e26fd2d6276729aaa052d29e4442bab09d5e8280e1cbe54d3e",
+    "model_members": {
+      "IN024__rust_wool.glb": "fded132762cc9e4954bb5dd223f694d063a9870a95d9c91e29bc04e53762f55b",
+      "IN024__rust_wool.blend": "7227f245e24f94b956fdfe3a1381f15af891adfeaa66b77890d66f646f499d9c"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN024__rust_wool_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-in018-oc010-v1/IN024__rust_wool_thumbnail.png",
+        "sha256": "76c3cb7b06d88220dd2e44f6521de089017058320ebf415c36408bce45ec98c7",
+        "source_sha256": "66b813f1beb2fbc2123401acc7b41b69dd0db91d643a3e2af07cc90c63180869"
+      },
+      "full": {
+        "file": "previews/quality-in018-oc010-v1/IN024__rust_wool_full.png",
+        "sha256": "3c506086c1ebece679725a412f4feeb9136dbfe0c021c67ece5ae11b4ae0c26d",
+        "source_sha256": "de809ef944ac313ea8321a6c716d6635a552c1a40ba3212ade9129d05ff01e01"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN024__rust_wool_overview_comparison.png",
+        "sha256": "1fb19d5e87b490f2b9052e2a484bc1a864cddd3daf43d8a83356c9625d9fc07f",
+        "source_sha256": "3e7f3326333f8d1fe0606bdb5c60a7199dcfa2bf53b2ca9ba136d1efa3ced23c"
+      },
+      "close_comparison": {
+        "file": "previews/quality-in018-oc010-v1/IN024__rust_wool_close_comparison.png",
+        "sha256": "90ecc8507b8f39556a47194ee084e8917e081b1ae5247e4f4c2e6ab925bef662",
+        "source_sha256": "a1f8090e2f636c67e920dbddcb2b31048b52f07cf3dd4ad116025b825458c1b8"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "OC015__amber_glass",
+    "base_record": "OC015",
+    "lod": null,
+    "zip_sha256": "fa42560d0fbee2a134371ce7209dcad8bd5f0943943d77890670479341259441",
+    "model_members": {
+      "OC015__amber_glass.blend": "11c0126a6eaa752d6c11ab61e50e2100ee5ba72bce2b222de0417899e80b16aa",
+      "OC015__amber_glass.glb": "25bccd7f781c750ee89f162fbbd02867aca5d4f5bc8682d72d8c5c1e6e0ac153"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-oc011-pa001-v1/OC015__amber_glass_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-oc011-pa001-v1/OC015__amber_glass_thumbnail.png",
+        "sha256": "83a1a1c8df29f35f41c8a409e4683ccabec3b9db1c0ec9768581474617201847",
+        "source_sha256": "1d3570d46844d6c2c1c44451fb827f019f18d3147ddb4805ebda52e47ced7ef4"
+      },
+      "full": {
+        "file": "previews/quality-oc011-pa001-v1/OC015__amber_glass_full.png",
+        "sha256": "7891b22e933e9bd6b7e9502552a5613883babc6e9252d14284afc32e20025fd8",
+        "source_sha256": "0c0c36c30a1615cb106ef15cf64134bcf5be28b6f550adf154e7a88ec661cb67"
+      },
+      "overview_comparison": {
+        "file": "previews/quality-oc011-pa001-v1/OC015__amber_glass_overview_comparison.png",
+        "sha256": "5227b0ff37f2dca926fe9bd1a6284faeb04e27947cb43ce0a4edda7d3f098b17",
+        "source_sha256": "439a2b355d4e21c1355a7be9018bbda8afcafe408c6bcc4015bc9649004b65fa"
+      },
+      "close_comparison": {
+        "file": "previews/quality-oc011-pa001-v1/OC015__amber_glass_close_comparison.png",
+        "sha256": "6502f451c61b9fb63c8b9237d3c4d40e8054eba58332cb45e3ce5410ad9c5674",
+        "source_sha256": "dd78edde21dace4d2ebd8f545d065ce06ee1730f3607e4c8f57285c47d0e33e8"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

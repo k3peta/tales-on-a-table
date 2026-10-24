@@ -142,6 +142,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW002.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW002__repair](../../previews/quality-al027-fw009-v1/FW002__repair_thumbnail.png)](../../previews/quality-al027-fw009-v1/FW002__repair_full.png)
+
+[FW002__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW002__repair_CC0.zip) · [Details](../quality-al027-fw009-v1.md).
+
 ## FW003
 
 **Corked apothecary bottles**
@@ -165,6 +171,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW003__repair](../../previews/quality-al027-fw009-v1/FW003__repair_thumbnail.png)](../../previews/quality-al027-fw009-v1/FW003__repair_full.png)
+
+[FW003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW003__repair_CC0.zip) · [Details](../quality-al027-fw009-v1.md).
 
 ## FW004
 
@@ -256,6 +268,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md) · [Catalogue 2](../../catalog/husbandry_cellar_v2.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW006__repair](../../previews/quality-al027-fw009-v1/FW006__repair_thumbnail.png)](../../previews/quality-al027-fw009-v1/FW006__repair_full.png)
+
+[FW006__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW006__repair_CC0.zip) · [Details](../quality-al027-fw009-v1.md).
+
 ## FW007
 
 **Birch twig broom**
@@ -321,6 +339,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip) is retained and is not the pictured model.
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW008.png). [Version audit](VERSION-AUDIT.md).
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW008__repair](../../previews/quality-al027-fw009-v1/FW008__repair_thumbnail.png)](../../previews/quality-al027-fw009-v1/FW008__repair_full.png)
+
+[FW008__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW008__repair_CC0.zip) · [Details](../quality-al027-fw009-v1.md).
 
 ## FW009
 
@@ -388,6 +412,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW010.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW010__repair](../../previews/quality-fw010-019-v1/FW010__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW010__repair_full.png)
+
+[FW010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW010__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
+
 ## FW011
 
 **Lantern on stone plinth**
@@ -454,6 +484,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW012.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW012__repair](../../previews/quality-fw010-019-v1/FW012__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW012__repair_full.png)
+
+[FW012__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW012__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
+
 ## FW013
 
 **Three earthen herb pots**
@@ -486,6 +522,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip) is retained and is not the pictured model.
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png). [Version audit](VERSION-AUDIT.md).
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW013__repair](../../previews/quality-fw010-019-v1/FW013__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW013__repair_full.png)
+
+[FW013__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW013__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
 
 ## FW014
 
@@ -553,6 +595,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW015__repair](../../previews/quality-fw010-019-v1/FW015__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW015__repair_full.png)
+
+[FW015__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW015__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
+
 ## FW016
 
 **Mushroom sorting tray**
@@ -585,6 +633,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip) is retained and is not the pictured model.
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png). [Version audit](VERSION-AUDIT.md).
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW016__repair](../../previews/quality-fw010-019-v1/FW016__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW016__repair_full.png)
+
+[FW016__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW016__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
 
 ## FW017
 
@@ -652,6 +706,12 @@ Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md) · [Catalog
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW018__repair](../../previews/quality-fw010-019-v1/FW018__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW018__repair_full.png)
+
+[FW018__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW018__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
+
 ## FW019
 
 **Balanced apothecary scales**
@@ -684,6 +744,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip) is retained and is not the pictured model.
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png). [Version audit](VERSION-AUDIT.md).
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW019__repair](../../previews/quality-fw010-019-v1/FW019__repair_thumbnail.png)](../../previews/quality-fw010-019-v1/FW019__repair_full.png)
+
+[FW019__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW019__repair_CC0.zip) · [Details](../quality-fw010-019-v1.md).
 
 ## FW020
 
@@ -748,3 +814,8 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip) is retained and is not the pictured model.
 
 **Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png). [Version audit](VERSION-AUDIT.md).
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![FW021__repair](../../previews/quality-fw020-in007-v1/FW021__repair_thumbnail.png)](../../previews/quality-fw020-in007-v1/FW021__repair_full.png)
+
+[FW021__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/FW021__repair_CC0.zip) · [Details](../quality-fw020-in007-v1.md).

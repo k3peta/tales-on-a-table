@@ -4,9 +4,9 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.171/171 variants pictured.** All157 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All157 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
-**1008 distribution records +171 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +187 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -196,3 +196,15 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 [Quality55 variants](variant-06.md):171 separately counted material variants; base1008 unchanged. FP021/025 revisions and repaired-uniform variant public ZIP/member/image identity verified.
 
 [Quality56 UV revision](../material_variants_pm003_wm001.md):171 separately counted material variants; base1008 unchanged. PM005 UV-only revision public ZIP/member/image identity verified.
+
+## Current update:2026-10-25
+
+Base1008 distribution records unchanged; material variants187 separately (+16). 164 revised contained-model ZIPs across125 existing records; HQ/LITE not independent additions.180 ZIPs from20 quality batches plus2 correction batches. Assessed756 records,252 remain;152 polygon-budget issues unresolved.
+
+画像は各ZIP内モデルSHAと対応。基本1008件は据置、色違い187件を別集計。改訂とHQ/LITEを新しい基本形状に加算しません。基础配布1008不变，材质变体187另计。
+
+TR013 and TR041–047 HQ/LITE candidates remain held. Superseded PA006/008/010 pale candidates and terrain-held v1 are excluded. Existing originals/history retained; no claim that old originals are defect-free. BM007/BM054 and other recorded diagnostics remain unresolved. Complete independent-shape count, all current-model quality, full physics/game/Blender4.3.2 compatibility are not established.
+
+Public-download identity pending. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
+
+[Quality57–76](../quality-57-76.md) · [Variants172–187](variant-172-187.md).

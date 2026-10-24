@@ -21,3 +21,15 @@ Quality54:154 latest revision bindings verified including FP010/011/012/015;851 
 Quality55:156 latest revision bindings verified including FP021/025;851 records have no revision entry.
 
 Quality56:157 latest revision bindings verified including PM005;851 records have no revision entry.
+
+## 2026-10-25 current quality update
+
+Base1008 distribution records unchanged; material variants187 separately (+16). 164 revised contained-model ZIPs across125 existing records; HQ/LITE not independent additions.180 ZIPs from20 quality batches plus2 correction batches. Assessed756 records,252 remain;152 polygon-budget issues unresolved.
+
+画像は各ZIP内モデルSHAと対応。基本1008件は据置、色違い187件を別集計。改訂とHQ/LITEを新しい基本形状に加算しません。基础配布1008不变，材质变体187另计。
+
+TR013 and TR041–047 HQ/LITE candidates remain held. Superseded PA006/008/010 pale candidates and terrain-held v1 are excluded. Existing originals/history retained; no claim that old originals are defect-free. BM007/BM054 and other recorded diagnostics remain unresolved. Complete independent-shape count, all current-model quality, full physics/game/Blender4.3.2 compatibility are not established.
+
+Public-download identity pending. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
+
+[Batch index](../quality-57-76.md).

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "TR009_HQ__repair",
+    "base_record": "TR009",
+    "lod": "HQ",
+    "zip_sha256": "b9960f7ff4f95332a85f72ba08aa721eb4ee5ebcf3ec8362023eb022893850a4",
+    "model_members": {
+      "TR009_HQ__repair.blend": "0a77ad9114ac835b53652b53ce032472ef69d6b0bfad07947f532290ed086032",
+      "TR009_HQ__repair.glb": "f6d268e42dce856fc9264129eea8c78080956e3b911c0f26f1f0e52d4433da79"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR009_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_HQ__repair_thumbnail.png",
+        "sha256": "5443a8a169312c9d506282dfbf2b2237bce3394b3c3ffc5e64f356d58f8ee113",
+        "source_sha256": "28f551e2e72ac6911c7dd665cd44071117af1e3b21521a695101e21d92258727"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_HQ__repair_full.png",
+        "sha256": "7d27fd06247b698b4d7658a6fc0a6d20ba18d771b1620aec113e311bd881c604",
+        "source_sha256": "717d004b4888342cac8ad51f74606ad00f29a48f869985e0d5fa961f905547e9"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_HQ__repair_comparison.png",
+        "sha256": "f2a3a06725252bdca76245b6c776d014a2e507e00715481606ec18d405a5452a",
+        "source_sha256": "a00cad8146e5c28d430b68cd89e8fd553ce761cca971da55ca7a5e6847b255a3"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_HQ__repair_close_comparison.png",
+        "sha256": "244c47ade42ab25e03815df245aafe355fe888dc72a3346251d9dbe1417cd6a0",
+        "source_sha256": "263bb5c7b8a23fceb4887e77e0b5abd42283a3f604af4dfa22d31fd6b329f31f"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR009_LITE__repair",
+    "base_record": "TR009",
+    "lod": "LITE",
+    "zip_sha256": "7c29746673edabc133e2fc5b67a4f70e692d2af9d4e98cc8c24bd4d9ec819de6",
+    "model_members": {
+      "TR009_LITE__repair.glb": "f3e3bb18fa43368d41e1a27414621470e24718547719e70aba164478f49f65a1",
+      "TR009_LITE__repair.blend": "7875e0bdd08ee47fadd4bc59e55eea524a1bd084757bb45fcbd735a9f4c8aca1"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR009_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_LITE__repair_thumbnail.png",
+        "sha256": "e504319ec06840dd6b8417cc72b0415bd02e2d71d2e4263e13267c171c58a4a1",
+        "source_sha256": "93e344a6036224986439d53fc5ec7ad676c37a155c59aeff52d0f11508701508"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_LITE__repair_full.png",
+        "sha256": "345542ed673533d70e9ec886cabc3531f86c3ead3cb4f276a5b0adbcfab3f366",
+        "source_sha256": "35952cd9f43f00b63f100fc8cf2d57b6ab5698bdd0eea54f7916be13580e47a6"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_LITE__repair_comparison.png",
+        "sha256": "d4f76335c1fba9daffa7bea48c21c5a673dd3291964c23ce59259502d81d0088",
+        "source_sha256": "1166d1f0039c1d5e3ae4629d5d7d60087b711ccb72d34541ba260390f9faed67"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR009_LITE__repair_close_comparison.png",
+        "sha256": "7b1a10d0c939d71523a41999530d4c3a76463b0e18d372122968efbe0a26ac28",
+        "source_sha256": "1a2164bd1801083bede5cbd5f9dec8d8be9029998d054e1bf0c4c08e258a9568"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR010_HQ__repair",
+    "base_record": "TR010",
+    "lod": "HQ",
+    "zip_sha256": "7e05aacd80d89f8c1989b3c76a5f6b21dc88da3ac68711e0f9c1679ff3713a00",
+    "model_members": {
+      "TR010_HQ__repair.blend": "25dd55b13d7d9b25d959de6455f7e9e08e9eece7a96ce5144ffa3a77f7b76cd2",
+      "TR010_HQ__repair.glb": "bda7f48f15d15ceb3f88a1b3a96ca3ee34cde3fe31d6fc1c74632051797a697d"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR010_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_HQ__repair_thumbnail.png",
+        "sha256": "350f907d84e797bb4276f44fc99ac8c130db552629995a2c63e8dc7d5f865706",
+        "source_sha256": "6448aaa71f86383901e577a90257a2aff875488faee9e7a6fefba8f23c5d5076"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_HQ__repair_full.png",
+        "sha256": "138a45798287994358dafc8c67a59ac7dcaaa09672e0780a9a2066cb0a6dd673",
+        "source_sha256": "90a8ef279d200b106ab2c09f7bf43c179e187f22565f7d4f042c488ec5af7342"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_HQ__repair_comparison.png",
+        "sha256": "f328c4d53c8d3f1df073602b4baae59a0e48434a2cdbb333b71684e4cb4a4431",
+        "source_sha256": "36ca94e0400340d490c7182b2684f575d6349b5e374d1a23ef1b1304554c86fe"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_HQ__repair_close_comparison.png",
+        "sha256": "819b1564c63d223c6c186c1ce818acc666ede83db2aa76334c08b4a3318f382a",
+        "source_sha256": "815d53533969ea35f449cfae83dbc555384d4934306a1fafff6f52390709fb34"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR010_LITE__repair",
+    "base_record": "TR010",
+    "lod": "LITE",
+    "zip_sha256": "2c99b7fc4a7f41e38ed094ae9285d55f51f5700ed65501cc5914139164a36de9",
+    "model_members": {
+      "TR010_LITE__repair.blend": "30f93e646c3188270658abfaca03e46a7c6718f41fb95a0860d5bd6e7c5ba30d",
+      "TR010_LITE__repair.glb": "31e472cc3c5872f797fc38eb1f888451fd2deecce863554b5adfc6409b3028ed"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR010_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_LITE__repair_thumbnail.png",
+        "sha256": "188946d319cbcdfa319eb60dbd4d053f18e00b0f9bd9dc99045d68d81e9e05e5",
+        "source_sha256": "772d1e6e1d2b8767f0f135402b0d1e75a3406b819203769c1e0ca19ddb439cb4"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_LITE__repair_full.png",
+        "sha256": "6ed146995116823de9500c179b55af7e4de9a7dea0ba2eb0e3ec579254bf2da3",
+        "source_sha256": "4fd7de75bdd125ff43c472effafe940dfab877ca813b7e284ce66d73e25bca72"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_LITE__repair_comparison.png",
+        "sha256": "f06b4c875ebf077c259fd794990332918ebbe40fe07e7eb6733d66faf01e66cc",
+        "source_sha256": "2f4ef1220d7089d22b1b67758673edefc3bf5375c2748060015482102c52bcb6"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR010_LITE__repair_close_comparison.png",
+        "sha256": "e86affb09e09450b310f074ba4cb58b210a47dc8d8c8655ef48b782fd492e351",
+        "source_sha256": "e844eca3d997a5ef76c4ca8b468471a410358938c6e43ce580ec1fe54bfa0d78"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR012_HQ__repair",
+    "base_record": "TR012",
+    "lod": "HQ",
+    "zip_sha256": "459455c17d914d3565509e540af0cdf59bc36882e7472f31fbbe57fe631fc768",
+    "model_members": {
+      "TR012_HQ__repair.blend": "e2a468b1955c3716a18901765f57b8d15f8160ed80320c38f9aaa52bc2160f67",
+      "TR012_HQ__repair.glb": "1860ce8b1985ccce7ba7870d224f791d42a3a5c7b48edf07e449facff9f11ef9"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_HQ__repair_thumbnail.png",
+        "sha256": "b2b26272c44bc6bbaa1b71a2bbc1782c1feaefd8b57f804952361c9c1b5bd6f6",
+        "source_sha256": "8c8a5a4588b6fb32e5cb662a4756e7509a56fa774fad2c2ad5950429c3a9a29b"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_HQ__repair_full.png",
+        "sha256": "e46af33e7ccb1fd1836bbe9d5b5c6769023626e8f15b7dce43ae3899e0d6af93",
+        "source_sha256": "f587b7e4822ae4f97c410f5e79101ce4d8480568e508548b209d72ae44bf7d98"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_HQ__repair_comparison.png",
+        "sha256": "c04f1acda20253e493ec1c5465db9622318e24ba5d65b9d28b0ff7206f9d43c3",
+        "source_sha256": "5385be165fb8074e291efa9d4579d3e86a4e3af7ae67fb7857375ecd9a84616b"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_HQ__repair_close_comparison.png",
+        "sha256": "bbc1716111787197e2e6e20c1dd946dfa5afec8d99689eb0fff04413c8c254f8",
+        "source_sha256": "c5a90153796d37b745af3b431e56762657eff0fb85b433068a4704a57d72a0b8"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR012_LITE__repair",
+    "base_record": "TR012",
+    "lod": "LITE",
+    "zip_sha256": "05b5e30894a703103489012d520750ac8e015998a0618bd3a96d324aa7659363",
+    "model_members": {
+      "TR012_LITE__repair.glb": "16c2422ae203dc82edf3bcc389223e5be019ad18aa4b1e63c603dc891cd54e6a",
+      "TR012_LITE__repair.blend": "33c52ecc6b85354c9ec11756542140871370aa00ff763d74347446adcd1c368c"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_LITE__repair_thumbnail.png",
+        "sha256": "7238cc25c7484e13ce46cbf1a76ffa86998d0e8539acfa9500ae04bc6b7a32e1",
+        "source_sha256": "670b4eb45fdf7a2f0e80d9c662e4b6aedb7025b58d42969debc82248427b576f"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_LITE__repair_full.png",
+        "sha256": "9dfa6d40ea3f384d0db905bd15f05a558cbf1b42c56df6475e7b487cd23b4078",
+        "source_sha256": "d7eece415522c19449c90febb1b8d6321a238afb35e3fefe4385a1fb120d7cec"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_LITE__repair_comparison.png",
+        "sha256": "d1df38bb9b89bd48622799ca27e7033a27f7641c70a155c60c4064cfe113a955",
+        "source_sha256": "a7cfd7431204bd2df9d5dee124d6760941a03201454167b63dbf6b69bb7d8ead"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR012_LITE__repair_close_comparison.png",
+        "sha256": "d03d486732786516932d0599a7991edaec95aead8590ca0f55a6bdad5ba480e3",
+        "source_sha256": "ef0510c5bb0298e17c6afebccab876725d7ff361906b4a17c8f5195a743308d4"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR015_HQ__repair",
+    "base_record": "TR015",
+    "lod": "HQ",
+    "zip_sha256": "13c0d7ecb089be30f4bbb75e2c7375590425c6a487486b91bf2fffcf05b48fc0",
+    "model_members": {
+      "TR015_HQ__repair.glb": "2dcdf0f22e89b5274d07854bab06f86331a3d4ccb115ddfaa23a0dcd1628d1ef",
+      "TR015_HQ__repair.blend": "4e1387853693efc76ea6d6e01868040f0505a36e6854f3e6bbcf75a2f8f6cc07"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_HQ__repair_thumbnail.png",
+        "sha256": "00bedb96d7e4e3d858ebb7bd96e590969a3f24d670f8800ee72b59528249534a",
+        "source_sha256": "bff582ec1647b6527839209c4d47fa79a93356b94e6fcf8bb829757adb10c511"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_HQ__repair_full.png",
+        "sha256": "49ee901cea7b01251991073ddc679b3dbdc49137b9ee2786c63bb7c8c7dbaa5b",
+        "source_sha256": "f86c5a516c340411bcaa83cd27946f2c658834400881f4f8c2a9b23085f89ce7"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_HQ__repair_comparison.png",
+        "sha256": "2c170c69030e4e1ef1094b86e1162e57646a0d7eaa8bf15ccac7e842ad4ace10",
+        "source_sha256": "3db578fe1fa6e709a860359ced7ceea90ade84365fd8ca80be0405c2bf1aacb6"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_HQ__repair_close_comparison.png",
+        "sha256": "7403510f1d16456412954c673e0905d77f9f0e612bfc66d62b3c494fe7139c48",
+        "source_sha256": "61202309a3b850b01e89d722bcbae21f45b4736b34b946618757479c0b82b56b"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR015_LITE__repair",
+    "base_record": "TR015",
+    "lod": "LITE",
+    "zip_sha256": "c4545ff6003c682a48ff64b95997565998e338741675f9a870ceb89275e590ba",
+    "model_members": {
+      "TR015_LITE__repair.blend": "e8e9e8d8360e324e26d1b3a5d290910f9617caf414f37353fe37359fd1a0a584",
+      "TR015_LITE__repair.glb": "ae65a8d1683ae032b7794969e27a6d61b60b9eb4ebb60b87f93bf17c76aacf9e"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_LITE__repair_thumbnail.png",
+        "sha256": "2779b7ea1e3e4ff52c7c68136b22725abe1ba4e6e17b1a23d8c3d9c6868b34e9",
+        "source_sha256": "62afde8c882c4589dee62745a0c100572f2d5e7601c3ea18f365c65482d48d3d"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_LITE__repair_full.png",
+        "sha256": "be813782eebbc8d1fa6b123add3a220445542c8b13deaba26706dbc55622dd4d",
+        "source_sha256": "380503af0e3ab90f1a76986ffd5321b50b3ba22c48f5468e780a314909f59a86"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_LITE__repair_comparison.png",
+        "sha256": "d458710c7d641a4dd93abf4ccc58b80970a79bf02db2700cd2f58abd7afa075f",
+        "source_sha256": "2e51124d4d50b2e69bd13c796fa7a2bbd1e03e07af5583044cadcafac63c2405"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR015_LITE__repair_close_comparison.png",
+        "sha256": "576b86e7ecd562b4346a3ce128fcad343e79980a75ea67f57106598909b977da",
+        "source_sha256": "d7995c45a4a40a767958de48713243dcbffb929c162ee412a0b13e9e70f9f0ec"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR016_HQ__repair",
+    "base_record": "TR016",
+    "lod": "HQ",
+    "zip_sha256": "a228a4ed3fa83af1ba7b475dfb67e78f2fb939c8ee91bea4992b118f3e3991ac",
+    "model_members": {
+      "TR016_HQ__repair.blend": "acb7b107f05d523a17d1f7c61ba54df1200fc595dbf8457c8ecdd847920bd021",
+      "TR016_HQ__repair.glb": "bbbe6c573182019da7d1976e49344417b752913f2fb5b1f705a9ece92637b77a"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_HQ__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_HQ__repair_thumbnail.png",
+        "sha256": "19b7c50ff34ac1bcc675b083018882533164fcdd56b54c06022ff44b284c634e",
+        "source_sha256": "ea9aadeec0bdc714ee3faf36c0cca02fa79aa5d6ae78bfeda05676173bf61f23"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_HQ__repair_full.png",
+        "sha256": "cb21bd758001c666ee5c249b91425edb8a6ffbc611a060d26d93d201f29edd5b",
+        "source_sha256": "6e152876caa926b19b66d81ac44bc4b29336c72915cda09e4abe7300b9d10f2b"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_HQ__repair_comparison.png",
+        "sha256": "a1908e1c5563d76c10be3dfa52876da4dbf85282d6ca1d5cb36dfdfb76a7d791",
+        "source_sha256": "4944199c29b51465ccc5fb88721e78a80352a8dc17a93ec0ebf8fc67779445e9"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_HQ__repair_close_comparison.png",
+        "sha256": "6304db9c55c65b9a565b41cb95ad064c4f169cf766725ec6e1160e21c865a41a",
+        "source_sha256": "5c6abbf343720b1c1f0b71267a3c211d703d3c1c0c4240f4119649dcb212cf77"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  },
+  {
+    "id": "TR016_LITE__repair",
+    "base_record": "TR016",
+    "lod": "LITE",
+    "zip_sha256": "7d9d4d28dc059d16cf84fdec63ebeb584ea497e0a9da48e565cb9c232a54d615",
+    "model_members": {
+      "TR016_LITE__repair.blend": "e77791a5a26c1945f75c7cb7a3a1e5cb241db1b3ac0cec770cc4c82cd3ed3b10",
+      "TR016_LITE__repair.glb": "a8e13e47f207792c30d67d91ec1a0f7dc62df862951e1b09567fe476d7710c19"
+    },
+    "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_LITE__repair_CC0.zip",
+    "images": {
+      "thumbnail": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_LITE__repair_thumbnail.png",
+        "sha256": "a1bf7963d239bdb996fc6235a9ecf86678bb5eb15fb52bdc1d27b01c96c609ac",
+        "source_sha256": "9d52c99ff8df84a00c5924e3389152bfb1cccf23c5c8a395f285f28afa944615"
+      },
+      "full": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_LITE__repair_full.png",
+        "sha256": "dcbbf53cfedb0ddf79174ed6ad53669f53d9dfc9e9b017eea36402a95351fa19",
+        "source_sha256": "c7a2f74e20b0ee6079368f0a7a33b2d9da04ee52c11a71381dab89ea1831a8a1"
+      },
+      "comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_LITE__repair_comparison.png",
+        "sha256": "80fd154bdbf3802a0836a05bddaac568016334cff0b302f04edebb96e1847fb2",
+        "source_sha256": "251e86f28ee00617886c2b443312e9abb7baa1cc23e92bea9f230e3c23895f25"
+      },
+      "close_comparison": {
+        "file": "previews/quality-tr-held-repair-v2/TR016_LITE__repair_close_comparison.png",
+        "sha256": "f66cebdbe2588568c73c909ab3425249e5c19a077d482b882beea1dc748131c0",
+        "source_sha256": "d267a008acde69499a6fc1d7c5eee8dc6a72cd9ae4edf532222d9c422ad7e403"
+      }
+    },
+    "status": "final_zip_guard_passed_public_download_match_pending"
+  }
+]

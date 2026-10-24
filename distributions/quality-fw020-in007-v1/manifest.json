@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "FW021__repair",
+      "base_id": "FW021",
+      "entity_type": "revision",
+      "zip": "FW021__repair_CC0.zip",
+      "sha256": "4f0b4e1700586ee7264ee2f3dd73757b2d92730702512c05fa92563ad219949c",
+      "bytes": 2218367,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/FW021__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "IN007__blue_wool",
+      "base_id": "IN007",
+      "entity_type": "material_variant",
+      "zip": "IN007__blue_wool_CC0.zip",
+      "sha256": "4e8fd6a623018c17e97db428e36908af40707feb9fd727399962ec596e2f33a3",
+      "bytes": 173483,
+      "description": "Blue wool UV color; trim and roughness preserved. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/IN007__blue_wool_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revised_contained_models": 1
+}

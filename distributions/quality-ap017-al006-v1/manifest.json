@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "AL003__repair",
+      "base_id": "AL003",
+      "entity_type": "revision",
+      "zip": "AL003__repair_CC0.zip",
+      "sha256": "35f199adb23301298c39e1fe46ac4da51173fa844a1c049013f24d1f2a19535d",
+      "bytes": 625316,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL003__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "AL004__repair",
+      "base_id": "AL004",
+      "entity_type": "revision",
+      "zip": "AL004__repair_CC0.zip",
+      "sha256": "ae12a96e94ea1699a55fad947c9ccdd2c4ef7f34dfe996db0f1d0a49b55c35a5",
+      "bytes": 78995,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL004__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "AP018__repair",
+      "base_id": "AP018",
+      "entity_type": "revision",
+      "zip": "AP018__repair_CC0.zip",
+      "sha256": "8788e4ab9788b75c86333ccec7f84239574f833005e5e7a4135711dd6a449d75",
+      "bytes": 1646067,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP018__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "AP019__blue_ceramic",
+      "base_id": "AP019",
+      "entity_type": "material_variant",
+      "zip": "AP019__blue_ceramic_CC0.zip",
+      "sha256": "feca6b688867f4de13171a3bfd09cba2fd8df8ff4ff41e22e8f195b822e55045",
+      "bytes": 2807685,
+      "description": "Recolor existing ceramic UV texture on repaired AP019 baseline. Water/stone, transmission, alpha, roughness and other channels retained. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP019__blue_ceramic_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "AP019__repair",
+      "base_id": "AP019",
+      "entity_type": "revision",
+      "zip": "AP019__repair_CC0.zip",
+      "sha256": "83cb6e3e1fa9e621ce27e1c9875e4816341a9fb9df03215570af5a673520203d",
+      "bytes": 2870632,
+      "description": "Remove exact-zero world-area faces only; preserve all positive surfaces/materials/UV/colors. No new base model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP019__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revised_contained_models": 4
+}

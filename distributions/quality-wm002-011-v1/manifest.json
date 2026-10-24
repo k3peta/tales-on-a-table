@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "WM002__repair",
+      "base_id": "WM002",
+      "entity_type": "revision",
+      "zip": "WM002__repair_CC0.zip",
+      "sha256": "f874101051995353d4fe245af6984f59d8c5ff0fa8f1cf3a9e0a77cacde0c804",
+      "bytes": 5357292,
+      "description": "Remove 24 exact zero-world-area grain faces, retain every positive surface triangle and attributes; add missing timber-check UV.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM002__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "WM003__repair",
+      "base_id": "WM003",
+      "entity_type": "revision",
+      "zip": "WM003__repair_CC0.zip",
+      "sha256": "a1c10791f2c0c25cb1e491dbc58f5dd752bee63a82de06b552888a6b36e88825",
+      "bytes": 5635000,
+      "description": "Add missing UV0 only on source timber-check detail meshes. Original geometry/materials and existing UV layers retained. UV-only revision, no new base or palette variant.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM003__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "WM005__repair",
+      "base_id": "WM005",
+      "entity_type": "revision",
+      "zip": "WM005__repair_CC0.zip",
+      "sha256": "059cb001f5f2115669833e83b1edc4fb13b354311f3cd6bb912dd37c60ce1c8a",
+      "bytes": 5788467,
+      "description": "Add missing UV0 only on source timber-check detail meshes. Original geometry/materials and existing UV layers retained. UV-only revision, no new base or palette variant.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM005__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "WM006__repair",
+      "base_id": "WM006",
+      "entity_type": "revision",
+      "zip": "WM006__repair_CC0.zip",
+      "sha256": "3745d29504e393e91cc667739b11da2d9f40681d92c7232b8e52d4004bc362d9",
+      "bytes": 3344701,
+      "description": "Add missing UV0 only on source timber-check detail meshes. Original geometry/materials and existing UV layers retained. UV-only revision, no new base or palette variant.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM006__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    },
+    {
+      "id": "WM007__repair",
+      "base_id": "WM007",
+      "entity_type": "revision",
+      "zip": "WM007__repair_CC0.zip",
+      "sha256": "c46138277b74cafda6dbcf7fdb4adc5b7c58dc8ac62c5d3dfeb264d4c69acd2a",
+      "bytes": 5648289,
+      "description": "Add missing UV0 only on source timber-check detail meshes. Original geometry/materials and existing UV layers retained. UV-only revision, no new base or palette variant.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM007__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "image_binding": "image-bindings.json"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 0,
+  "revised_contained_models": 5
+}

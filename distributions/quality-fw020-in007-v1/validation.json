@@ -1,0 +1,78 @@
+{
+  "status": "final_zip_guard_passed_public_download_match_pending",
+  "run": {
+    "run_id": "69618c3e-e5b1-45a4-8873-5e212a228b9c",
+    "started_utc": "2026-10-24T19:26:50.208711+00:00",
+    "finished_utc": "2026-10-24T19:26:51.048440+00:00",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    }
+  },
+  "scope": "Producer final-ZIP BLEND/GLB numeric checks; publisher verifies artifact hashes, not a separate Blender run. Detailed limitations in catalogue.",
+  "packages": [
+    {
+      "id": "FW021__repair",
+      "zip_sha256": "4f0b4e1700586ee7264ee2f3dd73757b2d92730702512c05fa92563ad219949c",
+      "members": {
+        "FW021__repair.glb": "bad765d4d1be7d3ae985996fc9bf1a1cc3088bc2afd4f747faa834faa453f968",
+        "FW021__repair.blend": "dbba8903c9188064395fecfd141cf540b61b64ecdff2715e669a99fdfb059688"
+      },
+      "numeric": {
+        "id": "FW021__repair",
+        "formats": {
+          "blend": {
+            "triangles": 7160,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 4,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 7160,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 4,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "IN007__blue_wool",
+      "zip_sha256": "4e8fd6a623018c17e97db428e36908af40707feb9fd727399962ec596e2f33a3",
+      "members": {
+        "IN007__blue_wool.blend": "6b67f2afb77a084c5a7ede846625de135760874dba944202dea0d0c14f258a10",
+        "IN007__blue_wool.glb": "60e73569c64d6528144698082e4cd3efc82abf7e418bc94c68c7736bdb2aae0f"
+      },
+      "numeric": {
+        "id": "IN007__blue_wool",
+        "formats": {
+          "blend": {
+            "triangles": 3116,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 3116,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    }
+  ],
+  "known_bad_color_fixtures_rejected": 5
+}

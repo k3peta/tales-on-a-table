@@ -76,6 +76,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL003__repair](../../previews/quality-ap017-al006-v1/AL003__repair_thumbnail.png)](../../previews/quality-ap017-al006-v1/AL003__repair_full.png)
+
+[AL003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL003__repair_CC0.zip) · [Details](../quality-ap017-al006-v1.md).
+
 ## AL004
 
 **Cooling vat**
@@ -99,6 +105,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md) · [Catalogue 2](../../catalog/husbandry_cellar_v1.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL004__repair](../../previews/quality-ap017-al006-v1/AL004__repair_thumbnail.png)](../../previews/quality-ap017-al006-v1/AL004__repair_full.png)
+
+[AL004__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL004__repair_CC0.zip) · [Details](../quality-ap017-al006-v1.md).
 
 ## AL005
 
@@ -172,6 +184,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL007__repair](../../previews/quality-al007-016-v1/AL007__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL007__repair_full.png)
+
+[AL007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL007__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
+
 ## AL008
 
 **Green reagent bottle**
@@ -195,6 +213,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL008__repair](../../previews/quality-al007-016-v1/AL008__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL008__repair_full.png)
+
+[AL008__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL008__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
 
 ## AL009
 
@@ -220,6 +244,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL009__repair](../../previews/quality-al007-016-v1/AL009__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL009__repair_full.png)
+
+[AL009__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL009__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
+
 ## AL010
 
 **Glass retort**
@@ -244,6 +274,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL010__repair](../../previews/quality-al007-016-v1/AL010__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL010__repair_full.png)
+
+[AL010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL010__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
+
 ## AL011
 
 **Mortar pestle**
@@ -267,6 +303,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL011__repair](../../previews/quality-al007-016-v1/AL011__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL011__repair_full.png)
+
+[AL011__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL011__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
 
 ## AL012
 
@@ -388,6 +430,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL016__repair](../../previews/quality-al007-016-v1/AL016__repair_thumbnail.png)](../../previews/quality-al007-016-v1/AL016__repair_full.png)
+
+[AL016__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL016__repair_CC0.zip) · [Details](../quality-al007-016-v1.md).
+
 ## AL017
 
 **Bound volumes**
@@ -435,6 +483,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL018__repair](../../previews/quality-al017-026-v1/AL018__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL018__repair_full.png)
+
+[AL018__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL018__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).
 
 ## AL019
 
@@ -484,6 +538,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL020__repair](../../previews/quality-al017-026-v1/AL020__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL020__repair_full.png)
+
+[AL020__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL020__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).
+
 ## AL021
 
 **Copper ladle**
@@ -507,6 +567,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL021__repair](../../previews/quality-al017-026-v1/AL021__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL021__repair_full.png)
+
+[AL021__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL021__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).
 
 ## AL022
 
@@ -532,6 +598,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL022__repair](../../previews/quality-al017-026-v1/AL022__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL022__repair_full.png)
+
+[AL022__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL022__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).
+
 ## AL023
 
 **Bucket**
@@ -556,6 +628,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL023__repair](../../previews/quality-al017-026-v1/AL023__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL023__repair_full.png)
+
+[AL023__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL023__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).
+
 ## AL024
 
 **Hourglass**
@@ -579,3 +657,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/alchemist.md)
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AL024__repair](../../previews/quality-al017-026-v1/AL024__repair_thumbnail.png)](../../previews/quality-al017-026-v1/AL024__repair_full.png)
+
+[AL024__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL024__repair_CC0.zip) · [Details](../quality-al017-026-v1.md).

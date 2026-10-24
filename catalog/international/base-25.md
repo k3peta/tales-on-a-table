@@ -28,6 +28,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT005__repair](../../previews/quality-wt005-ap006-v1/WT005__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/WT005__repair_full.png)
+
+[WT005__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT005__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
+
 ## WT006
 
 **Path bend NE**
@@ -51,6 +57,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT006__repair](../../previews/quality-wt005-ap006-v1/WT006__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/WT006__repair_full.png)
+
+[WT006__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT006__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
 
 ## WT007
 
@@ -90,6 +102,12 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip). [Revision-specific preview](../../previews/quality-wt007-008-repair-v2/WT007__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT007__repair](../../previews/quality-wt005-ap006-v1/WT007__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/WT007__repair_full.png)
+
+[WT007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT007__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
+
 ## WT008
 
 **Stream bend NE**
@@ -128,6 +146,12 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 **Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip). [Revision-specific preview](../../previews/quality-wt007-008-repair-v2/WT008__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![WT008__repair](../../previews/quality-wt005-ap006-v1/WT008__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/WT008__repair_full.png)
+
+[WT008__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT008__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
+
 ## AP001
 
 **Weather lift beehive**
@@ -151,6 +175,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP001__repair](../../previews/quality-wt005-ap006-v1/AP001__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/AP001__repair_full.png)
+
+[AP001__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP001__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
 
 ## AP002
 
@@ -200,6 +230,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP003__repair](../../previews/quality-wt005-ap006-v1/AP003__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/AP003__repair_full.png)
+
+[AP003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP003__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
+
 ## AP004
 
 **Coiled straw skep**
@@ -247,6 +283,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP005__repair](../../previews/quality-wt005-ap006-v1/AP005__repair_thumbnail.png)](../../previews/quality-wt005-ap006-v1/AP005__repair_full.png)
+
+[AP005__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP005__repair_CC0.zip) · [Details](../quality-wt005-ap006-v1.md).
 
 ## AP006
 
@@ -296,6 +338,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP007__repair](../../previews/quality-ap007-016-v1/AP007__repair_thumbnail.png)](../../previews/quality-ap007-016-v1/AP007__repair_full.png)
+
+[AP007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP007__repair_CC0.zip) · [Details](../quality-ap007-016-v1.md).
+
 ## AP008
 
 **Staved honey pail**
@@ -344,6 +392,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP009__repair](../../previews/quality-ap007-016-v1/AP009__repair_thumbnail.png)](../../previews/quality-ap007-016-v1/AP009__repair_full.png)
+
+[AP009__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP009__repair_CC0.zip) · [Details](../quality-ap007-016-v1.md).
+
 ## AP010
 
 **Honey dipper bowl**
@@ -367,6 +421,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP010__repair](../../previews/quality-ap007-016-v1/AP010__repair_thumbnail.png)](../../previews/quality-ap007-016-v1/AP010__repair_full.png)
+
+[AP010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP010__repair_CC0.zip) · [Details](../quality-ap007-016-v1.md).
 
 ## AP011
 
@@ -416,6 +476,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP012__repair](../../previews/quality-ap007-016-v1/AP012__repair_thumbnail.png)](../../previews/quality-ap007-016-v1/AP012__repair_full.png)
+
+[AP012__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP012__repair_CC0.zip) · [Details](../quality-ap007-016-v1.md).
+
 ## AP013
 
 **Six tube candle mould**
@@ -463,6 +529,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP014__repair](../../previews/quality-ap007-016-v1/AP014__repair_thumbnail.png)](../../previews/quality-ap007-016-v1/AP014__repair_full.png)
+
+[AP014__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP014__repair_CC0.zip) · [Details](../quality-ap007-016-v1.md).
 
 ## AP015
 
@@ -560,6 +632,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP018__repair](../../previews/quality-ap017-al006-v1/AP018__repair_thumbnail.png)](../../previews/quality-ap017-al006-v1/AP018__repair_full.png)
+
+[AP018__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP018__repair_CC0.zip) · [Details](../quality-ap017-al006-v1.md).
+
 ## AP019
 
 **Bee water tray**
@@ -583,6 +661,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../../catalog/apiary.md) · [Catalogue 3](../../catalog/apiary.zh-CN.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![AP019__repair](../../previews/quality-ap017-al006-v1/AP019__repair_thumbnail.png)](../../previews/quality-ap017-al006-v1/AP019__repair_full.png)
+
+[AP019__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP019__repair_CC0.zip) · [Details](../quality-ap017-al006-v1.md).
 
 ## AP020
 

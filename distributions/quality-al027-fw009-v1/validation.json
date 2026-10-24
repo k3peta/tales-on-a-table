@@ -1,0 +1,140 @@
+{
+  "status": "final_zip_guard_passed_public_download_match_pending",
+  "run": {
+    "run_id": "d50b8e97-be1c-4e92-ac2c-963d260a82f9",
+    "started_utc": "2026-10-24T19:17:47.933785+00:00",
+    "finished_utc": "2026-10-24T19:17:49.490075+00:00",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    }
+  },
+  "scope": "Producer final-ZIP BLEND/GLB numeric checks; publisher verifies artifact hashes, not a separate Blender run. Detailed limitations in catalogue.",
+  "packages": [
+    {
+      "id": "FW002__repair",
+      "zip_sha256": "3f838a2dfa26dc023154f4afee0ad8a0df8c90d23f250da0ea88bfed6dfdba43",
+      "members": {
+        "FW002__repair.blend": "572bc34d3b28bd4c71f1445aa16781d2bee10662f7b081a0e2631ba6a5446a9c",
+        "FW002__repair.glb": "b6466f1ec47ceeb67206c7891d4ac818148e2ce90a36f88def9093270e51d523"
+      },
+      "numeric": {
+        "id": "FW002__repair",
+        "formats": {
+          "blend": {
+            "triangles": 636,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 2,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 636,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 2,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "FW003__repair",
+      "zip_sha256": "d9f1d0a05ed0cf8d0d21bd8cfd2060fe2869fd8c578649cb1fcececd58214881",
+      "members": {
+        "FW003__repair.glb": "c1343b982b0953aa864518599e21d7f56d80b279ec6a72da30cbab81f326cafb",
+        "FW003__repair.blend": "3def997cf365dde7da355420bb509f442d2671073531b173924721026c1fc6ad"
+      },
+      "numeric": {
+        "id": "FW003__repair",
+        "formats": {
+          "blend": {
+            "triangles": 2568,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 2568,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "FW006__repair",
+      "zip_sha256": "9171358c1e23d03d319afcfaf55d0a4bc9f4decd94d5a829c1de58590543a6e4",
+      "members": {
+        "FW006__repair.glb": "5718ad9b5238010cb7b2c967b3b78eeb7c8b5b900aa81bf94fee1783ba8d4193",
+        "FW006__repair.blend": "4f40f5fa2fe6c6ed680cc1cc7c6d9cfe3430c228531cc9b65f74c1f511182899"
+      },
+      "numeric": {
+        "id": "FW006__repair",
+        "formats": {
+          "blend": {
+            "triangles": 11104,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 11104,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "FW008__repair",
+      "zip_sha256": "64394a0ded5c81a4631e6a5fdf53f3c00a4614d0917d6bdca7c09f9c19081a6c",
+      "members": {
+        "FW008__repair.blend": "54163e204e5a831028348eba8afa79b6c2aae285a1b06f94f6cf33e4b7c93b52",
+        "FW008__repair.glb": "0570911c28446795ab5562bfc2a98f2452b62e4af2d4baec7c34922c8e925b8f"
+      },
+      "numeric": {
+        "id": "FW008__repair",
+        "formats": {
+          "blend": {
+            "triangles": 2868,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 2868,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    }
+  ],
+  "known_bad_color_fixtures_rejected": 5
+}

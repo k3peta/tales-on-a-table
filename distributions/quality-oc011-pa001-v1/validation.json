@@ -1,0 +1,47 @@
+{
+  "status": "final_zip_guard_passed_public_download_match_pending",
+  "run": {
+    "run_id": "a33a4b98-f092-4f36-9990-751a382f8386",
+    "started_utc": "2026-10-24T19:42:16.040301+00:00",
+    "finished_utc": "2026-10-24T19:42:16.500657+00:00",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    }
+  },
+  "scope": "Producer final-ZIP BLEND/GLB numeric checks; publisher verifies artifact hashes, not a separate Blender run. Detailed limitations in catalogue.",
+  "packages": [
+    {
+      "id": "OC015__amber_glass",
+      "zip_sha256": "fa42560d0fbee2a134371ce7209dcad8bd5f0943943d77890670479341259441",
+      "members": {
+        "OC015__amber_glass.blend": "11c0126a6eaa752d6c11ab61e50e2100ee5ba72bce2b222de0417899e80b16aa",
+        "OC015__amber_glass.glb": "25bccd7f781c750ee89f162fbbd02867aca5d4f5bc8682d72d8c5c1e6e0ac153"
+      },
+      "numeric": {
+        "id": "OC015__amber_glass",
+        "formats": {
+          "blend": {
+            "triangles": 6900,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 6900,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 1,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    }
+  ],
+  "known_bad_color_fixtures_rejected": 5
+}

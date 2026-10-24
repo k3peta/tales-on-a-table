@@ -364,6 +364,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA002__repair](../../previews/quality-pa-wood-repair-v1/PA002__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA002__repair_full.png)
+
+[PA002__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA002__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
+
 ## PA003
 
 **Unfinished original river landscape**
@@ -387,6 +393,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA003__repair](../../previews/quality-pa-wood-repair-v1/PA003__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA003__repair_full.png)
+
+[PA003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA003__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
 
 ## PA004
 
@@ -412,6 +424,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA004__repair](../../previews/quality-pa-wood-repair-v1/PA004__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA004__repair_full.png)
+
+[PA004__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA004__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
+
 ## PA005
 
 **Oval loaded palette**
@@ -435,6 +453,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA005__repair](../../previews/quality-pa-wood-repair-v1/PA005__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA005__repair_full.png)
+
+[PA005__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA005__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
 
 ## PA006
 
@@ -460,6 +484,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md) · [Catalogue 2](../../catalog/stable_care_v1.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA006__repair](../../previews/quality-pa-wood-repair-v1/PA006__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA006__repair_full.png)
+
+[PA006__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA006__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
+
 ## PA007
 
 **Rinsing jar**
@@ -483,6 +513,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA007__repair](../../previews/quality-pa002-011-v1/PA007__repair_thumbnail.png)](../../previews/quality-pa002-011-v1/PA007__repair_full.png)
+
+[PA007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA007__repair_CC0.zip) · [Details](../quality-pa002-011-v1.md).
 
 ## PA008
 
@@ -508,6 +544,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA008__repair](../../previews/quality-pa-wood-repair-v1/PA008__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA008__repair_full.png)
+
+[PA008__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA008__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
+
 ## PA009
 
 **Paint tubes**
@@ -532,6 +574,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA009__repair](../../previews/quality-pa002-011-v1/PA009__repair_thumbnail.png)](../../previews/quality-pa002-011-v1/PA009__repair_full.png)
+
+[PA009__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA009__repair_CC0.zip) · [Details](../quality-pa002-011-v1.md).
+
 ## PA010
 
 **Palette knives**
@@ -555,6 +603,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
+
+**Quality57–76 revisions (original pictured ZIP retained above):**
+
+[![PA010__repair](../../previews/quality-pa-wood-repair-v1/PA010__repair_thumbnail.png)](../../previews/quality-pa-wood-repair-v1/PA010__repair_full.png)
+
+[PA010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA010__repair_CC0.zip) · [Details](../quality-pa-wood-repair-v1.md).
 
 ## PA011
 
