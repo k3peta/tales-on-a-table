@@ -7,11 +7,11 @@
 
 **WT007/WT008 — Historical v1 validation warning / v1検査誤りの履歴 / v1错误检验历史**
 
-Historical v1 notice (resolved as incorrect validation, not cleared): final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy was traced to an incorrectly reused old-candidate result; v1 failed the strict null-slot check. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+Historical v1 notice (resolved as incorrect validation, not cleared): final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy was traced to an incorrectly reused old-candidate result; v1 failed the strict null-slot check. Historical v1 is not a validated replacement; see the current v2 result. Download/CRC/SHA verification does not resolve model QA.
 
-最終数値記録は合格ですが、別QAのfalseフラグと不一致が残っています。v1は合格撤回。訂正v2の状態は冒頭参照。旧版にも既知の黒断面があり、旧版が正常と確認されたわけではありません。
+旧数値合格は別候補の誤適用で、v1は空材質スロット検査に不合格でした。v1は合格撤回。訂正v2の状態は冒頭参照。旧版にも既知の黒断面があり、旧版が正常と確認されたわけではありません。
 
-最终数值记录为通过，另一份QA标志仍为false。v1通过声明撤回，v2状态见页首。原版也有已知黑断面。
+旧数值通过记录被错误套用，v1未通过空材质槽检查。v1通过声明撤回，v2状态见页首。原版也有已知黑断面。
 
 
 [日本語](watermill.md) · [English](watermill.en.md) · [简体中文](watermill.zh-CN.md)
@@ -282,13 +282,13 @@ Stream bend NE
 
 Original archives/images above remain as version history. Scoped defects repaired; no new record count.
 
-### WT007 — channel_fitted_water_v2 (QA pending)
+### WT007 — channel_fitted_water_v2 (historical v1 — validation withdrawn)
 
 [![Revised WT007](../previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Scope and comparison](wt007_008_repairs.md)
 
-### WT008 — channel_fitted_water_v2 (QA pending)
+### WT008 — channel_fitted_water_v2 (historical v1 — validation withdrawn)
 
 [![Revised WT008](../previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png)
 

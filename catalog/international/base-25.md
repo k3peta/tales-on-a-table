@@ -76,11 +76,11 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
-**Version history:** Original black end patches retained. QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+**Version history:** Original black end patches retained. Historical v1 validation withdrawn: the numerical pass report belonged to an older candidate; the distributed v1 failed the null-material-slot test. Historical v1 is not a validated replacement; see the current v2 result. Download/CRC/SHA verification does not resolve model QA.
 
 [![Revised WT007](../../previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png)](../../previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png)
 
-[Revision ZIP — QA pending](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
+[Historical v1 ZIP — validation withdrawn](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
 **Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport now passed scoped checks; v1 claim remains withdrawn. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
 
@@ -112,11 +112,11 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
-**Version history:** Original black end patches retained. QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+**Version history:** Original black end patches retained. Historical v1 validation withdrawn: the numerical pass report belonged to an older candidate; the distributed v1 failed the null-material-slot test. Historical v1 is not a validated replacement; see the current v2 result. Download/CRC/SHA verification does not resolve model QA.
 
 [![Revised WT008](../../previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png)](../../previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png)
 
-[Revision ZIP — QA pending](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
+[Historical v1 ZIP — validation withdrawn](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
 **Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport now passed scoped checks; v1 claim remains withdrawn. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
 
