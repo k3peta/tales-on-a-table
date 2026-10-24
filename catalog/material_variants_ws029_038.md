@@ -8,7 +8,7 @@ Zero-area faces removed: WS02932, WS031224, WS03628, WS037256, WS038128. Positiv
 
 5个修订不新增模型。WS031六块玻璃、WS037三个对象、WS038三十三个对象补充缺失UV，不宣称原始UV完全不变。蓝皮变体以修复后的WS036为基准。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted final packages and exact inputs/scripts, run/time/build. Strict scan and other-material contract passed. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted final packages and exact inputs/scripts, run/time/build. Strict scan and other-material contract passed. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed306 source records,702 remain;56 budget/redesign issues remain. WS03527 constant-color mineral meshes lack UV, a future texture-mapping limitation. FCS103 partly unsupported-looking top plates remain diagnosis pending. No working mechanism, collision/load, weighing calibration or Blender4.3.2 guarantee.
 
@@ -109,3 +109,5 @@ Exact-zero-area cleanup only, all positive surfaces retained; missing UV added w
 [![WS_038__repair close_comparison](../previews/quality-ws029-038-v1/WS_038__repair_close_comparison.png)](../previews/quality-ws029-038-v1/WS_038__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-ws029-038-v1/validation.json).

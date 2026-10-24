@@ -1,0 +1,196 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "a57a845ab6d6d00ee7f4eba63aa33e7a77a494db",
+  "guard_run_id": "d96f4889-9d53-4cec-8838-69aff6b9dfa0",
+  "started_utc": "2026-10-24T13:53:13.668868+00:00",
+  "finished_utc": "2026-10-24T13:53:16.545587+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "WS_029__repair",
+      "zip": "WS_029__repair_CC0.zip",
+      "zip_sha256": "1149c4d31c5f22404154b693a907ebb7aa83fe543a3f6fb8fe5cc7f0255dbcfa",
+      "members": {
+        "WS_029__repair.glb": "caf90796080243747add4cf9088789b0c150ec42435a3edd2e778004eaae695c",
+        "WS_029__repair.blend": "97815c45f1e9bd9b28b107ad7657a00be636ca520123d4385a04f1ebad63de98"
+      }
+    },
+    {
+      "id": "WS_031__repair",
+      "zip": "WS_031__repair_CC0.zip",
+      "zip_sha256": "968ca84061a18a2a40818498695e2c7f3b53d337f4e21b128a8c89753e008e0b",
+      "members": {
+        "WS_031__repair.glb": "886af55c2716fe098480013d0a02e85f814df3d558000f568911a87bac4a3bd6",
+        "WS_031__repair.blend": "15e5b5cb051736d0b6c99679b5d4bafcbb197d08fb7f3397ad983f3803d18e40"
+      }
+    },
+    {
+      "id": "WS_036__repair",
+      "zip": "WS_036__repair_CC0.zip",
+      "zip_sha256": "2783b4515e8e5a942acfe1ac01836ff6bbd9d6fb36409eef36989e4c7c2e3e9b",
+      "members": {
+        "WS_036__repair.blend": "1b84bb21eb1a2416bdeb41fd9b0131178418d45ea3c2d3361cd6554e3dca6a28",
+        "WS_036__repair.glb": "d4c5e8ef977816f8a22874c99da26ca4f32fadc7767a13ec8969a687d65f2273"
+      }
+    },
+    {
+      "id": "WS_036__color_blue",
+      "zip": "WS_036__color_blue_CC0.zip",
+      "zip_sha256": "fc59b5d03322dc652dbe2b642c5726c58087de102f62750b1a5b23a7a4a4450a",
+      "members": {
+        "WS_036__color_blue.blend": "6c6d0901ba9c7ee410e6dcf9e1e5715343db09cde72e4fd913a44bc7114afbcc",
+        "WS_036__color_blue.glb": "8f2de9802a5f22e6c2877942e1f35a3175bd51865d666d0b5d48545d9fc0866f"
+      }
+    },
+    {
+      "id": "WS_037__repair",
+      "zip": "WS_037__repair_CC0.zip",
+      "zip_sha256": "0b8c6d0981bc3a87278fa114daa145ac32705c936535e92b74f66a232e5177f3",
+      "members": {
+        "WS_037__repair.glb": "1ad4752b8512676295c5258546e856ca5b9637dd46895ff08cd7ae7fed5efd11",
+        "WS_037__repair.blend": "2a06d2a73567dcf2323e1e4c6c438e8f23d4b807519f1c6bf447647e8f2c2905"
+      }
+    },
+    {
+      "id": "WS_038__repair",
+      "zip": "WS_038__repair_CC0.zip",
+      "zip_sha256": "18f807d0f29b19b43dc1c3e1663e0cb58f53b5cb56edbeed6661e199630a7791",
+      "members": {
+        "WS_038__repair.blend": "4d1eddaad896ca0d9b78161e9e43d9e452074ab8b60a3c1fe056d309eb381ca8",
+        "WS_038__repair.glb": "359dd9363508187f1ca5fc1b26e645477586133880bfc499522db1ed5e445d9b"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "WS_029__repair",
+      "formats": {
+        "blend": {
+          "triangles": 6836,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 6836,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_031__repair",
+      "formats": {
+        "blend": {
+          "triangles": 5428,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 5428,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_036__repair",
+      "formats": {
+        "blend": {
+          "triangles": 5312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 5312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 2.9802322387695312e-08,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_036__color_blue",
+      "formats": {
+        "blend": {
+          "triangles": 5312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 5312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 2.9802322387695312e-08,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_037__repair",
+      "formats": {
+        "blend": {
+          "triangles": 10936,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10936,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_038__repair",
+      "formats": {
+        "blend": {
+          "triangles": 18972,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 18972,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

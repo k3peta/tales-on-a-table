@@ -12123,12 +12123,13 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical scan hold: pixel-identical recompressed revision passed strict final guard; public identity confirmation pending.",
+      "known_issue": "Historical original scan hold resolved for new pixel-identical recompressed revision: final strict guard and public ZIP/member identity verified. Old failed copy preserved.",
       "revision_history": [
         {
           "id": "WS_021__repair",
           "catalog": "catalog/ws021_scan_resolution.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -12418,7 +12419,8 @@
         {
           "id": "WS_029__repair",
           "catalog": "catalog/material_variants_ws029_038.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -12491,7 +12493,8 @@
         {
           "id": "WS_031__repair",
           "catalog": "catalog/material_variants_ws029_038.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup and UV added to6 glass panes; original flame emission retained."
@@ -12665,7 +12668,8 @@
         {
           "id": "WS_036__repair",
           "catalog": "catalog/material_variants_ws029_038.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup revision; blue variant uses repaired baseline, loose ties retained."
@@ -12706,7 +12710,8 @@
         {
           "id": "WS_037__repair",
           "catalog": "catalog/material_variants_ws029_038.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup and UV added to3 objects; weighing untested."
@@ -12747,7 +12752,8 @@
         {
           "id": "WS_038__repair",
           "catalog": "catalog/material_variants_ws029_038.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup and UV added to33 objects; rotation/collision untested."

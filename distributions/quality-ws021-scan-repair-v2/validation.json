@@ -1,0 +1,46 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "a57a845ab6d6d00ee7f4eba63aa33e7a77a494db",
+  "guard_run_id": "204e7436-78ce-4997-9859-fea899fe413c",
+  "started_utc": "2026-10-24T13:41:58.442415+00:00",
+  "finished_utc": "2026-10-24T13:41:59.240967+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "WS_021__repair",
+      "zip": "WS_021__repair_CC0.zip",
+      "zip_sha256": "0d12ab2a0c99a1df84424b9cbb328de54eb764f0d81ed0d32ef23e2af1fad5d8",
+      "members": {
+        "WS_021__repair.blend": "a8a5d3748b3d1337c9aff15ac8fa94f37e3beb440e03b8f68bcd335cd6f2e036",
+        "WS_021__repair.glb": "d6862945ab36dbde075720a77c2e4eed9c64e64a13ad70223e94a9300105dd62"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "WS_021__repair",
+      "formats": {
+        "blend": {
+          "triangles": 11245,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 11245,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

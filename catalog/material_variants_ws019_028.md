@@ -98,4 +98,4 @@ Left: original; right: accepted revision/variant, identical camera/light/scale.
 
 ## Subsequent WS021 revision
 
-The above hold refers to the original failed candidate. A [new pixel-identical recompressed revision](ws021_scan_resolution.md) passed strict final guard; public identity confirmation pending. Dark glass remains rejected.
+The above hold refers to the original failed candidate. A [new pixel-identical recompressed revision](ws021_scan_resolution.md) passed strict final guard; public ZIP/member identity verified; hold resolved for this new revision only. Dark glass remains rejected.

@@ -4,7 +4,7 @@ One geometry revision, no new base or variant.99 exactly-zero-area faces removed
 
 以前の文字列検出は圧縮画像内の偶然一致と診断。画素不変の再圧縮と解像度・オフセット付属情報の除去を行い、検査条件を緩めず新しい最終ZIPが合格。旧失敗記録は保持。99枚の面積ゼロ面の除去は改訂扱いで非加算。
 
-Producer final-ZIP guard and image-byte equivalence evidence checked. Public artifact matching is pending. Publication did not rerun Blender. No physics/collision/old-version guarantee. Models/materials only CC0; images separate. [License](../LICENSE.md).
+Producer final-ZIP guard and image-byte equivalence evidence checked. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender. No physics/collision/old-version guarantee. Models/materials only CC0; images separate. [License](../LICENSE.md).
 
 ## WS_021__repair — Quill and ink writing set
 
@@ -21,3 +21,7 @@ WS021 revision:99 exact-zero-area faces removed; positive faces and UV retained.
 [![WS_021__repair close_comparison](../previews/quality-ws021-scan-repair-v2/WS_021__repair_close_comparison.png)](../previews/quality-ws021-scan-repair-v2/WS_021__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-ws021-scan-repair-v2/validation.json).
+
+Independent publication check also found identical decompressed PNG filtered scanlines, dimensions/color chunks and unchanged other embedded image bytes.

@@ -28,7 +28,7 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 **Historical Quality30 hold:** Repair remains held for publication scan review, no final ZIP; no credential exposure established. [Details](../material_variants_ws019_028.md).
 
-[WS021 new final-ZIP revision](../ws021_scan_resolution.md), public identity confirmation pending.
+[WS021 new final-ZIP revision](../ws021_scan_resolution.md), public ZIP/member identity verified; hold resolved for this new revision only.
 
 ## WS_022
 
