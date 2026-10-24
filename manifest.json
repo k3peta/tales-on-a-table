@@ -6534,7 +6534,26 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_042_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "6fa0058d6e0e84e3afef2ac81ebddbdfa902edb1e5416c5e5b0cf702e16a10df",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_042__repair",
+          "base_id": "AT_042",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "exterior_leaf_seating_v1",
+          "uv_revision": "existing_UV_interpolated_on_subdivided_ornament",
+          "finish": "repair",
+          "description": "Exterior brass ornament faces subdivided and seated along outer cup wall; removes cavity intrusion. Original dimensions preserved; geometry revision, not variant.",
+          "zip": "AT_042__repair_CC0.zip",
+          "bytes": 1105981,
+          "sha256": "64040eb1b4a605a081c4ee1ed15d05f49829f8ff9dfaef1cfd2f25bde4f107f1",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-section-v1/AT_042__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_043",

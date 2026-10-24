@@ -7,6 +7,8 @@ Current total: **1008 distribution records** (2026-10-24 JST). The global number
 
 ## Publication history
 
+- 2026-10-24 — [AT042 section revision](catalog/at042_section_repair.md), no count increment; public-download check pending.
+
 - 2026-10-24 JST — 1008 unchanged; material variants121=119+2; WT replacement revisions not added. [Quality23](catalog/material_variants_at042_051.md), [WT repairs](catalog/wt007_008_replacement_v2.md).
 
 - 2026-10-24 JST — 1008 unchanged; material variants119=116+3; four revisions not added. [Quality22](catalog/material_variants_at032_041.md), [WT repairs](catalog/wt007_008_repairs.md).

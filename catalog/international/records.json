@@ -9645,7 +9645,15 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Cup interior decoration cross-section diagnosis pending; unresolved."
+      "known_issue": "Original cup ornament face intrusion; revised exterior_leaf_seating_v1 final ZIP guard passed, public-download hash confirmation pending.",
+      "revision_history": [
+        {
+          "id": "AT_042__repair",
+          "geometry_revision": "exterior_leaf_seating_v1",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-section-v1/AT_042__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_043",

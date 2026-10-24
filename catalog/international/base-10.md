@@ -28,6 +28,8 @@ Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2]
 
 **Unresolved:** Cup interior decoration cross-section diagnosis pending; unresolved.
 
+**Revision available, public-download check pending:** [AT042 repair and comparison](../../catalog/at042_section_repair.md). Original download/image retained.
+
 ## AT_043
 
 **Blue two-handled amphora**
