@@ -183,4 +183,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality49 variants](variant-06.md):162 separately counted material variants; base1008 unchanged. BM041 revision and robe/bag variants public ZIP/member/image identity verified.
 
-[Quality50 variants](variant-06.md):164 separately counted material variants; base1008 unchanged. No new revisions; awning variants public match pending.
+[Quality50 variants](variant-06.md):164 separately counted material variants; base1008 unchanged. No new revisions; awning variants public ZIP/member/image identity verified.
