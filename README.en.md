@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **985 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **988 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
 
 - 2026-10-24 JST — **985 records** (983 + 2 components; private arrangement excluded). [Masonry handling](catalog/masonry_handling_v2.md).
 

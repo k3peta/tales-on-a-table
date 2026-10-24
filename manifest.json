@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 985,
+  "item_count": 988,
   "count_by_kind": {
-    "model": 822,
+    "model": 825,
     "derived_component": 2,
     "group": 42,
     "structural_variant": 15,
@@ -57,7 +57,8 @@
     "poultry_support_v1": 2,
     "stable_care_v1": 4,
     "masonry_road": 7,
-    "masonry_handling": 2
+    "masonry_handling": 2,
+    "winery_utilities_v1": 3
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -29609,6 +29610,84 @@
       "zip_file": "MRH202_MortarHawkTrowel_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip",
       "theme": "masonry_handling",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV901",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "winery-utilities-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 253890,
+      "zip_sha256": "0fee71619d8ca8db1d46f60d83cb7987a57e15b921abdb8aa17b749e050c7b92",
+      "names": {
+        "ja": "HCV901",
+        "en": "HCV901",
+        "zh-CN": "HCV901"
+      },
+      "descriptions": {
+        "ja": "HCV901: Twin roller hand grape crusher",
+        "en": "HCV901: Twin roller hand grape crusher",
+        "zh-CN": "HCV901: Twin roller hand grape crusher"
+      },
+      "zip_file": "HCV901-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV901-CC0.zip",
+      "theme": "winery_utilities_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV902",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "winery-utilities-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 102981,
+      "zip_sha256": "3ed7a0adf50069a93edb0c393310a270bdd4194670f6174cd7d19c86cfb99aac",
+      "names": {
+        "ja": "HCV902",
+        "en": "HCV902",
+        "zh-CN": "HCV902"
+      },
+      "descriptions": {
+        "ja": "HCV902: Open ended hollow wine sampling thief",
+        "en": "HCV902: Open ended hollow wine sampling thief",
+        "zh-CN": "HCV902: Open ended hollow wine sampling thief"
+      },
+      "zip_file": "HCV902-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV902-CC0.zip",
+      "theme": "winery_utilities_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "HCV903",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "winery-utilities-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 136782,
+      "zip_sha256": "76060e1b9d687f655404f2d275b31cf136a2a68e3caa8f56c356fb3e738bb51b",
+      "names": {
+        "ja": "HCV903",
+        "en": "HCV903",
+        "zh-CN": "HCV903"
+      },
+      "descriptions": {
+        "ja": "HCV903: Six cell protective bottle carrier",
+        "en": "HCV903: Six cell protective bottle carrier",
+        "zh-CN": "HCV903: Six cell protective bottle carrier"
+      },
+      "zip_file": "HCV903-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV903-CC0.zip",
+      "theme": "winery_utilities_v1",
       "global_unique": "unconfirmed"
     }
   ]

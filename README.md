@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **985配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **988配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
 
 - 2026-10-24 JST — **985 records** (983 + 2 components; private arrangement excluded). [Masonry handling](catalog/masonry_handling_v2.md).
 

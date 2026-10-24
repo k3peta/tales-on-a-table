@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **985条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **988条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
 
 - 2026-10-24 JST — **985 records** (983 + 2 components; private arrangement excluded). [Masonry handling](catalog/masonry_handling_v2.md).
 
