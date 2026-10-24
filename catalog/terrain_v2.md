@@ -89,3 +89,25 @@ BLENDは単体データのため、一部はFile > Appendでオブジェクト/�
 [全70種類の辺・角・開口仕様](../releases/terrain_v2/terrain_specification.json)を参照してください。元ID T001–T070は公開ID TR001–TR070に対応します。2m角、中心原点、地表Z=0、道路幅0.75m、水路幅1.2m、水面Z=-0.01mです。HQ/LITEは同じ接続規格です。岩の内側のLOD形状差・柄の反復・GLB微細バンプ省略は残ります。
 
 [Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.21-terrain-v2) · [SHA256](../releases/terrain_v2/SHA256SUMS.txt) · [License](../LICENSE.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### TR001 — grass short meadow
+
+grass short meadow
+
+[![TR001](../previews/atelier-terrain24/thumbnails/TR001.png)](../previews/atelier-terrain24/renders/TR001.png)
+
+[Full image](../previews/atelier-terrain24/renders/TR001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR001_CC0.zip)
+
+### TR002 — grass long meadow
+
+grass long meadow
+
+[![TR002](../previews/atelier-terrain24/thumbnails/TR002.png)](../previews/atelier-terrain24/renders/TR002.png)
+
+[Full image](../previews/atelier-terrain24/renders/TR002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR002_CC0.zip)
+
+Image scope: TR001/TR002 show HQ only; LITE not shown.

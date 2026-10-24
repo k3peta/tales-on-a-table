@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 785,
-      "preview_not_mapped": 223,
+      "id_mapped_preview": 809,
+      "preview_not_mapped": 199,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -10965,7 +10965,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Raised cord clearance/intended ties diagnosis pending."
+      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_082__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_082__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_083",
@@ -10998,7 +11005,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Raised cord diagnosis pending; broken pottery rim may be intentional."
+      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_083__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_083__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_084",
@@ -11097,7 +11111,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Raised cords and apparently disconnected/embedded segments: diagnosis pending."
+      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_086__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_086__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_087",
@@ -11130,7 +11151,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Paper/cord layering versus penetration diagnosis pending."
+      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_087__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_087__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_088",
@@ -11196,7 +11224,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Raised binding cords: repair diagnosis pending."
+      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "revision_history": [
+        {
+          "id": "AT_089__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_089__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "AT_090",
@@ -25980,8 +26015,8 @@
       "name_ja": "Unfinished original river landscape",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25997,7 +26032,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA003.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA004",
@@ -26007,8 +26044,8 @@
       "name_ja": "Round painters stool",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26024,7 +26061,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA004.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA005",
@@ -26034,8 +26073,8 @@
       "name_ja": "Oval loaded palette",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26051,7 +26090,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA005.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA006",
@@ -26061,8 +26102,8 @@
       "name_ja": "Brush crock",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26079,7 +26120,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA006.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA007",
@@ -26089,8 +26132,8 @@
       "name_ja": "Rinsing jar",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26106,7 +26149,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA007.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA008",
@@ -26116,8 +26161,8 @@
       "name_ja": "Pigment jars on tray",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26133,7 +26178,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA008.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA009",
@@ -26143,8 +26190,8 @@
       "name_ja": "Paint tubes",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26160,7 +26207,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA009.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA010",
@@ -26170,8 +26219,8 @@
       "name_ja": "Palette knives",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26187,7 +26236,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA010.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA011",
@@ -26197,8 +26248,8 @@
       "name_ja": "Paint stained linen rag",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26214,7 +26265,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA011.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json",
+      "known_issue": "Distributed cloth stains not visible; no repair claimed."
     },
     {
       "id": "PA012",
@@ -26224,8 +26278,8 @@
       "name_ja": "Open sketchbook",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26241,7 +26295,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA012.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA013",
@@ -26251,8 +26307,8 @@
       "name_ja": "Charcoal sticks",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26268,7 +26324,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA013.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA014",
@@ -26278,8 +26336,8 @@
       "name_ja": "Canvas rolls",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26295,7 +26353,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA014.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA015",
@@ -26305,8 +26365,8 @@
       "name_ja": "Blank stretched canvas",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26322,7 +26382,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA015.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA016",
@@ -26332,8 +26394,8 @@
       "name_ja": "Empty carved picture frame",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26349,7 +26411,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA016.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA017",
@@ -26359,8 +26423,8 @@
       "name_ja": "Plaster stilllife stand",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26376,7 +26440,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA017.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA018",
@@ -26386,8 +26452,8 @@
       "name_ja": "Plaster classical vessel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26403,7 +26469,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA018.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA019",
@@ -26413,8 +26481,8 @@
       "name_ja": "Plaster geometric studies",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26430,7 +26498,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA019.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA020",
@@ -26440,8 +26510,8 @@
       "name_ja": "Wooden supply chest",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26457,7 +26527,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA020.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA021",
@@ -26467,8 +26539,8 @@
       "name_ja": "Folded dropcloth",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26484,7 +26556,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA021.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA022",
@@ -26494,8 +26568,8 @@
       "name_ja": "Small ceramic pitcher",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26511,7 +26585,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA022.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json",
+      "known_issue": "Dark lower shading undiagnosed; image completion is not quality approval."
     },
     {
       "id": "PA023",
@@ -26521,8 +26598,8 @@
       "name_ja": "Wall shelf with drawing papers",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA023.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26538,7 +26615,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA023.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "PA024",
@@ -26548,8 +26627,8 @@
       "name_ja": "Pinboard and reference sketches",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/PA024.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26565,7 +26644,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/PA024.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "TR001",
@@ -26575,8 +26656,8 @@
       "name_ja": "grass short meadow",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/TR001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected; HQ model shown, LITE not shown",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26592,7 +26673,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/TR001.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "TR002",
@@ -26602,8 +26685,8 @@
       "name_ja": "grass long meadow",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/atelier-terrain24/thumbnails/TR002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected; HQ model shown, LITE not shown",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -26619,7 +26702,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/atelier-terrain24/renders/TR002.png",
+      "image_manifest": "previews/atelier-terrain24/manifest.json"
     },
     {
       "id": "TR003",

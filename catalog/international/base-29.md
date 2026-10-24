@@ -370,7 +370,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Unfinished original river landscape
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA003](../../previews/atelier-terrain24/thumbnails/PA003.png)](../../previews/atelier-terrain24/renders/PA003.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -392,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Round painters stool
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA004](../../previews/atelier-terrain24/thumbnails/PA004.png)](../../previews/atelier-terrain24/renders/PA004.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -414,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Oval loaded palette
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA005](../../previews/atelier-terrain24/thumbnails/PA005.png)](../../previews/atelier-terrain24/renders/PA005.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -436,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Brush crock
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA006](../../previews/atelier-terrain24/thumbnails/PA006.png)](../../previews/atelier-terrain24/renders/PA006.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -458,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md) · [Catalogue 2]
 
 Rinsing jar
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA007](../../previews/atelier-terrain24/thumbnails/PA007.png)](../../previews/atelier-terrain24/renders/PA007.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -480,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Pigment jars on tray
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA008](../../previews/atelier-terrain24/thumbnails/PA008.png)](../../previews/atelier-terrain24/renders/PA008.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -502,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Paint tubes
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA009](../../previews/atelier-terrain24/thumbnails/PA009.png)](../../previews/atelier-terrain24/renders/PA009.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -524,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Palette knives
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA010](../../previews/atelier-terrain24/thumbnails/PA010.png)](../../previews/atelier-terrain24/renders/PA010.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -546,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Paint stained linen rag
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA011](../../previews/atelier-terrain24/thumbnails/PA011.png)](../../previews/atelier-terrain24/renders/PA011.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -561,3 +579,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
+**Image scope:** Stains not visible in distributed model; not repaired.

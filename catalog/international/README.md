@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-Current image mapping: **785/1008 base records;223 missing.127/127 variants pictured.** FW19 images show corrected revisions, not originals.
+Current image mapping: **809/1008 base records;199 missing.127/127 variants pictured.** FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +127 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -94,3 +94,7 @@ IN015–024 / OC001–002,010–017,020–021 / PA001–002 now include individu
 Image batch7 accepted24 of24; no held images in this batch. Remaining223 unpictured base records are tracked separately.
 
 [AT082–090/092 audit](../quality_audit_at082_092.md):no new packages;266 assessed,742 remaining.
+
+PA003–024 / TR001–002 now include individual full-size images and thumbnails. Base ID image mappings: 809/1008; remaining199. Material variants:127/127. [Coverage](COVERAGE.md).
+
+Image batch8 accepted24 of24; no held images in this batch. Remaining199 unpictured base records are tracked separately.

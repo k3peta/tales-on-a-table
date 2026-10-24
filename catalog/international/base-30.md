@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Open sketchbook
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA012](../../previews/atelier-terrain24/thumbnails/PA012.png)](../../previews/atelier-terrain24/renders/PA012.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Charcoal sticks
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA013](../../previews/atelier-terrain24/thumbnails/PA013.png)](../../previews/atelier-terrain24/renders/PA013.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Canvas rolls
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA014](../../previews/atelier-terrain24/thumbnails/PA014.png)](../../previews/atelier-terrain24/renders/PA014.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Blank stretched canvas
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA015](../../previews/atelier-terrain24/thumbnails/PA015.png)](../../previews/atelier-terrain24/renders/PA015.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Empty carved picture frame
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA016](../../previews/atelier-terrain24/thumbnails/PA016.png)](../../previews/atelier-terrain24/renders/PA016.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Plaster stilllife stand
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA017](../../previews/atelier-terrain24/thumbnails/PA017.png)](../../previews/atelier-terrain24/renders/PA017.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Plaster classical vessel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA018](../../previews/atelier-terrain24/thumbnails/PA018.png)](../../previews/atelier-terrain24/renders/PA018.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA018.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Plaster geometric studies
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA019](../../previews/atelier-terrain24/thumbnails/PA019.png)](../../previews/atelier-terrain24/renders/PA019.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA019.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Wooden supply chest
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA020](../../previews/atelier-terrain24/thumbnails/PA020.png)](../../previews/atelier-terrain24/renders/PA020.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Folded dropcloth
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA021](../../previews/atelier-terrain24/thumbnails/PA021.png)](../../previews/atelier-terrain24/renders/PA021.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA021.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Small ceramic pitcher
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA022](../../previews/atelier-terrain24/thumbnails/PA022.png)](../../previews/atelier-terrain24/renders/PA022.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA022.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -246,13 +268,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
+**Image scope:** Dark lower shading undiagnosed; no repair claimed.
+
 ## PA023
 
 **Wall shelf with drawing papers**
 
 Wall shelf with drawing papers
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA023](../../previews/atelier-terrain24/thumbnails/PA023.png)](../../previews/atelier-terrain24/renders/PA023.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA023.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +300,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Pinboard and reference sketches
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA024](../../previews/atelier-terrain24/thumbnails/PA024.png)](../../previews/atelier-terrain24/renders/PA024.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/PA024.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +324,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 grass short meadow
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR001](../../previews/atelier-terrain24/thumbnails/TR001.png)](../../previews/atelier-terrain24/renders/TR001.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/TR001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -312,13 +342,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Image scope:** Image shows HQ only, not LITE.
+
 ## TR002
 
 **grass long meadow**
 
 grass long meadow
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR002](../../previews/atelier-terrain24/thumbnails/TR002.png)](../../previews/atelier-terrain24/renders/TR002.png)
+
+[Full-size image](../../previews/atelier-terrain24/renders/TR002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -333,6 +367,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Image scope:** Image shows HQ only, not LITE.
 
 ## TR003
 

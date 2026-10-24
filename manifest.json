@@ -7649,7 +7649,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_082_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "d357649a95ec8b13e0d4d83431f486d7c4ee340ecbc3951dc34542131756b0c6",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_082__repair",
+          "base_id": "AT_082",
+          "entity_type": "revision",
+          "geometry_revision": "binding_contact_envelope_v1",
+          "uv_revision": "binding_uv_replaced",
+          "zip": "AT_082__repair_CC0.zip",
+          "sha256": "ea444b96f8e491374d16ed1a6988a18b9f7d12f68463c884f92f9f4ed12a2e21",
+          "bytes": 520280,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_082__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_083",
@@ -7675,7 +7691,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_083_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "a21ce0f4f8bafd04ff18590b0aab62d00f15b5a7cc572322e11d79340b8743ec",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_083__repair",
+          "base_id": "AT_083",
+          "entity_type": "revision",
+          "geometry_revision": "binding_contact_envelope_v1",
+          "uv_revision": "binding_uv_replaced",
+          "zip": "AT_083__repair_CC0.zip",
+          "sha256": "f8284b7e628c7ae4b616f3d2ad65a0476bc02b21752db09e21b41844d814e19f",
+          "bytes": 480629,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_083__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_084",
@@ -7753,7 +7785,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_086_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "cfc5b2bd0166d7ebfee5f00c24ab7f6147de35a3f3457bca3d78fbe982454862",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_086__repair",
+          "base_id": "AT_086",
+          "entity_type": "revision",
+          "geometry_revision": "binding_contact_envelope_v1",
+          "uv_revision": "binding_uv_replaced",
+          "zip": "AT_086__repair_CC0.zip",
+          "sha256": "a44ef28b3dd089ff967831569179dc775587bfdf7bb4926e44bc239e10151fa7",
+          "bytes": 332783,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_086__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_087",
@@ -7779,7 +7827,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_087_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "bacc22990340160ff3c9e6f9960087dfaf98cbbf6e5128380d884f9e1aed18c6",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_087__repair",
+          "base_id": "AT_087",
+          "entity_type": "revision",
+          "geometry_revision": "binding_contact_envelope_v1",
+          "uv_revision": "binding_uv_replaced",
+          "zip": "AT_087__repair_CC0.zip",
+          "sha256": "219504c1c1b17f33bd475d6ecea157cbf80e442e31fabb24c2cd0010bdece373",
+          "bytes": 438968,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_087__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_088",
@@ -7831,7 +7895,23 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_089_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "6202390c7a866a16cbdc97256f5a740a635af47f4a03cb0f644d10f2518c6917",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_089__repair",
+          "base_id": "AT_089",
+          "entity_type": "revision",
+          "geometry_revision": "binding_contact_envelope_v1",
+          "uv_revision": "binding_uv_replaced",
+          "zip": "AT_089__repair_CC0.zip",
+          "sha256": "5e37bb8b67fd20f421971212ebc66850e3edbfd808d5a556027b3d786fd0eca1",
+          "bytes": 715442,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_089__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_090",

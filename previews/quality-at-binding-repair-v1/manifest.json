@@ -1,0 +1,75 @@
+{
+  "image_rights": "Catalogue images outside modelCC0",
+  "items": [
+    {
+      "id": "AT_082__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_082_overview_before-after.png",
+      "source_sha256": "1164f03b821cee070e838ac4ae782e5fd13418a92460cde930d78ebc7b96480c",
+      "sha256": "1dcd2526f6262f2d5f95bd0b92c3471eb7071232ba8bd88efb5898cce2dae023",
+      "zip_sha256": "ea444b96f8e491374d16ed1a6988a18b9f7d12f68463c884f92f9f4ed12a2e21"
+    },
+    {
+      "id": "AT_082__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_082_close_before-after.png",
+      "source_sha256": "292ef56d93ed3c89d902e29dff83a09d8da2ea03e232ed5e1210b28027f74d2f",
+      "sha256": "cad7f5e1a131961b96f7e132b6f32399bbb4e16dbdd0e70c839b4d6384064b1e",
+      "zip_sha256": "ea444b96f8e491374d16ed1a6988a18b9f7d12f68463c884f92f9f4ed12a2e21"
+    },
+    {
+      "id": "AT_083__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_083_overview_before-after.png",
+      "source_sha256": "f88587987638c721586c96832423d5e59cadcdc0ce887703b4c6864764614707",
+      "sha256": "87b3c8a2e0b257503cb0c067b93ab2dfc44edcc1b6d832cc8170f52e43b564ed",
+      "zip_sha256": "f8284b7e628c7ae4b616f3d2ad65a0476bc02b21752db09e21b41844d814e19f"
+    },
+    {
+      "id": "AT_083__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_083_close_before-after.png",
+      "source_sha256": "5fc82307e7a81e8e72856b24b8b377452b35311304b9fc1fe75f747bda286039",
+      "sha256": "4c14779714119adc84f59e86185809835fff0223193d068630209b9f950de848",
+      "zip_sha256": "f8284b7e628c7ae4b616f3d2ad65a0476bc02b21752db09e21b41844d814e19f"
+    },
+    {
+      "id": "AT_086__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_086_overview_before-after.png",
+      "source_sha256": "15a0ec15a89f137d215f2538a0c98e00f2f8694c2bed89effa33cfc536f11bf0",
+      "sha256": "411480ac7f2fcd911fc17aff9f690191ecac535c93e2074d6debb86fe336ac25",
+      "zip_sha256": "a44ef28b3dd089ff967831569179dc775587bfdf7bb4926e44bc239e10151fa7"
+    },
+    {
+      "id": "AT_086__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_086_close_before-after.png",
+      "source_sha256": "009c3a806acf0aecf46570af8958b986cd6d697216781eb92e9563da1f42ea6a",
+      "sha256": "c12129baf2c7508cb866a7c6f491f86a2366d7c25b3515f35a62d423d96d6ebb",
+      "zip_sha256": "a44ef28b3dd089ff967831569179dc775587bfdf7bb4926e44bc239e10151fa7"
+    },
+    {
+      "id": "AT_087__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_087_overview_before-after.png",
+      "source_sha256": "4251a4dd0853ffd7fa1b5bce70b8435be03abf8198e35711f8aaef7d5d5758ed",
+      "sha256": "5cbfcf82402dfa8dd867bd853853a655431ab965402a078ca6415cf7485e09c3",
+      "zip_sha256": "219504c1c1b17f33bd475d6ecea157cbf80e442e31fabb24c2cd0010bdece373"
+    },
+    {
+      "id": "AT_087__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_087_close_before-after.png",
+      "source_sha256": "f9f95efc263cfd6e24a192103c6c32d71dafcecf787619a11618a24240903764",
+      "sha256": "cf5e52b932a697037cb1b7364fc278076e43bcf968a91d25abd0e4792bff9fb0",
+      "zip_sha256": "219504c1c1b17f33bd475d6ecea157cbf80e442e31fabb24c2cd0010bdece373"
+    },
+    {
+      "id": "AT_089__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_089_overview_before-after.png",
+      "source_sha256": "b2936a70bd684fa7167e36df8e4fa86045a7fae691db2f8a7038e5784f89cedf",
+      "sha256": "2134bc4e5899ec97740a87368634622998519bfa1923f74ff73deb38d5840e0f",
+      "zip_sha256": "5e37bb8b67fd20f421971212ebc66850e3edbfd808d5a556027b3d786fd0eca1"
+    },
+    {
+      "id": "AT_089__repair",
+      "file": "previews/quality-at-binding-repair-v1/AT_089_close_before-after.png",
+      "source_sha256": "c22d102f3496e5f4198d4640fdca679f4ec05f22f373371e857dda9823109ba9",
+      "sha256": "9900c626cb40e5da870f88ba99a770bf4c463d1718507d763893c7e59b30c81d",
+      "zip_sha256": "5e37bb8b67fd20f421971212ebc66850e3edbfd808d5a556027b3d786fd0eca1"
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "PA003",
+      "source_zip_sha256": "8492d400b37bb2a73b297952a1b105fdd5d54332f7a16c26fa6c799e4f030f7e",
+      "source_glb_sha256": "ea11aecd2d88484154b1d7d5a422b370c675c39b06253e23f7a5d4a045d4ce2b",
+      "camera_location": [
+        1.1900913715362549,
+        -2.0172853469848633,
+        1.751499891281128
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.8645000457763672,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA003.png",
+      "image_source_sha256": "ba289ba1fc8bb2dadea4ba9ad292a3fa25c9e9bc7818f967a9f3692ab5993ae9",
+      "image_sha256": "aa782be1dca3579b129b9be5e87b66acef631ce27249a6b1f8e8772aa3b5852f",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA003.png",
+      "thumbnail_source_sha256": "5563951411bca7e34e316a3a05a01591460e8663e05f1909531a44be37be8181",
+      "thumbnail_sha256": "8432addbdf9680ece6090c9ca230d5bdc5bd0881e57ebed9668688d23ac8523c"
+    },
+    {
+      "id": "PA004",
+      "source_zip_sha256": "66be85b6b1db5304b1b7d6eedcb3d6bcfbd241477a985c3af9576de9e541ccfa",
+      "source_glb_sha256": "64a5e490660ad579174201ca5c6a8196c13af3de712b9df3d55a409323158be3",
+      "camera_location": [
+        0.7154450416564941,
+        -1.2264772653579712,
+        1.0561331510543823
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.1242709159851074,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA004.png",
+      "image_source_sha256": "72a1a835ee86e593ac36e20bd929bbaa68aad5598ef9c3be21d2d4555c0860e8",
+      "image_sha256": "11f6c2749a8a5275768df16e6f7e01398ab85c4d900ed84855359e40e71052e7",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA004.png",
+      "thumbnail_source_sha256": "37ac91d5d73c90e6e48c620648a609aaed47d981a96d01468f2b9669fee3f762",
+      "thumbnail_sha256": "ecda4f9ca1d2eb2b6021506bb9c5cc7a9e11246e8028853b308a31c3f003c98f"
+    },
+    {
+      "id": "PA005",
+      "source_zip_sha256": "f60ca2c990ade8f123dacf5ebb9dbad58216d9d24abfc122d222fc1b47f929e7",
+      "source_glb_sha256": "68a2a32f46018029107ede365d7c73c759cce66c675cd3b9709a1f4c835eb178",
+      "camera_location": [
+        0.5186002254486084,
+        -0.7408574819564819,
+        1.1025910377502441
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        1.107168046132756e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.689842700958252,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA005.png",
+      "image_source_sha256": "6ba13420f69a4b0b1536fc73fdf5b15d9b23f1556d37ebd58cc506a9a77c56f1",
+      "image_sha256": "6227bbe6c713e2811285fae3a024c261756b0dbc113132943d95d88e8cde2a08",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA005.png",
+      "thumbnail_source_sha256": "e6f6118280217074485728fc09cf6469e8714c9683b16173852f3c82fec9f8e8",
+      "thumbnail_sha256": "c6191171301e98a079e69174c0049de64f3135d1ed52265202e23b65016898f2"
+    },
+    {
+      "id": "PA006",
+      "source_zip_sha256": "1a86947751c26e3f0b36d7a0176301fe525108f83b438888993252a4a9845e70",
+      "source_glb_sha256": "73a640073595cd58b17747d3e77be4cc805b04d069ef11fc190fc2306054d1b7",
+      "camera_location": [
+        0.6335914134979248,
+        -1.078158974647522,
+        0.9284147024154663
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.9883123636245728,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA006.png",
+      "image_source_sha256": "e1ffe8aa94c1cb43dfe50df5fb9e2fa838b0344a4be49cc871bf6cb57fdaa90d",
+      "image_sha256": "d5626b6ffa8f5ee71c195151cea81f3e4b64d7e8c5414a0a96470328b7194009",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA006.png",
+      "thumbnail_source_sha256": "880ddcdf40076a3bc60ea87921d0a650074f93d12c770cf102df201e967ab794",
+      "thumbnail_sha256": "c57a5ad1334c979b9e91bdce8ad50085d83f2b49a6d3503e26e68d31ed657ae2"
+    },
+    {
+      "id": "PA007",
+      "source_zip_sha256": "2b221ad0a8e2c6336305e11b3046d2fddb5341a6735fa642be14670c3b907a15",
+      "source_glb_sha256": "2061fd66277b3e111476e1ec5f09289378f56a22f14f85c32cd6e9a12c19b2d7",
+      "camera_location": [
+        0.25199997425079346,
+        -0.43199998140335083,
+        0.37199997901916504
+      ],
+      "camera_rotation_euler": [
+        1.104056715965271,
+        -1.1543548339432164e-09,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.4209631085395813,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA007.png",
+      "image_source_sha256": "1d06876f0def438543ca4c6bd7c98a7868e2c8154b3844eb8d3dcc763be5df0f",
+      "image_sha256": "c456c007a5f9834c8519812d402ef31605b8a5ed20f001632a3a8acc8344327f",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA007.png",
+      "thumbnail_source_sha256": "4f0ddabf756de16c99f89e393cc612e137f1487e3037a81b574ed559e9ec02a1",
+      "thumbnail_sha256": "82c881b05e682360c20f1b0fe2b2c1f4b6f4456134cdadd4bd8c1f5542f13e97"
+    },
+    {
+      "id": "PA008",
+      "source_zip_sha256": "78b1901edcb5abb04182ece32e9e3af289d36135565acb0711be34f96156540f",
+      "source_glb_sha256": "7c9a35ed14e7529a4b6f7d7dae2040f0a3f837492c80d8a5ec37e631014a1ea6",
+      "camera_location": [
+        0.44099995493888855,
+        -0.7559999823570251,
+        0.5134999752044678
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.6929999589920044,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA008.png",
+      "image_source_sha256": "b6ecd3853fb3e07c9776b8ac028129a5c948237eccdacd858ba9736a7c06a62c",
+      "image_sha256": "6faec2b06a6093e383569e2e90c78bb7170b61277e67ad9d825006963de219e6",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA008.png",
+      "thumbnail_source_sha256": "a40fa532b2a2db37bdd48c82517d5b1339fc85ee258456a93d7199dfb508114c",
+      "thumbnail_sha256": "ca5c61300b551a7ae80127c780974297fa6d075cb2e0582ea0cb57e1e572af54"
+    },
+    {
+      "id": "PA009",
+      "source_zip_sha256": "0df2fd199939daea13a499c2909f4c97aa7840f2dc2724937f64223a86131dc5",
+      "source_glb_sha256": "509ddbf648c7316eabfbfe36202ec9c46570c5888dd22b1be732a8b78d7b0b55",
+      "camera_location": [
+        0.2954724133014679,
+        -0.4091666638851166,
+        0.6241545081138611
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.42094185948371887,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA009_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA009.png",
+      "image_source_sha256": "9f9a7654b55f4fae9c767d6cdc550b8930f40a24a5acd3da7e20fac08bacaa97",
+      "image_sha256": "cf93a9383847969d2b434733fd11ba866376fcf3a8e2efaae70d4f686c1913b3",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA009.png",
+      "thumbnail_source_sha256": "6f124e6fa00b2b037fe10891dc43cc260579f5966b365a9ef0e4cd7c876df808",
+      "thumbnail_sha256": "8b1c93315d0bc36354c74fbd63c7b75498c450d5f9f08e3cf52511647158784e"
+    },
+    {
+      "id": "PA010",
+      "source_zip_sha256": "fe9ea69856164000c053f45e53043a4fafbd65b4bbf6b7389d424b8252174c9c",
+      "source_glb_sha256": "689d997c7786a9f540c2eff3226c87b8722bf403860eb91903d4806e369ef677",
+      "camera_location": [
+        0.3247499465942383,
+        -0.36649996042251587,
+        0.5519999861717224
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        1.846527197812975e-08,
+        0.610725998878479
+      ],
+      "camera_ortho_scale": 0.3307499587535858,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA010.png",
+      "image_source_sha256": "790593846c985342882fc6f7a1403d2abbf2b66ae1c2fc5a42208c9d705b03c2",
+      "image_sha256": "34192a8619afe7e710b98901f9a52964798f1682f94fa47dee0f3a3578d2909e",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA010.png",
+      "thumbnail_source_sha256": "c3ed6245c7cb0e54d56e3f9c8c18bd5b8b4e6da064d0b984d173997ec142d606",
+      "thumbnail_sha256": "591df69397e2786451ff56977c6d17b8a3985ac580cbd088d1dccf96f0c09ffe"
+    },
+    {
+      "id": "PA011",
+      "source_zip_sha256": "2046c5c07466669106159e83f9f58983e120e732790c550de7148f86e9380e02",
+      "source_glb_sha256": "14c4878ce7481c56e01a144dedcf24820fa9501e2a2f59a8d5d5fd24f0576af0",
+      "camera_location": [
+        0.48429766297340393,
+        -0.6919928193092346,
+        1.0292539596557617
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        2.0949517676172036e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.706343412399292,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA011.png",
+      "image_source_sha256": "8ac1329982519a842fa62bb079407a72437cb3cd8da108a01e44cd287fe4c391",
+      "image_sha256": "01d88aeb6133d787ed6c9cb352709682d462de2d29041a28b6dc2293b567245a",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA011.png",
+      "thumbnail_source_sha256": "5d47dce9f6063f66aeae80bca06d3883ce06e66d910676efabfecf8f4fa5ae77",
+      "thumbnail_sha256": "9f911f9ecc5ec520279bc80292e251dcfa63c8bf0940464bc065047147c64c42"
+    },
+    {
+      "id": "PA012",
+      "source_zip_sha256": "b23dc8d611b7e35c7ee80b854126694c255a0a86221ccb3b4f99f70a04bc37ae",
+      "source_glb_sha256": "87b86678c148ef6534f2cd776c30bc095fa76b27ba63ae7030d34ab7ee6d40c3",
+      "camera_location": [
+        0.5615882277488708,
+        -0.802268922328949,
+        1.1964111328125
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.7795354127883911,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA012.png",
+      "image_source_sha256": "909c1f7ccb7e25f67a323e4ab7113a8c49c3fd6964f1dadc87427359d3201624",
+      "image_sha256": "5418a030340d58ebadb804f9a2c788a5e3cc256b987704cadd562f43cfca60d4",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA012.png",
+      "thumbnail_source_sha256": "22ab16e9d8238e05e77c8f0e0a7ba2afa7a08a2bb646e02d47b4a27cb6f49e72",
+      "thumbnail_sha256": "d82907149b21c6668722227b7ac4c1eb3328cd518cbb35c2300c0d874af8f2d9"
+    },
+    {
+      "id": "PA013",
+      "source_zip_sha256": "934536ee18831f3496954e364bf8b3d13b49a183d610f8323cbee4860bd171a6",
+      "source_glb_sha256": "9af4a0b6dd46332e6136b1a6f2d2fa1b1e7fe952933c4278b4c3b7a782282f65",
+      "camera_location": [
+        0.2818825840950012,
+        -0.4026894271373749,
+        0.6026111841201782
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        1.107168046132756e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.3722209930419922,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA013.png",
+      "image_source_sha256": "cabed2922825c6be39462ab227259263bed2bb85e00e9464a00c798c9ec032e4",
+      "image_sha256": "811960421b624243aef7482c0bbceef2b2bb52f2203cd8d9253642499f369d2b",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA013.png",
+      "thumbnail_source_sha256": "df33a3fc4eb1ea9600009b5e390354a0b23f7c2ddf844abafca26dee802df586",
+      "thumbnail_sha256": "9aca1fe936b7fce0ea892fc774a715934a78559ce707e04825d8f7bddf9cd879"
+    },
+    {
+      "id": "PA014",
+      "source_zip_sha256": "989a4d5b6904741915bf387ce23024bd14ecf6eaab34296fe98b812e5519975c",
+      "source_glb_sha256": "7c85d4dade400e547f5bb28922d1840e1b2b0368fdfa730b267de0b159579e85",
+      "camera_location": [
+        1.3292999267578125,
+        -2.2788000106811523,
+        1.9622999429702759
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.088900089263916,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA014.png",
+      "image_source_sha256": "b8e9bc1de3e280fc63c80af6c94ed292d62ea01c3024c88063b8fd1f3b13ae51",
+      "image_sha256": "73bedc6a3e8e8e2974f64b38b0a10e44bc20d36b19f29cfd1a48cb3826f172b4",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA014.png",
+      "thumbnail_source_sha256": "0e2e21972f766938796656b8fe003d16ec2a253931d3fd5bbf5e094cd06be87e",
+      "thumbnail_sha256": "59fd6645f9ec94c2134827a54538a016c3b25c881ef57bfb640c2b8b42fc8833"
+    },
+    {
+      "id": "PA015",
+      "source_zip_sha256": "1affe99e53830d28f47676638b328b8306ce9616e0f0d6069973affec5766d3d",
+      "source_glb_sha256": "63464967ae367e18a4f1895d9d6692b883a35d158ec9d5a2adfdcfb5ac44dcef",
+      "camera_location": [
+        1.0499999523162842,
+        -1.7837499380111694,
+        1.5499999523162842
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.649999976158142,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA015.png",
+      "image_source_sha256": "ca75d54e4d742482d525e18d02d4f159bf69fc7881afd621223375d380110bf0",
+      "image_sha256": "2df88f17119586b43ddbf14cfaf92d837e13bb7bb2dde23df9786dd80c91f56b",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA015.png",
+      "thumbnail_source_sha256": "6d6f3f4d18054d0700ebc8f5f00ea614e47b8628e958ac131c1318113a54d79e",
+      "thumbnail_sha256": "e4becca17426a11eaed569ca00921bfb554d8214ef82b7f8805c17b35677d867"
+    },
+    {
+      "id": "PA016",
+      "source_zip_sha256": "122487c224a12f243be3f6fa8e9ac7681a34721ad3013ab6f8278d25f70601ae",
+      "source_glb_sha256": "f5c02ebe5e6bf098862582252c81ee506ba9552b115a8f22297032d2c53f5285",
+      "camera_location": [
+        0.9922499656677246,
+        -1.7050641775131226,
+        1.4647499322891235
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.559249997138977,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA016.png",
+      "image_source_sha256": "85a5ec12f655eeb81415a81c9e04c7a3d464c07cb6f84b0a6a3e438e703ee8bc",
+      "image_sha256": "415c3e453c865a22a8217a594e3c444f4a9e67e20f4b01e4ac52a47def01cf60",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA016.png",
+      "thumbnail_source_sha256": "315849522db920a55e9998c02c09fbb507d72e45788d9b2498c5b834c7740eee",
+      "thumbnail_sha256": "921be50a8761a17bcb39ac4190f984e6764b7f5c3fa137f6e774472625e3d9dd"
+    },
+    {
+      "id": "PA017",
+      "source_zip_sha256": "230df170182c737816f6992ccefee13890ed2b86aded9d90efc4f5a89186b566",
+      "source_glb_sha256": "bbc0e011d23fb786a010f469184e9f4951019238e38db2b5da54ba8c39bc8879",
+      "camera_location": [
+        0.9869981408119202,
+        -1.705912470817566,
+        1.456997275352478
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.5509971380233765,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA017.png",
+      "image_source_sha256": "069638b73c8d57990a8abb093f914ff4deb01651811b41b8cd4128d3bfd6edf2",
+      "image_sha256": "8c7a041e2db1bf1628d78d986979cfa797f32d909c55af12c6dd4ca674f39775",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA017.png",
+      "thumbnail_source_sha256": "c02ba9f54e9d02f12c295f75874a2019c107811d707c914b76875d4a40f518a9",
+      "thumbnail_sha256": "9b3ea1e3441fa6cf5bf5508a0767aadb030ae91a766d18fed666fa559fe7da09"
+    },
+    {
+      "id": "PA018",
+      "source_zip_sha256": "33f74e1d49b38e2a490a365934023a799c1f621b307509abaaad64bb7ce23d3f",
+      "source_glb_sha256": "374c9edf853b3cb6c797042d9d973c80bda7f34f683776cb76938dfe056f5cb5",
+      "camera_location": [
+        0.7350000143051147,
+        -1.2599999904632568,
+        1.084999918937683
+      ],
+      "camera_rotation_euler": [
+        1.10405695438385,
+        -2.3913610647241512e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.1549999713897705,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA018_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA018.png",
+      "image_source_sha256": "03b265b023fe35cc91006fc5699742851ed3c279d2e1982c6cf459d4d431dd99",
+      "image_sha256": "f4c3ff5a23883620dec0ce7c5630688092007a890a48a469e8445a0f85985bd1",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA018.png",
+      "thumbnail_source_sha256": "f189439713f3e90a1547d1968026919f76c9a1ffab3ec1a562bf23c4b846d4f3",
+      "thumbnail_sha256": "1a6a429c30d73afe12793df942e468781ed9dd857e4b9e28555087bef5ef00af"
+    },
+    {
+      "id": "PA019",
+      "source_zip_sha256": "37fd176e347373bd0fe7124ea938778a152304ed4177dc36568c1f9c5c55be0a",
+      "source_glb_sha256": "6e3b4a500958bbcfc068611bc20c3e264a807be24c2d9608e5c9fc5922e7185e",
+      "camera_location": [
+        0.4272496998310089,
+        -0.7109994888305664,
+        0.5047497153282166
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.6517495512962341,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA019_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA019.png",
+      "image_source_sha256": "64b88d0afa9258243e77cba5dce681f4f0747fb49a7f7c2d5c8ee8220c1e8317",
+      "image_sha256": "496d3c741bbff3ab407a12e23b6d2fe4d9daf2e70394abf730391eaa0aed6c5b",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA019.png",
+      "thumbnail_source_sha256": "7c8f72c99881c7ef2474b4a9243ed1e83abb92730627170dce6ade0df0cb886e",
+      "thumbnail_sha256": "b1d12e3f05738905453cac565f56fd56c667993fdf5300d799e50c34169d1eee"
+    },
+    {
+      "id": "PA020",
+      "source_zip_sha256": "86b437d895679be7e061140b75be125af066f631162666ff718c877dd326af92",
+      "source_glb_sha256": "efaeed1bb2160a52e8873e857c6128e00cc7266fbc64b35d6d256893f533d6cf",
+      "camera_location": [
+        0.8924999833106995,
+        -1.5392500162124634,
+        1.1337499618530273
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.402500033378601,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA020_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA020.png",
+      "image_source_sha256": "1820cacf05a61d49e67bd838d160a45ab7e9b21ea8672519a3e6576ade29dc2d",
+      "image_sha256": "6be6bdb0187e43c7021a54aafef2f65ce9686e93a020f47b8fd5188b4bd3bcdc",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA020.png",
+      "thumbnail_source_sha256": "f12208e6926ed8aac99c12654963dc185ae4a94783a2d0f63c5fdd37fe9052ea",
+      "thumbnail_sha256": "f099c486b815fcf9ce72e9d242e4d0907415b1d2b22f0f06ad355a608cb8deac"
+    },
+    {
+      "id": "PA021",
+      "source_zip_sha256": "d8a161f4c01e9d6cda8330f265daace826c1074701232cad9102c9f135307de0",
+      "source_glb_sha256": "c7ba25655a12adae558f41c2d6ba00e822bf325721bccbbcce1f7d557fd59ff1",
+      "camera_location": [
+        0.5249999761581421,
+        -0.75,
+        1.1299999952316284
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.6763426661491394,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA021_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA021.png",
+      "image_source_sha256": "f7d2d285b2e693486193627a856d42d46dca26c76998f7b4a27e9dda0a8769f1",
+      "image_sha256": "d87661016e746ffc4797707ba6d08b125dd0b13dee49025ce54d8d8d3a0d6faf",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA021.png",
+      "thumbnail_source_sha256": "be3ccd4b01d4251bd73031d67ff6acd23e64fa2f5ceccc2e909b4c0e463794c1",
+      "thumbnail_sha256": "685c897b42e1f47265cd12a50a50d951f5cc8b11389989443f37a031c81d2c21"
+    },
+    {
+      "id": "PA022",
+      "source_zip_sha256": "c54a1e650824922bdf405bdab9d4ae5e47677c208c74475dbd1c4147e05ba2bc",
+      "source_glb_sha256": "922bbc81856a8d96565bc60b6d63fdcd4fc4f0c062dc51acc2206f724787f2c2",
+      "camera_location": [
+        0.3945998251438141,
+        -0.5975998044013977,
+        0.49359989166259766
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.547799825668335,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA022_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA022.png",
+      "image_source_sha256": "c5964dd1b2367a3fd3bfe3b4914544d8ecdf3cb5112276e976d94807ddd3f85e",
+      "image_sha256": "5b869b38d35220a919ae8ef5f9f3ef54f2adc0ba405ff13a706fd59ada6d8849",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA022.png",
+      "thumbnail_source_sha256": "e23fbdd7408d8ef70525d736f1feebcc58ef8d5d2ba70bae2bed5f6a07dfbb21",
+      "thumbnail_sha256": "6b9e57db719b94535e9881123f0cbd79f9757c193425d5d5c538f0d3b64a7e74"
+    },
+    {
+      "id": "PA023",
+      "source_zip_sha256": "ab91eb8d40662d391df883f4700f98f3180bf6e96c09cbf941379db9f03ef2d5",
+      "source_glb_sha256": "937fd713ca1ccab0949e123d6c436fdfed5c2bb1c9954bfc550c66521e710481",
+      "camera_location": [
+        1.8899998664855957,
+        -3.3915557861328125,
+        2.2612030506134033
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.9700000286102295,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA023_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA023.png",
+      "image_source_sha256": "1d2466413fd5adbf679a1a651d691444a998742b81f206b146324d531b83e86f",
+      "image_sha256": "a40471e73354a47ff2fc56b6bdcd3f1225c947e29993235cb0c2bfb2dda25aee",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA023.png",
+      "thumbnail_source_sha256": "36d643617e611203944aa1311c75cd5431cec558316a60d9f247f03a5a692d74",
+      "thumbnail_sha256": "ad33b0da7e8fcf429213479fe72bc377e6be87f04995de127bd351457caafd6f"
+    },
+    {
+      "id": "PA024",
+      "source_zip_sha256": "f540033ab17f3bbc5d05b6f7474bc869a0370e3ce1d4add460a1fdfcfcec6e67",
+      "source_glb_sha256": "6b9356630caf223135ed823e02dfa6a3d2f2e37ad5749d4435ee9ca2382b8f6b",
+      "camera_location": [
+        0.8924999833106995,
+        -1.5404999256134033,
+        1.2925000190734863
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.402500033378601,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA024_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/PA024.png",
+      "image_source_sha256": "7f4dfaa6711eb8e6051d0606274726c4645dabfaa703c38d5be5564226079907",
+      "image_sha256": "4e2711f243e116195420dd294013b720497703d078a0e696bce5503c72f3bc86",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/PA024.png",
+      "thumbnail_source_sha256": "104314af3a1d11cf7499021abf63ae930f1a6dde56b1d72a485ee4d6f492141b",
+      "thumbnail_sha256": "99e78a24fa64a78cd84e958eb67bc42c374d2bae4f2ef51fa7b419013b185b74"
+    },
+    {
+      "id": "TR001",
+      "source_zip_sha256": "db6b3fb2f37e4b8125f091683b961f6ee13a438705e06245bd1522c43e88c28a",
+      "source_glb_sha256": "6b5c4cd3d57eef22d26fc5ebfce8a4735a7aea04946e33ede52eddbf87b140e0",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6792895793914795
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/TR001.png",
+      "image_source_sha256": "0301de1546e46dd30d45b6fc8122953edb765d66844ae8e144d7224776afbdbc",
+      "image_sha256": "135b75869be5cac4bc0fa3724fd2f87abcb720503e482266a74f76d3f3601477",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/TR001.png",
+      "thumbnail_source_sha256": "9d32029d1d654801732f95260e82cc76434f6c0a75f7c149c3f844c8bd4b0331",
+      "thumbnail_sha256": "32b3fc98bda7119447862fad566bad616156f593242fe619a8ba18c250d97099"
+    },
+    {
+      "id": "TR002",
+      "source_zip_sha256": "02f4bb1f6f137cd7f31ad9ce13edb62d53b9bd7932f4d6b8402cc7df6b7ca1b6",
+      "source_glb_sha256": "21c5678d4b8aed6b0e90c268423a2275dd1c0903742c3eb48836490e906476cf",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.7148493528366089
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/atelier-terrain24/renders/TR002.png",
+      "image_source_sha256": "b76b0e17924b7f702551e30ef3ccaaffb2536956042629faf93113be7d610185",
+      "image_sha256": "af36333318499f0081b8cc84d4a5436a4f7f8e3537c4d3b8f6da03f765413766",
+      "thumbnail": "previews/atelier-terrain24/thumbnails/TR002.png",
+      "thumbnail_source_sha256": "582dc7243af61f6c15013b1fd40806a8bb7815395737ad0e5ebe4da47e81ace4",
+      "thumbnail_sha256": "900ec9d654a0a13fc0a57beb5115b880d3162f26ebbb06fa9b4c845e4b689a46"
+    }
+  ]
+}

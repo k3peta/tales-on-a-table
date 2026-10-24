@@ -20,3 +20,7 @@ Cumulative266 assessed distribution records,742 remaining. Prior45 budget/redesi
 - **AT_089**: Raised binding cords: repair diagnosis pending.
 - **AT_090**: Separated paper layers/rigid cord bridges: intended assembly unconfirmed.
 - **AT_092**: 20262 triangles exceeds20000 small-prop budget; unresolved.
+
+## Subsequent version update
+
+AT082/083/086/087/089 now have [binding revisions](binding_repairs_at082_089.md). Original findings above are historical, not a claim that all remaining diagnoses are solved.

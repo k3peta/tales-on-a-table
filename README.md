@@ -7,6 +7,8 @@
 
 ## 公開履歴
 
+- 2026-10-24 — [Five binding revisions](catalog/binding_repairs_at082_089.md),no new count. [24 images](catalog/international/README.md):base image mappings809/1008,missing199. Base1008/variant127/assessed266 unchanged;46 budget issues remain.
+
 - 2026-10-24 — [24 real-model images](catalog/international/README.md):base image mappings785/1008,missing223. [Audit27](catalog/quality_audit_at082_092.md):10 assessed,0 adopted revisions/variants; cumulative266,remaining742. Base1008/variants127 unchanged.
 
 - 2026-10-24 — [Quality26](catalog/material_variants_at072_081.md):1 variant,no geometry revision; base1008 unchanged, variants127. [Images](catalog/international/README.md):761 mapped,247 missing after FW9 update.

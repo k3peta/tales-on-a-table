@@ -59,3 +59,185 @@ Adjustable studio easel
 [![PA002](../previews/inn-conservatory-atelier24/thumbnails/PA002.png)](../previews/inn-conservatory-atelier24/renders/PA002.png)
 
 [Full image](../previews/inn-conservatory-atelier24/renders/PA002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### PA003 — Unfinished original river landscape
+
+Unfinished original river landscape
+
+[![PA003](../previews/atelier-terrain24/thumbnails/PA003.png)](../previews/atelier-terrain24/renders/PA003.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA003_CC0.zip)
+
+### PA004 — Round painters stool
+
+Round painters stool
+
+[![PA004](../previews/atelier-terrain24/thumbnails/PA004.png)](../previews/atelier-terrain24/renders/PA004.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA004_CC0.zip)
+
+### PA005 — Oval loaded palette
+
+Oval loaded palette
+
+[![PA005](../previews/atelier-terrain24/thumbnails/PA005.png)](../previews/atelier-terrain24/renders/PA005.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA005_CC0.zip)
+
+### PA006 — Brush crock
+
+Brush crock
+
+[![PA006](../previews/atelier-terrain24/thumbnails/PA006.png)](../previews/atelier-terrain24/renders/PA006.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA006_CC0.zip)
+
+### PA007 — Rinsing jar
+
+Rinsing jar
+
+[![PA007](../previews/atelier-terrain24/thumbnails/PA007.png)](../previews/atelier-terrain24/renders/PA007.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA007_CC0.zip)
+
+### PA008 — Pigment jars on tray
+
+Pigment jars on tray
+
+[![PA008](../previews/atelier-terrain24/thumbnails/PA008.png)](../previews/atelier-terrain24/renders/PA008.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA008_CC0.zip)
+
+### PA009 — Paint tubes
+
+Paint tubes
+
+[![PA009](../previews/atelier-terrain24/thumbnails/PA009.png)](../previews/atelier-terrain24/renders/PA009.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA009.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA009_CC0.zip)
+
+### PA010 — Palette knives
+
+Palette knives
+
+[![PA010](../previews/atelier-terrain24/thumbnails/PA010.png)](../previews/atelier-terrain24/renders/PA010.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA010_CC0.zip)
+
+### PA011 — Paint stained linen rag
+
+Paint stained linen rag
+
+[![PA011](../previews/atelier-terrain24/thumbnails/PA011.png)](../previews/atelier-terrain24/renders/PA011.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA011_CC0.zip)
+
+### PA012 — Open sketchbook
+
+Open sketchbook
+
+[![PA012](../previews/atelier-terrain24/thumbnails/PA012.png)](../previews/atelier-terrain24/renders/PA012.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA012_CC0.zip)
+
+### PA013 — Charcoal sticks
+
+Charcoal sticks
+
+[![PA013](../previews/atelier-terrain24/thumbnails/PA013.png)](../previews/atelier-terrain24/renders/PA013.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA013_CC0.zip)
+
+### PA014 — Canvas rolls
+
+Canvas rolls
+
+[![PA014](../previews/atelier-terrain24/thumbnails/PA014.png)](../previews/atelier-terrain24/renders/PA014.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA014_CC0.zip)
+
+### PA015 — Blank stretched canvas
+
+Blank stretched canvas
+
+[![PA015](../previews/atelier-terrain24/thumbnails/PA015.png)](../previews/atelier-terrain24/renders/PA015.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA015_CC0.zip)
+
+### PA016 — Empty carved picture frame
+
+Empty carved picture frame
+
+[![PA016](../previews/atelier-terrain24/thumbnails/PA016.png)](../previews/atelier-terrain24/renders/PA016.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA016_CC0.zip)
+
+### PA017 — Plaster stilllife stand
+
+Plaster stilllife stand
+
+[![PA017](../previews/atelier-terrain24/thumbnails/PA017.png)](../previews/atelier-terrain24/renders/PA017.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA017_CC0.zip)
+
+### PA018 — Plaster classical vessel
+
+Plaster classical vessel
+
+[![PA018](../previews/atelier-terrain24/thumbnails/PA018.png)](../previews/atelier-terrain24/renders/PA018.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA018_CC0.zip)
+
+### PA019 — Plaster geometric studies
+
+Plaster geometric studies
+
+[![PA019](../previews/atelier-terrain24/thumbnails/PA019.png)](../previews/atelier-terrain24/renders/PA019.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA019_CC0.zip)
+
+### PA020 — Wooden supply chest
+
+Wooden supply chest
+
+[![PA020](../previews/atelier-terrain24/thumbnails/PA020.png)](../previews/atelier-terrain24/renders/PA020.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA020_CC0.zip)
+
+### PA021 — Folded dropcloth
+
+Folded dropcloth
+
+[![PA021](../previews/atelier-terrain24/thumbnails/PA021.png)](../previews/atelier-terrain24/renders/PA021.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA021_CC0.zip)
+
+### PA022 — Small ceramic pitcher
+
+Small ceramic pitcher
+
+[![PA022](../previews/atelier-terrain24/thumbnails/PA022.png)](../previews/atelier-terrain24/renders/PA022.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA022_CC0.zip)
+
+### PA023 — Wall shelf with drawing papers
+
+Wall shelf with drawing papers
+
+[![PA023](../previews/atelier-terrain24/thumbnails/PA023.png)](../previews/atelier-terrain24/renders/PA023.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA023.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA023_CC0.zip)
+
+### PA024 — Pinboard and reference sketches
+
+Pinboard and reference sketches
+
+[![PA024](../previews/atelier-terrain24/thumbnails/PA024.png)](../previews/atelier-terrain24/renders/PA024.png)
+
+[Full image](../previews/atelier-terrain24/renders/PA024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA024_CC0.zip)
+
+Image scope: PA oak appears default white in distributed GLBs;PA011 stains not visible,PA022 dark lower shading undiagnosed. Real model images, not claimed repairs.

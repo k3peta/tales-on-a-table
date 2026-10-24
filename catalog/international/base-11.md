@@ -394,7 +394,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
-**Audit status (no adopted repair):** Raised cord clearance/intended ties diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before binding revision:** Raised cord clearance/intended ties diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
+[Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public artifact verification pending;original link retained.
 
 ## AT_083
 
@@ -418,7 +420,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
-**Audit status (no adopted repair):** Raised cord diagnosis pending; broken pottery rim may be intentional. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before binding revision:** Raised cord diagnosis pending; broken pottery rim may be intentional. [Audit scope](../quality_audit_at082_092.md).
+
+[Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public artifact verification pending;original link retained.
 
 ## AT_084
 
@@ -490,7 +494,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2](../../catalog/containers_02.md) · [Catalogue 3](../../catalog/containers_02.zh-CN.md)
 
-**Audit status (no adopted repair):** Raised cords and apparently disconnected/embedded segments: diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before binding revision:** Raised cords and apparently disconnected/embedded segments: diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
+[Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public artifact verification pending;original link retained.
 
 ## AT_087
 
@@ -514,7 +520,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
-**Audit status (no adopted repair):** Paper/cord layering versus penetration diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before binding revision:** Paper/cord layering versus penetration diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
+[Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public artifact verification pending;original link retained.
 
 ## AT_088
 
@@ -561,4 +569,5 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
-**Audit status (no adopted repair):** Raised binding cords: repair diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+**Historical audit before binding revision:** Raised binding cords: repair diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+[Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public artifact verification pending;original link retained.
