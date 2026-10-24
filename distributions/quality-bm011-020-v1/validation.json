@@ -1,0 +1,82 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "f65ed67301f8a7a5abf9c6be66ff49c8c2e317a1",
+  "guard_run_id": "dc82015f-9917-44b0-a14f-332d0ce337de",
+  "started_utc": "2026-10-24T16:56:21.633336+00:00",
+  "finished_utc": "2026-10-24T16:56:21.864142+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "BM_020__bluewood",
+      "zip": "BM_020__bluewood_CC0.zip",
+      "zip_sha256": "f6c0edfbbda6e733f5145576c8642d250384e2164a52c18eeee66bc172b54b0b",
+      "members": {
+        "BM_020__bluewood.glb": "8615ab0344aceb63090ed8dbd4a393ff291ff4ce33f464ff4b902753a52728d8",
+        "BM_020__bluewood.blend": "ac6814451898abec763d6f4003fc35fc21f62d74a1bcbaece48e3e715cbc7ea8"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "BM_020__bluewood",
+      "formats": {
+        "blend": {
+          "triangles": 1756,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 5,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 1756,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 5,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}
