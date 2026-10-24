@@ -1,5 +1,5 @@
 {
-  "count": 111,
+  "count": 114,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1619,6 +1619,54 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_011__color_terracotta_CC0.zip"
+    },
+    {
+      "id": "AT_012__color_blue",
+      "base_id": "AT_012",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_blue",
+      "description": "\u6e21\u9d09\u4eee\u9762\u306e\u9769\u9762\u3092\u9752\u3078\u3002\u30ac\u30e9\u30b9\u30ec\u30f3\u30ba\u30fb\u91d1\u5177\u30fb\u5c55\u793a\u53f0\u306f\u4fdd\u6301\u3002",
+      "zip": "AT_012__color_blue_CC0.zip",
+      "bytes": 889658,
+      "sha256": "629c9ad615666da8d6573c8929c6133fdbea232047a340e47a67ef70352cfc14",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_012__color_blue_CC0.zip"
+    },
+    {
+      "id": "AT_017__color_blue",
+      "base_id": "AT_017",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_blue",
+      "description": "\u76fe\u306e\u8d64\u3044\u5730\u8272\u3092\u9752\u3078\u3002\u50b7\u30fb\u7d0b\u7ae0\u30fb\u91d1\u5177\u30fb\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "AT_017__color_blue_CC0.zip",
+      "bytes": 1305168,
+      "sha256": "695b01b040c2696fc04e935777e77828d0f442bd6a056c59e22e714d38200498",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_017__color_blue_CC0.zip"
+    },
+    {
+      "id": "AT_020__color_copper",
+      "base_id": "AT_020",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_copper",
+      "description": "\u7adc\u306e\u5375\u306e\u7dd1\u7cfb\u8868\u9762\u3092\u9285\u8272\u7cfb\u3078\u3002\u9c57\u30fb\u53f0\u5ea7\u30fb\u652f\u3048\u306f\u4fdd\u6301\u3002\u6750\u8cea\u5149\u5b66\u30d1\u30e9\u30e1\u30fc\u30bf\u306f\u5909\u66f4\u3057\u306a\u3044\u3002",
+      "zip": "AT_020__color_copper_CC0.zip",
+      "bytes": 614695,
+      "sha256": "da6a2f46ee98e8e76494290027b559286b5bc2308f0bbf017562beb58d9bd3e4",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_020__color_copper_CC0.zip"
     }
   ]
 }

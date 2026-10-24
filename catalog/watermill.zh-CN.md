@@ -108,7 +108,7 @@ Flour sieve
 
 [Full image](../previews/prison-mill24/renders/WM008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM008_CC0.zip)
 
-**Known issue:** Handle detached from scoop bowl: unresolved original-model issue.
+**Original-version issue (history):** Handle detached from bowl; repaired version now available.
 
 ### WM009 — Wooden grain scoop
 
@@ -141,3 +141,13 @@ Spare millstone
 [![WM012](../previews/prison-mill24/thumbnails/WM012.png)](../previews/prison-mill24/renders/WM012.png)
 
 [Full image](../previews/prison-mill24/renders/WM012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM012_CC0.zip)
+
+## Revised versions / 修正版 / 修订版
+
+Original archives/images above remain as version history. Scoped defects repaired; no new record count.
+
+### WM009 — scoop_heel_wall_v1
+
+[![Revised WM009](../previews/quality-pmnode-wm009-repair-v1/WM009__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/WM009__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)

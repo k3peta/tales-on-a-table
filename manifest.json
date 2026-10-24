@@ -17847,7 +17847,25 @@
       "zip_file": "PM006_Universal_Stone_Node.zip",
       "zip_bytes": 2241934,
       "zip_sha256": "1670d97953c5e776d4d1fcc9576e95d887fb8ca3e12f599b54f0abfb3ff4425f",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM006_Universal_Stone_Node.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM006_Universal_Stone_Node.zip",
+      "revisions": [
+        {
+          "id": "PM006__repair",
+          "base_id": "PM006",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "recess_mortar_core_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Coincident mortar/stone side faces removed by recessing mortar core 10mm; original stone surfaces and materials retained.",
+          "zip": "PM006__repair_CC0.zip",
+          "bytes": 2225339,
+          "sha256": "a9faf1dc74938786d8bc906cc1bdff1d31f8ff75a1322e397c5b7106d71143fb",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "PM007",
@@ -17901,7 +17919,26 @@
       "zip_file": "PM009_L_Corner_Configuration.zip",
       "zip_bytes": 2241751,
       "zip_sha256": "c642db0810ba3817266ebce90acf37b77535dfce1ea30b4c82e7efee58612b04",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM009_L_Corner_Configuration.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM009_L_Corner_Configuration.zip",
+      "revisions": [
+        {
+          "id": "PM009__repair",
+          "base_id": "PM009",
+          "entity_type": "revision",
+          "source_entity_type": "configuration_record_reusing_PM006",
+          "geometry_revision": "recess_mortar_core_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Coincident mortar/stone side faces removed by recessing mortar core 10mm; original stone surfaces and materials retained.",
+          "zip": "PM009__repair_CC0.zip",
+          "bytes": 2225037,
+          "sha256": "91017d369fa57e564d129e9b889a6c5606c2002be5d5eda4d2c47e959bb39475",
+          "independent_shape_increment": 0,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "PM010",
@@ -17919,7 +17956,26 @@
       "zip_file": "PM010_T_Junction_Configuration.zip",
       "zip_bytes": 2240802,
       "zip_sha256": "f39123a70c2f2769bed925e67a5f5047159149adb559cc3bbf5d1e97c5fd3bd7",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM010_T_Junction_Configuration.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM010_T_Junction_Configuration.zip",
+      "revisions": [
+        {
+          "id": "PM010__repair",
+          "base_id": "PM010",
+          "entity_type": "revision",
+          "source_entity_type": "configuration_record_reusing_PM006",
+          "geometry_revision": "recess_mortar_core_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Coincident mortar/stone side faces removed by recessing mortar core 10mm; original stone surfaces and materials retained.",
+          "zip": "PM010__repair_CC0.zip",
+          "bytes": 2225131,
+          "sha256": "6c1692c1d297db531b83e7226f1ab74ed7215960d33008e5fc5c89cc4ea965bd",
+          "independent_shape_increment": 0,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "PM011",
@@ -17937,7 +17993,26 @@
       "zip_file": "PM011_End_Cap_Configuration.zip",
       "zip_bytes": 2239999,
       "zip_sha256": "d58f368149418c8eb63bc36547a10819373d210c20989e8c23a36fe071cc78bb",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip",
+      "revisions": [
+        {
+          "id": "PM011__repair",
+          "base_id": "PM011",
+          "entity_type": "revision",
+          "source_entity_type": "configuration_record_reusing_PM006",
+          "geometry_revision": "recess_mortar_core_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Coincident mortar/stone side faces removed by recessing mortar core 10mm; original stone surfaces and materials retained.",
+          "zip": "PM011__repair_CC0.zip",
+          "bytes": 2225072,
+          "sha256": "7de947286fafb6a8ffa6ce68feffde1a321a4199f4f07e85f55c18063b1224bb",
+          "independent_shape_increment": 0,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "WM001",
@@ -18206,6 +18281,24 @@
         {
           "file": "models/WM009_Wooden_grain_scoop.glb",
           "sha256": "3a04930aab0cfcc4c5bf8fc166d6fdcdf7e61dbe2e9e28a40c13b7419ef7a0ed"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "WM009__repair",
+          "base_id": "WM009",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "scoop_heel_wall_v1",
+          "uv_revision": "original_uv0_plus_new_heel_uv",
+          "finish": "repair",
+          "description": "Added rear heel wall following original scoop section to connect existing floating handle; source meshes retained.",
+          "zip": "WM009__repair_CC0.zip",
+          "bytes": 3648127,
+          "sha256": "4213a86efedf02214f347586d3474edcd1a977f92b4fc44cf423dabfb85570cb",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip"
         }
       ]
     },

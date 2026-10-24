@@ -353,3 +353,57 @@ Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not indepe
 [Full comparison](../../previews/quality-at002-011-v1/AT_011__color_terracotta_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_011__color_terracotta_CC0.zip) · [Source catalogue](../../catalog/material_variants_at002_011.md)
 
 CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_012__color_blue
+
+**Raven procession mask**
+
+渡鴉の行列仮面
+
+[![AT_012__color_blue](../../previews/quality-at012-021-v1/AT_012__color_blue_thumb.png)](../../previews/quality-at012-021-v1/AT_012__color_blue_comparison.png)
+
+Use / purpose: Blue raven-mask leather; lenses and fittings retained.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_012](base-08.md#at_012). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at012-021-v1/AT_012__color_blue_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_012__color_blue_CC0.zip) · [Source catalogue](../../catalog/material_variants_at012_021.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_017__color_blue
+
+**Scarred shield**
+
+傷だらけの盾
+
+[![AT_017__color_blue](../../previews/quality-at012-021-v1/AT_017__color_blue_thumb.png)](../../previews/quality-at012-021-v1/AT_017__color_blue_comparison.png)
+
+Use / purpose: Blue shield ground; scratches and heraldry retained.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_017](base-08.md#at_017). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at012-021-v1/AT_017__color_blue_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_017__color_blue_CC0.zip) · [Source catalogue](../../catalog/material_variants_at012_021.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_020__color_copper
+
+**Dragon egg on a pedestal**
+
+台座に据えた竜の卵
+
+[![AT_020__color_copper](../../previews/quality-at012-021-v1/AT_020__color_copper_thumb.png)](../../previews/quality-at012-021-v1/AT_020__color_copper_comparison.png)
+
+Use / purpose: Copper-colored dragon egg; optical material parameters unchanged.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_020](base-09.md#at_020). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at012-021-v1/AT_020__color_copper_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_020__color_copper_CC0.zip) · [Source catalogue](../../catalog/material_variants_at012_021.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).

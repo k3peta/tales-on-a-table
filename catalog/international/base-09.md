@@ -48,6 +48,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_02.en.md) · [Catalogue 2](../../catalog/curios-tools_02.md) · [Catalogue 3](../../catalog/curios-tools_02.zh-CN.md)
 
+**Unresolved performance issue:** 93574 triangles exceeds small-prop20k budget; unrepaired, redesign pending.
+
 ## AT_020
 
 **Dragon egg on a pedestal**

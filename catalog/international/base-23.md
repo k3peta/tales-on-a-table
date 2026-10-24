@@ -564,7 +564,11 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
-**Known issue:** Black side faces are an unresolved original-model issue. Preview faithfully shows the distributed model; image completion is not quality approval.
+**Version history:** Original version: Black side faces are an unresolved original-model issue. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.
+
+[![Revised PM006](../../previews/quality-pmnode-wm009-repair-v1/PM006__repair_thumb.png)](../../previews/quality-pmnode-wm009-repair-v1/PM006__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
 
 ## PM007
 

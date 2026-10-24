@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 111,
-      "id_mapped_preview": 111,
+      "records": 114,
+      "id_mapped_preview": 114,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 111,
-      "formats_known": 111,
+      "purpose_en_present": 114,
+      "formats_known": 114,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -8713,7 +8713,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "47028 triangles exceeds small-prop20k budget; unrepaired, redesign pending."
     },
     {
       "id": "AT_014",
@@ -8905,7 +8906,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "93574 triangles exceeds small-prop20k budget; unrepaired, redesign pending."
     },
     {
       "id": "AT_020",
@@ -21556,7 +21558,17 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM006.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Black side faces are an unresolved original-model issue."
+      "known_issue": "Original version: Black side faces are an unresolved original-model issue. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "PM006__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip",
+          "geometry_revision": "recess_mortar_core_v1",
+          "image": "previews/quality-pmnode-wm009-repair-v1/PM006__repair_thumb.png",
+          "comparison": "previews/quality-pmnode-wm009-repair-v1/PM006__repair_comparison.png",
+          "status": "Original version: Black side faces are an unresolved original-model issue. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "PM007",
@@ -21650,7 +21662,17 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM009.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
+      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "PM009__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip",
+          "geometry_revision": "recess_mortar_core_v1",
+          "image": "previews/quality-pmnode-wm009-repair-v1/PM009__repair_thumb.png",
+          "comparison": "previews/quality-pmnode-wm009-repair-v1/PM009__repair_comparison.png",
+          "status": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "PM010",
@@ -21682,7 +21704,17 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM010.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
+      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "PM010__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip",
+          "geometry_revision": "recess_mortar_core_v1",
+          "image": "previews/quality-pmnode-wm009-repair-v1/PM010__repair_thumb.png",
+          "comparison": "previews/quality-pmnode-wm009-repair-v1/PM010__repair_comparison.png",
+          "status": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "PM011",
@@ -21714,7 +21746,17 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/PM011.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
+      "known_issue": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "PM011__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip",
+          "geometry_revision": "recess_mortar_core_v1",
+          "image": "previews/quality-pmnode-wm009-repair-v1/PM011__repair_thumb.png",
+          "comparison": "previews/quality-pmnode-wm009-repair-v1/PM011__repair_comparison.png",
+          "status": "Original version: Black side faces are an unresolved original-model issue; reused PM006 configuration. Revised version recess_mortar_core_v1 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "WM001",
@@ -21995,7 +22037,17 @@
       "uv_revision": null,
       "full_image": "previews/prison-mill24/renders/WM009.png",
       "image_manifest": "previews/prison-mill24/manifest.json",
-      "known_issue": "Handle detached from scoop bowl: unresolved original-model issue."
+      "known_issue": "Original version: Handle detached from scoop bowl: unresolved original-model issue. Revised version scoop_heel_wall_v1 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "WM009__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip",
+          "geometry_revision": "scoop_heel_wall_v1",
+          "image": "previews/quality-pmnode-wm009-repair-v1/WM009__repair_thumb.png",
+          "comparison": "previews/quality-pmnode-wm009-repair-v1/WM009__repair_comparison.png",
+          "status": "Original version: Handle detached from scoop bowl: unresolved original-model issue. Revised version scoop_heel_wall_v1 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "WM010",
@@ -38265,6 +38317,105 @@
       ],
       "comparison": {
         "file": "previews/quality-at002-011-v1/AT_011__color_terracotta_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_012__color_blue",
+      "kind": "variant",
+      "base_id": "AT_012",
+      "name_en": "Raven procession mask",
+      "name_ja": "渡鴉の行列仮面",
+      "purpose_en": "Blue raven-mask leather; lenses and fittings retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at012-021-v1/AT_012__color_blue_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_012__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at012_021.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at012-021-v1/AT_012__color_blue_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_017__color_blue",
+      "kind": "variant",
+      "base_id": "AT_017",
+      "name_en": "Scarred shield",
+      "name_ja": "傷だらけの盾",
+      "purpose_en": "Blue shield ground; scratches and heraldry retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at012-021-v1/AT_017__color_blue_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_017__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at012_021.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at012-021-v1/AT_017__color_blue_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_020__color_copper",
+      "kind": "variant",
+      "base_id": "AT_020",
+      "name_en": "Dragon egg on a pedestal",
+      "name_ja": "台座に据えた竜の卵",
+      "purpose_en": "Copper-colored dragon egg; optical material parameters unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-at012-021-v1/AT_020__color_copper_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_020__color_copper_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at012_021.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at012-021-v1/AT_020__color_copper_comparison.png",
         "layout": "left: original; right: accepted variant; same overview camera"
       },
       "geometry_revision": "original",

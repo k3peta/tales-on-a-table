@@ -311,7 +311,7 @@ Actual distributed models; chosen camera view does not establish intended front 
 
 [Full image](../previews/prison-mill24/renders/PM005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM005_Arched_Window_Wall_2m.zip)
 
-**Known issue:** Black side faces are an unresolved original-model issue.
+**Original-version issue (history):** Black side faces; repaired version now available.
 
 ### PM006 — Universal Stone Node
 
@@ -366,3 +366,31 @@ T字接続設定
 [![PM011](../previews/prison-mill24/thumbnails/PM011.png)](../previews/prison-mill24/renders/PM011.png)
 
 [Full image](../previews/prison-mill24/renders/PM011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip)
+
+## Revised versions / 修正版 / 修订版
+
+Original archives/images above remain as version history. Scoped defects repaired; no new record count.
+
+### PM006 — recess_mortar_core_v1
+
+[![Revised PM006](../previews/quality-pmnode-wm009-repair-v1/PM006__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/PM006__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)
+
+### PM009 — recess_mortar_core_v1
+
+[![Revised PM009](../previews/quality-pmnode-wm009-repair-v1/PM009__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/PM009__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)
+
+### PM010 — recess_mortar_core_v1
+
+[![Revised PM010](../previews/quality-pmnode-wm009-repair-v1/PM010__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/PM010__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)
+
+### PM011 — recess_mortar_core_v1
+
+[![Revised PM011](../previews/quality-pmnode-wm009-repair-v1/PM011__repair_thumb.png)](../previews/quality-pmnode-wm009-repair-v1/PM011__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip) · [Scope and comparison](pmnode_wm009_repairs.md)
