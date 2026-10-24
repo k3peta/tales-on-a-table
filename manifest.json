@@ -28129,7 +28129,19 @@
       "zip_file": "FCSV01_ConstructionSite_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip",
       "theme": "fortified_city_sites",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "revisions": [
+        {
+          "revision": "city-scenes-quality-v3",
+          "zip_file": "FCSV01_ConstructionSite_v3_CC0.zip",
+          "zip_bytes": 665439,
+          "zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
+          "new_record_increment": 0
+        }
+      ]
     },
     {
       "asset_id": "FCSV02_RoadEntrance",
@@ -28545,7 +28557,19 @@
       "zip_file": "FCSV03_GateAccessExample_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
       "theme": "fortified_city_access",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "revisions": [
+        {
+          "revision": "city-scenes-quality-v3",
+          "zip_file": "FCSV03_GateAccessExample_v3_CC0.zip",
+          "zip_bytes": 455312,
+          "zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
+          "new_record_increment": 0
+        }
+      ]
     },
     {
       "asset_id": "FCSV04_ScaffoldCornerExample",

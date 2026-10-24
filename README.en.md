@@ -4,6 +4,8 @@ Current total: **989 distribution records** (2026-10-24 JST). The global number 
 
 ## Publication history
 
+- 2026-10-24 JST — **989 records unchanged**: [two city-scene quality revisions](catalog/city_scenes_quality_v3.md), no new records; old versions retained.
+
 - 2026-10-24 JST — **989 records** (988 + 1 composite; reused goat/private fit example excluded). [goat-care-platform-v1](catalog/goat_care_platform_v1.md).
 
 - 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
