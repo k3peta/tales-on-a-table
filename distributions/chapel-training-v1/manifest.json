@@ -1,0 +1,163 @@
+{
+  "record_count": 6,
+  "components": 4,
+  "assemblies": 2,
+  "items": [
+    {
+      "asset_id": "CPT101_ChapelShell",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "architecture",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 133051,
+      "zip_sha256": "7a5ce22154cff09da1d1aa108dcdf099ffb2e56408d84eb8669163a15944e642",
+      "names": {
+        "ja": "ChapelShell",
+        "en": "ChapelShell",
+        "zh-CN": "ChapelShell"
+      },
+      "descriptions": {
+        "ja": "CPT101_ChapelShell",
+        "en": "CPT101_ChapelShell",
+        "zh-CN": "CPT101_ChapelShell"
+      },
+      "zip_file": "CPT101_ChapelShell_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CPT102_SunAltar",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 86293,
+      "zip_sha256": "b9c43e93c7375337b2d5c1b1fe453312c15c43de4d536dfd017056671a6fb331",
+      "names": {
+        "ja": "SunAltar",
+        "en": "SunAltar",
+        "zh-CN": "SunAltar"
+      },
+      "descriptions": {
+        "ja": "CPT102_SunAltar",
+        "en": "CPT102_SunAltar",
+        "zh-CN": "CPT102_SunAltar"
+      },
+      "zip_file": "CPT102_SunAltar_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CPT103_PrayerKneeler",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 73120,
+      "zip_sha256": "aabc224c0ab5636c658130a3d560bf44d75e232eeed8e81689e1797b1f117571",
+      "names": {
+        "ja": "PrayerKneeler",
+        "en": "PrayerKneeler",
+        "zh-CN": "PrayerKneeler"
+      },
+      "descriptions": {
+        "ja": "CPT103_PrayerKneeler",
+        "en": "CPT103_PrayerKneeler",
+        "zh-CN": "CPT103_PrayerKneeler"
+      },
+      "zip_file": "CPT103_PrayerKneeler_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CPT201_PaddedPell",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 78562,
+      "zip_sha256": "714681665cd311cc81032dd9f57bd3c357e943ab14181a3b02a2bcca7b9e2088",
+      "names": {
+        "ja": "PaddedPell",
+        "en": "PaddedPell",
+        "zh-CN": "PaddedPell"
+      },
+      "descriptions": {
+        "ja": "CPT201_PaddedPell",
+        "en": "CPT201_PaddedPell",
+        "zh-CN": "CPT201_PaddedPell"
+      },
+      "zip_file": "CPT201_PaddedPell_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CPTV01_Chapel",
+      "category": "architecture_prop",
+      "record_kind": "group",
+      "design_classification": "assembly",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 16222398,
+      "zip_sha256": "6a42ead3105698f2dc6a4ccc01c3a10e006231a8e96aeaa62a60a2cf74f16da4",
+      "names": {
+        "ja": "Chapel",
+        "en": "Chapel",
+        "zh-CN": "Chapel"
+      },
+      "descriptions": {
+        "ja": "CPTV01_Chapel",
+        "en": "CPTV01_Chapel",
+        "zh-CN": "CPTV01_Chapel"
+      },
+      "zip_file": "CPTV01_Chapel_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CPTV02_TrainingCourt",
+      "category": "architecture_prop",
+      "record_kind": "group",
+      "design_classification": "assembly",
+      "independent_design_increment": null,
+      "revision": "chapel-training-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 9160433,
+      "zip_sha256": "eecf4c0efd2437b3e278f77ffa57a5c90018e6c0b39366fa73c5b9834cbdd7a0",
+      "names": {
+        "ja": "TrainingCourt",
+        "en": "TrainingCourt",
+        "zh-CN": "TrainingCourt"
+      },
+      "descriptions": {
+        "ja": "CPTV02_TrainingCourt",
+        "en": "CPTV02_TrainingCourt",
+        "zh-CN": "CPTV02_TrainingCourt"
+      },
+      "zip_file": "CPTV02_TrainingCourt_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip",
+      "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
