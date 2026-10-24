@@ -13396,7 +13396,23 @@
       "zip_sha256": "06320331f1f55d428ffda7edfb452c546db90a8e3d59c4289b1b0e7e7bce30a7",
       "preview_file": "previews/ARM_077_preview.jpg",
       "preview_sha256": "3cbe3073df73ebe4efa398a7b7ee3d043552f2626d46cd9c682130b698b8c44a",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_077_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_077_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_077__repair",
+          "base_id": "ARM_077",
+          "entity_type": "revision",
+          "zip": "ARM_077__repair_CC0.zip",
+          "sha256": "ab68aaf1e93fc43c3d95dff52c75c45252ed115cc647f60b0fbe431de8b9fd87",
+          "bytes": 4158087,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_077__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_078",
@@ -13456,7 +13472,23 @@
       "zip_sha256": "6cbadd7b0df22eeeb56c61d28e393816528df829eeaec524a821ecb28ac28549",
       "preview_file": "previews/ARM_079_preview.jpg",
       "preview_sha256": "0167b599138b7319685bda1cce98dd4accdc5a20fb313663f1d1a16bc6881e50",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_079_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_079_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_079__repair",
+          "base_id": "ARM_079",
+          "entity_type": "revision",
+          "zip": "ARM_079__repair_CC0.zip",
+          "sha256": "075d77dfbe205c9e517994b6d3a7de3efdce921ad80589557e40e268e7051ef9",
+          "bytes": 2979883,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_079__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_080",
@@ -13516,7 +13548,23 @@
       "zip_sha256": "36bede419803df3c19abe91e4f0c20e653709943a37e3405dcad95e94bed0993",
       "preview_file": "previews/WH_NEW_001_preview.png",
       "preview_sha256": "b35ccdbb7973944f1d1f0fdbb507f93bc646e2f95e2910be2a9bc0a57a1da6e0",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_001_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_001_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_001__repair",
+          "base_id": "WH_NEW_001",
+          "entity_type": "revision",
+          "zip": "WH_NEW_001__repair_CC0.zip",
+          "sha256": "5d139c059e8666be24ad46c63e2a15faa9fdb4e2f7d22b897d7af2a7082d0874",
+          "bytes": 14154056,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_001__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_002",
@@ -13546,7 +13594,23 @@
       "zip_sha256": "0cc07dabc2cabf269b3d41148e784f7444d34f4b5f6db888e34fa9cec67101e5",
       "preview_file": "previews/WH_NEW_002_preview.png",
       "preview_sha256": "945412a1b4eb6eec6fbd2b3782c0ed80f171fc1fba31ef4ff4d2ff42ccd425e1",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_002_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_002_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_002__repair",
+          "base_id": "WH_NEW_002",
+          "entity_type": "revision",
+          "zip": "WH_NEW_002__repair_CC0.zip",
+          "sha256": "9e40ab69e7d136bdc66b1413e343b9ec4167ea6108d155d3838f73f9dfcf1a5a",
+          "bytes": 3164244,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_002__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_003",
@@ -13576,7 +13640,23 @@
       "zip_sha256": "99a787da6cb142c920ce75c0caeb0960a180da53cbd824b3b25571e409da2e85",
       "preview_file": "previews/WH_NEW_003_preview.png",
       "preview_sha256": "2518ecb4bba84c5ad974ab20d9bbb4d10a0b815edc51adefa394c86cfd8951bf",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_003_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_003_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_003__repair",
+          "base_id": "WH_NEW_003",
+          "entity_type": "revision",
+          "zip": "WH_NEW_003__repair_CC0.zip",
+          "sha256": "5aa418d41c7efced2bc9071c2c3c743b6952813d8725edf05b5fd4b595670a36",
+          "bytes": 1501819,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_003__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_004",
@@ -13606,7 +13686,23 @@
       "zip_sha256": "75cf4938d32e7abb0f86aa27ccd749352de1fbaeb2365d3085d6d71e14b1d48e",
       "preview_file": "previews/WH_NEW_004_preview.png",
       "preview_sha256": "0e634c6c61886d2b4a2642e09e65a3b40091f4e0453d425cc6ed3441614cec34",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_004__repair",
+          "base_id": "WH_NEW_004",
+          "entity_type": "revision",
+          "zip": "WH_NEW_004__repair_CC0.zip",
+          "sha256": "8d84d4d98b17dd775ddba1e60715629c38d2bf3ae57e519dc1f98d1651b8c9e8",
+          "bytes": 1924986,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_005",
@@ -13636,7 +13732,23 @@
       "zip_sha256": "c37e760e86a6da485bdc3398452e139ec4229541eb65adfeea448e99af302612",
       "preview_file": "previews/WH_NEW_005_preview.png",
       "preview_sha256": "0a57ac6ac6220760cfe8dd7decb849baa35b9b08f02aa7da10a4de7c00ac8724",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_005_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_005_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_005__repair",
+          "base_id": "WH_NEW_005",
+          "entity_type": "revision",
+          "zip": "WH_NEW_005__repair_CC0.zip",
+          "sha256": "0012e32670abede3d03bf6a4d524e7cbead6e211c972e3cdf9acb8116cc262d4",
+          "bytes": 1314727,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_005__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_006",
@@ -13666,7 +13778,23 @@
       "zip_sha256": "e45567ddc9b819bdb88560ed3c5209183ad6b6620614fd7c1a7652e543c7f3f7",
       "preview_file": "previews/WH_NEW_006_preview.png",
       "preview_sha256": "2f86ac98ff491864379b6a1299a376cacdfd29f95abb69ba7b55dfec12a95504",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_006_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_006_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_006__repair",
+          "base_id": "WH_NEW_006",
+          "entity_type": "revision",
+          "zip": "WH_NEW_006__repair_CC0.zip",
+          "sha256": "882b194c9b1393c5eafade2ff3bf90afc5d519f652cf387948b4721fbc3c63c4",
+          "bytes": 5169312,
+          "description": "Exact-zero-area cleanup retains all positive surfaces and source vertex colors where present. Missing UV explicitly added for WH meshes; positive-face existing UV retained. Not a new base; budget remains where documented.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_006__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_007",

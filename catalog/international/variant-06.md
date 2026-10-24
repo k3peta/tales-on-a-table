@@ -435,3 +435,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_068](base-17.md#arm_068) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__terracotta_CC0.zip) · [Full comparison](../../previews/quality-arm067-076-v1/ARM_068__terracotta_overview_comparison.png) · [Details](../material_variants_arm067_arm076.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WH_NEW_004__cyancrystal
+
+**琥珀結晶の二股槍** · 琥珀結晶の二股槍
+
+[![WH_NEW_004__cyancrystal](../../previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_thumb.png)](../../previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_overview_comparison.png)
+
+Use: Cyan crystal body UV texture on cleaned WH_NEW004 geometry/UV baseline. Transmission/roughness/metallic/emission unchanged. Not liquid/bottle color or new base.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WH_NEW_004](base-18.md#wh_new_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_CC0.zip) · [Full comparison](../../previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_overview_comparison.png) · [Details](../material_variants_arm077_wh006.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

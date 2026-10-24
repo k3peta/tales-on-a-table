@@ -220,6 +220,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality43:** 8 zero faces removed;87k exceeds50k; colors retained. [Details](../material_variants_arm077_wh006.md).
+
 ## ARM_078
 
 **工房の研磨台**
@@ -241,6 +243,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality43:** 105k over50k, no zero faces; budget unresolved. [Details](../material_variants_arm077_wh006.md).
 
 ## ARM_079
 
@@ -264,6 +268,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality43:** 256 zero faces removed; below50k; cold static forge only. [Details](../material_variants_arm077_wh006.md).
+
 ## ARM_080
 
 **革張り工房ふいご**
@@ -285,6 +291,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality43:** 90k over50k; bellows mechanism untested. [Details](../material_variants_arm077_wh006.md).
 
 ## WH_NEW_001
 
@@ -308,6 +316,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality43:** 6700 zero faces removed, missing UV added;348k heavy composite armor/stand/tag. [Details](../material_variants_arm077_wh006.md).
+
 ## WH_NEW_002
 
 **装飾用の大型弩**
@@ -329,6 +339,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality43:** 1658 zero faces removed, missing UV added;63k over50k; static decorative assembly. [Details](../material_variants_arm077_wh006.md).
 
 ## WH_NEW_003
 
@@ -352,6 +364,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality43:** 1632 zero faces removed, missing UV added;40k over20k. [Details](../material_variants_arm077_wh006.md).
+
 ## WH_NEW_004
 
 **琥珀結晶の二股槍**
@@ -373,6 +387,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality43:** 764 zero faces removed, missing UV added;22k over20k; cyan variant uses repaired baseline. [Details](../material_variants_arm077_wh006.md).
 
 ## WH_NEW_005
 
@@ -396,6 +412,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality43:** 1040 zero faces removed, missing UV added;36k over20k. [Details](../material_variants_arm077_wh006.md).
+
 ## WH_NEW_006
 
 **二段20本剣ラック**
@@ -417,6 +435,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality43:** 5820 zero faces removed, missing UV added;90k over50k; empty20slot rack counted once. [Details](../material_variants_arm077_wh006.md).
 
 ## WH_NEW_007
 

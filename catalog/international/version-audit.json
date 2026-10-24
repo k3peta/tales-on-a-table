@@ -30,7 +30,16 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "ARM_077",
+      "ARM_079",
+      "WH_NEW_001",
+      "WH_NEW_002",
+      "WH_NEW_003",
+      "WH_NEW_004",
+      "WH_NEW_005",
+      "WH_NEW_006"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +54,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 872,
-      "exact_image_zip_evidence": 136
+      "none": 864,
+      "exact_image_zip_evidence": 136,
+      "exact_image_zip_binding_public_retrieval_pending": 8
     }
   },
   "items": [
@@ -8241,7 +8251,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "ARM_077__repair",
+        "zip_sha256": "ab68aaf1e93fc43c3d95dff52c75c45252ed115cc647f60b0fbe431de8b9fd87",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_077__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "ARM_077__repair",
+            "zip_sha256": "ab68aaf1e93fc43c3d95dff52c75c45252ed115cc647f60b0fbe431de8b9fd87",
+            "image": "previews/quality-arm077-wh006-v1/ARM_077__repair_thumb.png",
+            "image_sha256": "d168121b7811bf837bf4f403d29b7ca6a4ebc6a193f65ff8acefe72b24923b7d",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "ARM_078",
@@ -8271,7 +8297,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "ARM_079__repair",
+        "zip_sha256": "075d77dfbe205c9e517994b6d3a7de3efdce921ad80589557e40e268e7051ef9",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/ARM_079__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "ARM_079__repair",
+            "zip_sha256": "075d77dfbe205c9e517994b6d3a7de3efdce921ad80589557e40e268e7051ef9",
+            "image": "previews/quality-arm077-wh006-v1/ARM_079__repair_thumb.png",
+            "image_sha256": "fdbc0a17e9eca49f391e1089daeaae3f15ea2d989d72a2633db23e5bdec24949",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "ARM_080",
@@ -8301,7 +8343,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_001__repair",
+        "zip_sha256": "5d139c059e8666be24ad46c63e2a15faa9fdb4e2f7d22b897d7af2a7082d0874",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_001__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_001__repair",
+            "zip_sha256": "5d139c059e8666be24ad46c63e2a15faa9fdb4e2f7d22b897d7af2a7082d0874",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_001__repair_thumb.png",
+            "image_sha256": "aabcd24691fd38155be54a7153b6ccf9d3069a899a0934a0e13b46f85fa16e18",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_002",
@@ -8316,7 +8374,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_002__repair",
+        "zip_sha256": "9e40ab69e7d136bdc66b1413e343b9ec4167ea6108d155d3838f73f9dfcf1a5a",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_002__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_002__repair",
+            "zip_sha256": "9e40ab69e7d136bdc66b1413e343b9ec4167ea6108d155d3838f73f9dfcf1a5a",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_002__repair_thumb.png",
+            "image_sha256": "25bcf05e47ce8af197fc13f1cb1befcaec739c6ee5b275bf0e2d6251e4a92ede",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_003",
@@ -8331,7 +8405,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_003__repair",
+        "zip_sha256": "5aa418d41c7efced2bc9071c2c3c743b6952813d8725edf05b5fd4b595670a36",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_003__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_003__repair",
+            "zip_sha256": "5aa418d41c7efced2bc9071c2c3c743b6952813d8725edf05b5fd4b595670a36",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_003__repair_thumb.png",
+            "image_sha256": "ef991079b7988368eff38e5c2ea3a34ba29c6be8657254bb4bf6ed3559c99a3b",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_004",
@@ -8346,7 +8436,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_004__repair",
+        "zip_sha256": "8d84d4d98b17dd775ddba1e60715629c38d2bf3ae57e519dc1f98d1651b8c9e8",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_004__repair",
+            "zip_sha256": "8d84d4d98b17dd775ddba1e60715629c38d2bf3ae57e519dc1f98d1651b8c9e8",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_004__repair_thumb.png",
+            "image_sha256": "be9156c850b80f817d0413a99799c3448c2b5d55dd03974c00ab41176cd5cdee",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_005",
@@ -8361,7 +8467,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_005__repair",
+        "zip_sha256": "0012e32670abede3d03bf6a4d524e7cbead6e211c972e3cdf9acb8116cc262d4",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_005__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_005__repair",
+            "zip_sha256": "0012e32670abede3d03bf6a4d524e7cbead6e211c972e3cdf9acb8116cc262d4",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_005__repair_thumb.png",
+            "image_sha256": "09f99e8e27c1873349de2c595573cdb80a33724c40cca88eb0a72a79d7a9eb4d",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_006",
@@ -8376,7 +8498,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_006__repair",
+        "zip_sha256": "882b194c9b1393c5eafade2ff3bf90afc5d519f652cf387948b4721fbc3c63c4",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_006__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_006__repair",
+            "zip_sha256": "882b194c9b1393c5eafade2ff3bf90afc5d519f652cf387948b4721fbc3c63c4",
+            "image": "previews/quality-arm077-wh006-v1/WH_NEW_006__repair_thumb.png",
+            "image_sha256": "550c21ce0e336d63d46de0f329e8837f87fa47fa351ce71e429831b014db7af0",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_007",

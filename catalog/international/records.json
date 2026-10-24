@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 152,
-      "id_mapped_preview": 152,
+      "records": 153,
+      "id_mapped_preview": 153,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 152,
-      "formats_known": 152,
+      "purpose_en_present": 153,
+      "formats_known": 153,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -18480,7 +18480,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_077_CC0.zip",
       "pictured_zip_sha256": "06320331f1f55d428ffda7edfb452c546db90a8e3d59c4289b1b0e7e7bce30a7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_077__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "8 zero faces removed;87k exceeds50k; colors retained."
     },
     {
       "id": "ARM_078",
@@ -18517,7 +18525,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_078_CC0.zip",
       "pictured_zip_sha256": "db8afd12c8ff433ab3819284970a630675bf56f407bd93bf3fb11842e86b606e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "105k over50k, no zero faces; budget unresolved."
     },
     {
       "id": "ARM_079",
@@ -18554,7 +18563,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_079_CC0.zip",
       "pictured_zip_sha256": "6cbadd7b0df22eeeb56c61d28e393816528df829eeaec524a821ecb28ac28549",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_079__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "256 zero faces removed; below50k; cold static forge only."
     },
     {
       "id": "ARM_080",
@@ -18591,7 +18608,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_080_CC0.zip",
       "pictured_zip_sha256": "720683177199a39edfde1f738293a73b33bda95189cd077101bfdc2be2c1837b",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "90k over50k; bellows mechanism untested."
     },
     {
       "id": "WH_NEW_001",
@@ -18628,7 +18646,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_001_CC0.zip",
       "pictured_zip_sha256": "36bede419803df3c19abe91e4f0c20e653709943a37e3405dcad95e94bed0993",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_001__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "6700 zero faces removed, missing UV added;348k heavy composite armor/stand/tag."
     },
     {
       "id": "WH_NEW_002",
@@ -18665,7 +18691,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_002_CC0.zip",
       "pictured_zip_sha256": "0cc07dabc2cabf269b3d41148e784f7444d34f4b5f6db888e34fa9cec67101e5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_002__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "1658 zero faces removed, missing UV added;63k over50k; static decorative assembly."
     },
     {
       "id": "WH_NEW_003",
@@ -18702,7 +18736,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_003_CC0.zip",
       "pictured_zip_sha256": "99a787da6cb142c920ce75c0caeb0960a180da53cbd824b3b25571e409da2e85",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_003__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "1632 zero faces removed, missing UV added;40k over20k."
     },
     {
       "id": "WH_NEW_004",
@@ -18739,7 +18781,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip",
       "pictured_zip_sha256": "75cf4938d32e7abb0f86aa27ccd749352de1fbaeb2365d3085d6d71e14b1d48e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_004__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "764 zero faces removed, missing UV added;22k over20k; cyan variant uses repaired baseline."
     },
     {
       "id": "WH_NEW_005",
@@ -18776,7 +18826,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_005_CC0.zip",
       "pictured_zip_sha256": "c37e760e86a6da485bdc3398452e139ec4229541eb65adfeea448e99af302612",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_005__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "1040 zero faces removed, missing UV added;36k over20k."
     },
     {
       "id": "WH_NEW_006",
@@ -18813,7 +18871,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_006_CC0.zip",
       "pictured_zip_sha256": "e45567ddc9b819bdb88560ed3c5209183ad6b6620614fd7c1a7652e543c7f3f7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_006__repair",
+          "catalog": "catalog/material_variants_arm077_wh006.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "5820 zero faces removed, missing UV added;90k over50k; empty20slot rack counted once."
     },
     {
       "id": "WH_NEW_007",
@@ -45404,6 +45470,43 @@
       "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_068_CC0.zip",
       "pictured_zip_sha256": "bfc7d2da27980aedd669f3de1ccf307c43df54b53b7c93cc0059688ede730e14",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "WH_NEW_004__cyancrystal",
+      "kind": "variant",
+      "base_id": "WH_NEW_004",
+      "name_en": "琥珀結晶の二股槍",
+      "name_ja": "琥珀結晶の二股槍",
+      "purpose_en": "Cyan crystal body UV texture on cleaned WH_NEW004 geometry/UV baseline. Transmission/roughness/metallic/emission unchanged. Not liquid/bottle color or new base.",
+      "record_kind": "model",
+      "image": "previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm077_wh006.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "cleaned WH_NEW_004 baseline:764 zero faces removed; original positive surfaces retained",
+      "uv_revision": "missing UV added before variant baseline; original has no vertex colors",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip",
+      "pictured_zip_sha256": "75cf4938d32e7abb0f86aa27ccd749352de1fbaeb2365d3085d6d71e14b1d48e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
