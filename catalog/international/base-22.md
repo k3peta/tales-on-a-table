@@ -532,6 +532,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Quality53:** 118 intersecting straw components472tri removed;7412tri revised,remaining432 edge-test0 crossings;not exhaustive collision guarantee. [Details](../material_variants_bm081_fp007.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/FP006__repair_CC0.zip) · [Matching revision preview](../../previews/quality-bm081-fp007-v1/FP006__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## FP007
 
 **Stave water bucket**

@@ -8,7 +8,7 @@ BM083 blue hanging valance: same geometry/UV/attribute presence, only canvas UV 
 
 10配布レコード/10モデル査定。藁寝床改訂1件は非加算、青い垂れ布variant1件別集計。10个配布记录/10个模型；草铺修订不增加基本数量，蓝色挂布变体单独统计。零交叉仅限已检查的边与布枕表面。
 
-Same camera/light/scale comparisons. Final-ZIP checks BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not loss. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP checks BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not loss. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed526 distribution records;482 remain;143 polygon-budget issues unchanged. BM007/BM054 diagnoses and BM072/079 wood review remain; BM082 sign/FP003 desk repetitive wood grain added as material-review candidates, not repaired. No physical security, opening mechanism, locks, seating, strength, watertightness, gameplay or Blender4.3.2 approval.
 
@@ -47,3 +47,5 @@ Remove whole straw components that intersect blanket/pillow faces; retained geom
 [![FP006__repair close_comparison](../previews/quality-bm081-fp007-v1/FP006__repair_close_comparison.png)](../previews/quality-bm081-fp007-v1/FP006__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm081-fp007-v1/validation.json).

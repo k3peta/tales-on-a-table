@@ -30,9 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "FP006"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -48,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 858,
-      "exact_image_zip_evidence": 149,
-      "exact_image_zip_binding_public_retrieval_pending": 1
+      "exact_image_zip_evidence": 150
     }
   },
   "items": [
@@ -10091,16 +10088,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/FP006__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "FP006__repair",
             "zip_sha256": "ccb1e1ac497b50e908f79fc197f65a1a0ba3d1c98c86961adf9b6c1ad0c22fd1",
             "image": "previews/quality-bm081-fp007-v1/FP006__repair_thumb.png",
             "image_sha256": "2f11a19e66b0a3132ab8814a77fdfb2b8eb26d13b461135ac607e790b3b656b2",
-            "evidence": "Final ZIP/source image hashes verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "bdd362a17bb873096b3a40d2af0b00550ab63c1a"
       }
     },
     {

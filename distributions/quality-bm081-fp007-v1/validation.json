@@ -1,0 +1,123 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "bdd362a17bb873096b3a40d2af0b00550ab63c1a",
+  "guard_run_id": "f189e2ec-f8ab-4b21-adad-a905ad9fcac0",
+  "started_utc": "2026-10-24T17:56:25.939341+00:00",
+  "finished_utc": "2026-10-24T17:56:26.679186+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "BM_083__blue_canvas",
+      "zip": "BM_083__blue_canvas_CC0.zip",
+      "zip_sha256": "c77c6e66804f09d6999fb3129f9b471b493fabca9d6fb9c086ae4930cb558f89",
+      "members": {
+        "BM_083__blue_canvas.blend": "755dfec0f6e4caacb1056f72ec74c664997686f39d32eded4eb248f027b8f401",
+        "BM_083__blue_canvas.glb": "8ed124dbe66a3f981596c08d45f45defff2f4c6e2f9342c94239af673851a164"
+      }
+    },
+    {
+      "id": "FP006__repair",
+      "zip": "FP006__repair_CC0.zip",
+      "zip_sha256": "ccb1e1ac497b50e908f79fc197f65a1a0ba3d1c98c86961adf9b6c1ad0c22fd1",
+      "members": {
+        "FP006__repair.glb": "29e14f6a47748b125ce058d802f5266be864c280ee8ab1e6801fe6a0b0561825",
+        "FP006__repair.blend": "184a461837b99c2105845a49046d516dd1a209e051dc6b05e9b364070011c045"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "BM_083__blue_canvas",
+      "formats": {
+        "blend": {
+          "triangles": 1712,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 1712,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "FP006__repair",
+      "formats": {
+        "blend": {
+          "triangles": 7412,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 7412,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 6.143906006172983e-08,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "BM_029",
+      "format": "glb",
+      "fixture_sha256": "c4e44a7ad9c4f34134b9ca9455fd687d07f2df81b2c3c7603c05c512a5d14682",
+      "reference_sha256": "e8e821dc2a5f175017362dd2efb7d4e0db3aa20fc7f18ecec42d16974b6bf116",
+      "same_geometry": true,
+      "missing_colors_rejected": true,
+      "scope": "rejected candidate only; public source original color data present"
+    }
+  ]
+}

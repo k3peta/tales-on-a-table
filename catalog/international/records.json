@@ -22945,7 +22945,8 @@
         {
           "id": "FP006__repair",
           "catalog": "catalog/material_variants_bm081_fp007.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "118 intersecting straw components472tri removed;7412tri revised,remaining432 edge-test0 crossings;not exhaustive collision guarantee."
