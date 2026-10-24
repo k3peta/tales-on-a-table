@@ -1,6 +1,6 @@
 # AT067 scratch revision / 傷装飾の修復 / 划痕装饰修订
 
-**Final ZIP guard passed; matching the public-download artifact is pending. One revision, no base/variant/full-audit increment.**
+**Final ZIP guard passed; exact public-download ZIP and internal model hashes independently matched. One revision, no base/variant/full-audit increment.**
 
 42 detached body-scratch components, up to22.225mm from the wooden surface, were replaced with open decorative surface ribbons whose tested vertices lie within0.2mm of the wood. Scratch geometry and UV changed: original geometry/UV invariance is NOT claimed. Non-scratch parts retained by construction. Intentional open decorative boundaries are not holes in the staff body. Initial nearest-vertex projection produced degenerate faces and was rejected before export.
 
@@ -34,3 +34,5 @@ Guard binds final ZIP/member/input/verifier hashes, run ID, time and Blender ver
 ### repaired_before_rear
 
 [![detail](../previews/quality-at067-scratch-repair-v1/repaired_before_rear.png)](../previews/quality-at067-scratch-repair-v1/repaired_before_rear.png)
+
+[Bound ZIP/model hashes, run ID and numerical results](../distributions/quality-at067-scratch-repair-v1/validation.json). Producer geometry tests were not independently rerun here; the public artifact identity was independently verified.

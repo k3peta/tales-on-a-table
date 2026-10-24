@@ -52,7 +52,7 @@ Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue
 
 **Version history:** Scratch strips diagnosed and revised; see revision below. Polygon-budget issue remains unresolved.
 
-**Revision available, public-download check pending:** [AT067 repair and comparison](../../catalog/at067_scratch_repair.md). Original download/image retained.
+**Revision: final ZIP guard and public-download identity verified:** [AT067 repair and comparison](../../catalog/at067_scratch_repair.md). Original download/image retained.
 
 ## AT_068
 

@@ -10471,13 +10471,13 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original floating scratch strips; surface-ribbon geometry/UV revision final-ZIP guarded, public identity match pending. 21140 triangles still over budget.",
+      "known_issue": "Historical floating scratches replaced with scratch_surface_ribbons_v2; geometry and UV changed. Final ZIP guard and exact public-download match verified. 21140 triangles still over budget; function/collision/4.3.2 unverified.",
       "revision_history": [
         {
           "id": "AT_067__repair",
           "geometry_revision": "scratch_surface_ribbons_v2",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at067-scratch-repair-v1/AT_067__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },

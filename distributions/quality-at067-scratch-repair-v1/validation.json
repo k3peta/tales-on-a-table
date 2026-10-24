@@ -1,0 +1,39 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "run_id": "fca7e7ba-12eb-4739-af53-2298bbff6817",
+  "started_utc": "2026-10-24T11:45:45.044839+00:00",
+  "finished_utc": "2026-10-24T11:45:46.036907+00:00",
+  "tool": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "zip_sha256": "11281a322a451e659b80c1669481907c268f28ea36885ebaa8b903525efa413d",
+  "model_sha256": {
+    "AT_067__repair.glb": "63da4ecac3598bc33ec6768bdd200a7990e096e2eda3cc23adb929418b4db7cd",
+    "AT_067__repair.blend": "ef4722241af37ef63d54fc70229265fc1f1ea6ecd8a5977aa68ac70de5752c4a"
+  },
+  "numeric": [
+    {
+      "id": "AT_067__repair",
+      "formats": {
+        "blend": {
+          "triangles": 21140,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 15,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 21140,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 15,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "scope": "Producer final-ZIP numerical validation; publication independently checked all bound input/script/file hashes and exact public-download ZIP/member identity. No independent Blender rerun by publication task. Not collision/strength/4.3.2 guarantee."
+}

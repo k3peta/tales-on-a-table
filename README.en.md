@@ -7,7 +7,7 @@ Current total: **1008 distribution records** (2026-10-24 JST). The global number
 
 ## Publication history
 
-- 2026-10-24 — [AT067 section revision](catalog/at067_scratch_repair.md), no count increment; public-download check pending.
+- 2026-10-24 — [AT067 section revision](catalog/at067_scratch_repair.md), no count increment; final ZIP guard and public-download identity verified.
 
 - 2026-10-24 — [FW material repairs](catalog/fw_normal_repairs.md):10 revisions, no new count; corrected images now737/1008, missing271. Original versions retained.
 
