@@ -368,6 +368,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality41:** 40 zero faces removed;83072tri over50k. [Details](../material_variants_arm050_arm066.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_052__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm050-066-v1/ARM_052__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_053
 
 **フェルト頭の兜掛け**
@@ -535,6 +537,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality41:** 82 zero faces removed;15386tri within20k;256 positive tiny retained. [Details](../material_variants_arm050_arm066.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_066__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm050-066-v1/ARM_066__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## ARM_067
 

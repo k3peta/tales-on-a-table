@@ -17769,7 +17769,8 @@
         {
           "id": "ARM_052__repair",
           "catalog": "catalog/material_variants_arm050_arm066.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "40 zero faces removed;83072tri over50k."
@@ -18042,7 +18043,8 @@
         {
           "id": "ARM_066__repair",
           "catalog": "catalog/material_variants_arm050_arm066.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "82 zero faces removed;15386tri within20k;256 positive tiny retained."

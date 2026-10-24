@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.151/151 variants pictured.** 132 recorded latest revisions have matched image/ZIP evidence; two new ARM052/066 revisions await public retrieval; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.151/151 variants pictured.** All134 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +151 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 

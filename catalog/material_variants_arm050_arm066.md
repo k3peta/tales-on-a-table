@@ -6,7 +6,7 @@ ARM05240 and ARM06682 exact-zero triangles removed; positive surfaces, UV and ve
 
 改訂2件非加算、青/赤フェルトvariant2件別集計。家具50k・携行小物20kの用途区分は測定前に設定。2个修订不新增模型，2个毡垫颜色变体单独统计。家具和手持道具警告阈值不同，不代表性能保证。
 
-Ten real IDs: ARM050,051,052,053,054,055,056,058,065,066. Missing IDs not assessed. Same camera/light/scale comparisons. Final-ZIP guard covers BLEND/GLB geometry/UV/spatial vertex-color correspondence. Four known bad missing-color fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Ten real IDs: ARM050,051,052,053,054,055,056,058,065,066. Missing IDs not assessed. Same camera/light/scale comparisons. Final-ZIP guard covers BLEND/GLB geometry/UV/spatial vertex-color correspondence. Four known bad missing-color fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed406 distribution records;602 remain;113 budget/redesign issues unresolved. Six new budget warnings: ARM052/054/055/065 furnishing50k;ARM056/058 portable20k. Racks and felt stands are within50k. Offset care-stone/receiver is an intentional component layout, not new model counts. Regular barrel grain remains. No load, functional fit, gameplay, rig, collision or Blender4.3.2 approval. Earlier diagnoses retained.
 
@@ -75,3 +75,5 @@ Exact-zero-area cleanup with positive surfaces, UV and vertex colors retained: A
 [![ARM_066__repair close_comparison](../previews/quality-arm050-066-v1/ARM_066__repair_close_comparison.png)](../previews/quality-arm050-066-v1/ARM_066__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-arm050-066-v1/validation.json).
