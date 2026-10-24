@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality42:** 38932tri over20k; fit not retested. [Details](../material_variants_arm067_arm076.md).
+
 ## ARM_070
 
 **山道短剣の在庫鞘**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality42:** 25344tri over20k; rig/load untested. [Details](../material_variants_arm067_arm076.md).
 
 ## ARM_071
 
@@ -70,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality42:** 70528tri over20k; existing fitted derivative. [Details](../material_variants_arm067_arm076.md).
+
 ## ARM_072
 
 **空の布スリング**
@@ -91,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality42:** 272764tri over20k; strand geometry needs dedicated baking/redesign. [Details](../material_variants_arm067_arm076.md).
 
 ## ARM_073
 
@@ -114,6 +122,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality42:** 70392tri over20k; fit untested. [Details](../material_variants_arm067_arm076.md).
+
 ## ARM_074
 
 **雫宝飾の扁平短剣鞘**
@@ -135,6 +145,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality42:** 50392tri over20k; existing palette retained. [Details](../material_variants_arm067_arm076.md).
 
 ## ARM_075
 
@@ -158,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality42:** 63468tri over20k; fitting/load untested. [Details](../material_variants_arm067_arm076.md).
+
 ## ARM_076
 
 **店先の検品台**
@@ -179,6 +193,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality42:** 150 zero faces removed;68518tri over50k. [Details](../material_variants_arm067_arm076.md).
 
 ## ARM_077
 

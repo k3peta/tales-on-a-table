@@ -421,3 +421,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_053](base-17.md#arm_053) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_053__redfelt_CC0.zip) · [Full comparison](../../previews/quality-arm050-066-v1/ARM_053__redfelt_overview_comparison.png) · [Details](../material_variants_arm050_arm066.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_068__terracotta
+
+**封印煙玉の外見小道具** · 封印煙玉の外見小道具
+
+[![ARM_068__terracotta](../../previews/quality-arm067-076-v1/ARM_068__terracotta_thumb.png)](../../previews/quality-arm067-076-v1/ARM_068__terracotta_overview_comparison.png)
+
+Use: Terracotta-colored ceramic exterior UV tint on the ARM068 cleaned geometry baseline. Original positive geometry/UV/vertex colors retained; no emission or functional mechanism added. Static fantasy display prop only; not a new base or functional device.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_068](base-17.md#arm_068) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__terracotta_CC0.zip) · [Full comparison](../../previews/quality-arm067-076-v1/ARM_068__terracotta_overview_comparison.png) · [Details](../material_variants_arm067_arm076.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

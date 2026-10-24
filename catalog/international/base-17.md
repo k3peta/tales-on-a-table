@@ -562,6 +562,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality42:** 40292tri over20k; static display only. [Details](../material_variants_arm067_arm076.md).
+
 ## ARM_068
 
 **封印煙玉の外見小道具**
@@ -583,3 +585,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+**Quality42:** 6 zero faces removed;8550tri; terracotta variant uses cleaned baseline, not whole original unchanged. Static ceramic prop, no functional contents/mechanism. [Details](../material_variants_arm067_arm076.md).

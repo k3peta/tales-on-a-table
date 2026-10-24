@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 151,
-      "id_mapped_preview": 151,
+      "records": 152,
+      "id_mapped_preview": 152,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 151,
-      "formats_known": 151,
+      "purpose_en_present": 152,
+      "formats_known": 152,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -18084,7 +18084,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_067_CC0.zip",
       "pictured_zip_sha256": "625f5fa1becc4ed290d2363c18072a97bc88c54ca9ce77ed7962af8397201eea",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "40292tri over20k; static display only."
     },
     {
       "id": "ARM_068",
@@ -18121,7 +18122,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_068_CC0.zip",
       "pictured_zip_sha256": "bfc7d2da27980aedd669f3de1ccf307c43df54b53b7c93cc0059688ede730e14",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_068__repair",
+          "catalog": "catalog/material_variants_arm067_arm076.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "6 zero faces removed;8550tri; terracotta variant uses cleaned baseline, not whole original unchanged. Static ceramic prop, no functional contents/mechanism."
     },
     {
       "id": "ARM_069",
@@ -18158,7 +18167,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_069_CC0.zip",
       "pictured_zip_sha256": "9c06943bbe86e7d17d2d73f4ff7050c6b11a7893f2f80f76faa2a648a486678c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "38932tri over20k; fit not retested."
     },
     {
       "id": "ARM_070",
@@ -18195,7 +18205,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_070_CC0.zip",
       "pictured_zip_sha256": "ca8456a6dea313a173f701b07d969c4374f8b7f6490c70ed359e7abbaf5f9d4a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "25344tri over20k; rig/load untested."
     },
     {
       "id": "ARM_071",
@@ -18232,7 +18243,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_071_CC0.zip",
       "pictured_zip_sha256": "360934f0adec85159c14b72a01a689902d074ceb91eebd05abba8f0e6070e156",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "70528tri over20k; existing fitted derivative."
     },
     {
       "id": "ARM_072",
@@ -18269,7 +18281,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_072_CC0.zip",
       "pictured_zip_sha256": "b4e6e8dc657fa55cc777edad9b3d9bff57efb91fb8a34d8ea8f7f5c32e2d656d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "272764tri over20k; strand geometry needs dedicated baking/redesign."
     },
     {
       "id": "ARM_073",
@@ -18306,7 +18319,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_073_CC0.zip",
       "pictured_zip_sha256": "e08fe51847f68960c52456d7f72ea5cbc1c9acf93fa1d58b45c27b5828764844",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "70392tri over20k; fit untested."
     },
     {
       "id": "ARM_074",
@@ -18343,7 +18357,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_074_CC0.zip",
       "pictured_zip_sha256": "aa4843fcf90d1e1be9c172c3f4fe9db4c947b8145769be3bee2bcc5a9ed83f84",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "50392tri over20k; existing palette retained."
     },
     {
       "id": "ARM_075",
@@ -18380,7 +18395,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_075_CC0.zip",
       "pictured_zip_sha256": "4cc8aa98005e31665f42c79b83a0b09e7c8aa881066668de06eb14aaa140fd6c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "63468tri over20k; fitting/load untested."
     },
     {
       "id": "ARM_076",
@@ -18417,7 +18433,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_076_CC0.zip",
       "pictured_zip_sha256": "b9ce20f1a4a6a0ab38f51d19602562630d084ff9fd4cc8ce6faebcb15bd2e50c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_076__repair",
+          "catalog": "catalog/material_variants_arm067_arm076.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "150 zero faces removed;68518tri over50k."
     },
     {
       "id": "ARM_077",
@@ -45341,6 +45365,43 @@
       "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_053_CC0.zip",
       "pictured_zip_sha256": "dd667832b60b513e729bc33f6834489039d5900eff6eddcfb29f31857d7de9c4",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_068__terracotta",
+      "kind": "variant",
+      "base_id": "ARM_068",
+      "name_en": "封印煙玉の外見小道具",
+      "name_ja": "封印煙玉の外見小道具",
+      "purpose_en": "Terracotta-colored ceramic exterior UV tint on the ARM068 cleaned geometry baseline. Original positive geometry/UV/vertex colors retained; no emission or functional mechanism added. Static fantasy display prop only; not a new base or functional device.",
+      "record_kind": "model",
+      "image": "previews/quality-arm067-076-v1/ARM_068__terracotta_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__terracotta_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm067_arm076.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm067-076-v1/ARM_068__terracotta_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "cleaned ARM068 baseline: six zero-area faces removed; positive original surfaces retained",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_068_CC0.zip",
+      "pictured_zip_sha256": "bfc7d2da27980aedd669f3de1ccf307c43df54b53b7c93cc0059688ede730e14",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

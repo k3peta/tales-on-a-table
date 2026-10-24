@@ -16,13 +16,13 @@ Snapshot: 1008 base distribution records +104 material variants. Counts are not 
     "all_requested_metadata_verified": 0
   },
   "variant": {
-    "records": 151,
-    "id_mapped_preview": 151,
+    "records": 152,
+    "id_mapped_preview": 152,
     "preview_not_mapped": 0,
     "dimensions_known": 0,
     "triangles_known": 0,
-    "purpose_en_present": 151,
-    "formats_known": 151,
+    "purpose_en_present": 152,
+    "formats_known": 152,
     "origin_orientation_verified": 0,
     "all_requested_metadata_verified": 0
   }

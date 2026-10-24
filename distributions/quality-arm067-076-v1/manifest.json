@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "ARM_068__repair",
+      "base_id": "ARM_068",
+      "entity_type": "revision",
+      "zip": "ARM_068__repair_CC0.zip",
+      "sha256": "52643a3e6024b216d4d4ca88ef315a29b457de99531a7d4e4a5602b1f3fba6c9",
+      "bytes": 575880,
+      "description": "Exact-zero-area cleanup preserving all positive surfaces, UV and vertex colors: ARM068 6 faces, ARM076 150 faces. ARM076 budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_068__terracotta",
+      "base_id": "ARM_068",
+      "entity_type": "material_variant",
+      "zip": "ARM_068__terracotta_CC0.zip",
+      "sha256": "5cd5b712a3afc387a837db4773f28b76615280a7d18b29a78210e20bf6e7de95",
+      "bytes": 579007,
+      "description": "Terracotta-colored ceramic exterior UV tint on the ARM068 cleaned geometry baseline. Original positive geometry/UV/vertex colors retained; no emission or functional mechanism added. Static fantasy display prop only; not a new base or functional device.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__terracotta_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_076__repair",
+      "base_id": "ARM_076",
+      "entity_type": "revision",
+      "zip": "ARM_076__repair_CC0.zip",
+      "sha256": "e55f605c4a228c525046e1c19f9981cd0f8c4fb08a86339e97c3fd53cdb0e3de",
+      "bytes": 3009571,
+      "description": "Exact-zero-area cleanup preserving all positive surfaces, UV and vertex colors: ARM068 6 faces, ARM076 150 faces. ARM076 budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_076__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 2
+}
