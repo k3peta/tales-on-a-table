@@ -151,5 +151,71 @@
       "missing_colors_rejected": true,
       "scope": "rejected candidate only; public source original color data present"
     }
-  ]
+  ],
+  "final_zip_zero_area_recheck": [
+    {
+      "id": "FP021__repair",
+      "zip_sha256": "0a22b277282517b726872a3c6f8fa251de40fe4c0a0d2dd81919cb7fdbfff1ba",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "5306d92754155b5140f7c3fff48e42ad38f5e3a5a13226836b72e18f9af8bf45",
+          "triangles": 3556,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "5bcc2b1a47da2744b1068f4d2033e6ea44d5f770519c028bde613364cc4022f8",
+          "triangles": 3556,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP025__repair",
+      "zip_sha256": "36f2b6fca1729c834156940d5a6b681a84d957fccfd33b2410a96838c97204a6",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "fc8c260bd8236d2ef8308d779c1ca2fac1ad76263caab10b88334e69507ed425",
+          "triangles": 17958,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "1311be79b17fa95d2fe0a8fbb81283831c6809473c84caa1ca2dce013be177a9",
+          "triangles": 17958,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP025__blue_linen",
+      "zip_sha256": "18a9c4a0549a9c7cff26535687e6b9ef3af1c0ae7739c5f4131a70fdfe826074",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "3258caf6bec0fcb3fe6e54ee023c6e6df88aad387b9a9947ffd586d9db680fa4",
+          "triangles": 17958,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "66c28d274c2306a7e782f8eb44e15dbbe0a1041c38d0bec1f763e12c0afe86d3",
+          "triangles": 17958,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    }
+  ],
+  "zero_area_scope": "Producer final-ZIP both-format recount, independently bound to public package/member hashes; positive surfaces retained, not general collision guarantee."
 }
