@@ -631,3 +631,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_063](base-21.md#bm_063) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm061-070-v1/BM_063__red_onion_CC0.zip) · [Full comparison](../../previews/quality-bm061-070-v1/BM_063__red_onion_overview_comparison.png) · [Details](../material_variants_bm061_bm070.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_073__yellow_tomato
+
+**Tomato with stalk** · 蔕付きトマト
+
+[![BM_073__yellow_tomato](../../previews/quality-bm071-080-v1/BM_073__yellow_tomato_thumb.png)](../../previews/quality-bm071-080-v1/BM_073__yellow_tomato_overview_comparison.png)
+
+Use: Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Stem and leaves retain original materials; no geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_073](base-22.md#bm_073) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm071-080-v1/BM_073__yellow_tomato_CC0.zip) · [Full comparison](../../previews/quality-bm071-080-v1/BM_073__yellow_tomato_overview_comparison.png) · [Details](../material_variants_bm071_bm080.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_074__green_pumpkin
+
+**Ribbed pumpkin** · 肋のある南瓜
+
+[![BM_074__green_pumpkin](../../previews/quality-bm071-080-v1/BM_074__green_pumpkin_thumb.png)](../../previews/quality-bm071-080-v1/BM_074__green_pumpkin_overview_comparison.png)
+
+Use: Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Stem and leaves retain original materials; no geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_074](base-22.md#bm_074) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm071-080-v1/BM_074__green_pumpkin_CC0.zip) · [Full comparison](../../previews/quality-bm071-080-v1/BM_074__green_pumpkin_overview_comparison.png) · [Details](../material_variants_bm071_bm080.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

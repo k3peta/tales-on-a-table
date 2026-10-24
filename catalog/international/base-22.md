@@ -74,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality52:** 11756tri static sparrow;catalog depth differs0.596mm from vertex bounds but matches transformed local bbox union;direct comparison false,source unchanged. [Details](../material_variants_bm071_bm080.md).
+
 ## BM_072
 
 **Wooden serving platter**
@@ -95,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality52:** 2972tri plate;regular dense wood lines remain material-improvement candidate,not repaired. [Details](../material_variants_bm071_bm080.md).
 
 ## BM_073
 
@@ -118,6 +122,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality52:** 704tri tomato;yellow fruit UV tint,leaves unchanged;not new botanical shape. [Details](../material_variants_bm071_bm080.md).
+
 ## BM_074
 
 **Ribbed pumpkin**
@@ -139,6 +145,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality52:** 4444tri pumpkin;green fruit UV tint,stalk unchanged. [Details](../material_variants_bm071_bm080.md).
 
 ## BM_075
 
@@ -162,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality52:** 936tri mushroom;fine gills not resolved in standard upper views,no species/edibility claim. [Details](../material_variants_bm071_bm080.md).
+
 ## BM_076
 
 **Forged iron frying pan**
@@ -183,6 +193,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality52:** 2196tri frying pan;no heat/food-use guarantee. [Details](../material_variants_bm071_bm080.md).
 
 ## BM_077
 
@@ -206,6 +218,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality52:** 456tri ladle;fluid operation untested. [Details](../material_variants_bm071_bm080.md).
+
 ## BM_078
 
 **Housewares hanging rack**
@@ -227,6 +241,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality52:** 1764tri empty shelf intentional;load/strength untested. [Details](../material_variants_bm071_bm080.md).
 
 ## BM_079
 
@@ -250,6 +266,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality52:** 1188tri divided box;repeated wood bands remain material-review candidate,not repaired. [Details](../material_variants_bm071_bm080.md).
+
 ## BM_080
 
 **Gem-set bracelet**
@@ -271,6 +289,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality52:** 4096tri bracelet;faceted rim retained,wearable sizing untested. [Details](../material_variants_bm071_bm080.md).
 
 ## BM_081
 

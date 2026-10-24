@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 166,
-      "id_mapped_preview": 166,
+      "records": 168,
+      "id_mapped_preview": 168,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 166,
-      "formats_known": 166,
+      "purpose_en_present": 168,
+      "formats_known": 168,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -22010,7 +22010,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_071_CC0.zip",
       "pictured_zip_sha256": "180a52d73e69800042a8602aaa51b2a66f76a5825b35e173996fab16b239a958",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "11756tri static sparrow;catalog depth differs0.596mm from vertex bounds but matches transformed local bbox union;direct comparison false,source unchanged."
     },
     {
       "id": "BM_072",
@@ -22047,7 +22048,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_072_CC0.zip",
       "pictured_zip_sha256": "d198fae0bb11cfdec65542e80b0c965caea1e53f0c11e55a133adb9dc15aa469",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2972tri plate;regular dense wood lines remain material-improvement candidate,not repaired."
     },
     {
       "id": "BM_073",
@@ -22084,7 +22086,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_073_CC0.zip",
       "pictured_zip_sha256": "027a72a94e5ca05e92a73ada0b628c7b2131f4635e660bec565723ceb81a386a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "704tri tomato;yellow fruit UV tint,leaves unchanged;not new botanical shape."
     },
     {
       "id": "BM_074",
@@ -22121,7 +22124,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_074_CC0.zip",
       "pictured_zip_sha256": "4e7ac5b4a4b87a4609de817e299b612e7ecf56da54ac2e3da78b5f24e6c39e2d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4444tri pumpkin;green fruit UV tint,stalk unchanged."
     },
     {
       "id": "BM_075",
@@ -22158,7 +22162,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_075_CC0.zip",
       "pictured_zip_sha256": "cac4d34dc28a40fb7120dd15146cc3813f4017e2fef9ceeeab084a4c23b70e71",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "936tri mushroom;fine gills not resolved in standard upper views,no species/edibility claim."
     },
     {
       "id": "BM_076",
@@ -22195,7 +22200,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_076_CC0.zip",
       "pictured_zip_sha256": "3847ba1f40bf6bd82a31933381c325537f38b6000485c4a4316259a3d4b35000",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2196tri frying pan;no heat/food-use guarantee."
     },
     {
       "id": "BM_077",
@@ -22232,7 +22238,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_077_CC0.zip",
       "pictured_zip_sha256": "e3fc4692e2a5754de2601053dc80ad84fe40603bdfd0496e6edb3a499b3d14a5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "456tri ladle;fluid operation untested."
     },
     {
       "id": "BM_078",
@@ -22269,7 +22276,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_078_CC0.zip",
       "pictured_zip_sha256": "c48af0fa87a19b26253efe607645ac05f74948730aab12bc53eccd50d5e5275b",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1764tri empty shelf intentional;load/strength untested."
     },
     {
       "id": "BM_079",
@@ -22306,7 +22314,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_079_CC0.zip",
       "pictured_zip_sha256": "17194018f1ad6054921f99e52c2780dbc0f29120c563daa8a5a5704d685d26f4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1188tri divided box;repeated wood bands remain material-review candidate,not repaired."
     },
     {
       "id": "BM_080",
@@ -22343,7 +22352,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_080_CC0.zip",
       "pictured_zip_sha256": "2875d2fd8e2de71f6b8991db31c20c388aef073d66013f3d7e3a260e327d14b2",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4096tri bracelet;faceted rim retained,wearable sizing untested."
     },
     {
       "id": "BM_081",
@@ -46116,6 +46126,80 @@
       "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_063_CC0.zip",
       "pictured_zip_sha256": "0560c8297097708c478511856feace24d5dd87f62341be33209bd5ff1e3b6cd7",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_073__yellow_tomato",
+      "kind": "variant",
+      "base_id": "BM_073",
+      "name_en": "Tomato with stalk",
+      "name_ja": "蔕付きトマト",
+      "purpose_en": "Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Stem and leaves retain original materials; no geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-bm071-080-v1/BM_073__yellow_tomato_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm071-080-v1/BM_073__yellow_tomato_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm071_bm080.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm071-080-v1/BM_073__yellow_tomato_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_073_CC0.zip",
+      "pictured_zip_sha256": "027a72a94e5ca05e92a73ada0b628c7b2131f4635e660bec565723ceb81a386a",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_074__green_pumpkin",
+      "kind": "variant",
+      "base_id": "BM_074",
+      "name_en": "Ribbed pumpkin",
+      "name_ja": "肋のある南瓜",
+      "purpose_en": "Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Stem and leaves retain original materials; no geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-bm071-080-v1/BM_074__green_pumpkin_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm071-080-v1/BM_074__green_pumpkin_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm071_bm080.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm071-080-v1/BM_074__green_pumpkin_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_074_CC0.zip",
+      "pictured_zip_sha256": "4e7ac5b4a4b87a4609de817e299b612e7ecf56da54ac2e3da78b5f24e6c39e2d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
