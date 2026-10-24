@@ -8,7 +8,7 @@ TD011 chest:96 exact-zero triangles removed,79288 to79192tri; all positive surfa
 
 1个修订不新增模型；4个宝石本体颜色变体单独统计。缺失UV已补充，不宣称原UV完全不变。TD011仍超预算并保留粗木纹。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed356 distribution records,652 remain;73 budget/redesign issues unresolved. TD01044180tri andTD01225128tri remain over20k. TD007 black cutoff was camera near clipping, corrected in audit renders only; model unchanged. TD00925,TD01010 andTD0121 constant-material objects lack UV. No collision/gameplay/animation/optical-engine equivalence or Blender4.3.2 guarantee. Colors are not repairs; earlier diagnoses remain.
 
@@ -93,3 +93,5 @@ Gem body color texture only; geometry unchanged from original, UV baseline expli
 [![TD_016__violet close_comparison](../previews/quality-td007-016-v1/TD_016__violet_close_comparison.png)](../previews/quality-td007-016-v1/TD_016__violet_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-td007-016-v1/validation.json).

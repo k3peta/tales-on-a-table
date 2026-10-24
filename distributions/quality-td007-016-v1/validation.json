@@ -1,0 +1,166 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "03ff16e30da3e98d665e2ff667a93392a4b2e1b2",
+  "guard_run_id": "111209e4-ca32-4149-bed5-a82422bd1aab",
+  "started_utc": "2026-10-24T15:27:00.995776+00:00",
+  "finished_utc": "2026-10-24T15:27:05.330252+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "TD_011__repair",
+      "zip": "TD_011__repair_CC0.zip",
+      "zip_sha256": "7d470330c8042d9b2032188add316f682c1736b8cb57a8b9ddad1eef30012ced",
+      "members": {
+        "TD_011__repair.glb": "1ff2ea02c2b396d85ad9c6060537f1361ff15eb9db751e7a22ff50075faf82d4",
+        "TD_011__repair.blend": "153b34bd63ff9ed902ff9af9a51ae4052d490e99073859a0bad2c6d65a8e9fb9"
+      }
+    },
+    {
+      "id": "TD_013__orange",
+      "zip": "TD_013__orange_CC0.zip",
+      "zip_sha256": "180e0e193f33aa1a81a1c9a6c91b928870ddec48e48a63121d3263352a0aed92",
+      "members": {
+        "TD_013__orange.glb": "b36a6c36b1738fe6d1384bfd42ef42d568b753aad07a82eaa1000d140911b519",
+        "TD_013__orange.blend": "823a40bc1e4f0898e9169c75cb25060bac04a48a7d0604db38a762bf3713ed68"
+      }
+    },
+    {
+      "id": "TD_014__cyan",
+      "zip": "TD_014__cyan_CC0.zip",
+      "zip_sha256": "7985822b05bada3a8a15f7696e3062c3db2c9a3dfb53cf7a57ecd258d646600e",
+      "members": {
+        "TD_014__cyan.glb": "76237920bedf2fb774937b6f4b283cc749244dbc43ec379cfafc1bb2c8f3a8c8",
+        "TD_014__cyan.blend": "f5d55781ad185a6b89cfd553fb5dba04b592c0fa0eb0925055b98fa85b87e452"
+      }
+    },
+    {
+      "id": "TD_015__amber",
+      "zip": "TD_015__amber_CC0.zip",
+      "zip_sha256": "71a43fbd144dc0b62bdfe92572b18dc1e400b074979f2c9a390662cd707a99f0",
+      "members": {
+        "TD_015__amber.blend": "3ea373330891960e62332e9178e3ebc034a205c72437435ef2533fb1c703f52f",
+        "TD_015__amber.glb": "1ec3ca2da92ecf371ee317762d5938496235862a7ddd2ad62eb75cfbc2c99cf5"
+      }
+    },
+    {
+      "id": "TD_016__violet",
+      "zip": "TD_016__violet_CC0.zip",
+      "zip_sha256": "6fa6441f1fde2ae463c54f8eb21f2bde2b73b8b44b15a6442781d5c1e3dd4464",
+      "members": {
+        "TD_016__violet.glb": "3167df015a49b7d4ca7cdb7f6e5dbb2870f749a2b4b33847326c24c30e79408d",
+        "TD_016__violet.blend": "3f061302f4d66506559171e80420606e07a8a6249d969efe3c9690174bbbc49e"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "TD_011__repair",
+      "formats": {
+        "blend": {
+          "triangles": 79192,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 79192,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 4.214684778958144e-08,
+          "embedded_images": 3,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "TD_013__orange",
+      "formats": {
+        "blend": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "TD_014__cyan",
+      "formats": {
+        "blend": {
+          "triangles": 124,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 124,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "TD_015__amber",
+      "formats": {
+        "blend": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "TD_016__violet",
+      "formats": {
+        "blend": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 444,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

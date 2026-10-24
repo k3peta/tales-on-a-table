@@ -376,6 +376,8 @@ Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../
 
 **Quality36:** 96 exact-zero triangles removed;79192tri exceeds50k; coarse wood grain retained. [Details](../material_variants_td007_016.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_011__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td007-016-v1/TD_011__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## TD_012
 
 **Sealed jewel casket**

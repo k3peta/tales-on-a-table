@@ -15832,7 +15832,8 @@
         {
           "id": "TD_011__repair",
           "catalog": "catalog/material_variants_td007_016.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "96 exact-zero triangles removed;79192tri exceeds50k; coarse wood grain retained."

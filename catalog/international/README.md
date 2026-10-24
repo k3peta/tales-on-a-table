@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.141/141 variants pictured.** 122 recorded latest revisions have matched image/ZIP evidence; the new TD011 revision is awaiting public retrieval; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.141/141 variants pictured.** All123 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +141 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -151,4 +151,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality35 variants](variant-06.md):137 separately counted material variants; base1008 unchanged.
 
-[Quality36 variants](variant-06.md):141 separately counted material variants; base1008 unchanged. Latest TD011 revision public image/ZIP match pending.
+[Quality36 variants](variant-06.md):141 separately counted material variants; base1008 unchanged. Latest TD011 revision public image/ZIP match verified.
