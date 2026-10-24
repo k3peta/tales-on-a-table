@@ -31,7 +31,7 @@
         "source_sha256": "6e48f3251ace1bddeb2d5d5eff78935976a7ffe7a6b2cdebb2f941f3c4aa24d1"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "PA009__repair",
@@ -65,6 +65,6 @@
         "source_sha256": "0f3fc8cfa7808ef3055fbee487eea7318bc0d6c2af14cbc510b87d76c2d4630a"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

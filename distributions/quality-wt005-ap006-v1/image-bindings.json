@@ -31,7 +31,7 @@
         "source_sha256": "b199253e9145c824229945a163a076b950e321467e13b0696442eb81ee9cac58"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP001__repair",
@@ -65,7 +65,7 @@
         "source_sha256": "5f7f9ee7439813481b688b02902ba5ec4e959131d37be2992bf5480d47e957ab"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP003__repair",
@@ -99,7 +99,7 @@
         "source_sha256": "5689a70daf65f9988529ec9fc7817847cb1d27e9ce59b7dcbe84e4efcdf15867"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP005__repair",
@@ -133,7 +133,7 @@
         "source_sha256": "1255c032220559f5f543d1ece7c09f914a191a626d5b61dbe15225ba12e36764"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "WT005__repair",
@@ -167,7 +167,7 @@
         "source_sha256": "28d3f57256273a1fcb5d28e9be43e3dd71f01d86c859ea72bad1a17f34a2c02f"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "WT006__repair",
@@ -201,7 +201,7 @@
         "source_sha256": "269d1c9f0794fdb268ad1bf922cf25d5ca8d6b6ce402d68130189bb509cfec45"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "WT007__repair",
@@ -235,7 +235,7 @@
         "source_sha256": "2914d6b07e313785d08c0fbe94f34667f0c78045d85bf2160f0f8127618051a5"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "WT008__repair",
@@ -269,6 +269,6 @@
         "source_sha256": "ec3deb4b8d956eb4ea36cbfb7bf2d9a93a90599c876270a82dceb5bcb97650ad"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

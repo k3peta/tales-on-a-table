@@ -6,7 +6,7 @@ Base1008 distribution records unchanged; material variants187 separately (+16). 
 
 TR013 and TR041–047 HQ/LITE candidates remain held. Superseded PA006/008/010 pale candidates and terrain-held v1 are excluded. Existing originals/history retained; no claim that old originals are defect-free. BM007/BM054 and other recorded diagnostics remain unresolved. Complete independent-shape count, all current-model quality, full physics/game/Blender4.3.2 compatibility are not established.
 
-Public-download identity pending. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
+All180 public ZIPs and632 images match the guarded package/model bindings;945 changed files externally retrieved and hash-verified. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
 
 - [quality-wm002-011-v1](quality-wm002-011-v1.md)
 - [quality-wm012-wt004-v1](quality-wm012-wt004-v1.md)

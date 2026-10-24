@@ -19413,7 +19413,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM002__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19459,7 +19459,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19535,7 +19535,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM005__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19581,7 +19581,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM006__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19627,7 +19627,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm002-011-v1/WM007__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19871,7 +19871,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM014__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19917,7 +19917,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM015__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -19963,7 +19963,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM016__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20009,7 +20009,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WM017__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20056,7 +20056,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT001__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20103,7 +20103,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT002__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20150,7 +20150,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20197,7 +20197,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wm012-wt004-v1/WT004__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20244,7 +20244,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT005__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20291,7 +20291,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT006__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20375,7 +20375,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT007__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20459,7 +20459,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/WT008__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20505,7 +20505,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP001__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20581,7 +20581,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20657,7 +20657,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt005-ap006-v1/AP005__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20733,7 +20733,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP007__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20809,7 +20809,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP009__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20855,7 +20855,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP010__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -20931,7 +20931,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP012__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21007,7 +21007,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap007-016-v1/AP014__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21143,7 +21143,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP018__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21189,7 +21189,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AP019__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21325,7 +21325,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21371,7 +21371,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ap017-al006-v1/AL004__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21477,7 +21477,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL007__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21523,7 +21523,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL008__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21569,7 +21569,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL009__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21615,7 +21615,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL010__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21661,7 +21661,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL011__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21827,7 +21827,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al007-016-v1/AL016__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21903,7 +21903,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL018__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -21979,7 +21979,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL020__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22025,7 +22025,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL021__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22071,7 +22071,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL022__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22117,7 +22117,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL023__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22163,7 +22163,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al017-026-v1/AL024__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22359,7 +22359,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW002__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22405,7 +22405,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22543,7 +22543,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW006__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22649,7 +22649,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-al027-fw009-v1/FW008__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22755,7 +22755,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW010__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22861,7 +22861,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW012__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -22921,7 +22921,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW013__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23027,7 +23027,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW015__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23087,7 +23087,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW016__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23193,7 +23193,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW018__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23253,7 +23253,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw010-019-v1/FW019__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23359,7 +23359,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw020-in007-v1/FW021__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23675,7 +23675,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN009__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23721,7 +23721,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN010__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23767,7 +23767,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN011__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23813,7 +23813,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN012__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23889,7 +23889,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN014__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -23965,7 +23965,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN016__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24011,7 +24011,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in008-017-v1/IN017__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24057,7 +24057,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN018__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24103,7 +24103,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN019__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24209,7 +24209,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN022__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24255,7 +24255,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN023__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24721,7 +24721,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA002__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24767,7 +24767,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24813,7 +24813,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA004__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24859,7 +24859,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA005__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24905,7 +24905,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA006__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24951,7 +24951,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA007__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -24997,7 +24997,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA008__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25043,7 +25043,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa002-011-v1/PA009__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25089,7 +25089,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa-wood-repair-v1/PA010__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25165,7 +25165,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA012__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25211,7 +25211,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA013__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25257,7 +25257,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA014__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25303,7 +25303,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA015__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25349,7 +25349,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA016__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25395,7 +25395,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA017__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25441,7 +25441,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA018__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25487,7 +25487,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA019__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25533,7 +25533,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA020__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25579,7 +25579,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa012-021-v1/PA021__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25627,7 +25627,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/PA022__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25675,7 +25675,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/PA023__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25723,7 +25723,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/PA024__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25779,7 +25779,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR001_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -25795,7 +25795,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR001_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25851,7 +25851,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR002_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -25867,7 +25867,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR002_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25923,7 +25923,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR003_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -25939,7 +25939,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR003_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -25995,7 +25995,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR004_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26011,7 +26011,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR004_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26067,7 +26067,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR005_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26083,7 +26083,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR005_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26139,7 +26139,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR006_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26155,7 +26155,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR006_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26211,7 +26211,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR007_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26227,7 +26227,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pa022-tr007-v1/TR007_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26283,7 +26283,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR008_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26299,7 +26299,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR008_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26355,7 +26355,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR009_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26371,7 +26371,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR009_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26427,7 +26427,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR010_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26443,7 +26443,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR010_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26499,7 +26499,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR011_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26515,7 +26515,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR011_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26571,7 +26571,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26587,7 +26587,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR012_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26681,7 +26681,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR014_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26697,7 +26697,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR014_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26753,7 +26753,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26769,7 +26769,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR015_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26825,7 +26825,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26841,7 +26841,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr-held-repair-v2/TR016_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26897,7 +26897,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR017_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26913,7 +26913,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr008-017-v1/TR017_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -26969,7 +26969,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -26985,7 +26985,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR018_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27041,7 +27041,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27057,7 +27057,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR019_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27113,7 +27113,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27129,7 +27129,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR020_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27185,7 +27185,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27201,7 +27201,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR021_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27257,7 +27257,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27273,7 +27273,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR022_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27329,7 +27329,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27345,7 +27345,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR023_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27401,7 +27401,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27417,7 +27417,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR024_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27473,7 +27473,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27489,7 +27489,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR025_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27545,7 +27545,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27561,7 +27561,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR026_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27617,7 +27617,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27633,7 +27633,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr018-027-v1/TR027_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27689,7 +27689,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR028_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27705,7 +27705,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR028_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27761,7 +27761,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR029_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27777,7 +27777,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR029_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27833,7 +27833,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR030_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27849,7 +27849,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR030_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27905,7 +27905,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR031_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27921,7 +27921,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR031_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -27977,7 +27977,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR032_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -27993,7 +27993,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR032_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28049,7 +28049,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR033_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28065,7 +28065,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR033_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28121,7 +28121,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR034_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28137,7 +28137,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR034_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28193,7 +28193,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR035_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28209,7 +28209,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR035_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28265,7 +28265,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR036_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28281,7 +28281,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR036_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28337,7 +28337,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR037_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28353,7 +28353,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr028-037-v1/TR037_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28409,7 +28409,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR038_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28425,7 +28425,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR038_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28481,7 +28481,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR039_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28497,7 +28497,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR039_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]
@@ -28553,7 +28553,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR040_HQ__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         },
         {
@@ -28569,7 +28569,7 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr038-047-v1/TR040_LITE__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending",
+          "qa_status": "public_download_matches_final_zip_guard",
           "image_binding": "image-bindings.json"
         }
       ]

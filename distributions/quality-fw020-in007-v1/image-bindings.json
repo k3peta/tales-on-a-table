@@ -31,7 +31,7 @@
         "source_sha256": "8bdb4ab00f8cd57924c271cb73a4673252cb9e8fa79a84fd0d0928f195a375b6"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN007__blue_wool",
@@ -65,6 +65,6 @@
         "source_sha256": "7bf5480045a127d9a5644489d5b60cce30707f212de3ab28fa59d9b24ce95bcd"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

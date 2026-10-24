@@ -31,7 +31,7 @@
         "source_sha256": "cd2b3fbd043fceac8890eebdd217363713eff5505a665a68830b523372a10c6b"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AL004__repair",
@@ -65,7 +65,7 @@
         "source_sha256": "39f7b829fe8cd4d9557d037871e55a17f91dd3c7f925b13678d8ffba224b4b4a"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP018__repair",
@@ -99,7 +99,7 @@
         "source_sha256": "8c8e25851b44651e5b6ce29fd3df95a6a29610a2ac3132e6783ec12a2249e637"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP019__blue_ceramic",
@@ -133,7 +133,7 @@
         "source_sha256": "932205c1353660b3edeed06a397c394a482fa16a21b10bd12ef004509995ed00"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP019__repair",
@@ -167,6 +167,6 @@
         "source_sha256": "41612badef3a0ef87acbc7be00dbf4b730b12b418012b7215fc957d561743f18"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

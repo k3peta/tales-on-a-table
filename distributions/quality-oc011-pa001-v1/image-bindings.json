@@ -31,6 +31,6 @@
         "source_sha256": "dd78edde21dace4d2ebd8f545d065ce06ee1730f3607e4c8f57285c47d0e33e8"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

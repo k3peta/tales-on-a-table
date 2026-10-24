@@ -1,6 +1,6 @@
 # ID-level coverage audit / ID別対応監査
 
-Snapshot: 1008 base distribution records +104 material variants. Counts are not unique shapes. **No claim of complete individual image coverage or complete metadata.**
+Current counts:1008 base distribution records +187 material variants. Metadata measurements retain their recorded scope. Counts are not unique shapes. **No claim of complete individual image coverage or complete metadata.**
 
 ```json
 {

@@ -26,7 +26,7 @@
         "source_sha256": "3b73484207dd15a49368c45b0195091bce425be4e57383bc2acc05d69fae2bd9"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR028_LITE__repair",
@@ -55,7 +55,7 @@
         "source_sha256": "e9e00ca3668c58d80ad1c304b6d5984eada13b6b303914f9f4a75ae2f4c5abbd"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR029_HQ__repair",
@@ -84,7 +84,7 @@
         "source_sha256": "e1255ebce4abd98660e037edc63983bee60431f9c14872278eb5f9bbfc4ffb51"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR029_LITE__repair",
@@ -113,7 +113,7 @@
         "source_sha256": "714370063dcf6b65ca78d7e9eaa9c021bee28acf29feba0a67ae3cbfa36327f5"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR030_HQ__repair",
@@ -142,7 +142,7 @@
         "source_sha256": "59edcc4bc2f02b7ea09596a655dfdf58e639294a4995655ac0b65d2ab4fee16f"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR030_LITE__repair",
@@ -171,7 +171,7 @@
         "source_sha256": "d368cbbe0c324401f004b922c37d9ce90a89b76705936b28093990f45ba31ce3"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR031_HQ__repair",
@@ -200,7 +200,7 @@
         "source_sha256": "2fe22e18b47121ee5f4fb620e259745f7b61c120c9952ab65e3dd8f91eabeb2e"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR031_LITE__repair",
@@ -229,7 +229,7 @@
         "source_sha256": "5cbb1737eb891cb46e01612835c57c7473ba342b4d2e0ebf3fc0fcf622d65fda"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR032_HQ__repair",
@@ -258,7 +258,7 @@
         "source_sha256": "14d2e28403fe1ffdfb9428dbfb93ff660499801812ff0e0bff4c6eb2401e69fb"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR032_LITE__repair",
@@ -287,7 +287,7 @@
         "source_sha256": "9a4046d444bce39576deffe415bf0f2ad5d106c65988a21fac38251bcd0fb8ef"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR033_HQ__repair",
@@ -316,7 +316,7 @@
         "source_sha256": "6a0370cb65c548ddb9cde7523e196461d6fe5ccc3663b24c6e91872c1a122fd7"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR033_LITE__repair",
@@ -345,7 +345,7 @@
         "source_sha256": "6f6be4e1be12144c3164d748c7e7c7b910a68ec3700f22a599dc5c9c63762faf"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR034_HQ__repair",
@@ -374,7 +374,7 @@
         "source_sha256": "7a8531412d248a3a3680117e3e1da91231e34861c446fc8cdd4ce1fc78b53e0b"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR034_LITE__repair",
@@ -403,7 +403,7 @@
         "source_sha256": "fe49f295b769744b6ea49ffcf2af3f69f6139acf6fe17a1d7e2f9bcbe1891ec0"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR035_HQ__repair",
@@ -432,7 +432,7 @@
         "source_sha256": "3db16020bdc76d78da90c6c21e0755440e6173111a7dc876e42207158f26b642"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR035_LITE__repair",
@@ -461,7 +461,7 @@
         "source_sha256": "26692858465359413e9ff11029c63325c0f68f81c68e07e60d2f2d59868cda03"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR036_HQ__repair",
@@ -490,7 +490,7 @@
         "source_sha256": "25917016470dfcbc0a878ac986d54a7dfac2a5cdf84427d0465eb070940b3a7e"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR036_LITE__repair",
@@ -519,7 +519,7 @@
         "source_sha256": "f07345956a606a482a8eceedc563924d1c294647e61efb1975ea846e2c9cfdf0"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR037_HQ__repair",
@@ -548,7 +548,7 @@
         "source_sha256": "f8b9f24036254ddd11ee845b4b30991058b27cbe72bc0143f7336d04125907ac"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "TR037_LITE__repair",
@@ -577,6 +577,6 @@
         "source_sha256": "6978a4ae20e79f045d1d5fb103dbde0ab0c64af63c17708370838e14335e93a4"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

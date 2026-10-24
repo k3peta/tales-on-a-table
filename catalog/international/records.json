@@ -24975,7 +24975,7 @@
         {
           "id": "WM002__repair",
           "catalog": "catalog/quality-wm002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "f874101051995353d4fe245af6984f59d8c5ff0fa8f1cf3a9e0a77cacde0c804",
           "lod": null
         }
@@ -25020,7 +25020,7 @@
         {
           "id": "WM003__repair",
           "catalog": "catalog/quality-wm002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a1c10791f2c0c25cb1e491dbc58f5dd752bee63a82de06b552888a6b36e88825",
           "lod": null
         }
@@ -25100,7 +25100,7 @@
         {
           "id": "WM005__repair",
           "catalog": "catalog/quality-wm002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "059cb001f5f2115669833e83b1edc4fb13b354311f3cd6bb912dd37c60ce1c8a",
           "lod": null
         }
@@ -25146,7 +25146,7 @@
         {
           "id": "WM006__repair",
           "catalog": "catalog/quality-wm002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3745d29504e393e91cc667739b11da2d9f40681d92c7232b8e52d4004bc362d9",
           "lod": null
         }
@@ -25191,7 +25191,7 @@
         {
           "id": "WM007__repair",
           "catalog": "catalog/quality-wm002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c46138277b74cafda6dbcf7fdb4adc5b7c58dc8ac62c5d3dfeb264d4c69acd2a",
           "lod": null
         }
@@ -25457,7 +25457,7 @@
         {
           "id": "WM014__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "67818be1e51317f463d6b3360dcb9acfb89d6497599115fb91b7fa3606188a21",
           "lod": null
         }
@@ -25502,7 +25502,7 @@
         {
           "id": "WM015__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "455a036a237c58b42dd235c02df9180ab5e183577e7217d9834d14ec3b94877b",
           "lod": null
         }
@@ -25547,7 +25547,7 @@
         {
           "id": "WM016__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7f4e14011095eb61e0283d735079759c82857d7a5c6e690743b38d99d44ed476",
           "lod": null
         }
@@ -25592,7 +25592,7 @@
         {
           "id": "WM017__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "69841e7b65af191985d47dda1b056f876e8719fb2c51efbc388a823119c771a0",
           "lod": null
         }
@@ -25637,7 +25637,7 @@
         {
           "id": "WT001__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1fc4dda67861756c482e63982cc670ab17edfd86a3231389309db8f07ac342e6",
           "lod": null
         }
@@ -25682,7 +25682,7 @@
         {
           "id": "WT002__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "502a87fcac9b1a1c8a7a793c71eb0d387dc8d843dc7cf4fb14c1784712b69988",
           "lod": null
         }
@@ -25727,7 +25727,7 @@
         {
           "id": "WT003__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1c1af8ab3db9ddaaf88bed686664a3b4975cd858c175418d8a2de81cfdbc6809",
           "lod": null
         }
@@ -25772,7 +25772,7 @@
         {
           "id": "WT004__repair",
           "catalog": "catalog/quality-wm012-wt004-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "2f37f21aebc034e0209e7ba0112a9b7ebb39ca2d0dde05e093cb9a47a0d063de",
           "lod": null
         }
@@ -25817,7 +25817,7 @@
         {
           "id": "WT005__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "621621a5539e22347e8bfd1f75ebd261f28fd3289e85c9a479920a588bd1a637",
           "lod": null
         }
@@ -25862,7 +25862,7 @@
         {
           "id": "WT006__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "dc66c688f4cda837834b7d1b4feab3aa34a58f4799463c3a049bf1c41cf4df45",
           "lod": null
         }
@@ -25920,7 +25920,7 @@
         {
           "id": "WT007__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a8918e6b47b00e0842be01c6191bf653e9664a2959bf4723bd009f015c2b5beb",
           "lod": null
         }
@@ -25981,7 +25981,7 @@
         {
           "id": "WT008__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "66da351dcfe6d364d9d31fec2f6bf4a931337099012a2489f309f6b7185274e4",
           "lod": null
         }
@@ -26029,7 +26029,7 @@
         {
           "id": "AP001__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "aa7576a245d73ca7e731ebeaf1e2ef8be4cf14353bb7bf13184c1881d9301207",
           "lod": null
         }
@@ -26109,7 +26109,7 @@
         {
           "id": "AP003__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3151ac0cf30f6ac01ee8de436e6a85caece453fbde59c7335c670bc3b3607145",
           "lod": null
         }
@@ -26189,7 +26189,7 @@
         {
           "id": "AP005__repair",
           "catalog": "catalog/quality-wt005-ap006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "052b7e864ca8c2aea9d2fc2ae3efae0103e0311b2aeed0b998c58c392dcfa219",
           "lod": null
         }
@@ -26270,7 +26270,7 @@
         {
           "id": "AP007__repair",
           "catalog": "catalog/quality-ap007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "5cad5faa6c0ca426f60685fc9877fdb9f649526a7db4dc52934a98151fa2a62b",
           "lod": null
         }
@@ -26350,7 +26350,7 @@
         {
           "id": "AP009__repair",
           "catalog": "catalog/quality-ap007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "6ede72a9c5eb8670af3de71dafe21421d0eb882846d5345d75d4f30da186c7fb",
           "lod": null
         }
@@ -26395,7 +26395,7 @@
         {
           "id": "AP010__repair",
           "catalog": "catalog/quality-ap007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c434dc92669e38d34d0b14a0d498dca030b58ba236a0a611fd3989c93be60933",
           "lod": null
         }
@@ -26475,7 +26475,7 @@
         {
           "id": "AP012__repair",
           "catalog": "catalog/quality-ap007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ae5ab045266438a09d7adee8a15de8578c679893a5f61a043d557b152a7b2baf",
           "lod": null
         }
@@ -26555,7 +26555,7 @@
         {
           "id": "AP014__repair",
           "catalog": "catalog/quality-ap007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "2a07eda5803a5da1602dbc250d4475ce3a141d6e4745fb292ef7fa472ebc9427",
           "lod": null
         }
@@ -26706,7 +26706,7 @@
         {
           "id": "AP018__repair",
           "catalog": "catalog/quality-ap017-al006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8788e4ab9788b75c86333ccec7f84239574f833005e5e7a4135711dd6a449d75",
           "lod": null
         }
@@ -26751,7 +26751,7 @@
         {
           "id": "AP019__repair",
           "catalog": "catalog/quality-ap017-al006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "83cb6e3e1fa9e621ce27e1c9875e4816341a9fb9df03215570af5a673520203d",
           "lod": null
         }
@@ -26895,7 +26895,7 @@
         {
           "id": "AL003__repair",
           "catalog": "catalog/quality-ap017-al006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "35f199adb23301298c39e1fe46ac4da51173fa844a1c049013f24d1f2a19535d",
           "lod": null
         }
@@ -26939,7 +26939,7 @@
         {
           "id": "AL004__repair",
           "catalog": "catalog/quality-ap017-al006-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ae12a96e94ea1699a55fad947c9ccdd2c4ef7f34dfe996db0f1d0a49b55c35a5",
           "lod": null
         }
@@ -27048,7 +27048,7 @@
         {
           "id": "AL007__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ee840d258cde0bbd1b718cb1a8dc9eeca395b1ec47120cc30dfb2196aaaa1eaf",
           "lod": null
         }
@@ -27091,7 +27091,7 @@
         {
           "id": "AL008__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d267b142b951c7cf45d8a8763d412f8230a7c6b22d4ba7250373e2af349d2af3",
           "lod": null
         }
@@ -27134,7 +27134,7 @@
         {
           "id": "AL009__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "f6938e367478c31f8dbc0fca2a5c9426beb76059f142050dbfd1e9ffac329757",
           "lod": null
         }
@@ -27177,7 +27177,7 @@
         {
           "id": "AL010__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "73930f8f2fdf6dae43d581aab4689cf41652b5b93ac5006913b5c2bfb47d24a2",
           "lod": null
         }
@@ -27220,7 +27220,7 @@
         {
           "id": "AL011__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "316e12a602e24abc0d603e9ffb9fda429c98db2a1d48734d50b80fc3e47e6713",
           "lod": null
         }
@@ -27395,7 +27395,7 @@
         {
           "id": "AL016__repair",
           "catalog": "catalog/quality-al007-016-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d1c5d03990e38b1cf20954689de552a6aa4b0a06554dd4eb6b50416d22ee2615",
           "lod": null
         }
@@ -27471,7 +27471,7 @@
         {
           "id": "AL018__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ca8225ec73bf17b20247a33e894e3c38a44c1dfa108d2a45211bf2dd59cdb075",
           "lod": null
         }
@@ -27547,7 +27547,7 @@
         {
           "id": "AL020__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c713e8f74e437b0a8ddad0f4aa145fbe350193d1398c9feb86c296e979ecf4bd",
           "lod": null
         }
@@ -27590,7 +27590,7 @@
         {
           "id": "AL021__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8c9c6aacd4f572c0da2b2263edffced3944467425bfceed7f070f3f89fcd5050",
           "lod": null
         }
@@ -27633,7 +27633,7 @@
         {
           "id": "AL022__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ab918d2a5e721e73d0a348ecb06e5e505d05ca2bd25bad3b54bbfb7caccb7134",
           "lod": null
         }
@@ -27676,7 +27676,7 @@
         {
           "id": "AL023__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "36be91556e64b956d3f7fae85cff1eb9956e08b2789113eef5813b843a847a5a",
           "lod": null
         }
@@ -27719,7 +27719,7 @@
         {
           "id": "AL024__repair",
           "catalog": "catalog/quality-al017-026-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "4ff5b1ae10c9c6e9d9b6dec0220feca37f6488707c52c02d6ce028cf422dee40",
           "lod": null
         }
@@ -27909,7 +27909,7 @@
         {
           "id": "FW002__repair",
           "catalog": "catalog/quality-al027-fw009-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3f838a2dfa26dc023154f4afee0ad8a0df8c90d23f250da0ea88bfed6dfdba43",
           "lod": null
         }
@@ -27956,7 +27956,7 @@
         {
           "id": "FW003__repair",
           "catalog": "catalog/quality-al027-fw009-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d9f1d0a05ed0cf8d0d21bd8cfd2060fe2869fd8c578649cb1fcececd58214881",
           "lod": null
         }
@@ -28088,7 +28088,7 @@
         {
           "id": "FW006__repair",
           "catalog": "catalog/quality-al027-fw009-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9171358c1e23d03d319afcfaf55d0a4bc9f4decd94d5a829c1de58590543a6e4",
           "lod": null
         }
@@ -28179,7 +28179,7 @@
         {
           "id": "FW008__repair",
           "catalog": "catalog/quality-al027-fw009-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "64394a0ded5c81a4631e6a5fdf53f3c00a4614d0917d6bdca7c09f9c19081a6c",
           "lod": null
         }
@@ -28274,7 +28274,7 @@
         {
           "id": "FW010__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c12d47362fda1afb6fe300b4f2597216d2501d148796f9721076b5103241f879",
           "lod": null
         }
@@ -28369,7 +28369,7 @@
         {
           "id": "FW012__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "818b5cc8d9dd3049b7ee43867267ec5a42ef112051fe8d07e27f1e6cdf94e5e9",
           "lod": null
         }
@@ -28420,7 +28420,7 @@
         {
           "id": "FW013__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b85a704deb7494d0a7ce24fb68dc7a8205b2c31de38f080f82c193b3cc783dfa",
           "lod": null
         }
@@ -28515,7 +28515,7 @@
         {
           "id": "FW015__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "362cfe339d3fddaa09eedff61e0d690ffc4d8de4b4ef06ad5e655b6ead714a81",
           "lod": null
         }
@@ -28566,7 +28566,7 @@
         {
           "id": "FW016__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7d277a777c3c5189e1c035982325dddce98c80a924ab58497d2379b43dbb01c5",
           "lod": null
         }
@@ -28662,7 +28662,7 @@
         {
           "id": "FW018__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b8b4c85352491e5f50da618e24f4f62a039b28f975c48faf8ab69287abca3f46",
           "lod": null
         }
@@ -28713,7 +28713,7 @@
         {
           "id": "FW019__repair",
           "catalog": "catalog/quality-fw010-019-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "4fdaf30ec46bcb6606f230686d725fe9ef5b10b343a558b9c2c20135579e32f0",
           "lod": null
         }
@@ -28808,7 +28808,7 @@
         {
           "id": "FW021__repair",
           "catalog": "catalog/quality-fw020-in007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "4f0b4e1700586ee7264ee2f3dd73757b2d92730702512c05fa92563ad219949c",
           "lod": null
         }
@@ -29152,7 +29152,7 @@
         {
           "id": "IN009__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "47a093e101a04ce5bfd923cb0c74d2d6df8da4f3cc51845dd12f5dcbda14c172",
           "lod": null
         }
@@ -29195,7 +29195,7 @@
         {
           "id": "IN010__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "2a856ffc006cb8b88303acd5d6ac8af3b1b3881050774a40c8171d6c7c13a7c4",
           "lod": null
         }
@@ -29238,7 +29238,7 @@
         {
           "id": "IN011__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "acd4a08923008d0ccc67bdf367a74b2056158309ab361d74b3b9f07fe0be19bd",
           "lod": null
         }
@@ -29281,7 +29281,7 @@
         {
           "id": "IN012__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "15a20eab84328411d85ebfffcb3b44edd0f10ee43c58a47eb6c557965c172cb8",
           "lod": null
         }
@@ -29357,7 +29357,7 @@
         {
           "id": "IN014__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "164cbe4fc07f9c136a0f2b9485bb103206c3cbd447b06114f2d40d5a56f53a79",
           "lod": null
         }
@@ -29433,7 +29433,7 @@
         {
           "id": "IN016__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e349105cf19ae144999db75f5a6f5c201bbc7bd52ef957c8a644ad9d32cc28c3",
           "lod": null
         }
@@ -29476,7 +29476,7 @@
         {
           "id": "IN017__repair",
           "catalog": "catalog/quality-in008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9a32d3d0f127c1bd28125407d7505a40e80cf17f378f8c36cd5c9bbd0a1dc35a",
           "lod": null
         }
@@ -29519,7 +29519,7 @@
         {
           "id": "IN018__repair",
           "catalog": "catalog/quality-in018-oc010-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a620b5f60a820b9920fba825acbe60adfa93c9644d38f8ad85f97f5bcf20e001",
           "lod": null
         }
@@ -29562,7 +29562,7 @@
         {
           "id": "IN019__repair",
           "catalog": "catalog/quality-in018-oc010-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "da0b10c06a4da76d4c86a9c19d03f44cb20b891b6a9deb8a92d8ec90bffdce0f",
           "lod": null
         }
@@ -29671,7 +29671,7 @@
         {
           "id": "IN022__repair",
           "catalog": "catalog/quality-in018-oc010-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "72c4abde630f83ad3849aba9f34a39569f446db993796ef83fde699c7e27aedf",
           "lod": null
         }
@@ -29714,7 +29714,7 @@
         {
           "id": "IN023__repair",
           "catalog": "catalog/quality-in018-oc010-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "085e60918a5fcb30c324cb87b19c8ee7e3287e164e0d75bdbda11681513b3ce7",
           "lod": null
         }
@@ -30219,7 +30219,7 @@
         {
           "id": "PA002__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7245aecda6acd29d784954cc019c0e2f829cd08e7d61988443d30feca617b529",
           "lod": null
         }
@@ -30262,7 +30262,7 @@
         {
           "id": "PA003__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "76392d591eac28aceb87f8636d3a67fae8b763e058170a066853002cbb4385da",
           "lod": null
         }
@@ -30305,7 +30305,7 @@
         {
           "id": "PA004__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e3b293f21526f96b90e9aa60b2ead64584448fa33f69d8690151450656f60d8b",
           "lod": null
         }
@@ -30348,7 +30348,7 @@
         {
           "id": "PA005__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "679d033b228f39e7d4faaa14128030040e9aa44f9779875f9c3e7f68b2951ee4",
           "lod": null
         }
@@ -30392,7 +30392,7 @@
         {
           "id": "PA006__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "58db65ce72bc6da9216cbf901d0d64f04ae3283700ccab50f577bd378379ad2c",
           "lod": null
         }
@@ -30435,7 +30435,7 @@
         {
           "id": "PA007__repair",
           "catalog": "catalog/quality-pa002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b28cd581255278fdd4c16f3a1855d70d18385af91cc0204dc3e645778dec6227",
           "lod": null
         }
@@ -30478,7 +30478,7 @@
         {
           "id": "PA008__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "aa8c495b4b94fb1a0d1f5a9c6e7c76160b6c40dbcde5b9196996705868b5429c",
           "lod": null
         }
@@ -30521,7 +30521,7 @@
         {
           "id": "PA009__repair",
           "catalog": "catalog/quality-pa002-011-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c30910ecd91cd17fcef438aa670ef67fe3055abb7184ea9447a2f78882d521df",
           "lod": null
         }
@@ -30564,7 +30564,7 @@
         {
           "id": "PA010__repair",
           "catalog": "catalog/quality-pa-wood-repair-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "47af803925927f71318e4aa81a65a5aa22baa2952a1887893d94258488b6fc71",
           "lod": null
         }
@@ -30641,7 +30641,7 @@
         {
           "id": "PA012__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "6b4f4fa89e51c074b430f20d9a32b2ee149d766715864d14fbe02aa25c2c921f",
           "lod": null
         }
@@ -30684,7 +30684,7 @@
         {
           "id": "PA013__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "33a2060307496316955915d0dbc7921d7b97a4a02544fde6fdf2ee92587996a2",
           "lod": null
         }
@@ -30727,7 +30727,7 @@
         {
           "id": "PA014__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "45782a6d12d2aa783b2d05b6913b266e27faee360241073ab04b9165f7be6e8a",
           "lod": null
         }
@@ -30770,7 +30770,7 @@
         {
           "id": "PA015__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b64b9b53f4a3db097ef224201353b2dc6077bd1bd4e54c82f3de9c870a2b6c92",
           "lod": null
         }
@@ -30813,7 +30813,7 @@
         {
           "id": "PA016__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "877c68d9955c8f2ad42c8131bda0acba45cae0bfbbb4731e5e3be64bab207ab6",
           "lod": null
         }
@@ -30856,7 +30856,7 @@
         {
           "id": "PA017__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e36a5180a4a38ccf88ce0fca4e536ab12e263c791afba51bdcefc622bb85404d",
           "lod": null
         }
@@ -30899,7 +30899,7 @@
         {
           "id": "PA018__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "4babb46e735d4ff52da82f061ec5d133f83b54b849669fb23074573ff367cb55",
           "lod": null
         }
@@ -30942,7 +30942,7 @@
         {
           "id": "PA019__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c80c91568d1eab7c5753b37d99caf43b8cc096ea5b544a7c91f17300d297ffd2",
           "lod": null
         }
@@ -30985,7 +30985,7 @@
         {
           "id": "PA020__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3f0b6297160b643401d14afa8eba9eddfbceb860856d96d3891b8cfaba5e2601",
           "lod": null
         }
@@ -31028,7 +31028,7 @@
         {
           "id": "PA021__repair",
           "catalog": "catalog/quality-pa012-021-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8c8c65ec8fc4685dbc40f89f7f7cd88d38a962f842a4357fc5e3fb73765c2ec6",
           "lod": null
         }
@@ -31072,7 +31072,7 @@
         {
           "id": "PA022__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "606facedb8fe22d4ec44084efa92cff1c5d52fb9477485724799bbbecee6367f",
           "lod": null
         }
@@ -31114,7 +31114,7 @@
         {
           "id": "PA023__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "6b20c8804cb30de7d21cbe8e130621538d2eb6c66f93c861d220eb10afc5f580",
           "lod": null
         }
@@ -31157,7 +31157,7 @@
         {
           "id": "PA024__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "333410cc16838a546286eb7458b82902fcc953fb4cf4c7e5c469427a4ba9e283",
           "lod": null
         }
@@ -31200,14 +31200,14 @@
         {
           "id": "TR001_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3ce73c9c91d87e068756b3abddf36805ede5819986aa70f83e0a4eb7a699787c",
           "lod": "HQ"
         },
         {
           "id": "TR001_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9c46728354e780aad50897c5617f226725821935792a5e23e4dcadd0618f8089",
           "lod": "LITE"
         }
@@ -31250,14 +31250,14 @@
         {
           "id": "TR002_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8f07a0674327e8b2310f63e68c4c87ec7658f7238d6f892f0740e834367f2be8",
           "lod": "HQ"
         },
         {
           "id": "TR002_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "de1149de5aeb1d24b6be69a2bcfe0b0f7bbde149bc9a30abe10276ff8c350774",
           "lod": "LITE"
         }
@@ -31300,14 +31300,14 @@
         {
           "id": "TR003_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "f76852e5c9305aa9198560ad842cbab3341fd0caab5aad34bd6372eb52ca6437",
           "lod": "HQ"
         },
         {
           "id": "TR003_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b466915b2426404845633d709b84f6b7e42cdcc16cad95a61b9352404a6abaf1",
           "lod": "LITE"
         }
@@ -31350,14 +31350,14 @@
         {
           "id": "TR004_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b8a2b79dc315a6e1318155b7700ff03009122fa6104af931f8e9d85ad93bc9c2",
           "lod": "HQ"
         },
         {
           "id": "TR004_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "57c6e9236947b032229a9c0d564d252855389d32d7ea9aebb5ac86ea4c6ffc10",
           "lod": "LITE"
         }
@@ -31400,14 +31400,14 @@
         {
           "id": "TR005_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7e63f24045e9e6744697e6d309ac9bc05e750457835f16fac0a1f7c983843000",
           "lod": "HQ"
         },
         {
           "id": "TR005_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "12711ed93b9872670b1b62019fac1242015709ea75390df07d6ba1c99fd0d68c",
           "lod": "LITE"
         }
@@ -31450,14 +31450,14 @@
         {
           "id": "TR006_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "86c87b9716adcccaa9caf35da1a863596fdbee4e6687624f4206a3c4e9473218",
           "lod": "HQ"
         },
         {
           "id": "TR006_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "72d71de25b254882e1662a579292b7ab29f42b4f4cd76329038624b3244daedd",
           "lod": "LITE"
         }
@@ -31500,14 +31500,14 @@
         {
           "id": "TR007_HQ__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9bfa6478de8b2b58c2700e5285e092b875c944282295b1684aef42320d8ce9b5",
           "lod": "HQ"
         },
         {
           "id": "TR007_LITE__repair",
           "catalog": "catalog/quality-pa022-tr007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "6fe68259502514022730bb59b7b96e4b3bc59e8495ed86adc3df60c0b9c473f0",
           "lod": "LITE"
         }
@@ -31550,14 +31550,14 @@
         {
           "id": "TR008_HQ__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "53ccc6084969534479a33c004516ea334f3ed892af24eed2b8d28c517f5db1d6",
           "lod": "HQ"
         },
         {
           "id": "TR008_LITE__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1ab8a265ea61b7e9917758a10acff5c8c33ef9c9996cb44a3f4e6d66dd294386",
           "lod": "LITE"
         }
@@ -31600,14 +31600,14 @@
         {
           "id": "TR009_HQ__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b9960f7ff4f95332a85f72ba08aa721eb4ee5ebcf3ec8362023eb022893850a4",
           "lod": "HQ"
         },
         {
           "id": "TR009_LITE__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7c29746673edabc133e2fc5b67a4f70e692d2af9d4e98cc8c24bd4d9ec819de6",
           "lod": "LITE"
         }
@@ -31650,14 +31650,14 @@
         {
           "id": "TR010_HQ__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7e05aacd80d89f8c1989b3c76a5f6b21dc88da3ac68711e0f9c1679ff3713a00",
           "lod": "HQ"
         },
         {
           "id": "TR010_LITE__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "2c99b7fc4a7f41e38ed094ae9285d55f51f5700ed65501cc5914139164a36de9",
           "lod": "LITE"
         }
@@ -31700,14 +31700,14 @@
         {
           "id": "TR011_HQ__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "90b3eaf5d5a14c0ebf7069e79931d93f8280ddf4811cd52e795691b721535951",
           "lod": "HQ"
         },
         {
           "id": "TR011_LITE__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "cd3a4c85928ced214366e2133f43336b1a4a835ac7c24584945f9c93f69f24e6",
           "lod": "LITE"
         }
@@ -31750,14 +31750,14 @@
         {
           "id": "TR012_HQ__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "459455c17d914d3565509e540af0cdf59bc36882e7472f31fbbe57fe631fc768",
           "lod": "HQ"
         },
         {
           "id": "TR012_LITE__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "05b5e30894a703103489012d520750ac8e015998a0618bd3a96d324aa7659363",
           "lod": "LITE"
         }
@@ -31833,14 +31833,14 @@
         {
           "id": "TR014_HQ__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "5a3ce5a2a188d839f037e9cf4043c8c6f5f6eb992a9621819d51273baab08098",
           "lod": "HQ"
         },
         {
           "id": "TR014_LITE__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e6a1d8985703b3f023d1d71e90997e8cd46c0e0b34d1948fcd9cdac6aad28504",
           "lod": "LITE"
         }
@@ -31883,14 +31883,14 @@
         {
           "id": "TR015_HQ__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "13c0d7ecb089be30f4bbb75e2c7375590425c6a487486b91bf2fffcf05b48fc0",
           "lod": "HQ"
         },
         {
           "id": "TR015_LITE__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c4545ff6003c682a48ff64b95997565998e338741675f9a870ceb89275e590ba",
           "lod": "LITE"
         }
@@ -31933,14 +31933,14 @@
         {
           "id": "TR016_HQ__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a228a4ed3fa83af1ba7b475dfb67e78f2fb939c8ee91bea4992b118f3e3991ac",
           "lod": "HQ"
         },
         {
           "id": "TR016_LITE__repair",
           "catalog": "catalog/quality-tr-held-repair-v2.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7d9d4d28dc059d16cf84fdec63ebeb584ea497e0a9da48e565cb9c232a54d615",
           "lod": "LITE"
         }
@@ -31983,14 +31983,14 @@
         {
           "id": "TR017_HQ__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d2a0e7916570f6333a3928422d17096ced96f0807813b3a64fcd0c973c4892b7",
           "lod": "HQ"
         },
         {
           "id": "TR017_LITE__repair",
           "catalog": "catalog/quality-tr008-017-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "0c1c2fdf5e087d38d0cc134ef1f8b09b27e89d4bb517f015ed1efd988d541662",
           "lod": "LITE"
         }
@@ -32033,14 +32033,14 @@
         {
           "id": "TR018_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3dfa5e19ee73ac4e9678fd42583de16ed029be052f11868386921bc560321c62",
           "lod": "HQ"
         },
         {
           "id": "TR018_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "621a444b140b66a7653272d05c33e707dbbe42a95b2464f40fedd424ca0c29bd",
           "lod": "LITE"
         }
@@ -32083,14 +32083,14 @@
         {
           "id": "TR019_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3adedb18677ca62921565547b78069b852ae15b4225306358b091c56cf2a92db",
           "lod": "HQ"
         },
         {
           "id": "TR019_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "f442674d3d331bbef4983de86cc2cd606a1be967b2317d0ef9a1b8961b95fc88",
           "lod": "LITE"
         }
@@ -32133,14 +32133,14 @@
         {
           "id": "TR020_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "ea2e8c7febc7a93c9b3c8ff8758646884186f38ea2c3ac55178e5a4e52960a9e",
           "lod": "HQ"
         },
         {
           "id": "TR020_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a8f78d5fd6d2904cd7c541dc1c86a7bb7099298175b91abbd976960c598061b7",
           "lod": "LITE"
         }
@@ -32183,14 +32183,14 @@
         {
           "id": "TR021_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "cabf25da01d3137edf489ef6f6a738f2b5c0ab296bcc502d8c3651f959c9a60b",
           "lod": "HQ"
         },
         {
           "id": "TR021_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "5288bbf1c6d2fbfb6b1150efbaf3bacd4a76c20e0290081065987f24cd4d3cce",
           "lod": "LITE"
         }
@@ -32233,14 +32233,14 @@
         {
           "id": "TR022_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e1e69e7fce9279abfccde4aae49b56ed98fa3f0308e2bfb8aab263d6e8620628",
           "lod": "HQ"
         },
         {
           "id": "TR022_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "37120aac875939e992821dfa12b58fa42f55036b19adee14aefd97c095a50427",
           "lod": "LITE"
         }
@@ -32283,14 +32283,14 @@
         {
           "id": "TR023_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "5fec09f4e0c2670a8cb192cd02d63871f97564ad6c16a8f1ffe8421b64ee7b40",
           "lod": "HQ"
         },
         {
           "id": "TR023_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "b89c67905d00021fc3db5dd77258cc4f1441319bdce4afac65f26fce3050aceb",
           "lod": "LITE"
         }
@@ -32333,14 +32333,14 @@
         {
           "id": "TR024_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1162230c4f9fd05de72ddff77eb99955b8020c9dd365c307e18065818d632764",
           "lod": "HQ"
         },
         {
           "id": "TR024_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e37eaf8e6e7683735b769b798f3af908ae68c698fe722933f110bd618aa26a43",
           "lod": "LITE"
         }
@@ -32383,14 +32383,14 @@
         {
           "id": "TR025_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "898b7564a520de3b499dc3af2a41dbcdd4f27f5ad4837d7cb1f9f27e328da456",
           "lod": "HQ"
         },
         {
           "id": "TR025_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "34e1381febf5eddae343e74e3a996c78caeb5de1f0e2573cfec6b9ddd7096a2c",
           "lod": "LITE"
         }
@@ -32433,14 +32433,14 @@
         {
           "id": "TR026_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "bed033cfc07c6bb0c1896c3a2faa15b0d7a418a7745b11bb58ce38180dc0b743",
           "lod": "HQ"
         },
         {
           "id": "TR026_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a5390e2216157996a88d47e0d6cf8481c9c0c41ecfa4d3f6a4c3df582d33f6af",
           "lod": "LITE"
         }
@@ -32483,14 +32483,14 @@
         {
           "id": "TR027_HQ__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "0dba992fe9338e86efa9ed31af81bcac0cd6a6fdc0d4c0f1ea3ff83e11177117",
           "lod": "HQ"
         },
         {
           "id": "TR027_LITE__repair",
           "catalog": "catalog/quality-tr018-027-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a26b6ef2e533382b170c3841528db8ecbe717a194cf879921bf2d31974acfb6e",
           "lod": "LITE"
         }
@@ -32533,14 +32533,14 @@
         {
           "id": "TR028_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "3019bf768eb1c98f19fc14d30ab3e8491dff6febe59a251068a89cbda404b743",
           "lod": "HQ"
         },
         {
           "id": "TR028_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c380a1635c6c72837f76fab824dcb30ff00375d1af6c613bf85b6f03d95c88db",
           "lod": "LITE"
         }
@@ -32583,14 +32583,14 @@
         {
           "id": "TR029_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "24cf6ff51d4f5690e67b274f69d960d2a3ead884608f8b78c7486cdb65796be5",
           "lod": "HQ"
         },
         {
           "id": "TR029_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "eee9f229193d953bf1a637d1e2c2339dbdc476035e5c4763a6893e5d6ac31631",
           "lod": "LITE"
         }
@@ -32633,14 +32633,14 @@
         {
           "id": "TR030_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "71e20ee90203531a4d4c27557f2e69d95bd4846bcf37e43172336d2f585b8434",
           "lod": "HQ"
         },
         {
           "id": "TR030_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "58a37d60a65014e091e1853b03e02d5a3367cb0211baeff1c2feaf212a389db0",
           "lod": "LITE"
         }
@@ -32683,14 +32683,14 @@
         {
           "id": "TR031_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "2e8b9ce456548b52fcbda3b6e018ca522f1ea84cba302a34ebf81a3f891b1b47",
           "lod": "HQ"
         },
         {
           "id": "TR031_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "e5429dfb4ad59f901a0c35b368cbe0cb0e3f6e5c662daa316d8151c9986ab38a",
           "lod": "LITE"
         }
@@ -32733,14 +32733,14 @@
         {
           "id": "TR032_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c2a4d8167b88cc54a1a9cc54d39d7f97e7353a0c5123bfd4d1931500a08efa69",
           "lod": "HQ"
         },
         {
           "id": "TR032_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "55bafc9d6b83d075996203f57f845728fd78671a022bad34f20efcca15bbde2d",
           "lod": "LITE"
         }
@@ -32783,14 +32783,14 @@
         {
           "id": "TR033_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9dcca5b187c3cb6ad2f62c0bc0b65c4f31e10609976038873f8eb3a8b00d75b8",
           "lod": "HQ"
         },
         {
           "id": "TR033_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8f85b853a0c4e9c07acef3ea6549ce095a73485cedc0ef792adfb8a932ce724c",
           "lod": "LITE"
         }
@@ -32833,14 +32833,14 @@
         {
           "id": "TR034_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8acf0881205e1319131d13ff2c317d3c50fd77d70439e69b258ada9fc4d5bd31",
           "lod": "HQ"
         },
         {
           "id": "TR034_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c9de22ffe4747a91bd2eba25d9bc522d0babf1ad355caaebcb494004e09533cc",
           "lod": "LITE"
         }
@@ -32883,14 +32883,14 @@
         {
           "id": "TR035_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d785c0846e7c1d60b1b79442a11be225b1293b119749af8dc6a27ea086748d38",
           "lod": "HQ"
         },
         {
           "id": "TR035_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "a072b036f117f8848419027b7d1e513979cb760186edd917ef18c430dcce2e90",
           "lod": "LITE"
         }
@@ -32933,14 +32933,14 @@
         {
           "id": "TR036_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "852915adeaa509438e6f5b7cb9ee1b39952207f3486f49fb9e974020572c7fff",
           "lod": "HQ"
         },
         {
           "id": "TR036_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "0557edcc1d6687fc1aad9426088bd35a27f016ef07cdb9bc052ed3a4439eedf2",
           "lod": "LITE"
         }
@@ -32983,14 +32983,14 @@
         {
           "id": "TR037_HQ__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9b076b4744a56d5188fd6115b624dc88e738896b564524d958d353e50f7d5c1b",
           "lod": "HQ"
         },
         {
           "id": "TR037_LITE__repair",
           "catalog": "catalog/quality-tr028-037-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9758c7018ef683c9435035e61683c0339388c76dd1c448ca102b1fa62b69c1c3",
           "lod": "LITE"
         }
@@ -33033,14 +33033,14 @@
         {
           "id": "TR038_HQ__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "30448628c0b8556e020bd153f9d59671b11cae1fc4ef2cea36eb902b5186f97f",
           "lod": "HQ"
         },
         {
           "id": "TR038_LITE__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "863ef186f9aff2068961d9f8bc03db4fe77a8a60298b9d319466cf446f5d1558",
           "lod": "LITE"
         }
@@ -33083,14 +33083,14 @@
         {
           "id": "TR039_HQ__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "9ce4230e3a47c8eab1556eb7d6ceb00c7debde90dc7c364f90fb9073df6305c7",
           "lod": "HQ"
         },
         {
           "id": "TR039_LITE__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "f0ed6a489ba600529b85ec740db2cff7938fa8b51ccf75e50eee84c89dffb6a9",
           "lod": "LITE"
         }
@@ -33133,14 +33133,14 @@
         {
           "id": "TR040_HQ__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "cd9e2972311b4c4169b46d6bb4003553d122749ebcc2d41c7b16fe3ba5abf677",
           "lod": "HQ"
         },
         {
           "id": "TR040_LITE__repair",
           "catalog": "catalog/quality-tr038-047-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "c79d707a0e12112dbf0f6f338a5acbe680195b039fbc07f09a3747d681270a7b",
           "lod": "LITE"
         }
@@ -47938,7 +47938,7 @@
       "purpose_en": "Autumn ochre leaf UV color texture on repaired WT003 baseline; geometry/UV retained against repaired baseline. Not a new base model.",
       "record_kind": "model",
       "image": "previews/quality-wm012-wt004-v1/WT003__autumn_ochre_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -47978,7 +47978,7 @@
       "purpose_en": "Blue cedar recolor of existing UV woodgrain on repaired AP001 baseline, other material channels and shape retained. Not a new base.",
       "record_kind": "model",
       "image": "previews/quality-wt005-ap006-v1/AP001__blue_cedar_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48018,7 +48018,7 @@
       "purpose_en": "Recolor existing bowl glaze UV texture on repaired AP010 baseline. Honey/wood, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-ap007-016-v1/AP010__cobalt_glaze_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48058,7 +48058,7 @@
       "purpose_en": "Recolor existing bowl glaze UV texture on repaired AP010 baseline. Honey/wood, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-ap007-016-v1/AP010__rust_red_glaze_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48098,7 +48098,7 @@
       "purpose_en": "Recolor existing ceramic UV texture on repaired AP019 baseline. Water/stone, transmission, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-ap017-al006-v1/AP019__blue_ceramic_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48138,7 +48138,7 @@
       "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-al007-016-v1/AL008__amber_glass_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48178,7 +48178,7 @@
       "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-al007-016-v1/AL008__cyan_glass_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48218,7 +48218,7 @@
       "purpose_en": "Glass-shell UV color on repaired AL008 baseline; not liquid. Cork, transmission, IOR, alpha, roughness and other channels retained. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-al007-016-v1/AL008__emerald_glass_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48258,7 +48258,7 @@
       "purpose_en": "Ceramic UV color on repaired AL020 baseline; roughness and other channels retained. No heat/material safety claim. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-al017-026-v1/AL020__blue_ceramic_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48298,7 +48298,7 @@
       "purpose_en": "Blue linen UV color; other materials and roughness preserved. Baseline defined by final validation. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-fw010-019-v1/FW015__blue_linen_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48341,7 +48341,7 @@
       "purpose_en": "Blue wool UV color; trim and roughness preserved. No new base model.",
       "record_kind": "model",
       "image": "previews/quality-fw020-in007-v1/IN007__blue_wool_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48381,7 +48381,7 @@
       "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
       "record_kind": "model",
       "image": "previews/quality-in008-017-v1/IN013__rust_wool_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48421,7 +48421,7 @@
       "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
       "record_kind": "model",
       "image": "previews/quality-in008-017-v1/IN017__blue_ceramic_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48461,7 +48461,7 @@
       "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
       "record_kind": "model",
       "image": "previews/quality-in018-oc010-v1/IN020__blue_linen_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48501,7 +48501,7 @@
       "purpose_en": "UV color variant with unchanged baseline geometry/UV; alpha, roughness and other materials preserved. No new base model or wear simulation.",
       "record_kind": "model",
       "image": "previews/quality-in018-oc010-v1/IN024__rust_wool_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -48541,7 +48541,7 @@
       "purpose_en": "Architectural glazing amber color on unchanged geometry/UV; transmission/IOR/roughness and structural materials preserved. No emission, liquid edit or optical portability guarantee.",
       "record_kind": "model",
       "image": "previews/quality-oc011-pa001-v1/OC015__amber_glass_thumbnail.png",
-      "image_evidence": "Final ZIP and rendered model SHA bound; public retrieval pending",
+      "image_evidence": "Public ZIP, rendered model and image SHA matched",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,

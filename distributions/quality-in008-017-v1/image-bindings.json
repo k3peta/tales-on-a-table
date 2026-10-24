@@ -31,7 +31,7 @@
         "source_sha256": "b2aadae735119a2247649d363c05479d89c25ad07e8e9016c6631c90c2f9db1e"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN010__repair",
@@ -65,7 +65,7 @@
         "source_sha256": "bc9ea77cf32fe5f866eaa0add5e4ea47d26b77b07ffc83e95ee12b091048a5bc"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN011__repair",
@@ -99,7 +99,7 @@
         "source_sha256": "a12b8ef713c4c88b161304e14b26b9279e76df0857e572e96274d898e4fa01d4"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN012__repair",
@@ -133,7 +133,7 @@
         "source_sha256": "9e91054408e4448d66865d0b9e1afd6afdf8f5c05ee98cf58ef223453a54ea38"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN013__rust_wool",
@@ -167,7 +167,7 @@
         "source_sha256": "c4b15d0a1a4381f092052ef6485b6341bd19fe50a2a8425db4d2a1f731473d8d"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN014__repair",
@@ -201,7 +201,7 @@
         "source_sha256": "8fffda6d0830678b8f65c89a10ba4729ad3254793c076f60626a78217414cca3"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN016__repair",
@@ -235,7 +235,7 @@
         "source_sha256": "5aae5691e208355388c39b6323640cbce44867f26235d76b571dece0825d1222"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN017__repair",
@@ -269,7 +269,7 @@
         "source_sha256": "75f644192cdb2410001d28da7d3a09403822c22088cc2b844112e4ed0b1154f0"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "IN017__blue_ceramic",
@@ -303,6 +303,6 @@
         "source_sha256": "cd5d6026bc503d2e2e14004337e06909f65e4ae15222e79fbfc32329052281b9"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

@@ -31,7 +31,7 @@
         "source_sha256": "ffddf3409bb8f77980d931e15f88b3d94dd9055d39b4c1caca0fe1558d0b4db4"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP009__repair",
@@ -65,7 +65,7 @@
         "source_sha256": "fd6ecaef90134d7e5210ecf195d3330a3cc1f115c7629b223e27e7715ffd9088"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP010__cobalt_glaze",
@@ -99,7 +99,7 @@
         "source_sha256": "6652bceba056d86db2736f53e7870510cab703ae66715dc84fd3cc96863b3e67"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP010__repair",
@@ -133,7 +133,7 @@
         "source_sha256": "5448897ab16257d9b35510d8880261b71347a9d75437b71cd9de779324350d09"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP010__rust_red_glaze",
@@ -167,7 +167,7 @@
         "source_sha256": "0b839ce552b1232abde12b50b30f7ae9736676bf96a4d11cb16e4686afb95a88"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP012__repair",
@@ -201,7 +201,7 @@
         "source_sha256": "69950b5034b11f45d237007a1ab661c37350b93e3394fffa4507d14396e683a7"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "AP014__repair",
@@ -235,6 +235,6 @@
         "source_sha256": "70735d244c84e22d121b5e34e9a14bdc5a6974d5a9cc748ffe8615aa038c5313"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]

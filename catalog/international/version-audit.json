@@ -30,133 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "AL003",
-      "AL004",
-      "AL007",
-      "AL008",
-      "AL009",
-      "AL010",
-      "AL011",
-      "AL016",
-      "AL018",
-      "AL020",
-      "AL021",
-      "AL022",
-      "AL023",
-      "AL024",
-      "AP001",
-      "AP003",
-      "AP005",
-      "AP007",
-      "AP009",
-      "AP010",
-      "AP012",
-      "AP014",
-      "AP018",
-      "AP019",
-      "FW002",
-      "FW003",
-      "FW006",
-      "FW008",
-      "FW010",
-      "FW012",
-      "FW013",
-      "FW015",
-      "FW016",
-      "FW018",
-      "FW019",
-      "FW021",
-      "IN009",
-      "IN010",
-      "IN011",
-      "IN012",
-      "IN014",
-      "IN016",
-      "IN017",
-      "IN018",
-      "IN019",
-      "IN022",
-      "IN023",
-      "PA002",
-      "PA003",
-      "PA004",
-      "PA005",
-      "PA006",
-      "PA007",
-      "PA008",
-      "PA009",
-      "PA010",
-      "PA012",
-      "PA013",
-      "PA014",
-      "PA015",
-      "PA016",
-      "PA017",
-      "PA018",
-      "PA019",
-      "PA020",
-      "PA021",
-      "PA022",
-      "PA023",
-      "PA024",
-      "TR001",
-      "TR002",
-      "TR003",
-      "TR004",
-      "TR005",
-      "TR006",
-      "TR007",
-      "TR008",
-      "TR009",
-      "TR010",
-      "TR011",
-      "TR012",
-      "TR014",
-      "TR015",
-      "TR016",
-      "TR017",
-      "TR018",
-      "TR019",
-      "TR020",
-      "TR021",
-      "TR022",
-      "TR023",
-      "TR024",
-      "TR025",
-      "TR026",
-      "TR027",
-      "TR028",
-      "TR029",
-      "TR030",
-      "TR031",
-      "TR032",
-      "TR033",
-      "TR034",
-      "TR035",
-      "TR036",
-      "TR037",
-      "TR038",
-      "TR039",
-      "TR040",
-      "WM002",
-      "WM003",
-      "WM005",
-      "WM006",
-      "WM007",
-      "WM014",
-      "WM015",
-      "WM016",
-      "WM017",
-      "WT001",
-      "WT002",
-      "WT003",
-      "WT004",
-      "WT005",
-      "WT006",
-      "WT007",
-      "WT008"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -172,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 738,
-      "exact_image_zip_evidence": 145,
-      "exact_image_zip_binding_public_retrieval_pending": 125
+      "exact_image_zip_evidence": 270
     }
   },
   "items": [
@@ -7190,7 +7063,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7216,7 +7089,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png",
               "image_sha256": "13676fa65738e6a4a44b3ab1aedf6a6b07e9020512f361631647592a50949155",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7226,7 +7099,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -7282,7 +7155,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7308,7 +7181,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png",
               "image_sha256": "76a59128968e933697cb8f353d8663bfd603ea7b5cec53e1789c10bcd3fc8681",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7318,7 +7191,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -10895,7 +10768,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM002__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM002__repair",
@@ -10935,7 +10808,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -10953,7 +10827,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM003__repair",
@@ -10993,7 +10867,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11026,7 +10901,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM005__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM005__repair",
@@ -11066,7 +10941,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11084,7 +10960,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM006__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM006__repair",
@@ -11124,7 +11000,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11142,7 +11019,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM007__repair",
@@ -11182,7 +11059,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11307,7 +11185,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM014__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM014__repair",
@@ -11347,7 +11225,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11365,7 +11244,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM015__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM015__repair",
@@ -11405,7 +11284,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11423,7 +11303,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM016__repair",
@@ -11463,7 +11343,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11481,7 +11362,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WM017__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WM017__repair",
@@ -11521,7 +11402,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11539,7 +11421,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT001__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT001__repair",
@@ -11579,7 +11461,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11597,7 +11480,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT002__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT002__repair",
@@ -11637,7 +11520,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11655,7 +11539,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT003__repair",
@@ -11695,7 +11579,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11713,7 +11598,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT004__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT004__repair",
@@ -11753,7 +11638,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11771,7 +11657,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT005__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT005__repair",
@@ -11811,7 +11697,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11829,7 +11716,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT006__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT006__repair",
@@ -11869,7 +11756,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11887,7 +11775,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT007__repair",
@@ -11927,7 +11815,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -11945,7 +11834,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "WT008__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "WT008__repair",
@@ -11985,7 +11874,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12003,7 +11893,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP001__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP001__repair",
@@ -12043,7 +11933,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12076,7 +11967,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP003__repair",
@@ -12116,7 +12007,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12149,7 +12041,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP005__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP005__repair",
@@ -12189,7 +12081,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12222,7 +12115,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP007__repair",
@@ -12262,7 +12155,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12295,7 +12189,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP009__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP009__repair",
@@ -12335,7 +12229,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12353,7 +12248,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP010__repair",
@@ -12393,7 +12288,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12426,7 +12322,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP012__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP012__repair",
@@ -12466,7 +12362,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12499,7 +12396,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP014__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP014__repair",
@@ -12539,7 +12436,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12602,7 +12500,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP018__repair",
@@ -12642,7 +12540,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12660,7 +12559,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AP019__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AP019__repair",
@@ -12700,7 +12599,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12763,7 +12663,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL003__repair",
@@ -12803,7 +12703,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12821,7 +12722,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL004__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL004__repair",
@@ -12861,7 +12762,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12909,7 +12811,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL007__repair",
@@ -12949,7 +12851,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -12967,7 +12870,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL008__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL008__repair",
@@ -13007,7 +12910,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13025,7 +12929,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL009__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL009__repair",
@@ -13065,7 +12969,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13083,7 +12988,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL010__repair",
@@ -13123,7 +13028,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13141,7 +13047,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL011__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL011__repair",
@@ -13181,7 +13087,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13259,7 +13166,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL016__repair",
@@ -13299,7 +13206,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13332,7 +13240,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL018__repair",
@@ -13372,7 +13280,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13405,7 +13314,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL020__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL020__repair",
@@ -13445,7 +13354,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13463,7 +13373,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL021__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL021__repair",
@@ -13503,7 +13413,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13521,7 +13432,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL022__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL022__repair",
@@ -13561,7 +13472,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13579,7 +13491,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL023__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL023__repair",
@@ -13619,7 +13531,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13637,7 +13550,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "AL024__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "AL024__repair",
@@ -13677,7 +13590,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13791,7 +13705,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW002__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW002__repair",
@@ -13831,7 +13745,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -13849,7 +13764,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW003__repair",
@@ -13889,7 +13804,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14009,7 +13925,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW006__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW006__repair",
@@ -14049,7 +13965,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14118,7 +14035,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW008__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW008__repair",
@@ -14158,7 +14075,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14227,7 +14145,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW010__repair",
@@ -14267,7 +14185,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14336,7 +14255,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW012__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW012__repair",
@@ -14376,7 +14295,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14394,7 +14314,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW013__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW013__repair",
@@ -14434,7 +14354,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14503,7 +14424,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW015__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW015__repair",
@@ -14543,7 +14464,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14561,7 +14483,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW016__repair",
@@ -14601,7 +14523,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14670,7 +14593,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW018__repair",
@@ -14710,7 +14633,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14728,7 +14652,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW019__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW019__repair",
@@ -14768,7 +14692,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -14837,7 +14762,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "FW021__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "FW021__repair",
@@ -14877,7 +14802,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15030,7 +14956,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN009__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN009__repair",
@@ -15070,7 +14996,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15088,7 +15015,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN010__repair",
@@ -15128,7 +15055,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15146,7 +15074,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN011__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN011__repair",
@@ -15186,7 +15114,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15204,7 +15133,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN012__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN012__repair",
@@ -15244,7 +15173,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15277,7 +15207,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN014__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN014__repair",
@@ -15317,7 +15247,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15350,7 +15281,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN016__repair",
@@ -15390,7 +15321,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15408,7 +15340,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN017__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN017__repair",
@@ -15448,7 +15380,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15466,7 +15399,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN018__repair",
@@ -15506,7 +15439,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15524,7 +15458,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN019__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN019__repair",
@@ -15564,7 +15498,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15612,7 +15547,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN022__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN022__repair",
@@ -15652,7 +15587,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15670,7 +15606,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "IN023__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "IN023__repair",
@@ -15710,7 +15646,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15938,7 +15875,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA002__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA002__repair",
@@ -15973,7 +15910,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -15991,7 +15929,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA003__repair",
@@ -16026,7 +15964,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16044,7 +15983,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA004__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA004__repair",
@@ -16079,7 +16018,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16097,7 +16037,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA005__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA005__repair",
@@ -16132,7 +16072,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16150,7 +16091,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA006__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA006__repair",
@@ -16185,7 +16126,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16203,7 +16145,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA007__repair",
@@ -16243,7 +16185,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16261,7 +16204,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA008__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA008__repair",
@@ -16296,7 +16239,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16314,7 +16258,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA009__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA009__repair",
@@ -16354,7 +16298,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16372,7 +16317,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA010__repair",
@@ -16407,7 +16352,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16440,7 +16386,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA012__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA012__repair",
@@ -16475,7 +16421,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16493,7 +16440,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA013__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA013__repair",
@@ -16528,7 +16475,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16546,7 +16494,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA014__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA014__repair",
@@ -16581,7 +16529,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16599,7 +16548,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA015__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA015__repair",
@@ -16634,7 +16583,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16652,7 +16602,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA016__repair",
@@ -16687,7 +16637,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16705,7 +16656,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA017__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA017__repair",
@@ -16740,7 +16691,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16758,7 +16710,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA018__repair",
@@ -16793,7 +16745,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16811,7 +16764,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA019__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA019__repair",
@@ -16846,7 +16799,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16864,7 +16818,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA020__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA020__repair",
@@ -16899,7 +16853,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16917,7 +16872,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA021__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA021__repair",
@@ -16952,7 +16907,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -16970,7 +16926,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA022__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA022__repair",
@@ -17005,7 +16961,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17023,7 +16980,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA023__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA023__repair",
@@ -17058,7 +17015,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17076,7 +17034,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "PA024__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "PA024__repair",
@@ -17111,7 +17069,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17129,7 +17088,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR001__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR001_HQ__repair",
@@ -17193,7 +17152,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17211,7 +17171,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR002__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR002_HQ__repair",
@@ -17275,7 +17235,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17293,7 +17254,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR003__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR003_HQ__repair",
@@ -17357,7 +17318,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17375,7 +17337,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR004__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR004_HQ__repair",
@@ -17439,7 +17401,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17457,7 +17420,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR005__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR005_HQ__repair",
@@ -17521,7 +17484,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17539,7 +17503,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR006__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR006_HQ__repair",
@@ -17603,7 +17567,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17621,7 +17586,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR007__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR007_HQ__repair",
@@ -17685,7 +17650,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17703,7 +17669,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR008__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR008_HQ__repair",
@@ -17767,7 +17733,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17785,7 +17752,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR009__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR009_HQ__repair",
@@ -17859,7 +17826,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17877,7 +17845,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR010__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR010_HQ__repair",
@@ -17951,7 +17919,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -17969,7 +17938,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR011__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR011_HQ__repair",
@@ -18033,7 +18002,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18051,7 +18021,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR012__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR012_HQ__repair",
@@ -18125,7 +18095,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18158,7 +18129,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR014__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR014_HQ__repair",
@@ -18222,7 +18193,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18240,7 +18212,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR015__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR015_HQ__repair",
@@ -18314,7 +18286,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18332,7 +18305,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR016__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR016_HQ__repair",
@@ -18406,7 +18379,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18424,7 +18398,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR017__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR017_HQ__repair",
@@ -18488,7 +18462,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18506,7 +18481,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR018__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR018_HQ__repair",
@@ -18570,7 +18545,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18588,7 +18564,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR019__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR019_HQ__repair",
@@ -18652,7 +18628,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18670,7 +18647,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR020__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR020_HQ__repair",
@@ -18734,7 +18711,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18752,7 +18730,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR021__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR021_HQ__repair",
@@ -18816,7 +18794,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18834,7 +18813,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR022__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR022_HQ__repair",
@@ -18898,7 +18877,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18916,7 +18896,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR023__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR023_HQ__repair",
@@ -18980,7 +18960,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -18998,7 +18979,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR024__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR024_HQ__repair",
@@ -19062,7 +19043,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19080,7 +19062,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR025__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR025_HQ__repair",
@@ -19144,7 +19126,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19162,7 +19145,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR026__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR026_HQ__repair",
@@ -19226,7 +19209,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19244,7 +19228,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR027__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR027_HQ__repair",
@@ -19308,7 +19292,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19326,7 +19311,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR028__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR028_HQ__repair",
@@ -19390,7 +19375,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19408,7 +19394,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR029__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR029_HQ__repair",
@@ -19472,7 +19458,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19490,7 +19477,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR030__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR030_HQ__repair",
@@ -19554,7 +19541,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19572,7 +19560,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR031__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR031_HQ__repair",
@@ -19636,7 +19624,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19654,7 +19643,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR032__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR032_HQ__repair",
@@ -19718,7 +19707,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19736,7 +19726,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR033__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR033_HQ__repair",
@@ -19800,7 +19790,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19818,7 +19809,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR034__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR034_HQ__repair",
@@ -19882,7 +19873,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19900,7 +19892,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR035__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR035_HQ__repair",
@@ -19964,7 +19956,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -19982,7 +19975,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR036__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR036_HQ__repair",
@@ -20046,7 +20039,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -20064,7 +20058,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR037__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR037_HQ__repair",
@@ -20128,7 +20122,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -20146,7 +20141,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR038__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR038_HQ__repair",
@@ -20210,7 +20205,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -20228,7 +20224,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR039__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR039_HQ__repair",
@@ -20292,7 +20288,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {
@@ -20310,7 +20307,7 @@
       "lod_scope": "HQ only; other LODs not pictured",
       "latest_revision": {
         "id": "TR040__quality57_76",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TR040_HQ__repair",
@@ -20374,7 +20371,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
       }
     },
     {

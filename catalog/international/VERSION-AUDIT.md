@@ -4,9 +4,9 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-All1008 base IDs have mapped images. All157 recorded latest revisions have matching image/ZIP evidence;851 records have no revision entry. The six previously pending revision bindings are now verified from the exact revised ZIP GLB and12 newly rendered images, with public reacquisition. FW19 repaired-model ZIP/member/image associations were also independently rechecked.
+All1008 base IDs have mapped images. All270 recorded latest revisions have matching image/ZIP evidence;738 records have no revision entry. The six previously pending revision bindings are now verified from the exact revised ZIP GLB and12 newly rendered images, with public reacquisition. FW19 repaired-model ZIP/member/image associations were also independently rechecked.
 
-Current card evidence:519 authored primary preview/hash associations,464 exact primary-ZIP image bindings,25 exact revision-ZIP image bindings. This is not a fresh visual inspection of1008 models, proof of1008 independent shapes, all-quality approval, or coverage of every LOD, interior, viewpoint or component. Known quality and polygon-budget issues remain. TR images cover HQ; IF002 repair covers main/HQ with original LOD1 unassessed; other unknown LOD scope remains explicit per record.
+Current card evidence:519 authored primary preview/hash associations,464 exact primary-ZIP image bindings,25 exact revision-ZIP image bindings. This is not a fresh visual inspection of1008 models, proof of1008 independent shapes, all-quality approval, or coverage of every LOD, interior, viewpoint or component. Known quality and polygon-budget issues remain. Primary TR images cover HQ; the adopted quality57–76 revision bundles separately bind HQ and LITE images/ZIPs; IF002 repair covers main/HQ with original LOD1 unassessed; other unknown LOD scope remains explicit per record.
 
 The six resolved records are FCS105_RoadGatehouse, FCSV01_ConstructionSite, FCSV03_GateAccessExample, HCV_SCENE_HORSE, HCV_SCENE_WINERY and HCV_SCENE_CELLAR. Their current cards pair the revised images with matching ZIPs. Previous images, archive links and image-history metadata remain available. Horse/winery/cellar arrangements remain licensed for viewing/rearranging only; underlying model/material CC0 does not expand scene redistribution rights. All catalogue images remain outside model CC0.
 
@@ -30,6 +30,8 @@ Base1008 distribution records unchanged; material variants187 separately (+16). 
 
 TR013 and TR041–047 HQ/LITE candidates remain held. Superseded PA006/008/010 pale candidates and terrain-held v1 are excluded. Existing originals/history retained; no claim that old originals are defect-free. BM007/BM054 and other recorded diagnostics remain unresolved. Complete independent-shape count, all current-model quality, full physics/game/Blender4.3.2 compatibility are not established.
 
-Public-download identity pending. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
+All180 public ZIPs and632 images match the guarded package/model bindings;945 changed files externally retrieved and hash-verified. Publisher inspected batch sheets and representative late-batch comparisons, not every surface in every view; producer final-ZIP results bound by SHA. No publication-side Blender rerun. Images are separate catalogue artwork, not CC0 models.
 
 [Batch index](../quality-57-76.md).
+
+Current summary:270 records with latest-revision image/ZIP evidence,738 with no revision entry. HQ/LITE revisions use explicit separate package bindings within one record. All1008 primary-ID images retained; this does not establish all independent shapes or all surfaces as defect-free.

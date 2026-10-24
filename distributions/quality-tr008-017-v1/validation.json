@@ -1,5 +1,5 @@
 {
-  "status": "final_zip_guard_passed_public_download_match_pending",
+  "status": "public_download_matches_final_zip_guard",
   "run": {
     "run_id": "cb87c11b-cb63-4fb9-9fc1-3c672ec7b750",
     "started_utc": "2026-10-24T20:54:43.430431+00:00",
@@ -260,5 +260,6 @@
       }
     }
   ],
-  "known_bad_color_fixtures_rejected": 5
+  "known_bad_color_fixtures_rejected": 5,
+  "published_package_commit": "ded6a96db78f80a2e89988859d14391db46a61f3"
 }

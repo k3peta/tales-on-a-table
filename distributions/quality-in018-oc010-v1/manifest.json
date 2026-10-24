@@ -11,7 +11,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN018__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -25,7 +25,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN019__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -39,7 +39,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN020__blue_linen_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -53,7 +53,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN022__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -67,7 +67,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN023__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -81,7 +81,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-in018-oc010-v1/IN024__rust_wool_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     }
   ],

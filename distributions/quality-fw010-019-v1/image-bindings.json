@@ -31,7 +31,7 @@
         "source_sha256": "4e984e20a817d1fc990f6d07f1df8fc940e8e86c91b1e10d43aaf06f0d32cd43"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW012__repair",
@@ -65,7 +65,7 @@
         "source_sha256": "57ee422b6bcbc9397b1a96e41ee39723f32b4518180a4ce1deaf3bf9f65dc929"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW013__repair",
@@ -99,7 +99,7 @@
         "source_sha256": "6ea5ce805c24c620c5ba6c9bcf1090b7dd8ec2510bbe77b5b7acf427a672864f"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW015__repair",
@@ -133,7 +133,7 @@
         "source_sha256": "10c219f3f7e71e5c700f0cf7655b1fed4e5fdb599fe42ecb7cfa6e35266c0482"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW015__blue_linen",
@@ -167,7 +167,7 @@
         "source_sha256": "2511334fb082852be0f8912f59ce0fc9512333ad17f6c51cf24b0f10e58902a5"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW016__repair",
@@ -201,7 +201,7 @@
         "source_sha256": "9fc603b9f77760d3008c44feebc11f3c8b42f21fca37a9c81c30f99255e5cf04"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW018__repair",
@@ -235,7 +235,7 @@
         "source_sha256": "c06880850c035f88449ffe82dff969a3347c3df5af8e33d93f88ae7ae28c56d5"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   },
   {
     "id": "FW019__repair",
@@ -269,6 +269,6 @@
         "source_sha256": "1c48b30e7a4827587a910bdc0e168e6b34b2bf19c34e68e56d7f2bd48a53b3e6"
       }
     },
-    "status": "final_zip_guard_passed_public_download_match_pending"
+    "status": "public_download_matches_final_zip_guard"
   }
 ]
