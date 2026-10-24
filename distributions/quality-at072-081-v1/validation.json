@@ -1,0 +1,46 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "39020ae1024cf9b141737f1295aaef69ab587de2",
+  "guard_run_id": "0c7a1633-5eea-4c8b-aae9-737c1d1fe6f1",
+  "started_utc": "2026-10-24T11:57:23.563557+00:00",
+  "finished_utc": "2026-10-24T11:57:24.233035+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "AT_073__color_blue",
+      "zip": "AT_073__color_blue_CC0.zip",
+      "zip_sha256": "493b502e6011b7dd306a44cf00f6654cdd7583f7622b0cdf7e39293c931bbb8f",
+      "members": {
+        "AT_073__color_blue.glb": "d2926e0d9e4e9e953426def9bb735ce7061ed447dd8f1e42eff9d6e97378a1c2",
+        "AT_073__color_blue.blend": "80c8cdb8e7cb6f35d48fbb3243967d4cfa9424567acf2379c0980f4999e5e1d0"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "AT_073__color_blue",
+      "formats": {
+        "blend": {
+          "triangles": 13484,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 27,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 13484,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 27,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

@@ -24505,7 +24505,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW013.png",
       "image_model_revision": "FW013__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
@@ -24513,7 +24513,8 @@
         {
           "id": "FW013__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24543,7 +24544,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW014.png",
       "image_model_revision": "FW014__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip",
@@ -24551,7 +24552,8 @@
         {
           "id": "FW014__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24581,7 +24583,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
       "image_model_revision": "FW015__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
@@ -24589,7 +24591,8 @@
         {
           "id": "FW015__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24619,7 +24622,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW016.png",
       "image_model_revision": "FW016__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
@@ -24627,7 +24630,8 @@
         {
           "id": "FW016__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24657,7 +24661,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW017.png",
       "image_model_revision": "FW017__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip",
@@ -24665,7 +24669,8 @@
         {
           "id": "FW017__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24696,7 +24701,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW018.png",
       "image_model_revision": "FW018__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
@@ -24704,7 +24709,8 @@
         {
           "id": "FW018__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24734,7 +24740,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW019.png",
       "image_model_revision": "FW019__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
@@ -24742,7 +24748,8 @@
         {
           "id": "FW019__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24772,7 +24779,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW020.png",
       "image_model_revision": "FW020__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip",
@@ -24780,7 +24787,8 @@
         {
           "id": "FW020__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -24810,7 +24818,7 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "known_issue": "Historical original had invalid normal references; corrected revision final-ZIP guard and public artifact identity verified. Original coarse textures remain.",
       "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW021.png",
       "image_model_revision": "FW021__repair",
       "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
@@ -24818,7 +24826,8 @@
         {
           "id": "FW021__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "status": "public_download_matches_final_zip_guard"
         }
       ]
     },

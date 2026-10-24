@@ -6,7 +6,7 @@ Nine revisions, no new bases or color variants. Color images were incorrectly us
 
 9个材质修订，不新增基本模型或变体。移除错误法线连接，恢复sRGB。几何、UV和原颜色图像保持，粗纹理未重绘。左原版、右修复版。
 
-Final ZIP producer guard passed; public-download identity verification pending. Guard binds ZIP/member/input/verifier hashes, run, times and Blender5.2.2; both formats tested for absent normal links and correct sRGB image interpretation. Publication has not rerun Blender. No full-audit increment or game/collision/Blender4.3.2 guarantee. Models/materials CC0; images separately licensed for catalogue viewing, not modelCC0. [License](../LICENSE.md).
+Final ZIP producer guard and public-download ZIP/member identity verified. Guard binds ZIP/member/input/verifier hashes, run, times and Blender5.2.2; both formats tested for absent normal links and correct sRGB image interpretation. Publication has not rerun Blender. No full-audit increment or game/collision/Blender4.3.2 guarantee. Models/materials CC0; images separately licensed for catalogue viewing, not modelCC0. [License](../LICENSE.md).
 
 ## FW013 — Three earthen herb pots
 
@@ -101,3 +101,5 @@ Wall apothecary shelf
 ## Reference-audit scope / 参照監査の範囲
 
 Producer inspected all22 original FW records:19 had color-image-as-normal references; prior10 plus current9 repairs address those identified references. FW003/006/022 did not have this defect. Original ZIP hashes match the public ledger. This is not a claim that all FW shape/texture/functional issues are fixed. Original coarse textures remain.
+
+[Exact package validation evidence](../distributions/quality-fw013-021-normal-repair-v1/validation.json).
