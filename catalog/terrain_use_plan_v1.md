@@ -2,14 +2,60 @@
 
 911 existing records + 6 = 917 distribution records. Three local-use candidates (NP101, NP102, NP106) and three structural variants (NP103-NP105). Not six confirmed independent shapes. BLEND and GLB are two formats per record.
 
-|ID|Classification|Download|Bytes|
-|---|---|---|---:|
-|NP101_BraidedIsland|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)|243950|
-|NP102_SteppingCrossing|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)|248287|
-|NP103_DoubleMouth|structural_variant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)|269016|
-|NP104_WetOverhang|structural_variant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)|260493|
-|NP105_CliffRiver|structural_variant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)|242795|
-|NP106_RecessedFall|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)|249011|
+### NP101_BraidedIsland
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)
+
+243950
+
+
+### NP102_SteppingCrossing
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)
+
+248287
+
+
+### NP103_DoubleMouth
+
+structural_variant
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)
+
+269016
+
+
+### NP104_WetOverhang
+
+structural_variant
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)
+
+260493
+
+
+### NP105_CliffRiver
+
+structural_variant
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)
+
+242795
+
+
+### NP106_RecessedFall
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)
+
+249011
+
+
 
 ## Placement and limitations
 
@@ -31,14 +77,48 @@ Model geometry and embedded display materials only: CC0-1.0. No code, images or 
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|NP101_BraidedIsland|BraidedIsland|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)|
-|NP102_SteppingCrossing|SteppingCrossing|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)|
-|NP103_DoubleMouth|DoubleMouth|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)|
-|NP104_WetOverhang|WetOverhang|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)|
-|NP105_CliffRiver|CliffRiver|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)|
-|NP106_RecessedFall|RecessedFall|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)|
+### NP101_BraidedIsland
+
+BraidedIsland
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)
+
+
+### NP102_SteppingCrossing
+
+SteppingCrossing
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)
+
+
+### NP103_DoubleMouth
+
+DoubleMouth
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)
+
+
+### NP104_WetOverhang
+
+WetOverhang
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)
+
+
+### NP105_CliffRiver
+
+CliffRiver
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)
+
+
+### NP106_RecessedFall
+
+RecessedFall
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)
+
+
 
 ![terrain-use-plan-v1 — fall_recess](../previews/catalog-20261024/terrain-use-plan-v1-fall_recess.jpg)
 

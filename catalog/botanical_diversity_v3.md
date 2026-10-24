@@ -2,11 +2,27 @@
 
 885 existing records + 3 = 888 distribution records. Strawberry runners, trailing cucumber and dandelion seed heads. BLEND and GLB are two formats of each record. Global historical design independence is unverified; no claim of three globally unique designs.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|BD301_StrawberryRunner|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip)|164215|
-|BD302_TrailingCucumber|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip)|169500|
-|BD303_DandelionSeedhead|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip)|592909|
+### BD301_StrawberryRunner
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip)
+
+164215
+
+
+### BD302_TrailingCucumber
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip)
+
+169500
+
+
+### BD303_DandelionSeedhead
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip)
+
+592909
+
+
 
 [Checksums](../distributions/botanical-diversity-v3/SHA256SUMS.txt). Model geometry and embedded display materials only: CC0-1.0. No generation code, private records, images or assembled scenes are distributed.
 
@@ -25,11 +41,27 @@ Runners, vines and seeds are static geometry. No growth, seed dispersal or autom
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|BD301_StrawberryRunner|StrawberryRunner|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip)|
-|BD302_TrailingCucumber|TrailingCucumber|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip)|
-|BD303_DandelionSeedhead|DandelionSeedhead|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip)|
+### BD301_StrawberryRunner
+
+StrawberryRunner
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip)
+
+
+### BD302_TrailingCucumber
+
+TrailingCucumber
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip)
+
+
+### BD303_DandelionSeedhead
+
+DandelionSeedhead
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip)
+
+
 
 ![botanical-diversity-v3 — field_edges](../previews/catalog-20261024/botanical-diversity-v3-field_edges.jpg)
 

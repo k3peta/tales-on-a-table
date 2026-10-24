@@ -2,11 +2,27 @@
 
 917 existing records + 3 = 920 distribution records. These are local morphology/use candidates; global historical independence is unconfirmed. BLEND and GLB are two formats per record.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|CD101_CeilingPendants|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip)|184974|
-|CD102_FoldedCurtain|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip)|243747|
-|CD103_RimstonePools|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip)|192791|
+### CD101_CeilingPendants
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip)
+
+184974
+
+
+### CD102_FoldedCurtain
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip)
+
+243747
+
+
+### CD103_RimstonePools
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip)
+
+192791
+
+
 
 ## Mounting and limitations
 
@@ -25,11 +41,27 @@ Model geometry and embedded display materials only: CC0-1.0. No code, private ev
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|CD101_CeilingPendants|CeilingPendants|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip)|
-|CD102_FoldedCurtain|FoldedCurtain|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip)|
-|CD103_RimstonePools|RimstonePools|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip)|
+### CD101_CeilingPendants
+
+CeilingPendants
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip)
+
+
+### CD102_FoldedCurtain
+
+FoldedCurtain
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip)
+
+
+### CD103_RimstonePools
+
+RimstonePools
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip)
+
+
 
 ![cave-deposition-v1 — cave_attachments](../previews/catalog-20261024/cave-deposition-v1-cave_attachments.jpg)
 

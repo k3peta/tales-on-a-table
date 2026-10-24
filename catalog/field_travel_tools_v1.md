@@ -2,12 +2,34 @@
 
 **949 distribution records = 945 + 2 component candidates + 2 assembly examples.** One structural connection and one composite transport accessory; global independent shape count is unconfirmed. The reused gate and existing fishing/travel gear are not added again.
 
-|ID|Classification|Download|
-|---|---|---|
-|FTR101_StepoffLadder4m|structural_connection|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip)|
-|FTR102_SegmentedRodCase|composite_transport_accessory|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)|
-|FTRV01_GateLadderFit|assembly_not_new_shape|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip)|
-|FTRV02_TravelRodKit|assembly_not_new_shape|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip)|
+### FTR101_StepoffLadder4m
+
+structural_connection
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip)
+
+
+### FTR102_SegmentedRodCase
+
+composite_transport_accessory
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)
+
+
+### FTRV01_GateLadderFit
+
+assembly_not_new_shape
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip)
+
+
+### FTRV02_TravelRodKit
+
+assembly_not_new_shape
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip)
+
+
 
 ## Uses and limitations
 
@@ -24,12 +46,34 @@ The two components were generated from original mesh code without external geome
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|FTR101_StepoffLadder4m|StepoffLadder4m|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip)|
-|FTR102_SegmentedRodCase|SegmentedRodCase|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)|
-|FTRV01_GateLadderFit|GateLadderFit|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip)|
-|FTRV02_TravelRodKit|TravelRodKit|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip)|
+### FTR101_StepoffLadder4m
+
+StepoffLadder4m
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip)
+
+
+### FTR102_SegmentedRodCase
+
+SegmentedRodCase
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)
+
+
+### FTRV01_GateLadderFit
+
+GateLadderFit
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip)
+
+
+### FTRV02_TravelRodKit
+
+TravelRodKit
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip)
+
+
 
 ![field-travel-tools-v1 — ladder_fit](../previews/catalog-20261024/field-travel-tools-v1-ladder_fit.jpg)
 

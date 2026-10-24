@@ -2,14 +2,72 @@
 
 **995 distribution records = 989 + 4 model candidates + 2 assemblies.** Existing six types are reused without increment; global shape independence is unconfirmed.
 
-|ID|日本語|English|中文|ZIP|
-|---|---|---|---|---|
-|CPT101_ChapelShell|小教会|Chapel shell|小教堂|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip)|
-|CPT102_SunAltar|日輪祭壇|Sun altar|日轮祭坛|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip)|
-|CPT103_PrayerKneeler|祈祷膝台|Prayer kneeler|祈祷跪凳|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip)|
-|CPT201_PaddedPell|詰め物標柱|Padded pell|填充练习柱|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip)|
-|CPTV01_Chapel|教会配置|Chapel assembly|教堂布置|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip)|
-|CPTV02_TrainingCourt|訓練場配置|Training court assembly|训练场布置|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip)|
+### CPT101_ChapelShell
+
+小教会
+
+Chapel shell
+
+小教堂
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip)
+
+
+### CPT102_SunAltar
+
+日輪祭壇
+
+Sun altar
+
+日轮祭坛
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip)
+
+
+### CPT103_PrayerKneeler
+
+祈祷膝台
+
+Prayer kneeler
+
+祈祷跪凳
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip)
+
+
+### CPT201_PaddedPell
+
+詰め物標柱
+
+Padded pell
+
+填充练习柱
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip)
+
+
+### CPTV01_Chapel
+
+教会配置
+
+Chapel assembly
+
+教堂布置
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip)
+
+
+### CPTV02_TrainingCourt
+
+訓練場配置
+
+Training court assembly
+
+训练场布置
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip)
+
+
 
 ## 日本語
 

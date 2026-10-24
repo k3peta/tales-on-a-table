@@ -14,7 +14,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_021__new thumbnail](../previews/material-variants-ft021-030/FT_021__new_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_021__new_thumb.png)
+
 ![FT_021__new comparison](../previews/material-variants-ft021-030/FT_021__new_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_021__new_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -24,7 +28,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_021__used thumbnail](../previews/material-variants-ft021-030/FT_021__used_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_021__used_thumb.png)
+
 ![FT_021__used comparison](../previews/material-variants-ft021-030/FT_021__used_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_021__used_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -34,7 +42,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_022__color thumbnail](../previews/material-variants-ft021-030/FT_022__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_022__color_thumb.png)
+
 ![FT_022__color comparison](../previews/material-variants-ft021-030/FT_022__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_022__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -44,7 +56,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_023__new thumbnail](../previews/material-variants-ft021-030/FT_023__new_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_023__new_thumb.png)
+
 ![FT_023__new comparison](../previews/material-variants-ft021-030/FT_023__new_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_023__new_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -54,7 +70,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_023__color thumbnail](../previews/material-variants-ft021-030/FT_023__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_023__color_thumb.png)
+
 ![FT_023__color comparison](../previews/material-variants-ft021-030/FT_023__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_023__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -64,7 +84,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_026__color thumbnail](../previews/material-variants-ft021-030/FT_026__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_026__color_thumb.png)
+
 ![FT_026__color comparison](../previews/material-variants-ft021-030/FT_026__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_026__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -74,7 +98,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_027__color thumbnail](../previews/material-variants-ft021-030/FT_027__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_027__color_thumb.png)
+
 ![FT_027__color comparison](../previews/material-variants-ft021-030/FT_027__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_027__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -84,7 +112,11 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_028__color thumbnail](../previews/material-variants-ft021-030/FT_028__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_028__color_thumb.png)
+
 ![FT_028__color comparison](../previews/material-variants-ft021-030/FT_028__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_028__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.
 
@@ -94,6 +126,10 @@ Nine accepted finishes (new2/used1/color6),13 rejected. Original geometry/UV0 re
 
 ![FT_030__color thumbnail](../previews/material-variants-ft021-030/FT_030__color_thumb.png)
 
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_030__color_thumb.png)
+
 ![FT_030__color comparison](../previews/material-variants-ft021-030/FT_030__color_comparison.png)
+
+[拡大原図 / Open full-size image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/material-variants-ft021-030/FT_030__color_comparison.png)
 
 比較画像: 左=原本、右=採用版 / Left original, right accepted.

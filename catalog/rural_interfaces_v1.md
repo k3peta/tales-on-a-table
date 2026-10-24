@@ -2,12 +2,34 @@
 
 900 previous distribution records + 4 = 904. Global historical shape independence is unconfirmed. BLEND and GLB are two formats per record.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|RI101_RaisedFlume|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)|71971|
-|RI102_SluiceDistributor|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)|73971|
-|RI103_DitchFence|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)|78306|
-|RI104_EavesDownchute|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)|68838|
+### RI101_RaisedFlume
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)
+
+71971
+
+
+### RI102_SluiceDistributor
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)
+
+73971
+
+
+### RI103_DitchFence
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)
+
+78306
+
+
+### RI104_EavesDownchute
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)
+
+68838
+
+
 
 ## Placement and limits
 
@@ -27,12 +49,34 @@ Model geometry and included display materials only are CC0-1.0. No source code, 
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|RI101_RaisedFlume|RaisedFlume|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)|
-|RI102_SluiceDistributor|SluiceDistributor|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)|
-|RI103_DitchFence|DitchFence|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)|
-|RI104_EavesDownchute|EavesDownchute|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)|
+### RI101_RaisedFlume
+
+RaisedFlume
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)
+
+
+### RI102_SluiceDistributor
+
+SluiceDistributor
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)
+
+
+### RI103_DitchFence
+
+DitchFence
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)
+
+
+### RI104_EavesDownchute
+
+EavesDownchute
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)
+
+
 
 ![rural-interfaces-v1 — ditch_fence](../previews/catalog-20261024/rural-interfaces-v1-ditch_fence.jpg)
 

@@ -2,10 +2,20 @@
 
 **985 distribution records = 983 + 2 components.** One local-use candidate and one composite accessory. Hawk and trowel together count once. The private arrangement adds zero records; historical shape independence is unconfirmed.
 
-|ID|Classification|ZIP|
-|---|---|---|
-|MRH201_ShoulderHod|local_use_candidate|[Download](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)|
-|MRH202_MortarHawkTrowel|composite_accessory|[Download](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)|
+### MRH201_ShoulderHod
+
+local_use_candidate
+
+[Download](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)
+
+
+### MRH202_MortarHawkTrowel
+
+composite_accessory
+
+[Download](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)
+
+
 
 MRH201 shoulder hod: open V-shaped trough, long handle, support block and shoulder pad. Metres, Z up; handle endZ0, approximately0.524m wide/0.704m trough length/1.4m tall. Opening faces-Y, backboard+Y. Upright pose is a carrying-tool reference, not a freestanding stability claim.
 
@@ -20,10 +30,20 @@ Original procedural models; no external model/image or held material used. Model
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|MRH201_ShoulderHod|ShoulderHod|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)|
-|MRH202_MortarHawkTrowel|MortarHawkTrowel|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)|
+### MRH201_ShoulderHod
+
+ShoulderHod
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)
+
+
+### MRH202_MortarHawkTrowel
+
+MortarHawkTrowel
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)
+
+
 
 ![masonry-handling-v2 — handling_overview](../previews/catalog-20261024/masonry-handling-v2-handling_overview.jpg)
 

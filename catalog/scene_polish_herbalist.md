@@ -2,13 +2,41 @@
 
 1008 distribution records = 1007 + one first-distributed herbalist arrangement. No new model geometry.
 
-|Scene|Counting|Download|
-|---|---|---|
-|horse|revision / supplemental, +0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip)|
-|winery|revision / supplemental, +0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip)|
-|cellar|revision / supplemental, +0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip)|
-|poultry|revision / supplemental, +0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/poultry-scene-v3.zip)|
-|herbalist|first arrangement +1|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip)|
+### horse
+
+revision / supplemental, +0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip)
+
+
+### winery
+
+revision / supplemental, +0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip)
+
+
+### cellar
+
+revision / supplemental, +0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip)
+
+
+### poultry
+
+revision / supplemental, +0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/poultry-scene-v3.zip)
+
+
+### herbalist
+
+first arrangement +1
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip)
+
+
 
 ## 日本語
 

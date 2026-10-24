@@ -2,17 +2,87 @@
 
 **1007 distribution records = 998 + 6 model candidates + 3 arrangements.** This is not a count of 1007 independent shapes. Eight existing types and one scene-only shelf derivative are not counted again.
 
-|ID|Kind|License|Download|
-|---|---|---|---|
-|CSH101|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip)|
-|CSH102|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip)|
-|CSH201|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip)|
-|CSH202|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip)|
-|CSH301|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip)|
-|CSH302|model|CC0-1.0|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip)|
-|CSH_SCENE_COBBLER|group|LicenseRef-Scene-Viewing-Rearranging|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip)|
-|CSH_SCENE_TAILOR|group|LicenseRef-Scene-Viewing-Rearranging|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip)|
-|CSH_SCENE_LEATHERWORKER|group|LicenseRef-Scene-Viewing-Rearranging|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip)|
+### CSH101
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip)
+
+
+### CSH102
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip)
+
+
+### CSH201
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip)
+
+
+### CSH202
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip)
+
+
+### CSH301
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip)
+
+
+### CSH302
+
+model
+
+CC0-1.0
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip)
+
+
+### CSH_SCENE_COBBLER
+
+group
+
+LicenseRef-Scene-Viewing-Rearranging
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip)
+
+
+### CSH_SCENE_TAILOR
+
+group
+
+LicenseRef-Scene-Viewing-Rearranging
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip)
+
+
+### CSH_SCENE_LEATHERWORKER
+
+group
+
+LicenseRef-Scene-Viewing-Rearranging
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip)
+
+
 
 ## 日本語
 

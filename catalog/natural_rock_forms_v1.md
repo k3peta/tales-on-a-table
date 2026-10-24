@@ -2,10 +2,20 @@
 
 909 previous records + 2 = 911 distribution records. Global historical shape independence is unconfirmed. BLEND and GLB are two formats per record.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|NR101_FlowstoneApron|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip)|231169|
-|NR102_ColumnarLedge|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip)|92874|
+### NR101_FlowstoneApron
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip)
+
+231169
+
+
+### NR102_ColumnarLedge
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip)
+
+92874
+
+
 
 ## Placement and limitations
 
@@ -23,10 +33,20 @@ Model geometry and embedded display materials only: CC0-1.0. No code, images, pr
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|NR101_FlowstoneApron|FlowstoneApron|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip)|
-|NR102_ColumnarLedge|ColumnarLedge|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip)|
+### NR101_FlowstoneApron
+
+FlowstoneApron
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip)
+
+
+### NR102_ColumnarLedge
+
+ColumnarLedge
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip)
+
+
 
 ![natural-rock-forms-v1 — columnar_caps](../previews/catalog-20261024/natural-rock-forms-v1-columnar_caps.jpg)
 

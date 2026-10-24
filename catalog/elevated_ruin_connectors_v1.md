@@ -2,10 +2,20 @@
 
 898 previous records + 2 = 900 distribution records. This is not a certified global independent-shape count. BLEND and GLB are two formats of each record.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|ER101_StairTJunction|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)|110862|
-|ER102_RuinArchWalkway|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)|116512|
+### ER101_StairTJunction
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)
+
+110862
+
+
+### ER102_RuinArchWalkway
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)
+
+116512
+
+
 
 ## Placement and limitations
 
@@ -23,10 +33,20 @@ Model geometry and embedded display materials only are CC0-1.0. No source code, 
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|ER101_StairTJunction|StairTJunction|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)|
-|ER102_RuinArchWalkway|RuinArchWalkway|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)|
+### ER101_StairTJunction
+
+StairTJunction
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)
+
+
+### ER102_RuinArchWalkway
+
+RuinArchWalkway
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)
+
+
 
 ![elevated-ruin-connectors-v1 — arch_underpass](../previews/catalog-20261024/elevated-ruin-connectors-v1-arch_underpass.jpg)
 

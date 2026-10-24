@@ -2,11 +2,39 @@
 
 875 existing records + 3 = 878 distribution records. RS201 and RS202 are structural derivatives; RS203 is a local-use candidate. Global independent design count is unverified. BLEND and GLB are two formats, not separate assets.
 
-|ID|Model|Classification|Download|Bytes|
-|---|---|---|---|---:|
-|RS201|Pasture slope bay|structural_derivative|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)|125379|
-|RS202|Garden slope bay|structural_derivative|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)|176959|
-|RS203|Fence crossing stile|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)|174748|
+### RS201
+
+Pasture slope bay
+
+structural_derivative
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)
+
+125379
+
+
+### RS202
+
+Garden slope bay
+
+structural_derivative
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)
+
+176959
+
+
+### RS203
+
+Fence crossing stile
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)
+
+174748
+
+
 
 ## Placement limits
 
@@ -23,13 +51,41 @@ Model geometry and included display materials only are CC0-1.0. No images, sourc
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|RS201|Pasture slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)|
-|RS202|Garden slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)|
-|RS203|Fence crossing stile|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)|
-|RF01|Pasture inline shared post|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF01_CC0.zip)|
-|RF05|Garden inline shared post|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF05_CC0.zip)|
+### RS201
+
+Pasture slope bay
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)
+
+
+### RS202
+
+Garden slope bay
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)
+
+
+### RS203
+
+Fence crossing stile
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)
+
+
+### RF01
+
+Pasture inline shared post
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF01_CC0.zip)
+
+
+### RF05
+
+Garden inline shared post
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF05_CC0.zip)
+
+
 
 ![rustic-slope-connections-v2 — catalog_3](../previews/catalog-20261024/rustic-slope-connections-v2-catalog_3.jpg)
 

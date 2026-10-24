@@ -2,11 +2,27 @@
 
 882 existing records + 3 = 885 distribution records. Water lily, horsetail and flowering allium. BLEND and GLB are two formats of each record. Global historical design independence is unverified; no claim of three globally unique designs.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|BD201_WaterLily|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)|158198|
-|BD202_Horsetail|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)|295660|
-|BD203_FloweringAllium|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)|221678|
+### BD201_WaterLily
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)
+
+158198
+
+
+### BD202_Horsetail
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)
+
+295660
+
+
+### BD203_FloweringAllium
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)
+
+221678
+
+
 
 [Checksums](../distributions/botanical-diversity-v2/SHA256SUMS.txt). Model geometry and embedded display materials only: CC0-1.0. No generation code, private records, images or assembled scenes are distributed. The separate 12-record farm reuse review remains on hold and is not included.
 
@@ -25,11 +41,27 @@ No growth or floating-water physics validation. Place water lily at the water el
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|BD201_WaterLily|WaterLily|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)|
-|BD202_Horsetail|Horsetail|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)|
-|BD203_FloweringAllium|FloweringAllium|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)|
+### BD201_WaterLily
+
+WaterLily
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)
+
+
+### BD202_Horsetail
+
+Horsetail
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)
+
+
+### BD203_FloweringAllium
+
+FloweringAllium
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)
+
+
 
 ![botanical-diversity-v2 — floating_leaf_closeup](../previews/catalog-20261024/botanical-diversity-v2-floating_leaf_closeup.jpg)
 

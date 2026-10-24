@@ -2,12 +2,34 @@
 
 878 existing records + 4 = 882 distribution records. Bellflower, iris, pea vine and wall ivy. BLEND and GLB are two formats of each record. Global historical design independence is unverified; no claim of four globally unique designs.
 
-|ID|Download|Bytes|
-|---|---|---:|
-|BD101_Bellflower|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip)|201765|
-|BD102_Iris|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip)|97159|
-|BD103_PeaVine|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)|176655|
-|BD104_LobedIvy|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)|208293|
+### BD101_Bellflower
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip)
+
+201765
+
+
+### BD102_Iris
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip)
+
+97159
+
+
+### BD103_PeaVine
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)
+
+176655
+
+
+### BD104_LobedIvy
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)
+
+208293
+
+
 
 [Checksums](../distributions/botanical-diversity-v1/SHA256SUMS.txt). Model geometry and embedded display materials only: CC0-1.0. No generation code, private records, images or assembled scenes are distributed.
 
@@ -31,12 +53,34 @@ BD101 Bellflower has use similarity to existing FP05 Bluebells. Geometric equiva
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|BD101_Bellflower|Bellflower|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip)|
-|BD102_Iris|Iris|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip)|
-|BD103_PeaVine|PeaVine|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)|
-|BD104_LobedIvy|LobedIvy|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)|
+### BD101_Bellflower
+
+Bellflower
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip)
+
+
+### BD102_Iris
+
+Iris
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip)
+
+
+### BD103_PeaVine
+
+PeaVine
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)
+
+
+### BD104_LobedIvy
+
+LobedIvy
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)
+
+
 
 ![botanical-diversity-v1 — flower_closeup](../previews/catalog-20261024/botanical-diversity-v1-flower_closeup.jpg)
 

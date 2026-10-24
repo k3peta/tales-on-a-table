@@ -16,10 +16,20 @@ Original model geometry and embedded-material CC0 scope is preserved. Code, rend
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|FCSV01_ConstructionSite|ConstructionSite|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)|
-|FCSV03_GateAccessExample|GateAccessExample|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)|
+### FCSV01_ConstructionSite
+
+ConstructionSite
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
+
+
+### FCSV03_GateAccessExample
+
+GateAccessExample
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
+
+
 
 ![city-scenes-quality-v3 — construction_overview](../previews/catalog-20261024/city-scenes-quality-v3-construction_overview.jpg)
 

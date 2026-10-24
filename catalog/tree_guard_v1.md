@@ -15,9 +15,13 @@ Model geometry and embedded display materials only: CC0-1.0. No code, private re
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|RG101_OpenTreeGuard|OpenTreeGuard|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/tree-guard-v1/RG101_OpenTreeGuard_CC0.zip)|
+### RG101_OpenTreeGuard
+
+OpenTreeGuard
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/tree-guard-v1/RG101_OpenTreeGuard_CC0.zip)
+
+
 
 ![tree-guard-v1 — open_core_closeup](../previews/catalog-20261024/tree-guard-v1-open_core_closeup.jpg)
 

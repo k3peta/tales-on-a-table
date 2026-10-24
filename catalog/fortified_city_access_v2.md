@@ -2,13 +2,41 @@
 
 **945 distribution records = 941 + 2 component candidates + 2 assembly examples.** One gatehouse revision adds zero records and zero new designs. Four instances of existing ER101 stairs are reuse, not new stairs. Assemblies are not independent new shapes; global shape independence remains unconfirmed. The original gatehouse ZIP and initial vignettes remain available unchanged.
 
-|Package|Classification|Download|
-|---|---|---|
-|FCS105_RoadGatehouse_access_v2|revision_not_new|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip)|
-|FCS201_ScaffoldCorner|local_connection_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)|
-|FCS202_DeckEndGuard|structural_accessory|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)|
-|FCSV03_GateAccessExample|assembly_not_new_shape|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)|
-|FCSV04_ScaffoldCornerExample|assembly_not_new_shape|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)|
+### FCS105_RoadGatehouse_access_v2
+
+revision_not_new
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip)
+
+
+### FCS201_ScaffoldCorner
+
+local_connection_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)
+
+
+### FCS202_DeckEndGuard
+
+structural_accessory
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)
+
+
+### FCSV03_GateAccessExample
+
+assembly_not_new_shape
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
+
+
+### FCSV04_ScaffoldCornerExample
+
+assembly_not_new_shape
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)
+
+
 
 ## Connections and limitations
 
@@ -23,12 +51,34 @@ FCSV03 is a gate rear-access example; FCSV04 demonstrates corner and end connect
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|FCS201_ScaffoldCorner|ScaffoldCorner|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)|
-|FCS202_DeckEndGuard|DeckEndGuard|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)|
-|FCSV03_GateAccessExample|GateAccessExample|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)|
-|FCSV04_ScaffoldCornerExample|ScaffoldCornerExample|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)|
+### FCS201_ScaffoldCorner
+
+ScaffoldCorner
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)
+
+
+### FCS202_DeckEndGuard
+
+DeckEndGuard
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)
+
+
+### FCSV03_GateAccessExample
+
+GateAccessExample
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
+
+
+### FCSV04_ScaffoldCornerExample
+
+ScaffoldCornerExample
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)
+
+
 
 ![fortified-city-access-v2 — gate_access](../previews/catalog-20261024/fortified-city-access-v2-gate_access.jpg)
 

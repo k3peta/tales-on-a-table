@@ -15,9 +15,13 @@ Validated for Blender 5.2.2. GLB transparency needs KHR_materials_transmission a
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|VF001|湖畔の大理石噴水|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip)|
+### VF001
+
+湖畔の大理石噴水
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip)
+
+
 
 ![vf001-fountain-v2 — fountain-detail](../previews/catalog-20261024/vf001-fountain-v2-fountain-detail.jpg)
 

@@ -2,16 +2,78 @@
 
 921 + 6 standalone model records + 2 assembled vignette records = **929 distribution records**. The six standalone candidates comprise four local-use candidates and two structural variants. Three existing types reused in the vignettes are not added again. Vignettes and scene fixtures are not additional independent shapes; global shape independence remains unconfirmed.
 
-|ID|Classification|Download|Bytes|
-|---|---|---|---:|
-|FCS101_TimberScaffold|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)|106336|
-|FCS102_TreadwheelHoist|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)|219378|
-|FCS103_UnfinishedMasonry|structural_variant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)|88992|
-|FCS104_MasonsDressingBank|structural_variant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)|86468|
-|FCS105_RoadGatehouse|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)|390688|
-|FCS106_WatchKiosk|local_use_candidate|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)|101310|
-|FCSV01_ConstructionSite|vignette_reused_components|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)|559301|
-|FCSV02_RoadEntrance|vignette_reused_components|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)|903641|
+### FCS101_TimberScaffold
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)
+
+106336
+
+
+### FCS102_TreadwheelHoist
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)
+
+219378
+
+
+### FCS103_UnfinishedMasonry
+
+structural_variant
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)
+
+88992
+
+
+### FCS104_MasonsDressingBank
+
+structural_variant
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)
+
+86468
+
+
+### FCS105_RoadGatehouse
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)
+
+390688
+
+
+### FCS106_WatchKiosk
+
+local_use_candidate
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)
+
+101310
+
+
+### FCSV01_ConstructionSite
+
+vignette_reused_components
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
+
+559301
+
+
+### FCSV02_RoadEntrance
+
+vignette_reused_components
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)
+
+903641
+
+
 
 ## Use and limitations
 
@@ -35,17 +97,69 @@ CC0-1.0 applies to model geometry and embedded materials, including verified CC0
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
-|ID|名称 / Name|Download|
-|---|---|---|
-|RS201|Pasture slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)|
-|FCS101_TimberScaffold|TimberScaffold|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)|
-|FCS102_TreadwheelHoist|TreadwheelHoist|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)|
-|FCS103_UnfinishedMasonry|UnfinishedMasonry|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)|
-|FCS104_MasonsDressingBank|MasonsDressingBank|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)|
-|FCS105_RoadGatehouse|RoadGatehouse|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)|
-|FCS106_WatchKiosk|WatchKiosk|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)|
-|FCSV01_ConstructionSite|ConstructionSite|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)|
-|FCSV02_RoadEntrance|RoadEntrance|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)|
+### RS201
+
+Pasture slope bay
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)
+
+
+### FCS101_TimberScaffold
+
+TimberScaffold
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)
+
+
+### FCS102_TreadwheelHoist
+
+TreadwheelHoist
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)
+
+
+### FCS103_UnfinishedMasonry
+
+UnfinishedMasonry
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)
+
+
+### FCS104_MasonsDressingBank
+
+MasonsDressingBank
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)
+
+
+### FCS105_RoadGatehouse
+
+RoadGatehouse
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)
+
+
+### FCS106_WatchKiosk
+
+WatchKiosk
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)
+
+
+### FCSV01_ConstructionSite
+
+ConstructionSite
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
+
+
+### FCSV02_RoadEntrance
+
+RoadEntrance
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)
+
+
 
 ![fortified-city-sites-v1 — construction_hoist](../previews/catalog-20261024/fortified-city-sites-v1-construction_hoist.jpg)
 

@@ -2,11 +2,39 @@
 
 998 distribution records = 995 + 2 model candidates + 1 assembly. Six reused types are not added. Global shape independence is unconfirmed.
 
-|ID|日本語|English|中文|ZIP|
-|---|---|---|---|---|
-|INF101_CanvasStretcher|帆布担架|Canvas stretcher|帆布担架|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip)|
-|INF102_BedsideCantileverTray|片持ち寝台トレイ|Bedside cantilever tray|床边悬臂托盘|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip)|
-|INFV01_FantasyInfirmary|治療院配置|Fantasy infirmary assembly|治疗院布置|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip)|
+### INF101_CanvasStretcher
+
+帆布担架
+
+Canvas stretcher
+
+帆布担架
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip)
+
+
+### INF102_BedsideCantileverTray
+
+片持ち寝台トレイ
+
+Bedside cantilever tray
+
+床边悬臂托盘
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip)
+
+
+### INFV01_FantasyInfirmary
+
+治療院配置
+
+Fantasy infirmary assembly
+
+治疗院布置
+
+[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip)
+
+
 
 ## 日本語
 
