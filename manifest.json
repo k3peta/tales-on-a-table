@@ -2341,7 +2341,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_023_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "e60c6a23a841d04b2caa09a8720467107ddef8eba9b595668318dd89f702d6a4",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_023__repair",
+          "base_id": "FH_023",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "網干し木枠の過度な反復木目を抑え、柱梁・接合部の視認性を改善。",
+          "zip": "FH_023__repair_CC0.zip",
+          "bytes": 3614009,
+          "sha256": "04534ef0c079d18c09ffd1624bc2c7aee2e8686ec4dcb3cb160fa1ee7c121e2a",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_023__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_024",
@@ -2445,7 +2462,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_027_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "775c46225e34db60fbde2f08e94ee6212cfcc4d4a2319e384d915f584b27ed2c",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_027__repair",
+          "base_id": "FH_027",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "魚運び木箱の強い木目コントラストを抑え、板と把手の構造を明瞭化。",
+          "zip": "FH_027__repair_CC0.zip",
+          "bytes": 12730926,
+          "sha256": "8b445412e3dad4f62320dfbad0633912803dc77e5fe74565a660598316d028f2",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_027__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_028",
@@ -2471,7 +2505,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_028_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "6ba431b6e5ddefa3fcc2262fd799ea4ca683080da3b6345d574fac7f9f20ced8",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_028__repair",
+          "base_id": "FH_028",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "塩漬け桶の反復木目を抑制。錆びた箍と元形状は維持。",
+          "zip": "FH_028__repair_CC0.zip",
+          "bytes": 13307686,
+          "sha256": "39640687571d1c4f5d3ba9801cbe650b849c24bef83d0673be863c42dc7a4041",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_028__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_029",
