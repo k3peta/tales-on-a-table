@@ -161,4 +161,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality38 variants](variant-06.md):145 separately counted material variants; base1008 unchanged. ARM014/021 public ZIP/member/image identity and final-ZIP vertex-color evidence matched. ARM001/003 GLB correction remains pending.
 
-[Quality39 variants](variant-06.md):147 separately counted material variants; base1008 unchanged. Latest ARM026/031/033 public image/ZIP match pending.
+[Quality39 variants](variant-06.md):147 separately counted material variants; base1008 unchanged. Latest ARM026/031/033 public image/ZIP match verified, including final-ZIP spatial vertex-color correspondence.
