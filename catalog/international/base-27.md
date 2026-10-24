@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Bench wizard volumes
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL025](../../previews/alchemy-forest14/thumbnails/AL025.png)](../../previews/alchemy-forest14/renders/AL025.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL025.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Desk side book pile
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL026](../../previews/alchemy-forest14/thumbnails/AL026.png)](../../previews/alchemy-forest14/renders/AL026.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL026.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Chest reference stack
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL027](../../previews/alchemy-forest14/thumbnails/AL027.png)](../../previews/alchemy-forest14/renders/AL027.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL027.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -92,6 +98,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW002
 
 **Stone mortar and pestle**
@@ -114,13 +122,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW003
 
 **Corked apothecary bottles**
 
 Corked apothecary bottles
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW003](../../previews/alchemy-forest14/thumbnails/FW003.png)](../../previews/alchemy-forest14/renders/FW003.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/FW003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -158,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW005
 
 **Hanging herb drying rail**
@@ -180,13 +194,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW006
 
 **Wicker gathering basket**
 
 Wicker gathering basket
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW006](../../previews/alchemy-forest14/thumbnails/FW006.png)](../../previews/alchemy-forest14/renders/FW006.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/FW006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -224,6 +242,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW008
 
 **Iron cauldron and tripod**
@@ -245,6 +265,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW009
 
@@ -268,6 +290,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW010
 
 **Copper kettle**
@@ -289,6 +313,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW011
 
@@ -312,6 +338,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+
 ## FW012
 
 **Rainwater barrel**
@@ -333,6 +361,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
+
+**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
 
 ## FW013
 

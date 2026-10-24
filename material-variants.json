@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 124,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1779,6 +1779,57 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-051-v1/AT_051__color_blue_CC0.zip"
+    },
+    {
+      "id": "AT_052__color_blue",
+      "base_id": "AT_052",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_blue",
+      "description": "Ring stand textile: oxblood to clear blue; rings and gems retained.",
+      "zip": "AT_052__color_blue_CC0.zip",
+      "bytes": 781283,
+      "sha256": "b5aed21c368b79162515cffeef6cdbd81cf7e63ce290b402a4dd4074719372cd",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_052__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "AT_054__color_green",
+      "base_id": "AT_054",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_green",
+      "description": "Cameo background: green; relief and frame retained.",
+      "zip": "AT_054__color_green_CC0.zip",
+      "bytes": 1089608,
+      "sha256": "038053fe2b0df570bf60d32ca85fcb3bad398ab4d33346aca6c9a695ac75ea1d",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_054__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "AT_060__color_orange",
+      "base_id": "AT_060",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_orange",
+      "description": "Bird head/wings: orange decorative finish instead of green patina color.",
+      "zip": "AT_060__color_orange_CC0.zip",
+      "bytes": 1133859,
+      "sha256": "2e96767ae2e74bf26396faf40ca0f6a7e9e9703ea8085da116e0c42c5c06d95e",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_060__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
     }
   ]
 }

@@ -1,0 +1,398 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "AL016",
+      "source_zip_sha256": "b5f99094bb1fb1c39bd7bd02be8e52dd5754b1e23d2547c1b08f47efdceb0be1",
+      "source_glb_sha256": "ae76212d13020397264cde813d5ed2011a6efda53b397c418e686f3ea9ffb2b7",
+      "camera_location": [
+        0.7559999823570251,
+        -1.2964999675750732,
+        1.00600004196167
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.338781067758646e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.1880000829696655,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL016.png",
+      "image_source_sha256": "3c4bce02502489e2491aa194040b2c87ac957f780b3fda7f7c7ac3458ccc16cd",
+      "image_sha256": "3e24f8ace78899f9eedfa26debc13f570b2cbef4c3e2a3b0fabab04ffcbd4738",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL016.png",
+      "thumbnail_source_sha256": "08b528c7ddd4786523c06c508091719fd54d29d826756af0c618976dfcb57459",
+      "thumbnail_sha256": "c7ff912b7a2ae3fdba4ed75915309b8673df7a2a50955d9c80eb8057e7c0e02e"
+    },
+    {
+      "id": "AL017",
+      "source_zip_sha256": "99108a59bf2a77fdb7f89223ffa8bf78245bd24377d772d4d63238040250ea54",
+      "source_glb_sha256": "d65f5183d3f6c01dd5232b790f39a4df718b4ae49c54fcd9ba1a83cfd521ed6f",
+      "camera_location": [
+        0.3254999816417694,
+        -0.5579999685287476,
+        0.398749977350235
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.5115000009536743,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL017.png",
+      "image_source_sha256": "5043220f8e2bcf5249883a8e3bc6db34b31118aa7fef1f4755d6b1a7485a48e5",
+      "image_sha256": "1d5ad929c07eaa1b0add6bf4f7b15226cb396cc78291093f2a2a8343b85e7882",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL017.png",
+      "thumbnail_source_sha256": "f7e59fc003e0c10ab514e7748eb3be0b2a538a70cffaa673dee8536c9c729be7",
+      "thumbnail_sha256": "1ab6ffa705155e5028eafdfceb0d5d6ed2ebf5e480c7cbf8a9eb17fae6af2e89"
+    },
+    {
+      "id": "AL018",
+      "source_zip_sha256": "74f86c0489a096661b66427a906908b8da41763d1f24c93b8c0b62f4e7798c30",
+      "source_glb_sha256": "860d2101ab4874e5612af5dbdc7ee9c1091a7e908ff9e1699e6a24e6dc8c4c85",
+      "camera_location": [
+        0.33596721291542053,
+        -0.6133587956428528,
+        0.5281700491905212
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.5622456073760986,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL018.png",
+      "image_source_sha256": "9fc22a3e366ce1a9ff0260fdcf29c8e5b47042f446d236c667ffc939feaa36cc",
+      "image_sha256": "b5a42cafdfefbb53c5893062bd44a55cb5cfcbfdc5075169553b448bbb635886",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL018.png",
+      "thumbnail_source_sha256": "0f6acefe9f9961577b5ebaa0625646bbf2fc45e60ef8469af0739fe2f7234b4c",
+      "thumbnail_sha256": "36db7e4ec4c9a8b809fbfb1882a9c37fcb715ddfc35f954be3a06bae6aedf0bf"
+    },
+    {
+      "id": "AL019",
+      "source_zip_sha256": "90bd693c5607b98edde6641b35608c99f689583f463258a5bce0b7bc67ab62b6",
+      "source_glb_sha256": "7d8c348c26da829e5b2b1643c3582200818edb72ca20753ca384795916058517",
+      "camera_location": [
+        0.6327105760574341,
+        -1.0846467018127441,
+        0.9340013265609741
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 0.9942594766616821,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL019_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL019.png",
+      "image_source_sha256": "4cde59f754415a71c90705b5f6aeffd6865dfad50ee1c6cef9b0b120e2d1665a",
+      "image_sha256": "4cb84dd5e094cf2755104c0362643ae20ce84fd9aa281943b3f03b790d6e5261",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL019.png",
+      "thumbnail_source_sha256": "19f95e9b6b4e2bd1b8f39da26d195b3927af541d0f8b40acc0ce0aad3116c1ab",
+      "thumbnail_sha256": "028c224019b49768ea43b016824aef2fab90053be1ac29eabf725f749146138e"
+    },
+    {
+      "id": "AL020",
+      "source_zip_sha256": "a1869eaa3a4a85ea154c433fd3040165c9a12bb29f942d60eb3b6d86d59a4b98",
+      "source_glb_sha256": "70eefba80b4c56d9c8978f46d01ad01545c50facc1024c0137e2add2bb936c58",
+      "camera_location": [
+        0.3149999976158142,
+        -0.5400000214576721,
+        0.38499999046325684
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.4950000047683716,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL020.png",
+      "image_source_sha256": "6b98282d04b031a47c4b6701495e16e1d59ed295be5e36e45f6b6621e314f2b1",
+      "image_sha256": "b17bafd3d7b814d0a08a5e668173aab92745a5eca5ac20c54912c27e89f1fc94",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL020.png",
+      "thumbnail_source_sha256": "1798089d090d2264706be72dcf5df09007019ed9e51ef1964486104c70af78c3",
+      "thumbnail_sha256": "c06bca0b814b675049f5713fddd6d73f63b9b83dcddc1c48b18648ff383d0dec"
+    },
+    {
+      "id": "AL021",
+      "source_zip_sha256": "fcf70005153b2be25be868fe73ce718ac41cdf8fa7d5eba76349c00c6585ccb9",
+      "source_glb_sha256": "053f2285a8c6982b1e9bbb6c69929f8dfeb126198b275150f9b621209151ca07",
+      "camera_location": [
+        0.5034998655319214,
+        -0.5549999475479126,
+        0.826499879360199
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        3.2891296797288305e-08,
+        0.6107257604598999
+      ],
+      "camera_ortho_scale": 0.4994999170303345,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL021.png",
+      "image_source_sha256": "ec9b46935bc801f6be8730347e43aae16be7a4c1b56e3715ab871556d84365af",
+      "image_sha256": "4402d3489655302742922b843873fb0894a29384bbb6add99ce0427253037f2b",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL021.png",
+      "thumbnail_source_sha256": "391ab10667f5f74d05e6eae6c61af512af47a820705ff3b997d7620814fb767d",
+      "thumbnail_sha256": "22b2c43cd77a3e9d648822e69fa5c69fafa89950323f155744c57605662c29ea"
+    },
+    {
+      "id": "AL022",
+      "source_zip_sha256": "2fc55367890c4efc813d35a37b0af04aab2c5a6a4b68217a1faab4e0b70c7bc7",
+      "source_glb_sha256": "88406a9e11b7e0c35de81acc573a33db267bea5b671c3962cbd2b4bf612c0a61",
+      "camera_location": [
+        1.1024998426437378,
+        -1.902249813079834,
+        1.552499771118164
+      ],
+      "camera_rotation_euler": [
+        1.104056715965271,
+        -1.1543548339432164e-09,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 1.7324999570846558,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL022.png",
+      "image_source_sha256": "bad8b3ed7675cb7cb6a93578bd7abb2e66f79741fd9792b0b94e5692bdef23b0",
+      "image_sha256": "42f25c3bade858592ae0e50d11c0dcf44e02a472682d354e8c0d04f687b23dde",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL022.png",
+      "thumbnail_source_sha256": "bf0f472da9f5438bc76c7dd1cdc4b65777256dd475d80b22ed43d62b5b540075",
+      "thumbnail_sha256": "e94631b6d794916826b61563de282ad5885ae5e65ddec07d53869576291e2ae0"
+    },
+    {
+      "id": "AL023",
+      "source_zip_sha256": "8201cba91e39247619e1dcbefcd9a131b812686b3552a6645e94c9a1aa6b86da",
+      "source_glb_sha256": "41e4e2a8d5c6f22388266dd8a1e65144b40678592fc27d63958705274f73b434",
+      "camera_location": [
+        0.6604499816894531,
+        -1.132200002670288,
+        0.9749499559402466
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.037850022315979,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL023.png",
+      "image_source_sha256": "62c5a0e1c49f3394bd3b2325e783c6b1f3b492cc5ac6b26e16107e8a092a8c4d",
+      "image_sha256": "5a130af8c98f5e8eeff1caa8dc20981542bbb6e592fe8d6fb8dba1bffeebc773",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL023.png",
+      "thumbnail_source_sha256": "9219b15915a7a8f9c60fee1240572844855d138be32de893d98a71ac5cdc81f3",
+      "thumbnail_sha256": "6c239849c088a6f3011e0d7bb40ebbd8a0e08af17bb6a525539700a037ce6b16"
+    },
+    {
+      "id": "AL024",
+      "source_zip_sha256": "12c904a8e363d4965c8547c36d584810da4afd3bff6bfb8d0c725c72630dd306",
+      "source_glb_sha256": "7b73a44b32131e8a9b4f17d22ae38e3c94bc5fbc13788035bc2e3dab837ad780",
+      "camera_location": [
+        0.40424996614456177,
+        -0.6929999589920044,
+        0.5967499613761902
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.6352499723434448,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL024.png",
+      "image_source_sha256": "e7ff96ca186b5775962463202e8794e7596d6e5f9c214c4c4abcb272543f1388",
+      "image_sha256": "9541a4e526df847c6ac5d31751ffb69ffa7b2f73150cb821482c8ebdb3571df2",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL024.png",
+      "thumbnail_source_sha256": "04da8bafd5f0da399b9f6153cf627b3f7c0ec2852595f465d72bc1ab6d87f958",
+      "thumbnail_sha256": "7a5c357c7217c700abf37dcf8dd8e1a1c7cc594856a438874493074ddf2e705b"
+    },
+    {
+      "id": "AL025",
+      "source_zip_sha256": "b89cc4bc0fdbfeb3d1f5accdcd3efe062a2476be9c7e8883f9e923d2327be466",
+      "source_glb_sha256": "7d191b3e0a14525b19aefabb8aa67e9ea3f1903ee413e632b2fe8be20702d0b0",
+      "camera_location": [
+        0.4309200048446655,
+        -0.7387200593948364,
+        0.6249200105667114
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.6885719895362854,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL025_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL025.png",
+      "image_source_sha256": "6c7a7ed96cf88c7ece7c7d79ede57001c41d7cf30b0af326d852fd00b94c973e",
+      "image_sha256": "7b479210eac6c4546b578993d5a5130341f0b730fae58e0c86d97f627279285e",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL025.png",
+      "thumbnail_source_sha256": "b3cdeb98322b7bfb5e64386c6ba5536b3f516ec26bb4f8dcfca372fe0550ac26",
+      "thumbnail_sha256": "111d1de2e6c3ef50b322a047639b24e9264eaded043352ba9e9bb9858d774253"
+    },
+    {
+      "id": "AL026",
+      "source_zip_sha256": "ff433e001c1df8d9372957bd3a17dfb718a19ae7773f685465ca84074d4b50e9",
+      "source_glb_sha256": "5f8e5b24d1d8b69552e84b81c981bbaad689f543825cc60f244b7d0cddf2896a",
+      "camera_location": [
+        0.5063403248786926,
+        -0.8656441569328308,
+        0.706614077091217
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        3.57157219355031e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 0.7935935854911804,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL026_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL026.png",
+      "image_source_sha256": "4ae0792f9b849974f9ad407c8425c95727a8a4b0173ed23d65ca5ec74d8aa9dc",
+      "image_sha256": "13cac390b4beded752529f8bc3c0e7dacfc88608a987aeeb7ce225c208cbf553",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL026.png",
+      "thumbnail_source_sha256": "de66206fb83d8d3ab1019dcfdf3281fdaa0665610af5b520500deac08a2182cf",
+      "thumbnail_sha256": "28b4c6690ffdbd2dc364d02c160528aab813d882db0e8bf311fc433a8be15f00"
+    },
+    {
+      "id": "AL027",
+      "source_zip_sha256": "3a2449ca53946840d4ed2bf6512ef9776e9c3ff7b214c3595c1b28716cea01bc",
+      "source_glb_sha256": "cfa8f0031d8508d5873186c504ff3a6911f3b31f6a3d01a71ef4ff495575fece",
+      "camera_location": [
+        0.45330849289894104,
+        -0.7744357585906982,
+        0.6166639924049377
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.7102290987968445,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL027_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/AL027.png",
+      "image_source_sha256": "9ae0227bcbce640523c094720563f618549894bcd7a91db19488fe11e599dd9e",
+      "image_sha256": "0cb63599cd6c9b78baea66aaaa5b69d721afae4ac63ef4b0576f967f65fe2e51",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/AL027.png",
+      "thumbnail_source_sha256": "dbd64b6f37f8bd2319627f88edf8419f9cd7efc214fd9ea0f05cc459ed95779f",
+      "thumbnail_sha256": "7e3e80b0dceede97b387a5cac59691a4a4800a749d35ad498a8c4129fe15156a"
+    },
+    {
+      "id": "FW003",
+      "source_zip_sha256": "f5a51f7b38cc2ddf23db3ceffebf63116205c164316c38908550766907db50b0",
+      "source_glb_sha256": "3d3e27e745c6c1dfc0d70dfa358ffadf89a92e27298026ecfcf5d61cd7f0f4b1",
+      "camera_location": [
+        0.4787999391555786,
+        -0.8215499520301819,
+        0.6325499415397644
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.7523999214172363,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/FW003.png",
+      "image_source_sha256": "a3bedcd55ae1b6e0d703d7ae4df0db084107275641ff0e61111fad277c138200",
+      "image_sha256": "7d0a918a7ddcdc846d2ad397b8c29c0780f42d6f3da87ffb0402d42c469d5d80",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/FW003.png",
+      "thumbnail_source_sha256": "5890debd23d61df795dd682b1cde1d86078d790f2123b7c284fb821906f105fc",
+      "thumbnail_sha256": "a7ca25df59102d776f041a7da4f9e5ec11b2764b5926cb6e44608181f10edc4b"
+    },
+    {
+      "id": "FW006",
+      "source_zip_sha256": "82718e23402496c9f402787e990c08324e85777264e10a8a2d23473014373c4c",
+      "source_glb_sha256": "da61ad295b0a6b0b8ade9aae6bd2c9f7ca6eca3a32c0fa29785ff49f2919fa28",
+      "camera_location": [
+        0.6275558471679688,
+        -1.0758099555969238,
+        0.9263918995857239
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.0358896255493164,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/alchemy-forest14/renders/FW006.png",
+      "image_source_sha256": "8dc0036e8edb203416bb06976ced6e63cc8bd6c3dd2cfe0e288b69b05d853784",
+      "image_sha256": "00f2ec3bb7e0235729a69847238483020b6ff0061a043af6229b4ccbe819423c",
+      "thumbnail": "previews/alchemy-forest14/thumbnails/FW006.png",
+      "thumbnail_source_sha256": "84c551616ff4788744ff7fe8beb0b7f1b5dfccdbd10af2449a4dc9ff1f63aab5",
+      "thumbnail_sha256": "5a658f2ee233a07538f852ffa980dd1d3127be2bda12c56fefa82c5694d653d9"
+    }
+  ]
+}

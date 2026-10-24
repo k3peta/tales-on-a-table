@@ -340,6 +340,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
+[Quill placement revision and comparison](../material_variants_at052_061.md). Original download retained.
+
 ## AT_057
 
 **Nine-drawer cabinet**
@@ -383,6 +385,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_03.en.md) · [Catalogue 2](../../catalog/curios-tools_03.md) · [Catalogue 3](../../catalog/curios-tools_03.zh-CN.md)
+
+**Unresolved:**98392 triangles, budget/redesign issue.
 
 ## AT_059
 

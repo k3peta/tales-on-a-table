@@ -370,7 +370,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Storage chest
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL016](../../previews/alchemy-forest14/thumbnails/AL016.png)](../../previews/alchemy-forest14/renders/AL016.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -392,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Bound volumes
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL017](../../previews/alchemy-forest14/thumbnails/AL017.png)](../../previews/alchemy-forest14/renders/AL017.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -414,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Ink and quill
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL018](../../previews/alchemy-forest14/thumbnails/AL018.png)](../../previews/alchemy-forest14/renders/AL018.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL018.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -436,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Stool
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL019](../../previews/alchemy-forest14/thumbnails/AL019.png)](../../previews/alchemy-forest14/renders/AL019.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL019.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -458,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Crucibles
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL020](../../previews/alchemy-forest14/thumbnails/AL020.png)](../../previews/alchemy-forest14/renders/AL020.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -480,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Copper ladle
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL021](../../previews/alchemy-forest14/thumbnails/AL021.png)](../../previews/alchemy-forest14/renders/AL021.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL021.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -502,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Wall instrument chart
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL022](../../previews/alchemy-forest14/thumbnails/AL022.png)](../../previews/alchemy-forest14/renders/AL022.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL022.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -524,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Bucket
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL023](../../previews/alchemy-forest14/thumbnails/AL023.png)](../../previews/alchemy-forest14/renders/AL023.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL023.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -546,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Hourglass
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL024](../../previews/alchemy-forest14/thumbnails/AL024.png)](../../previews/alchemy-forest14/renders/AL024.png)
+
+[Full-size image](../../previews/alchemy-forest14/renders/AL024.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

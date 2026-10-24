@@ -6918,7 +6918,26 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_056_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "a15c66c03f87a1d637b7568e47f9391ee248d69fdaa3e2e9f7431ef84d41bd80",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_056__repair",
+          "base_id": "AT_056",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "quill_seated_in_inkwell_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Quill and complete nib translated into inkwell; geometry revision, not new base or variant.",
+          "zip": "AT_056__repair_CC0.zip",
+          "bytes": 1263275,
+          "sha256": "996853d6ffcd607115cfc342f5ef459231b7176a639e8cadc96770c0cd747359",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_056__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_057",

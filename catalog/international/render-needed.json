@@ -1,120 +1,13 @@
 [
   {
-    "id": "AL016",
-    "kind": "base",
-    "base_id": "AL016",
-    "name_en": "Storage chest",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL017",
-    "kind": "base",
-    "base_id": "AL017",
-    "name_en": "Bound volumes",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL017_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL018",
-    "kind": "base",
-    "base_id": "AL018",
-    "name_en": "Ink and quill",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL019",
-    "kind": "base",
-    "base_id": "AL019",
-    "name_en": "Stool",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL019_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL020",
-    "kind": "base",
-    "base_id": "AL020",
-    "name_en": "Crucibles",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL021",
-    "kind": "base",
-    "base_id": "AL021",
-    "name_en": "Copper ladle",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL022",
-    "kind": "base",
-    "base_id": "AL022",
-    "name_en": "Wall instrument chart",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL023",
-    "kind": "base",
-    "base_id": "AL023",
-    "name_en": "Bucket",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL024",
-    "kind": "base",
-    "base_id": "AL024",
-    "name_en": "Hourglass",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL025",
-    "kind": "base",
-    "base_id": "AL025",
-    "name_en": "Bench wizard volumes",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL025_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL026",
-    "kind": "base",
-    "base_id": "AL026",
-    "name_en": "Desk side book pile",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL026_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "AL027",
-    "kind": "base",
-    "base_id": "AL027",
-    "name_en": "Chest reference stack",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL027_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
     "id": "FW001",
     "kind": "base",
     "base_id": "FW001",
     "name_en": "Herbalists workbench",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW001_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW002",
@@ -123,16 +16,8 @@
     "name_en": "Stone mortar and pestle",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "FW003",
-    "kind": "base",
-    "base_id": "FW003",
-    "name_en": "Corked apothecary bottles",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW004",
@@ -141,7 +26,8 @@
     "name_en": "Open herbal and bookstand",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW004_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW005",
@@ -150,16 +36,8 @@
     "name_en": "Hanging herb drying rail",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW005_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
-  },
-  {
-    "id": "FW006",
-    "kind": "base",
-    "base_id": "FW006",
-    "name_en": "Wicker gathering basket",
-    "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip",
-    "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW007",
@@ -168,7 +46,8 @@
     "name_en": "Birch twig broom",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW007_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW008",
@@ -177,7 +56,8 @@
     "name_en": "Iron cauldron and tripod",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW009",
@@ -186,7 +66,8 @@
     "name_en": "Split firewood stack",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW009_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW010",
@@ -195,7 +76,8 @@
     "name_en": "Copper kettle",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW011",
@@ -204,7 +86,8 @@
     "name_en": "Lantern on stone plinth",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW011_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW012",
@@ -213,7 +96,8 @@
     "name_en": "Rainwater barrel",
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip",
     "license": "CC0-1.0",
-    "priority": "P1 verify existing render mapping, otherwise render exact distributed model"
+    "priority": "P1 verify existing render mapping, otherwise render exact distributed model",
+    "hold_reason": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
   },
   {
     "id": "FW013",

@@ -2933,7 +2933,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -2948,6 +2947,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -2958,7 +2961,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL017_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -2973,6 +2975,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -2983,7 +2989,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -2998,6 +3003,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3008,7 +3017,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL019_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3023,6 +3031,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3033,7 +3045,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3048,6 +3059,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3058,7 +3073,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3073,6 +3087,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3083,7 +3101,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3098,6 +3115,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3108,7 +3129,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3123,6 +3143,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3133,7 +3157,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3148,6 +3171,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3158,7 +3185,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL025_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3173,6 +3199,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3183,7 +3213,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL026_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3198,6 +3227,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3208,7 +3241,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL027_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3223,6 +3255,10 @@
     },
     "existing_catalogs": [
       "catalog/alchemist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3283,7 +3319,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3298,6 +3333,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3358,7 +3397,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3374,6 +3412,10 @@
     "existing_catalogs": [
       "catalog/forest_witch.md",
       "catalog/husbandry_cellar_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

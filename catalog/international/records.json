@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 713,
-      "preview_not_mapped": 295,
+      "id_mapped_preview": 727,
+      "preview_not_mapped": 281,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 121,
-      "id_mapped_preview": 121,
+      "records": 124,
+      "id_mapped_preview": 124,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 121,
-      "formats_known": 121,
+      "purpose_en_present": 124,
+      "formats_known": 124,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -10102,7 +10102,14 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "AT_056__repair",
+          "catalog": "catalog/material_variants_at052_061.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ]
     },
     {
       "id": "AT_057",
@@ -10166,7 +10173,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "98392 triangles; polygon-budget/redesign issue remains unrepaired."
     },
     {
       "id": "AT_059",
@@ -23660,8 +23668,8 @@
       "name_ja": "Storage chest",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23677,7 +23685,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL016.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL017",
@@ -23687,8 +23697,8 @@
       "name_ja": "Bound volumes",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23704,7 +23714,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL017.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL018",
@@ -23714,8 +23726,8 @@
       "name_ja": "Ink and quill",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23731,7 +23743,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL018.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL019",
@@ -23741,8 +23755,8 @@
       "name_ja": "Stool",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23758,7 +23772,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL019.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL020",
@@ -23768,8 +23784,8 @@
       "name_ja": "Crucibles",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23785,7 +23801,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL020.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL021",
@@ -23795,8 +23813,8 @@
       "name_ja": "Copper ladle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23812,7 +23830,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL021.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL022",
@@ -23822,8 +23842,8 @@
       "name_ja": "Wall instrument chart",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23839,7 +23859,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL022.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL023",
@@ -23849,8 +23871,8 @@
       "name_ja": "Bucket",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL023.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23866,7 +23888,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL023.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL024",
@@ -23876,8 +23900,8 @@
       "name_ja": "Hourglass",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL024.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23893,7 +23917,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL024.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL025",
@@ -23903,8 +23929,8 @@
       "name_ja": "Bench wizard volumes",
       "purpose_en": null,
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL025.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23920,7 +23946,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL025.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL026",
@@ -23930,8 +23958,8 @@
       "name_ja": "Desk side book pile",
       "purpose_en": null,
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL026.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23947,7 +23975,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL026.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "AL027",
@@ -23957,8 +23987,8 @@
       "name_ja": "Chest reference stack",
       "purpose_en": null,
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/AL027.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23974,7 +24004,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/AL027.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "FW001",
@@ -24001,7 +24033,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW002",
@@ -24028,7 +24061,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW003",
@@ -24038,8 +24072,8 @@
       "name_ja": "Corked apothecary bottles",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/FW003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24055,7 +24089,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/FW003.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "FW004",
@@ -24082,7 +24118,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW005",
@@ -24109,7 +24146,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW006",
@@ -24119,8 +24157,8 @@
       "name_ja": "Wicker gathering basket",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/alchemy-forest14/thumbnails/FW006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 14 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24137,7 +24175,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/alchemy-forest14/renders/FW006.png",
+      "image_manifest": "previews/alchemy-forest14/manifest.json"
     },
     {
       "id": "FW007",
@@ -24164,7 +24204,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW008",
@@ -24191,7 +24232,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW009",
@@ -24218,7 +24260,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW010",
@@ -24245,7 +24288,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW011",
@@ -24272,7 +24316,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW012",
@@ -24299,7 +24344,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
     },
     {
       "id": "FW013",
@@ -38793,6 +38839,105 @@
       "comparison": {
         "file": "previews/quality-at042-051-v1/AT_051__color_blue_comparison.png",
         "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_052__color_blue",
+      "kind": "variant",
+      "base_id": "AT_052",
+      "name_en": "Velvet ring stand",
+      "name_ja": "指輪のベルベット台",
+      "purpose_en": "Ring stand textile: oxblood to clear blue; rings and gems retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at052-061-v1/AT_052__color_blue_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_052__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at052_061.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at052-061-v1/AT_052__color_blue_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_054__color_green",
+      "kind": "variant",
+      "base_id": "AT_054",
+      "name_en": "Anonymous portrait cameo",
+      "name_ja": "匿名の肖像カメオ",
+      "purpose_en": "Cameo background: green; relief and frame retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at052-061-v1/AT_054__color_green_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_054__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at052_061.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at052-061-v1/AT_054__color_green_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_060__color_orange",
+      "kind": "variant",
+      "base_id": "AT_060",
+      "name_en": "Clockwork bird",
+      "name_ja": "ぜんまいの小鳥",
+      "purpose_en": "Bird head/wings: orange decorative finish instead of green patina color.",
+      "record_kind": "model",
+      "image": "previews/quality-at052-061-v1/AT_060__color_orange_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_060__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at052_061.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at052-061-v1/AT_060__color_orange_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
       },
       "geometry_revision": "original",
       "uv_revision": "original_uv0"

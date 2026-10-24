@@ -166,3 +166,103 @@ Long tongs
 [![AL015](../previews/apiary-alchemy24/thumbnails/AL015.png)](../previews/apiary-alchemy24/renders/AL015.png)
 
 [Full image](../previews/apiary-alchemy24/renders/AL015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL015_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### AL016 — Storage chest
+
+Storage chest
+
+[![AL016](../previews/alchemy-forest14/thumbnails/AL016.png)](../previews/alchemy-forest14/renders/AL016.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL016_CC0.zip)
+
+### AL017 — Bound volumes
+
+Bound volumes
+
+[![AL017](../previews/alchemy-forest14/thumbnails/AL017.png)](../previews/alchemy-forest14/renders/AL017.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL017_CC0.zip)
+
+### AL018 — Ink and quill
+
+Ink and quill
+
+[![AL018](../previews/alchemy-forest14/thumbnails/AL018.png)](../previews/alchemy-forest14/renders/AL018.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL018_CC0.zip)
+
+### AL019 — Stool
+
+Stool
+
+[![AL019](../previews/alchemy-forest14/thumbnails/AL019.png)](../previews/alchemy-forest14/renders/AL019.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL019_CC0.zip)
+
+### AL020 — Crucibles
+
+Crucibles
+
+[![AL020](../previews/alchemy-forest14/thumbnails/AL020.png)](../previews/alchemy-forest14/renders/AL020.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL020_CC0.zip)
+
+### AL021 — Copper ladle
+
+Copper ladle
+
+[![AL021](../previews/alchemy-forest14/thumbnails/AL021.png)](../previews/alchemy-forest14/renders/AL021.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL021_CC0.zip)
+
+### AL022 — Wall instrument chart
+
+Wall instrument chart
+
+[![AL022](../previews/alchemy-forest14/thumbnails/AL022.png)](../previews/alchemy-forest14/renders/AL022.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL022_CC0.zip)
+
+### AL023 — Bucket
+
+Bucket
+
+[![AL023](../previews/alchemy-forest14/thumbnails/AL023.png)](../previews/alchemy-forest14/renders/AL023.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL023.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL023_CC0.zip)
+
+### AL024 — Hourglass
+
+Hourglass
+
+[![AL024](../previews/alchemy-forest14/thumbnails/AL024.png)](../previews/alchemy-forest14/renders/AL024.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL024_CC0.zip)
+
+### AL025 — Bench wizard volumes
+
+Bench wizard volumes
+
+[![AL025](../previews/alchemy-forest14/thumbnails/AL025.png)](../previews/alchemy-forest14/renders/AL025.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL025.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL025_CC0.zip)
+
+### AL026 — Desk side book pile
+
+Desk side book pile
+
+[![AL026](../previews/alchemy-forest14/thumbnails/AL026.png)](../previews/alchemy-forest14/renders/AL026.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL026.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL026_CC0.zip)
+
+### AL027 — Chest reference stack
+
+Chest reference stack
+
+[![AL027](../previews/alchemy-forest14/thumbnails/AL027.png)](../previews/alchemy-forest14/renders/AL027.png)
+
+[Full image](../previews/alchemy-forest14/renders/AL027.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL027_CC0.zip)

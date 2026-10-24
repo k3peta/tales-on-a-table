@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-**1008 distribution records +121 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +124 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -68,3 +68,9 @@ FP025 / PM001–011 / WM001–012 now include individual full-size images and th
 WM013–017 / WT001–008 / AP001–011 now include individual full-size images and thumbnails. Base ID image mappings: 689/1008; remaining319. Material variants:108/108. [Coverage](COVERAGE.md).
 
 AP012–020 / AL001–015 now include individual full-size images and thumbnails. Base ID image mappings: 713/1008; remaining295. Material variants:108/108. [Coverage](COVERAGE.md).
+
+AL016–027 / FW003 / FW006 now include individual full-size images and thumbnails. Base ID image mappings: 727/1008; remaining281. Material variants:121/121. [Coverage](COVERAGE.md).
+
+Image batch5 accepted14 of24; ten FW material issues remain in the missing281. Diagnostic pictures excluded.
+
+[Latest variants AT052/054/060](variant-06.md):124 separate variants. Base images727/1008, missing281 including10 FW holds.

@@ -37,3 +37,23 @@ BLENDは単体データのため、一部はFile > Appendでオブジェクト/�
 ![forest_witch](../examples/forest_witch/forest_witch.png)
 
 [Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.21-forest-witch) · [SHA256](../releases/forest_witch/SHA256SUMS.txt) · [License](../LICENSE.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FW003 — Corked apothecary bottles
+
+Corked apothecary bottles
+
+[![FW003](../previews/alchemy-forest14/thumbnails/FW003.png)](../previews/alchemy-forest14/renders/FW003.png)
+
+[Full image](../previews/alchemy-forest14/renders/FW003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW003_CC0.zip)
+
+### FW006 — Wicker gathering basket
+
+Wicker gathering basket
+
+[![FW006](../previews/alchemy-forest14/thumbnails/FW006.png)](../previews/alchemy-forest14/renders/FW006.png)
+
+[Full image](../previews/alchemy-forest14/renders/FW006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip)
