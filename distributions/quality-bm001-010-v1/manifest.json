@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "BM_006__green",
+      "base_id": "BM_006",
+      "entity_type": "material_variant",
+      "zip": "BM_006__green_CC0.zip",
+      "sha256": "c9dddbdb9e9b11bd8cc6f9e6cd4dc408ab6bcf29489f003ecef4a93d2b8c0251",
+      "bytes": 255250,
+      "description": "Ceramic cup body UV tint (green) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BM_006__orange",
+      "base_id": "BM_006",
+      "entity_type": "material_variant",
+      "zip": "BM_006__orange_CC0.zip",
+      "sha256": "60cfb9840e7e48f596a694f3b5a35fdd66c6f1c10e6b0da022916f44345e3396",
+      "bytes": 255252,
+      "description": "Ceramic cup body UV tint (orange) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 0
+}

@@ -463,3 +463,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BN_006](base-19.md#bn_006) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_006__bluewood_CC0.zip) · [Full comparison](../../previews/quality-wh007-bn008-v1/BN_006__bluewood_overview_comparison.png) · [Details](../material_variants_wh007_bn008.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_006__green
+
+**Travel teacup** · 旅の湯呑み
+
+[![BM_006__green](../../previews/quality-bm001-010-v1/BM_006__green_thumb.png)](../../previews/quality-bm001-010-v1/BM_006__green_overview_comparison.png)
+
+Use: Ceramic cup body UV tint (green) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_006](base-19.md#bm_006) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__green_CC0.zip) · [Full comparison](../../previews/quality-bm001-010-v1/BM_006__green_overview_comparison.png) · [Details](../material_variants_bm001_bm010.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_006__orange
+
+**Travel teacup** · 旅の湯呑み
+
+[![BM_006__orange](../../previews/quality-bm001-010-v1/BM_006__orange_thumb.png)](../../previews/quality-bm001-010-v1/BM_006__orange_overview_comparison.png)
+
+Use: Ceramic cup body UV tint (orange) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_006](base-19.md#bm_006) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__orange_CC0.zip) · [Full comparison](../../previews/quality-bm001-010-v1/BM_006__orange_overview_comparison.png) · [Details](../material_variants_bm001_bm010.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

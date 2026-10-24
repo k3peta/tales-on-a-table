@@ -124,6 +124,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality45:** Three source book members inspected;one record,no duplicated blue variant. [Details](../material_variants_bm001_bm010.md).
+
 ## BM_002
 
 **Half-open scroll**
@@ -145,6 +147,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality45:** 29192tri over20k,lettering budget unresolved. [Details](../material_variants_bm001_bm010.md).
 
 ## BM_003
 
@@ -168,6 +172,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality45:** Detached pointer matches broken theme,not automatically misplaced. [Details](../material_variants_bm001_bm010.md).
+
 ## BM_004
 
 **Old ink bottle**
@@ -189,6 +195,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality45:** Three bottle members inspected;existing exterior colors retained. [Details](../material_variants_bm001_bm010.md).
 
 ## BM_005
 
@@ -212,6 +220,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality45:** 4722tri;mechanical sound untested. [Details](../material_variants_bm001_bm010.md).
+
 ## BM_006
 
 **Travel teacup**
@@ -233,6 +243,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality45:** 3764tri ceramic main member;green/orange variants retain geometry/UV/colors;metal dealer cup remains original ZIP. [Details](../material_variants_bm001_bm010.md).
 
 ## BM_007
 
@@ -256,6 +268,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality45:** Pale marks/fragments require attachment diagnosis;not fixed or declared intentional;two GLB members inspected. [Details](../material_variants_bm001_bm010.md).
+
 ## BM_008
 
 **Short candle**
@@ -277,6 +291,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality45:** Unlit candle,no glow added. [Details](../material_variants_bm001_bm010.md).
 
 ## BM_009
 
@@ -300,6 +316,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality45:** Decorative text,no document legibility claim. [Details](../material_variants_bm001_bm010.md).
+
 ## BM_010
 
 **Copper-patched pot**
@@ -321,6 +339,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality45:** 72 positive tiny faces retained;no zero faces,original color attributes absent. [Details](../material_variants_bm001_bm010.md).
 
 ## BM_011
 

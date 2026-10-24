@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 154,
-      "id_mapped_preview": 154,
+      "records": 156,
+      "id_mapped_preview": 156,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 154,
-      "formats_known": 154,
+      "purpose_en_present": 156,
+      "formats_known": 156,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -19338,7 +19338,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_001_CC0.zip",
       "pictured_zip_sha256": "824522e96d1164ae36e44cfa8a4d6c41a011d14370f0743c4de5c66d62f2b13e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Three source book members inspected;one record,no duplicated blue variant."
     },
     {
       "id": "BM_002",
@@ -19375,7 +19376,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_002_CC0.zip",
       "pictured_zip_sha256": "73c8707549e61115e430215a1d2f0edc1f262b1cdc1958ae81755af540e6612c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "29192tri over20k,lettering budget unresolved."
     },
     {
       "id": "BM_003",
@@ -19412,7 +19414,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_003_CC0.zip",
       "pictured_zip_sha256": "2a27f3f7d6383fc109aebed7df857826c9e412ed49e22389b00ba600a276017a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Detached pointer matches broken theme,not automatically misplaced."
     },
     {
       "id": "BM_004",
@@ -19449,7 +19452,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_004_CC0.zip",
       "pictured_zip_sha256": "b4f70e5f7a47022f2e8403b838eeaec059055e0b9b7a16d2d7f5dbf5edfd3f3d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Three bottle members inspected;existing exterior colors retained."
     },
     {
       "id": "BM_005",
@@ -19486,7 +19490,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_005_CC0.zip",
       "pictured_zip_sha256": "2d73931412ef86598d315dc582de2e2e892695ef787e7f0c0d4a455dcb9cc336",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4722tri;mechanical sound untested."
     },
     {
       "id": "BM_006",
@@ -19523,7 +19528,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_006_CC0.zip",
       "pictured_zip_sha256": "d1c89e2d678e15fb061f314e4df94ad53b4f59e0c1019c4ce0870c525e978554",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3764tri ceramic main member;green/orange variants retain geometry/UV/colors;metal dealer cup remains original ZIP."
     },
     {
       "id": "BM_007",
@@ -19560,7 +19566,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_007_CC0.zip",
       "pictured_zip_sha256": "bbc6077e14b6b8014aab3f63787e4adf6ec0a611a37a26fb2164dc23ea1765b7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Pale marks/fragments require attachment diagnosis;not fixed or declared intentional;two GLB members inspected."
     },
     {
       "id": "BM_008",
@@ -19597,7 +19604,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_008_CC0.zip",
       "pictured_zip_sha256": "f7f6ac6ee660c5e259449a83601267294c243d427d5ea68f622461e95d918841",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Unlit candle,no glow added."
     },
     {
       "id": "BM_009",
@@ -19634,7 +19642,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_009_CC0.zip",
       "pictured_zip_sha256": "1da057626b8d8a07eb33fb9da5e2106bba505a83b9fe5bcdafdaf43f53b7087f",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Decorative text,no document legibility claim."
     },
     {
       "id": "BM_010",
@@ -19671,7 +19680,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_010_CC0.zip",
       "pictured_zip_sha256": "1a4f8ed7be06738c57ed5c76de0c58104106470309c6d8fe9e0bd22d3ddadf72",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "72 positive tiny faces retained;no zero faces,original color attributes absent."
     },
     {
       "id": "BM_011",
@@ -45594,6 +45604,80 @@
       "uv_revision": "original UV unchanged; mapped wood pigment tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_006_CC0.zip",
       "pictured_zip_sha256": "dcdd1fdce8a85cd51bd34d0a14819e517b92bca455a6ca17d8825d17e6670ee3",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_006__green",
+      "kind": "variant",
+      "base_id": "BM_006",
+      "name_en": "Travel teacup",
+      "name_ja": "旅の湯呑み",
+      "purpose_en": "Ceramic cup body UV tint (green) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.",
+      "record_kind": "model",
+      "image": "previews/quality-bm001-010-v1/BM_006__green_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm001_bm010.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm001-010-v1/BM_006__green_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; ceramic UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_006_CC0.zip",
+      "pictured_zip_sha256": "d1c89e2d678e15fb061f314e4df94ad53b4f59e0c1019c4ce0870c525e978554",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_006__orange",
+      "kind": "variant",
+      "base_id": "BM_006",
+      "name_en": "Travel teacup",
+      "name_ja": "旅の湯呑み",
+      "purpose_en": "Ceramic cup body UV tint (orange) multiplied by preserved original vertex colors. Original geometry and UV unchanged. Dust/roughness/normal/metallic/emission unchanged. Main wizard_cup member only; existing dealer_cup remains in original source ZIP.",
+      "record_kind": "model",
+      "image": "previews/quality-bm001-010-v1/BM_006__orange_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm001_bm010.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm001-010-v1/BM_006__orange_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; ceramic UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_006_CC0.zip",
+      "pictured_zip_sha256": "d1c89e2d678e15fb061f314e4df94ad53b4f59e0c1019c4ce0870c525e978554",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

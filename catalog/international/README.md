@@ -4,9 +4,9 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.154/154 variants pictured.** All148 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.156/156 variants pictured.** All148 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
-**1008 distribution records +154 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +156 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -172,3 +172,5 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 [Quality43 variants](variant-06.md):153 separately counted material variants; base1008 unchanged. Latest ARM077/079 and WH001-006 public image/ZIP match verified, including final-ZIP spatial vertex-color correspondence.
 
 [Quality44 variants](variant-06.md):154 separately counted material variants; base1008 unchanged. Latest BN003/005 and WH007/008 public image/ZIP match verified, including final-ZIP spatial vertex attributes; UV additions remain explicit.
+
+[Quality45 variants](variant-06.md):156 separately counted material variants; base1008 unchanged. No new revisions; main-member ceramic variants public match pending.
