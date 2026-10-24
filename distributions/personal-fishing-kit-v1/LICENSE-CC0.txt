@@ -1,0 +1,2 @@
+CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Included model geometry and embedded materials only, including verified CC0 source components. Code, rendered images and private records excluded.

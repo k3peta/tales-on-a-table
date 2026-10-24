@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **949 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **950 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **950 records** (949 + 1 fishing-kit assembly; new shapes0, reused types8). [Personal fishing kit](catalog/personal_fishing_kit_v1.md).
 
 - 2026-10-24 JST — **949 records** (945 + 2 components + 2 assembly examples; reused gear excluded). [Field and travel tools](catalog/field_travel_tools_v1.md).
 

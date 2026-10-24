@@ -1,0 +1,31 @@
+{
+  "record_count": 1,
+  "items": [
+    {
+      "asset_id": "PFKV01_PersonalFishingKit",
+      "category": "assembly",
+      "record_kind": "group",
+      "design_classification": "assembly_of_existing_assets",
+      "independent_design_increment": null,
+      "revision": "personal-fishing-kit-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 13668029,
+      "zip_sha256": "dcc2a038b6305921b142eacebd33da4f9583392121e7717bd8f2606c829477e3",
+      "names": {
+        "ja": "PersonalFishingKit",
+        "en": "PersonalFishingKit",
+        "zh-CN": "PersonalFishingKit"
+      },
+      "descriptions": {
+        "ja": "Repositionable personal fishing kit assembled from eight existing models; no new shapes",
+        "en": "Repositionable personal fishing kit assembled from eight existing models; no new shapes",
+        "zh-CN": "Repositionable personal fishing kit assembled from eight existing models; no new shapes"
+      },
+      "zip_file": "PFKV01_PersonalFishingKit_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/personal-fishing-kit-v1/PFKV01_PersonalFishingKit_CC0.zip",
+      "theme": "personal_fishing",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
