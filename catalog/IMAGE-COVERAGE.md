@@ -172,3 +172,8 @@
 - [OL035–044](material_variants_ol035_044.md):8 accepted comparison/thumbnail images. Cumulative156 assessed distribution records, not unique shapes.
 
 - [OL045–054](material_variants_ol045_054.md):8 accepted comparison/thumbnail images. Cumulative166 assessed distribution records, not unique shapes.
+
+
+## Per-record audit
+
+[1008 base records and104 variants: exact ID coverage and gaps](international/COVERAGE.md). Catalogue image presence alone is not full model coverage.

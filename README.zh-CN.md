@@ -259,3 +259,8 @@ FT_040、FH_002、FH_038保留质量改进版。OL_STORY_001至005保留已获CC
 ### 2026-10-18 JST — 原始主题
 
 [酒場 / Tavern](https://note.com/3peta/n/n8bc1ec96123c) · [波止場 / Harbor](https://note.com/3peta/n/n566b44e706db) · [ランプ店 / Lamp shop](https://note.com/3peta/n/n1b5a16c0ed5b)
+
+
+## Browse by asset ID / ID別画像索引 / 按ID浏览
+
+[English-first model cards with Japanese names](catalog/international/README.md) · [Exact coverage and missing information](catalog/international/COVERAGE.md). Unknown measurements are labelled; image/license scope differs from model CC0.
