@@ -4,9 +4,9 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.164/164 variants pictured.** All149 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.166/166 variants pictured.** All149 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
-**1008 distribution records +164 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +166 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -184,3 +184,5 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 [Quality49 variants](variant-06.md):162 separately counted material variants; base1008 unchanged. BM041 revision and robe/bag variants public ZIP/member/image identity verified.
 
 [Quality50 variants](variant-06.md):164 separately counted material variants; base1008 unchanged. No new revisions; awning variants public ZIP/member/image identity verified.
+
+[Quality51 variants](variant-06.md):166 separately counted material variants; base1008 unchanged. No new revisions; vegetable variants public match pending.

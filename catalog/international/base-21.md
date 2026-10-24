@@ -410,6 +410,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality51:** 35000tri over20k;cabbage purple variant is not geometry repair;vein redesign unimplemented,normal-reference defect not established. [Details](../material_variants_bm061_bm070.md).
+
 ## BM_062
 
 **Carrot with greens**
@@ -431,6 +433,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality51:** 7156tri stylized carrot;original morphology retained. [Details](../material_variants_bm061_bm070.md).
 
 ## BM_063
 
@@ -454,6 +458,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality51:** 3100tri onion;red body/ribs,roots and neck unchanged;not over20k. [Details](../material_variants_bm061_bm070.md).
+
 ## BM_064
 
 **Jewellery display stand**
@@ -475,6 +481,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality51:** 760tri empty display stand intentional;load untested. [Details](../material_variants_bm061_bm070.md).
 
 ## BM_065
 
@@ -498,6 +506,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality51:** 5916tri necklace;minor gem recolor not produced. [Details](../material_variants_bm061_bm070.md).
+
 ## BM_066
 
 **Decorative comb**
@@ -519,6 +529,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality51:** 2768tri comb;hair/fit simulation untested. [Details](../material_variants_bm061_bm070.md).
 
 ## BM_067
 
@@ -542,6 +554,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality51:** 3928tri flower hairpin;minor center recolor not produced. [Details](../material_variants_bm061_bm070.md).
+
 ## BM_068
 
 **Charcoal skewer grill**
@@ -563,3 +577,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+**Quality51:** 14856tri grill below50k;no thermal/safety guarantee. [Details](../material_variants_bm061_bm070.md).

@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality51:** 1764tri skewer;ingredient assembly not separate records. [Details](../material_variants_bm061_bm070.md).
+
 ## BM_070
 
 **Brass kettle**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality51:** 2628tri kettle;dark spout end static,interior/fluid operation untested. [Details](../material_variants_bm061_bm070.md).
 
 ## BM_071
 

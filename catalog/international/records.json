@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 164,
-      "id_mapped_preview": 164,
+      "records": 166,
+      "id_mapped_preview": 166,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 164,
-      "formats_known": 164,
+      "purpose_en_present": 166,
+      "formats_known": 166,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -21630,7 +21630,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_061_CC0.zip",
       "pictured_zip_sha256": "b9e1e87c3909fe66056df2ac187a24cfa5affde48b4393680187825c350af673",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "35000tri over20k;cabbage purple variant is not geometry repair;vein redesign unimplemented,normal-reference defect not established."
     },
     {
       "id": "BM_062",
@@ -21667,7 +21668,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_062_CC0.zip",
       "pictured_zip_sha256": "9ef28470b7e28733d2590183ba07ddd753f370adb4ffea93451d28a637fc7c6e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "7156tri stylized carrot;original morphology retained."
     },
     {
       "id": "BM_063",
@@ -21704,7 +21706,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_063_CC0.zip",
       "pictured_zip_sha256": "0560c8297097708c478511856feace24d5dd87f62341be33209bd5ff1e3b6cd7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3100tri onion;red body/ribs,roots and neck unchanged;not over20k."
     },
     {
       "id": "BM_064",
@@ -21741,7 +21744,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_064_CC0.zip",
       "pictured_zip_sha256": "1fde932408c7675f65985a0690b3350fcb7f9b1f80a38cede3fb0c0f6ef3c4e7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "760tri empty display stand intentional;load untested."
     },
     {
       "id": "BM_065",
@@ -21778,7 +21782,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_065_CC0.zip",
       "pictured_zip_sha256": "f54d9f6bdb75d4ff1e75eb0ad63bf34ff28ddc6ed010ddbcbf0f72526cad0965",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5916tri necklace;minor gem recolor not produced."
     },
     {
       "id": "BM_066",
@@ -21815,7 +21820,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_066_CC0.zip",
       "pictured_zip_sha256": "6ecba9c213cb65f0d3c30401d2726861f6a26321a9c8c097e7ec3b1ee442614b",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2768tri comb;hair/fit simulation untested."
     },
     {
       "id": "BM_067",
@@ -21852,7 +21858,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_067_CC0.zip",
       "pictured_zip_sha256": "d316a70cd4e5c4b0e8eff1d79248d8b445bbc86e60593034bc066170f048dcc7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3928tri flower hairpin;minor center recolor not produced."
     },
     {
       "id": "BM_068",
@@ -21889,7 +21896,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_068_CC0.zip",
       "pictured_zip_sha256": "5cdd501709543cf61a6a31eec8015309bb5d1c81fd7bb912d5b5d66b26281ffa",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "14856tri grill below50k;no thermal/safety guarantee."
     },
     {
       "id": "BM_069",
@@ -21926,7 +21934,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_069_CC0.zip",
       "pictured_zip_sha256": "d55bae6edd9a923386f697a0f88002700a320b324abac243202bcce5c6499426",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1764tri skewer;ingredient assembly not separate records."
     },
     {
       "id": "BM_070",
@@ -21963,7 +21972,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_070_CC0.zip",
       "pictured_zip_sha256": "c7dd5801992fb7d0ccb6f4a14266922fbc9f43b7861bc20477d9af3e92f345cc",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2628tri kettle;dark spout end static,interior/fluid operation untested."
     },
     {
       "id": "BM_071",
@@ -46032,6 +46042,80 @@
       "uv_revision": "original UV and vertex colors retained; awning colored-stripe UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_059_CC0.zip",
       "pictured_zip_sha256": "d2a90fae8b5247d2edaae25afe28b68a877d4fe538e8e8368dbbcf3bc06cdb3c",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_061__purple_cabbage",
+      "kind": "variant",
+      "base_id": "BM_061",
+      "name_en": "Leafy cabbage",
+      "name_ja": "葉付きキャベツ",
+      "purpose_en": "Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Cabbage remains35000tri above20k small-prop warning, not a geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-bm061-070-v1/BM_061__purple_cabbage_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm061-070-v1/BM_061__purple_cabbage_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm061_bm070.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm061-070-v1/BM_061__purple_cabbage_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_061_CC0.zip",
+      "pictured_zip_sha256": "b9e1e87c3909fe66056df2ac187a24cfa5affde48b4393680187825c350af673",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_063__red_onion",
+      "kind": "variant",
+      "base_id": "BM_063",
+      "name_en": "Onion",
+      "name_ja": "玉葱",
+      "purpose_en": "Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Cabbage remains35000tri above20k small-prop warning, not a geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-bm061-070-v1/BM_063__red_onion_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm061-070-v1/BM_063__red_onion_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm061_bm070.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm061-070-v1/BM_063__red_onion_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_063_CC0.zip",
+      "pictured_zip_sha256": "0560c8297097708c478511856feace24d5dd87f62341be33209bd5ff1e3b6cd7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

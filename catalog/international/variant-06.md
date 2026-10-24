@@ -603,3 +603,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_059](base-21.md#bm_059) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__green_stripe_CC0.zip) · [Full comparison](../../previews/quality-bm051-060-v1/BM_059__green_stripe_overview_comparison.png) · [Details](../material_variants_bm051_bm060.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_061__purple_cabbage
+
+**Leafy cabbage** · 葉付きキャベツ
+
+[![BM_061__purple_cabbage](../../previews/quality-bm061-070-v1/BM_061__purple_cabbage_thumb.png)](../../previews/quality-bm061-070-v1/BM_061__purple_cabbage_overview_comparison.png)
+
+Use: Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Cabbage remains35000tri above20k small-prop warning, not a geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_061](base-21.md#bm_061) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm061-070-v1/BM_061__purple_cabbage_CC0.zip) · [Full comparison](../../previews/quality-bm061-070-v1/BM_061__purple_cabbage_overview_comparison.png) · [Details](../material_variants_bm061_bm070.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_063__red_onion
+
+**Onion** · 玉葱
+
+[![BM_063__red_onion](../../previews/quality-bm061-070-v1/BM_063__red_onion_thumb.png)](../../previews/quality-bm061-070-v1/BM_063__red_onion_overview_comparison.png)
+
+Use: Vegetable surface color replaced by packed UV textures; original geometry, UV and attribute presence retained. Other material channels unchanged; no emission added. Cabbage remains35000tri above20k small-prop warning, not a geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_063](base-21.md#bm_063) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm061-070-v1/BM_063__red_onion_CC0.zip) · [Full comparison](../../previews/quality-bm061-070-v1/BM_063__red_onion_overview_comparison.png) · [Details](../material_variants_bm061_bm070.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
