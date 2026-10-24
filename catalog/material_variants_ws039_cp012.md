@@ -8,7 +8,7 @@ Zero-area triangles removed: CP003192, CP004192, CP00564, CP010256. Positive sur
 
 4个修订不新增模型。CP003补充3层UV、CP004补充1层UV，绿色皮革变体以修复后的CP004为基准。CP003仍超预算。仅最终验证v2为依据。
 
-Same camera/light/scale comparisons. Producer final-ZIP v2 guard binds accepted packages, input/script/model hashes and run/time/build. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP v2 guard binds accepted packages, input/script/model hashes and run/time/build. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed316 source records,692 remain;57 budget/redesign issues remain. Constant-color missing UV retained: WS0395 paper parts, WS04046 meshes, CP0019 parts, CP0021 part. Future texture-mapping limitations, not proven visual defects. HCV103 peg and HCV303 brace contact diagnoses remain open. No optics, navigation calibration, load, steering/telescoping/hinge/pulley motion, collision or Blender4.3.2 guarantee.
 
@@ -93,3 +93,5 @@ Exact-zero-area cleanup only, all positive surfaces retained; missing UV added w
 [![CP_010__repair close_comparison](../previews/quality-ws039-cp012-v1/CP_010__repair_close_comparison.png)](../previews/quality-ws039-cp012-v1/CP_010__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-ws039-cp012-v1/validation.json).

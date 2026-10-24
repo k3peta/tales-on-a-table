@@ -12930,7 +12930,8 @@
         {
           "id": "CP_003__repair",
           "catalog": "catalog/material_variants_ws039_cp012.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup and3 missing UV layers added;28596tri remains over budget."
@@ -12971,7 +12972,8 @@
         {
           "id": "CP_004__repair",
           "catalog": "catalog/material_variants_ws039_cp012.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup and1 missing UV layer added; green variant uses repaired baseline."
@@ -13012,7 +13014,8 @@
         {
           "id": "CP_005__repair",
           "catalog": "catalog/material_variants_ws039_cp012.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup; navigation/optical calibration untested."
@@ -13086,7 +13089,8 @@
         {
           "id": "CP_010__repair",
           "catalog": "catalog/material_variants_ws039_cp012.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "Zero-area cleanup; pulley motion/load untested."
