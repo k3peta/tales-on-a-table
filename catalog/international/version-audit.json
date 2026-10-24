@@ -30,9 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "PM005"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -48,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 851,
-      "exact_image_zip_evidence": 156,
-      "exact_image_zip_binding_public_retrieval_pending": 1
+      "exact_image_zip_evidence": 157
     }
   },
   "items": [
@@ -10570,16 +10567,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pm003-wm001-v1/PM005__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "PM005__repair",
             "zip_sha256": "cfe825256c6ffa207342a3d9404f9bdf5ae59ed2b1868a1eb23a9a6a79a69da5",
             "image": "previews/quality-pm003-wm001-v1/PM005__repair_thumb.png",
             "image_sha256": "b2ee3269ded402e28c5a2c6d7e4f9cbe340fc0c74d8fa1511b018ca6839ceb51",
-            "evidence": "Final ZIP/source image hashes verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "7cbb616a66938e5c7baaf887ac8163cb09a769ea"
       }
     },
     {

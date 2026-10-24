@@ -24639,7 +24639,8 @@
         {
           "id": "PM005__repair",
           "catalog": "catalog/material_variants_pm003_wm001.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "6388tri unchanged geometry;Mortar_Core missingUV0 added,existingUV retained;not original-UV-invariant."

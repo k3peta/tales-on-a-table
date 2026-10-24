@@ -10,7 +10,7 @@ PM006/009/010/011 retain exact existing public mortar-recess repairs. Configurat
 
 WM00133058tri below provisional50k large static-assembly warning; timber-check detail lacks UV and remains UNREPAIRED. No rotation clearance/water/power simulation. PM003 wall uses pillars at2m pitch; PM008 raised hatch hardware up to0.051m is intentional,not forced flat.
 
-Same camera/light/scale comparison. Final-ZIP both formats geometry/UV/spatial attributes checked against original geometry plus added missingUV baseline. Original COLOR_0 absence retained. Five bad color fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Final-ZIP both formats geometry/UV/spatial attributes checked against original geometry plus added missingUV baseline. Original COLOR_0 absence retained. Five bad color fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed556 distribution records;452 remain;143 budget issues and existing BM007/BM054/material diagnostics retained. Private connection scene checks selected current versions,not exhaustive collisions/door movement. No security/load/rig/gameplay/fluid/Blender4.3.2 guarantee. Source GLB audited;original bundled BLEND not independently imported;final candidate both formats tested.
 
@@ -31,3 +31,5 @@ Add missing UV0 only on PM005_Mortar_Core. Original geometry/materials and exist
 [![PM005__repair close_comparison](../previews/quality-pm003-wm001-v1/PM005__repair_close_comparison.png)](../previews/quality-pm003-wm001-v1/PM005__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-pm003-wm001-v1/validation.json).

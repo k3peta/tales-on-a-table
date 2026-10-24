@@ -594,6 +594,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Quality56:** 6388tri unchanged geometry;Mortar_Core missingUV0 added,existingUV retained;not original-UV-invariant. [Details](../material_variants_pm003_wm001.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pm003-wm001-v1/PM005__repair_CC0.zip) · [Matching revision preview](../../previews/quality-pm003-wm001-v1/PM005__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## PM006
 
 **Universal Stone Node**
