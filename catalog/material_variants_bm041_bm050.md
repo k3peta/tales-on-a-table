@@ -8,7 +8,7 @@ BM042 rust-red robe and BM043 blue bag: main fabric tint only, geometry/UV/verte
 
 10配布レコード/10モデル査定。オープナー接続改訂1件は非加算、赤い衣服と青い袋のvariant2件は別集計。10个配布记录/10个模型；开瓶器连接修订不增加基本数量，两个布料颜色变体单独统计。
 
-Same camera/light/scale comparisons. Final-ZIP validation-v2 checks BLEND/GLB geometry/UV/spatial vertex colors against explicit connector baseline where geometry changed; not a same-geometry variant. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP validation-v2 checks BLEND/GLB geometry/UV/spatial vertex colors against explicit connector baseline where geometry changed; not a same-geometry variant. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed486 distribution records;522 remain;142 polygon-budget issues remain. Donkey66103tri uses provisional50k static-display warning assigned before measurement; no animal-specific threshold in the plan. Cart42600tri below50k assembly warning. BM007 attachment diagnosis remains. BM029 failed blue-glass candidate is unpublished, not an established public-original defect; exact export cause unresolved.
 
@@ -63,3 +63,5 @@ Main robe/bag UV color tint only, original geometry/UV/vertex colors and other m
 [![BM_043__bluebag close_comparison](../previews/quality-bm041-050-v1/BM_043__bluebag_close_comparison.png)](../previews/quality-bm041-050-v1/BM_043__bluebag_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm041-050-v1/validation.json).

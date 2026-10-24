@@ -508,6 +508,8 @@ Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2
 
 **Quality49:** 8.263mm shank/helix gap bridged by48tri static connector;3472tri total,overlap not watertight union or strength guarantee. [Details](../material_variants_bm041_bm050.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_041__repair_CC0.zip) · [Matching revision preview](../../previews/quality-bm041-050-v1/BM_041__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## BM_042
 
 **Dirty robe**

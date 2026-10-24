@@ -20863,7 +20863,8 @@
         {
           "id": "BM_041__repair",
           "catalog": "catalog/material_variants_bm041_bm050.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "8.263mm shank/helix gap bridged by48tri static connector;3472tri total,overlap not watertight union or strength guarantee."
