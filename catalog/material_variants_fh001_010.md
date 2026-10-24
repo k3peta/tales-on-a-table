@@ -2,7 +2,7 @@
 
 **Existing 1008 records unchanged; 81 material variants = 77 + 4, counted separately.**
 
-査定10配布記録、採用4・棄却6。品質改訂0、新基本0。累積査定66/1008配布記録（残942）であり独立形状数ではありません。錨の手入れ鉄色、浮標の塗直し赤/クリームと青、暖砂色敷石。形状保持、既存UV保持、錨のUV不足15meshにUVを追加。GLB再読込のUV最大誤差2.98e-8、完全hash一致ではなく数値許容1e-6で確認。濡れた接続地形6候補は棄却し公開しません。ロープ約28396triでLODなし。接続作例は配布/加算しません。全多様体/衝突/歩行/物理/航海安全/魚種精度/Blender4.3.2/他engineは未検証。潮汐・水位動作は未実装。
+査定10配布記録、採用4・棄却6。品質改訂0、新基本0。累積査定66/1008配布記録（残942）であり独立形状数ではありません。錨の手入れ鉄色、浮標の塗直し赤/クリームと青、暖砂色敷石。形状保持、既存UV保持、錨のUV不足15meshにUVを追加。GLB再読込のUV最大誤差2.98e-8、完全hash一致ではなく数値許容1e-6で確認。濡れた接続地形を含む6候補は棄却し公開しません。ロープ約28396triでLODなし。接続作例は配布/加算しません。全多様体/衝突/歩行/物理/航海安全/魚種精度/Blender4.3.2/他engineは未検証。潮汐・水位動作は未実装。
 
 Ten distribution records assessed, four accepted material variants and six rejected; no base replacements or new base shapes. Cumulative 66/1008 assessed records, not unique shapes. Original geometry and existing UV retained; missing UV added on 15 anchor meshes. GLB UV numerical error up to 2.98e-8 within 1e-6 tolerance, not identical hash. Rejected wet terrain variants excluded. Rope remains 28396 triangles without LOD. Connection examples excluded from distribution. Full manifold/collision/walking/physics/safety/older Blender/other engines unverified; no tide simulation.
 
