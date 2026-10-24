@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 欠けた食器
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP010](../../previews/prison-fp001-024/thumbnails/FP010.png)](../../previews/prison-fp001-024/renders/FP010.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP010.png)
 
 Use / purpose: Chipped food bowl — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -34,7 +36,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 水差し
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP011](../../previews/prison-fp001-024/thumbnails/FP011.png)](../../previews/prison-fp001-024/renders/FP011.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP011.png)
 
 Use / purpose: Water jug — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -58,7 +62,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 錫の杯
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP012](../../previews/prison-fp001-024/thumbnails/FP012.png)](../../previews/prison-fp001-024/renders/FP012.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP012.png)
 
 Use / purpose: Pewter drinking cup — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -82,7 +88,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 囚人台帳
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP013](../../previews/prison-fp001-024/thumbnails/FP013.png)](../../previews/prison-fp001-024/renders/FP013.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP013.png)
 
 Use / purpose: Prisoners ledger — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -106,7 +114,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 インク壺と羽根ペン
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP014](../../previews/prison-fp001-024/thumbnails/FP014.png)](../../previews/prison-fp001-024/renders/FP014.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP014.png)
 
 Use / purpose: Inkpot and quill — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -130,7 +140,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 蝋燭と受け皿
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP015](../../previews/prison-fp001-024/thumbnails/FP015.png)](../../previews/prison-fp001-024/renders/FP015.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP015.png)
 
 Use / purpose: Candle and drip tray — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -154,7 +166,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 配給パン
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP016](../../previews/prison-fp001-024/thumbnails/FP016.png)](../../previews/prison-fp001-024/renders/FP016.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP016.png)
 
 Use / purpose: Ration bread — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -178,7 +192,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 白樺の箒
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP017](../../previews/prison-fp001-024/thumbnails/FP017.png)](../../previews/prison-fp001-024/renders/FP017.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP017.png)
 
 Use / purpose: Birch broom — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -196,13 +212,17 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459`.
 
+[Broom bristles detail](../../previews/prison-fp001-024/details/FP017_detail.png). Intentional crop.
+
 ## FP018
 
 **Three leg stool**
 
 三脚腰掛け
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP018](../../previews/prison-fp001-024/thumbnails/FP018.png)](../../previews/prison-fp001-024/renders/FP018.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP018.png)
 
 Use / purpose: Three leg stool — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -226,7 +246,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 鉄帯の小箱
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP019](../../previews/prison-fp001-024/thumbnails/FP019.png)](../../previews/prison-fp001-024/renders/FP019.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP019.png)
 
 Use / purpose: Iron bound lockbox — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -250,7 +272,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 看守の壁棚
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP020](../../previews/prison-fp001-024/thumbnails/FP020.png)](../../previews/prison-fp001-024/renders/FP020.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP020.png)
 
 Use / purpose: Jailer wall shelf — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 革の書類鞄
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP021](../../previews/prison-fp001-024/thumbnails/FP021.png)](../../previews/prison-fp001-024/renders/FP021.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP021.png)
 
 Use / purpose: Leather dispatch satchel — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -298,7 +324,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 古い鉄錠
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP022](../../previews/prison-fp001-024/thumbnails/FP022.png)](../../previews/prison-fp001-024/renders/FP022.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP022.png)
 
 Use / purpose: Old iron padlock — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -322,7 +350,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 手枷
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP023](../../previews/prison-fp001-024/thumbnails/FP023.png)](../../previews/prison-fp001-024/renders/FP023.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP023.png)
 
 Use / purpose: Forged hand manacles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -346,7 +376,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 足枷
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP024](../../previews/prison-fp001-024/thumbnails/FP024.png)](../../previews/prison-fp001-024/renders/FP024.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP024.png)
 
 Use / purpose: Heavy ankle shackles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 

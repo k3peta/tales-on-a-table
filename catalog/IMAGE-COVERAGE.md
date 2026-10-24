@@ -179,3 +179,5 @@
 [1008 base records and104 variants: exact ID coverage and gaps](international/COVERAGE.md). Catalogue image presence alone is not full model coverage.
 
 - [Quality 18](material_variants_ol055_story_at001.md):12 accepted comparison/thumbnail images. Cumulative176 assessed distribution records, not unique shapes.
+
+FP001–FP024:24 individual full renders +24 thumbnails +1 broom detail added. International base ID mappings641/1008, missing367; variant108/108. Not a claim that every prior mapping is an isolated individual render.

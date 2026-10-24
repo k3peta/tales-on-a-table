@@ -340,7 +340,9 @@ Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2
 
 固定鉄格子
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP001](../../previews/prison-fp001-024/thumbnails/FP001.png)](../../previews/prison-fp001-024/renders/FP001.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP001.png)
 
 Use / purpose: Fixed cell grille — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -364,7 +366,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 格子扉
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP002](../../previews/prison-fp001-024/thumbnails/FP002.png)](../../previews/prison-fp001-024/renders/FP002.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP002.png)
 
 Use / purpose: Barred cell gate — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -388,7 +392,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 看守の机
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP003](../../previews/prison-fp001-024/thumbnails/FP003.png)](../../previews/prison-fp001-024/renders/FP003.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP003.png)
 
 Use / purpose: Jailer trestle desk — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -412,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 看守の背もたれ椅子
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP004](../../previews/prison-fp001-024/thumbnails/FP004.png)](../../previews/prison-fp001-024/renders/FP004.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP004.png)
 
 Use / purpose: Jailer high back chair — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -436,7 +444,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 鍵束
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP005](../../previews/prison-fp001-024/thumbnails/FP005.png)](../../previews/prison-fp001-024/renders/FP005.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP005.png)
 
 Use / purpose: Wardens keyring — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -460,7 +470,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 寝藁の寝台
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP006](../../previews/prison-fp001-024/thumbnails/FP006.png)](../../previews/prison-fp001-024/renders/FP006.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP006.png)
 
 Use / purpose: Straw sleeping pallet — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -484,7 +496,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 板組みの水桶
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP007](../../previews/prison-fp001-024/thumbnails/FP007.png)](../../previews/prison-fp001-024/renders/FP007.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP007.png)
 
 Use / purpose: Stave water bucket — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -508,7 +522,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 壁松明
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP008](../../previews/prison-fp001-024/thumbnails/FP008.png)](../../previews/prison-fp001-024/renders/FP008.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP008.png)
 
 Use / purpose: Wall torch — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
@@ -532,7 +548,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 巻いた鉄鎖
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP009](../../previews/prison-fp001-024/thumbnails/FP009.png)](../../previews/prison-fp001-024/renders/FP009.png)
+
+[Full-size image](../../previews/prison-fp001-024/renders/FP009.png)
 
 Use / purpose: Coiled iron chain — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 

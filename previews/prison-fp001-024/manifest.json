@@ -1,0 +1,703 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "FP001",
+      "source_zip_sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e",
+      "source_glb_sha256": "171b062df3b28e79319c050f1c54da58e6031fdab33cab3f9e0cd65c92b173ca",
+      "camera_location": [
+        2.939999580383301,
+        -5.045749664306641,
+        4.304999351501465
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.619999408721924,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP001.png",
+      "image_source_sha256": "075da42990ac4b0c567af029bb77d4b43aff0af5a84234ef503e59a4c1719bdb",
+      "image_sha256": "b057878658faa186b298bb115e6100b22b8f8973afde48e272b96f8a9a588fbd",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP001.png",
+      "thumbnail_source_sha256": "c74b44cc2e2600063221ac082dd19d1bbf719608ec7c1e2f5974dc93a4fc48e1",
+      "thumbnail_sha256": "e78ad1d9fb9308bfc11b262ecbd55f14bac41e7b66402e89b4ab199fc1cf7398"
+    },
+    {
+      "id": "FP002",
+      "source_zip_sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b",
+      "source_glb_sha256": "0890a1fe8d98505dbf45454179cb993ba7e7283cc92758ad9905fcd66860d912",
+      "camera_location": [
+        2.8772499561309814,
+        -5.037499904632568,
+        4.258500099182129
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 4.570499897003174,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP002.png",
+      "image_source_sha256": "f53f3e8d8bc0f3df32a807c3f277d52e8a3c41794b257f3a9f33cac1d81c0679",
+      "image_sha256": "bcdbeb4e24fea851ebf254f1f806273f237424d7f49d4b96cb8b7677c16862e6",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP002.png",
+      "thumbnail_source_sha256": "085f34dac8a378f1eba6a9fb689133546fa850479a3719a286098d7e862b30f0",
+      "thumbnail_sha256": "9ea4ca79c017044f792609f73400a512c317444081da40603a6a048d5f5539d2"
+    },
+    {
+      "id": "FP003",
+      "source_zip_sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a",
+      "source_glb_sha256": "70614666529c540382d088e4811fb9b5345eff58049eafd443a6b5aa1f30aa6d",
+      "camera_location": [
+        1.9025647640228271,
+        -3.2521235942840576,
+        2.4444470405578613
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.0119699684073566e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.9769885540008545,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP003.png",
+      "image_source_sha256": "2d9ade3192a80d26f19542a5576ba5da9ff5de508a4470551fa5a30ac8a27efc",
+      "image_sha256": "c094a1f0bc785320f642c31794daf5a06f0351c7414c0be806de0392dcc032e4",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP003.png",
+      "thumbnail_source_sha256": "8842620c5aecc73cc3246e622056699be8f15c948d1c46639de12d7b75983f16",
+      "thumbnail_sha256": "4e409af6a6a6dde1cb5d3d520d0beea5ed3a56b07fd62313304529216bdd0f38"
+    },
+    {
+      "id": "FP004",
+      "source_zip_sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5",
+      "source_glb_sha256": "07881849c14cf63d0bd745b7fd89a2ab9ff5fa136896372affb5a49b6f247560",
+      "camera_location": [
+        1.5172499418258667,
+        -2.6010000705718994,
+        2.2497498989105225
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 2.3842501640319824,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP004.png",
+      "image_source_sha256": "fa44e6ac545b77ba835dfcf7ae25910805dacf1d6ba4f1d382380fffdcd77ce5",
+      "image_sha256": "270d90cc108a6ff43725f1e19b4563428b1f3e48e62ac86be1eb18f43890f568",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP004.png",
+      "thumbnail_source_sha256": "834c8c5577dcd733f305992976b4ae891d6bffd39651991887ece596d477a15a",
+      "thumbnail_sha256": "de5a4f865d6b20c594ddb4b2a55d85bf3e28b4b0456f2e81c5db7839f137c6f9"
+    },
+    {
+      "id": "FP005",
+      "source_zip_sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed",
+      "source_glb_sha256": "83dba8056554883201269f9805a1f92ab9832104e641ca773327733685c9d9bc",
+      "camera_location": [
+        1.0336371660232544,
+        -1.6895588636398315,
+        2.246323585510254
+      ],
+      "camera_rotation_euler": [
+        0.6941076517105103,
+        7.209538921415515e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 1.3373122215270996,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP005.png",
+      "image_source_sha256": "45152e060ef463f652fdecff858300f18c8ce6c70644416c86878229c6dfe0e8",
+      "image_sha256": "1c341231d814c86cb0b97ce16d932cb8b82e422a4ac2a71c4757e554ac5b4c3c",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP005.png",
+      "thumbnail_source_sha256": "40d701b1c0411c0405bfc73d44c1b31c5efb4c3ad2150075084a2999caf5a610",
+      "thumbnail_sha256": "cf4976c9db723d6d9a2a899cf937f2c5ba444452b314f46e704890f07291dad9"
+    },
+    {
+      "id": "FP006",
+      "source_zip_sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250",
+      "source_glb_sha256": "5e7d70ddc19f0e763d76c0456ba97f4bae851d5e17c731fda13946f8a0d0c87b",
+      "camera_location": [
+        2.116109848022461,
+        -3.6013197898864746,
+        2.307121992111206
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.311192035675049,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP006.png",
+      "image_source_sha256": "af76ce3d529a2aa5d1f19cf21f5453e02b6281bff51e05643f2b61b3283df444",
+      "image_sha256": "f08a4871befef4f68d640bcea60c8d4acacdfb437c29c174fae7a6eddd176da7",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP006.png",
+      "thumbnail_source_sha256": "fee2ad341cfa91fcb0b782834e79f3f1f551349e4bef2cef3c5f4361de35a71a",
+      "thumbnail_sha256": "89a7a6b9bf0aa2e9dc2e2b37a729b5de9fba92c16a4db44bdc10521488e2220d"
+    },
+    {
+      "id": "FP007",
+      "source_zip_sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347",
+      "source_glb_sha256": "36dd7889e459c985935878583a95b9612cdb3547e078cfbd7eddbe3946bbb5f6",
+      "camera_location": [
+        0.8056411743164062,
+        -1.3810992240905762,
+        1.1892797946929932
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.266007661819458,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP007.png",
+      "image_source_sha256": "b60af42ba85b5a6d04ae41952ea3d958d38f094c4b8c973db55c8940ae8dc617",
+      "image_sha256": "02c5259701d7537eb130ede4cf99ae75ca09e173d23f776faaf2b0c16169fc8a",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP007.png",
+      "thumbnail_source_sha256": "02421f38e42174f75c9837021d4f66a7e7d64d1e42f5bcb3e3533da26a095ac1",
+      "thumbnail_sha256": "bebd667031190f4c6ede130d65fcffa3d9649d8a0794dd730d7b81548ce6f281"
+    },
+    {
+      "id": "FP008",
+      "source_zip_sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0",
+      "source_glb_sha256": "a48b1e91dd6b943e80209e75cc77687197f0c343967e65e4efb80b0c17932297",
+      "camera_location": [
+        1.1395807266235352,
+        -2.1292169094085693,
+        1.8269232511520386
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.7907696962356567,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP008.png",
+      "image_source_sha256": "d130712d1fd8088151d697817f1d8c6ef2e20b3dfee3beb22872ca98363c1521",
+      "image_sha256": "09ebc1761ede19284a963fc77c83a52bc647a7ab36d7aab1f3316253df77a811",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP008.png",
+      "thumbnail_source_sha256": "55c004520442589762ccafbadf87eded7aa6a1592a8abac78e42f57b451e218d",
+      "thumbnail_sha256": "b5a71a4759c5c6c8d76ca4e8fb789ee50d753d8188de02a03d012cca7c76a322"
+    },
+    {
+      "id": "FP009",
+      "source_zip_sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7",
+      "source_glb_sha256": "3aa0600c226158e6c1757075691c5b74dbfa2e57fd52018a477527a6cf14767d",
+      "camera_location": [
+        0.85952228307724,
+        -1.1319561004638672,
+        1.7590891122817993
+      ],
+      "camera_rotation_euler": [
+        0.6941076517105103,
+        1.1815971845408058e-07,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 1.0346455574035645,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP009.png",
+      "image_source_sha256": "5ea2d04d59936bd0787e6600057df276f5306c7cf0785a7d8b2c79601af22c3a",
+      "image_sha256": "8b1d07e309a13d86763378ef5ea23bf69dd265877f421b9c579e0eeacd0e765e",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP009.png",
+      "thumbnail_source_sha256": "90c673ad0362eebf55d3646a5c56aa3062ebf05865d398730ec734a4c336c4e1",
+      "thumbnail_sha256": "893e7a08cdcdfc3c1aa0c1e2902271b32f035413441ea952848f96eeaf08ab58"
+    },
+    {
+      "id": "FP010",
+      "source_zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
+      "source_glb_sha256": "2c9391e1d7891e3ed693a83aa8e286b837d0291e2e2cec78fb164f83168bb5a4",
+      "camera_location": [
+        0.5354999899864197,
+        -0.9179999828338623,
+        0.6455000042915344
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.576443947077678e-09,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.8414999842643738,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP010.png",
+      "image_source_sha256": "4b1391d531d418aafe8803128520344a5d849acc59d89f71ebfeba9a3aa077ed",
+      "image_sha256": "fb4e901285ff22b4a2280814d84e602768435c1bdaf404c04b29877da8629207",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP010.png",
+      "thumbnail_source_sha256": "20d34d4c3a9b5f1f3c470798c60eac8856818e1e7b3984bb603dbd349f770549",
+      "thumbnail_sha256": "b75e57de20ef665c40917f1ed97df32a046a970bb157adf953edd4fb61da1dcf"
+    },
+    {
+      "id": "FP011",
+      "source_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "source_glb_sha256": "ed437e34a50bdb16ea7d27354f4034ddb9d6a73c7332dc40fcc497fb5c103e20",
+      "camera_location": [
+        0.6827692985534668,
+        -1.0800000429153442,
+        0.949999988079071
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.9900000095367432,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP011.png",
+      "image_source_sha256": "ddf5f9211aa11646bb9fabf8a1609794dfa77318b07725c2d6d49359c8c31529",
+      "image_sha256": "3265f828d6006eed3a01d231f9883bfb6260827f100291819101865989d10205",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP011.png",
+      "thumbnail_source_sha256": "fcad9cd7c8476bf44ec308b128029e4662f248ac606b7aa438f65183312722b5",
+      "thumbnail_sha256": "76683b51f7a016561db8681163e15c168dda5c4f3dc0f0722c42b0f904dbdcfd"
+    },
+    {
+      "id": "FP012",
+      "source_zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
+      "source_glb_sha256": "d3f523793662ee46d7be5c4f7ac043cebda8297659a9a5900fd31dc5482f91e7",
+      "camera_location": [
+        0.40629222989082336,
+        -0.6135006546974182,
+        0.47787538170814514
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.5623756051063538,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP012.png",
+      "image_source_sha256": "6feb3f4d1f35843278618e06bf6af10075e24d684e12f213877aee48fd255c88",
+      "image_sha256": "3335a35547c9eec9ba6748a0b2d379551e9aabeb1db8321dc8a5fc38d571332e",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP012.png",
+      "thumbnail_source_sha256": "27618b34912c798af31088c34848acc484cda1325487d900aff3457d52c2e9ff",
+      "thumbnail_sha256": "783a44c087ae60ba478e12333132633e57971721d6b091a270b489c57da056db"
+    },
+    {
+      "id": "FP013",
+      "source_zip_sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0",
+      "source_glb_sha256": "874421a6da0b3eeb4c440220a23e7fbd3373d648fbda32b835152ec27d057580",
+      "camera_location": [
+        0.5774999856948853,
+        -0.8250000476837158,
+        1.2567499876022339
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        -2.2927988396759247e-09,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.7425000071525574,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP013.png",
+      "image_source_sha256": "822a34db28772e13ee0f338daf55d94e504c4fbf71a21bbedc85d15396518934",
+      "image_sha256": "d1f3fab268f8cbb4253b42520384e597b23dc824764610c166d623d25917f437",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP013.png",
+      "thumbnail_source_sha256": "77d4d731482bf491b05bab22ef736a57eff1a0581bf2b8af39a2e9e3a2d5f1b1",
+      "thumbnail_sha256": "c3d7cbcc96dcddbc216ffa3a0656056d8b8babccafbe134f77029ae675f5935e"
+    },
+    {
+      "id": "FP014",
+      "source_zip_sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051",
+      "source_glb_sha256": "541f1add338399a04172dd01efad7dfc65c3212e50d10348c3dc923c5db66d0a",
+      "camera_location": [
+        0.5930160880088806,
+        -0.9485999941825867,
+        0.816849946975708
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.8695499897003174,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP014.png",
+      "image_source_sha256": "6ccebf64a0bcb9f687b19d59b930cf315a833d8856e89d62d593dada4f73f284",
+      "image_sha256": "a7be15c97734dcfc895cc6884140468c9b1a6eaab10d5032eb03a4d3d80c5ccd",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP014.png",
+      "thumbnail_source_sha256": "5f6a917fde8082e7bdb36dd309b9932d3c05572bace4a658a745cb4ba689ecd0",
+      "thumbnail_sha256": "b9f2dc1ca9cce544e46fe91203b71bd8463d6f8a42a65f5e21850048a4fd2084"
+    },
+    {
+      "id": "FP015",
+      "source_zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
+      "source_glb_sha256": "2d430ce4651502e49361c1a06ff9e2743732dde85681706748072c5cfb2ca97f",
+      "camera_location": [
+        0.4460499882698059,
+        -0.7037999629974365,
+        0.6040499806404114
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        3.57157219355031e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 0.6451500058174133,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP015.png",
+      "image_source_sha256": "f48c822f096f56fe5e61b3fe34758f4cc452727ad234d8f469bfe636df85f233",
+      "image_sha256": "af079880d259a3986591988ed9eae50d063752b021a2f32677a4da861aa5a467",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP015.png",
+      "thumbnail_source_sha256": "90d49c8080a62b563b02c14d7842660d2f1e12514afe029a9a3ac5c0490ab4f6",
+      "thumbnail_sha256": "7a2a3266413f960b04497bd385dfa71a3103edf2418d773f8baa2270d8e6c3cb"
+    },
+    {
+      "id": "FP016",
+      "source_zip_sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9",
+      "source_glb_sha256": "9a1b7de3cb586f2468515514876ae8100b42f121126edb09ddecf06dd1abf3b8",
+      "camera_location": [
+        0.39899998903274536,
+        -0.6839999556541443,
+        0.48299890756607056
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.6269999742507935,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP016.png",
+      "image_source_sha256": "14395e780186968f5f3501442626b155398e56556ad85a59089378b83f46abfc",
+      "image_sha256": "627f3e520ad9b1f8c42f91b82bbf7cd01e5a10cffdf6601bb5237d5fcd71587c",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP016.png",
+      "thumbnail_source_sha256": "ba282fd454fca628b573fc21634d85a435c280d496b4da15ddf9a2e281d96c9a",
+      "thumbnail_sha256": "cd6fd44a23caf2025ec5f90b7f26ef4ce7c9a17d3fe251b0d86bf398d19adef9"
+    },
+    {
+      "id": "FP017",
+      "source_zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
+      "source_glb_sha256": "e15ab149b703a67a39ae6021947c1a4ec67492cff7d0f2571769dd7ad452d7b7",
+      "camera_location": [
+        1.3204716444015503,
+        -2.257258176803589,
+        1.9712166786193848
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.0727922916412354,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP017.png",
+      "image_source_sha256": "2a1ef5a4511946eefa4f5ef2e6b26bbffaaf0cb188513a5bee08e7c6c614ef0c",
+      "image_sha256": "a2d91cf57e712fa0fb21a48dd9217e309a4bda241553128a5f68cda152ea262d",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP017.png",
+      "thumbnail_source_sha256": "83219c551ade914d4eb767484493eb3c539d76376e92b6e513d445aec4902bdf",
+      "thumbnail_sha256": "573839327cd2bd3b54424457bf1dd610bc44d7526cf9b9f6fea4bb398c996612"
+    },
+    {
+      "id": "FP018",
+      "source_zip_sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976",
+      "source_glb_sha256": "349f935ca5a431d633d484a88c0f26a7376a9a549b6f31fedae8bd5357bb62af",
+      "camera_location": [
+        0.5923128128051758,
+        -1.0130083560943604,
+        0.8933343291282654
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        3.57157219355031e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 0.9285910725593567,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP018.png",
+      "image_source_sha256": "4ac1b50766d710bc72a47145e79ba15798b9c407f5dddec8ac9626890f2b689f",
+      "image_sha256": "5bef65c9507cc0e0ba95161d09f7fe2599fd654823889dfb306bb5b97caafa3b",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP018.png",
+      "thumbnail_source_sha256": "72d376ae4189a0ddc5e61c3de4b46ec2aaf59a37722b02b6dcde14cdfe2c004f",
+      "thumbnail_sha256": "53adb731ef949b57c9e0847bd21a5ac7b6fa79ea2dc17d6d922d0f9f5b35c076"
+    },
+    {
+      "id": "FP019",
+      "source_zip_sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030",
+      "source_glb_sha256": "cec0d87a009cd0dbf8dcf4fd48026be2f2da4589930e9d1a98a06179118e3ad2",
+      "camera_location": [
+        0.6908999681472778,
+        -1.2013999223709106,
+        0.9496499300003052
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 1.0857000350952148,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP019.png",
+      "image_source_sha256": "69d19c0ce2caa1f9f3f7c72badc75ba7fbac5c325ceec13bbc6774067cbe9a73",
+      "image_sha256": "9c25713448cdfd5c6420a2f5fefa4d2b082b3d051893cf957434be9d1804a623",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP019.png",
+      "thumbnail_source_sha256": "33db442c1f3c6c20971643bfac75b22f71105ea7e0a4e853c4bcc13a849221fa",
+      "thumbnail_sha256": "1126d9005c4e9ffee5c86c864358271592cdde1d4ef82bfc47bfe59fd5e43e66"
+    },
+    {
+      "id": "FP020",
+      "source_zip_sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29",
+      "source_glb_sha256": "19ff75277d9f3e0ef5ad65bd2c521da67eddccb19e7b3af6f516155aebd80431",
+      "camera_location": [
+        1.5203999280929565,
+        -2.602649688720703,
+        1.4116499423980713
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.38919997215271,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP020.png",
+      "image_source_sha256": "8d22ea018f51011db56a8faace5c52bae6e015d622da7d7301335282256a24a8",
+      "image_sha256": "2027433571be55ba135fcaeddac1a289045b29802811da7f192b3d597315629d",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP020.png",
+      "thumbnail_source_sha256": "dc409e5502e4feaddcd8c99d7f8f856e2f9503c181f9fb5f0d80a278b2a19e1f",
+      "thumbnail_sha256": "e444b9f4be6743dee74f4ff80f834b5f953d23ebea0466d2e5d805e72af6c941"
+    },
+    {
+      "id": "FP021",
+      "source_zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
+      "source_glb_sha256": "d8be2e6bcdbf4163788ef85dea770ddaad2ad22d943b7ef5c769ed8dc45ede37",
+      "camera_location": [
+        0.8273913264274597,
+        -1.4518851041793823,
+        1.241387128829956
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.3001863956451416,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP021.png",
+      "image_source_sha256": "f0c9d2f11f61c7b5c2f96816baf2a5816fd5ec749b12224bb380e49857bde063",
+      "image_sha256": "323a640980e96541ff2974db8eba26baa95d956c4a2167a6f1977e5d8fdb0fc4",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP021.png",
+      "thumbnail_source_sha256": "f2396ece19cbfc90a67433a7eb3271312f116a6e53890fc71172a09f37a8a854",
+      "thumbnail_sha256": "770a3c972d75b131fb377003734b3e7abbff776ac8afc9c0ff8fb149763f5577"
+    },
+    {
+      "id": "FP022",
+      "source_zip_sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2",
+      "source_glb_sha256": "356872f03c93cf57c2d79fe66e9a2b60811c0454e337d14052ae9617ffd2ec74",
+      "camera_location": [
+        0.3147711455821991,
+        -0.5488576889038086,
+        0.4696621894836426
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.49464040994644165,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP022.png",
+      "image_source_sha256": "220d84094d518357e84bfdf280cb575378eb0cfe1cea56498bd7fa2f26b7c192",
+      "image_sha256": "26c411c05d8be0a1069c3d6c297dbe09eba36698677a4553dd179c55994e96c8",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP022.png",
+      "thumbnail_source_sha256": "e372ccf3869fdc8d96b4803b27ddd1b2a1ae40c82631e091edb1ab76b6e5785c",
+      "thumbnail_sha256": "8748d82a18ab7e05413cb83d3ccdb4272c8a2837065a02d3a49e1636b52d59e6"
+    },
+    {
+      "id": "FP023",
+      "source_zip_sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411",
+      "source_glb_sha256": "1d5b270d4ff22655ae4582935e62b34b49f0a87650b250b9815d7653a16b5287",
+      "camera_location": [
+        0.4744799733161926,
+        -0.6758999824523926,
+        1.0261200666427612
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.6123600006103516,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP023.png",
+      "image_source_sha256": "b4cec77f0c8e8721afebfd46524ea420c56513ac69d7afbe199136520b801d37",
+      "image_sha256": "cd8d52a379b06cbfd6ef296742761495324dfd284fe81e6fa1b19cfe8ec10be7",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP023.png",
+      "thumbnail_source_sha256": "b93cd8b8ff2bd73c654cf5091152378c6828f5c4af87e8262a56fb3aecab98f5",
+      "thumbnail_sha256": "e755a5a1c5b2451c682c74899b94e2552fcdac214259269e99ccd797150d12d7"
+    },
+    {
+      "id": "FP024",
+      "source_zip_sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081",
+      "source_glb_sha256": "4fca54070c603d04f9b1b94d6c9dab8f55ae067c4bf04b57926448bc8021bb9b",
+      "camera_location": [
+        1.128269910812378,
+        -1.6146000623703003,
+        2.4083800315856934
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        5.364936583873714e-08,
+        0.6107258200645447
+      ],
+      "camera_ortho_scale": 1.4531400203704834,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/renders/FP024.png",
+      "image_source_sha256": "b2173639099daf44620aa3c353f06dcbf9358a3cc18a5fd5aea2d5922c557fe8",
+      "image_sha256": "c9de03265f217abec3ef56030d33a73d714c3c5b8be5e9a3aad89f2226638eea",
+      "thumbnail": "previews/prison-fp001-024/thumbnails/FP024.png",
+      "thumbnail_source_sha256": "814e569102d15e1fbd3643eb67da9d8b63a0c362432257fd052d3caaa9f53b35",
+      "thumbnail_sha256": "76837ff77fb260a99f491951d748fd352645623fd831af0b38337ed3148c9a7d"
+    },
+    {
+      "id": "FP017",
+      "source_zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
+      "source_glb_sha256": "e15ab149b703a67a39ae6021947c1a4ec67492cff7d0f2571769dd7ad452d7b7",
+      "camera_location": [
+        1.3204716444015503,
+        -2.257258176803589,
+        1.5440958738327026
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.5527446269989014,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-fp001-024/details/FP017_detail.png",
+      "image_source_sha256": "becf0ac5a5c4b733207c131a105becadf7a3c95624472bdbd2a7213a6fa22df4",
+      "image_sha256": "c5cd175e566096647085fe367f071bb2b44042ee69c5f250da9201507eac8da7"
+    }
+  ]
+}

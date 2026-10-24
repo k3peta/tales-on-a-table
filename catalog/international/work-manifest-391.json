@@ -7,7 +7,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -27,10 +26,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP002",
@@ -40,7 +40,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -60,10 +59,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP003",
@@ -73,7 +73,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -93,10 +92,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP004",
@@ -106,7 +106,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -126,10 +125,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP005",
@@ -139,7 +139,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -159,10 +158,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP006",
@@ -172,7 +172,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -192,10 +191,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP007",
@@ -205,7 +205,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -225,10 +224,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP008",
@@ -238,7 +238,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -258,10 +257,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP009",
@@ -271,7 +271,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -291,10 +290,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP010",
@@ -304,7 +304,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -324,10 +323,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP011",
@@ -337,7 +337,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -357,10 +356,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP012",
@@ -370,7 +370,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -390,10 +389,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP013",
@@ -403,7 +403,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -423,10 +422,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP014",
@@ -436,7 +436,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -456,10 +455,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP015",
@@ -469,7 +469,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -489,10 +488,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP016",
@@ -502,7 +502,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -522,10 +521,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP017",
@@ -535,7 +535,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -555,10 +554,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP018",
@@ -568,7 +568,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -588,10 +587,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP019",
@@ -601,7 +601,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -621,10 +620,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP020",
@@ -634,7 +634,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -654,10 +653,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP021",
@@ -667,7 +667,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -687,10 +686,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP022",
@@ -700,7 +700,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -720,10 +719,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP023",
@@ -733,7 +733,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -753,10 +752,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP024",
@@ -766,7 +766,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "intended_placement_origin",
       "intended_front"
     ],
@@ -786,10 +785,11 @@
       "formats",
       "purpose_en",
       "units",
-      "documented_up_axis"
+      "documented_up_axis",
+      "image"
     ],
     "measurement_file": "pilot24-measurements.json",
-    "render_status": "No embedded preview; individual image still needed. Blender startup crashed before model import in publication environment."
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched"
   },
   {
     "id": "FP025",

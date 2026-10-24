@@ -68,3 +68,201 @@ Blender 4.3.2で制作。全単体BLEND/GLBの読み戻しと寸法、作例の�
 | PM011 | 端部接続設定 | [ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip) |
 
 [GitHub Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.20-prison) · [SHA256](../releases/prison/SHA256SUMS.txt)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FP001 — Fixed cell grille
+
+固定鉄格子
+
+[![FP001](../previews/prison-fp001-024/thumbnails/FP001.png)](../previews/prison-fp001-024/renders/FP001.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip)
+
+### FP002 — Barred cell gate
+
+格子扉
+
+[![FP002](../previews/prison-fp001-024/thumbnails/FP002.png)](../previews/prison-fp001-024/renders/FP002.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip)
+
+### FP003 — Jailer trestle desk
+
+看守の机
+
+[![FP003](../previews/prison-fp001-024/thumbnails/FP003.png)](../previews/prison-fp001-024/renders/FP003.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip)
+
+### FP004 — Jailer high back chair
+
+看守の背もたれ椅子
+
+[![FP004](../previews/prison-fp001-024/thumbnails/FP004.png)](../previews/prison-fp001-024/renders/FP004.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip)
+
+### FP005 — Wardens keyring
+
+鍵束
+
+[![FP005](../previews/prison-fp001-024/thumbnails/FP005.png)](../previews/prison-fp001-024/renders/FP005.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip)
+
+### FP006 — Straw sleeping pallet
+
+寝藁の寝台
+
+[![FP006](../previews/prison-fp001-024/thumbnails/FP006.png)](../previews/prison-fp001-024/renders/FP006.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip)
+
+### FP007 — Stave water bucket
+
+板組みの水桶
+
+[![FP007](../previews/prison-fp001-024/thumbnails/FP007.png)](../previews/prison-fp001-024/renders/FP007.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip)
+
+### FP008 — Wall torch
+
+壁松明
+
+[![FP008](../previews/prison-fp001-024/thumbnails/FP008.png)](../previews/prison-fp001-024/renders/FP008.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip)
+
+### FP009 — Coiled iron chain
+
+巻いた鉄鎖
+
+[![FP009](../previews/prison-fp001-024/thumbnails/FP009.png)](../previews/prison-fp001-024/renders/FP009.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP009.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip)
+
+### FP010 — Chipped food bowl
+
+欠けた食器
+
+[![FP010](../previews/prison-fp001-024/thumbnails/FP010.png)](../previews/prison-fp001-024/renders/FP010.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip)
+
+### FP011 — Water jug
+
+水差し
+
+[![FP011](../previews/prison-fp001-024/thumbnails/FP011.png)](../previews/prison-fp001-024/renders/FP011.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip)
+
+### FP012 — Pewter drinking cup
+
+錫の杯
+
+[![FP012](../previews/prison-fp001-024/thumbnails/FP012.png)](../previews/prison-fp001-024/renders/FP012.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip)
+
+### FP013 — Prisoners ledger
+
+囚人台帳
+
+[![FP013](../previews/prison-fp001-024/thumbnails/FP013.png)](../previews/prison-fp001-024/renders/FP013.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip)
+
+### FP014 — Inkpot and quill
+
+インク壺と羽根ペン
+
+[![FP014](../previews/prison-fp001-024/thumbnails/FP014.png)](../previews/prison-fp001-024/renders/FP014.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip)
+
+### FP015 — Candle and drip tray
+
+蝋燭と受け皿
+
+[![FP015](../previews/prison-fp001-024/thumbnails/FP015.png)](../previews/prison-fp001-024/renders/FP015.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip)
+
+### FP016 — Ration bread
+
+配給パン
+
+[![FP016](../previews/prison-fp001-024/thumbnails/FP016.png)](../previews/prison-fp001-024/renders/FP016.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip)
+
+### FP017 — Birch broom
+
+白樺の箒
+
+[![FP017](../previews/prison-fp001-024/thumbnails/FP017.png)](../previews/prison-fp001-024/renders/FP017.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip)
+
+### FP018 — Three leg stool
+
+三脚腰掛け
+
+[![FP018](../previews/prison-fp001-024/thumbnails/FP018.png)](../previews/prison-fp001-024/renders/FP018.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip)
+
+### FP019 — Iron bound lockbox
+
+鉄帯の小箱
+
+[![FP019](../previews/prison-fp001-024/thumbnails/FP019.png)](../previews/prison-fp001-024/renders/FP019.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip)
+
+### FP020 — Jailer wall shelf
+
+看守の壁棚
+
+[![FP020](../previews/prison-fp001-024/thumbnails/FP020.png)](../previews/prison-fp001-024/renders/FP020.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip)
+
+### FP021 — Leather dispatch satchel
+
+革の書類鞄
+
+[![FP021](../previews/prison-fp001-024/thumbnails/FP021.png)](../previews/prison-fp001-024/renders/FP021.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip)
+
+### FP022 — Old iron padlock
+
+古い鉄錠
+
+[![FP022](../previews/prison-fp001-024/thumbnails/FP022.png)](../previews/prison-fp001-024/renders/FP022.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip)
+
+### FP023 — Forged hand manacles
+
+手枷
+
+[![FP023](../previews/prison-fp001-024/thumbnails/FP023.png)](../previews/prison-fp001-024/renders/FP023.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP023.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip)
+
+### FP024 — Heavy ankle shackles
+
+足枷
+
+[![FP024](../previews/prison-fp001-024/thumbnails/FP024.png)](../previews/prison-fp001-024/renders/FP024.png)
+
+[Full image](../previews/prison-fp001-024/renders/FP024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip)
+
+[FP017 bristles detail](../previews/prison-fp001-024/details/FP017_detail.png)

@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 617,
-      "preview_not_mapped": 391,
+      "id_mapped_preview": 641,
+      "preview_not_mapped": 367,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -19572,8 +19572,8 @@
       "name_ja": "固定鉄格子",
       "purpose_en": "Fixed cell grille — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         2.245,
         0.1265,
@@ -19634,7 +19634,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP001.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP002",
@@ -19644,8 +19646,8 @@
       "name_ja": "格子扉",
       "purpose_en": "Barred cell gate — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         1.3475,
         0.223,
@@ -19706,7 +19708,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP002.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP003",
@@ -19716,8 +19720,8 @@
       "name_ja": "看守の机",
       "purpose_en": "Jailer trestle desk — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         1.804235,
         0.909,
@@ -19778,7 +19782,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP003.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP004",
@@ -19788,8 +19794,8 @@
       "name_ja": "看守の背もたれ椅子",
       "purpose_en": "Jailer high back chair — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.598,
         0.58,
@@ -19850,7 +19856,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP004.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP005",
@@ -19860,8 +19868,8 @@
       "name_ja": "鍵束",
       "purpose_en": "Wardens keyring — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.990602,
         0.735313,
@@ -19922,7 +19930,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP005.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP006",
@@ -19932,8 +19942,8 @@
       "name_ja": "寝藁の寝台",
       "purpose_en": "Straw sleeping pallet — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         1.554459,
         2.006783,
@@ -19994,7 +20004,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP006.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP007",
@@ -20004,8 +20016,8 @@
       "name_ja": "板組みの水桶",
       "purpose_en": "Stave water bucket — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.586,
         0.546,
@@ -20066,7 +20078,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP007.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP008",
@@ -20076,8 +20090,8 @@
       "name_ja": "壁松明",
       "purpose_en": "Wall torch — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.16,
         0.5163,
@@ -20138,7 +20152,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP008.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP009",
@@ -20148,8 +20164,8 @@
       "name_ja": "巻いた鉄鎖",
       "purpose_en": "Coiled iron chain — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.766404,
         0.650087,
@@ -20210,7 +20226,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP009.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP010",
@@ -20220,8 +20238,8 @@
       "name_ja": "欠けた食器",
       "purpose_en": "Chipped food bowl — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.51,
         0.51,
@@ -20282,7 +20300,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP010.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP011",
@@ -20292,8 +20312,8 @@
       "name_ja": "水差し",
       "purpose_en": "Water jug — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.585539,
         0.48,
@@ -20354,7 +20374,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP011.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP012",
@@ -20364,8 +20386,8 @@
       "name_ja": "錫の杯",
       "purpose_en": "Pewter drinking cup — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.340834,
         0.244,
@@ -20426,7 +20448,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP012.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP013",
@@ -20436,8 +20460,8 @@
       "name_ja": "囚人台帳",
       "purpose_en": "Prisoners ledger — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.55,
         0.403222,
@@ -20498,7 +20522,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP013.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP014",
@@ -20508,8 +20534,8 @@
       "name_ja": "インク壺と羽根ペン",
       "purpose_en": "Inkpot and quill — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.184332,
         0.105,
@@ -20570,7 +20596,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP014.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP015",
@@ -20580,8 +20608,8 @@
       "name_ja": "蝋燭と受け皿",
       "purpose_en": "Candle and drip tray — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.391,
         0.32,
@@ -20642,7 +20670,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP015.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP016",
@@ -20652,8 +20682,8 @@
       "name_ja": "配給パン",
       "purpose_en": "Ration bread — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.38,
         0.26,
@@ -20714,7 +20744,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP016.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP017",
@@ -20724,8 +20756,8 @@
       "name_ja": "白樺の箒",
       "purpose_en": "Birch broom — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.177194,
         0.164466,
@@ -20786,7 +20818,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP017.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP018",
@@ -20796,8 +20830,8 @@
       "name_ja": "三脚腰掛け",
       "purpose_en": "Three leg stool — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.562782,
         0.56,
@@ -20858,7 +20892,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP018.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP019",
@@ -20868,8 +20904,8 @@
       "name_ja": "鉄帯の小箱",
       "purpose_en": "Iron bound lockbox — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.658,
         0.504,
@@ -20930,7 +20966,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP019.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP020",
@@ -20940,8 +20978,8 @@
       "name_ja": "看守の壁棚",
       "purpose_en": "Jailer wall shelf — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         1.448,
         0.3875,
@@ -21002,7 +21040,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP020.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP021",
@@ -21012,8 +21052,8 @@
       "name_ja": "革の書類鞄",
       "purpose_en": "Leather dispatch satchel — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.491897,
         0.247,
@@ -21074,7 +21114,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP021.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP022",
@@ -21084,8 +21126,8 @@
       "name_ja": "古い鉄錠",
       "purpose_en": "Old iron padlock — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.17,
         0.0935,
@@ -21146,7 +21188,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP022.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP023",
@@ -21156,8 +21200,8 @@
       "name_ja": "手枷",
       "purpose_en": "Forged hand manacles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP023.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         0.4536,
         0.13493,
@@ -21218,7 +21262,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP023.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP024",
@@ -21228,8 +21274,8 @@
       "name_ja": "足枷",
       "purpose_en": "Heavy ankle shackles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-fp001-024/thumbnails/FP024.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": [
         1.0764,
         0.179242,
@@ -21290,7 +21336,9 @@
             1
           ]
         }
-      ]
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP024.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json"
     },
     {
       "id": "FP025",
