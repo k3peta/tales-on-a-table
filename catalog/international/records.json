@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 153,
-      "id_mapped_preview": 153,
+      "records": 154,
+      "id_mapped_preview": 154,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 153,
-      "formats_known": 153,
+      "purpose_en_present": 154,
+      "formats_known": 154,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -18924,7 +18924,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_007_CC0.zip",
       "pictured_zip_sha256": "a34f825509d0eb82feea89cb9c73d44eff0fe03a348791692ca104ae8256d3ca",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_007__repair",
+          "catalog": "catalog/material_variants_wh007_bn008.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "2942 zero faces removed; missing UV added;47298tri below50k;empty20slot rack no swords."
     },
     {
       "id": "WH_NEW_008",
@@ -18961,7 +18969,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_008_CC0.zip",
       "pictured_zip_sha256": "5984977a6b25b091a1ae461848226b053698bc96c31d664dab5fb9cc5cab6237",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "WH_NEW_008__repair",
+          "catalog": "catalog/material_variants_wh007_bn008.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "3096 zero faces removed; missing UV added;51944tri over50k;uniform grain remains."
     },
     {
       "id": "BN_001",
@@ -18998,7 +19014,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_001_CC0.zip",
       "pictured_zip_sha256": "a254472724bbc02eca36fca69ddd3311be3bdcb973f4123f3dfdbd5cf0de0f6a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "496tri hay fork, no identified geometry defect."
     },
     {
       "id": "BN_002",
@@ -19035,7 +19052,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_002_CC0.zip",
       "pictured_zip_sha256": "4527447fa5620e38aab4f7e4bc0ffea8a80ec999df57265e2e4f58681e88c0b5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "748tri rake, original grain retained."
     },
     {
       "id": "BN_003",
@@ -19072,7 +19090,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_003_CC0.zip",
       "pictured_zip_sha256": "0b42c76f7ba84398d44c2d973811fb156110768052b07f20606222c9a3ef1fd5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "BN_003__repair",
+          "catalog": "catalog/material_variants_wh007_bn008.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "3752tri unchanged geometry;one missing UV layer added, not original-UV-invariant."
     },
     {
       "id": "BN_004",
@@ -19109,7 +19135,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_004_CC0.zip",
       "pictured_zip_sha256": "6cd616419bcd3f8e8c0541bc0e7133b2e94e6d7e546636e8773bbabc2ae45da8",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "17752tri static wheelbarrow, rolling/load untested."
     },
     {
       "id": "BN_005",
@@ -19148,7 +19175,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_005_CC0.zip",
       "pictured_zip_sha256": "087ade38a007f2bac69d6ce3afd9b247fc6f663955bf5d20d56e80869d157f18",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "BN_005__repair",
+          "catalog": "catalog/material_variants_wh007_bn008.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "85280tri over20k;11missing UV layers added, geometry unchanged;dense fibers remain."
     },
     {
       "id": "BN_006",
@@ -19185,7 +19220,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_006_CC0.zip",
       "pictured_zip_sha256": "dcdd1fdce8a85cd51bd34d0a14819e517b92bca455a6ca17d8825d17e6670ee3",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4224tri,blue mapped wood texture variant retains geometry/UV/grain/non-basecolor channels."
     },
     {
       "id": "BN_007",
@@ -19222,7 +19258,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_007_CC0.zip",
       "pictured_zip_sha256": "12a8ead6389a2437e3d7d4d3789574b27f84f23973f4bf69c9189ce4a31c0178",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1224tri empty rack,no tools added."
     },
     {
       "id": "BN_008",
@@ -19259,7 +19296,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_008_CC0.zip",
       "pictured_zip_sha256": "63d60a6dd378cb6109f29d5901c9a6b2ae5357ba1476783f72f7877720de7c27",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "8832tri sieve,no separation simulation."
     },
     {
       "id": "BM_001",
@@ -45515,6 +45553,43 @@
       "uv_revision": "missing UV added before variant baseline; original has no vertex colors",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_004_CC0.zip",
       "pictured_zip_sha256": "75cf4938d32e7abb0f86aa27ccd749352de1fbaeb2365d3085d6d71e14b1d48e",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BN_006__bluewood",
+      "kind": "variant",
+      "base_id": "BN_006",
+      "name_en": "Three-compartment grain bin",
+      "name_ja": "三区画の穀物箱",
+      "purpose_en": "Blue wood pigment texture on original geometry and UV. Existing grain retained; normal, roughness and other channels unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-wh007-bn008-v1/BN_006__bluewood_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_006__bluewood_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_wh007_bn008.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-wh007-bn008-v1/BN_006__bluewood_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV unchanged; mapped wood pigment tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_006_CC0.zip",
+      "pictured_zip_sha256": "dcdd1fdce8a85cd51bd34d0a14819e517b92bca455a6ca17d8825d17e6670ee3",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

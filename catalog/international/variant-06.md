@@ -449,3 +449,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base WH_NEW_004](base-18.md#wh_new_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_CC0.zip) · [Full comparison](../../previews/quality-arm077-wh006-v1/WH_NEW_004__cyancrystal_overview_comparison.png) · [Details](../material_variants_arm077_wh006.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BN_006__bluewood
+
+**Three-compartment grain bin** · 三区画の穀物箱
+
+[![BN_006__bluewood](../../previews/quality-wh007-bn008-v1/BN_006__bluewood_thumb.png)](../../previews/quality-wh007-bn008-v1/BN_006__bluewood_overview_comparison.png)
+
+Use: Blue wood pigment texture on original geometry and UV. Existing grain retained; normal, roughness and other channels unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BN_006](base-19.md#bn_006) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_006__bluewood_CC0.zip) · [Full comparison](../../previews/quality-wh007-bn008-v1/BN_006__bluewood_overview_comparison.png) · [Details](../material_variants_wh007_bn008.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

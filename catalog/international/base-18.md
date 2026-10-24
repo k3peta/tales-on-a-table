@@ -476,6 +476,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality44:** 2942 zero faces removed; missing UV added;47298tri below50k;empty20slot rack no swords. [Details](../material_variants_wh007_bn008.md).
+
 ## WH_NEW_008
 
 **倉庫の梱包箱**
@@ -497,6 +499,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality44:** 3096 zero faces removed; missing UV added;51944tri over50k;uniform grain remains. [Details](../material_variants_wh007_bn008.md).
 
 ## BN_001
 
@@ -520,6 +524,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
 
+**Quality44:** 496tri hay fork, no identified geometry defect. [Details](../material_variants_wh007_bn008.md).
+
 ## BN_002
 
 **Wooden rake**
@@ -541,6 +547,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
+
+**Quality44:** 748tri rake, original grain retained. [Details](../material_variants_wh007_bn008.md).
 
 ## BN_003
 
@@ -564,6 +572,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
 
+**Quality44:** 3752tri unchanged geometry;one missing UV layer added, not original-UV-invariant. [Details](../material_variants_wh007_bn008.md).
+
 ## BN_004
 
 **Wooden wheelbarrow**
@@ -585,3 +595,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
+**Quality44:** 17752tri static wheelbarrow, rolling/load untested. [Details](../material_variants_wh007_bn008.md).

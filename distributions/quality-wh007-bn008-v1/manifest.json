@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "BN_003__repair",
+      "base_id": "BN_003",
+      "entity_type": "revision",
+      "zip": "BN_003__repair_CC0.zip",
+      "sha256": "18f4c40dd8ff8b2e5f4b09c986fdaa6e28848c15a9e7e3bb43481c7e133ac83c",
+      "bytes": 1247326,
+      "description": "Missing UV added; geometry and original materials preserved.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_003__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BN_005__repair",
+      "base_id": "BN_005",
+      "entity_type": "revision",
+      "zip": "BN_005__repair_CC0.zip",
+      "sha256": "e7a3bfac6a02e79ac8334cdc32623f951e3243ccf9737dd3e468e6a8814b227f",
+      "bytes": 4948244,
+      "description": "Missing UV added; geometry and original materials preserved.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_005__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BN_006__bluewood",
+      "base_id": "BN_006",
+      "entity_type": "material_variant",
+      "zip": "BN_006__bluewood_CC0.zip",
+      "sha256": "9c536632c923bbd2f6c118bd8a0708a9e219bd3b3c08fba83dcbe2c4b14a6909",
+      "bytes": 12506399,
+      "description": "Blue wood pigment texture on original geometry and UV. Existing grain retained; normal, roughness and other channels unchanged.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_006__bluewood_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WH_NEW_007__repair",
+      "base_id": "WH_NEW_007",
+      "entity_type": "revision",
+      "zip": "WH_NEW_007__repair_CC0.zip",
+      "sha256": "388aeb6a08058aad006b5e76345a31b624595ec2dcae3103965725da547454c3",
+      "bytes": 3828023,
+      "description": "Exact-zero-face removal plus missing UV addition; positive surface and existing UV preserved.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_007__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WH_NEW_008__repair",
+      "base_id": "WH_NEW_008",
+      "entity_type": "revision",
+      "zip": "WH_NEW_008__repair_CC0.zip",
+      "sha256": "63b56bd4ff263af60cc0deb148906d3f4cf85e658cf0e4066281bab1f2530d0c",
+      "bytes": 3997267,
+      "description": "Exact-zero-face removal plus missing UV addition; positive surface and existing UV preserved.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_008__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 4
+}

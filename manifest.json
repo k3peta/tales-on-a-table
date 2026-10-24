@@ -13824,7 +13824,23 @@
       "zip_sha256": "a34f825509d0eb82feea89cb9c73d44eff0fe03a348791692ca104ae8256d3ca",
       "preview_file": "previews/WH_NEW_007_preview.png",
       "preview_sha256": "deddbbbe0b4b907d304791114c5bbbf06b4ee5799d479d71e9603a99e5023226",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_007_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_007_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_007__repair",
+          "base_id": "WH_NEW_007",
+          "entity_type": "revision",
+          "zip": "WH_NEW_007__repair_CC0.zip",
+          "sha256": "388aeb6a08058aad006b5e76345a31b624595ec2dcae3103965725da547454c3",
+          "bytes": 3828023,
+          "description": "Exact-zero-face removal plus missing UV addition; positive surface and existing UV preserved.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_007__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WH_NEW_008",
@@ -13854,7 +13870,23 @@
       "zip_sha256": "5984977a6b25b091a1ae461848226b053698bc96c31d664dab5fb9cc5cab6237",
       "preview_file": "previews/WH_NEW_008_preview.png",
       "preview_sha256": "3675c503f21d42e39b4956261823f25332af3b394e7c58e641f6253374482c41",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_008_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/WH_NEW_008_CC0.zip",
+      "revisions": [
+        {
+          "id": "WH_NEW_008__repair",
+          "base_id": "WH_NEW_008",
+          "entity_type": "revision",
+          "zip": "WH_NEW_008__repair_CC0.zip",
+          "sha256": "63b56bd4ff263af60cc0deb148906d3f4cf85e658cf0e4066281bab1f2530d0c",
+          "bytes": 3997267,
+          "description": "Exact-zero-face removal plus missing UV addition; positive surface and existing UV preserved.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_008__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "BN_001",
@@ -13944,7 +13976,23 @@
       "zip_sha256": "0b42c76f7ba84398d44c2d973811fb156110768052b07f20606222c9a3ef1fd5",
       "preview_file": "previews/BN_003_preview.png",
       "preview_sha256": "04be2ef6f4c354b4ef8ded4e818f3b6ec348d49ee25585bc85b8b42de5470558",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_003_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_003_CC0.zip",
+      "revisions": [
+        {
+          "id": "BN_003__repair",
+          "base_id": "BN_003",
+          "entity_type": "revision",
+          "zip": "BN_003__repair_CC0.zip",
+          "sha256": "18f4c40dd8ff8b2e5f4b09c986fdaa6e28848c15a9e7e3bb43481c7e133ac83c",
+          "bytes": 1247326,
+          "description": "Missing UV added; geometry and original materials preserved.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_003__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "BN_004",
@@ -14004,7 +14052,23 @@
       "zip_sha256": "087ade38a007f2bac69d6ce3afd9b247fc6f663955bf5d20d56e80869d157f18",
       "preview_file": "previews/BN_005_preview.png",
       "preview_sha256": "2f37f41d52ce23a0f7c8c11c5443a2b9f9158d716da481199767168d06b31591",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_005_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-farmhouse-barn/BN_005_CC0.zip",
+      "revisions": [
+        {
+          "id": "BN_005__repair",
+          "base_id": "BN_005",
+          "entity_type": "revision",
+          "zip": "BN_005__repair_CC0.zip",
+          "sha256": "e7a3bfac6a02e79ac8334cdc32623f951e3243ccf9737dd3e468e6a8814b227f",
+          "bytes": 4948244,
+          "description": "Missing UV added; geometry and original materials preserved.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_005__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "BN_006",

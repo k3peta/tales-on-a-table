@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md) · [Catalogue 2](../../catalog/farmhouse-barn.en.md) · [Catalogue 3](../../catalog/farmhouse-barn.md)
 
+**Quality44:** 85280tri over20k;11missing UV layers added, geometry unchanged;dense fibers remain. [Details](../material_variants_wh007_bn008.md).
+
 ## BN_006
 
 **Three-compartment grain bin**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
+
+**Quality44:** 4224tri,blue mapped wood texture variant retains geometry/UV/grain/non-basecolor channels. [Details](../material_variants_wh007_bn008.md).
 
 ## BN_007
 
@@ -70,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
 
+**Quality44:** 1224tri empty rack,no tools added. [Details](../material_variants_wh007_bn008.md).
+
 ## BN_008
 
 **Grain sieve**
@@ -91,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/farmhouse-barn.en.md) · [Catalogue 2](../../catalog/farmhouse-barn.md) · [Catalogue 3](../../catalog/farmhouse-barn.zh-CN.md)
+
+**Quality44:** 8832tri sieve,no separation simulation. [Details](../material_variants_wh007_bn008.md).
 
 ## BM_001
 

@@ -30,7 +30,12 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "BN_003",
+      "BN_005",
+      "WH_NEW_007",
+      "WH_NEW_008"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +50,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 864,
-      "exact_image_zip_evidence": 144
+      "none": 860,
+      "exact_image_zip_evidence": 144,
+      "exact_image_zip_binding_public_retrieval_pending": 4
     }
   },
   "items": [
@@ -8527,7 +8533,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_007__repair",
+        "zip_sha256": "388aeb6a08058aad006b5e76345a31b624595ec2dcae3103965725da547454c3",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_007__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_007__repair",
+            "zip_sha256": "388aeb6a08058aad006b5e76345a31b624595ec2dcae3103965725da547454c3",
+            "image": "previews/quality-wh007-bn008-v1/WH_NEW_007__repair_thumb.png",
+            "image_sha256": "4ed2ca042b1b030929a6055590f7c3e9a867e208113adcb82c09fb7bbced88a2",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "WH_NEW_008",
@@ -8542,7 +8564,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "WH_NEW_008__repair",
+        "zip_sha256": "63b56bd4ff263af60cc0deb148906d3f4cf85e658cf0e4066281bab1f2530d0c",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/WH_NEW_008__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "WH_NEW_008__repair",
+            "zip_sha256": "63b56bd4ff263af60cc0deb148906d3f4cf85e658cf0e4066281bab1f2530d0c",
+            "image": "previews/quality-wh007-bn008-v1/WH_NEW_008__repair_thumb.png",
+            "image_sha256": "031bba9c9fe3ab7a606a321f51af2f574db7808b1da178471eb10040e893c36c",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "BN_001",
@@ -8587,7 +8625,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "BN_003__repair",
+        "zip_sha256": "18f4c40dd8ff8b2e5f4b09c986fdaa6e28848c15a9e7e3bb43481c7e133ac83c",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_003__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "BN_003__repair",
+            "zip_sha256": "18f4c40dd8ff8b2e5f4b09c986fdaa6e28848c15a9e7e3bb43481c7e133ac83c",
+            "image": "previews/quality-wh007-bn008-v1/BN_003__repair_thumb.png",
+            "image_sha256": "1c636741839810d1a454ee4e1728d7358659a7871ca0407255aeed8aea4c436a",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "BN_004",
@@ -8617,7 +8671,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "BN_005__repair",
+        "zip_sha256": "e7a3bfac6a02e79ac8334cdc32623f951e3243ccf9737dd3e468e6a8814b227f",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wh007-bn008-v1/BN_005__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "BN_005__repair",
+            "zip_sha256": "e7a3bfac6a02e79ac8334cdc32623f951e3243ccf9737dd3e468e6a8814b227f",
+            "image": "previews/quality-wh007-bn008-v1/BN_005__repair_thumb.png",
+            "image_sha256": "3ed8bff779286e085bb717137e8f10fd5d43eee598caf4e3d660ab08e1ac937e",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "BN_006",
