@@ -1,0 +1,17 @@
+{
+  "new_model_geometry": 0,
+  "counted_record_increment": 1,
+  "items": [
+    {
+      "revision": "herbalist-shop-v1",
+      "zip_file": "herbalist-scene-v1.zip",
+      "zip_bytes": 13203786,
+      "zip_sha256": "e6f7de5c30d69ff62380d9e3ffb70e2f4df1dc51aeabde72725010cefb448c4b",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "herbalist",
+      "model_increment": 0
+    }
+  ]
+}

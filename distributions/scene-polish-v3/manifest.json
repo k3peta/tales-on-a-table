@@ -1,0 +1,54 @@
+{
+  "new_model_geometry": 0,
+  "counted_record_increment": 0,
+  "items": [
+    {
+      "revision": "scene-polish-v3",
+      "zip_file": "horse-scene-v3.zip",
+      "zip_bytes": 11825708,
+      "zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "horse",
+      "model_increment": 0,
+      "existing_asset_id": "HCV_SCENE_HORSE"
+    },
+    {
+      "revision": "scene-polish-v3",
+      "zip_file": "winery-scene-v3.zip",
+      "zip_bytes": 9541976,
+      "zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "winery",
+      "model_increment": 0,
+      "existing_asset_id": "HCV_SCENE_WINERY"
+    },
+    {
+      "revision": "scene-polish-v3",
+      "zip_file": "cellar-scene-v3.zip",
+      "zip_bytes": 9487927,
+      "zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "cellar",
+      "model_increment": 0,
+      "existing_asset_id": "HCV_SCENE_CELLAR"
+    },
+    {
+      "revision": "scene-polish-v3",
+      "zip_file": "poultry-scene-v3.zip",
+      "zip_bytes": 3267653,
+      "zip_sha256": "ae4f1002f011c97ecde6252d12d4dd1f097213b54a5ffdc2340010af809fef92",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/poultry-scene-v3.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "poultry",
+      "model_increment": 0,
+      "counting": "uncounted supplementary revision of previously private arrangement; not a new catalog item"
+    }
+  ]
+}

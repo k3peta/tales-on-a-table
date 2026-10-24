@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 1007,
+  "item_count": 1008,
   "count_by_kind": {
     "model": 838,
     "derived_component": 2,
-    "group": 48,
+    "group": 49,
     "structural_variant": 15,
     "connection_configuration": 3,
     "placement_variant": 6,
@@ -62,7 +62,8 @@
     "goat_care_platform_v1": 1,
     "chapel_training": 6,
     "fantasy_infirmary": 3,
-    "craft_shops_v1": 9
+    "craft_shops_v1": 9,
+    "herbalist": 1
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -29040,7 +29041,21 @@
       "zip_file": "horse-scene-v2.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip",
       "theme": "husbandry_cellar_v2",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "revisions": [
+        {
+          "revision": "scene-polish-v3",
+          "zip_file": "horse-scene-v3.zip",
+          "zip_bytes": 11825708,
+          "zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip",
+          "license": "LicenseRef-Scene-Viewing-Rearranging",
+          "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+          "theme": "horse",
+          "model_increment": 0,
+          "existing_asset_id": "HCV_SCENE_HORSE"
+        }
+      ]
     },
     {
       "asset_id": "HCV_SCENE_CATTLE",
@@ -29092,7 +29107,21 @@
       "zip_file": "winery-scene-v2.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip",
       "theme": "husbandry_cellar_v2",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "revisions": [
+        {
+          "revision": "scene-polish-v3",
+          "zip_file": "winery-scene-v3.zip",
+          "zip_bytes": 9541976,
+          "zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip",
+          "license": "LicenseRef-Scene-Viewing-Rearranging",
+          "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+          "theme": "winery",
+          "model_increment": 0,
+          "existing_asset_id": "HCV_SCENE_WINERY"
+        }
+      ]
     },
     {
       "asset_id": "HCV_SCENE_CELLAR",
@@ -29118,7 +29147,21 @@
       "zip_file": "cellar-scene-v2.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip",
       "theme": "husbandry_cellar_v2",
-      "global_unique": "unconfirmed"
+      "global_unique": "unconfirmed",
+      "revisions": [
+        {
+          "revision": "scene-polish-v3",
+          "zip_file": "cellar-scene-v3.zip",
+          "zip_bytes": 9487927,
+          "zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip",
+          "license": "LicenseRef-Scene-Viewing-Rearranging",
+          "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+          "theme": "cellar",
+          "model_increment": 0,
+          "existing_asset_id": "HCV_SCENE_CELLAR"
+        }
+      ]
     },
     {
       "asset_id": "HCV601",
@@ -30210,6 +30253,33 @@
       "zip_file": "leatherworker-scene-v1.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip",
       "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "revision": "herbalist-shop-v1",
+      "zip_file": "herbalist-scene-v1.zip",
+      "zip_bytes": 13203786,
+      "zip_sha256": "e6f7de5c30d69ff62380d9e3ffb70e2f4df1dc51aeabde72725010cefb448c4b",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
+      "theme": "herbalist",
+      "model_increment": 0,
+      "asset_id": "HERBALIST_SCENE_V1",
+      "category": "scene",
+      "record_kind": "group",
+      "design_classification": "reused_models_arrangement",
+      "independent_design_increment": 0,
+      "names": {
+        "ja": "薬師の店舗",
+        "en": "Herbalist shop",
+        "zh-CN": "药师店铺"
+      },
+      "descriptions": {
+        "ja": "Static fictional shop; 14 reused types, no new model geometry. No medical efficacy or procedures.",
+        "en": "Static fictional shop; 14 reused types, no new model geometry. No medical efficacy or procedures.",
+        "zh-CN": "Static fictional shop; 14 reused types, no new model geometry. No medical efficacy or procedures."
+      },
       "global_unique": "unconfirmed"
     }
   ]

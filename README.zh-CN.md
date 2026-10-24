@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **1007条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **1008条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — 1008 records = 1007 + 1 herbalist arrangement; 4 scene revisions/supplement +0, new shapes0. Arrangements NOT CC0. [Details](catalog/scene_polish_herbalist.md).
 
 - 2026-10-24 JST — **1007 records** (998 + 6 model candidates + 3 arrangements; arrangements are NOT CC0; independent shape total unconfirmed). [craft-shops-v1](catalog/craft_shops_v1.md).
 

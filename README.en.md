@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **1007 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **1008 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — 1008 records = 1007 + 1 herbalist arrangement; 4 scene revisions/supplement +0, new shapes0. Arrangements NOT CC0. [Details](catalog/scene_polish_herbalist.md).
 
 - 2026-10-24 JST — **1007 records** (998 + 6 model candidates + 3 arrangements; arrangements are NOT CC0; independent shape total unconfirmed). [craft-shops-v1](catalog/craft_shops_v1.md).
 
