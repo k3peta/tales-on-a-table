@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-Current image mapping: **809/1008 base records;199 missing.127/127 variants pictured.** FW19 images show corrected revisions, not originals.
+Current image mapping: **833/1008 base records;175 missing.127/127 variants pictured.** FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +127 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
