@@ -170,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality38:** 8 zero-area triangles removed;29 positive tiny retained;14840tri. [Details](../material_variants_arm014_arm023.md).
+
 ## ARM_015
 
 **巡礼の石槌**
@@ -324,6 +326,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality38:** 30 zero-area triangles removed;6 positive tiny retained;92210tri over20k and regular grain remain. [Details](../material_variants_arm014_arm023.md).
+
 ## ARM_022
 
 **兵士の革張り円盾**
@@ -346,6 +350,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality38:** 66056tri over20k; blue hide variant retains geometry, UV and vertex color. [Details](../material_variants_arm014_arm023.md).
+
 ## ARM_023
 
 **道標紋の冒険者凧盾**
@@ -367,6 +373,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality38:** 77600tri over20k; rust-red hide variant retains geometry, UV and vertex color. [Details](../material_variants_arm014_arm023.md).
 
 ## ARM_024
 

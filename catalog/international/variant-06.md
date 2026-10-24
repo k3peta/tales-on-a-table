@@ -309,3 +309,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_011](base-16.md#arm_011) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_011__tealcloth_CC0.zip) · [Full comparison](../../previews/quality-td017-arm013-v1/ARM_011__tealcloth_overview_comparison.png) · [Details](../material_variants_td017_arm013.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_022__bluehide
+
+**兵士の革張り円盾** · 兵士の革張り円盾
+
+[![ARM_022__bluehide](../../previews/quality-arm014-023-v1/ARM_022__bluehide_thumb.png)](../../previews/quality-arm014-023-v1/ARM_022__bluehide_overview_comparison.png)
+
+Use: Shield hide basecolor chroma variant; original vertex color retained, UV tint texture multiplied. Geometry and UV unchanged. Roughness/normal/metallic/emission unchanged; not a geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_022](base-16.md#arm_022) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_022__bluehide_CC0.zip) · [Full comparison](../../previews/quality-arm014-023-v1/ARM_022__bluehide_overview_comparison.png) · [Details](../material_variants_arm014_arm023.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_023__rusthide
+
+**道標紋の冒険者凧盾** · 道標紋の冒険者凧盾
+
+[![ARM_023__rusthide](../../previews/quality-arm014-023-v1/ARM_023__rusthide_thumb.png)](../../previews/quality-arm014-023-v1/ARM_023__rusthide_overview_comparison.png)
+
+Use: Shield hide basecolor chroma variant; original vertex color retained, UV tint texture multiplied. Geometry and UV unchanged. Roughness/normal/metallic/emission unchanged; not a geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_023](base-16.md#arm_023) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_023__rusthide_CC0.zip) · [Full comparison](../../previews/quality-arm014-023-v1/ARM_023__rusthide_overview_comparison.png) · [Details](../material_variants_arm014_arm023.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

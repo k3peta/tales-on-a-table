@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 143,
-      "id_mapped_preview": 143,
+      "records": 145,
+      "id_mapped_preview": 145,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 143,
-      "formats_known": 143,
+      "purpose_en_present": 145,
+      "formats_known": 145,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -16483,7 +16483,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_014_CC0.zip",
       "pictured_zip_sha256": "e1dde319250155dd5cb2ef7766bce29d20781b172b2aa34b69da40fdc9b82cbe",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_014__repair",
+          "catalog": "catalog/material_variants_arm014_arm023.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "8 zero-area triangles removed;29 positive tiny retained;14840tri."
     },
     {
       "id": "ARM_015",
@@ -16743,7 +16751,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_021_CC0.zip",
       "pictured_zip_sha256": "29defdeb3a18d3c783f590c98cfc5275401129666363df43a73df0b063dca68d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_021__repair",
+          "catalog": "catalog/material_variants_arm014_arm023.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "30 zero-area triangles removed;6 positive tiny retained;92210tri over20k and regular grain remain."
     },
     {
       "id": "ARM_022",
@@ -16780,7 +16796,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_022_CC0.zip",
       "pictured_zip_sha256": "51b47d175731c0fab2a4dd7cba6284c5457c888e1431cc81ee9c8cc4000dee29",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "66056tri over20k; blue hide variant retains geometry, UV and vertex color."
     },
     {
       "id": "ARM_023",
@@ -16817,7 +16834,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_023_CC0.zip",
       "pictured_zip_sha256": "8ae4a0042eb086d915b81ca7256d5d92f5b303ef1c1a6dc4836d2a55651197c4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "77600tri over20k; rust-red hide variant retains geometry, UV and vertex color."
     },
     {
       "id": "ARM_024",
@@ -44922,6 +44940,80 @@
       "uv_revision": "original UV unchanged",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_011_CC0.zip",
       "pictured_zip_sha256": "bfc6aed4cf5ba11868bc2c4073cf79cdd431ac0d7b13e9dd994efac5c8c3a172",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_022__bluehide",
+      "kind": "variant",
+      "base_id": "ARM_022",
+      "name_en": "兵士の革張り円盾",
+      "name_ja": "兵士の革張り円盾",
+      "purpose_en": "Shield hide basecolor chroma variant; original vertex color retained, UV tint texture multiplied. Geometry and UV unchanged. Roughness/normal/metallic/emission unchanged; not a geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm014-023-v1/ARM_022__bluehide_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_022__bluehide_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm014_arm023.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm014-023-v1/ARM_022__bluehide_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_022_CC0.zip",
+      "pictured_zip_sha256": "51b47d175731c0fab2a4dd7cba6284c5457c888e1431cc81ee9c8cc4000dee29",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_023__rusthide",
+      "kind": "variant",
+      "base_id": "ARM_023",
+      "name_en": "道標紋の冒険者凧盾",
+      "name_ja": "道標紋の冒険者凧盾",
+      "purpose_en": "Shield hide basecolor chroma variant; original vertex color retained, UV tint texture multiplied. Geometry and UV unchanged. Roughness/normal/metallic/emission unchanged; not a geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm014-023-v1/ARM_023__rusthide_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_023__rusthide_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm014_arm023.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm014-023-v1/ARM_023__rusthide_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_023_CC0.zip",
+      "pictured_zip_sha256": "8ae4a0042eb086d915b81ca7256d5d92f5b303ef1c1a6dc4836d2a55651197c4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
