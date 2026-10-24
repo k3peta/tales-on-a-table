@@ -4579,7 +4579,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_036_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "2bf5978f50d7f5362564c27ba904662a80af08ba33d1459f3ae33b6fa8615404",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_036__repair",
+          "base_id": "OL_036",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "長椅子木部の強い周期木目を抑制。金具と張地は保持。",
+          "zip": "OL_036__repair_CC0.zip",
+          "bytes": 6619091,
+          "sha256": "014f81e9ad6e1b97bc2a8c7d560951fcd68b13b8ecb428d515965ac071dede05",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol035-044-v1/OL_036__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_037",
@@ -4631,7 +4648,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_038_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "1fd7051ced813fada133553c19c4a3ab9acfd5cb0e3a0c90dc5ccdf7cc329dac",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_038__repair",
+          "base_id": "OL_038",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "壁飾り曲刀の刃の過剰な斑状模様を抑え、輪郭を読みやすくした材質改訂。",
+          "zip": "OL_038__repair_CC0.zip",
+          "bytes": 3016418,
+          "sha256": "cee4e0b358fbfee37bd3b1697811baedef2de08193320fccf31c5fb72772361b",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol035-044-v1/OL_038__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_039",

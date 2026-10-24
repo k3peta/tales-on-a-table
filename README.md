@@ -3,9 +3,11 @@
 [画像付きカタログ対応一覧 / Illustrated catalogue index / 图像目录](catalog/IMAGE-COVERAGE.md)
 現在の公開数は **1008配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
-材質variant **99件を別集計**。既存1008配布レコードは据置、新基本形状0。
+材質variant **101件を別集計**。既存1008配布レコードは据置、新基本形状0。
 
 ## 公開履歴
+
+- 2026-10-24 JST — 1008 unchanged; material variants101=99+2; two revisions not added. [OL035–044](catalog/material_variants_ol035_044.md).
 
 - 2026-10-24 JST — 1008 unchanged; material variants99=97+2; two revisions not added. [OL025–034](catalog/material_variants_ol025_034.md).
 
