@@ -1,0 +1,2 @@
+CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Model geometry and embedded materials only; code, images and private records excluded.

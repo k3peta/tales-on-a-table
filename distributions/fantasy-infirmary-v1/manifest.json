@@ -1,0 +1,85 @@
+{
+  "record_count": 3,
+  "components": 2,
+  "assemblies": 1,
+  "items": [
+    {
+      "asset_id": "INF101_CanvasStretcher",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 78574,
+      "zip_sha256": "db4025904742255ffd9d69002b034e704eaaecd2fa7c6077474bd18313560263",
+      "names": {
+        "ja": "CanvasStretcher",
+        "en": "CanvasStretcher",
+        "zh-CN": "CanvasStretcher"
+      },
+      "descriptions": {
+        "ja": "INF101_CanvasStretcher",
+        "en": "INF101_CanvasStretcher",
+        "zh-CN": "INF101_CanvasStretcher"
+      },
+      "zip_file": "INF101_CanvasStretcher_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip",
+      "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "INF102_BedsideCantileverTray",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 73235,
+      "zip_sha256": "ab41a6d0a520c097829135340a5072dc6787e746e0389aa1c1b37ea28114f1a3",
+      "names": {
+        "ja": "BedsideCantileverTray",
+        "en": "BedsideCantileverTray",
+        "zh-CN": "BedsideCantileverTray"
+      },
+      "descriptions": {
+        "ja": "INF102_BedsideCantileverTray",
+        "en": "INF102_BedsideCantileverTray",
+        "zh-CN": "INF102_BedsideCantileverTray"
+      },
+      "zip_file": "INF102_BedsideCantileverTray_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip",
+      "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "INFV01_FantasyInfirmary",
+      "category": "architecture_prop",
+      "record_kind": "group",
+      "design_classification": "assembly",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 8285109,
+      "zip_sha256": "25728e489645198539c7a00a85767f0ea7f491629a141f8bce1472bc108d5cba",
+      "names": {
+        "ja": "FantasyInfirmary",
+        "en": "FantasyInfirmary",
+        "zh-CN": "FantasyInfirmary"
+      },
+      "descriptions": {
+        "ja": "INFV01_FantasyInfirmary",
+        "en": "INFV01_FantasyInfirmary",
+        "zh-CN": "INFV01_FantasyInfirmary"
+      },
+      "zip_file": "INFV01_FantasyInfirmary_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip",
+      "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 995,
+  "item_count": 998,
   "count_by_kind": {
-    "model": 830,
+    "model": 832,
     "derived_component": 2,
-    "group": 44,
+    "group": 45,
     "structural_variant": 15,
     "connection_configuration": 3,
     "placement_variant": 6,
@@ -60,7 +60,8 @@
     "masonry_handling": 2,
     "winery_utilities_v1": 3,
     "goat_care_platform_v1": 1,
-    "chapel_training": 6
+    "chapel_training": 6,
+    "fantasy_infirmary": 3
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -29896,6 +29897,84 @@
       "zip_file": "CPTV02_TrainingCourt_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip",
       "theme": "chapel_training",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "INF101_CanvasStretcher",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 78574,
+      "zip_sha256": "db4025904742255ffd9d69002b034e704eaaecd2fa7c6077474bd18313560263",
+      "names": {
+        "ja": "CanvasStretcher",
+        "en": "CanvasStretcher",
+        "zh-CN": "CanvasStretcher"
+      },
+      "descriptions": {
+        "ja": "INF101_CanvasStretcher",
+        "en": "INF101_CanvasStretcher",
+        "zh-CN": "INF101_CanvasStretcher"
+      },
+      "zip_file": "INF101_CanvasStretcher_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip",
+      "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "INF102_BedsideCantileverTray",
+      "category": "architecture_prop",
+      "record_kind": "model",
+      "design_classification": "furnishing_or_prop",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 73235,
+      "zip_sha256": "ab41a6d0a520c097829135340a5072dc6787e746e0389aa1c1b37ea28114f1a3",
+      "names": {
+        "ja": "BedsideCantileverTray",
+        "en": "BedsideCantileverTray",
+        "zh-CN": "BedsideCantileverTray"
+      },
+      "descriptions": {
+        "ja": "INF102_BedsideCantileverTray",
+        "en": "INF102_BedsideCantileverTray",
+        "zh-CN": "INF102_BedsideCantileverTray"
+      },
+      "zip_file": "INF102_BedsideCantileverTray_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip",
+      "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "INFV01_FantasyInfirmary",
+      "category": "architecture_prop",
+      "record_kind": "group",
+      "design_classification": "assembly",
+      "independent_design_increment": null,
+      "revision": "fantasy-infirmary-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 8285109,
+      "zip_sha256": "25728e489645198539c7a00a85767f0ea7f491629a141f8bce1472bc108d5cba",
+      "names": {
+        "ja": "FantasyInfirmary",
+        "en": "FantasyInfirmary",
+        "zh-CN": "FantasyInfirmary"
+      },
+      "descriptions": {
+        "ja": "INFV01_FantasyInfirmary",
+        "en": "INFV01_FantasyInfirmary",
+        "zh-CN": "INFV01_FantasyInfirmary"
+      },
+      "zip_file": "INFV01_FantasyInfirmary_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip",
+      "theme": "fantasy_infirmary",
       "global_unique": "unconfirmed"
     }
   ]
