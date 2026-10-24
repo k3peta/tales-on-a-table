@@ -7,6 +7,8 @@ Current total: **1008 distribution records** (2026-10-24 JST). The global number
 
 ## Publication history
 
+- 2026-10-24 — [ARM001/003 color correction v2](catalog/arm001_003_color_correction_v2.md): BLEND/GLB vertex colors verified; supersedes withdrawn quality37 repairs. Base1008/variants145 unchanged. 頂点色訂正版のみ解除 / 仅修正版解除暂停。
+
 - 2026-10-24 — [Quality38](catalog/material_variants_arm014_arm023.md):2 color variants,2 revisions; base1008 unchanged, variants145. All1008 ID images retained. Audited376,remaining632;87 budget issues unresolved.
 
 - 2026-10-24 — [Quality37](catalog/material_variants_td017_arm013.md):2 color variants,2 revisions; base1008 unchanged, variants143. All1008 ID images retained. Audited366,remaining642;79 budget issues unresolved.

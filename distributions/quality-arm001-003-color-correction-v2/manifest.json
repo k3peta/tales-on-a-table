@@ -13,7 +13,9 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_color_guard_passed_public_match_pending"
+      "qa_status": "public_matches_final_zip_geometry_uv_vertex_color_guard",
+      "recommendation_status": "v2_color_hold_cleared",
+      "public_identity_verified_commit": "24629a9fb0f5401609c7e711e2918937eee523f6"
     },
     {
       "id": "ARM_003__repair_color_v2",
@@ -28,7 +30,9 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_color_guard_passed_public_match_pending"
+      "qa_status": "public_matches_final_zip_geometry_uv_vertex_color_guard",
+      "recommendation_status": "v2_color_hold_cleared",
+      "public_identity_verified_commit": "24629a9fb0f5401609c7e711e2918937eee523f6"
     }
   ],
   "revisions": 2,

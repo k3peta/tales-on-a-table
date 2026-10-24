@@ -1,5 +1,5 @@
 {
-  "status": "public_retrieval_pending",
+  "status": "public_matches_final_zip_geometry_uv_vertex_color_guard",
   "guard_run": "6b5d7175-d420-45a8-8388-97fd7e4ac5e4",
   "blender": {
     "version": "5.2.2 LTS",
@@ -167,5 +167,6 @@
       },
       "zip_mtime_ns": 1792857205458215116
     }
-  ]
+  ],
+  "published_package_commit": "24629a9fb0f5401609c7e711e2918937eee523f6"
 }

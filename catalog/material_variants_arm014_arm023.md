@@ -1,5 +1,7 @@
 # Quality38 / 品質第38便 / 质量第38批
 
+> Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).
+
 Base1008 unchanged; material variants145=143+2 counted separately. Two revisions add no model; originals retained.
 
 ARM014 removes8 exact-zero triangles, ARM021 removes30; positive tiny surfaces retained. ARM021 still92210tri and regular plank grain remains. Blue ARM022 and rust-red ARM023 hide variants preserve geometry, UV and original vertex colors, adding a UV tint texture; other material channels unchanged. Color is not repair. Not liquid-color variants.

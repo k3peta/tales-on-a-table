@@ -1,10 +1,12 @@
 # ARM001/003 vertex-color correction v2 / 頂点色訂正版 / 顶点色修正版
 
-Two revisions; base1008 and variants145 unchanged. Public retrieval pending: prior repairs remain withdrawn.
+> Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).
+
+Two revisions; base1008 and variants145 unchanged. Public retrieval verified: only v2 hold cleared; prior repairs remain withdrawn.
 
 Originals contain zero-area defects. Quality37 repairs dropped vertex colors; regression now rejects both old BLEND and GLB (four files). V2 preserves oriented triangle corner colors and positions on surviving surfaces, removing only42/96 zero-area faces. ARM00341808 triangles remains over budget.
 
-旧版は削除せず履歴保持。旧修復は両形式で頂点色欠落を確認。訂正版のみ公開再取得後に解除します。仅v2通过公开下载校验后解除暂停；旧版仍不推荐。
+旧版は削除せず履歴保持。旧修復は両形式で頂点色欠落を確認。訂正版のみ公開再取得成功により解除済み。仅v2通过公开下载校验后解除暂停；旧版仍不推荐。
 
 Impact scan:121 published-hash-matched revision records:2 missing COLOR_0,119 had no source vertex colors. This scan concerns GLB attribute presence by named objects, not full color-value/BLEND validation of119 or all1008 records. Targeted v2 checks cover both formats. Assessed376/remain632/budget87 unchanged. No gameplay/collision/load/oldBlender approval.
 

@@ -524,6 +524,10 @@ Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../
 
 ## ARM_001
 
+> Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).
+
+[Current v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_CC0.zip) · [![ARM_001 v2](../../previews/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_thumb.png)](../../previews/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_close_comparison.png)
+
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
 **竜翼鍔の旅剣**
@@ -548,7 +552,7 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality37:** 42 exact-zero triangles removed;160 positive tiny retained;10426tri. [Details](../material_variants_td017_arm013.md).
 
-**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+**Withdrawn historical repair (both formats):** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## ARM_002
 
@@ -576,6 +580,10 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 ## ARM_003
 
+> Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).
+
+[Current v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_CC0.zip) · [![ARM_003 v2](../../previews/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_thumb.png)](../../previews/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_close_comparison.png)
+
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
 **海門守護の伝説剣**
@@ -598,4 +606,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 **Quality37:** 96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k. [Details](../material_variants_td017_arm013.md).
-**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+**Withdrawn historical repair (both formats):** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
