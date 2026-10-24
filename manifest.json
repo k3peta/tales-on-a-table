@@ -2946,7 +2946,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_041_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "3af3a1754dbaec88ba5cc27cb10484c27be19eaac7e774f865dd42df2b90343a",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_041__repair",
+          "base_id": "FH_041",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "帰港札の掛け板の反復木目を抑え、札と魚の印を読みやすくした材質改訂。",
+          "zip": "FH_041__repair_CC0.zip",
+          "bytes": 9798077,
+          "sha256": "161d58124dda7d4def34f26f238479fab6deb355d8ed80870f9ba419b7ab297a",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_041__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_042",
@@ -2972,7 +2989,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_042_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "1725e1836d1e33795531dff9c3c886101103554b80268f264f338df3f455a277",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_042__repair",
+          "base_id": "FH_042",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "単体帰港札の木目コントラストを抑え、魚の印と吊り穴の判別を改善。",
+          "zip": "FH_042__repair_CC0.zip",
+          "bytes": 7548083,
+          "sha256": "0ca5d0b492d1da979743d970e8071853df921ab14db6a51a0173ca6657f9bba9",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_042__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_043",
@@ -2998,7 +3032,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_043_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "1b43dc0a622e5867860edf339f653558943cae8e2f922b1945ffc3974df0af51",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_043__repair",
+          "base_id": "FH_043",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "小祠の木目を抑え、内部の舟形装飾と供物皿を読みやすくした材質改訂。",
+          "zip": "FH_043__repair_CC0.zip",
+          "bytes": 11017485,
+          "sha256": "b95e20b006e7f43dbb63f8fde940e7b20eaae316cc99ec883eb9e694d08d2f38",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_043__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_044",
@@ -3076,7 +3127,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_046_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "cc22ff06666e980509f791b81bd84555f2c652ab28332504100820886e4a5079",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_046__repair",
+          "base_id": "FH_046",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "荷車の反復木目を抑え、床板・車輪・支柱の構成を明瞭化。",
+          "zip": "FH_046__repair_CC0.zip",
+          "bytes": 19723740,
+          "sha256": "d145fdad6cf71914d826d722f17972a175ff4d1f16736d10f3caa9bb5109fcda",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_046__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_047",
@@ -3128,7 +3196,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_048_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "e5abd0a4b3c4781f723e38d4ac53c37b5641aa02a76a591f2cb4a5fedf193c2d",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_048__repair",
+          "base_id": "FH_048",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "滑車の木製頬板の木目を抑え、車輪と金具の判別を改善。",
+          "zip": "FH_048__repair_CC0.zip",
+          "bytes": 8383263,
+          "sha256": "6ea05004a47593400adedb87eb163cf3d0007e9ce8145b4779c39735a8b997d7",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_048__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_049",
@@ -3154,7 +3239,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_049_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "08ad5a66b50e51772af47fca4d2c99379ac002989e3de9c3acb39e9a35a3948f",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_049__repair",
+          "base_id": "FH_049",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "工具束の木槌の木目を抑え、工具の輪郭を読みやすくした材質改訂。",
+          "zip": "FH_049__repair_CC0.zip",
+          "bytes": 7626723,
+          "sha256": "51e540be17626adc681acb78ad86f320eb09354cb61f0c490d20df9ef7035d6c",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_049__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_050",
@@ -3180,7 +3282,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_050_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "47a3fd599a0503d48f252383ba2f601d766345b0d308aac3efadd590a9abe172",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_050__repair",
+          "base_id": "FH_050",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "流木の反復木目を抑制。瓶のガラス材質と元形状は保持。",
+          "zip": "FH_050__repair_CC0.zip",
+          "bytes": 2361591,
+          "sha256": "318c1e35e39c71c27b196c9d931f473462ae179e5d533602e424004cfbab9c3c",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_050__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_051",

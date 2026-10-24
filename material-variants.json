@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 90,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1279,6 +1279,21 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_037__color_CC0.zip"
+    },
+    {
+      "id": "FH_044__color",
+      "base_id": "FH_044",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u76bf\u306e\u307f\u8d64\u8336\u8272\u306e\u9676\u5668\u306b\u5909\u66f4\u3002\u8c9d\u6bbb\u306e\u5f62\u72b6\u3068\u6750\u8cea\u306f\u4fdd\u6301\u3002",
+      "zip": "FH_044__color_CC0.zip",
+      "bytes": 447434,
+      "sha256": "413c19c6d110a2d00adbfb824558a89586f6aedc4eca166afd852907e695f9b9",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_044__color_CC0.zip"
     }
   ]
 }
