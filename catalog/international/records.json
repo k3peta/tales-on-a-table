@@ -22516,7 +22516,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared.",
+      "known_issue": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
       "revision_history": [
         {
           "id": "WT007__repair",
@@ -22526,6 +22526,13 @@
           "comparison": "previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png",
           "status": "withdrawn validation claim; historical v1",
           "qa_status": "validation_claim_withdrawn"
+        },
+        {
+          "id": "WT007__repair",
+          "geometry_revision": "channel_fitted_water_v3_clean_slots",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip",
+          "qa_status": "public_download_reimport_passed",
+          "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
         }
       ]
     },
@@ -22559,7 +22566,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared.",
+      "known_issue": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
       "revision_history": [
         {
           "id": "WT008__repair",
@@ -22569,6 +22576,13 @@
           "comparison": "previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png",
           "status": "withdrawn validation claim; historical v1",
           "qa_status": "validation_claim_withdrawn"
+        },
+        {
+          "id": "WT008__repair",
+          "geometry_revision": "channel_fitted_water_v3_clean_slots",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip",
+          "qa_status": "public_download_reimport_passed",
+          "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
         }
       ]
     },

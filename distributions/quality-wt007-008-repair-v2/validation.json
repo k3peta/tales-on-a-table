@@ -1,0 +1,66 @@
+{
+  "scope": "Independent Blender5.2.2 reimport of exact public-download ZIP contents; same strict no-null-material-slot, geometry correspondence, coordinate, UV and packed-image checks. Not gameplay, strength, collision or4.3.2 verification.",
+  "download_commit": "ce7201775d471b750b026db3166cf5e2cd4f14f2",
+  "source_zips": [
+    {
+      "id": "WT007__repair",
+      "sha256": "21ad458cdf977d93e771a8e619a6debb8c6c274f6cf752da15374dffba5d4730",
+      "model_sha256": {
+        "blend": "150f902d95542aae3696ac85d3b63d60b111862c04d275666347aafd2d0eba8d",
+        "glb": "e5e2a6b753a671a209abbd61854803f93ef9a78e7e024488e3e533284e038183"
+      }
+    },
+    {
+      "id": "WT008__repair",
+      "sha256": "cdffa6be9e068a54be7248e7ef37f9598fcde8eb36af21e47001658a83a7872d",
+      "model_sha256": {
+        "blend": "6cb3221368b496ba168fbc715f51ad4b6fe4dd7edbde2fde89bd88b934288f3b",
+        "glb": "e421a79e3036ba0a78e41648701c1f0f66321c2f91b1f49a5864bf4f9e5edbad"
+      }
+    }
+  ],
+  "results": [
+    {
+      "id": "WT007__repair",
+      "formats": {
+        "blend": {
+          "triangles": 7260,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 7260,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WT008__repair",
+      "formats": {
+        "blend": {
+          "triangles": 9660,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 9660,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "pass": true
+        }
+      }
+    }
+  ]
+}

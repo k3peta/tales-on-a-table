@@ -1,14 +1,17 @@
 # Stream-end repairs / 川断面修復 / 河道断面修复
 
-**Correction / 訂正:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared. [Replacement v2](wt007_008_replacement_v2.md). Original and v1 archives retained as history.
+**WT correction status / 訂正状況:** v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee. [v2 details](wt007_008_replacement_v2.md). 原v1の合格は撤回、v2公開再取得物の独立検査のみ合格。
 
-**WT007/WT008 — QA status pending / 検査記録の照合待ち / 检查记录待核对**
 
-QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+**Correction / 訂正:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport has now passed scoped checks; v1 remains withdrawn. [Replacement v2](wt007_008_replacement_v2.md). Original and v1 archives retained as history.
 
-最終数値記録は合格ですが、別QAのfalseフラグと不一致が残っています。解消まで全検査合格・推奨修正版とは扱いません。旧版にも既知の黒断面があり、旧版が正常と確認されたわけではありません。
+**WT007/WT008 — Historical v1 validation warning / v1検査誤りの履歴 / v1错误检验历史**
 
-最终数值记录为通过，另一份QA标志仍为false。差异未解决，不视为全部验证通过或推荐替换版。原版也有已知黑断面。
+Historical v1 notice (resolved as incorrect validation, not cleared): final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy was traced to an incorrectly reused old-candidate result; v1 failed the strict null-slot check. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+
+最終数値記録は合格ですが、別QAのfalseフラグと不一致が残っています。v1は合格撤回。訂正v2の状態は冒頭参照。旧版にも既知の黒断面があり、旧版が正常と確認されたわけではありません。
+
+最终数值记录为通过，另一份QA标志仍为false。v1通过声明撤回，v2状态见页首。原版也有已知黑断面。
 
 
 Two revised distribution records, zero new base models or variants. Original ZIPs/images retained as version history. Revised baseline channel_fitted_water_v2.

@@ -82,7 +82,11 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 [Revision ZIP — QA pending](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
-**Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
+**Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport now passed scoped checks; v1 claim remains withdrawn. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
+
+**Current v2 status:** v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.
+
+[Validated v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip) · [Validation evidence](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json) · [Version history](../../catalog/wt007_008_replacement_v2.md)
 
 ## WT008
 
@@ -114,7 +118,11 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 [Revision ZIP — QA pending](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
-**Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport pending; not fully QA-cleared. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
+**Correction:** Prior v1 pass claim withdrawn: stale older-candidate results were applied to a package failing strict null-material-slot checks. Replacement v2 public-download reimport now passed scoped checks; v1 claim remains withdrawn. [Replacement v2](../../catalog/wt007_008_replacement_v2.md).
+
+**Current v2 status:** v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.
+
+[Validated v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip) · [Validation evidence](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json) · [Version history](../../catalog/wt007_008_replacement_v2.md)
 
 ## AP001
 

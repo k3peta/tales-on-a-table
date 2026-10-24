@@ -18846,7 +18846,9 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip",
-          "qa_status": "public_download_reimport_pending"
+          "qa_status": "public_download_reimport_passed",
+          "qa_note": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
+          "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
         }
       ]
     },
@@ -18914,7 +18916,9 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip",
-          "qa_status": "public_download_reimport_pending"
+          "qa_status": "public_download_reimport_passed",
+          "qa_note": "v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.",
+          "validation_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json"
         }
       ]
     },
