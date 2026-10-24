@@ -1,0 +1,146 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "6756c7c61e745aaf69e8cf656ab4760ba91dd3f3",
+  "guard_run_id": "f2a9154b-4d05-4f36-a00d-159039cd15a9",
+  "started_utc": "2026-10-24T16:26:09.472523+00:00",
+  "finished_utc": "2026-10-24T16:26:16.111557+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "ARM_068__repair",
+      "zip": "ARM_068__repair_CC0.zip",
+      "zip_sha256": "52643a3e6024b216d4d4ca88ef315a29b457de99531a7d4e4a5602b1f3fba6c9",
+      "members": {
+        "ARM_068__repair.glb": "1e58477c14921c34911ab1101db1db2215c5f28b499e96174ab56b8a5da2ccab",
+        "ARM_068__repair.blend": "448c715159670e0b9ed4fcae0345361ff520dd2c70b6e0629d515372f79c5ec9"
+      }
+    },
+    {
+      "id": "ARM_068__terracotta",
+      "zip": "ARM_068__terracotta_CC0.zip",
+      "zip_sha256": "5cd5b712a3afc387a837db4773f28b76615280a7d18b29a78210e20bf6e7de95",
+      "members": {
+        "ARM_068__terracotta.blend": "64313919b4a295498bc723fe04a446708e9ff522728373327f0653f02a8308a1",
+        "ARM_068__terracotta.glb": "b33ca995eb79d4654841ba1cffa5b00a67e760e6dbfa0148cfebbb0f0ebfdc44"
+      }
+    },
+    {
+      "id": "ARM_076__repair",
+      "zip": "ARM_076__repair_CC0.zip",
+      "zip_sha256": "e55f605c4a228c525046e1c19f9981cd0f8c4fb08a86339e97c3fd53cdb0e3de",
+      "members": {
+        "ARM_076__repair.glb": "98c1c84ed7e542cf2e5ef30d5c6e6e445299e7c50fe23862b6dda514f8031f80",
+        "ARM_076__repair.blend": "1453b65c345653832c591c6bacf1a9c1c786f329bcb5b27f5026020487194214"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "ARM_068__repair",
+      "formats": {
+        "blend": {
+          "triangles": 8550,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 8550,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_068__terracotta",
+      "formats": {
+        "blend": {
+          "triangles": 8550,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 8550,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_076__repair",
+      "formats": {
+        "blend": {
+          "triangles": 68518,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 68518,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

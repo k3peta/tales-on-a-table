@@ -586,3 +586,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 **Quality42:** 6 zero faces removed;8550tri; terracotta variant uses cleaned baseline, not whole original unchanged. Static ceramic prop, no functional contents/mechanism. [Details](../material_variants_arm067_arm076.md).
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_068__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm067-076-v1/ARM_068__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.

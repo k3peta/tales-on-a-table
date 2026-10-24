@@ -18127,7 +18127,8 @@
         {
           "id": "ARM_068__repair",
           "catalog": "catalog/material_variants_arm067_arm076.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "6 zero faces removed;8550tri; terracotta variant uses cleaned baseline, not whole original unchanged. Static ceramic prop, no functional contents/mechanism."
@@ -18438,7 +18439,8 @@
         {
           "id": "ARM_076__repair",
           "catalog": "catalog/material_variants_arm067_arm076.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "150 zero faces removed;68518tri over50k."

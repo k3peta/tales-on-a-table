@@ -196,6 +196,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality42:** 150 zero faces removed;68518tri over50k. [Details](../material_variants_arm067_arm076.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm067-076-v1/ARM_076__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm067-076-v1/ARM_076__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_077
 
 **真鍮木製の古風レジ**
