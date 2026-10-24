@@ -8,7 +8,7 @@ WS014は柱の面積ゼロ三角形128枚のみ除去した改訂で非加算。
 
 WS014仅移除128个严格零面积三角形，保留正面积表面与UV，不新增模型。WS015绿色软垫保持几何UV，单独计为1个材质变体。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds final packages, inputs, scripts, run/time/build and packed-image decoding. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds final packages, inputs, scripts, run/time/build and packed-image decoding. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed286 source records,722 remain;54 budget/redesign issues remain. WS00923076tri, WS013628692tri and WS01853460tri exceed their budgets. WS013 requires repeated-detail redesign, no automatic decimation adopted. No working drawers, climbing/load safety, screw mechanism, collision, transparent rendering across engines or Blender4.3.2 guarantee. Camera does not establish intended pivot/front.
 
@@ -45,3 +45,5 @@ Green upholstery mapped micrograin; original geometry and UV retained. Wood, met
 [![WS_015__color_green close_comparison](../previews/quality-ws009-018-v1/WS_015__color_green_close_comparison.png)](../previews/quality-ws009-018-v1/WS_015__color_green_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-ws009-018-v1/validation.json).

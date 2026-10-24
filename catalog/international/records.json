@@ -11867,7 +11867,8 @@
         {
           "id": "WS_014__repair",
           "catalog": "catalog/material_variants_ws009_018.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "128 zero-area faces removed; positive surface faces/UV retained, original version preserved."

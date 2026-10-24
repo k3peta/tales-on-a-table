@@ -1,0 +1,76 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "153f549476fb3daf35b8a85568b9396098f4dc5a",
+  "guard_run_id": "4aa90959-9a61-4e3b-befe-7c6500b1a4b0",
+  "started_utc": "2026-10-24T13:19:13.498504+00:00",
+  "finished_utc": "2026-10-24T13:19:14.459001+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "WS_014__repair",
+      "zip": "WS_014__repair_CC0.zip",
+      "zip_sha256": "d245927fcc0f7bcb5ca7164d89d818e2365863fe06cd68439fcf7df8c2d9630e",
+      "members": {
+        "WS_014__repair.glb": "73ab14dbfd18c8a51b40cba1383c0929c571d71a684b6af2852dcbf4cb20a6d5",
+        "WS_014__repair.blend": "37e504cbb6e9d10ca52ddf455d95ef05c07fd006d2b5b2b34b1773e581aa1b32"
+      }
+    },
+    {
+      "id": "WS_015__color_green",
+      "zip": "WS_015__color_green_CC0.zip",
+      "zip_sha256": "8fd890e10ec306a0f455f17ae0676f505eeac8e0f8a4caf864ee38bffe91e896",
+      "members": {
+        "WS_015__color_green.glb": "c8c1ce9fa0ed2457544093696855efd4cdc2f692d55fab6b328543b4606764c0",
+        "WS_015__color_green.blend": "73dd6c3a438902856d56be24b96af867b039b9e050999e30396e0e30b1b8c858"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "WS_014__repair",
+      "formats": {
+        "blend": {
+          "triangles": 1352,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 1352,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 5.960464477539063e-08,
+          "embedded_images": 2,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "WS_015__color_green",
+      "formats": {
+        "blend": {
+          "triangles": 9820,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 9820,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 3,
+          "pass": true
+        }
+      }
+    }
+  ]
+}
