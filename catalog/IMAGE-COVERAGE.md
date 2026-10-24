@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records and77 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records and81 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -150,3 +150,5 @@
 - [FT041–050](material_variants_ft041_050.md):24 accepted comparison/thumbnail images.
 
 - [FT051–056](material_variants_ft051_056.md):12 accepted comparison/thumbnail images. FT053 residual tiny faces disclosed.
+
+- [FH001–010](material_variants_fh001_010.md):8 accepted comparison/thumbnail images. Cumulative66 assessed distribution records, not unique shapes.

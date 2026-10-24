@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "FH_002__new",
+      "base_id": "FH_002",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "missing_uv0_added_plus_wearuv",
+      "finish": "new",
+      "description": "\u9328\u306e\u9178\u5316\u6750\u8cea\u3092\u624b\u5165\u308c\u3055\u308c\u305f\u9244\u8272\u3078\u3002\u5f62\u72b6\u30fb\u6728\u90e8\u30fb\u30ed\u30fc\u30d7\u306f\u4fdd\u6301\u3002",
+      "zip": "FH_002__new_CC0.zip",
+      "bytes": 8018959,
+      "sha256": "c97b781ff11a43d0a53241456d238b23c72fb6312a079c396275da82e6cd443d",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh001-010-v1/FH_002__new_CC0.zip"
+    },
+    {
+      "id": "FH_004__new",
+      "base_id": "FH_004",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "new",
+      "description": "\u30d6\u30a4\u3092\u8d64\u3068\u30af\u30ea\u30fc\u30e0\u8272\u3067\u5857\u308a\u76f4\u3057\u305f\u6750\u8cea\u3002\u4f4e\u30dd\u30ea\u8f2a\u90ed\u306f\u4fdd\u6301\u3002",
+      "zip": "FH_004__new_CC0.zip",
+      "bytes": 4335435,
+      "sha256": "79f6f0a019dc5f6f8e68f58a9ef01fdbae646f371ba3a592f00844393ef6e33f",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh001-010-v1/FH_004__new_CC0.zip"
+    },
+    {
+      "id": "FH_004__color",
+      "base_id": "FH_004",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u9732\u51fa\u6728\u90e8\u3068\u767d\u5e2f\u3092\u6b8b\u3057\u305f\u9752\u3044\u5857\u88c5\u3002",
+      "zip": "FH_004__color_CC0.zip",
+      "bytes": 6449287,
+      "sha256": "ed0d7b377e547b119a302fce6742ad26fb9d2ab47cba381ddf56b51a1ba590f3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh001-010-v1/FH_004__color_CC0.zip"
+    },
+    {
+      "id": "FH_009__color",
+      "base_id": "FH_009",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u5cb8\u58c1\u6577\u77f3\u306e\u6696\u304b\u3044\u7802\u8272\u3002\u76ee\u5730\u3068\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "FH_009__color_CC0.zip",
+      "bytes": 13442166,
+      "sha256": "93ff40b17484024e9cd20689ecc215afbe655f4947e74237a66c36dc774fdbf5",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh001-010-v1/FH_009__color_CC0.zip"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 4,
+  "revisions": 0
+}
