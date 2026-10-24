@@ -124,137 +124,205 @@
 
 #### TG001 — ramp half
 
+![TG001 — ramp half](../previews/terrain91-individual/images/TG001.jpg)
+
 位置 16%, 55% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG001_CC0.zip)
 
 #### TG002 — ramp full
+
+![TG002 — ramp full](../previews/terrain91-individual/images/TG002.jpg)
 
 位置 25%, 58% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG002_CC0.zip)
 
 #### TG003 — ramp inner
 
+![TG003 — ramp inner](../previews/terrain91-individual/images/TG003.jpg)
+
 位置 34%, 63% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG003_CC0.zip)
 
 #### TG004 — ramp outer
+
+![TG004 — ramp outer](../previews/terrain91-individual/images/TG004.jpg)
 
 位置 43%, 68% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG004_CC0.zip)
 
 #### TG005 — stairs half
 
+![TG005 — stairs half](../previews/terrain91-individual/images/TG005.jpg)
+
 位置 52%, 71% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG005_CC0.zip)
 
 #### TG006 — stairs full
+
+![TG006 — stairs full](../previews/terrain91-individual/images/TG006.jpg)
 
 位置 61%, 74% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG006_CC0.zip)
 
 #### TG007 — cliff straight
 
+![TG007 — cliff straight](../previews/terrain91-individual/images/TG007.jpg)
+
 位置 70%, 78% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG007_CC0.zip)
 
 #### TG008 — cliff outer
+
+![TG008 — cliff outer](../previews/terrain91-individual/images/TG008.jpg)
 
 位置 21%, 46% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG008_CC0.zip)
 
 #### TG009 — cliff inner
 
+![TG009 — cliff inner](../previews/terrain91-individual/images/TG009.jpg)
+
 位置 30%, 50% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG009_CC0.zip)
 
 #### TG010 — cliff nose
+
+![TG010 — cliff nose](../previews/terrain91-individual/images/TG010.jpg)
 
 位置 39%, 54% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG010_CC0.zip)
 
 #### TG011 — overhang straight
 
+![TG011 — overhang straight](../previews/terrain91-individual/images/TG011.jpg)
+
 位置 48%, 58% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG011_CC0.zip)
 
 #### TG012 — overhang end
+
+![TG012 — overhang end](../previews/terrain91-individual/images/TG012.jpg)
 
 位置 57%, 62% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG012_CC0.zip)
 
 #### TG013 — overhang corner
 
+![TG013 — overhang corner](../previews/terrain91-individual/images/TG013.jpg)
+
 位置 66%, 66% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG013_CC0.zip)
 
 #### TG014 — pit floor
+
+![TG014 — pit floor](../previews/terrain91-individual/images/TG014.jpg)
 
 位置 75%, 73% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG014_CC0.zip)
 
 #### TG015 — pit rim
 
+![TG015 — pit rim](../previews/terrain91-individual/images/TG015.jpg)
+
 位置 25%, 40% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG015_CC0.zip)
 
 #### TG016 — pit outer
+
+![TG016 — pit outer](../previews/terrain91-individual/images/TG016.jpg)
 
 位置 34%, 44% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG016_CC0.zip)
 
 #### TG017 — pit inner
 
+![TG017 — pit inner](../previews/terrain91-individual/images/TG017.jpg)
+
 位置 43%, 49% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG017_CC0.zip)
 
 #### TG018 — pit closed
+
+![TG018 — pit closed](../previews/terrain91-individual/images/TG018.jpg)
 
 位置 52%, 52% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG018_CC0.zip)
 
 #### TG019 — water full
 
+![TG019 — water full](../previews/terrain91-individual/images/TG019.jpg)
+
 位置 61%, 56% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG019_CC0.zip)
 
 #### TG020 — shore
+
+![TG020 — shore](../previews/terrain91-individual/images/TG020.jpg)
 
 位置 70%, 60% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG020_CC0.zip)
 
 #### TG021 — shore outer
 
+![TG021 — shore outer](../previews/terrain91-individual/images/TG021.jpg)
+
 位置 79%, 64% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG021_CC0.zip)
 
 #### TG022 — shore inner
+
+![TG022 — shore inner](../previews/terrain91-individual/images/TG022.jpg)
 
 位置 30%, 32% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG022_CC0.zip)
 
 #### TG023 — estuary
 
+![TG023 — estuary](../previews/terrain91-individual/images/TG023.jpg)
+
 位置 39%, 36% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG023_CC0.zip)
 
 #### TG024 — beach
+
+![TG024 — beach](../previews/terrain91-individual/images/TG024.jpg)
 
 位置 48%, 40% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG024_CC0.zip)
 
 #### TG025 — beach outer
 
+![TG025 — beach outer](../previews/terrain91-individual/images/TG025.jpg)
+
 位置 57%, 44% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG025_CC0.zip)
 
 #### TG026 — beach inner
+
+![TG026 — beach inner](../previews/terrain91-individual/images/TG026.jpg)
 
 位置 66%, 48% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG026_CC0.zip)
 
 #### TG027 — tide pool
 
+![TG027 — tide pool](../previews/terrain91-individual/images/TG027.jpg)
+
 位置 75%, 52% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG027_CC0.zip)
 
 #### TG028 — arch
+
+![TG028 — arch](../previews/terrain91-individual/images/TG028.jpg)
 
 位置 84%, 54% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG028_CC0.zip)
 
 #### TG029 — plateau half
 
+![TG029 — plateau half](../previews/terrain91-individual/images/TG029.jpg)
+
 位置 34%, 23% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG029_CC0.zip)
 
 #### TG030 — plateau full
+
+![TG030 — plateau full](../previews/terrain91-individual/images/TG030.jpg)
 
 位置 43%, 26% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG030_CC0.zip)
 
 #### TG031 — cliff half to full
 
+![TG031 — cliff half to full](../previews/terrain91-individual/images/TG031.jpg)
+
 位置 52%, 30% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG031_CC0.zip)
 
 #### TG032 — ravine
+
+![TG032 — ravine](../previews/terrain91-individual/images/TG032.jpg)
 
 位置 61%, 36% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG032_CC0.zip)
 
 #### TG033 — ravine bend
 
+![TG033 — ravine bend](../previews/terrain91-individual/images/TG033.jpg)
+
 位置 70%, 40% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG033_CC0.zip)
 
 #### TG034 — ravine T
+
+![TG034 — ravine T](../previews/terrain91-individual/images/TG034.jpg)
 
 位置 79%, 44% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG034_CC0.zip)
 
@@ -268,41 +336,61 @@
 
 #### TV201 — ravine end
 
+![TV201 — ravine end](../previews/terrain91-individual/images/TV201.jpg)
+
 位置 21%, 48% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV201_CC0.zip)
 
 #### TV202 — ravine cross
+
+![TV202 — ravine cross](../previews/terrain91-individual/images/TV202.jpg)
 
 位置 34%, 54% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV202_CC0.zip)
 
 #### TV203 — ravine ramp entry
 
+![TV203 — ravine ramp entry](../previews/terrain91-individual/images/TV203.jpg)
+
 位置 46%, 61% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV203_CC0.zip)
 
 #### TV204 — ravine stair entry
+
+![TV204 — ravine stair entry](../previews/terrain91-individual/images/TV204.jpg)
 
 位置 59%, 67% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV204_CC0.zip)
 
 #### TV205 — cliff double bench
 
+![TV205 — cliff double bench](../previews/terrain91-individual/images/TV205.jpg)
+
 位置 71%, 70% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV205_CC0.zip)
 
 #### TV206 — cliff access slot
+
+![TV206 — cliff access slot](../previews/terrain91-individual/images/TV206.jpg)
 
 位置 29%, 33% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV206_CC0.zip)
 
 #### TV207 — overhang closed
 
+![TV207 — overhang closed](../previews/terrain91-individual/images/TV207.jpg)
+
 位置 41%, 39% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV207_CC0.zip)
 
 #### TV208 — water ravine sill
+
+![TV208 — water ravine sill](../previews/terrain91-individual/images/TV208.jpg)
 
 位置 54%, 48% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV208_CC0.zip)
 
 #### TV209 — river Y
 
+![TV209 — river Y](../previews/terrain91-individual/images/TV209.jpg)
+
 位置 66%, 55% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV209_CC0.zip)
 
 #### TV210 — ravine widen
+
+![TV210 — ravine widen](../previews/terrain91-individual/images/TV210.jpg)
 
 位置 79%, 61% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TV210_CC0.zip)
 
@@ -316,41 +404,61 @@
 
 #### TX301 — ramp late half
 
+![TX301 — ramp late half](../previews/terrain91-individual/images/TX301.jpg)
+
 位置 21%, 47% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX301_CC0.zip)
 
 #### TX302 — ramp early half
+
+![TX302 — ramp early half](../previews/terrain91-individual/images/TX302.jpg)
 
 位置 34%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX302_CC0.zip)
 
 #### TX303 — ramp S full
 
+![TX303 — ramp S full](../previews/terrain91-individual/images/TX303.jpg)
+
 位置 46%, 57% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX303_CC0.zip)
 
 #### TX304 — ramp bilinear corner
+
+![TX304 — ramp bilinear corner](../previews/terrain91-individual/images/TX304.jpg)
 
 位置 59%, 67% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX304_CC0.zip)
 
 #### TX305 — ramp diagonal
 
+![TX305 — ramp diagonal](../previews/terrain91-individual/images/TX305.jpg)
+
 位置 71%, 72% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX305_CC0.zip)
 
 #### TX306 — cliff double corner
+
+![TX306 — cliff double corner](../previews/terrain91-individual/images/TX306.jpg)
 
 位置 29%, 34% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX306_CC0.zip)
 
 #### TX307 — river width transition
 
+![TX307 — river width transition](../previews/terrain91-individual/images/TX307.jpg)
+
 位置 41%, 42% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX307_CC0.zip)
 
 #### TX308 — river narrow bend
+
+![TX308 — river narrow bend](../previews/terrain91-individual/images/TX308.jpg)
 
 位置 54%, 48% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX308_CC0.zip)
 
 #### TX309 — overhang full corner
 
+![TX309 — overhang full corner](../previews/terrain91-individual/images/TX309.jpg)
+
 位置 66%, 51% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX309_CC0.zip)
 
 #### TX310 — river narrow end
+
+![TX310 — river narrow end](../previews/terrain91-individual/images/TX310.jpg)
 
 位置 79%, 61% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TX310_CC0.zip)
 
@@ -364,41 +472,61 @@
 
 #### TW401 — waterfall channel
 
+![TW401 — waterfall channel](../previews/terrain91-individual/images/TW401.jpg)
+
 位置 21%, 47% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW401_CC0.zip)
 
 #### TW402 — cascade channel
+
+![TW402 — cascade channel](../previews/terrain91-individual/images/TW402.jpg)
 
 位置 34%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW402_CC0.zip)
 
 #### TW403 — upper straight
 
+![TW403 — upper straight](../previews/terrain91-individual/images/TW403.jpg)
+
 位置 46%, 59% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW403_CC0.zip)
 
 #### TW404 — upper bend
+
+![TW404 — upper bend](../previews/terrain91-individual/images/TW404.jpg)
 
 位置 59%, 65% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW404_CC0.zip)
 
 #### TW405 — upper T
 
+![TW405 — upper T](../previews/terrain91-individual/images/TW405.jpg)
+
 位置 71%, 72% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW405_CC0.zip)
 
 #### TW406 — upper end
+
+![TW406 — upper end](../previews/terrain91-individual/images/TW406.jpg)
 
 位置 29%, 34% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW406_CC0.zip)
 
 #### TW407 — upper cross
 
+![TW407 — upper cross](../previews/terrain91-individual/images/TW407.jpg)
+
 位置 41%, 40% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW407_CC0.zip)
 
 #### TW408 — upper lake
+
+![TW408 — upper lake](../previews/terrain91-individual/images/TW408.jpg)
 
 位置 54%, 47% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW408_CC0.zip)
 
 #### TW409 — upper lake outlet
 
+![TW409 — upper lake outlet](../previews/terrain91-individual/images/TW409.jpg)
+
 位置 66%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW409_CC0.zip)
 
 #### TW410 — waterfall lake
+
+![TW410 — waterfall lake](../previews/terrain91-individual/images/TW410.jpg)
 
 位置 79%, 59% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TW410_CC0.zip)
 
@@ -412,37 +540,55 @@
 
 #### TY501 — pit steps
 
+![TY501 — pit steps](../previews/terrain91-individual/images/TY501.jpg)
+
 位置 21%, 48% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY501_CC0.zip)
 
 #### TY502 — pit basin NE
+
+![TY502 — pit basin NE](../previews/terrain91-individual/images/TY502.jpg)
 
 位置 34%, 54% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY502_CC0.zip)
 
 #### TY503 — pit bridge
 
+![TY503 — pit bridge](../previews/terrain91-individual/images/TY503.jpg)
+
 位置 46%, 60% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY503_CC0.zip)
 
 #### TY504 — pit island moat
+
+![TY504 — pit island moat](../previews/terrain91-individual/images/TY504.jpg)
 
 位置 59%, 67% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY504_CC0.zip)
 
 #### TY505 — cliff double inner
 
+![TY505 — cliff double inner](../previews/terrain91-individual/images/TY505.jpg)
+
 位置 71%, 70% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY505_CC0.zip)
 
 #### TY506 — cliff double nose
+
+![TY506 — cliff double nose](../previews/terrain91-individual/images/TY506.jpg)
 
 位置 29%, 33% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY506_CC0.zip)
 
 #### TY507 — cave T
 
+![TY507 — cave T](../previews/terrain91-individual/images/TY507.jpg)
+
 位置 41%, 39% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY507_CC0.zip)
 
 #### TY508 — cave cross
 
+![TY508 — cave cross](../previews/terrain91-individual/images/TY508.jpg)
+
 位置 54%, 45% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY508_CC0.zip)
 
 #### TY509 — cave portal
+
+![TY509 — cave portal](../previews/terrain91-individual/images/TY509.jpg)
 
 位置 66%, 51% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TY509_CC0.zip)
 
@@ -456,9 +602,13 @@
 
 #### TZ601 — river culvert
 
+![TZ601 — river culvert](../previews/terrain91-individual/images/TZ601.jpg)
+
 位置 34%, 44% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ601_CC0.zip)
 
 #### TZ602 — river portal
+
+![TZ602 — river portal](../previews/terrain91-individual/images/TZ602.jpg)
 
 位置 66%, 58% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TZ602_CC0.zip)
 
@@ -472,25 +622,37 @@
 
 #### TU701 — wet bend
 
+![TU701 — wet bend](../previews/terrain91-individual/images/TU701.jpg)
+
 位置 22%, 51% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU701_CC0.zip)
 
 #### TU702 — wet T
+
+![TU702 — wet T](../previews/terrain91-individual/images/TU702.jpg)
 
 位置 44%, 60% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU702_CC0.zip)
 
 #### TU703 — wet cross
 
+![TU703 — wet cross](../previews/terrain91-individual/images/TU703.jpg)
+
 位置 65%, 69% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU703_CC0.zip)
 
 #### TU704 — wet end
+
+![TU704 — wet end](../previews/terrain91-individual/images/TU704.jpg)
 
 位置 35%, 36% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU704_CC0.zip)
 
 #### TU705 — walk portal
 
+![TU705 — walk portal](../previews/terrain91-individual/images/TU705.jpg)
+
 位置 56%, 45% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU705_CC0.zip)
 
 #### TU706 — walk culvert
+
+![TU706 — walk culvert](../previews/terrain91-individual/images/TU706.jpg)
 
 位置 78%, 54% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TU706_CC0.zip)
 
@@ -504,25 +666,37 @@
 
 #### UA801 — three level corner
 
+![UA801 — three level corner](../previews/terrain91-individual/images/UA801.jpg)
+
 位置 22%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA801_CC0.zip)
 
 #### UA802 — diagonal supported adapter
+
+![UA802 — diagonal supported adapter](../previews/terrain91-individual/images/UA802.jpg)
 
 位置 44%, 63% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA802_CC0.zip)
 
 #### UA803 — switchback stair
 
+![UA803 — switchback stair](../previews/terrain91-individual/images/UA803.jpg)
+
 位置 65%, 74% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA803_CC0.zip)
 
 #### UA804 — switchback approach
+
+![UA804 — switchback approach](../previews/terrain91-individual/images/UA804.jpg)
 
 位置 35%, 40% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA804_CC0.zip)
 
 #### UA805 — stacked crossing
 
+![UA805 — stacked crossing](../previews/terrain91-individual/images/UA805.jpg)
+
 位置 56%, 41% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA805_CC0.zip)
 
 #### UA806 — upper cave portal
+
+![UA806 — upper cave portal](../previews/terrain91-individual/images/UA806.jpg)
 
 位置 78%, 52% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UA806_CC0.zip)
 
@@ -536,16 +710,26 @@
 
 #### UB901 — beach_shore_transition
 
+![UB901 — beach_shore_transition](../previews/terrain91-individual/images/UB901.jpg)
+
 位置 27%, 61% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB901_CC0.zip)
 
 #### UB902 — beach_cliff
+
+![UB902 — beach_cliff](../previews/terrain91-individual/images/UB902.jpg)
 
 位置 56%, 68% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB902_CC0.zip)
 
 #### UB903 — beach_cliff_end
 
+![UB903 — beach_cliff_end](../previews/terrain91-individual/images/UB903.jpg)
+
 位置 44%, 38% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB903_CC0.zip)
 
 #### UB904 — twin_sandbar
 
+![UB904 — twin_sandbar](../previews/terrain91-individual/images/UB904.jpg)
+
 位置 73%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB904_CC0.zip)
+
+個別サムネイルは画像内ID付き384px、各モデルを自動フィット撮影しているため縮尺は共通ではありません。TV204/TU701/TU704は入口側視点。元集合画像を保持。隠面・全接続・動作/衝突は未検証。画像はモデルCC0対象外。

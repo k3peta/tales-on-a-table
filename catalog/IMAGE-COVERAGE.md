@@ -116,7 +116,7 @@
 |[tableware_02.en.md](tableware_02.en.md)|11|existing images; detailed coverage review pending|
 |[tableware_02.md](tableware_02.md)|11|existing images; detailed coverage review pending|
 |[tableware_02.zh-CN.md](tableware_02.zh-CN.md)|11|existing images; detailed coverage review pending|
-|[terrain_connectivity_v1.md](terrain_connectivity_v1.md)|9|completed:91 IDs mapped to9 verified group renders|
+|[terrain_connectivity_v1.md](terrain_connectivity_v1.md)|100|91 individual ID-labelled images plus9 retained group views|
 |[terrain_connectivity_v10.md](terrain_connectivity_v10.md)|2|updated this pass|
 |[terrain_connectivity_v11.md](terrain_connectivity_v11.md)|2|updated this pass|
 |[terrain_use_plan_v1.md](terrain_use_plan_v1.md)|4|updated this pass|
