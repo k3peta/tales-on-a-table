@@ -505,3 +505,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_020](base-19.md#bm_020) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm011-020-v1/BM_020__bluewood_CC0.zip) · [Full comparison](../../previews/quality-bm011-020-v1/BM_020__bluewood_overview_comparison.png) · [Details](../material_variants_bm011_bm020.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_026__tealmask
+
+**Nameless mask** · 名前のない仮面
+
+[![BM_026__tealmask](../../previews/quality-bm021-030-v1/BM_026__tealmask_thumb.png)](../../previews/quality-bm021-030-v1/BM_026__tealmask_overview_comparison.png)
+
+Use: Teal UV tint on ivory mask face; straps/red trim/brass and other channels unchanged. Original geometry, UV and vertex colors preserved. Not a new shape.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_026](base-20.md#bm_026) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm021-030-v1/BM_026__tealmask_CC0.zip) · [Full comparison](../../previews/quality-bm021-030-v1/BM_026__tealmask_overview_comparison.png) · [Details](../material_variants_bm021_bm030.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

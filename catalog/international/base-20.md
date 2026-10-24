@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality47:** 1676tri plus dealer key member inspected;one record,no duplicated color member. [Details](../material_variants_bm021_bm030.md).
+
 ## BM_022
 
 **Short chain**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality47:** 5760tri static chain,load/physics untested. [Details](../material_variants_bm021_bm030.md).
 
 ## BM_023
 
@@ -70,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality47:** 480tri faceted ring style retained. [Details](../material_variants_bm021_bm030.md).
+
 ## BM_024
 
 **Suspicious sealed chest**
@@ -91,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality47:** 12792tri sealed box,original paint retained. [Details](../material_variants_bm021_bm030.md).
 
 ## BM_025
 
@@ -114,6 +122,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality47:** 8807tri single shoe,no pair/rig implied. [Details](../material_variants_bm021_bm030.md).
+
 ## BM_026
 
 **Nameless mask**
@@ -135,6 +145,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality47:** 9156tri;teal mask face only,geometry/UV/vertex colors retained. [Details](../material_variants_bm021_bm030.md).
 
 ## BM_027
 
@@ -158,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality47:** 10406tri coin arrangement counted once. [Details](../material_variants_bm021_bm030.md).
+
 ## BM_028
 
 **Unbalanced scales**
@@ -179,6 +193,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality47:** 17853tri unbalanced theme,no weighing function. [Details](../material_variants_bm021_bm030.md).
 
 ## BM_029
 
@@ -202,6 +218,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality47:** Original lantern7820tri retained;blueglass candidate rejected for exported GLB COLOR_0 mismatch,not published or public-base defect. [Details](../material_variants_bm021_bm030.md).
+
 ## BM_030
 
 **Stranger's signet ring**
@@ -223,6 +241,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality47:** 708tri signet ring,wearable fit untested. [Details](../material_variants_bm021_bm030.md).
 
 ## BM_031
 

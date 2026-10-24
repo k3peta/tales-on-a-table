@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 157,
-      "id_mapped_preview": 157,
+      "records": 158,
+      "id_mapped_preview": 158,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 157,
-      "formats_known": 157,
+      "purpose_en_present": 158,
+      "formats_known": 158,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -20098,7 +20098,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_021_CC0.zip",
       "pictured_zip_sha256": "129b9ed2362586a6e7ed8c5658c3064b6c02d01fc983b83a7da311544b7308a0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1676tri plus dealer key member inspected;one record,no duplicated color member."
     },
     {
       "id": "BM_022",
@@ -20135,7 +20136,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_022_CC0.zip",
       "pictured_zip_sha256": "3843babb92f937cf52e731a4d628daef81873a21cc05a963b6caf445531e15b1",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5760tri static chain,load/physics untested."
     },
     {
       "id": "BM_023",
@@ -20172,7 +20174,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_023_CC0.zip",
       "pictured_zip_sha256": "f7586ab42e1b1e5b14ab143c1b60f011a7f5fc38796af351d0df0c231af713ca",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "480tri faceted ring style retained."
     },
     {
       "id": "BM_024",
@@ -20209,7 +20212,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_024_CC0.zip",
       "pictured_zip_sha256": "8512881584770dbbe4455ee030a6474bcffe4e27ed1264f0cad5ff5f3420c0b0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "12792tri sealed box,original paint retained."
     },
     {
       "id": "BM_025",
@@ -20246,7 +20250,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_025_CC0.zip",
       "pictured_zip_sha256": "ee8c8ef50180326dd652219893faece42b5ab8e23b8ab7c6bb813282a2da8760",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "8807tri single shoe,no pair/rig implied."
     },
     {
       "id": "BM_026",
@@ -20283,7 +20288,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_026_CC0.zip",
       "pictured_zip_sha256": "e3e954dd056c166c17a1dd762775571cdfb2843c224dacc5daafacdbe1a0f9a6",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "9156tri;teal mask face only,geometry/UV/vertex colors retained."
     },
     {
       "id": "BM_027",
@@ -20320,7 +20326,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_027_CC0.zip",
       "pictured_zip_sha256": "af2bbbc23a4610d48b56864a131e1b51c2c672186015a6e4ed28a6d663dc7f04",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "10406tri coin arrangement counted once."
     },
     {
       "id": "BM_028",
@@ -20357,7 +20364,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_028_CC0.zip",
       "pictured_zip_sha256": "3bf0631dbafa96f1c81de23c3ae435174385c24efe9c854d2bc9f99b73f6d44e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "17853tri unbalanced theme,no weighing function."
     },
     {
       "id": "BM_029",
@@ -20394,7 +20402,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_029_CC0.zip",
       "pictured_zip_sha256": "6587f67aa6272194eb8def1bfac3030952bf0f48024da84562bc6133f47797d8",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Original lantern7820tri retained;blueglass candidate rejected for exported GLB COLOR_0 mismatch,not published or public-base defect."
     },
     {
       "id": "BM_030",
@@ -20431,7 +20440,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_030_CC0.zip",
       "pictured_zip_sha256": "dc9301d9b63e924283ce9ba4d8d58de25a9dbcf033546afaca7992ec5a31fa77",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "708tri signet ring,wearable fit untested."
     },
     {
       "id": "BM_031",
@@ -45725,6 +45735,43 @@
       "uv_revision": "original UV and vertex colors retained; walnut board UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_020_CC0.zip",
       "pictured_zip_sha256": "1e1c6f238d9cdd9e3fad2022b713ab3440f45831e2669d3f5912dea59270fbce",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_026__tealmask",
+      "kind": "variant",
+      "base_id": "BM_026",
+      "name_en": "Nameless mask",
+      "name_ja": "名前のない仮面",
+      "purpose_en": "Teal UV tint on ivory mask face; straps/red trim/brass and other channels unchanged. Original geometry, UV and vertex colors preserved. Not a new shape.",
+      "record_kind": "model",
+      "image": "previews/quality-bm021-030-v1/BM_026__tealmask_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm021-030-v1/BM_026__tealmask_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm021_bm030.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm021-030-v1/BM_026__tealmask_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; teal mask face UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_026_CC0.zip",
+      "pictured_zip_sha256": "e3e954dd056c166c17a1dd762775571cdfb2843c224dacc5daafacdbe1a0f9a6",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
