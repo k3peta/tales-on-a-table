@@ -26,3 +26,103 @@
 ![octagonal_conservatory](../examples/octagonal_conservatory/octagonal_conservatory.png)
 
 [Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.21-octagonal-conservatory) · [SHA256](../releases/octagonal_conservatory/SHA256SUMS.txt) · [License](../LICENSE.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### OC001 — Octagonal stone foundation
+
+Octagonal stone foundation
+
+[![OC001](../previews/inn-conservatory-atelier24/thumbnails/OC001.png)](../previews/inn-conservatory-atelier24/renders/OC001.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC001_CC0.zip)
+
+### OC002 — Central raised bed
+
+Central raised bed
+
+[![OC002](../previews/inn-conservatory-atelier24/thumbnails/OC002.png)](../previews/inn-conservatory-atelier24/renders/OC002.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC002_CC0.zip)
+
+### OC010 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC010](../previews/inn-conservatory-atelier24/thumbnails/OC010.png)](../previews/inn-conservatory-atelier24/renders/OC010.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC010_CC0.zip)
+
+### OC011 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC011](../previews/inn-conservatory-atelier24/thumbnails/OC011.png)](../previews/inn-conservatory-atelier24/renders/OC011.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC011_CC0.zip)
+
+### OC012 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC012](../previews/inn-conservatory-atelier24/thumbnails/OC012.png)](../previews/inn-conservatory-atelier24/renders/OC012.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC012_CC0.zip)
+
+### OC013 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC013](../previews/inn-conservatory-atelier24/thumbnails/OC013.png)](../previews/inn-conservatory-atelier24/renders/OC013.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC013_CC0.zip)
+
+### OC014 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC014](../previews/inn-conservatory-atelier24/thumbnails/OC014.png)](../previews/inn-conservatory-atelier24/renders/OC014.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC014_CC0.zip)
+
+### OC015 — Gothic wall sector (entrance / south)
+
+Gothic wall sector (entrance / south)
+
+[![OC015](../previews/inn-conservatory-atelier24/thumbnails/OC015.png)](../previews/inn-conservatory-atelier24/renders/OC015.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC015_CC0.zip)
+
+### OC016 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC016](../previews/inn-conservatory-atelier24/thumbnails/OC016.png)](../previews/inn-conservatory-atelier24/renders/OC016.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC016_CC0.zip)
+
+### OC017 — Gothic wall sector
+
+Gothic wall sector
+
+[![OC017](../previews/inn-conservatory-atelier24/thumbnails/OC017.png)](../previews/inn-conservatory-atelier24/renders/OC017.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC017_CC0.zip)
+
+### OC020 — High octagonal glass roof
+
+High octagonal glass roof
+
+[![OC020](../previews/inn-conservatory-atelier24/thumbnails/OC020.png)](../previews/inn-conservatory-atelier24/renders/OC020.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC020_CC0.zip)
+
+### OC021 — Entrance details
+
+Entrance details
+
+[![OC021](../previews/inn-conservatory-atelier24/thumbnails/OC021.png)](../previews/inn-conservatory-atelier24/renders/OC021.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/OC021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC021_CC0.zip)

@@ -7,6 +7,8 @@
 
 ## 发布历史
 
+- 2026-10-24 — [24 real-model images](catalog/international/README.md):base image mappings785/1008,missing223. [Audit27](catalog/quality_audit_at082_092.md):10 assessed,0 adopted revisions/variants; cumulative266,remaining742. Base1008/variants127 unchanged.
+
 - 2026-10-24 — [Quality26](catalog/material_variants_at072_081.md):1 variant,no geometry revision; base1008 unchanged, variants127. [Images](catalog/international/README.md):761 mapped,247 missing after FW9 update.
 
 - 2026-10-24 — [FW material repairs](catalog/fw013_021_normal_repairs.md):9 revisions, no new count; corrected images now761/1008, missing247. Original versions retained.

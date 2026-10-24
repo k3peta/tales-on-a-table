@@ -370,7 +370,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Fire tools
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN015](../../previews/inn-conservatory-atelier24/thumbnails/IN015.png)](../../previews/inn-conservatory-atelier24/renders/IN015.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -392,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Pewter tankard
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN016](../../previews/inn-conservatory-atelier24/thumbnails/IN016.png)](../../previews/inn-conservatory-atelier24/renders/IN016.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -414,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Ceramic pitcher
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN017](../../previews/inn-conservatory-atelier24/thumbnails/IN017.png)](../../previews/inn-conservatory-atelier24/renders/IN017.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -436,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Bread board
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN018](../../previews/inn-conservatory-atelier24/thumbnails/IN018.png)](../../previews/inn-conservatory-atelier24/renders/IN018.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN018.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -458,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Soup bowl
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN019](../../previews/inn-conservatory-atelier24/thumbnails/IN019.png)](../../previews/inn-conservatory-atelier24/renders/IN019.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN019.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -480,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Table linen
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN020](../../previews/inn-conservatory-atelier24/thumbnails/IN020.png)](../../previews/inn-conservatory-atelier24/renders/IN020.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -502,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Mantel lantern
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN021](../../previews/inn-conservatory-atelier24/thumbnails/IN021.png)](../../previews/inn-conservatory-atelier24/renders/IN021.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN021.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -524,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Ale barrel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN022](../../previews/inn-conservatory-atelier24/thumbnails/IN022.png)](../../previews/inn-conservatory-atelier24/renders/IN022.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN022.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -546,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Travel boots
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN023](../../previews/inn-conservatory-atelier24/thumbnails/IN023.png)](../../previews/inn-conservatory-atelier24/renders/IN023.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN023.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

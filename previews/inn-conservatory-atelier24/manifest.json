@@ -1,0 +1,678 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "IN015",
+      "source_zip_sha256": "b054d12bc0c53368c874e68b8b555c0733a7c4108e90846e344b78230fde026d",
+      "source_glb_sha256": "887a938f24fff0f75d284b336a12982993eb325c2dff12f77849cd0214f9a294",
+      "camera_location": [
+        0.9050999879837036,
+        -1.5516000986099243,
+        1.3360999822616577
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.422300100326538,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN015.png",
+      "image_source_sha256": "f236f941ba0b1bf08b453cff206314f62b5ea32116c2207b15ba83004a0eb85d",
+      "image_sha256": "7e54595fa063668d5b014916d1c29a7fb8c6d128cec58789791031e2a4fd6627",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN015.png",
+      "thumbnail_source_sha256": "130fb07432367b924097d4df7e6b73079b6d58639727ace9021a749d13873707",
+      "thumbnail_sha256": "712291dbd4b10f3649a4047a1b6a62ae5e126b8d0f560dc750a5d674a62597fd"
+    },
+    {
+      "id": "IN016",
+      "source_zip_sha256": "e3766bbcda1334330bc906ae6ff924123efe100856936dc7bddadd379847510e",
+      "source_glb_sha256": "4d6c2be914fcff91af290610d87af26e64715b049adf13b6e4e2d0d218319c79",
+      "camera_location": [
+        0.36070001125335693,
+        -0.5291999578475952,
+        0.4237000048160553
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.2622458573096083e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 0.48510000109672546,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN016.png",
+      "image_source_sha256": "88091cf2eee79cd88f9834398447db266ed8eb6be1e81d1ed12bae51a46ba2fc",
+      "image_sha256": "f42ace43f80bd9d8949c3f0f6a867cf26abef2741c3a2eb64ab0696391beb80b",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN016.png",
+      "thumbnail_source_sha256": "11c1bd09638b71663fdf9cea9c4e762141fe2e1f8b74e6712fbabb9eef48a017",
+      "thumbnail_sha256": "c3750031ff807adec5a072dd68f2a0ff8b06d34f8f86f7470ecafb490b33affa"
+    },
+    {
+      "id": "IN017",
+      "source_zip_sha256": "a6cb502bbad2c0f9ad67cd1aa9424c066712b899e8228c724dc9c22034e87786",
+      "source_glb_sha256": "98291c69327bb5268fd882f030979c2d9fb654357ad29c6107adba0571d77ff9",
+      "camera_location": [
+        0.5111500024795532,
+        -0.7793999910354614,
+        0.649649977684021
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.7144500017166138,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN017.png",
+      "image_source_sha256": "3d1d9de674144ea12ecc4708122ad45957f264c85bf2c70831ed5133a7c55e0a",
+      "image_sha256": "a1e4e304a34412ff05b33bd9b529b32b02c6af9c589a1d331181af2eaca5e730",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN017.png",
+      "thumbnail_source_sha256": "c4889fe28c01ca25e1324220076257a8b67f56941da3e3dc682c5d507724a072",
+      "thumbnail_sha256": "a46abbccb08aa19e19a6951b10ceec30144fb02facb8dc5ac93e964577ea6a23"
+    },
+    {
+      "id": "IN018",
+      "source_zip_sha256": "53aa6a5491f08f9fe969fac193b2c880652e16f039597f16e16cf185b883a988",
+      "source_glb_sha256": "fe5e3992479b30249bd59f1ef3ca55a57a500a98552adb1957589e5f2506347e",
+      "camera_location": [
+        0.6299999952316284,
+        -1.0800000429153442,
+        0.7243370413780212
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.9900000095367432,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN018_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN018.png",
+      "image_source_sha256": "858ba2620afc48d9c0437907dddb5048c0f4fed98e04f0c7e23513b657700b0a",
+      "image_sha256": "31adeb8091a84bc57f395a5756bcbb61d30d6965a88551e95fb1d12ea28e1b6a",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN018.png",
+      "thumbnail_source_sha256": "5da57f61c5d3ac462f6a61963ed7ab3929cdc04c49581c980ac45a700f41a3f5",
+      "thumbnail_sha256": "c349beed05a6bfd89e5e772b4773b7a97e2dba31ede738125d66697dbb8e965b"
+    },
+    {
+      "id": "IN019",
+      "source_zip_sha256": "f1e81b37984f05d114ea37299e934ce9da44b70f941c762c6efa7bc06426ed5c",
+      "source_glb_sha256": "5466fce233665df56cc1fde65e9daab95076a374114a22b86a01a27cfa3e1e89",
+      "camera_location": [
+        0.2939999997615814,
+        -0.5040000081062317,
+        0.3540000021457672
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.4620000123977661,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN019_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN019.png",
+      "image_source_sha256": "d4da4d01cfd8c3f10e14e3beb2a31a3dedd19f82f5f9c6fd4c7fe53f9dbb8993",
+      "image_sha256": "0af393df60299e3c318649a73481d29b21a7cab1c1cf44709b8de2d047f8d11f",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN019.png",
+      "thumbnail_source_sha256": "d260d28ec0771c63c18aed4494d0216dd2d5e3f21bbe843bdc07013c46e72b26",
+      "thumbnail_sha256": "f5b1efed72f9087fad9ab885e7f9079de698e29729a2173fb6c46fb2444344a7"
+    },
+    {
+      "id": "IN020",
+      "source_zip_sha256": "699c1a33dcbaba55d73cc95376fdbe71a3029ec5208e28fd5b8facb65c3064cc",
+      "source_glb_sha256": "8ccf01ba58f46b5354a308f671a6109c7382d5ff8f108a1099ae866d6817b716",
+      "camera_location": [
+        0.5126500129699707,
+        -0.9548999667167664,
+        0.6669071912765503
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.7804499864578247,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN020_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN020.png",
+      "image_source_sha256": "bc53ec282d3d3ffe461db4d661bfaccca5aa5839c0e9bf01357cf2f3556ebe95",
+      "image_sha256": "14848193f9b262e9f892a732e3e683c3869eb33fdf0ad27cbc1845ec65927f30",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN020.png",
+      "thumbnail_source_sha256": "75849d45efeec2f5e314934f52c31253062e8e32f2d0021e769c3b6d0f2bf289",
+      "thumbnail_sha256": "81492a7624525f20aae11677e7dec597b19bac35e4e921365db05466c5a655ea"
+    },
+    {
+      "id": "IN021",
+      "source_zip_sha256": "f612f1075e10c8d21f4ea0d001d4a5e83beaa61aaff132290e91bce1b3382f7e",
+      "source_glb_sha256": "bbf04e167d6086535d29c139445e31fa6cfedbad28c64de78103dd509795ce37",
+      "camera_location": [
+        0.47564998269081116,
+        -0.8154000043869019,
+        0.7021499872207642
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.7474499940872192,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN021_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN021.png",
+      "image_source_sha256": "6f7c02aca3538c4ce5a0ddf0d866407752dc429f6c1c336797222af3bc5e03a3",
+      "image_sha256": "2d5ec8bda022d58d32107eb6717ce63686d03f8203fd55f3f31db8d913070e41",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN021.png",
+      "thumbnail_source_sha256": "45a88d05690e07449c412e09400bbb1ab9c0750e59e7ddee50a84127e10fafc9",
+      "thumbnail_sha256": "213ba1d2845e6eb727d23b3751a93da241e7b8e0943a353496463db99bc30208"
+    },
+    {
+      "id": "IN022",
+      "source_zip_sha256": "d86cb2e116ef0d22b92975639bf04027362c086b05489dc24e3912cd03a608c7",
+      "source_glb_sha256": "9476f4b752ae555139d5b059039bfc96ad7e6b1cfeb5ef23ab90704c51c46213",
+      "camera_location": [
+        0.8189999461174011,
+        -1.403999924659729,
+        1.2089998722076416
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.3080205917358398,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN022_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN022.png",
+      "image_source_sha256": "de367b56fd11fbc2706f5690efe59fc0be18d1d46fe13a959c69d84e1ac8681d",
+      "image_sha256": "970f83e4d5e0768c94091a45f15dc9a3da0004a8b20a1a5843eeacc0037b558b",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN022.png",
+      "thumbnail_source_sha256": "460a6cddd339b855ce3ff9afbe7445f34ab7040bc90bb497a7468aaa06b01887",
+      "thumbnail_sha256": "94251e6e23702e28b735a1343a13992d0b47b7818796f85cbda15e8d4f17016f"
+    },
+    {
+      "id": "IN023",
+      "source_zip_sha256": "23f56be65382fadfc355a288dc5dc2f2a2ac7dc8b9907fd276c466719766f144",
+      "source_glb_sha256": "98e517c905c2e51c3f333b3ed0c9aa60fcddcdb5b49ccf85bd305aeb5c540d34",
+      "camera_location": [
+        0.4094999432563782,
+        -0.7519999146461487,
+        0.5544999241828918
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        3.3978825086933284e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.6434999108314514,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN023_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN023.png",
+      "image_source_sha256": "9b7da65aaa59aef91dfda19543599bfb5e6332ec1b04a4d8e47fd5e1d07c5c1c",
+      "image_sha256": "1ca42048b9fd771b7f41c924647e7255e6601c5440dbc5035c9a01d691025760",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN023.png",
+      "thumbnail_source_sha256": "9be40a212afec01540044f53aa11ca252d74b9cb72f4f5eba4e502c68d37aea3",
+      "thumbnail_sha256": "747ce07d5c8986aa45229195d25cca79e7ef9913f30c5a4b33662312e28b28f6"
+    },
+    {
+      "id": "IN024",
+      "source_zip_sha256": "ab8248752f306e62cf3abd1af3e8c8fe81436a476bdb630f0de578bbdbff97a1",
+      "source_glb_sha256": "da667bea343e0298fea5fed2f7338405a3b8351510a36183b5ace465bfb2ef2e",
+      "camera_location": [
+        1.049999713897705,
+        -1.8474994897842407,
+        1.5499995946884155
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        8.174308874231428e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.6499996185302734,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN024_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/IN024.png",
+      "image_source_sha256": "ee3665cb50c8e8b28f9e7b2ee27b1cd22308bb992d8a9332b512b69c08168f9d",
+      "image_sha256": "6b484f5a2328d5c4f8b2d62c1da007f224c5cf2cc97fb812c9c12e9b26a86d05",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/IN024.png",
+      "thumbnail_source_sha256": "0910309e550571dd97318f18d7a3ff7310bbe0d668967e82a9e064cb4ace0e7f",
+      "thumbnail_sha256": "8f3233b132391342282e05ec4eb5bc4c07289c51196fb087d3b68b5e3c5b4232"
+    },
+    {
+      "id": "OC001",
+      "source_zip_sha256": "4721be9a17aa3c5f8dcb0d4a41bd91aecbd37e8060abb89056fba1c2ec7a13bd",
+      "source_glb_sha256": "5227400c3ad569a8b33007da67b8c2c2550d018a0a00f3099fbe2592fdc742f6",
+      "camera_location": [
+        15.379050254821777,
+        -21.970073699951172,
+        32.03277587890625
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        -2.2927988396759247e-09,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 23.719070434570312,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC001.png",
+      "image_source_sha256": "3233e5e39772d5fcd2c26359a2c9285697fa0830f8eef836a7ca5ebf8732029a",
+      "image_sha256": "09fceac4e860b83b5c3843386f7ace89b3fe4ab896e0b9acbc9f6e6a89f2c3a4",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC001.png",
+      "thumbnail_source_sha256": "d0a7c3f6147049f1059e8c4c5b971f4656523eec3a030a3293576cd6824d6d7b",
+      "thumbnail_sha256": "8930e47902106b7bea91741c8a02100639012071af2a3194b154aa3efde7e063"
+    },
+    {
+      "id": "OC002",
+      "source_zip_sha256": "225aa1d93c4d92442c67a0f78c5a01bcb45cc4a3e1e1a513b11710bfa27c31d8",
+      "source_glb_sha256": "68e06c51b7968a3c47db1ebf6f4203385db9a37d48e44edc3d22b40cb1344ab9",
+      "camera_location": [
+        5.7855000495910645,
+        -8.265000343322754,
+        12.322000503540039
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        -1.565727814067941e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 8.92296314239502,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC002.png",
+      "image_source_sha256": "f33f29fcd5eaefd7aaecc4e5078806b799847049136701136faf59bb4987ad92",
+      "image_sha256": "ac13268bbf24c5e724e494035f187d3f5189bec53600db545b3a0299eba096bf",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC002.png",
+      "thumbnail_source_sha256": "2ed8939b264aba93a630e36a34afe4b0dd65f479f08132638ab71fc79aa72f0e",
+      "thumbnail_sha256": "3f009d351c6ef9321e4ff83552a3893172ad1114b05395e67dbf4ecb4b165fb3"
+    },
+    {
+      "id": "OC010",
+      "source_zip_sha256": "0dd1449f813c38842f921de263a28474d7967896102ba1d77dae12f9e40c7388",
+      "source_glb_sha256": "5f95b129e10bd824133e64347c417c4827fdfc79b67457921a9ef00aecb4ed50",
+      "camera_location": [
+        -5.040065288543701,
+        -0.7295341491699219,
+        6.954999923706055
+      ],
+      "camera_rotation_euler": [
+        1.2238454818725586,
+        -9.896614017179672e-08,
+        -1.0538551807403564
+      ],
+      "camera_ortho_scale": 9.140999794006348,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC010.png",
+      "image_source_sha256": "37459bb5fa84f1aa4822d286de91f07493ef4fffb05891ad8b19dddad230a61a",
+      "image_sha256": "6e0989aa40e92535145fd22aa06e627b1638330fbdf8443843ac204faafadb6c",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC010.png",
+      "thumbnail_source_sha256": "09cf2f4cd9aa8bb05c14f5de7523ab0080c7dcae1e86d5b656cc2a0f94fba4c6",
+      "thumbnail_sha256": "3875c1ee1946bfea24dc7a70b6e829728f1e712fae1d0f2483f59b3e60a101f8"
+    },
+    {
+      "id": "OC011",
+      "source_zip_sha256": "005d66e484886e12ab613e1c49de39d70f3601ba9fbfb0a1acd3afc5a39d771a",
+      "source_glb_sha256": "2601a58c290b3636b8dd82584dd5d403a13b22552cd34f8277652614cd4af0a9",
+      "camera_location": [
+        6.340938091278076,
+        -3.870180130004883,
+        9.140937805175781
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 9.96433162689209,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC011.png",
+      "image_source_sha256": "0cc0ba50f857ac0e15b8800596cbb141d779c4a18a8f4d7b0bd50e8c6c8b3363",
+      "image_sha256": "3627536b245b3422a619f66476e055bf5bdbc6a9fde2eda50cf68246795ab2ea",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC011.png",
+      "thumbnail_source_sha256": "d568d63325a1e631f46ffc2c32396e54c7c69469d9c23c6eb4fe3c0acd412fd0",
+      "thumbnail_sha256": "8ec737008fd2a92584be0050ff8d883da1aca8f7b40e8efca8ec5f619e4ffa6e"
+    },
+    {
+      "id": "OC012",
+      "source_zip_sha256": "98a0d3100308b58a297cbc24fefc9c5e2098f156b863fe4c03254a22eca6c9d4",
+      "source_glb_sha256": "b92a825203a15de7f36cd288451a40d41fa426dba411862216a29271d07afeae",
+      "camera_location": [
+        0.8672523498535156,
+        -5.022252559661865,
+        8.617000579833984
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 9.140999794006348,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC012.png",
+      "image_source_sha256": "c6fdc2c904ad46b08941d88a2e5b463bfe57f864a5377a3237a1ddac22f917d3",
+      "image_sha256": "a8b7359fe7ebc72cd48fa0f17900c300186e400bdd5038b74326504fcb092221",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC012.png",
+      "thumbnail_source_sha256": "df3004ec6b7010b8819012b5eefee05b48d356e8c4c3e657804f62a2f0cbeccb",
+      "thumbnail_sha256": "1b12c1833d9551da042550d7966a328e57367e4ee1031fb3c2d13e89e8840915"
+    },
+    {
+      "id": "OC013",
+      "source_zip_sha256": "2e515f88fd356356a7401ffebdb39fb924dc60c873822d84cc42e834174d44b4",
+      "source_glb_sha256": "3cd862b5afb89c71eacb4872c47bf867e3a425f8a583c221d2d4fdacc67c16d4",
+      "camera_location": [
+        -0.6590619087219238,
+        -10.870180130004883,
+        9.140937805175781
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 9.96433162689209,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC013.png",
+      "image_source_sha256": "023cf1aaab452195680863e9fd470898f678db751006ad3f857877e086a98123",
+      "image_sha256": "eed61998d576f51bf0fd22d413ebea8866c432c9eabcb9230541dc88d3ecab93",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC013.png",
+      "thumbnail_source_sha256": "0aca19ca5a22a59bb8a9b934f974898d7795c144e433d40a88353664ea64f71d",
+      "thumbnail_sha256": "c285c21185710cd71f31e6f6f70b1c858aa7ac6f12e9b9b1b114070c50396c0a"
+    },
+    {
+      "id": "OC014",
+      "source_zip_sha256": "da74ba51cf9e93b2a91a388c0c5f850ea74843455ac7c8dfc464766a30e62086",
+      "source_glb_sha256": "865881b7fdc81940e833734efe50026d944589703ee2af7e586398ed41c65fa7",
+      "camera_location": [
+        -14.93956184387207,
+        -10.6290283203125,
+        6.954999923706055
+      ],
+      "camera_rotation_euler": [
+        1.2238454818725586,
+        -3.493441624868865e-08,
+        -1.053855299949646
+      ],
+      "camera_ortho_scale": 9.140999794006348,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC014.png",
+      "image_source_sha256": "8dcf4f52b04135f4475e031171686a419d2dcd0b9111d9620f8b89876f6907ca",
+      "image_sha256": "c1c7b6d7627f79ba0d9e713319c58899e9bb3df1a4ed398afdc115fc33ebb7c8",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC014.png",
+      "thumbnail_source_sha256": "b82670c762c077502082100930d894bb12729842349dcaa159f0929158523611",
+      "thumbnail_sha256": "3cd0ac46ed7853fcd869fca2831b6e9cd76faeebbe5212bf8cee90e1bc510d9b"
+    },
+    {
+      "id": "OC015",
+      "source_zip_sha256": "438f11a7d3ef97f714797166cfbd18196d674e21b4e2c7235e8d9ea44787805a",
+      "source_glb_sha256": "d2234b47622ebcaf0a065afe7621182cbc8f5d6d81dbaa4ad541a76cb1bfecdc",
+      "camera_location": [
+        6.340938091278076,
+        -17.870180130004883,
+        9.140937805175781
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 9.96433162689209,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC015.png",
+      "image_source_sha256": "ef1ff9607886c1caaf7074e235404032e0679d9b27815bb3a1c80ef4d2192976",
+      "image_sha256": "7068b461fdec4c633a40d35237f5221ea167cd51f73703e2c095333f6c249c93",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC015.png",
+      "thumbnail_source_sha256": "3d0e256c7a0857638fd7de9ecb489aab699d746b96c1d16949d7ebb8dea7f34d",
+      "thumbnail_sha256": "4513bdff56528311cee9c510799cd601c35c46ff3c249c1c01e9c6102c09ebb8"
+    },
+    {
+      "id": "OC016",
+      "source_zip_sha256": "590c54bd1a5296d3ca74d06203545eabbcbdfde4996f94abb31b341768ba89be",
+      "source_glb_sha256": "021ed1e9561591da0f493672e1ab59510b7894ee0d2aceb30d1e17b408180f94",
+      "camera_location": [
+        10.76674747467041,
+        -14.921747207641602,
+        8.617000579833984
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 9.140999794006348,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC016.png",
+      "image_source_sha256": "27c1e6c1759441ba4976db5bbe646fe4705e34c69dfdea09123a6d4aebda08fe",
+      "image_sha256": "931a1e39bf24d07145d0ca56b6893b7c6e6de7c4cbc3249008a1d3941696940d",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC016.png",
+      "thumbnail_source_sha256": "ce839bda10f4881606e4d2e8ee9da0645e6040f01e187897295425e1f9ca6687",
+      "thumbnail_sha256": "fa9f06873f5d10f60fbbcbdfe0c04d7283a512d53bb85b31817f2fc3431aacb0"
+    },
+    {
+      "id": "OC017",
+      "source_zip_sha256": "21e8b5914df62d93eff00a5c922c997e8d1282585d799726769ab5a92ad12fd5",
+      "source_glb_sha256": "f04868d82eb47a5a58a82b0094fce5de3cc02f7d434888ad4c608a33a4bc2d27",
+      "camera_location": [
+        13.340938568115234,
+        -10.870180130004883,
+        9.140937805175781
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 9.96433162689209,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC017.png",
+      "image_source_sha256": "3c24acf135a54cc1e35fe9b6657bfc40b225e5cab128ae964efcd2db27fa944d",
+      "image_sha256": "de3db1a81495dc1bb7a73c55f2a5cba250f2b1b80de3a11b3833d5767976c485",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC017.png",
+      "thumbnail_source_sha256": "e652b03f68205b7b724c5f942393950f55e35706933c2116cb6ca3aed51b7ed6",
+      "thumbnail_sha256": "24982d6165c85126fd84463881ef83052a000927ea1b1b2d15df6ceafc455bf3"
+    },
+    {
+      "id": "OC020",
+      "source_zip_sha256": "5d8d463041b6a4e0bd86d9cad396dcd28ee484f7de155fb5df56c0c51b831676",
+      "source_glb_sha256": "349fb7e4a0e34ead652a6d0d672b4853306d0aab0e15f4a1763876085dfef3bd",
+      "camera_location": [
+        14.766079902648926,
+        -25.31328010559082,
+        22.616893768310547
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 23.203840255737305,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC020_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC020.png",
+      "image_source_sha256": "c966a23a3a92f99acb340f5dc46a3ce2f6f3c661674fd0d4064b8ef4226a4a0d",
+      "image_sha256": "d89a9730f66ede674f7d0350059a4ff865a2156fd56aca92fdcb44b28a7b84dc",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC020.png",
+      "thumbnail_source_sha256": "087741749eb523addfa217c405e02248e6fe572bc9f9fd2105bd9a326e1743e6",
+      "thumbnail_sha256": "32cd4d0e45865c4bfdba40623a3fe3ec22c39bb29836c429028dc968c4fd5715"
+    },
+    {
+      "id": "OC021",
+      "source_zip_sha256": "506f70a2f40b75de9538facaa2830cd5f5ef94fe8076be27a54f08eec1f33c79",
+      "source_glb_sha256": "98e5775951410ceafdbb12aba86447a6396ab18f4b4dfceddcdb75492d5b50d9",
+      "camera_location": [
+        3.963749647140503,
+        -14.154998779296875,
+        5.6762495040893555
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 6.228749752044678,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC021_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/OC021.png",
+      "image_source_sha256": "41848511b5377d071d86c076ca47b253b6746dac062fc65d28939e45cb1c472d",
+      "image_sha256": "bd0d49ca7ebe7333a1889baf1f6c6e0d1a1d27d4b0429b1cb766e019910a7335",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/OC021.png",
+      "thumbnail_source_sha256": "063881eb0dd85e5891a99ff51386d2701b32748fdf6693e8f07f9d476b568214",
+      "thumbnail_sha256": "d4f317d6e253ef9ffd299fbde19d8f634d6c4c90ced84bda4666002e13324855"
+    },
+    {
+      "id": "PA001",
+      "source_zip_sha256": "258c0da5ab72120b3f56d49b3f49a445a4d3c781e1678f287064e3f773687959",
+      "source_glb_sha256": "9c69160ecc7bbffd11eccd078f67310d4c783eceacb82b5425922c3e888a1c54",
+      "camera_location": [
+        2.257499933242798,
+        -3.870000123977661,
+        2.7392499446868896
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 3.5475001335144043,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/PA001.png",
+      "image_source_sha256": "abf8e2d1cdd52fd5e3985ed5e759318e5e50cb238ba619f58c983dc1a82833b3",
+      "image_sha256": "f2fcf49267bfd66f8bd333c8c97abbf5a3919dd102e659493164bd010a0db705",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/PA001.png",
+      "thumbnail_source_sha256": "e9c1026d3fac9cf7a117b8e21538152b96acd6795f2a3bd118c523716e6e5b46",
+      "thumbnail_sha256": "e8330b203e91f64126ae9f2b99bd6379c7e55caacf62f46511c9b70764585ca0"
+    },
+    {
+      "id": "PA002",
+      "source_zip_sha256": "4e3f0b84d3125c48b0810218e11b25a0cd5b968c72617de1f04e01e73208e4ef",
+      "source_glb_sha256": "9619038bad054f4e61ca6d24fc5754671c7df1bf31e6f287e77671a8e4a6e527",
+      "camera_location": [
+        2.6285462379455566,
+        -4.25004768371582,
+        3.887303590774536
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 4.138097763061523,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/inn-conservatory-atelier24/renders/PA002.png",
+      "image_source_sha256": "72b4ccf923cc8e6f05738901a40556dad2504980d60cbf7b2909ccc1c9b4cfcd",
+      "image_sha256": "1235b0107c1a59c0cab3fd600b1474f4a1e399072d1545e709c36ff2c91fd661",
+      "thumbnail": "previews/inn-conservatory-atelier24/thumbnails/PA002.png",
+      "thumbnail_source_sha256": "529a6fb01b4e809b26fafbef0b660eda8e14a7a60ce700080c98f5c52cf8d69d",
+      "thumbnail_sha256": "b65efaa7836c21cf6fdb0e0dd726b450649d56cd38ae536da6d20213796bd538"
+    }
+  ]
+}

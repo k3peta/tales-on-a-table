@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 761,
-      "preview_not_mapped": 247,
+      "id_mapped_preview": 785,
+      "preview_not_mapped": 223,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -10964,7 +10964,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised cord clearance/intended ties diagnosis pending."
     },
     {
       "id": "AT_083",
@@ -10996,7 +10997,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised cord diagnosis pending; broken pottery rim may be intentional."
     },
     {
       "id": "AT_084",
@@ -11028,7 +11030,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Angular paper folds/weak detail noted; no demonstrated defect or adopted variant."
     },
     {
       "id": "AT_085",
@@ -11060,7 +11063,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Paper/box-wall overhang versus intersection diagnosis pending."
     },
     {
       "id": "AT_086",
@@ -11092,7 +11096,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised cords and apparently disconnected/embedded segments: diagnosis pending."
     },
     {
       "id": "AT_087",
@@ -11124,7 +11129,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Paper/cord layering versus penetration diagnosis pending."
     },
     {
       "id": "AT_088",
@@ -11156,7 +11162,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Dark scroll bases/open ties: material, shading and construction diagnosis pending."
     },
     {
       "id": "AT_089",
@@ -11188,7 +11195,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised binding cords: repair diagnosis pending."
     },
     {
       "id": "AT_090",
@@ -11220,7 +11228,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Separated paper layers/rigid cord bridges: intended assembly unconfirmed."
     },
     {
       "id": "AT_092",
@@ -11252,7 +11261,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "20262 triangles exceeds20000 small-prop budget; unresolved."
     },
     {
       "id": "AT_093",
@@ -25274,8 +25284,8 @@
       "name_ja": "Fire tools",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25291,7 +25301,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN015.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN016",
@@ -25301,8 +25313,8 @@
       "name_ja": "Pewter tankard",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25318,7 +25330,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN016.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN017",
@@ -25328,8 +25342,8 @@
       "name_ja": "Ceramic pitcher",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25345,7 +25359,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN017.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN018",
@@ -25355,8 +25371,8 @@
       "name_ja": "Bread board",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25372,7 +25388,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN018.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN019",
@@ -25382,8 +25400,8 @@
       "name_ja": "Soup bowl",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25399,7 +25417,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN019.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN020",
@@ -25409,8 +25429,8 @@
       "name_ja": "Table linen",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25426,7 +25446,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN020.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN021",
@@ -25436,8 +25458,8 @@
       "name_ja": "Mantel lantern",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25453,7 +25475,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN021.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN022",
@@ -25463,8 +25487,8 @@
       "name_ja": "Ale barrel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN022.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25480,7 +25504,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN022.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN023",
@@ -25490,8 +25516,8 @@
       "name_ja": "Travel boots",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN023.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25507,7 +25533,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN023.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "IN024",
@@ -25517,8 +25545,8 @@
       "name_ja": "Hanging cloak",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/IN024.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25534,7 +25562,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/IN024.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC001",
@@ -25544,8 +25574,8 @@
       "name_ja": "Octagonal stone foundation",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25561,7 +25591,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC001.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC002",
@@ -25571,8 +25603,8 @@
       "name_ja": "Central raised bed",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25588,7 +25620,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC002.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC010",
@@ -25598,8 +25632,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25615,7 +25649,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC010.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC011",
@@ -25625,8 +25661,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25642,7 +25678,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC011.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC012",
@@ -25652,8 +25690,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25669,7 +25707,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC012.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC013",
@@ -25679,8 +25719,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25696,7 +25736,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC013.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC014",
@@ -25706,8 +25748,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25723,7 +25765,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC014.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC015",
@@ -25733,8 +25777,8 @@
       "name_ja": "Gothic wall sector (entrance / south)",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25750,7 +25794,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC015.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC016",
@@ -25760,8 +25806,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25777,7 +25823,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC016.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC017",
@@ -25787,8 +25835,8 @@
       "name_ja": "Gothic wall sector",
       "purpose_en": null,
       "record_kind": "placement_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25804,7 +25852,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC017.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC020",
@@ -25814,8 +25864,8 @@
       "name_ja": "High octagonal glass roof",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25831,7 +25881,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC020.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "OC021",
@@ -25841,8 +25893,8 @@
       "name_ja": "Entrance details",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/OC021.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25858,7 +25910,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/OC021.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "PA001",
@@ -25868,8 +25922,8 @@
       "name_ja": "Paint spattered worktable",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/PA001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25885,7 +25939,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/PA001.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "PA002",
@@ -25895,8 +25951,8 @@
       "name_ja": "Adjustable studio easel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/inn-conservatory-atelier24/thumbnails/PA002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -25912,7 +25968,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/inn-conservatory-atelier24/renders/PA002.png",
+      "image_manifest": "previews/inn-conservatory-atelier24/manifest.json"
     },
     {
       "id": "PA003",

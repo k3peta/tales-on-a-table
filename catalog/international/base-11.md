@@ -394,6 +394,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
+**Audit status (no adopted repair):** Raised cord clearance/intended ties diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
 ## AT_083
 
 **Old pottery shards and papers**
@@ -415,6 +417,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
+
+**Audit status (no adopted repair):** Raised cord diagnosis pending; broken pottery rim may be intentional. [Audit scope](../quality_audit_at082_092.md).
 
 ## AT_084
 
@@ -438,6 +442,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
+**Audit status (no adopted repair):** Angular paper folds/weak detail noted; no demonstrated defect or adopted variant. [Audit scope](../quality_audit_at082_092.md).
+
 ## AT_085
 
 **Box with a broken seal**
@@ -459,6 +465,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2](../../catalog/containers_02.md) · [Catalogue 3](../../catalog/containers_02.zh-CN.md)
+
+**Audit status (no adopted repair):** Paper/box-wall overhang versus intersection diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 
 ## AT_086
 
@@ -482,6 +490,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2](../../catalog/containers_02.md) · [Catalogue 3](../../catalog/containers_02.zh-CN.md)
 
+**Audit status (no adopted repair):** Raised cords and apparently disconnected/embedded segments: diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
 ## AT_087
 
 **Unsorted survey maps**
@@ -503,6 +513,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
+
+**Audit status (no adopted repair):** Paper/cord layering versus penetration diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 
 ## AT_088
 
@@ -526,6 +538,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
+**Audit status (no adopted repair):** Dark scroll bases/open ties: material, shading and construction diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
+
 ## AT_089
 
 **Unopened parcel for a scholar**
@@ -547,3 +561,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
+**Audit status (no adopted repair):** Raised binding cords: repair diagnosis pending. [Audit scope](../quality_audit_at082_092.md).

@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
+**Audit status (no adopted repair):** Separated paper layers/rigid cord bridges: intended assembly unconfirmed. [Audit scope](../quality_audit_at082_092.md).
+
 ## AT_092
 
 **Chipped antique standing statue**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue 2](../../catalog/curios-tools_04.md) · [Catalogue 3](../../catalog/curios-tools_04.zh-CN.md)
+
+**Audit status (no adopted repair):** 20262 triangles exceeds20000 small-prop budget; unresolved. [Audit scope](../quality_audit_at082_092.md).
 
 ## AT_093
 

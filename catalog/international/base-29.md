@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Hanging cloak
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![IN024](../../previews/inn-conservatory-atelier24/thumbnails/IN024.png)](../../previews/inn-conservatory-atelier24/renders/IN024.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/IN024.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/inn.md)
 
 Octagonal stone foundation
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC001](../../previews/inn-conservatory-atelier24/thumbnails/OC001.png)](../../previews/inn-conservatory-atelier24/renders/OC001.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Central raised bed
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC002](../../previews/inn-conservatory-atelier24/thumbnails/OC002.png)](../../previews/inn-conservatory-atelier24/renders/OC002.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC010](../../previews/inn-conservatory-atelier24/thumbnails/OC010.png)](../../previews/inn-conservatory-atelier24/renders/OC010.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC011](../../previews/inn-conservatory-atelier24/thumbnails/OC011.png)](../../previews/inn-conservatory-atelier24/renders/OC011.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC012](../../previews/inn-conservatory-atelier24/thumbnails/OC012.png)](../../previews/inn-conservatory-atelier24/renders/OC012.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC013](../../previews/inn-conservatory-atelier24/thumbnails/OC013.png)](../../previews/inn-conservatory-atelier24/renders/OC013.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC014](../../previews/inn-conservatory-atelier24/thumbnails/OC014.png)](../../previews/inn-conservatory-atelier24/renders/OC014.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector (entrance / south)
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC015](../../previews/inn-conservatory-atelier24/thumbnails/OC015.png)](../../previews/inn-conservatory-atelier24/renders/OC015.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC016](../../previews/inn-conservatory-atelier24/thumbnails/OC016.png)](../../previews/inn-conservatory-atelier24/renders/OC016.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Gothic wall sector
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC017](../../previews/inn-conservatory-atelier24/thumbnails/OC017.png)](../../previews/inn-conservatory-atelier24/renders/OC017.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 High octagonal glass roof
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC020](../../previews/inn-conservatory-atelier24/thumbnails/OC020.png)](../../previews/inn-conservatory-atelier24/renders/OC020.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Entrance details
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![OC021](../../previews/inn-conservatory-atelier24/thumbnails/OC021.png)](../../previews/inn-conservatory-atelier24/renders/OC021.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/OC021.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +322,9 @@ Source details: [Catalogue 1](../../catalog/octagonal_conservatory.md)
 
 Paint spattered worktable
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA001](../../previews/inn-conservatory-atelier24/thumbnails/PA001.png)](../../previews/inn-conservatory-atelier24/renders/PA001.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/PA001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +346,9 @@ Source details: [Catalogue 1](../../catalog/painter_atelier.md)
 
 Adjustable studio easel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PA002](../../previews/inn-conservatory-atelier24/thumbnails/PA002.png)](../../previews/inn-conservatory-atelier24/renders/PA002.png)
+
+[Full-size image](../../previews/inn-conservatory-atelier24/renders/PA002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

@@ -39,3 +39,23 @@ BLENDは単体データのため、一部はFile > Appendでオブジェクト/�
 ![painter_atelier](../examples/painter_atelier/painter_atelier.png)
 
 [Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.21-painter-atelier) · [SHA256](../releases/painter_atelier/SHA256SUMS.txt) · [License](../LICENSE.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### PA001 — Paint spattered worktable
+
+Paint spattered worktable
+
+[![PA001](../previews/inn-conservatory-atelier24/thumbnails/PA001.png)](../previews/inn-conservatory-atelier24/renders/PA001.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/PA001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA001_CC0.zip)
+
+### PA002 — Adjustable studio easel
+
+Adjustable studio easel
+
+[![PA002](../previews/inn-conservatory-atelier24/thumbnails/PA002.png)](../previews/inn-conservatory-atelier24/renders/PA002.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/PA002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip)

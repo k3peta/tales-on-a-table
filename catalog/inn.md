@@ -155,3 +155,87 @@ Log basket
 [![IN014](../previews/forest-inn15/thumbnails/IN014.png)](../previews/forest-inn15/renders/IN014.png)
 
 [Full image](../previews/forest-inn15/renders/IN014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN014_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### IN015 — Fire tools
+
+Fire tools
+
+[![IN015](../previews/inn-conservatory-atelier24/thumbnails/IN015.png)](../previews/inn-conservatory-atelier24/renders/IN015.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN015_CC0.zip)
+
+### IN016 — Pewter tankard
+
+Pewter tankard
+
+[![IN016](../previews/inn-conservatory-atelier24/thumbnails/IN016.png)](../previews/inn-conservatory-atelier24/renders/IN016.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN016_CC0.zip)
+
+### IN017 — Ceramic pitcher
+
+Ceramic pitcher
+
+[![IN017](../previews/inn-conservatory-atelier24/thumbnails/IN017.png)](../previews/inn-conservatory-atelier24/renders/IN017.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip)
+
+### IN018 — Bread board
+
+Bread board
+
+[![IN018](../previews/inn-conservatory-atelier24/thumbnails/IN018.png)](../previews/inn-conservatory-atelier24/renders/IN018.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN018_CC0.zip)
+
+### IN019 — Soup bowl
+
+Soup bowl
+
+[![IN019](../previews/inn-conservatory-atelier24/thumbnails/IN019.png)](../previews/inn-conservatory-atelier24/renders/IN019.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN019_CC0.zip)
+
+### IN020 — Table linen
+
+Table linen
+
+[![IN020](../previews/inn-conservatory-atelier24/thumbnails/IN020.png)](../previews/inn-conservatory-atelier24/renders/IN020.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN020_CC0.zip)
+
+### IN021 — Mantel lantern
+
+Mantel lantern
+
+[![IN021](../previews/inn-conservatory-atelier24/thumbnails/IN021.png)](../previews/inn-conservatory-atelier24/renders/IN021.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN021.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN021_CC0.zip)
+
+### IN022 — Ale barrel
+
+Ale barrel
+
+[![IN022](../previews/inn-conservatory-atelier24/thumbnails/IN022.png)](../previews/inn-conservatory-atelier24/renders/IN022.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN022_CC0.zip)
+
+### IN023 — Travel boots
+
+Travel boots
+
+[![IN023](../previews/inn-conservatory-atelier24/thumbnails/IN023.png)](../previews/inn-conservatory-atelier24/renders/IN023.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN023.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN023_CC0.zip)
+
+### IN024 — Hanging cloak
+
+Hanging cloak
+
+[![IN024](../previews/inn-conservatory-atelier24/thumbnails/IN024.png)](../previews/inn-conservatory-atelier24/renders/IN024.png)
+
+[Full image](../previews/inn-conservatory-atelier24/renders/IN024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN024_CC0.zip)

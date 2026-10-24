@@ -4279,7 +4279,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN015_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4294,6 +4293,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4304,7 +4307,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN016_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4319,6 +4321,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4329,7 +4335,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN017_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4344,6 +4349,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4354,7 +4363,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN018_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4369,6 +4377,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4379,7 +4391,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN019_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4394,6 +4405,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4404,7 +4419,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN020_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4419,6 +4433,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4429,7 +4447,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN021_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4444,6 +4461,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4454,7 +4475,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN022_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4469,6 +4489,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4479,7 +4503,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN023_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4494,6 +4517,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4504,7 +4531,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-inn/IN024_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4519,6 +4545,10 @@
     },
     "existing_catalogs": [
       "catalog/inn.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4529,7 +4559,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC001_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4544,6 +4573,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4554,7 +4587,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC002_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4569,6 +4601,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4579,7 +4615,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC010_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4594,6 +4629,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4604,7 +4643,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC011_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4619,6 +4657,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4629,7 +4671,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC012_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4644,6 +4685,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4654,7 +4699,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC013_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4669,6 +4713,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4679,7 +4727,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC014_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4694,6 +4741,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4704,7 +4755,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC015_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4719,6 +4769,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4729,7 +4783,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC016_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4744,6 +4797,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4754,7 +4811,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC017_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4769,6 +4825,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4779,7 +4839,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC020_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4794,6 +4853,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4804,7 +4867,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-octagonal-conservatory/OC021_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4819,6 +4881,10 @@
     },
     "existing_catalogs": [
       "catalog/octagonal_conservatory.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4829,7 +4895,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA001_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4844,6 +4909,10 @@
     },
     "existing_catalogs": [
       "catalog/painter_atelier.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -4854,7 +4923,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-painter-atelier/PA002_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -4869,6 +4937,10 @@
     },
     "existing_catalogs": [
       "catalog/painter_atelier.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
