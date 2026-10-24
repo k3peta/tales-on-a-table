@@ -324,9 +324,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 RoadGatehouse
 
-[![FCS105_RoadGatehouse](../../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png)](../../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png)
+[![FCS105_RoadGatehouse](../../previews/current-scenes6/thumbnails/FCS105_RoadGatehouse.png)](../../previews/current-scenes6/renders/FCS105_RoadGatehouse.png)
 
-[Full-size image](../../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png)
+[Full-size image](../../previews/current-scenes6/renders/FCS105_RoadGatehouse.png)
 
 Use / purpose: 6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program
 
@@ -336,13 +336,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — model geometry and embedded display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip). Model/scene rights: CC0-1.0; model geometry and embedded display materials only. Images excluded from CC0.
 
 ## FCS106_WatchKiosk
 
@@ -374,9 +374,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 ConstructionSite
 
-[![FCSV01_ConstructionSite](../../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png)](../../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
+[![FCSV01_ConstructionSite](../../previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png)](../../previews/current-scenes6/renders/FCSV01_ConstructionSite.png)
 
-[Full-size image](../../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
+[Full-size image](../../previews/current-scenes6/renders/FCSV01_ConstructionSite.png)
 
 Use / purpose: Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.
 
@@ -386,13 +386,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — model geometry and embedded display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/city_scenes_quality_v3.md) · [Catalogue 2](../../catalog/fortified_city_sites_v1.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip). Model/scene rights: CC0-1.0; scene model geometry and embedded materials only; code/images/private records excluded. Images excluded from CC0.
 
 ## FCSV02_RoadEntrance
 

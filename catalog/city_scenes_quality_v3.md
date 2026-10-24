@@ -65,3 +65,19 @@ GateAccessExample
 
 
 Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; exact revised-ZIP/render binding needs review for the six records listed in [Version audit](international/VERSION-AUDIT.md).
+
+## Latest revision images / 現行改訂版画像
+
+Exact revised ZIP GLB renders; public retrieval verification pending. Older archive previews remain labelled above. Images are viewing artwork, not model CC0.
+
+### FCSV01_ConstructionSite
+
+[![FCSV01_ConstructionSite](../previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png)](../previews/current-scenes6/renders/FCSV01_ConstructionSite.png)
+
+[Matching revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip) · [Full-size image](../previews/current-scenes6/renders/FCSV01_ConstructionSite.png). scene model geometry and embedded materials only; code/images/private records excluded.
+
+### FCSV03_GateAccessExample
+
+[![FCSV03_GateAccessExample](../previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png)](../previews/current-scenes6/renders/FCSV03_GateAccessExample.png)
+
+[Matching revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip) · [Full-size image](../previews/current-scenes6/renders/FCSV03_GateAccessExample.png). scene model geometry and embedded materials only; code/images/private records excluded.

@@ -1,0 +1,354 @@
+{
+  "scope": "Exact named GLB member and render image identity; public reacquisition pending. Not all-model quality or all-LOD certification.",
+  "items": [
+    {
+      "id": "FCS105_RoadGatehouse",
+      "zip": "distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip",
+      "zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
+      "glb_member": "FCS105_RoadGatehouse_access_v2.glb",
+      "glb_sha256": "d2abaa80f23a2078da38d841d63be129382a49848a80d84d8c8125bd8d4fb4ee",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/FCS105_RoadGatehouse.png",
+          "image_sha256": "49fc5b34a45c6c4449fee9affc7ac3d000589c11c13ac70ecd4a7618149558b7"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/FCS105_RoadGatehouse.png",
+          "image_sha256": "98335ea608c24f816610afe54480918de718d0119709a0155ba974bfb968b954"
+        }
+      ]
+    },
+    {
+      "id": "FCSV01_ConstructionSite",
+      "zip": "distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip",
+      "zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
+      "glb_member": "FCSV01_ConstructionSite_v3.glb",
+      "glb_sha256": "5cb1f6d9b4ad50333c40df30deb9101748b8b80db036d00ce26aaebacc97a8f7",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/FCSV01_ConstructionSite.png",
+          "image_sha256": "81c48500521a39e964682b7fcc9b3fbb69676f1b0a59669967b232cd7fd1311c"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png",
+          "image_sha256": "9067a8dc8ce5587267500e39aee96fc60b0be98b2cb8771f7cfc16ce11a8ec8f"
+        }
+      ]
+    },
+    {
+      "id": "FCSV03_GateAccessExample",
+      "zip": "distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip",
+      "zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
+      "glb_member": "FCSV03_GateAccessExample_v3.glb",
+      "glb_sha256": "8a45dd07c4ea6ad94a08ed4fc85fce12319535198680890df617c8228ec10b9b",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/FCSV03_GateAccessExample.png",
+          "image_sha256": "7e0c1a8d3867cd739da326b9e689d1af4be77b80c3b3a3a48fb29ae87901fc46"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png",
+          "image_sha256": "d3bae270abd6f06585327d00a57375d9b5782aef29fd87417fbe0746cbfecdc6"
+        }
+      ]
+    },
+    {
+      "id": "HCV_SCENE_HORSE",
+      "zip": "distributions/scene-polish-v3/horse-scene-v3.zip",
+      "zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
+      "glb_member": "horse-rearrange.glb",
+      "glb_sha256": "3d360a827af736f968663e19357b6a711d18417702e60136595f83b1e3bfee11",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/HCV_SCENE_HORSE.png",
+          "image_sha256": "832d6bc56fa75aafb37156ea9f8dafae869f6ec3f56b61949de1bae20d911a78"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png",
+          "image_sha256": "b42e648a989273f4c4fb34017327e0fc8a2624fb1f66144f2260ecc23c0358cf"
+        }
+      ]
+    },
+    {
+      "id": "HCV_SCENE_WINERY",
+      "zip": "distributions/scene-polish-v3/winery-scene-v3.zip",
+      "zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
+      "glb_member": "winery-rearrange.glb",
+      "glb_sha256": "e7304dbf85b73270769245c0ecadb469add836793df8d87542fb1d5070116e78",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/HCV_SCENE_WINERY.png",
+          "image_sha256": "4336666b1239089794f9f58e2884ed2d81950d0768fca6cdd72d83506658513e"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png",
+          "image_sha256": "2133ab369d674b0cdd6060487395b1d9340e4bdf4604c2880d94d79cdbb5e132"
+        }
+      ]
+    },
+    {
+      "id": "HCV_SCENE_CELLAR",
+      "zip": "distributions/scene-polish-v3/cellar-scene-v3.zip",
+      "zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
+      "glb_member": "cellar-rearrange.glb",
+      "glb_sha256": "f682bff1eea423cb304792d50e59d8f1ec104cca8b423b37a14f57d199df2a14",
+      "images": [
+        {
+          "image": "previews/current-scenes6/renders/HCV_SCENE_CELLAR.png",
+          "image_sha256": "d8171374b141056e4846c610e43b134c82ee01d3f891b121f6c83c4b1d404bde"
+        },
+        {
+          "image": "previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png",
+          "image_sha256": "bcdd662458304ec842ddbd12380b38c08502ac63a14583e527959ad5def0227c"
+        }
+      ]
+    },
+    {
+      "id": "FW001",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip",
+      "zip_sha256": "c1837624eefa11b74523fb6478b378a91639ed73d0d913a722676868eee7796e",
+      "glb_member": "FW001__repair.glb",
+      "glb_sha256": "2cdbe7b2a17d9c5e0766916963fd56874e22f6a1776bec1218fb85bd0500cf35",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW001.png",
+          "image_sha256": "ee9d3fcdd617b36180f427c5faa45e6991af8d76dee676eef0df33deb2861331"
+        }
+      ]
+    },
+    {
+      "id": "FW002",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
+      "zip_sha256": "94f8fba0f6d26aa9fc97dd26301b17187319eded70f595d94d939dbb01529b0d",
+      "glb_member": "FW002__repair.glb",
+      "glb_sha256": "2dbf36a9309f9a3076fc1b96cbf9cd26d1cf3ad48b2441921b75c6c942793ab8",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW002.png",
+          "image_sha256": "1cfb3029927394889598827290981c90161ade5dbdaee7a7065ddda9f6232eaa"
+        }
+      ]
+    },
+    {
+      "id": "FW004",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip",
+      "zip_sha256": "38df1baa2210b5edffd91e2396f66f144164360fdea4df60727934ca4583c60e",
+      "glb_member": "FW004__repair.glb",
+      "glb_sha256": "c036e90fff3fb47e978aa7a4f0d176c6a88d54f5fa9e78d13480326e705902b1",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW004.png",
+          "image_sha256": "2d600a4b33604347364c51919e52008f82e94ac34368f6e563a283f213c88fef"
+        }
+      ]
+    },
+    {
+      "id": "FW005",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip",
+      "zip_sha256": "e15d2e34ec60ca4c109fae77c2c6c49cd43e817b493b0d1517f18a16025dca2e",
+      "glb_member": "FW005__repair.glb",
+      "glb_sha256": "ca5c9bcb9bbe48445f6102fa467ec19ff0d27bb7cca5bd1ead00d3722d2f8aba",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW005.png",
+          "image_sha256": "1d6534b4820e020c1d613b4fea38fa953bb0d3772b863346d00d513462cb93b8"
+        }
+      ]
+    },
+    {
+      "id": "FW007",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip",
+      "zip_sha256": "8bdc152f54db296ba5724fcb30a9a0531435d22c1bfcb2ea0506d8196d040ca0",
+      "glb_member": "FW007__repair.glb",
+      "glb_sha256": "d44416b678596d32523e00c36ebef68392726fcce9db8f8eae5b33926f185a68",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW007.png",
+          "image_sha256": "6a374a3e89ff25defbfc86e66737c9cda7a6ff49a71e1c2a69bdcd31f1013311"
+        }
+      ]
+    },
+    {
+      "id": "FW008",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
+      "zip_sha256": "1a77ff64571e0088a42f0b51b0e97d8706a948ff66da71ae7b685e925607574a",
+      "glb_member": "FW008__repair.glb",
+      "glb_sha256": "03c67dbbdd9ff809475a64cb9ee54b166744d211f07ba312d4cf98c10fd40341",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW008.png",
+          "image_sha256": "1d3762467360f87374a72c30165ce729eeb45bba0cf12819d94c09be485ab6bd"
+        }
+      ]
+    },
+    {
+      "id": "FW009",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip",
+      "zip_sha256": "e769364ae6da9255025be065f53dc81f82af494fd648c1e4c31ecf03a2ee5be1",
+      "glb_member": "FW009__repair.glb",
+      "glb_sha256": "2c592c4a8565db3795ff1252f70ee84b400a29b5a21bde5498422336171e3fb8",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW009.png",
+          "image_sha256": "5ce38361860b10e5aa250e6db3164060fe068c3baa174a440995763ff074617d"
+        }
+      ]
+    },
+    {
+      "id": "FW010",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
+      "zip_sha256": "0f1f5e37303b1fd3ebdd915fd18a10471dbe7df90228528382ebd9c3055af473",
+      "glb_member": "FW010__repair.glb",
+      "glb_sha256": "36548edf449b290fbd533536e5d2d5eeef09700968a4aaf968a52ef485d0bd1c",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW010.png",
+          "image_sha256": "dbb1729c463defbb811d8bbb9736965dc3f5dd5ffa964030d1e2f1469afd6c46"
+        }
+      ]
+    },
+    {
+      "id": "FW011",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip",
+      "zip_sha256": "5a42266b21b07be32d48800137dcb16ae061c8e8cf90b1ee00579f2aeb031ca9",
+      "glb_member": "FW011__repair.glb",
+      "glb_sha256": "520db098b4aae201a5fc8746f10d671188c15171257216891af652b5426a4f07",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW011.png",
+          "image_sha256": "0b9ee9fefd9320db2df218c9e6e505c96617e5e8366e4404336240eb302fccd9"
+        }
+      ]
+    },
+    {
+      "id": "FW012",
+      "zip": "distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
+      "zip_sha256": "7f42a5041b65b29a18faa86992a22626f42951f5e0987580dcdaa876b328e000",
+      "glb_member": "FW012__repair.glb",
+      "glb_sha256": "0fbd2113462dd25fe5ca8694b7d4be4aebb9a55890585165c52b9deb6b84ef03",
+      "images": [
+        {
+          "image": "previews/quality-fw-normal-repair-v1/renders/FW012.png",
+          "image_sha256": "35ab85df0eb3b0add70df04e99ccf97b6619e97d11b8c6929b1019ea168d56af"
+        }
+      ]
+    },
+    {
+      "id": "FW013",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
+      "zip_sha256": "08703be65b368f163821a96e00cc05861a500210ffab4012c4aa261d6e0f6b8b",
+      "glb_member": "FW013__repair.glb",
+      "glb_sha256": "ad405563526e077ad8e79fbc23c87662dda8c1b049a72a781e7bd88abf15d93f",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW013.png",
+          "image_sha256": "bcf17a69fa428ca4cb1441596fc8c81855cc539cce92671fe5513544c057aa2b"
+        }
+      ]
+    },
+    {
+      "id": "FW014",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip",
+      "zip_sha256": "5bf9a8949d9bb32372fe8d5454c2b953ab287b5470031aa042aee9080b39289b",
+      "glb_member": "FW014__repair.glb",
+      "glb_sha256": "7f7f0be96b5a9839d1a00ce5b828c3857d7419072ad18a0337caa6678f7a4ab1",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW014.png",
+          "image_sha256": "850eff696510c507656af1f1da28b8995939ea2aaa4e34c7039f5d25bc5a7b1a"
+        }
+      ]
+    },
+    {
+      "id": "FW015",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
+      "zip_sha256": "37484503ff3b6cfcce7c5a56ab02dd598a1c9d651201fe4e3e9f74dee33094fb",
+      "glb_member": "FW015__repair.glb",
+      "glb_sha256": "b1ac0dae890688887e150a48c10e7773a09ec868b2b999463a2081d7a81e318b",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
+          "image_sha256": "72afeae1ad58d7500cbea14b5d3a3c7c68eb9f00e73761df524e21af836463ff"
+        }
+      ]
+    },
+    {
+      "id": "FW016",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
+      "zip_sha256": "de450030bb53b8d238cefa2a83a2352592894c2a9788ff331797e62772c76732",
+      "glb_member": "FW016__repair.glb",
+      "glb_sha256": "3f46a6b4a5a14b1b103a87741cbd10399277b760fe38d6d21bd1ced9721ffd00",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW016.png",
+          "image_sha256": "5d030ec865b47067467336d4b27d59bc56e6949510068e2b6419843ef912f8d8"
+        }
+      ]
+    },
+    {
+      "id": "FW017",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip",
+      "zip_sha256": "c650ae606a6f95e942b093679defce7c73d668af95f6604b513de193d132acee",
+      "glb_member": "FW017__repair.glb",
+      "glb_sha256": "871c542d9e0242253416883d047dcd148aafb55a46db1362fb6b6d2ea9200cc8",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW017.png",
+          "image_sha256": "cb30ee964ab6ece8fcc1a12b90607061330ca62c0b1cee020888e69487f2c21a"
+        }
+      ]
+    },
+    {
+      "id": "FW018",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
+      "zip_sha256": "3def3fb372df664b35b3c27ce30bcdf964e28aa75a9c050543dfb8ebd07bd4d1",
+      "glb_member": "FW018__repair.glb",
+      "glb_sha256": "9191751e142657fdb16a4211ec743ae0b24bd0dc0d99a243fd2f3600652305c4",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW018.png",
+          "image_sha256": "ce513a12c82df94fac197d88f0d1d20f58dc4b99c21ab7e9fd5764432492d046"
+        }
+      ]
+    },
+    {
+      "id": "FW019",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
+      "zip_sha256": "e4fdf55a60e3f3a05274bbd5cf7fef9a4a39ea5424f2cdba5ea6e4fa2188d506",
+      "glb_member": "FW019__repair.glb",
+      "glb_sha256": "07f3964bea06a6b391060671a0b2b8c4ef41e8807065ab6cd1c08fd30fa46802",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW019.png",
+          "image_sha256": "4eb12cec0979711b02e0191503f1f85f4d30a50c9c067f61b97b919947a54eb2"
+        }
+      ]
+    },
+    {
+      "id": "FW020",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip",
+      "zip_sha256": "285a5a5df610ea6635763d54ddb5c8430ba688c5652ec3d00b279e982dc3306c",
+      "glb_member": "FW020__repair.glb",
+      "glb_sha256": "f38f240146ed002377864c807094f634b9c65b9c461ef1ca7b5fb05e5292019c",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW020.png",
+          "image_sha256": "7e0355c4b74783e78949e8f94551e4cc25c03c0525b0671da0c63b1bbdb85390"
+        }
+      ]
+    },
+    {
+      "id": "FW021",
+      "zip": "distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
+      "zip_sha256": "ea59f1c441cac9f9891ca7a746fc7752ed3bf5a901996ff916c728602c57a744",
+      "glb_member": "FW021__repair.glb",
+      "glb_sha256": "ab5c8ddf3c0ce5326c361edb48f48c0aac5864343882e9a6c20b7786145e7cdd",
+      "images": [
+        {
+          "image": "previews/quality-fw013-021-normal-repair-v1/renders/FW021.png",
+          "image_sha256": "abb8c12178deec9788058aabbbd78dd4a60895bcbbb741f91307791d28b74f33"
+        }
+      ]
+    }
+  ]
+}

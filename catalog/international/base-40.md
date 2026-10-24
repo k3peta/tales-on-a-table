@@ -180,9 +180,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_access_v2.md)
 
 GateAccessExample
 
-[![FCSV03_GateAccessExample](../../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png)](../../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
+[![FCSV03_GateAccessExample](../../previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png)](../../previews/current-scenes6/renders/FCSV03_GateAccessExample.png)
 
-[Full-size image](../../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
+[Full-size image](../../previews/current-scenes6/renders/FCSV03_GateAccessExample.png)
 
 Use / purpose: FCSV03_GateAccessExample
 
@@ -192,13 +192,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — model geometry and embedded display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/city_scenes_quality_v3.md) · [Catalogue 2](../../catalog/fortified_city_access_v2.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip). Model/scene rights: CC0-1.0; scene model geometry and embedded materials only; code/images/private records excluded. Images excluded from CC0.
 
 ## FCSV04_ScaffoldCornerExample
 

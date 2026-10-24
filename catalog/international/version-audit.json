@@ -36,7 +36,15 @@
       "HCV_SCENE_WINERY",
       "HCV_SCENE_CELLAR"
     ],
-    "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim."
+    "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
+    "latest_revision_binding_public_retrieval_pending": [
+      "FCS105_RoadGatehouse",
+      "FCSV01_ConstructionSite",
+      "FCSV03_GateAccessExample",
+      "HCV_SCENE_HORSE",
+      "HCV_SCENE_WINERY",
+      "HCV_SCENE_CELLAR"
+    ]
   },
   "items": [
     {
@@ -16329,25 +16337,42 @@
     },
     {
       "id": "FCS105_RoadGatehouse",
-      "image": "previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png",
-      "image_sha256": "054f79bd405b8124d49a82d5beb1a26ee34c1b272bc04ba9b3e04c267bf067ed",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip",
-      "pictured_zip_sha256": "7e901ced09d6325454169154b35024b5ca0492fe5644c45494c6cd6f9e003990",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/FCS105_RoadGatehouse.png",
+      "image_sha256": "98335ea608c24f816610afe54480918de718d0119709a0155ba974bfb968b954",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip",
+      "pictured_zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "model",
       "classification": "local_use_candidate",
       "model_license": "CC0-1.0",
       "model_license_scope": "model geometry and embedded display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "FCS105_RoadGatehouse_access_v2",
         "zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded display materials only",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "FCS105_RoadGatehouse_access_v2",
+            "zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
+            "image": "previews/current-scenes6/thumbnails/FCS105_RoadGatehouse.png",
+            "image_sha256": "98335ea608c24f816610afe54480918de718d0119709a0155ba974bfb968b954",
+            "source_glb_sha256": "d2abaa80f23a2078da38d841d63be129382a49848a80d84d8c8125bd8d4fb4ee",
+            "glb_member": "FCS105_RoadGatehouse_access_v2.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png",
+        "image_sha256": "054f79bd405b8124d49a82d5beb1a26ee34c1b272bc04ba9b3e04c267bf067ed",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip",
+        "pictured_zip_sha256": "7e901ced09d6325454169154b35024b5ca0492fe5644c45494c6cd6f9e003990",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {
@@ -16367,25 +16392,42 @@
     },
     {
       "id": "FCSV01_ConstructionSite",
-      "image": "previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png",
-      "image_sha256": "8356293a7a105e27fddda42a117188fbaf72316883a1620c9851ff233dbffe09",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip",
-      "pictured_zip_sha256": "50a04d77e8483badafc47ca4aa33c2682151d59917dbd0565245070c65462420",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png",
+      "image_sha256": "9067a8dc8ce5587267500e39aee96fc60b0be98b2cb8771f7cfc16ce11a8ec8f",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip",
+      "pictured_zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "group",
       "classification": "vignette_reused_components",
       "model_license": "CC0-1.0",
-      "model_license_scope": "model geometry and embedded display materials only",
+      "model_license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "FCSV01_ConstructionSite",
         "zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "FCSV01_ConstructionSite",
+            "zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
+            "image": "previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png",
+            "image_sha256": "9067a8dc8ce5587267500e39aee96fc60b0be98b2cb8771f7cfc16ce11a8ec8f",
+            "source_glb_sha256": "5cb1f6d9b4ad50333c40df30deb9101748b8b80db036d00ce26aaebacc97a8f7",
+            "glb_member": "FCSV01_ConstructionSite_v3.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png",
+        "image_sha256": "8356293a7a105e27fddda42a117188fbaf72316883a1620c9851ff233dbffe09",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip",
+        "pictured_zip_sha256": "50a04d77e8483badafc47ca4aa33c2682151d59917dbd0565245070c65462420",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {
@@ -16615,25 +16657,42 @@
     },
     {
       "id": "FCSV03_GateAccessExample",
-      "image": "previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png",
-      "image_sha256": "7c28df6c59298084166ccb4346111ae79c1de38c3a7abe61e21f32092c1849b5",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
-      "pictured_zip_sha256": "8959838fb499024f0f4939f42ba9e19942e5e564702bb0e4781806b49743795b",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png",
+      "image_sha256": "d3bae270abd6f06585327d00a57375d9b5782aef29fd87417fbe0746cbfecdc6",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip",
+      "pictured_zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "group",
       "classification": "assembly_not_new_shape",
       "model_license": "CC0-1.0",
-      "model_license_scope": "model geometry and embedded display materials only",
+      "model_license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "FCSV03_GateAccessExample",
         "zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "scene model geometry and embedded materials only; code/images/private records excluded",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "FCSV03_GateAccessExample",
+            "zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
+            "image": "previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png",
+            "image_sha256": "d3bae270abd6f06585327d00a57375d9b5782aef29fd87417fbe0746cbfecdc6",
+            "source_glb_sha256": "8a45dd07c4ea6ad94a08ed4fc85fce12319535198680890df617c8228ec10b9b",
+            "glb_member": "FCSV03_GateAccessExample_v3.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png",
+        "image_sha256": "7c28df6c59298084166ccb4346111ae79c1de38c3a7abe61e21f32092c1849b5",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
+        "pictured_zip_sha256": "8959838fb499024f0f4939f42ba9e19942e5e564702bb0e4781806b49743795b",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {
@@ -16893,25 +16952,42 @@
     },
     {
       "id": "HCV_SCENE_HORSE",
-      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png",
-      "image_sha256": "796db7fab57c5217b0add9e0f9df6098ac2e5842804449438823643c7d0359b0",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip",
-      "pictured_zip_sha256": "90c4e2c842a2a8e30645f6a18ff7f265b8b1f0b483b96881fc7f0d0930338fa3",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png",
+      "image_sha256": "b42e648a989273f4c4fb34017327e0fc8a2624fb1f66144f2260ecc23c0358cf",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip",
+      "pictured_zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "group",
       "classification": "revised_private_scene_first_distribution",
       "model_license": "LicenseRef-Scene-Viewing-Rearranging",
-      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "HCV_SCENE_HORSE",
         "zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip",
         "license": "LicenseRef-Scene-Viewing-Rearranging",
         "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "HCV_SCENE_HORSE",
+            "zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
+            "image": "previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png",
+            "image_sha256": "b42e648a989273f4c4fb34017327e0fc8a2624fb1f66144f2260ecc23c0358cf",
+            "source_glb_sha256": "3d360a827af736f968663e19357b6a711d18417702e60136595f83b1e3bfee11",
+            "glb_member": "horse-rearrange.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png",
+        "image_sha256": "796db7fab57c5217b0add9e0f9df6098ac2e5842804449438823643c7d0359b0",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip",
+        "pictured_zip_sha256": "90c4e2c842a2a8e30645f6a18ff7f265b8b1f0b483b96881fc7f0d0930338fa3",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {
@@ -16931,48 +17007,82 @@
     },
     {
       "id": "HCV_SCENE_WINERY",
-      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png",
-      "image_sha256": "4a6cecbc49f1df00834ecb105d3f7943a2ad92f0542d09c324ae3e461e1f8bad",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip",
-      "pictured_zip_sha256": "4e58c918dffa6cd0d23e0c52ce208929693df0228e15e291bf4055aa3d8fa36f",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png",
+      "image_sha256": "2133ab369d674b0cdd6060487395b1d9340e4bdf4604c2880d94d79cdbb5e132",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip",
+      "pictured_zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "group",
       "classification": "revised_private_scene_first_distribution",
       "model_license": "LicenseRef-Scene-Viewing-Rearranging",
-      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "HCV_SCENE_WINERY",
         "zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip",
         "license": "LicenseRef-Scene-Viewing-Rearranging",
         "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "HCV_SCENE_WINERY",
+            "zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
+            "image": "previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png",
+            "image_sha256": "2133ab369d674b0cdd6060487395b1d9340e4bdf4604c2880d94d79cdbb5e132",
+            "source_glb_sha256": "e7304dbf85b73270769245c0ecadb469add836793df8d87542fb1d5070116e78",
+            "glb_member": "winery-rearrange.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png",
+        "image_sha256": "4a6cecbc49f1df00834ecb105d3f7943a2ad92f0542d09c324ae3e461e1f8bad",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip",
+        "pictured_zip_sha256": "4e58c918dffa6cd0d23e0c52ce208929693df0228e15e291bf4055aa3d8fa36f",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {
       "id": "HCV_SCENE_CELLAR",
-      "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png",
-      "image_sha256": "5560e560cfcfc36e2e3497091e8a0ac5e392b077c2e4885a3deda15aa5c6f989",
-      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip",
-      "pictured_zip_sha256": "904e0308eeaed4bd0fb711fc6786506d8a97b1fa4eec53f74e26e04e430aa988",
-      "binding_status": "exact_primary_zip_image_evidence",
+      "image": "previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png",
+      "image_sha256": "bcdd662458304ec842ddbd12380b38c08502ac63a14583e527959ad5def0227c",
+      "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip",
+      "pictured_zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
+      "binding_status": "exact_revision_binding_public_retrieval_pending",
       "record_kind": "group",
       "classification": "revised_private_scene_first_distribution",
       "model_license": "LicenseRef-Scene-Viewing-Rearranging",
-      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "model_license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
-      "lod_scope": "not independently resolved; do not infer all LODs",
+      "lod_scope": "Exact named GLB member; other representations not verified",
       "latest_revision": {
         "id": "HCV_SCENE_CELLAR",
         "zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip",
         "license": "LicenseRef-Scene-Viewing-Rearranging",
         "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license",
-        "images": [],
-        "status": "exact_image_zip_binding_pending"
+        "images": [
+          {
+            "id": "HCV_SCENE_CELLAR",
+            "zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
+            "image": "previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png",
+            "image_sha256": "bcdd662458304ec842ddbd12380b38c08502ac63a14583e527959ad5def0227c",
+            "source_glb_sha256": "f682bff1eea423cb304792d50e59d8f1ec104cca8b423b37a14f57d199df2a14",
+            "glb_member": "cellar-rearrange.glb",
+            "evidence": "exact revision ZIP rerender; public retrieval pending"
+          }
+        ],
+        "status": "exact_image_zip_binding_public_retrieval_pending"
+      },
+      "previous_image_binding": {
+        "image": "previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png",
+        "image_sha256": "5560e560cfcfc36e2e3497091e8a0ac5e392b077c2e4885a3deda15aa5c6f989",
+        "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip",
+        "pictured_zip_sha256": "904e0308eeaed4bd0fb711fc6786506d8a97b1fa4eec53f74e26e04e430aa988",
+        "binding_status": "exact_primary_zip_image_evidence"
       }
     },
     {

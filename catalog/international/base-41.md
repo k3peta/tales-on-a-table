@@ -34,9 +34,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md) · [Catalogu
 
 HCV_SCENE_HORSE
 
-[![HCV_SCENE_HORSE](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png)
+[![HCV_SCENE_HORSE](../../previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png)](../../previews/current-scenes6/renders/HCV_SCENE_HORSE.png)
 
-[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_HORSE.png)
+[Full-size image](../../previews/current-scenes6/renders/HCV_SCENE_HORSE.png)
 
 Use / purpose: horse - rearrangeable static vignette, revision 2
 
@@ -46,13 +46,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip) · [License scope](../../LICENSE.md)
 
 **LicenseRef-Scene-Viewing-Rearranging** — Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted. Arrangement restrictions apply; not a CC0 scene.
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV_SCENE_CATTLE
 
@@ -84,9 +84,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV_SCENE_WINERY
 
-[![HCV_SCENE_WINERY](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png)
+[![HCV_SCENE_WINERY](../../previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png)](../../previews/current-scenes6/renders/HCV_SCENE_WINERY.png)
 
-[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_WINERY.png)
+[Full-size image](../../previews/current-scenes6/renders/HCV_SCENE_WINERY.png)
 
 Use / purpose: winery - rearrangeable static vignette, revision 2
 
@@ -96,13 +96,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip) · [License scope](../../LICENSE.md)
 
 **LicenseRef-Scene-Viewing-Rearranging** — Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted. Arrangement restrictions apply; not a CC0 scene.
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV_SCENE_CELLAR
 
@@ -110,9 +110,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
 HCV_SCENE_CELLAR
 
-[![HCV_SCENE_CELLAR](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png)](../../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png)
+[![HCV_SCENE_CELLAR](../../previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png)](../../previews/current-scenes6/renders/HCV_SCENE_CELLAR.png)
 
-[Full-size image](../../previews/chbv-mrt24/renders/HCV_SCENE_CELLAR.png)
+[Full-size image](../../previews/current-scenes6/renders/HCV_SCENE_CELLAR.png)
 
 Use / purpose: cellar - rearrangeable static vignette, revision 2
 
@@ -122,13 +122,13 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip) · [License scope](../../LICENSE.md)
 
 **LicenseRef-Scene-Viewing-Rearranging** — Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted. Arrangement restrictions apply; not a CC0 scene.
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV601
 

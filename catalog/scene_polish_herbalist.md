@@ -113,3 +113,25 @@ Actual distributed models; chosen camera view does not establish intended front 
 
 
 Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; exact revised-ZIP/render binding needs review for the six records listed in [Version audit](international/VERSION-AUDIT.md).
+
+## Latest revision images / 現行改訂版画像
+
+Exact revised ZIP GLB renders; public retrieval verification pending. Older archive previews remain labelled above. Images are viewing artwork, not model CC0.
+
+### HCV_SCENE_HORSE
+
+[![HCV_SCENE_HORSE](../previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png)](../previews/current-scenes6/renders/HCV_SCENE_HORSE.png)
+
+[Matching revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip) · [Full-size image](../previews/current-scenes6/renders/HCV_SCENE_HORSE.png). Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license.
+
+### HCV_SCENE_WINERY
+
+[![HCV_SCENE_WINERY](../previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png)](../previews/current-scenes6/renders/HCV_SCENE_WINERY.png)
+
+[Matching revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip) · [Full-size image](../previews/current-scenes6/renders/HCV_SCENE_WINERY.png). Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license.
+
+### HCV_SCENE_CELLAR
+
+[![HCV_SCENE_CELLAR](../previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png)](../previews/current-scenes6/renders/HCV_SCENE_CELLAR.png)
+
+[Matching revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip) · [Full-size image](../previews/current-scenes6/renders/HCV_SCENE_CELLAR.png). Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license.
