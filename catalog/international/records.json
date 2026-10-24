@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 689,
-      "preview_not_mapped": 319,
+      "id_mapped_preview": 713,
+      "preview_not_mapped": 295,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -22920,8 +22920,8 @@
       "name_ja": "Candle drying rack",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22939,7 +22939,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP012.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP013",
@@ -22949,8 +22951,8 @@
       "name_ja": "Six tube candle mould",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22968,7 +22970,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP013.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP014",
@@ -22978,8 +22982,8 @@
       "name_ja": "Wax melting cauldron",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22997,7 +23001,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP014.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP015",
@@ -23007,8 +23013,8 @@
       "name_ja": "Hive tool and brush",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23027,7 +23033,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP015.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP016",
@@ -23037,8 +23045,8 @@
       "name_ja": "Apiary handcart",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP016.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23056,7 +23064,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP016.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP017",
@@ -23066,8 +23076,8 @@
       "name_ja": "Frame transport crate",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP017.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23085,7 +23095,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP017.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP018",
@@ -23095,8 +23107,8 @@
       "name_ja": "Uncapping board",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP018.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23114,7 +23126,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP018.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP019",
@@ -23124,8 +23138,8 @@
       "name_ja": "Bee water tray",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP019.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23143,7 +23157,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP019.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AP020",
@@ -23153,8 +23169,8 @@
       "name_ja": "Low hive stand",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AP020.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23172,7 +23188,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AP020.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL001",
@@ -23182,8 +23200,8 @@
       "name_ja": "Stone laboratory bench",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23199,7 +23217,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL001.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL002",
@@ -23209,8 +23229,8 @@
       "name_ja": "Refractory furnace",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23226,7 +23246,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL002.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL003",
@@ -23236,8 +23258,8 @@
       "name_ja": "Copper alembic",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23253,7 +23275,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL003.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL004",
@@ -23263,8 +23287,8 @@
       "name_ja": "Cooling vat",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23281,7 +23305,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL004.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL005",
@@ -23291,8 +23317,8 @@
       "name_ja": "Reading desk",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23308,7 +23334,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL005.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL006",
@@ -23318,8 +23346,8 @@
       "name_ja": "Open folio",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23335,7 +23363,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL006.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL007",
@@ -23345,8 +23375,8 @@
       "name_ja": "Assayers balance",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23362,7 +23392,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL007.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL008",
@@ -23372,8 +23404,8 @@
       "name_ja": "Green reagent bottle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23389,7 +23421,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL008.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL009",
@@ -23399,8 +23433,8 @@
       "name_ja": "Small reagent bottle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23416,7 +23450,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL009.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL010",
@@ -23426,8 +23462,8 @@
       "name_ja": "Glass retort",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23443,7 +23479,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL010.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL011",
@@ -23453,8 +23491,8 @@
       "name_ja": "Mortar pestle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23470,7 +23508,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL011.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL012",
@@ -23480,8 +23520,8 @@
       "name_ja": "Mineral sample tray",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23497,7 +23537,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL012.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL013",
@@ -23507,8 +23549,8 @@
       "name_ja": "Copper funnel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL013.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23524,7 +23566,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL013.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL014",
@@ -23534,8 +23578,8 @@
       "name_ja": "Bellows",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL014.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23551,7 +23595,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL014.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL015",
@@ -23561,8 +23607,8 @@
       "name_ja": "Long tongs",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/apiary-alchemy24/thumbnails/AL015.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -23578,7 +23624,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/apiary-alchemy24/renders/AL015.png",
+      "image_manifest": "previews/apiary-alchemy24/manifest.json"
     },
     {
       "id": "AL016",

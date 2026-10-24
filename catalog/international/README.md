@@ -66,3 +66,5 @@ FP001–FP024 now include individual full-size images and thumbnails. Base ID im
 FP025 / PM001–011 / WM001–012 now include individual full-size images and thumbnails. Base ID image mappings: 665/1008; remaining343. Material variants:108/108. [Coverage](COVERAGE.md).
 
 WM013–017 / WT001–008 / AP001–011 now include individual full-size images and thumbnails. Base ID image mappings: 689/1008; remaining319. Material variants:108/108. [Coverage](COVERAGE.md).
+
+AP012–020 / AL001–015 now include individual full-size images and thumbnails. Base ID image mappings: 713/1008; remaining295. Material variants:108/108. [Coverage](COVERAGE.md).

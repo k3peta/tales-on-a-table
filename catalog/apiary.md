@@ -126,3 +126,79 @@ Beeswax blocks
 [![AP011](../previews/mill-terrain-apiary24/thumbnails/AP011.png)](../previews/mill-terrain-apiary24/renders/AP011.png)
 
 [Full image](../previews/mill-terrain-apiary24/renders/AP011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP011_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### AP012 — Candle drying rack
+
+Candle drying rack
+
+[![AP012](../previews/apiary-alchemy24/thumbnails/AP012.png)](../previews/apiary-alchemy24/renders/AP012.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP012_CC0.zip)
+
+### AP013 — Six tube candle mould
+
+Six tube candle mould
+
+[![AP013](../previews/apiary-alchemy24/thumbnails/AP013.png)](../previews/apiary-alchemy24/renders/AP013.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP013.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP013_CC0.zip)
+
+### AP014 — Wax melting cauldron
+
+Wax melting cauldron
+
+[![AP014](../previews/apiary-alchemy24/thumbnails/AP014.png)](../previews/apiary-alchemy24/renders/AP014.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP014.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP014_CC0.zip)
+
+### AP015 — Hive tool and brush
+
+Hive tool and brush
+
+[![AP015](../previews/apiary-alchemy24/thumbnails/AP015.png)](../previews/apiary-alchemy24/renders/AP015.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP015.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP015_CC0.zip)
+
+### AP016 — Apiary handcart
+
+Apiary handcart
+
+[![AP016](../previews/apiary-alchemy24/thumbnails/AP016.png)](../previews/apiary-alchemy24/renders/AP016.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP016.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP016_CC0.zip)
+
+### AP017 — Frame transport crate
+
+Frame transport crate
+
+[![AP017](../previews/apiary-alchemy24/thumbnails/AP017.png)](../previews/apiary-alchemy24/renders/AP017.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP017.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP017_CC0.zip)
+
+### AP018 — Uncapping board
+
+Uncapping board
+
+[![AP018](../previews/apiary-alchemy24/thumbnails/AP018.png)](../previews/apiary-alchemy24/renders/AP018.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP018.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP018_CC0.zip)
+
+### AP019 — Bee water tray
+
+Bee water tray
+
+[![AP019](../previews/apiary-alchemy24/thumbnails/AP019.png)](../previews/apiary-alchemy24/renders/AP019.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP019.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip)
+
+### AP020 — Low hive stand
+
+Low hive stand
+
+[![AP020](../previews/apiary-alchemy24/thumbnails/AP020.png)](../previews/apiary-alchemy24/renders/AP020.png)
+
+[Full image](../previews/apiary-alchemy24/renders/AP020.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP020_CC0.zip)

@@ -1,0 +1,678 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "AL001",
+      "source_zip_sha256": "83fe327dd61f96628c226c18e751aa77e1e35f6c34ad594875fdc1d0c4c11197",
+      "source_glb_sha256": "2ad2c4810e745c998d9af00466489838250e1a36387f6ccffd0301f9f9e74d07",
+      "camera_location": [
+        4.199999809265137,
+        -7.199999809265137,
+        4.739999771118164
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 6.599999904632568,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL001.png",
+      "image_source_sha256": "41ea249de53f4bf39b6462d9e8cff6f71f38c3c89a402bdf9df4957e20e64fb4",
+      "image_sha256": "ab2d261d09646662de9ebdb3223925df0ff0f22f6ecc73729dd52fa3ee1c1b58",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL001.png",
+      "thumbnail_source_sha256": "a383253413fa71d9493751ab062510e3ba81f92e36a5c312ac0d84eb38b97845",
+      "thumbnail_sha256": "48db2ce687cc86ded30d2a50a0b8edf8f66c95e45d181347015f6bf3f982727b"
+    },
+    {
+      "id": "AL002",
+      "source_zip_sha256": "c077a6944e79da8783196644c85bb87e128525dae648f9dc56e0cae498a09ac6",
+      "source_glb_sha256": "f08877e925f660c4513761770383b8b48349a29a12feab9108508219a20f5c2a",
+      "camera_location": [
+        2.9714996814727783,
+        -5.093999862670898,
+        4.386499404907227
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        3.2750783418578067e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 4.66949987411499,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL002.png",
+      "image_source_sha256": "dfe0937ccd344890ffa5f3f320598127f88f298059b84c1150a8c15ef69a4e03",
+      "image_sha256": "4cbbebfc0ff84e6e4016596d4b94b09c662fcfcf165b8e4db95d38a05bef0268",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL002.png",
+      "thumbnail_source_sha256": "e49909540df7ad5c3742b347b7939d8322388277ff97b4a506b47747cc17aa1c",
+      "thumbnail_sha256": "00eb52cca263d49035bfe48633a93db596ce512b026ece7deca51a2e1c397dd0"
+    },
+    {
+      "id": "AL003",
+      "source_zip_sha256": "bc33eafbcd75fb6abb78131de617984d4db154efcd8d8173bf614729da13126e",
+      "source_glb_sha256": "616c27734787999ebdcbf6dd5be722a43e8473ade041e04408781f78592a1593",
+      "camera_location": [
+        2.327181816101074,
+        -3.6080260276794434,
+        3.1069111824035645
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.3073573112487793,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL003.png",
+      "image_source_sha256": "0b297bf0bebc8c184a912d86243948c4cf323d952aae5ecdf39026d928d6940b",
+      "image_sha256": "d4333af349ef5e300bfc05bf3bfb3df5d4eb9f928cc617adb856716e06c2fdca",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL003.png",
+      "thumbnail_source_sha256": "d8dbfce1ba9995a881a9acac9e17c094205dd263c55e07e15ee20804f881f10a",
+      "thumbnail_sha256": "a37eb2a90a8ca1d451324572adb088155cb6e4f1c0d3bc49fe5d12dabaaba126"
+    },
+    {
+      "id": "AL004",
+      "source_zip_sha256": "ee4f1bad30923c651b2b8e2a2b93aedc79d7ad4a637de336e68d8eb1c3176d93",
+      "source_glb_sha256": "e1b92e2f9692152c568611ea96b0a5c79c919fbb6170ad0e82b4be635e36875e",
+      "camera_location": [
+        0.7664999961853027,
+        -1.3140000104904175,
+        1.131500005722046
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.2160264253616333,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL004.png",
+      "image_source_sha256": "4182bef45c95f7e7df023d68d2d9b8040c36572f3f66412c1452d4816c58c20a",
+      "image_sha256": "3006d847f4b46bbe436c1df253302ccf7e06f2337468d9873fdc827111d87b1a",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL004.png",
+      "thumbnail_source_sha256": "4e5802156db2ddd45247fde2c55f1db95cfa492991d8aaa80c855b38c7a92872",
+      "thumbnail_sha256": "54a2d6ebaf26079016fffd3730abe729289fac99b00d4e860aab9fd22c044645"
+    },
+    {
+      "id": "AL005",
+      "source_zip_sha256": "6ef9f74a75ca6d5ddd971733613f16719c8e6b017a58f8e5c9b3532ec99a1f72",
+      "source_glb_sha256": "efe27ed177df091c87b70e28cff569893a1b86300e7562f1d71481619e3aac6b",
+      "camera_location": [
+        1.3649998903274536,
+        -2.3399999141693115,
+        1.84499990940094
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.1449999809265137,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL005.png",
+      "image_source_sha256": "b005933778403e84e5ceedce080cec88339ee733520728cad82e9a5b8f31ed9f",
+      "image_sha256": "39e04c597f2ad634d21802177f878ef07836f7464811f51cea63b7fbcc5bfbe4",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL005.png",
+      "thumbnail_source_sha256": "c442adbfefe6aa4e7c6a89171854e2b4ff7f1a76f6477103d7c59fc3827e3062",
+      "thumbnail_sha256": "0d19d08e6d86513ff1ed2692c55c638eb3d3313c7cdf07e2954804d1290fb991"
+    },
+    {
+      "id": "AL006",
+      "source_zip_sha256": "f720394cddf6c2c13fdfea0f67d4500ae79f43e6683cef1fdadfb9dc06663f8c",
+      "source_glb_sha256": "f3cdf25951567ffa4ffd3eb2ce2c4e25e9147005aff210b4aebf19d2bdf28545",
+      "camera_location": [
+        0.6502946615219116,
+        -0.9289923906326294,
+        1.4025468826293945
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        7.585038375168551e-09,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.8633639812469482,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL006.png",
+      "image_source_sha256": "a1fc8bd229287d66aa16e385cf87bfcc7166af41398f8a3bb32c251d7bae9175",
+      "image_sha256": "2ce5ae5eed8555163e46412abb7ebaf6527a33c57c19db1342620a09498c6cd2",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL006.png",
+      "thumbnail_source_sha256": "3e76dfff92fea704e2043db66c9344fe9edfa8968ca59d3ff57179af3d46fb91",
+      "thumbnail_sha256": "28dfc2b7794864838c8fb329cbf89b3ddbf6b4517970f91c6f723534af5e7fc1"
+    },
+    {
+      "id": "AL007",
+      "source_zip_sha256": "114a6476ee1c0a7b4ac5b1318d2323b9d981c2b7fee90f28f58eed974fad1114",
+      "source_glb_sha256": "2fd29a9ac0f2be7d091f2af5ea22eb929a0ea46e204b8e200190b3e7cc9e1638",
+      "camera_location": [
+        0.7559999823570251,
+        -1.2960000038146973,
+        1.0709999799728394
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.847498130151507e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.1880000829696655,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL007.png",
+      "image_source_sha256": "a82a054865c22993f75dadc0ffa8330f37f02998b48c6822ca898023c4b5d4a1",
+      "image_sha256": "b58f02aa0c66c6dc646be1c5c40cb2721c06deb26fcce0daccbc66b8ddb529ac",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL007.png",
+      "thumbnail_source_sha256": "723f561c18c2b34ffc339b39e9971551127d96e5ec57ffddb2e7708667067211",
+      "thumbnail_sha256": "0cbbe1df76f57ba29d90926c39c98aebff182b5eb93a188d12c78d7dfd738cc2"
+    },
+    {
+      "id": "AL008",
+      "source_zip_sha256": "a391259c6ce3e6b80f9f95dd298fc52e001672e67c27016b456c2920bc33026d",
+      "source_glb_sha256": "d82071cdf08adf08e1490a3bf0e0fdb1bd9007122ce80e252bf858c14cc782b2",
+      "camera_location": [
+        0.5134499669075012,
+        -0.8801999688148499,
+        0.757949948310852
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.806850016117096,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL008.png",
+      "image_source_sha256": "78f9d4acc5e13cbcd48f0b1b6be6c72990e56304fd428b891e750979758f5e1c",
+      "image_sha256": "cc0597d9bdbf47529523b70da129c42a82fac34233cc3807c8c499806aedd5c4",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL008.png",
+      "thumbnail_source_sha256": "cb984227326abb1d66aa0d633db28b11b86bad2ec1fa914bb76170794da2a638",
+      "thumbnail_sha256": "149650b0ccfac06ea42a9de2a49a703a3b732b0f919ca2dba27c7e18775c65d3"
+    },
+    {
+      "id": "AL009",
+      "source_zip_sha256": "f064283cd9024aa6a2a03fa0a03db19be7a2f7360437627078af0c1e39095d4f",
+      "source_glb_sha256": "636011c68c8e7b2d55ca9d7298c398d86faa3bd86f6f8b3b68e16ae54d717997",
+      "camera_location": [
+        0.3454500138759613,
+        -0.5922000408172607,
+        0.5099500417709351
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.5428500175476074,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL009_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL009.png",
+      "image_source_sha256": "10cdfc280fcc195ac71de70af4d594ed0ab92f82d7c456184cda8a23329eecfc",
+      "image_sha256": "78bf7e85a43b292749a29361f789d216fbf2bf4b83e60040516b047eb85c5c21",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL009.png",
+      "thumbnail_source_sha256": "9042cc5032c362218ba22d206cdc848a1907b7cc6b967dc9e3e2bf8cfeafabe9",
+      "thumbnail_sha256": "8cb4ddad4551a68166dd2a1c5404bf8be0317ea9f929a4b3368301cd3b1f17ec"
+    },
+    {
+      "id": "AL010",
+      "source_zip_sha256": "3984f6ce8107060f7c324f06b7897a27073fe4425ab5d44c7c8536176d0c6c86",
+      "source_glb_sha256": "32db885bab80674dce96fe1a28be5343cab04e1407eab498fab98686fb993bb8",
+      "camera_location": [
+        0.6960922479629517,
+        -0.9825587868690491,
+        0.7581592798233032
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.9006789326667786,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL010.png",
+      "image_source_sha256": "b43cf4a443d48179fbc11b3c1b5cb4ba2041b0c99411598684c5199eca581cec",
+      "image_sha256": "ee33fe9dd8c1e461b8824408bd258b289fc9f31937b9bed045acbe53392ee754",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL010.png",
+      "thumbnail_source_sha256": "3fe535131b62a84cc2c49053256fde4802e978a1f45482f9c1628038ac28f421",
+      "thumbnail_sha256": "ed964a38c5fcc253c681188d4af289478b7cab15cfeacf9529744fac9bc99319"
+    },
+    {
+      "id": "AL011",
+      "source_zip_sha256": "e01f1b31203401bf4d16bdde1bc1c390c40f5b1a2bf4a017d000ed8808565ee6",
+      "source_glb_sha256": "c602dfaa08135cd75b436d2a011bf7893a16e299cdd7e714fbc69fa1827ba642",
+      "camera_location": [
+        0.3526526093482971,
+        -0.604547381401062,
+        0.5205824375152588
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -1.2510724900494097e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 0.5777533054351807,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL011.png",
+      "image_source_sha256": "99506ef386e7f4a7a486ebf6d54b522ca2e9c21a70d029e00d9ef671760bf094",
+      "image_sha256": "56ee43d75a4e5aeec62040aad69bd338bfc34b4b2a5b5a9c9cc1ea3f4096fa6a",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL011.png",
+      "thumbnail_source_sha256": "eae2f6679f971fca7a04f2a55f108e51d0b7b6e0a769a0e1634f8660905fd750",
+      "thumbnail_sha256": "27965d691ae0046a407085aa88886a5c88991da8055f77053995a29e38cdf00c"
+    },
+    {
+      "id": "AL012",
+      "source_zip_sha256": "f95d6b41f0087d54666a73f75d7d9ffc50d1c742d1d4ed6bc8aa4d5066ee33af",
+      "source_glb_sha256": "1184e981a2c4e2cee04cb45ecc4f377023af070432c17a8603f3fbefec5c4e66",
+      "camera_location": [
+        0.4934999644756317,
+        -0.8459999561309814,
+        0.5893976092338562
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.7754999995231628,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL012.png",
+      "image_source_sha256": "64d6ac8f0709fea4d80b0e2dc15c4ccd52c2223da8c7f4cb46d123c9a237b099",
+      "image_sha256": "02c1ec948d6def85bea6a9e7f643367e7923a71a2fd90dfaf468ffc7f0e3d32a",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL012.png",
+      "thumbnail_source_sha256": "a2a53a932e9e93e2929dc3accf4e9ece5af22ba5c15c9787d512a916f3163e80",
+      "thumbnail_sha256": "e4534b95ac742d8fd48594d886cc8fa13808e7461080fa5fa2c2cb0cf9c5366d"
+    },
+    {
+      "id": "AL013",
+      "source_zip_sha256": "670b703de495dd2c2f86967f7a601fbda93c6057ec09d492b38f138a489727d0",
+      "source_glb_sha256": "17ee462d25cef5a169062617ec744b6879d590b4d21f4fa31deda07da4e7d893",
+      "camera_location": [
+        0.367499977350235,
+        -0.6299999952316284,
+        0.5424999594688416
+      ],
+      "camera_rotation_euler": [
+        1.10405695438385,
+        -2.3913610647241512e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 0.5781251788139343,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL013.png",
+      "image_source_sha256": "8fbbe60646f4bede24683bb34d7818f9e2ed20b34c55de56be64c1e010eb3f9d",
+      "image_sha256": "3db0a25af58f5eeb50dec58943e3b7466222f3d2876dde0b7516e158e6f10c15",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL013.png",
+      "thumbnail_source_sha256": "d84c544f66669a51d315058cc2590118d63658b4e0e48357cf4dcde80febc2e1",
+      "thumbnail_sha256": "636e17e00ed440d6e1eb51f63df9e3385b0b846c7214cf2a89129aa06f3bc4b6"
+    },
+    {
+      "id": "AL014",
+      "source_zip_sha256": "f00fb12b0ccde8f23d32bb7a10ba4f2b77022081965777a471e653252f7d3b1a",
+      "source_glb_sha256": "600561c034811c50ca9ad063e8f68c62efa474afa6427586bde604e284ec0f9f",
+      "camera_location": [
+        0.9869999885559082,
+        -1.28000009059906,
+        2.1605000495910645
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        3.6780889445253706e-09,
+        0.6107258200645447
+      ],
+      "camera_ortho_scale": 1.2690000534057617,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL014.png",
+      "image_source_sha256": "885bc5b734d265ec1ea887a51eb5a8cfa8fe6f00e357af41d3ee8479fe7c1738",
+      "image_sha256": "ad32bdc9a3379a2a5482f8c910d5085cf78278423f03d050b857204b4e94da78",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL014.png",
+      "thumbnail_source_sha256": "86ef0d75b0a189545cc8f3cef0bfe1279c6c45b06617dbcba3c23a060d628e9f",
+      "thumbnail_sha256": "53180523cf2517af284c0925fe3db933c5a8cd67bef13c7a43e8b93848e0294a"
+    },
+    {
+      "id": "AL015",
+      "source_zip_sha256": "89896b8da59ee64bb0cf926ad8a34e8ca8b7a3860e3a4bd7853aa506bc7aa837",
+      "source_glb_sha256": "419702f21ff047afbf50fb6bd30a2c2596cb25b778e620c57aa5d881431258bc",
+      "camera_location": [
+        0.7455000281333923,
+        -1.0600000619888306,
+        1.5740002393722534
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        1.107168046132756e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.9585000276565552,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-alchemist/AL015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AL015.png",
+      "image_source_sha256": "bc3205f4cf4e526dc45ea67e3227dbbb296398288b4a64684faaa38f0b2e6d21",
+      "image_sha256": "4ad191ef22c407c31e681a3e703be8ccc6bb4563abf926eb18ace1a6141474a3",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AL015.png",
+      "thumbnail_source_sha256": "21c62032d32634b2b822e6e4f4bc0cb8a57ea8801e9d7dd11a2eebb848db9e51",
+      "thumbnail_sha256": "ed808dfa101fed294ef4b67d2d72e5f9f090e55de4dc8d914870ed565ee503e9"
+    },
+    {
+      "id": "AP012",
+      "source_zip_sha256": "9d20cf6acff1eb75c9affa41b5598fb3128c777c3c49fb10a5474b81ad72f745",
+      "source_glb_sha256": "b17a4663af1d47442f01f27ba2115c0a54ba7eb2e3e247e99359e6f5b5da7231",
+      "camera_location": [
+        1.8007497787475586,
+        -3.0869996547698975,
+        2.658249855041504
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.829749822616577,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP012.png",
+      "image_source_sha256": "66ca7727241ac73781bf9a4e0f65f72be6c22bae822da9b1a7b43ce9820dd26c",
+      "image_sha256": "3668889768d67ae7afdc861590b5051fce8b0fc68aaaba0d83a59ebc826a8d55",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP012.png",
+      "thumbnail_source_sha256": "f75d3226ef725682d1788892def1be6214da7e32155e49f889afb58268df9ab0",
+      "thumbnail_sha256": "c1d02fad31f5f6f157d1f5dbc8a93f53d58ab254a65456437b908753e35cfc28"
+    },
+    {
+      "id": "AP013",
+      "source_zip_sha256": "a18d0540350c2bd82d8177cdfd10369311178e8404834f43c19a18d3d3e62091",
+      "source_glb_sha256": "d85a24b6721a0c85af90565538d825b289110bcbfb8149376cea119ceadebb81",
+      "camera_location": [
+        0.4723944664001465,
+        -0.8098191022872925,
+        0.697344183921814
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.7423341870307922,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP013_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP013.png",
+      "image_source_sha256": "6425c43222b365087d16133ae772d46b3696c8d8686a1a4368a70381186a3bde",
+      "image_sha256": "9808a67ed45331edbd9bad5be38d78249c48f3df1131d3df5272c852cec9b507",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP013.png",
+      "thumbnail_source_sha256": "de114b49f2f17cb15b694621520ed9b51b6c623b12b092884c7cf0120b75bfec",
+      "thumbnail_sha256": "031e0c6da96bfaaea5fdb2a109d7e9e76e2778bc58540134fc280bfab541c5ed"
+    },
+    {
+      "id": "AP014",
+      "source_zip_sha256": "49d09bb90e7070291257a0690a0f18219a665c031bf8a5d051639c16dc68b194",
+      "source_glb_sha256": "28398710ceacd55628ae06768dcc8ee6b7c3a97984399a60b81b931f366f7b0d",
+      "camera_location": [
+        0.7471603155136108,
+        -1.2724682092666626,
+        1.0883893966674805
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        3.57157219355031e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 1.2203112840652466,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP014_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP014.png",
+      "image_source_sha256": "f6d5e604ad863a8b09aaf6fa8934ffa7c432cd0fcc9f454f1c9c319323548d7c",
+      "image_sha256": "4a7016ed1564e22851137694e9ff11385cc5a674f44c6f687332a73197859b3e",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP014.png",
+      "thumbnail_source_sha256": "70cd2c867b3da6d4bd609bd13dc051fe7f9438c3af1b7cf1af50e8cf10c2acdc",
+      "thumbnail_sha256": "5836c65178d917dc6f9dc2db0653b1c7041a6be521958c23ac75cc7edb17515d"
+    },
+    {
+      "id": "AP015",
+      "source_zip_sha256": "89f7fe708c25ff2e54f0e80fea831d8b8425df7b065dc7820e94ad20a86518d6",
+      "source_glb_sha256": "b890ad6375e6d1345fba7273f2b703b83f0d51221a6bbb28039dd2b4e3026639",
+      "camera_location": [
+        0.3254999816417694,
+        -0.465027779340744,
+        0.7135205864906311
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        1.107168046132756e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.4706346094608307,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP015_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP015.png",
+      "image_source_sha256": "b32b3555b9fb834376983a56abb8044ae6af637ed900a247f5f992b01dd4ebdf",
+      "image_sha256": "0cc6d9965422a2c0a1677b5ff281bce863900d00c63ce97a6936c4577eb36317",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP015.png",
+      "thumbnail_source_sha256": "f025afcd8bcd657e1f281413b362357c96fb93901d38c26db492d2f2bdb85cb9",
+      "thumbnail_sha256": "fff53f7871d630d83256ac2a34bb97f129ed93344abeca6c6d7950a9ab86b7af"
+    },
+    {
+      "id": "AP016",
+      "source_zip_sha256": "a1dc357ad7eb40b0b08c1cb8f1a42f89b727efa1c719963397dcd48c96c68e2d",
+      "source_glb_sha256": "9dddb05f40dfad73c830d7df300907879092639f2f3175b38b7179281fb36680",
+      "camera_location": [
+        2.414999485015869,
+        -4.139999866485596,
+        2.8474998474121094
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.847498130151507e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 3.794999837875366,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP016_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP016.png",
+      "image_source_sha256": "6b7e7c77fdb5a6642649eb2e0cd7adfc977398d1606e3c4218956f8702661132",
+      "image_sha256": "7786ffc21d2eb73e272a9b3b3b9d16323eef3c3baa00d1b99f940b3de8685608",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP016.png",
+      "thumbnail_source_sha256": "65452229401588a2de2efe1557a515285c788fa6299debc2f2ee29c5e7526e9a",
+      "thumbnail_sha256": "c6b3db35455aefb26585034cd0ac3b5cbf1a50a7af1c9aafd7d24c385fb89b22"
+    },
+    {
+      "id": "AP017",
+      "source_zip_sha256": "f8c14f6ddf0bf22ca3a76b16c19b1c6688f27a63480b2d9375fd96f9136b3058",
+      "source_glb_sha256": "87bea975b335858f40f1356ebd587bca5b5c955a68bc9b0d28cb75fdc5448c6e",
+      "camera_location": [
+        0.6877500414848328,
+        -1.1790001392364502,
+        0.9177499413490295
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.279679626823963e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.0807501077651978,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP017_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP017.png",
+      "image_source_sha256": "e259e2ce051f32545a3d899d2e09bd88d98d74c9619bf18035619ba9cdc81aa3",
+      "image_sha256": "0b8cca67379da5f282e8257c53af407bd4c767f551a7ca95971b4cc85d54bb31",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP017.png",
+      "thumbnail_source_sha256": "a36c837b8518002474ad2f0c95ef1328d2d4ccbc04062cfe80a2c21e367b39e9",
+      "thumbnail_sha256": "5d1094ee3e2d863855b1be151a1745dce82cbecc3f067320b7602ec44c45a9ac"
+    },
+    {
+      "id": "AP018",
+      "source_zip_sha256": "d2aa82108d45e88e4016d102da60c8ec34535287ba8214c90a45f07a0722fb19",
+      "source_glb_sha256": "cf8ca7ac64ae9127feb4cd9c4716a0f83635de49bb3690b35274d49a5713ac22",
+      "camera_location": [
+        0.5249999761581421,
+        -0.75,
+        1.149999976158142
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 0.6763426661491394,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP018_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP018.png",
+      "image_source_sha256": "68e0b0e6c80f1b34915b2c78fc900583c57b29bafa6963af7820332efc1169a0",
+      "image_sha256": "d3ec68433b196826869f33dd95f8e9d8b48b002ca972fdebe706720fde3b9fe7",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP018.png",
+      "thumbnail_source_sha256": "fcaf7e7170095d0a769645a46acd681ffa63379127a7e0969020b9c0fe2ddfff",
+      "thumbnail_sha256": "3d53ba2fb7158ef8ebc34c3aa2d87a5a497297454b19be736362c04e16912a91"
+    },
+    {
+      "id": "AP019",
+      "source_zip_sha256": "b7f5434d37fc26679ece7199c1861e4128cc0e3e28050ca7b5fd3de92afcb5ed",
+      "source_glb_sha256": "1422d28f0ee4126e44c201a02ef0bfad82b5c2cdc98317e0c2840eaa5c388845",
+      "camera_location": [
+        0.8399999737739563,
+        -1.2000000476837158,
+        1.815000057220459
+      ],
+      "camera_rotation_euler": [
+        0.6941075325012207,
+        -8.26368662387722e-09,
+        0.610725998878479
+      ],
+      "camera_ortho_scale": 1.2955297231674194,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP019_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP019.png",
+      "image_source_sha256": "7c386d1266f5368798ab202b82485816fb51774514a2049f9d5d1fd68168187a",
+      "image_sha256": "51e1a3e8aa63c452d3ee20b960c4c99499ed51a4d0bfa00d27aeac2214d62c82",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP019.png",
+      "thumbnail_source_sha256": "c7b54ecd0fd7e74699fef7c2f51978bd33690907c8a6f4c2ed6a397f0e067c75",
+      "thumbnail_sha256": "ee043c8c67f26deaa8dcccd1d321ba437b38b4f620f08081abc3363ee9a53dab"
+    },
+    {
+      "id": "AP020",
+      "source_zip_sha256": "56ac74c2c4b8d5ab3b387f5bb67d67ffce2394304ea10c0eae5027c47c3ef3ba",
+      "source_glb_sha256": "07cb2bd38bebd05c1a2513af9af93c4862924072ee0ea79060bb2e463dcc6ac8",
+      "camera_location": [
+        1.0499999523162842,
+        -1.7999999523162842,
+        1.284999966621399
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.649999976158142,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-apiary/AP020_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/apiary-alchemy24/renders/AP020.png",
+      "image_source_sha256": "098828dfdce2691f20dad4c76a898bbb444543698bd17ceda5bd76ebafa5ff23",
+      "image_sha256": "982052f33dbdb7b2431ed57f68b0dfe9c8b620a0701816c0e90eb6732a2c7db2",
+      "thumbnail": "previews/apiary-alchemy24/thumbnails/AP020.png",
+      "thumbnail_source_sha256": "ee13851e6944bd430613c5a4cd53782d1c5fb092eca4fa2e35ef3b65a72e741a",
+      "thumbnail_sha256": "7f255aeed5b9b53c074612f33e869ae812fda23d0b53f97e2e02875b3f1842f7"
+    }
+  ]
+}

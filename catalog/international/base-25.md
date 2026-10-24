@@ -382,7 +382,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Candle drying rack
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP012](../../previews/apiary-alchemy24/thumbnails/AP012.png)](../../previews/apiary-alchemy24/renders/AP012.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -404,7 +406,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Six tube candle mould
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP013](../../previews/apiary-alchemy24/thumbnails/AP013.png)](../../previews/apiary-alchemy24/renders/AP013.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -426,7 +430,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Wax melting cauldron
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP014](../../previews/apiary-alchemy24/thumbnails/AP014.png)](../../previews/apiary-alchemy24/renders/AP014.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -448,7 +454,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Hive tool and brush
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP015](../../previews/apiary-alchemy24/thumbnails/AP015.png)](../../previews/apiary-alchemy24/renders/AP015.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -470,7 +478,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Apiary handcart
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP016](../../previews/apiary-alchemy24/thumbnails/AP016.png)](../../previews/apiary-alchemy24/renders/AP016.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP016.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -492,7 +502,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Frame transport crate
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP017](../../previews/apiary-alchemy24/thumbnails/AP017.png)](../../previews/apiary-alchemy24/renders/AP017.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP017.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -514,7 +526,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Uncapping board
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP018](../../previews/apiary-alchemy24/thumbnails/AP018.png)](../../previews/apiary-alchemy24/renders/AP018.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP018.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -536,7 +550,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Bee water tray
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP019](../../previews/apiary-alchemy24/thumbnails/AP019.png)](../../previews/apiary-alchemy24/renders/AP019.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP019.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -558,7 +574,9 @@ Source details: [Catalogue 1](../../catalog/apiary.en.md) · [Catalogue 2](../..
 
 Low hive stand
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AP020](../../previews/apiary-alchemy24/thumbnails/AP020.png)](../../previews/apiary-alchemy24/renders/AP020.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AP020.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

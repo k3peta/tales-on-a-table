@@ -193,3 +193,5 @@ WM013–017 / WT001–008 / AP001–011:24 individual full renders +24 thumbnail
 - [Quality 21](material_variants_at022_031.md):6 accepted comparison/thumbnail images. Cumulative206 assessed distribution records, not unique shapes.
 
 - [Quality22](material_variants_at032_041.md) and [WT repairs](wt007_008_repairs.md):14 comparison/thumbnail images. Cumulative216 assessed distribution records, not unique shapes.
+
+AP012–020 / AL001–015:24 individual full renders +24 thumbnails added. International base ID mappings713/1008, missing295; variant119/114. Not a claim that every prior mapping is an isolated individual render.

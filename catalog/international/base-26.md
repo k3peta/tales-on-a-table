@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 Stone laboratory bench
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL001](../../previews/apiary-alchemy24/thumbnails/AL001.png)](../../previews/apiary-alchemy24/renders/AL001.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Refractory furnace
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL002](../../previews/apiary-alchemy24/thumbnails/AL002.png)](../../previews/apiary-alchemy24/renders/AL002.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Copper alembic
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL003](../../previews/apiary-alchemy24/thumbnails/AL003.png)](../../previews/apiary-alchemy24/renders/AL003.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Cooling vat
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL004](../../previews/apiary-alchemy24/thumbnails/AL004.png)](../../previews/apiary-alchemy24/renders/AL004.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md) · [Catalogue 2](../..
 
 Reading desk
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL005](../../previews/apiary-alchemy24/thumbnails/AL005.png)](../../previews/apiary-alchemy24/renders/AL005.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Open folio
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL006](../../previews/apiary-alchemy24/thumbnails/AL006.png)](../../previews/apiary-alchemy24/renders/AL006.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Assayers balance
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL007](../../previews/apiary-alchemy24/thumbnails/AL007.png)](../../previews/apiary-alchemy24/renders/AL007.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Green reagent bottle
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL008](../../previews/apiary-alchemy24/thumbnails/AL008.png)](../../previews/apiary-alchemy24/renders/AL008.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Small reagent bottle
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL009](../../previews/apiary-alchemy24/thumbnails/AL009.png)](../../previews/apiary-alchemy24/renders/AL009.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Glass retort
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL010](../../previews/apiary-alchemy24/thumbnails/AL010.png)](../../previews/apiary-alchemy24/renders/AL010.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Mortar pestle
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL011](../../previews/apiary-alchemy24/thumbnails/AL011.png)](../../previews/apiary-alchemy24/renders/AL011.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Mineral sample tray
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL012](../../previews/apiary-alchemy24/thumbnails/AL012.png)](../../previews/apiary-alchemy24/renders/AL012.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Copper funnel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL013](../../previews/apiary-alchemy24/thumbnails/AL013.png)](../../previews/apiary-alchemy24/renders/AL013.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL013.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +322,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Bellows
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL014](../../previews/apiary-alchemy24/thumbnails/AL014.png)](../../previews/apiary-alchemy24/renders/AL014.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL014.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +346,9 @@ Source details: [Catalogue 1](../../catalog/alchemist.md)
 
 Long tongs
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![AL015](../../previews/apiary-alchemy24/thumbnails/AL015.png)](../../previews/apiary-alchemy24/renders/AL015.png)
+
+[Full-size image](../../previews/apiary-alchemy24/renders/AL015.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
