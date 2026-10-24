@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 116,
-      "id_mapped_preview": 116,
+      "records": 119,
+      "id_mapped_preview": 119,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 116,
-      "formats_known": 116,
+      "purpose_en_present": 119,
+      "formats_known": 119,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -9323,7 +9323,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "36920 triangles exceeds small-prop20k budget; unrepaired."
     },
     {
       "id": "AT_033",
@@ -22513,7 +22514,17 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval."
+      "known_issue": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "WT007__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip",
+          "geometry_revision": "channel_fitted_water_v2",
+          "image": "previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png",
+          "comparison": "previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png",
+          "status": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "WT008",
@@ -22545,7 +22556,17 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval."
+      "known_issue": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "revision_history": [
+        {
+          "id": "WT008__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip",
+          "geometry_revision": "channel_fitted_water_v2",
+          "image": "previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png",
+          "comparison": "previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png",
+          "status": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified."
+        }
+      ]
     },
     {
       "id": "AP001",
@@ -38535,6 +38556,105 @@
         "layout": "left: original; right: accepted variant; same overview camera"
       },
       "geometry_revision": "stitch_seating_v1",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_033__color_blue",
+      "kind": "variant",
+      "base_id": "AT_033",
+      "name_en": "Patched travel bag",
+      "name_ja": "継ぎ当て旅鞄",
+      "purpose_en": "Blue leather bag with original wooden flap/fittings.",
+      "record_kind": "model",
+      "image": "previews/quality-at032-041-v1/AT_033__color_blue_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_033__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at032_041.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at032-041-v1/AT_033__color_blue_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_034__color_orange",
+      "kind": "variant",
+      "base_id": "AT_034",
+      "name_en": "Old feathered hat",
+      "name_ja": "羽飾りの古帽子",
+      "purpose_en": "Orange hat on repaired normal/roughness material baseline; original geometry/UV.",
+      "record_kind": "model",
+      "image": "previews/quality-at032-041-v1/AT_034__color_orange_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at032_041.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at032-041-v1/AT_034__color_orange_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_041__color_green",
+      "kind": "variant",
+      "base_id": "AT_041",
+      "name_en": "Cracked ceramic pot",
+      "name_ja": "ひびの入った陶器ポット",
+      "purpose_en": "Green ceramic glaze retaining cracks and repair staples.",
+      "record_kind": "model",
+      "image": "previews/quality-at032-041-v1/AT_041__color_green_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_041__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at032_041.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at032-041-v1/AT_041__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
       "uv_revision": "original_uv0"
     }
   ],

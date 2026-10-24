@@ -76,7 +76,11 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
-**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Preview faithfully shows the distributed model; image completion is not quality approval.
+**Version history:** Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.
+
+[![Revised WT007](../../previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png)](../../previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
 ## WT008
 
@@ -102,7 +106,11 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
-**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Preview faithfully shows the distributed model; image completion is not quality approval.
+**Version history:** Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.
+
+[![Revised WT008](../../previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png)](../../previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip) · [Repair evidence and scope](../../catalog/wt007_008_repairs.md). Original download and image above retained.
 
 ## AP001
 

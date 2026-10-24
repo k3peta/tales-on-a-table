@@ -338,6 +338,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_03.en.md) · [Catalogue 2](../../catalog/curios-tools_03.md) · [Catalogue 3](../../catalog/curios-tools_03.zh-CN.md)
 
+**Unresolved performance issue:** 36920 triangles exceeds small-prop20k budget; unrepaired.
+
 ## AT_033
 
 **Patched travel bag**
@@ -381,6 +383,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__repair_CC0.zip) · [Quality22 comparison](../../catalog/material_variants_at032_041.md). Original retained.
 
 ## AT_035
 
@@ -469,6 +473,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_038__repair_CC0.zip) · [Quality22 comparison](../../catalog/material_variants_at032_041.md). Original retained.
 
 ## AT_039
 

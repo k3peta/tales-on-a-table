@@ -244,7 +244,7 @@ Path bend NE
 
 [Full image](../previews/mill-terrain-apiary24/renders/WT006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip)
 
-**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval.
+**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; channel_fitted_water_v2 repair available below. Original images retained.
 
 ### WT007 — Stream straight NS
 
@@ -254,7 +254,7 @@ Stream straight NS
 
 [Full image](../previews/mill-terrain-apiary24/renders/WT007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip)
 
-**Known issue:** Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval.
+**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; channel_fitted_water_v2 repair available below. Original images retained.
 
 ### WT008 — Stream bend NE
 
@@ -263,3 +263,19 @@ Stream bend NE
 [![WT008](../previews/mill-terrain-apiary24/thumbnails/WT008.png)](../previews/mill-terrain-apiary24/renders/WT008.png)
 
 [Full image](../previews/mill-terrain-apiary24/renders/WT008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip)
+
+## Revised versions / 修正版 / 修订版
+
+Original archives/images above remain as version history. Scoped defects repaired; no new record count.
+
+### WT007 — channel_fitted_water_v2
+
+[![Revised WT007](../previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Scope and comparison](wt007_008_repairs.md)
+
+### WT008 — channel_fitted_water_v2
+
+[![Revised WT008](../previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png)
+
+[Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip) · [Scope and comparison](wt007_008_repairs.md)

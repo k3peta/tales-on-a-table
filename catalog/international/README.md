@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-**1008 distribution records +116 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +119 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -56,7 +56,7 @@ CC0 applies only where the individual record says CC0-1.0. Completed scene arran
 - [FT_013__new – FT_022__color](variant-02.md)
 - [FT_023__new – FT_049__used](variant-03.md)
 - [FT_049__color – OL_014__color](variant-04.md)
-- [OL_019__color – AT_031__color_green](variant-05.md)
+- [OL_019__color – AT_041__color_green](variant-05.md)
 
 
 [Public ZIP metadata pilot: first24 records](PILOT-24-METHOD.md) · [Production work manifest](work-manifest-391.json)

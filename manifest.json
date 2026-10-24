@@ -6290,7 +6290,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_034_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "6d469c70bea7e4a3116f184602e9d64ea14d490bb2233ef2f8a37ff564042171",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_034__repair",
+          "base_id": "AT_034",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "帽子の不自然な木目normalを除去しroughness .85へ。形状UVと元色保持。",
+          "zip": "AT_034__repair_CC0.zip",
+          "bytes": 818463,
+          "sha256": "97384d55b42d2be1e9ae28f45982a63e65651d9bd9841825b0ae73a0b4219590",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AT_035",
@@ -6394,7 +6412,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_038_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "67e9faf150186a2087cd13eaccb5b19b46e227c331e701402cf427a34ddc0b4f",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_038__repair",
+          "base_id": "AT_038",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "front_stitch_seating_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "前面8本の縫い目を+Y 3mm動かし革へ接地。形状改訂、元トポロジーUV保持。",
+          "zip": "AT_038__repair_CC0.zip",
+          "bytes": 1230096,
+          "sha256": "77f700a7012a989c86654096112b845c7798c0211a0c417a34ad11cbaf4b08da",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_038__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AT_039",
@@ -18775,7 +18811,25 @@
           "sha256": "6a81cda0ed148ca1f239c079832300f13b64a9810569e549f9cb1a6b1a5267d9"
         }
       ],
-      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design.",
+      "revisions": [
+        {
+          "id": "WT007__repair",
+          "base_id": "WT007",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "channel_fitted_water_v2",
+          "uv_revision": "existing_uv_preserved_missing_uv_added_boolean_water_revised",
+          "finish": "repair",
+          "description": "Trim water solid to existing channel banks, removing coplanar overlapping black wedges at tile ends. Water level -0.01 m and 2 m tile preserved; outlet water width 1.188421 m matches both revised tiles.",
+          "zip": "WT007__repair_CC0.zip",
+          "bytes": 3766491,
+          "sha256": "c34dca69811b47b9ab9d2b9a726c894f1b5a9ef2c2c96cb32cccd69fbf036ed1",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "WT008",
@@ -18806,7 +18860,25 @@
           "sha256": "5f21b653c46314143a7acd898c33144f2281ffb9a52f61e5d8c787e8e4c7349a"
         }
       ],
-      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design."
+      "provenance_note": "Legacy watermill terrain prototype; not the new terrain_v2 design.",
+      "revisions": [
+        {
+          "id": "WT008__repair",
+          "base_id": "WT008",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "channel_fitted_water_v2",
+          "uv_revision": "existing_uv_preserved_missing_uv_added_boolean_water_revised",
+          "finish": "repair",
+          "description": "Trim water solid to existing channel banks, removing coplanar overlapping black wedges at tile ends. Water level -0.01 m and 2 m tile preserved; outlet water width 1.188421 m matches both revised tiles.",
+          "zip": "WT008__repair_CC0.zip",
+          "bytes": 4643828,
+          "sha256": "1048501dabc13087f020858925ffc57443f398311b3184f71740fc794537ce55",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT008__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AP001",

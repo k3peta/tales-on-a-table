@@ -443,3 +443,57 @@ Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not indepe
 [Full comparison](../../previews/quality-at022-031-v1/AT_031__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_at022_031.md)
 
 CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_033__color_blue
+
+**Patched travel bag**
+
+継ぎ当て旅鞄
+
+[![AT_033__color_blue](../../previews/quality-at032-041-v1/AT_033__color_blue_thumb.png)](../../previews/quality-at032-041-v1/AT_033__color_blue_comparison.png)
+
+Use / purpose: Blue leather bag with original wooden flap/fittings.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_033](base-09.md#at_033). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at032-041-v1/AT_033__color_blue_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_033__color_blue_CC0.zip) · [Source catalogue](../../catalog/material_variants_at032_041.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_034__color_orange
+
+**Old feathered hat**
+
+羽飾りの古帽子
+
+[![AT_034__color_orange](../../previews/quality-at032-041-v1/AT_034__color_orange_thumb.png)](../../previews/quality-at032-041-v1/AT_034__color_orange_comparison.png)
+
+Use / purpose: Orange hat on repaired normal/roughness material baseline; original geometry/UV.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_034](base-09.md#at_034). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at032-041-v1/AT_034__color_orange_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__color_orange_CC0.zip) · [Source catalogue](../../catalog/material_variants_at032_041.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_041__color_green
+
+**Cracked ceramic pot**
+
+ひびの入った陶器ポット
+
+[![AT_041__color_green](../../previews/quality-at032-041-v1/AT_041__color_green_thumb.png)](../../previews/quality-at032-041-v1/AT_041__color_green_comparison.png)
+
+Use / purpose: Green ceramic glaze retaining cracks and repair staples.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_041](base-09.md#at_041). Geometry and original UV retained.
+
+[Full comparison](../../previews/quality-at032-041-v1/AT_041__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_041__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_at032_041.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
