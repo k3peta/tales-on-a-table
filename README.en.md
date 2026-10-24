@@ -2,7 +2,11 @@
 
 Current total: **1008 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
+**20 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
+
 ## Publication history
+
+- 2026-10-24 JST — [**20 material variants separately**; existing1008 distribution records unchanged; new base shapes0.](catalog/material_variants_ft001_010.md).
 
 - 2026-10-24 JST — 1008 records = 1007 + 1 herbalist arrangement; 4 scene revisions/supplement +0, new shapes0. Arrangements NOT CC0. [Details](catalog/scene_polish_herbalist.md).
 
