@@ -14,3 +14,19 @@ MRH202 mortar hawk and trowel:0.36m square board, upper surfaceZ0.206m, lower gr
 Existing lamps, bells, wheelbarrows, sieves, hammers, chisels, carts, lifting tools and MRT measuring/centering accessories are not recreated or added. Name/description/code screening does not establish equality or difference across every unnamed historical mesh, nested or unavailable ZIP.
 
 Original procedural models; no external model/image or held material used. Model geometry and embedded materials only are CC0-1.0. Code, images, articles and private arrangements are excluded. Human shoulder fit, load capacity, construction safety, carrying/plastering motion, walking/collision and Blender4.3.2 compatibility are unverified. Static viewing models only. [Checksums](../distributions/masonry-handling-v2/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|MRH201_ShoulderHod|ShoulderHod|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)|
+|MRH202_MortarHawkTrowel|MortarHawkTrowel|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)|
+
+![masonry-handling-v2 — handling_overview](../previews/catalog-20261024/masonry-handling-v2-handling_overview.jpg)
+
+![masonry-handling-v2 — hawk_close](../previews/catalog-20261024/masonry-handling-v2-hawk_close.jpg)
+
+![masonry-handling-v2 — hod_close](../previews/catalog-20261024/masonry-handling-v2-hod_close.jpg)

@@ -17,3 +17,23 @@ FCS201 is a 2m square corner landing at deck Z2, with central 1m openings on wes
 The FCS105 access_v2 revision opens the central1m of the rear rail to reach the deck at Z4. Four existing1m-rise ER101 stairs span16m depth; the highest endpoint (0,1,4) reaches the gate floor. Unused branches are closed with scene railings and supports are placed below elevated stairs. A compact switchback solution is not implemented. Metres, Z up; fixed models, not functional mechanisms.
 
 FCSV03 is a gate rear-access example; FCSV04 demonstrates corner and end connections. They do not replace the initial two full-scene vignettes. CC0-1.0 covers model geometry and embedded materials, including the existing ER101/FCS101 components where reused. Code, renders, private inputs and articles are excluded. Game collision, actual walking, whole-body clearance, full contact volumes, construction/load safety and Blender4.3.2 compatibility are unverified. Sampled connection/headroom tests do not certify safety. [Checksums](../distributions/fortified-city-access-v2/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|FCS201_ScaffoldCorner|ScaffoldCorner|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)|
+|FCS202_DeckEndGuard|DeckEndGuard|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)|
+|FCSV03_GateAccessExample|GateAccessExample|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)|
+|FCSV04_ScaffoldCornerExample|ScaffoldCornerExample|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)|
+
+![fortified-city-access-v2 — gate_access](../previews/catalog-20261024/fortified-city-access-v2-gate_access.jpg)
+
+![fortified-city-access-v2 — gate_landing](../previews/catalog-20261024/fortified-city-access-v2-gate_landing.jpg)
+
+![fortified-city-access-v2 — scaffold_joint](../previews/catalog-20261024/fortified-city-access-v2-scaffold_joint.jpg)
+
+![fortified-city-access-v2 — scaffold_turn](../previews/catalog-20261024/fortified-city-access-v2-scaffold_turn.jpg)

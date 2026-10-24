@@ -25,3 +25,25 @@ All tiles use 2 m XY extents (-1 to +1), metres, Z up, origin zero and fixed bot
 These are simplified, box-like connection models, not completed photorealistic natural landscapes. Water is a thin static opaque surface, not fluid volume or flow simulation. Sampled cross-sections and Blender 5.2.2 reloading were checked by production. Actual walking, collision, full-contact volumes, watertightness, arbitrary combinations, Blender 4.3.2 compatibility and global historical independence are unverified. Test fixtures and assembled scenes are not included. Append the named Collection from BLEND.
 
 Model geometry and embedded display materials only: CC0-1.0. No code, images or private records included. [Checksums](../distributions/terrain-use-plan-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|NP101_BraidedIsland|BraidedIsland|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)|
+|NP102_SteppingCrossing|SteppingCrossing|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)|
+|NP103_DoubleMouth|DoubleMouth|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)|
+|NP104_WetOverhang|WetOverhang|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)|
+|NP105_CliffRiver|CliffRiver|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)|
+|NP106_RecessedFall|RecessedFall|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)|
+
+![terrain-use-plan-v1 — fall_recess](../previews/catalog-20261024/terrain-use-plan-v1-fall_recess.jpg)
+
+![terrain-use-plan-v1 — river_routes](../previews/catalog-20261024/terrain-use-plan-v1-river_routes.jpg)
+
+![terrain-use-plan-v1 — six_connections](../previews/catalog-20261024/terrain-use-plan-v1-six_connections.jpg)
+
+![terrain-use-plan-v1 — wet_overhang_and_fall](../previews/catalog-20261024/terrain-use-plan-v1-wet_overhang_and_fall.jpg)

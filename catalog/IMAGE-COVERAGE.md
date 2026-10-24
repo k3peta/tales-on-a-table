@@ -1,0 +1,143 @@
+# カタログ画像対応一覧 / Catalogue image inventory
+
+1008 existing distribution records and45 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+
+|Catalog|Image references|Status|
+|---|---:|---|
+|[alchemist.md](alchemist.md)|1|existing images; detailed coverage review pending|
+|[apiary.en.md](apiary.en.md)|1|existing images; detailed coverage review pending|
+|[apiary.md](apiary.md)|1|existing images; detailed coverage review pending|
+|[apiary.zh-CN.md](apiary.zh-CN.md)|1|existing images; detailed coverage review pending|
+|[architecture_01.en.md](architecture_01.en.md)|16|existing images; detailed coverage review pending|
+|[architecture_01.md](architecture_01.md)|16|existing images; detailed coverage review pending|
+|[architecture_01.zh-CN.md](architecture_01.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[armory.en.md](armory.en.md)|71|existing images; detailed coverage review pending|
+|[armory.md](armory.md)|71|existing images; detailed coverage review pending|
+|[armory.zh-CN.md](armory.zh-CN.md)|71|existing images; detailed coverage review pending|
+|[books-paper_01.en.md](books-paper_01.en.md)|18|existing images; detailed coverage review pending|
+|[books-paper_01.md](books-paper_01.md)|18|existing images; detailed coverage review pending|
+|[books-paper_01.zh-CN.md](books-paper_01.zh-CN.md)|18|existing images; detailed coverage review pending|
+|[botanical_diversity_v1.md](botanical_diversity_v1.md)|3|updated this pass|
+|[botanical_diversity_v2.md](botanical_diversity_v2.md)|3|updated this pass|
+|[botanical_diversity_v3.md](botanical_diversity_v3.md)|3|updated this pass|
+|[botanical_field_growth_v1.md](botanical_field_growth_v1.md)|3|updated this pass|
+|[bridge-market.en.md](bridge-market.en.md)|84|existing images; detailed coverage review pending|
+|[bridge-market.md](bridge-market.md)|84|existing images; detailed coverage review pending|
+|[bridge-market.zh-CN.md](bridge-market.zh-CN.md)|84|existing images; detailed coverage review pending|
+|[candles-light_01.en.md](candles-light_01.en.md)|16|existing images; detailed coverage review pending|
+|[candles-light_01.md](candles-light_01.md)|16|existing images; detailed coverage review pending|
+|[candles-light_01.zh-CN.md](candles-light_01.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[candles-light_02.en.md](candles-light_02.en.md)|16|existing images; detailed coverage review pending|
+|[candles-light_02.md](candles-light_02.md)|16|existing images; detailed coverage review pending|
+|[candles-light_02.zh-CN.md](candles-light_02.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[candles-light_03.en.md](candles-light_03.en.md)|16|existing images; detailed coverage review pending|
+|[candles-light_03.md](candles-light_03.md)|16|existing images; detailed coverage review pending|
+|[candles-light_03.zh-CN.md](candles-light_03.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[captain-cabin.en.md](captain-cabin.en.md)|26|existing images; detailed coverage review pending|
+|[captain-cabin.md](captain-cabin.md)|26|existing images; detailed coverage review pending|
+|[captain-cabin.zh-CN.md](captain-cabin.zh-CN.md)|26|existing images; detailed coverage review pending|
+|[cave_deposition_v1.md](cave_deposition_v1.md)|5|updated this pass|
+|[chapel_training_v1.md](chapel_training_v1.md)|5|updated this pass|
+|[cheese_hay_buildings_v1.md](cheese_hay_buildings_v1.md)|6|updated this pass|
+|[city_scenes_quality_v3.md](city_scenes_quality_v3.md)|4|updated this pass|
+|[containers_01.en.md](containers_01.en.md)|15|existing images; detailed coverage review pending|
+|[containers_01.md](containers_01.md)|15|existing images; detailed coverage review pending|
+|[containers_01.zh-CN.md](containers_01.zh-CN.md)|15|existing images; detailed coverage review pending|
+|[containers_02.en.md](containers_02.en.md)|14|existing images; detailed coverage review pending|
+|[containers_02.md](containers_02.md)|14|existing images; detailed coverage review pending|
+|[containers_02.zh-CN.md](containers_02.zh-CN.md)|14|existing images; detailed coverage review pending|
+|[craft_shops_v1.md](craft_shops_v1.md)|6|updated this pass|
+|[creatures_01.en.md](creatures_01.en.md)|3|existing images; detailed coverage review pending|
+|[creatures_01.md](creatures_01.md)|3|existing images; detailed coverage review pending|
+|[creatures_01.zh-CN.md](creatures_01.zh-CN.md)|3|existing images; detailed coverage review pending|
+|[curios-tools_01.en.md](curios-tools_01.en.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_01.md](curios-tools_01.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_01.zh-CN.md](curios-tools_01.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_02.en.md](curios-tools_02.en.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_02.md](curios-tools_02.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_02.zh-CN.md](curios-tools_02.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_03.en.md](curios-tools_03.en.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_03.md](curios-tools_03.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_03.zh-CN.md](curios-tools_03.zh-CN.md)|16|existing images; detailed coverage review pending|
+|[curios-tools_04.en.md](curios-tools_04.en.md)|14|existing images; detailed coverage review pending|
+|[curios-tools_04.md](curios-tools_04.md)|14|existing images; detailed coverage review pending|
+|[curios-tools_04.zh-CN.md](curios-tools_04.zh-CN.md)|14|existing images; detailed coverage review pending|
+|[elevated_ruin_connectors_v1.md](elevated_ruin_connectors_v1.md)|3|updated this pass|
+|[fantasy_infirmary_v1.md](fantasy_infirmary_v1.md)|3|updated this pass|
+|[farmhouse-barn.en.md](farmhouse-barn.en.md)|12|existing images; detailed coverage review pending|
+|[farmhouse-barn.md](farmhouse-barn.md)|12|existing images; detailed coverage review pending|
+|[farmhouse-barn.zh-CN.md](farmhouse-barn.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[field_travel_tools_v1.md](field_travel_tools_v1.md)|4|updated this pass|
+|[forest_witch.md](forest_witch.md)|1|existing images; detailed coverage review pending|
+|[fortified_city_access_v2.md](fortified_city_access_v2.md)|4|updated this pass|
+|[fortified_city_sites_v1.md](fortified_city_sites_v1.md)|6|updated this pass|
+|[furniture_01.en.md](furniture_01.en.md)|12|existing images; detailed coverage review pending|
+|[furniture_01.md](furniture_01.md)|12|existing images; detailed coverage review pending|
+|[furniture_01.zh-CN.md](furniture_01.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[furniture_02.en.md](furniture_02.en.md)|12|existing images; detailed coverage review pending|
+|[furniture_02.md](furniture_02.md)|12|existing images; detailed coverage review pending|
+|[furniture_02.zh-CN.md](furniture_02.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[goat_care_platform_v1.md](goat_care_platform_v1.md)|2|updated this pass|
+|[husbandry_cellar_v1.md](husbandry_cellar_v1.md)|8|updated this pass|
+|[husbandry_cellar_v2.md](husbandry_cellar_v2.md)|8|updated this pass|
+|[independent-furnishings.en.md](independent-furnishings.en.md)|6|existing images; detailed coverage review pending|
+|[independent-furnishings.md](independent-furnishings.md)|6|existing images; detailed coverage review pending|
+|[independent-furnishings.zh-CN.md](independent-furnishings.zh-CN.md)|6|existing images; detailed coverage review pending|
+|[inn.md](inn.md)|1|existing images; detailed coverage review pending|
+|[livestock_tack_v1.md](livestock_tack_v1.md)|7|updated this pass|
+|[marine_01.en.md](marine_01.en.md)|12|existing images; detailed coverage review pending|
+|[marine_01.md](marine_01.md)|12|existing images; detailed coverage review pending|
+|[marine_01.zh-CN.md](marine_01.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[marine_02.en.md](marine_02.en.md)|12|existing images; detailed coverage review pending|
+|[marine_02.md](marine_02.md)|12|existing images; detailed coverage review pending|
+|[marine_02.zh-CN.md](marine_02.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[masonry_handling_v2.md](masonry_handling_v2.md)|3|updated this pass|
+|[masonry_road_tools_v1.md](masonry_road_tools_v1.md)|5|updated this pass|
+|[material_variants_ft001_010.md](material_variants_ft001_010.md)|50|updated this pass|
+|[material_variants_ft011_020.md](material_variants_ft011_020.md)|60|updated this pass|
+|[natural_rock_forms_v1.md](natural_rock_forms_v1.md)|3|updated this pass|
+|[octagonal_conservatory.md](octagonal_conservatory.md)|1|existing images; detailed coverage review pending|
+|[painter_atelier.md](painter_atelier.md)|1|existing images; detailed coverage review pending|
+|[personal_fishing_kit_v1.md](personal_fishing_kit_v1.md)|4|updated this pass|
+|[poultry_support_v1.md](poultry_support_v1.md)|2|updated this pass|
+|[prison.en.md](prison.en.md)|4|existing images; detailed coverage review pending|
+|[prison.md](prison.md)|4|existing images; detailed coverage review pending|
+|[prison.zh-CN.md](prison.zh-CN.md)|4|existing images; detailed coverage review pending|
+|[recovered_rustic_fences_rf7.md](recovered_rustic_fences_rf7.md)|0|pending: final render/ID mapping not yet verified|
+|[rural_interfaces_v1.md](rural_interfaces_v1.md)|4|updated this pass|
+|[rustic_slope_connections_v2.md](rustic_slope_connections_v2.md)|3|updated this pass|
+|[scene_polish_herbalist.md](scene_polish_herbalist.md)|10|updated this pass|
+|[stable_care_v1.md](stable_care_v1.md)|4|updated this pass|
+|[static_mudflat_v1.md](static_mudflat_v1.md)|3|updated this pass|
+|[stone_paving_v2.md](stone_paving_v2.md)|1|updated this pass|
+|[tableware_01.en.md](tableware_01.en.md)|12|existing images; detailed coverage review pending|
+|[tableware_01.md](tableware_01.md)|12|existing images; detailed coverage review pending|
+|[tableware_01.zh-CN.md](tableware_01.zh-CN.md)|12|existing images; detailed coverage review pending|
+|[tableware_02.en.md](tableware_02.en.md)|11|existing images; detailed coverage review pending|
+|[tableware_02.md](tableware_02.md)|11|existing images; detailed coverage review pending|
+|[tableware_02.zh-CN.md](tableware_02.zh-CN.md)|11|existing images; detailed coverage review pending|
+|[terrain_connectivity_v1.md](terrain_connectivity_v1.md)|0|pending: final render/ID mapping not yet verified|
+|[terrain_connectivity_v10.md](terrain_connectivity_v10.md)|2|updated this pass|
+|[terrain_connectivity_v11.md](terrain_connectivity_v11.md)|2|updated this pass|
+|[terrain_use_plan_v1.md](terrain_use_plan_v1.md)|4|updated this pass|
+|[terrain_v2.md](terrain_v2.md)|1|existing images; detailed coverage review pending|
+|[textiles_01.en.md](textiles_01.en.md)|13|existing images; detailed coverage review pending|
+|[textiles_01.md](textiles_01.md)|13|existing images; detailed coverage review pending|
+|[textiles_01.zh-CN.md](textiles_01.zh-CN.md)|13|existing images; detailed coverage review pending|
+|[treasury.en.md](treasury.en.md)|18|existing images; detailed coverage review pending|
+|[treasury.md](treasury.md)|18|existing images; detailed coverage review pending|
+|[treasury.zh-CN.md](treasury.zh-CN.md)|18|existing images; detailed coverage review pending|
+|[tree_guard_v1.md](tree_guard_v1.md)|2|updated this pass|
+|[vf001_fountain_v2.md](vf001_fountain_v2.md)|2|updated this pass|
+|[watermill.en.md](watermill.en.md)|1|existing images; detailed coverage review pending|
+|[watermill.md](watermill.md)|1|existing images; detailed coverage review pending|
+|[watermill.zh-CN.md](watermill.zh-CN.md)|1|existing images; detailed coverage review pending|
+|[weapons-equipment_01.en.md](weapons-equipment_01.en.md)|8|existing images; detailed coverage review pending|
+|[weapons-equipment_01.md](weapons-equipment_01.md)|8|existing images; detailed coverage review pending|
+|[weapons-equipment_01.zh-CN.md](weapons-equipment_01.zh-CN.md)|8|existing images; detailed coverage review pending|
+|[winery_utilities_v1.md](winery_utilities_v1.md)|4|updated this pass|
+|[wizard-study.en.md](wizard-study.en.md)|40|existing images; detailed coverage review pending|
+|[wizard-study.md](wizard-study.md)|40|existing images; detailed coverage review pending|
+|[wizard-study.zh-CN.md](wizard-study.zh-CN.md)|40|existing images; detailed coverage review pending|
+
+未対応の具体的理由: recovered_rustic_fences_rf7 は完成バッチ内に実レンダーが見つからず、terrain_connectivity_v1 は34件時点の画像と現行91件の個別対応が未検証。次回は制作者の確定画像一覧を照合して追加します。既存画像ページのモデル別網羅性は今回未査定。

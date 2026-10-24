@@ -21,3 +21,18 @@ Two static model candidates and one assembly; six existing types reused. Floor 7
 2个单件候选加1个布置，既有6种不重复计数。7×8米无屋顶低墙场景，地板高0.16米；通道0.9米和净高1.8米仅采样检查，未验证完整搬运路径。担架长2.5米，托盘高1.05米。FW018盆仅在场景副本中修正法线贴图连接，原输入保留，不计新增。医疗功效、卫生、结构安全、行走、碰撞、动态机构、旧Blender兼容性未验证。仅模型材质CC0，代码图片文章和私有记录除外。
 
 [Checksums](../distributions/fantasy-infirmary-v1/SHA256SUMS.txt).
+
+
+実作レンダー / Actual model renders. Images are supplied for browsing, excluded from model CC0; existing [image rights](../LICENSE.md) remain unchanged. Images do not add model records.
+
+## 配置全景・接写 / Scene overview and detail
+
+### 治療院配置（INF101担架・INF102寝台トレイ）
+
+[INF101_CanvasStretcher ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip) · [INF102_BedsideCantileverTray ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip) · [INFV01_FantasyInfirmary ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip) ·
+
+![治療院配置（INF101担架・INF102寝台トレイ） ward_overview](../previews/catalog-20261024/INFV01_FantasyInfirmary-ward_overview.jpg)
+
+![治療院配置（INF101担架・INF102寝台トレイ） bedside_close](../previews/catalog-20261024/INFV01_FantasyInfirmary-bedside_close.jpg)
+
+![治療院配置（INF101担架・INF102寝台トレイ） care_and_transfer](../previews/catalog-20261024/INFV01_FantasyInfirmary-care_and_transfer.jpg)

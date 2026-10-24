@@ -17,3 +17,19 @@ Metres, Z up, origin zero. Append the named Collection from BLEND. ER101 nominal
 Static miniature modules. Open ports require adjoining pieces or closures; the examples are not complete fall-protection systems. Sampled rays, dimensions and Blender 5.2.2 reloading were checked by production. Actual walking, full-body collision, navigation meshes, structural safety, full opening interference, Blender 4.3.2 compatibility and global historical independence remain unverified. Meshes are not sealed manifold unions. Supports and end floors used in examples are not included.
 
 Model geometry and embedded display materials only are CC0-1.0. No source code, private evidence, images or assembled scenes are distributed. [Checksums](../distributions/elevated-ruin-connectors-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|ER101_StairTJunction|StairTJunction|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)|
+|ER102_RuinArchWalkway|RuinArchWalkway|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)|
+
+![elevated-ruin-connectors-v1 — arch_underpass](../previews/catalog-20261024/elevated-ruin-connectors-v1-arch_underpass.jpg)
+
+![elevated-ruin-connectors-v1 — connected_terraces](../previews/catalog-20261024/elevated-ruin-connectors-v1-connected_terraces.jpg)
+
+![elevated-ruin-connectors-v1 — stair_junction](../previews/catalog-20261024/elevated-ruin-connectors-v1-stair_junction.jpg)

@@ -21,3 +21,21 @@ Asparagus is shown in its spring shoot stage, not as mature foliage. Wind, flowe
 - BG402_Eggplant: Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx.
 - BG403_Artichoke: Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts.
 - BG404_AsparagusShoots: Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage.
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|BG401_Maize|Maize|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG401_Maize_CC0.zip)|
+|BG402_Eggplant|Eggplant|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG402_Eggplant_CC0.zip)|
+|BG403_Artichoke|Artichoke|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG403_Artichoke_CC0.zip)|
+|BG404_AsparagusShoots|AsparagusShoots|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG404_AsparagusShoots_CC0.zip)|
+
+![botanical-field-growth-v1 — artichoke_and_shoots](../previews/catalog-20261024/botanical-field-growth-v1-artichoke_and_shoots.jpg)
+
+![botanical-field-growth-v1 — field_growth](../previews/catalog-20261024/botanical-field-growth-v1-field_growth.jpg)
+
+![botanical-field-growth-v1 — maize_and_eggplant](../previews/catalog-20261024/botanical-field-growth-v1-maize_and_eggplant.jpg)

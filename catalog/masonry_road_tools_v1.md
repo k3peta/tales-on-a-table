@@ -17,3 +17,28 @@ MRT101 A-frame plumb level; MRT102 four-plumb survey cross; MRT103 timber arch c
 Metres, Z up, ground origins except MRT106 wall mounting planeX0/baseZ0. Display walls and examples are excluded from the seven ZIPs. Approximate level width1.36m/height1.3m; survey cross height2.15m; centering radius1m/springing1.1m; gate bar3.2m; firesteel box0.30x0.22m. These are static display models: no measured surveying accuracy, lifting/sliding/gate mechanism or ignition. Historical precision, loads/construction safety, full intersection volumes, walking/collision and Blender4.3.2 compatibility are unverified.
 
 Original procedural geometry, no external geometry/images or held material. Model geometry and embedded materials only are CC0-1.0; code, renders, articles and private records are excluded. [Checksums](../distributions/masonry-road-tools-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|MRT101_PlumbLevel|PlumbLevel|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT101_PlumbLevel_CC0.zip)|
+|MRT102_SurveyCross|SurveyCross|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT102_SurveyCross_CC0.zip)|
+|MRT103_ArchCentering|ArchCentering|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT103_ArchCentering_CC0.zip)|
+|MRT104_StoneLiftingSocket|StoneLiftingSocket|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT104_StoneLiftingSocket_CC0.zip)|
+|MRT105_RollerStoneSled|RollerStoneSled|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT105_RollerStoneSled_CC0.zip)|
+|MRT106_GateBarStorage|GateBarStorage|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT106_GateBarStorage_CC0.zip)|
+|MRT107_FiresteelKit|FiresteelKit|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT107_FiresteelKit_CC0.zip)|
+
+![masonry-road-tools-v1 — firesteel_close](../previews/catalog-20261024/masonry-road-tools-v1-firesteel_close.jpg)
+
+![masonry-road-tools-v1 — gate_bar](../previews/catalog-20261024/masonry-road-tools-v1-gate_bar.jpg)
+
+![masonry-road-tools-v1 — stone_handling](../previews/catalog-20261024/masonry-road-tools-v1-stone_handling.jpg)
+
+![masonry-road-tools-v1 — survey_close](../previews/catalog-20261024/masonry-road-tools-v1-survey_close.jpg)
+
+![masonry-road-tools-v1 — tools_overview](../previews/catalog-20261024/masonry-road-tools-v1-tools_overview.jpg)

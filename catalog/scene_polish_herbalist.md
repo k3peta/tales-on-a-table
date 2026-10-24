@@ -21,3 +21,52 @@ Three existing public arrangements gain revisions; poultry is an uncounted suppl
 ## 中文
 
 3个既有公开场景追加修订，鸡舍为未计数补充，旧版保留。药师店为14种既有模型组成的首次布置分发，加1条，新增形状0。22处材质修复不算新模型或变体，原公开模型不变。整体布置非CC0，仅供查看和重新排列，无额外再分发许可；底层模型材质CC0权利不变。医疗功效、操作程序、承重、生体安全、行走碰撞、动态机构、应用性能和旧版兼容未验证。不含代码图片私有资料。
+
+
+実作レンダー / Actual model renders. Images are supplied for browsing, excluded from model CC0; existing [image rights](../LICENSE.md) remain unchanged. Images do not add model records.
+
+## 配置全景・接写 / Scene overview and detail
+
+### 改訂配置 horse
+
+[Revision ZIP](../distributions/scene-polish-v3/horse-scene-v3.zip)
+
+![改訂配置 horse horse-overview](../previews/catalog-20261024/horse-horse-overview.jpg)
+
+![改訂配置 horse horse-detail](../previews/catalog-20261024/horse-horse-detail.jpg)
+
+
+### 改訂配置 winery
+
+[Revision ZIP](../distributions/scene-polish-v3/winery-scene-v3.zip)
+
+![改訂配置 winery winery-overview](../previews/catalog-20261024/winery-winery-overview.jpg)
+
+![改訂配置 winery winery-detail](../previews/catalog-20261024/winery-winery-detail.jpg)
+
+
+### 改訂配置 cellar
+
+[Revision ZIP](../distributions/scene-polish-v3/cellar-scene-v3.zip)
+
+![改訂配置 cellar cellar-overview](../previews/catalog-20261024/cellar-cellar-overview.jpg)
+
+![改訂配置 cellar cellar-detail](../previews/catalog-20261024/cellar-cellar-detail.jpg)
+
+
+### 改訂配置 poultry
+
+[Revision ZIP](../distributions/scene-polish-v3/poultry-scene-v3.zip)
+
+![改訂配置 poultry poultry-overview](../previews/catalog-20261024/poultry-poultry-overview.jpg)
+
+![改訂配置 poultry poultry-detail](../previews/catalog-20261024/poultry-poultry-detail.jpg)
+
+
+### 薬師店舗 HERBALIST_SCENE_V1
+
+[HERBALIST_SCENE_V1 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip) ·
+
+![薬師店舗 HERBALIST_SCENE_V1 herbalist-overview](../previews/catalog-20261024/herbalist-herbalist-overview.jpg)
+
+![薬師店舗 HERBALIST_SCENE_V1 herbalist-detail](../previews/catalog-20261024/herbalist-herbalist-detail.jpg)

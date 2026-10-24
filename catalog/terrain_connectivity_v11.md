@@ -14,3 +14,17 @@ Blender 5.2.2 reimport and sampled connection checks passed according to product
 UD1102 is a structural derivative enclosing existing waterfall geometry, not a new waterfall shape. UD1101 is not a human passage.
 
 [Checksums](../distributions/terrain-connectivity-11/SHA256SUMS.txt)
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|UD1101|縁下排水口|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip)|
+|UD1102|洞内落差水路|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1102_CC0.zip)|
+
+![terrain-connectivity-v11 — catalog_2](../previews/catalog-20261024/terrain-connectivity-v11-catalog_2.jpg)
+
+![terrain-connectivity-v11 — connections](../previews/catalog-20261024/terrain-connectivity-v11-connections.jpg)

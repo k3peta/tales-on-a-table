@@ -11,3 +11,19 @@
 This is static terrain with thin opaque water, not a dynamic application feature. Tides, water-level switching and interactive climbing are not implemented. The shape is simplified and symmetric along Y; material color boundaries with adjacent beach remain visible. Actual walking, collision, fluid behavior, full watertight/contact volumes and Blender 4.3.2 compatibility are unverified.
 
 Newly generated geometry and embedded materials only are CC0-1.0. No external or held geometry is included. Code, images, private evidence and assembled scenes are excluded. [Checksums](../distributions/static-mudflat-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|TG024|beach|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG024_CC0.zip)|
+|MF101_DrainedMudflat|DrainedMudflat|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip)|
+
+![static-mudflat-v1 — mudflat_3x3](../previews/catalog-20261024/static-mudflat-v1-mudflat_3x3.jpg)
+
+![static-mudflat-v1 — low_waterline](../previews/catalog-20261024/static-mudflat-v1-low_waterline.jpg)
+
+![static-mudflat-v1 — drainage_close](../previews/catalog-20261024/static-mudflat-v1-drainage_close.jpg)

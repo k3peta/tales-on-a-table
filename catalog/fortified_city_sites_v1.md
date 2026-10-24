@@ -29,3 +29,32 @@ Metres, Z up; standalone origins at ground Z0. Scaffold deck Z2, 2m bay spacing;
 The road vignette rises 0.5m over a 2m run; objects remain repositionable. Append the named Collection from the BLEND library. Only cleaned model/assembly BLEND and GLB files are supplied, not rendering work scenes. Sampled geometry/reload checks do not establish game collision, actual walking, complete contact volumes, mechanism operation, LOD or Blender4.3.2 compatibility; all remain unverified.
 
 CC0-1.0 applies to model geometry and embedded materials, including verified CC0 reused components NR102/BD104/RS201 where present. Rendering scene sources, generation code, renders, article text and private records are excluded; this is not a blanket license for those works. Public placement and provenance metadata accompany the assemblies. [Checksums](../distributions/fortified-city-sites-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|RS201|Pasture slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)|
+|FCS101_TimberScaffold|TimberScaffold|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)|
+|FCS102_TreadwheelHoist|TreadwheelHoist|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)|
+|FCS103_UnfinishedMasonry|UnfinishedMasonry|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)|
+|FCS104_MasonsDressingBank|MasonsDressingBank|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)|
+|FCS105_RoadGatehouse|RoadGatehouse|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)|
+|FCS106_WatchKiosk|WatchKiosk|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)|
+|FCSV01_ConstructionSite|ConstructionSite|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)|
+|FCSV02_RoadEntrance|RoadEntrance|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)|
+
+![fortified-city-sites-v1 — construction_hoist](../previews/catalog-20261024/fortified-city-sites-v1-construction_hoist.jpg)
+
+![fortified-city-sites-v1 — construction_masonry](../previews/catalog-20261024/fortified-city-sites-v1-construction_masonry.jpg)
+
+![fortified-city-sites-v1 — construction_overview](../previews/catalog-20261024/fortified-city-sites-v1-construction_overview.jpg)
+
+![fortified-city-sites-v1 — gate_arch](../previews/catalog-20261024/fortified-city-sites-v1-gate_arch.jpg)
+
+![fortified-city-sites-v1 — gate_overview](../previews/catalog-20261024/fortified-city-sites-v1-gate_overview.jpg)
+
+![fortified-city-sites-v1 — gate_watch](../previews/catalog-20261024/fortified-city-sites-v1-gate_watch.jpg)

@@ -21,3 +21,23 @@ Metres, Z up, origin zero. RI103 origin is the bank datum: its hanging boards ex
 Static miniature models. Water flow, gate or hinge movement, collision, actual walking, structural strength, Blender 4.3.2 compatibility and full historical independence are unverified. Production checked sampled geometry and Blender 5.2.2 reloading, not complete functional systems. Overlapping solids are not manifold unions. Append the named Collection from BLEND.
 
 Model geometry and included display materials only are CC0-1.0. No source code, images, private records or assembled scenes are included. [Checksums](../distributions/rural-interface-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|RI101_RaisedFlume|RaisedFlume|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)|
+|RI102_SluiceDistributor|SluiceDistributor|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)|
+|RI103_DitchFence|DitchFence|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)|
+|RI104_EavesDownchute|EavesDownchute|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)|
+
+![rural-interfaces-v1 — ditch_fence](../previews/catalog-20261024/rural-interfaces-v1-ditch_fence.jpg)
+
+![rural-interfaces-v1 — eaves_connection](../previews/catalog-20261024/rural-interfaces-v1-eaves_connection.jpg)
+
+![rural-interfaces-v1 — rural_connections](../previews/catalog-20261024/rural-interfaces-v1-rural_connections.jpg)
+
+![rural-interfaces-v1 — sluice_ports](../previews/catalog-20261024/rural-interfaces-v1-sluice_ports.jpg)

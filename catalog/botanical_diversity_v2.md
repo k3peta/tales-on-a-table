@@ -19,3 +19,20 @@ No growth or floating-water physics validation. Place water lily at the water el
 - BD201_WaterLily: Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included.
 - BD202_Horsetail: Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level.
 - BD203_FloweringAllium: Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level.
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|BD201_WaterLily|WaterLily|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)|
+|BD202_Horsetail|Horsetail|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)|
+|BD203_FloweringAllium|FloweringAllium|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)|
+
+![botanical-diversity-v2 — floating_leaf_closeup](../previews/catalog-20261024/botanical-diversity-v2-floating_leaf_closeup.jpg)
+
+![botanical-diversity-v2 — waterside_and_field](../previews/catalog-20261024/botanical-diversity-v2-waterside_and_field.jpg)
+
+![botanical-diversity-v2 — whorls_and_umbels](../previews/catalog-20261024/botanical-diversity-v2-whorls_and_umbels.jpg)

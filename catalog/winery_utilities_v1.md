@@ -13,3 +13,23 @@ HCV901 twin fluted-roller grape crusher is a pre-press preparation tool, distinc
 Metres, ground-centered component origins, Blender Z up / standard glTF axes. Global historical shape independence is unverified. Static display only: no animated doors/wheels/walking, rigid-body coupling, load simulation or fluid mechanisms. Safety, full motion/intersection volumes, real use, app UI/GPU/FPS and older Blender compatibility are unverified. Code, rendered images and private records are excluded.
 
 [Checksums](../distributions/winery-utilities-v1/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|HCV303|HCV303|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip)|
+|HCV901|HCV901|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV901-CC0.zip)|
+|HCV902|HCV902|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV902-CC0.zip)|
+|HCV903|HCV903|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV903-CC0.zip)|
+
+![winery-utilities-v1 — carrier](../previews/catalog-20261024/winery-utilities-v1-carrier.jpg)
+
+![winery-utilities-v1 — crusher](../previews/catalog-20261024/winery-utilities-v1-crusher.jpg)
+
+![winery-utilities-v1 — sampler](../previews/catalog-20261024/winery-utilities-v1-sampler.jpg)
+
+![winery-utilities-v1 — workflow](../previews/catalog-20261024/winery-utilities-v1-workflow.jpg)

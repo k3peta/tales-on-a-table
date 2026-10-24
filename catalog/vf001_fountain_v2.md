@@ -9,3 +9,16 @@ One standalone model distribution record, not an application. v1 and v2 are revi
 Approximately 2.5975 x 2.5975 x 1.98 metres, Z up, origin at the base centre. Marble image embedded. Ripples, droplets and falling water are static geometry, not fluid simulation or animation. Model geometry and included display materials only are CC0. No rendered images, trees, assembled scenes, generation code or application source are included.
 
 Validated for Blender 5.2.2. GLB transparency needs KHR_materials_transmission and KHR_materials_ior support. Procedural fine surface details can differ between viewers. Device FPS, game collision, older Blender compatibility and application integration are unverified.
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|VF001|湖畔の大理石噴水|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip)|
+
+![vf001-fountain-v2 — fountain-detail](../previews/catalog-20261024/vf001-fountain-v2-fountain-detail.jpg)
+
+![vf001-fountain-v2 — lakeside-fountain](../previews/catalog-20261024/vf001-fountain-v2-lakeside-fountain.jpg)

@@ -24,3 +24,27 @@ Metres, Z up, ground origins. Chapel6x8m, floor0.16m, doorway1.68m, aisle1.5m. R
 新增4个单件候选与2个布置记录，既有6种模型不重复计数，历史独立形状数未确认。教堂6×8米、地板0.16米、入口1.68米、中央通道1.5米；屋顶、钟楼和墙体可分别隐藏。内部图片为剖视显示，配布文件保留完整形状。彩窗不透明，门和钟静止。训练场8×8米，中央2.4×3米空区不代表安全训练距离。实际行走、碰撞、结构承重安全、动态机构及旧Blender兼容性均未验证。仅模型几何与内嵌材质适用CC0；代码、图片、文章和私有记录不包含在授权内。
 
 [Checksums](../distributions/chapel-training-v1/SHA256SUMS.txt).
+
+
+実作レンダー / Actual model renders. Images are supplied for browsing, excluded from model CC0; existing [image rights](../LICENSE.md) remain unchanged. Images do not add model records.
+
+## 配置全景・接写 / Scene overview and detail
+
+### 教会配置（CPT101小教会・CPT102祭壇・CPT103膝台）
+
+[CPT101_ChapelShell ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip) · [CPT102_SunAltar ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip) · [CPT103_PrayerKneeler ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip) · [CPTV01_Chapel ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip) ·
+
+![教会配置（CPT101小教会・CPT102祭壇・CPT103膝台） chapel_exterior](../previews/catalog-20261024/CPTV01_Chapel-chapel_exterior.jpg)
+
+![教会配置（CPT101小教会・CPT102祭壇・CPT103膝台） chapel_interior](../previews/catalog-20261024/CPTV01_Chapel-chapel_interior.jpg)
+
+![教会配置（CPT101小教会・CPT102祭壇・CPT103膝台） chapel_altar](../previews/catalog-20261024/CPTV01_Chapel-chapel_altar.jpg)
+
+
+### 訓練場配置（CPT201詰め物標柱）
+
+[CPT201_PaddedPell ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip) · [CPTV02_TrainingCourt ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip) ·
+
+![訓練場配置（CPT201詰め物標柱） training_overview](../previews/catalog-20261024/CPTV02_TrainingCourt-training_overview.jpg)
+
+![訓練場配置（CPT201詰め物標柱） training_props](../previews/catalog-20261024/CPTV02_TrainingCourt-training_props.jpg)

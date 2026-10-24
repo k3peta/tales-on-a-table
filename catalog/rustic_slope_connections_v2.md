@@ -17,3 +17,22 @@ Step and mixed-fence connections use existing posts at 0.15 m centre separation,
 RS203 is a static decorative stile, 0.62 m wide, with treads at 0.3/0.6/0.9 m, top at 1.2 m and handholds at 1.7 m. Its top underside clears the existing pasture rail by about 0.035 m. Actual walking, collision, structural loading/safety, animal containment, arbitrary terrain connections and Blender 4.3.2 compatibility are unverified. Blender 5.2.2 reimport was checked by production validation.
 
 Model geometry and included display materials only are CC0-1.0. No images, source code, private records or assembled scenes are included. [Checksums](../distributions/rustic-slope-connections-v2/SHA256SUMS.txt).
+
+
+## 実作画像 / Actual renders
+
+完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
+
+|ID|名称 / Name|Download|
+|---|---|---|
+|RS201|Pasture slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)|
+|RS202|Garden slope bay|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)|
+|RS203|Fence crossing stile|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)|
+|RF01|Pasture inline shared post|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF01_CC0.zip)|
+|RF05|Garden inline shared post|[ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/recovered-rustic-fences-rf7/RF05_CC0.zip)|
+
+![rustic-slope-connections-v2 — catalog_3](../previews/catalog-20261024/rustic-slope-connections-v2-catalog_3.jpg)
+
+![rustic-slope-connections-v2 — slope_connections_supported](../previews/catalog-20261024/rustic-slope-connections-v2-slope_connections_supported.jpg)
+
+![rustic-slope-connections-v2 — stile_example](../previews/catalog-20261024/rustic-slope-connections-v2-stile_example.jpg)
