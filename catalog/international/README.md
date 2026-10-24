@@ -173,4 +173,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality44 variants](variant-06.md):154 separately counted material variants; base1008 unchanged. Latest BN003/005 and WH007/008 public image/ZIP match verified, including final-ZIP spatial vertex attributes; UV additions remain explicit.
 
-[Quality45 variants](variant-06.md):156 separately counted material variants; base1008 unchanged. No new revisions; main-member ceramic variants public match pending.
+[Quality45 variants](variant-06.md):156 separately counted material variants; base1008 unchanged. No new revisions; main-member ceramic variants public ZIP/member/image identity verified.
