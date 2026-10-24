@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **998 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **1007 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **1007 records** (998 + 6 model candidates + 3 arrangements; arrangements are NOT CC0; independent shape total unconfirmed). [craft-shops-v1](catalog/craft_shops_v1.md).
 
 - 2026-10-24 JST — 998 records = 995 + 2 components + 1 assembly; reused types excluded. [Infirmary / 治療院 / 治疗院](catalog/fantasy_infirmary_v1.md).
 

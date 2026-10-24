@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **998条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **1007条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — **1007 records** (998 + 6 model candidates + 3 arrangements; arrangements are NOT CC0; independent shape total unconfirmed). [craft-shops-v1](catalog/craft_shops_v1.md).
 
 - 2026-10-24 JST — 995＋2个单件＋1个布置＝998条分发记录，既有6种不重复计数。 [Infirmary / 治療院 / 治疗院](catalog/fantasy_infirmary_v1.md).
 

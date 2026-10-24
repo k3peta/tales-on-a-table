@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 998,
+  "item_count": 1007,
   "count_by_kind": {
-    "model": 832,
+    "model": 838,
     "derived_component": 2,
-    "group": 45,
+    "group": 48,
     "structural_variant": 15,
     "connection_configuration": 3,
     "placement_variant": 6,
@@ -61,7 +61,8 @@
     "winery_utilities_v1": 3,
     "goat_care_platform_v1": 1,
     "chapel_training": 6,
-    "fantasy_infirmary": 3
+    "fantasy_infirmary": 3,
+    "craft_shops_v1": 9
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -29975,6 +29976,240 @@
       "zip_file": "INFV01_FantasyInfirmary_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip",
       "theme": "fantasy_infirmary",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH101",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "composite_tool_or_fixture",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 88068,
+      "zip_sha256": "856979a100edf56592b49353c61ef0625a7505ce9df992a4ad43de4413305cf6",
+      "names": {
+        "ja": "CSH101",
+        "en": "CSH101",
+        "zh-CN": "CSH101"
+      },
+      "descriptions": {
+        "ja": "CSH101: Carved wooden shoe last",
+        "en": "CSH101: Carved wooden shoe last",
+        "zh-CN": "CSH101: Carved wooden shoe last"
+      },
+      "zip_file": "CSH101-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH102",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "composite_tool_or_fixture",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 102662,
+      "zip_sha256": "1dc7ba707df0c82eb98abcdf0e21f46fa76b32ac282b6e02e763f743e17d8a5c",
+      "names": {
+        "ja": "CSH102",
+        "en": "CSH102",
+        "zh-CN": "CSH102"
+      },
+      "descriptions": {
+        "ja": "CSH102: Cobbler sole-working stake on tripod",
+        "en": "CSH102: Cobbler sole-working stake on tripod",
+        "zh-CN": "CSH102: Cobbler sole-working stake on tripod"
+      },
+      "zip_file": "CSH102-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH201",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "composite_tool_or_fixture",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 212124,
+      "zip_sha256": "5bd1169a316ae579bd44c92e19e6dfaed13608802b89f98ae275db38f0176e4e",
+      "names": {
+        "ja": "CSH201",
+        "en": "CSH201",
+        "zh-CN": "CSH201"
+      },
+      "descriptions": {
+        "ja": "CSH201: Linen fitting form with waist measure",
+        "en": "CSH201: Linen fitting form with waist measure",
+        "zh-CN": "CSH201: Linen fitting form with waist measure"
+      },
+      "zip_file": "CSH201-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH202",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "composite_tool_or_fixture",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 176343,
+      "zip_sha256": "afa50ae418e6ee64a62ace0717fc89fc9784a5f7e43e8904261e8e6704f2b16d",
+      "names": {
+        "ja": "CSH202",
+        "en": "CSH202",
+        "zh-CN": "CSH202"
+      },
+      "descriptions": {
+        "ja": "CSH202: Garment rail with three shoulder hangers",
+        "en": "CSH202: Garment rail with three shoulder hangers",
+        "zh-CN": "CSH202: Garment rail with three shoulder hangers"
+      },
+      "zip_file": "CSH202-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH301",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "composite_tool_or_fixture",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 129336,
+      "zip_sha256": "79091b03bc921a488abf7c6a1e899f92603dce4bbe3d2124a2eaf12cfc724b42",
+      "names": {
+        "ja": "CSH301",
+        "en": "CSH301",
+        "zh-CN": "CSH301"
+      },
+      "descriptions": {
+        "ja": "CSH301: Saddler stitching pony with open padded jaws",
+        "en": "CSH301: Saddler stitching pony with open padded jaws",
+        "zh-CN": "CSH301: Saddler stitching pony with open padded jaws"
+      },
+      "zip_file": "CSH301-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH302",
+      "category": "facility",
+      "record_kind": "model",
+      "design_classification": "single_tool",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 95688,
+      "zip_sha256": "9f5360716d5de15704ce90fcfbb187dc106e892a04bfda72e77b3447938009f7",
+      "names": {
+        "ja": "CSH302",
+        "en": "CSH302",
+        "zh-CN": "CSH302"
+      },
+      "descriptions": {
+        "ja": "CSH302: Leatherworker half-moon head knife",
+        "en": "CSH302: Leatherworker half-moon head knife",
+        "zh-CN": "CSH302: Leatherworker half-moon head knife"
+      },
+      "zip_file": "CSH302-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH_SCENE_COBBLER",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "arrangement_first_distribution",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 14553941,
+      "zip_sha256": "5d16c3c8f689a5dc5f8efddfa80b6a5803d19c8589d4ee9279b18635aa2ac6c0",
+      "names": {
+        "ja": "CSH_SCENE_COBBLER",
+        "en": "CSH_SCENE_COBBLER",
+        "zh-CN": "CSH_SCENE_COBBLER"
+      },
+      "descriptions": {
+        "ja": "cobbler - rearrangeable static vignette, revision 1",
+        "en": "cobbler - rearrangeable static vignette, revision 1",
+        "zh-CN": "cobbler - rearrangeable static vignette, revision 1"
+      },
+      "zip_file": "cobbler-scene-v1.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH_SCENE_TAILOR",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "arrangement_first_distribution",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 26269186,
+      "zip_sha256": "8ef0c44ab644ac3b2e31f5a3b8c6e2a6077aba9a9dc7c7b19d81c9cb53297cf4",
+      "names": {
+        "ja": "CSH_SCENE_TAILOR",
+        "en": "CSH_SCENE_TAILOR",
+        "zh-CN": "CSH_SCENE_TAILOR"
+      },
+      "descriptions": {
+        "ja": "tailor - rearrangeable static vignette, revision 1",
+        "en": "tailor - rearrangeable static vignette, revision 1",
+        "zh-CN": "tailor - rearrangeable static vignette, revision 1"
+      },
+      "zip_file": "tailor-scene-v1.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip",
+      "theme": "craft_shops_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CSH_SCENE_LEATHERWORKER",
+      "category": "facility",
+      "record_kind": "group",
+      "design_classification": "arrangement_first_distribution",
+      "independent_design_increment": null,
+      "revision": "craft-shops-v1",
+      "license": "LicenseRef-Scene-Viewing-Rearranging",
+      "license_scope": "Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted",
+      "zip_bytes": 4240874,
+      "zip_sha256": "acc42c84a4670382ab5bb7ac5b458e4d0f484040a0954a298fbe2beb622818d9",
+      "names": {
+        "ja": "CSH_SCENE_LEATHERWORKER",
+        "en": "CSH_SCENE_LEATHERWORKER",
+        "zh-CN": "CSH_SCENE_LEATHERWORKER"
+      },
+      "descriptions": {
+        "ja": "leatherworker - rearrangeable static vignette, revision 1",
+        "en": "leatherworker - rearrangeable static vignette, revision 1",
+        "zh-CN": "leatherworker - rearrangeable static vignette, revision 1"
+      },
+      "zip_file": "leatherworker-scene-v1.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip",
+      "theme": "craft_shops_v1",
       "global_unique": "unconfirmed"
     }
   ]

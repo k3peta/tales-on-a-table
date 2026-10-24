@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **998配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **1007配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **1007 records** (998 + 6 model candidates + 3 arrangements; arrangements are NOT CC0; independent shape total unconfirmed). [craft-shops-v1](catalog/craft_shops_v1.md).
 
 - 2026-10-24 JST — 995＋単品2＋配置1＝998配布レコード。既存6種類は加算なし。 [Infirmary / 治療院 / 治疗院](catalog/fantasy_infirmary_v1.md).
 
