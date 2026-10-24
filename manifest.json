@@ -5125,7 +5125,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_055_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "65dec3df37f768bfe481e454b0a9a2143dbbc700002d91864029402b3a0fd273",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_055__repair",
+          "base_id": "OL_055",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "展示台の強い周期木目を抑制。原本形状・金属縁は保持。",
+          "zip": "OL_055__repair_CC0.zip",
+          "bytes": 2151106,
+          "sha256": "a10e53d65127b01cff2f0059672f938673166a434ae8004f44ab0e8af151bfc9",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_055__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_056",
@@ -5359,7 +5377,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_001_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "62be11147f455c16d5ab080a637a822cd1ce622bb7fe28f338e144033da942df",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_001__repair",
+          "base_id": "AT_001",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "tick_support_v1",
+          "uv_revision": "original_uv0_retained_plus_support_uv",
+          "finish": "repair",
+          "description": "浮いて見えた水平目盛りの下へ真鍮の支持輪を追加した形状改訂。原本頂点不変更。",
+          "zip": "AT_001__repair_CC0.zip",
+          "bytes": 1141343,
+          "sha256": "65c0b766c04f10df260cb28b39831cbe8163b368b30ee0697fed0c60e44c95b3",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/AT_001__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AT_002",

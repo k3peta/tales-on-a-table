@@ -227,3 +227,75 @@ Comparison: left: original base; right: accepted variant; same overview camera.
 **CC0-1.0** — model geometry and embedded materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/material_variants_ol045_054.md)
+
+## OL_extra_blue__color_orange
+
+**Single blue cushion**
+
+青い単体クッション
+
+[![OL_extra_blue__color_orange](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_thumb.png)](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_comparison.png)
+
+Use / purpose: Orange cushion for static interior set dressing.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base OL_extra_blue](base-08.md#ol_extra_blue). Geometry and original UV retained; added WearUV.
+
+[Full comparison](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_CC0.zip) · [Source catalogue](../../catalog/material_variants_ol055_story_at001.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## OL_extra_blue__color_green
+
+**Single blue cushion**
+
+青い単体クッション
+
+[![OL_extra_blue__color_green](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_green_thumb.png)](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_green_comparison.png)
+
+Use / purpose: Green cushion for static interior set dressing.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base OL_extra_blue](base-08.md#ol_extra_blue). Geometry and original UV retained; added WearUV.
+
+[Full comparison](../../previews/quality-ol055-story-at001-v1/OL_extra_blue__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_extra_blue__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_ol055_story_at001.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## OL_STORY_001__color_orange
+
+**Cloth-draped handbox**
+
+布を掛けた手箱
+
+[![OL_STORY_001__color_orange](../../previews/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_thumb.png)](../../previews/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_comparison.png)
+
+Use / purpose: Chest-and-cloth arrangement with orange cloth; arrangement color variant, not a new standalone shape.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base OL_STORY_001](base-08.md#ol_story_001). Geometry and original UV retained; added WearUV.
+
+[Full comparison](../../previews/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_CC0.zip) · [Source catalogue](../../catalog/material_variants_ol055_story_at001.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## OL_STORY_005__color_green
+
+**Travel souvenir bundle**
+
+旅の土産包み
+
+[![OL_STORY_005__color_green](../../previews/quality-ol055-story-at001-v1/OL_STORY_005__color_green_thumb.png)](../../previews/quality-ol055-story-at001-v1/OL_STORY_005__color_green_comparison.png)
+
+Use / purpose: Souvenir arrangement with green cloth; paper and rope unchanged.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base OL_STORY_005](base-08.md#ol_story_005). Geometry and original UV retained; added WearUV.
+
+[Full comparison](../../previews/quality-ol055-story-at001-v1/OL_STORY_005__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_STORY_005__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_ol055_story_at001.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).

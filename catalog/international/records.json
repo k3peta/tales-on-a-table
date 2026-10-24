@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 104,
-      "id_mapped_preview": 104,
+      "records": 108,
+      "id_mapped_preview": 108,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 104,
-      "formats_known": 104,
+      "purpose_en_present": 108,
+      "formats_known": 108,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -37934,6 +37934,138 @@
       "comparison": {
         "file": "previews/quality-ol045-054-v1/OL_053__color_comparison.png",
         "layout": "left: original base; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv"
+    },
+    {
+      "id": "OL_extra_blue__color_orange",
+      "kind": "variant",
+      "base_id": "OL_extra_blue",
+      "name_en": "Single blue cushion",
+      "name_ja": "青い単体クッション",
+      "purpose_en": "Orange cushion for static interior set dressing.",
+      "record_kind": "derived_component",
+      "image": "previews/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ol055_story_at001.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ol055-story-at001-v1/OL_extra_blue__color_orange_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv"
+    },
+    {
+      "id": "OL_extra_blue__color_green",
+      "kind": "variant",
+      "base_id": "OL_extra_blue",
+      "name_en": "Single blue cushion",
+      "name_ja": "青い単体クッション",
+      "purpose_en": "Green cushion for static interior set dressing.",
+      "record_kind": "derived_component",
+      "image": "previews/quality-ol055-story-at001-v1/OL_extra_blue__color_green_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_extra_blue__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ol055_story_at001.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ol055-story-at001-v1/OL_extra_blue__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv"
+    },
+    {
+      "id": "OL_STORY_001__color_orange",
+      "kind": "variant",
+      "base_id": "OL_STORY_001",
+      "name_en": "Cloth-draped handbox",
+      "name_ja": "布を掛けた手箱",
+      "purpose_en": "Chest-and-cloth arrangement with orange cloth; arrangement color variant, not a new standalone shape.",
+      "record_kind": "group",
+      "image": "previews/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ol055_story_at001.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ol055-story-at001-v1/OL_STORY_001__color_orange_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv"
+    },
+    {
+      "id": "OL_STORY_005__color_green",
+      "kind": "variant",
+      "base_id": "OL_STORY_005",
+      "name_en": "Travel souvenir bundle",
+      "name_ja": "旅の土産包み",
+      "purpose_en": "Souvenir arrangement with green cloth; paper and rope unchanged.",
+      "record_kind": "group",
+      "image": "previews/quality-ol055-story-at001-v1/OL_STORY_005__color_green_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_STORY_005__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ol055_story_at001.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ol055-story-at001-v1/OL_STORY_005__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
       },
       "geometry_revision": "original",
       "uv_revision": "original_uv0_plus_wearuv"

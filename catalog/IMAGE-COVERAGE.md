@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records and104 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records and108 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -177,3 +177,5 @@
 ## Per-record audit
 
 [1008 base records and104 variants: exact ID coverage and gaps](international/COVERAGE.md). Catalogue image presence alone is not full model coverage.
+
+- [Quality 18](material_variants_ol055_story_at001.md):12 accepted comparison/thumbnail images. Cumulative176 assessed distribution records, not unique shapes.
