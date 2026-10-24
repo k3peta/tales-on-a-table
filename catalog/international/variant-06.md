@@ -673,3 +673,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_083](base-22.md#bm_083) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/BM_083__blue_canvas_CC0.zip) · [Full comparison](../../previews/quality-bm081-fp007-v1/BM_083__blue_canvas_overview_comparison.png) · [Details](../material_variants_bm081_fp007.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## FP011__blue_glaze
+
+**Water jug** · 水差し
+
+[![FP011__blue_glaze](../../previews/quality-fp008-017-v1/FP011__blue_glaze_thumb.png)](../../previews/quality-fp008-017-v1/FP011__blue_glaze_overview_comparison.png)
+
+Use: Blue glaze UV texture recolor based on repaired FP011 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base FP011](base-23.md#fp011) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__blue_glaze_CC0.zip) · [Full comparison](../../previews/quality-fp008-017-v1/FP011__blue_glaze_overview_comparison.png) · [Details](../material_variants_fp008_fp017.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

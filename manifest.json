@@ -18685,7 +18685,23 @@
       "zip_file": "FP010_Chipped_food_bowl.zip",
       "zip_bytes": 528049,
       "zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip",
+      "revisions": [
+        {
+          "id": "FP010__repair",
+          "base_id": "FP010",
+          "entity_type": "revision",
+          "zip": "FP010__repair_CC0.zip",
+          "sha256": "bd784922b1a9e015720612abd4b086e2e1d9e011a6e4644423711901cca7efc6",
+          "bytes": 505720,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP010__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "FP011",
@@ -18703,7 +18719,23 @@
       "zip_file": "FP011_Water_jug.zip",
       "zip_bytes": 565738,
       "zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
+      "revisions": [
+        {
+          "id": "FP011__repair",
+          "base_id": "FP011",
+          "entity_type": "revision",
+          "zip": "FP011__repair_CC0.zip",
+          "sha256": "1f2d249bb75985e110bf6755ef1d1b3f2bf68b5bde54e5e7fcf9f20a7171defa",
+          "bytes": 545494,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "FP012",
@@ -18721,7 +18753,23 @@
       "zip_file": "FP012_Pewter_drinking_cup.zip",
       "zip_bytes": 478767,
       "zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip",
+      "revisions": [
+        {
+          "id": "FP012__repair",
+          "base_id": "FP012",
+          "entity_type": "revision",
+          "zip": "FP012__repair_CC0.zip",
+          "sha256": "5a12ec5c132b4a2c6a76c397b88f81cfa1085ccd05b3b10bb656208d3401d03c",
+          "bytes": 454153,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP012__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "FP013",
@@ -18775,7 +18823,23 @@
       "zip_file": "FP015_Candle_and_drip_tray.zip",
       "zip_bytes": 1050346,
       "zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip",
+      "revisions": [
+        {
+          "id": "FP015__repair",
+          "base_id": "FP015",
+          "entity_type": "revision",
+          "zip": "FP015__repair_CC0.zip",
+          "sha256": "c33f45f931765dab2559c630d5e305c9fd859ea72b397a84e640e45627a83bd1",
+          "bytes": 1044719,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP015__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "FP016",

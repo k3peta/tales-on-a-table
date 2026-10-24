@@ -588,6 +588,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0`.
 
+**Quality54:** 4408tri torch;existing emission retained,no fire physics. [Details](../material_variants_fp008_fp017.md).
+
 ## FP009
 
 **Coiled iron chain**
@@ -612,3 +614,4 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7`.
+**Quality54:** 9600tri static chain coil;no chain rig/collision guarantee. [Details](../material_variants_fp008_fp017.md).

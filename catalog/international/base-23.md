@@ -30,6 +30,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05`.
 
+**Quality54:** 64 exact-zero faces removed512→448tri;positive surfaces/chipped rim retained. [Details](../material_variants_fp008_fp017.md).
+
 ## FP011
 
 **Water jug**
@@ -55,6 +57,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257`.
+
+**Quality54:** 64 exact-zero faces removed1024→960tri;blue glaze uses repaired baseline,wear/noncolor channels retained. [Details](../material_variants_fp008_fp017.md).
 
 ## FP012
 
@@ -82,6 +86,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5`.
 
+**Quality54:** 48 exact-zero faces removed448→400tri;metal wear retained,no food-use guarantee. [Details](../material_variants_fp008_fp017.md).
+
 ## FP013
 
 **Prisoners ledger**
@@ -107,6 +113,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0`.
+
+**Quality54:** Open ledger,paper style retained;minor recolor not generated. [Details](../material_variants_fp008_fp017.md).
 
 ## FP014
 
@@ -134,6 +142,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051`.
 
+**Quality54:** Inkpot/quill static arrangement,no writing function. [Details](../material_variants_fp008_fp017.md).
+
 ## FP015
 
 **Candle and drip tray**
@@ -160,6 +170,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9`.
 
+**Quality54:** 64 exact-zero tray faces removed;positive surfaces/candle/existing emission retained. [Details](../material_variants_fp008_fp017.md).
+
 ## FP016
 
 **Ration bread**
@@ -185,6 +197,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9`.
+
+**Quality54:** Stylized ration loaf/scoring retained. [Details](../material_variants_fp008_fp017.md).
 
 ## FP017
 
@@ -213,6 +227,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459`.
 
 [Broom bristles detail](../../previews/prison-fp001-024/details/FP017_detail.png). Intentional crop.
+
+**Quality54:** Birch broom static;no bristle physics. [Details](../material_variants_fp008_fp017.md).
 
 ## FP018
 

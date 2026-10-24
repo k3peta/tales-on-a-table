@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "FP010__repair",
+      "base_id": "FP010",
+      "entity_type": "revision",
+      "zip": "FP010__repair_CC0.zip",
+      "sha256": "bd784922b1a9e015720612abd4b086e2e1d9e011a6e4644423711901cca7efc6",
+      "bytes": 505720,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP010__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP011__repair",
+      "base_id": "FP011",
+      "entity_type": "revision",
+      "zip": "FP011__repair_CC0.zip",
+      "sha256": "1f2d249bb75985e110bf6755ef1d1b3f2bf68b5bde54e5e7fcf9f20a7171defa",
+      "bytes": 545494,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP012__repair",
+      "base_id": "FP012",
+      "entity_type": "revision",
+      "zip": "FP012__repair_CC0.zip",
+      "sha256": "5a12ec5c132b4a2c6a76c397b88f81cfa1085ccd05b3b10bb656208d3401d03c",
+      "bytes": 454153,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP012__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP015__repair",
+      "base_id": "FP015",
+      "entity_type": "revision",
+      "zip": "FP015__repair_CC0.zip",
+      "sha256": "c33f45f931765dab2559c630d5e305c9fd859ea72b397a84e640e45627a83bd1",
+      "bytes": 1044719,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP015__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP011__blue_glaze",
+      "base_id": "FP011",
+      "entity_type": "material_variant",
+      "zip": "FP011__blue_glaze_CC0.zip",
+      "sha256": "dc859bd5c4cb471de3d424837feeaa69b75256c811c35e91aa5e79f52657502b",
+      "bytes": 578474,
+      "description": "Blue glaze UV texture recolor based on repaired FP011 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__blue_glaze_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 4
+}

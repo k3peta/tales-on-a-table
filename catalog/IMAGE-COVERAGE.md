@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records unchanged;169 material variants separately. ID image mappings1008; current-version completeness not claimed. See [version audit](international/VERSION-AUDIT.md). Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records unchanged;170 material variants separately. ID image mappings1008; current-version completeness not claimed. See [version audit](international/VERSION-AUDIT.md). Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -287,3 +287,5 @@ Quality51:6 comparison/thumbnail images; separate variants166.1008 base ID image
 Quality52:6 comparison/thumbnail images; separate variants168.1008 base ID images unchanged.
 
 Quality53:6 comparison/thumbnail images; separate variants169.1008 base ID images unchanged.
+
+Quality54:15 comparison/thumbnail images; separate variants170.1008 base ID images unchanged.

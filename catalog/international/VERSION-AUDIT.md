@@ -15,3 +15,5 @@ The six resolved records are FCS105_RoadGatehouse, FCSV01_ConstructionSite, FCSV
 Quality49:149 latest revision bindings verified including BM041;858 records have no revision entry.
 
 Quality53:150 latest revision bindings verified including FP006;858 records have no revision entry.
+
+Quality54:150 prior revision bindings verified; FP010/011/012/015 public retrieval pending;854 records have no revision entry.

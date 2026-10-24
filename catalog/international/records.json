@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 169,
-      "id_mapped_preview": 169,
+      "records": 170,
+      "id_mapped_preview": 170,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 169,
-      "formats_known": 169,
+      "purpose_en_present": 170,
+      "formats_known": 170,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -23106,7 +23106,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip",
       "pictured_zip_sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4408tri torch;existing emission retained,no fire physics."
     },
     {
       "id": "FP009",
@@ -23184,7 +23185,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip",
       "pictured_zip_sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "9600tri static chain coil;no chain rig/collision guarantee."
     },
     {
       "id": "FP010",
@@ -23262,7 +23264,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip",
       "pictured_zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP010__repair",
+          "catalog": "catalog/material_variants_fp008_fp017.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "64 exact-zero faces removed512→448tri;positive surfaces/chipped rim retained."
     },
     {
       "id": "FP011",
@@ -23340,7 +23350,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
       "pictured_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP011__repair",
+          "catalog": "catalog/material_variants_fp008_fp017.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "64 exact-zero faces removed1024→960tri;blue glaze uses repaired baseline,wear/noncolor channels retained."
     },
     {
       "id": "FP012",
@@ -23418,7 +23436,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip",
       "pictured_zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP012__repair",
+          "catalog": "catalog/material_variants_fp008_fp017.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "48 exact-zero faces removed448→400tri;metal wear retained,no food-use guarantee."
     },
     {
       "id": "FP013",
@@ -23496,7 +23522,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip",
       "pictured_zip_sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Open ledger,paper style retained;minor recolor not generated."
     },
     {
       "id": "FP014",
@@ -23574,7 +23601,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip",
       "pictured_zip_sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Inkpot/quill static arrangement,no writing function."
     },
     {
       "id": "FP015",
@@ -23652,7 +23680,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip",
       "pictured_zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP015__repair",
+          "catalog": "catalog/material_variants_fp008_fp017.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "64 exact-zero tray faces removed;positive surfaces/candle/existing emission retained."
     },
     {
       "id": "FP016",
@@ -23730,7 +23766,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip",
       "pictured_zip_sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Stylized ration loaf/scoring retained."
     },
     {
       "id": "FP017",
@@ -23808,7 +23845,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip",
       "pictured_zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Birch broom static;no bristle physics."
     },
     {
       "id": "FP018",
@@ -46256,6 +46294,70 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_083_CC0.zip",
       "pictured_zip_sha256": "819c38520684231fc75766e0d036d89ff327d7dffabefb13ed006dc5e5f15406",
       "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "FP011__blue_glaze",
+      "kind": "variant",
+      "base_id": "FP011",
+      "name_en": "Water jug",
+      "name_ja": "水差し",
+      "purpose_en": "Blue glaze UV texture recolor based on repaired FP011 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.",
+      "record_kind": "model",
+      "image": "previews/quality-fp008-017-v1/FP011__blue_glaze_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__blue_glaze_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_fp008_fp017.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-fp008-017-v1/FP011__blue_glaze_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "same as repaired FP011 baseline;64 exact zero faces removed from original",
+      "uv_revision": "retained positive-surface UV and attribute presence; blue glaze tint",
+      "source_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "source_glb_sha256": "ed437e34a50bdb16ea7d27354f4034ddb9d6a73c7332dc40fcc497fb5c103e20",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP011_Water_jug",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ],
+      "full_image": "previews/prison-fp001-024/renders/FP011.png",
+      "image_manifest": "previews/prison-fp001-024/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
+      "pictured_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
   ],
