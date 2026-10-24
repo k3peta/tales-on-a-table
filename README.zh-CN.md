@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **941条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **945条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — **945 records** (941 + 2 components + 2 assemblies; gate revision +0, new stairs0). [Fortified access v2](catalog/fortified_city_access_v2.md).
 
 - 2026-10-24 JST — **941 records** (929 + 12 standalone components; 4 reused models and 4 private scenes excluded). [Husbandry and cellar](catalog/husbandry_cellar_v1.md).
 

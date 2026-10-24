@@ -1,0 +1,2 @@
+CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Applies only to model geometry and embedded materials. Code, renders and private records excluded. Existing ER101 and FCS101 components retain their CC0 model/material terms.

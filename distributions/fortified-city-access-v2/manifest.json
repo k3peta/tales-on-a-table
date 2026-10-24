@@ -1,0 +1,139 @@
+{
+  "record_count_increment": 4,
+  "new_component_count": 2,
+  "assembly_count": 2,
+  "revision_count_not_increment": 1,
+  "items": [
+    {
+      "asset_id": "FCS105_RoadGatehouse_access_v2",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "revision_not_new",
+      "independent_design_increment": null,
+      "revision": "fortified-city-access-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 173379,
+      "zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
+      "names": {
+        "ja": "RoadGatehouse_access_v2",
+        "en": "RoadGatehouse_access_v2",
+        "zh-CN": "RoadGatehouse_access_v2"
+      },
+      "descriptions": {
+        "ja": "FCS105_RoadGatehouse_access_v2",
+        "en": "FCS105_RoadGatehouse_access_v2",
+        "zh-CN": "FCS105_RoadGatehouse_access_v2"
+      },
+      "zip_file": "FCS105_RoadGatehouse_access_v2_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip",
+      "theme": "fortified_city_access",
+      "global_unique": "unconfirmed",
+      "revision_of": "FCS105_RoadGatehouse"
+    },
+    {
+      "asset_id": "FCS201_ScaffoldCorner",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "local_connection_candidate",
+      "independent_design_increment": null,
+      "revision": "fortified-city-access-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 82902,
+      "zip_sha256": "be720e949623d865341405c72be9b8460d9aaa1076eedd69a81c39cbe0957b1c",
+      "names": {
+        "ja": "ScaffoldCorner",
+        "en": "ScaffoldCorner",
+        "zh-CN": "ScaffoldCorner"
+      },
+      "descriptions": {
+        "ja": "FCS201_ScaffoldCorner",
+        "en": "FCS201_ScaffoldCorner",
+        "zh-CN": "FCS201_ScaffoldCorner"
+      },
+      "zip_file": "FCS201_ScaffoldCorner_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip",
+      "theme": "fortified_city_access",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCS202_DeckEndGuard",
+      "category": "architecture",
+      "record_kind": "model",
+      "design_classification": "structural_accessory",
+      "independent_design_increment": null,
+      "revision": "fortified-city-access-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 72217,
+      "zip_sha256": "bfda60baf493954f43bc376a24773728abd3a6e5aa9d05df2d75f2542f2b8fe5",
+      "names": {
+        "ja": "DeckEndGuard",
+        "en": "DeckEndGuard",
+        "zh-CN": "DeckEndGuard"
+      },
+      "descriptions": {
+        "ja": "FCS202_DeckEndGuard",
+        "en": "FCS202_DeckEndGuard",
+        "zh-CN": "FCS202_DeckEndGuard"
+      },
+      "zip_file": "FCS202_DeckEndGuard_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip",
+      "theme": "fortified_city_access",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCSV03_GateAccessExample",
+      "category": "architecture",
+      "record_kind": "group",
+      "design_classification": "assembly_not_new_shape",
+      "independent_design_increment": null,
+      "revision": "fortified-city-access-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 420594,
+      "zip_sha256": "8959838fb499024f0f4939f42ba9e19942e5e564702bb0e4781806b49743795b",
+      "names": {
+        "ja": "GateAccessExample",
+        "en": "GateAccessExample",
+        "zh-CN": "GateAccessExample"
+      },
+      "descriptions": {
+        "ja": "FCSV03_GateAccessExample",
+        "en": "FCSV03_GateAccessExample",
+        "zh-CN": "FCSV03_GateAccessExample"
+      },
+      "zip_file": "FCSV03_GateAccessExample_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
+      "theme": "fortified_city_access",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "FCSV04_ScaffoldCornerExample",
+      "category": "architecture",
+      "record_kind": "group",
+      "design_classification": "assembly_not_new_shape",
+      "independent_design_increment": null,
+      "revision": "fortified-city-access-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 239238,
+      "zip_sha256": "ca9464b44e82bee6a6b80466ea9fb6ec8f0b244e4db715c4b80c1981fb328321",
+      "names": {
+        "ja": "ScaffoldCornerExample",
+        "en": "ScaffoldCornerExample",
+        "zh-CN": "ScaffoldCornerExample"
+      },
+      "descriptions": {
+        "ja": "FCSV04_ScaffoldCornerExample",
+        "en": "FCSV04_ScaffoldCornerExample",
+        "zh-CN": "FCSV04_ScaffoldCornerExample"
+      },
+      "zip_file": "FCSV04_ScaffoldCornerExample_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip",
+      "theme": "fortified_city_access",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

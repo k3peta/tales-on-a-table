@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **941 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **945 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **945 records** (941 + 2 components + 2 assemblies; gate revision +0, new stairs0). [Fortified access v2](catalog/fortified_city_access_v2.md).
 
 - 2026-10-24 JST — **941 records** (929 + 12 standalone components; 4 reused models and 4 private scenes excluded). [Husbandry and cellar](catalog/husbandry_cellar_v1.md).
 
