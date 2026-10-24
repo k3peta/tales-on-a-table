@@ -6,7 +6,7 @@ BM073 yellow tomato704tri and BM074 green pumpkin4444tri: packed UV fruit-surfac
 
 10配布レコード/10モデル査定。黄トマト・緑南瓜variant2件、基本・改訂加算0。10个配布记录/10个模型；黄色番茄与绿色南瓜两个材质变体，基础数量不变。
 
-Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not color loss. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not color loss. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed516 distribution records;492 remain;143 polygon-budget issues unchanged. BM007/BM054 diagnoses remain unresolved. BM072 plate and BM079 divided-box repeated wood bands remain material-improvement candidates, not repaired or established wrong-normal references. BM071 sparrow catalog depth differs0.596mm from vertex bounds: catalog matches transformed local bounding-box union; direct dimension comparison remains false, original unchanged. This source measurement discrepancy does not concern the two adopted fruit variants. BM029 failed candidate remains distinct from public original.
 
@@ -45,3 +45,5 @@ Vegetable surface color replaced by packed UV textures; original geometry, UV an
 [![BM_074__green_pumpkin close_comparison](../previews/quality-bm071-080-v1/BM_074__green_pumpkin_close_comparison.png)](../previews/quality-bm071-080-v1/BM_074__green_pumpkin_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm071-080-v1/validation.json).
