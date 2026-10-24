@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 162,
-      "id_mapped_preview": 162,
+      "records": 164,
+      "id_mapped_preview": 164,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 162,
-      "formats_known": 162,
+      "purpose_en_present": 164,
+      "formats_known": 164,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -21248,7 +21248,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_051_CC0.zip",
       "pictured_zip_sha256": "28b82cc84d8d09f373e794ccc791c19769e7dfdd548e2fb40dca4b216793aa0b",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "312tri wheel chock;contact/load untested."
     },
     {
       "id": "BM_052",
@@ -21286,7 +21287,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_052_CC0.zip",
       "pictured_zip_sha256": "3c0af75886a316ac3b81fda8e762e72b23a923e9acd1db961d60aa4eafc011e1",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2288tri intentional loose rope,no cable physics."
     },
     {
       "id": "BM_053",
@@ -21324,7 +21326,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_053_CC0.zip",
       "pictured_zip_sha256": "7297632abf4c274eeba8130e4e326c6616edef187f8127228bf59bb67e69db4d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5082tri rolled raincloth,straps/layers retained."
     },
     {
       "id": "BM_054",
@@ -21361,7 +21364,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_054_CC0.zip",
       "pictured_zip_sha256": "3577d9613d155befd820142199c183e8cc941a6e5702b1e76f5d3294be59628f",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2744tri tea vessel;narrow mouth limits content readability,detached liquid not established,generator intent unavailable;diagnosis open."
     },
     {
       "id": "BM_055",
@@ -21398,7 +21402,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_055_CC0.zip",
       "pictured_zip_sha256": "e8686f308faef1f44cc408cd75ddffe023d44f3abbf1d092d5d90f1139301bfd",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1796tri bitten bread,crumbs intentional not separate models."
     },
     {
       "id": "BM_056",
@@ -21435,7 +21440,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_056_CC0.zip",
       "pictured_zip_sha256": "9a7a7a10cd9ac50202d753a9e975b6778b25350393cb46a61a2809ebeab81a74",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1806tri tied letters,string/seal retained."
     },
     {
       "id": "BM_057",
@@ -21472,7 +21478,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_057_CC0.zip",
       "pictured_zip_sha256": "b4e865d5f083392b3bb5485fd83b0aded6275c9f926c2c9f9a899dae13b8cd9f",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "15886tri map plus15309tri rolled-painting member;one distribution record."
     },
     {
       "id": "BM_058",
@@ -21509,7 +21516,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_058_CC0.zip",
       "pictured_zip_sha256": "8294bf8a0372f34abf1f6235e7f145cc3feacfbfae35ec44f6b461947ff3db6c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1952tri display table below50k;structural strength untested."
     },
     {
       "id": "BM_059",
@@ -21546,7 +21554,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_059_CC0.zip",
       "pictured_zip_sha256": "d2a90fae8b5247d2edaae25afe28b68a877d4fe538e8e8368dbbcf3bc06cdb3c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3304tri awning;blue/green stripe variants retain geometry/UV/attribute presence and other material channels."
     },
     {
       "id": "BM_060",
@@ -21583,7 +21592,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_060_CC0.zip",
       "pictured_zip_sha256": "a2084d07f2da3f1c36acba48b80596afa515091404c58e23f57f82b1d92a935e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "12020tri basket below20k;woven sides/rim retained."
     },
     {
       "id": "BM_061",
@@ -45948,6 +45958,80 @@
       "uv_revision": "original UV and vertex colors retained; main fabric UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_043_CC0.zip",
       "pictured_zip_sha256": "ef7a402547961d8a51d490c80b4c9221411bdaf2887c61f6a03cfc3db86ecaa4",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_059__blue_stripe",
+      "kind": "variant",
+      "base_id": "BM_059",
+      "name_en": "Striped canvas awning",
+      "name_ja": "縞布の市庇",
+      "purpose_en": "Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.",
+      "record_kind": "model",
+      "image": "previews/quality-bm051-060-v1/BM_059__blue_stripe_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__blue_stripe_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm051_bm060.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm051-060-v1/BM_059__blue_stripe_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; awning colored-stripe UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_059_CC0.zip",
+      "pictured_zip_sha256": "d2a90fae8b5247d2edaae25afe28b68a877d4fe538e8e8368dbbcf3bc06cdb3c",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_059__green_stripe",
+      "kind": "variant",
+      "base_id": "BM_059",
+      "name_en": "Striped canvas awning",
+      "name_ja": "縞布の市庇",
+      "purpose_en": "Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.",
+      "record_kind": "model",
+      "image": "previews/quality-bm051-060-v1/BM_059__green_stripe_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__green_stripe_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm051_bm060.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm051-060-v1/BM_059__green_stripe_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; awning colored-stripe UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_059_CC0.zip",
+      "pictured_zip_sha256": "d2a90fae8b5247d2edaae25afe28b68a877d4fe538e8e8368dbbcf3bc06cdb3c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

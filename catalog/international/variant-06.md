@@ -575,3 +575,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_043](base-20.md#bm_043) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_043__bluebag_CC0.zip) · [Full comparison](../../previews/quality-bm041-050-v1/BM_043__bluebag_overview_comparison.png) · [Details](../material_variants_bm041_bm050.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_059__blue_stripe
+
+**Striped canvas awning** · 縞布の市庇
+
+[![BM_059__blue_stripe](../../previews/quality-bm051-060-v1/BM_059__blue_stripe_thumb.png)](../../previews/quality-bm051-060-v1/BM_059__blue_stripe_overview_comparison.png)
+
+Use: Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_059](base-21.md#bm_059) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__blue_stripe_CC0.zip) · [Full comparison](../../previews/quality-bm051-060-v1/BM_059__blue_stripe_overview_comparison.png) · [Details](../material_variants_bm051_bm060.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_059__green_stripe
+
+**Striped canvas awning** · 縞布の市庇
+
+[![BM_059__green_stripe](../../previews/quality-bm051-060-v1/BM_059__green_stripe_thumb.png)](../../previews/quality-bm051-060-v1/BM_059__green_stripe_overview_comparison.png)
+
+Use: Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_059](base-21.md#bm_059) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__green_stripe_CC0.zip) · [Full comparison](../../previews/quality-bm051-060-v1/BM_059__green_stripe_overview_comparison.png) · [Details](../material_variants_bm051_bm060.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

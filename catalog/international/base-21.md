@@ -170,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality50:** 312tri wheel chock;contact/load untested. [Details](../material_variants_bm051_bm060.md).
+
 ## BM_052
 
 **Uncoiled cargo rope**
@@ -191,6 +193,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality50:** 2288tri intentional loose rope,no cable physics. [Details](../material_variants_bm051_bm060.md).
 
 ## BM_053
 
@@ -214,6 +218,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality50:** 5082tri rolled raincloth,straps/layers retained. [Details](../material_variants_bm051_bm060.md).
+
 ## BM_054
 
 **Unfinished cup of tea**
@@ -235,6 +241,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality50:** 2744tri tea vessel;narrow mouth limits content readability,detached liquid not established,generator intent unavailable;diagnosis open. [Details](../material_variants_bm051_bm060.md).
 
 ## BM_055
 
@@ -258,6 +266,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality50:** 1796tri bitten bread,crumbs intentional not separate models. [Details](../material_variants_bm051_bm060.md).
+
 ## BM_056
 
 **Bundle of old letters**
@@ -279,6 +289,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality50:** 1806tri tied letters,string/seal retained. [Details](../material_variants_bm051_bm060.md).
 
 ## BM_057
 
@@ -302,6 +314,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality50:** 15886tri map plus15309tri rolled-painting member;one distribution record. [Details](../material_variants_bm051_bm060.md).
+
 ## BM_058
 
 **Planked trestle counter**
@@ -323,6 +337,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality50:** 1952tri display table below50k;structural strength untested. [Details](../material_variants_bm051_bm060.md).
 
 ## BM_059
 
@@ -346,6 +362,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality50:** 3304tri awning;blue/green stripe variants retain geometry/UV/attribute presence and other material channels. [Details](../material_variants_bm051_bm060.md).
+
 ## BM_060
 
 **Woven basket**
@@ -367,6 +385,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality50:** 12020tri basket below20k;woven sides/rim retained. [Details](../material_variants_bm051_bm060.md).
 
 ## BM_061
 

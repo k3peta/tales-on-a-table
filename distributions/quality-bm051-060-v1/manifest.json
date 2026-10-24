@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "BM_059__blue_stripe",
+      "base_id": "BM_059",
+      "entity_type": "material_variant",
+      "zip": "BM_059__blue_stripe_CC0.zip",
+      "sha256": "ce8df5e3983d43713ef89dd7dca57917888788c3117e631f16cc1c0d02a5a2e9",
+      "bytes": 798514,
+      "description": "Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__blue_stripe_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BM_059__green_stripe",
+      "base_id": "BM_059",
+      "entity_type": "material_variant",
+      "zip": "BM_059__green_stripe_CC0.zip",
+      "sha256": "7cceb48fc184d32660486e4f3e61440776bdb1f6ac5b4e8ce071d53fef46849c",
+      "bytes": 798538,
+      "description": "Awning colored stripe base color replaced by packed UV texture; geometry, UV and original attribute presence retained. Ivory stripes, wood and other material channels unchanged. No emission added.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm051-060-v1/BM_059__green_stripe_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 0
+}
