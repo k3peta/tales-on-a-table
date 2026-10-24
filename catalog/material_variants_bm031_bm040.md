@@ -6,7 +6,7 @@ BM034 rust-red cushion and BM037 blue cloth bundle: main fabric tint only. Origi
 
 10配布レコード・収録13モデルを査定。赤い座布団と青い布包の材質variant2件、基本・改訂加算0。10个配布记录/13个模型；红色坐垫、蓝色布包两个材质变体，基础数量不变。
 
-Same camera/light/scale comparison. Authoritative final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex colors. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Authoritative final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex colors. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed476 distribution records;532 remain;137 polygon-budget issues remain. BM007 attachment diagnosis unresolved. BM029 blue-glass candidate remains rejected and unpublished; public original colors are present. Exact shader/export cause is not isolated; alpha alone is not established as cause. Failed candidate is not evidence of a defect in the public original.
 
@@ -45,3 +45,5 @@ Blue UV tint on cloth bundle main rust fabric. Original geometry, UV, vertex col
 [![BM_037__bluecloth close_comparison](../previews/quality-bm031-040-v1/BM_037__bluecloth_close_comparison.png)](../previews/quality-bm031-040-v1/BM_037__bluecloth_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm031-040-v1/validation.json).
