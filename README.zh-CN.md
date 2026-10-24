@@ -2,9 +2,11 @@
 
 当前已公开 **1008条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
-**45个材质变体单独统计**；既有1008条分发记录不变，新基本形状0。
+**54个材质变体单独统计**；既有1008条分发记录不变，新基本形状0。
 
 ## 发布历史
+
+- 2026-10-24 JST — Material variants54=45+9; existing1008 unchanged; original UV0 retained, WearUV added. [FT021–030 images](catalog/material_variants_ft021_030.md).
 
 - 2026-10-24 JST — Material variants45 =20+25; existing1008 unchanged, new base shapes0. [FT011–020](catalog/material_variants_ft011_020.md).
 

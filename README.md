@@ -2,9 +2,11 @@
 
 現在の公開数は **1008配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
-材質variant **45件を別集計**。既存1008配布レコードは据置、新基本形状0。
+材質variant **54件を別集計**。既存1008配布レコードは据置、新基本形状0。
 
 ## 公開履歴
+
+- 2026-10-24 JST — Material variants54=45+9; existing1008 unchanged; original UV0 retained, WearUV added. [FT021–030 images](catalog/material_variants_ft021_030.md).
 
 - 2026-10-24 JST — Material variants45 =20+25; existing1008 unchanged, new base shapes0. [FT011–020](catalog/material_variants_ft011_020.md).
 
