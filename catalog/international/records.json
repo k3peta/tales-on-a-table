@@ -22514,7 +22514,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT007.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "Original black end patches; QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
       "revision_history": [
         {
           "id": "WT007__repair",
@@ -22522,7 +22522,8 @@
           "geometry_revision": "channel_fitted_water_v2",
           "image": "previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png",
           "comparison": "previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png",
-          "status": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified."
+          "status": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
+          "qa_status": "reconciliation_pending"
         }
       ]
     },
@@ -22556,7 +22557,7 @@
       "uv_revision": null,
       "full_image": "previews/mill-terrain-apiary24/renders/WT008.png",
       "image_manifest": "previews/mill-terrain-apiary24/manifest.json",
-      "known_issue": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified.",
+      "known_issue": "Original black end patches; QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
       "revision_history": [
         {
           "id": "WT008__repair",
@@ -22564,7 +22565,8 @@
           "geometry_revision": "channel_fitted_water_v2",
           "image": "previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png",
           "comparison": "previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png",
-          "status": "Original version: Dark stream-end triangular patches remain unresolved. Exterior inward-normal hypothesis was not supported; exact cause unknown. Image acceptance is not model-quality approval. Revised version channel_fitted_water_v2 repairs this scoped defect; functional safety and compatibility remain unverified."
+          "status": "QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.",
+          "qa_status": "reconciliation_pending"
         }
       ]
     },

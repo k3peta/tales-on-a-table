@@ -1,5 +1,14 @@
 # 水磨坊
 
+**WT007/WT008 — QA status pending / 検査記録の照合待ち / 检查记录待核对**
+
+QA reconciliation pending: final numerical BLEND/GLB report records passes, but a separate summary still records a false reimport flag. The discrepancy is unresolved. This published revision is not fully QA-cleared or a confirmed recommended replacement. Download/CRC/SHA verification does not resolve model QA.
+
+最終数値記録は合格ですが、別QAのfalseフラグと不一致が残っています。解消まで全検査合格・推奨修正版とは扱いません。旧版にも既知の黒断面があり、旧版が正常と確認されたわけではありません。
+
+最终数值记录为通过，另一份QA标志仍为false。差异未解决，不视为全部验证通过或推荐替换版。原版也有已知黑断面。
+
+
 [日本語](watermill.md) · [English](watermill.en.md) · [简体中文](watermill.zh-CN.md)
 
 25个分发条目，23种设计。羊的三种姿态按一种设计计算。WT001–008为旧水磨坊地形原型，与新版2米地形v2并非完全兼容。
@@ -244,7 +253,7 @@ Path bend NE
 
 [Full image](../previews/mill-terrain-apiary24/renders/WT006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT006_CC0.zip)
 
-**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; channel_fitted_water_v2 repair available below. Original images retained.
+**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; published channel_fitted_water_v2 has unresolved QA-record reconciliation; see notice above. Original images retained.
 
 ### WT007 — Stream straight NS
 
@@ -254,7 +263,7 @@ Stream straight NS
 
 [Full image](../previews/mill-terrain-apiary24/renders/WT007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT007_CC0.zip)
 
-**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; channel_fitted_water_v2 repair available below. Original images retained.
+**Original-version issue (history):** Black end patches were unresolved at image publication. Water/bank overlap subsequently identified; published channel_fitted_water_v2 has unresolved QA-record reconciliation; see notice above. Original images retained.
 
 ### WT008 — Stream bend NE
 
@@ -268,13 +277,13 @@ Stream bend NE
 
 Original archives/images above remain as version history. Scoped defects repaired; no new record count.
 
-### WT007 — channel_fitted_water_v2
+### WT007 — channel_fitted_water_v2 (QA pending)
 
 [![Revised WT007](../previews/quality-wt007-008-repair-v1/WT007__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT007__repair_comparison.png)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v1/WT007__repair_CC0.zip) · [Scope and comparison](wt007_008_repairs.md)
 
-### WT008 — channel_fitted_water_v2
+### WT008 — channel_fitted_water_v2 (QA pending)
 
 [![Revised WT008](../previews/quality-wt007-008-repair-v1/WT008__repair_thumb.png)](../previews/quality-wt007-008-repair-v1/WT008__repair_comparison.png)
 
