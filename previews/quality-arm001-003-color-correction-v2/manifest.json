@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ARM_001__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_thumb.png",
+    "sha256": "c91c8429db594ae159e3e67ba9f2571213e1e4b4a799c9662748d84874f9ce83",
+    "zip_sha256": "466ebe007a33060f8359b713bee941ffc9fb1c4232056e5ccd083c77ec5799a1",
+    "members": {
+      "ARM_001__repair_color_v2.blend": "ee91def10baa80539ffa250a86b23494d50846118e67751cb33ba4765832ab83",
+      "ARM_001__repair_color_v2.glb": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295"
+    }
+  },
+  {
+    "id": "ARM_001__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_overview_comparison.png",
+    "sha256": "1cf5774de039036490c8d3b4119f1f1d610dbe9df9a89fb36e7eb97e675d1ccd",
+    "zip_sha256": "466ebe007a33060f8359b713bee941ffc9fb1c4232056e5ccd083c77ec5799a1",
+    "members": {
+      "ARM_001__repair_color_v2.blend": "ee91def10baa80539ffa250a86b23494d50846118e67751cb33ba4765832ab83",
+      "ARM_001__repair_color_v2.glb": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295"
+    }
+  },
+  {
+    "id": "ARM_001__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_close_comparison.png",
+    "sha256": "0b07d9c0e56be85e5b887ae72577933ac27780f0022bc4dedbca106d403b46ee",
+    "zip_sha256": "466ebe007a33060f8359b713bee941ffc9fb1c4232056e5ccd083c77ec5799a1",
+    "members": {
+      "ARM_001__repair_color_v2.blend": "ee91def10baa80539ffa250a86b23494d50846118e67751cb33ba4765832ab83",
+      "ARM_001__repair_color_v2.glb": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295"
+    }
+  },
+  {
+    "id": "ARM_003__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_thumb.png",
+    "sha256": "ae576324676379f1a1bd4623ca532811fa989646bacef6223338841ef6d5835a",
+    "zip_sha256": "aefe728d430b5027f2d19c5a7ddb3bfab96a7286f1f54474205c55429e5fb1ec",
+    "members": {
+      "ARM_003__repair_color_v2.blend": "fe8e43da19b68e83b20fbbf34660397b725e444dd8a3a4aa7f13f8eb12e015b7",
+      "ARM_003__repair_color_v2.glb": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b"
+    }
+  },
+  {
+    "id": "ARM_003__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_overview_comparison.png",
+    "sha256": "a6bd6c3a091baaf01ecfa9b4d2bbb83fa0b438eb94f77fe93e9a4da03fdc67f4",
+    "zip_sha256": "aefe728d430b5027f2d19c5a7ddb3bfab96a7286f1f54474205c55429e5fb1ec",
+    "members": {
+      "ARM_003__repair_color_v2.blend": "fe8e43da19b68e83b20fbbf34660397b725e444dd8a3a4aa7f13f8eb12e015b7",
+      "ARM_003__repair_color_v2.glb": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b"
+    }
+  },
+  {
+    "id": "ARM_003__repair_color_v2",
+    "file": "previews/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_close_comparison.png",
+    "sha256": "a6955c334d0733f9146a9a71571f5a5c1917bce4ebc82ddcccadb8fbf3f5af6a",
+    "zip_sha256": "aefe728d430b5027f2d19c5a7ddb3bfab96a7286f1f54474205c55429e5fb1ec",
+    "members": {
+      "ARM_003__repair_color_v2.blend": "fe8e43da19b68e83b20fbbf34660397b725e444dd8a3a4aa7f13f8eb12e015b7",
+      "ARM_003__repair_color_v2.glb": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b"
+    }
+  }
+]

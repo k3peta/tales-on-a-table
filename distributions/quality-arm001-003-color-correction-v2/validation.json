@@ -1,0 +1,171 @@
+{
+  "status": "public_retrieval_pending",
+  "guard_run": "6b5d7175-d420-45a8-8388-97fd7e4ac5e4",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "numeric": [
+    {
+      "id": "ARM_001__repair_color_v2",
+      "formats": {
+        "blend": {
+          "triangles": 10426,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10426,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_003__repair_color_v2",
+      "formats": {
+        "blend": {
+          "triangles": 41808,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 41808,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "color_roundtrip": [
+    {
+      "id": "ARM_001__repair_color_v2",
+      "formats": {
+        "glb": {
+          "pass": true,
+          "sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+          "colored_triangle_count": 10426,
+          "oriented_triangle_colors_sha256": "7f799fb2555d1b1ccd1bbba69e12a226e0b139f4a2168cb92120c1c6e2a65163"
+        },
+        "blend": {
+          "pass": true,
+          "sha256": "ee91def10baa80539ffa250a86b23494d50846118e67751cb33ba4765832ab83",
+          "colored_triangle_count": 10426,
+          "oriented_triangle_colors_sha256": "7f799fb2555d1b1ccd1bbba69e12a226e0b139f4a2168cb92120c1c6e2a65163"
+        }
+      },
+      "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+    },
+    {
+      "id": "ARM_003__repair_color_v2",
+      "formats": {
+        "glb": {
+          "pass": true,
+          "sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+          "colored_triangle_count": 41808,
+          "oriented_triangle_colors_sha256": "d52b9d1a19f77ba739a46b0182fb804e319d20c7bd53e5a632211dc1da6a562e"
+        },
+        "blend": {
+          "pass": true,
+          "sha256": "fe8e43da19b68e83b20fbbf34660397b725e444dd8a3a4aa7f13f8eb12e015b7",
+          "colored_triangle_count": 41808,
+          "oriented_triangle_colors_sha256": "d52b9d1a19f77ba739a46b0182fb804e319d20c7bd53e5a632211dc1da6a562e"
+        }
+      },
+      "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "known_missing_color_rejected": true,
+      "expected_color_correspondence_groups": 10426,
+      "actual_color_correspondence_groups": 10426
+    },
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "known_missing_color_rejected": true,
+      "expected_color_correspondence_groups": 10426,
+      "actual_color_correspondence_groups": 10426
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "known_missing_color_rejected": true,
+      "expected_color_correspondence_groups": 41808,
+      "actual_color_correspondence_groups": 41808
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "known_missing_color_rejected": true,
+      "expected_color_correspondence_groups": 41808,
+      "actual_color_correspondence_groups": 41808
+    }
+  ],
+  "impact_summary": {
+    "color0_lost": 2,
+    "no_source_vertex_colors": 119,
+    "public_confirmed_affected": [
+      {
+        "id": "ARM_001__repair",
+        "batch": "quality-td017-arm013-v1-20261024",
+        "lost_nodes": 8,
+        "zip_sha256": "3a4340294e5168dcb3247c905d3dc14a3018de02d267d5d28655d85d53fd473b"
+      },
+      {
+        "id": "ARM_003__repair",
+        "batch": "quality-td017-arm013-v1-20261024",
+        "lost_nodes": 6,
+        "zip_sha256": "07a7ad6955d986bd89030052380a2e6910ff75618c94171828e4960db5ca3a15"
+      }
+    ],
+    "public_hash_confirmed_records": 121,
+    "color0_retained_value_verified_by_bound_gate": 2
+  },
+  "impact_scope": "121 GLB attribute-presence checks, not full color-value/BLEND checks or all1008 records",
+  "packages": [
+    {
+      "id": "ARM_001__repair_color_v2",
+      "zip": "ARM_001__repair_color_v2_CC0.zip",
+      "zip_sha256": "466ebe007a33060f8359b713bee941ffc9fb1c4232056e5ccd083c77ec5799a1",
+      "members": {
+        "ARM_001__repair_color_v2.blend": "ee91def10baa80539ffa250a86b23494d50846118e67751cb33ba4765832ab83",
+        "ARM_001__repair_color_v2.glb": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295"
+      },
+      "zip_mtime_ns": 1792857205289643329
+    },
+    {
+      "id": "ARM_003__repair_color_v2",
+      "zip": "ARM_003__repair_color_v2_CC0.zip",
+      "zip_sha256": "aefe728d430b5027f2d19c5a7ddb3bfab96a7286f1f54474205c55429e5fb1ec",
+      "members": {
+        "ARM_003__repair_color_v2.blend": "fe8e43da19b68e83b20fbbf34660397b725e444dd8a3a4aa7f13f8eb12e015b7",
+        "ARM_003__repair_color_v2.glb": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b"
+      },
+      "zip_mtime_ns": 1792857205458215116
+    }
+  ]
+}

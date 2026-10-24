@@ -11395,6 +11395,21 @@
             "GLB": "vertex_color_preservation_failed",
             "BLEND": "color_preservation_not_cleared_by_this_alert"
           }
+        },
+        {
+          "id": "ARM_001__repair_color_v2",
+          "base_id": "ARM_001",
+          "entity_type": "revision",
+          "zip": "ARM_001__repair_color_v2_CC0.zip",
+          "sha256": "466ebe007a33060f8359b713bee941ffc9fb1c4232056e5ccd083c77ec5799a1",
+          "bytes": 707897,
+          "description": "Corrected revision: preserve original vertex colors on all surviving faces, remove only exact-zero area faces (ARM001 42, ARM003 96). Supersedes earlier repair with missing color attributes. Not a new model or material variant; ARM003 budget unresolved.",
+          "scope_note": "Static; no functional or collision validation",
+          "supersedes_id": "ARM_001__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_001__repair_color_v2_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_color_guard_passed_public_match_pending"
         }
       ]
     },
@@ -11477,6 +11492,21 @@
             "GLB": "vertex_color_preservation_failed",
             "BLEND": "color_preservation_not_cleared_by_this_alert"
           }
+        },
+        {
+          "id": "ARM_003__repair_color_v2",
+          "base_id": "ARM_003",
+          "entity_type": "revision",
+          "zip": "ARM_003__repair_color_v2_CC0.zip",
+          "sha256": "aefe728d430b5027f2d19c5a7ddb3bfab96a7286f1f54474205c55429e5fb1ec",
+          "bytes": 2037958,
+          "description": "Corrected revision: preserve original vertex colors on all surviving faces, remove only exact-zero area faces (ARM001 42, ARM003 96). Supersedes earlier repair with missing color attributes. Not a new model or material variant; ARM003 budget unresolved.",
+          "scope_note": "Static; no functional or collision validation",
+          "supersedes_id": "ARM_003__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm001-003-color-correction-v2/ARM_003__repair_color_v2_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_color_guard_passed_public_match_pending"
         }
       ]
     },
