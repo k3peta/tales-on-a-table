@@ -24170,7 +24170,8 @@
         {
           "id": "FP021__repair",
           "catalog": "catalog/material_variants_fp018_pm002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "24 exact-zero faces removed3580→3556tri;periodic leather texture remains."
@@ -24450,7 +24451,8 @@
         {
           "id": "FP025__repair",
           "catalog": "catalog/material_variants_fp018_pm002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "24 exact-zero faces removed17982→17958tri;positive tiny surfaces retained;blue linen uses repaired baseline."

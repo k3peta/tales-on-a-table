@@ -350,6 +350,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Quality55:** 24 exact-zero faces removed3580→3556tri;periodic leather texture remains. [Details](../material_variants_fp018_pm002.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP021__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp018-pm002-v1/FP021__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## FP022
 
 **Old iron padlock**
@@ -459,6 +461,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 **Quality55:** 24 exact-zero faces removed17982→17958tri;positive tiny surfaces retained;blue linen uses repaired baseline. [Details](../material_variants_fp018_pm002.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__repair_CC0.zip) · [Matching revision preview](../../previews/quality-fp018-pm002-v1/FP025__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## PM001
 

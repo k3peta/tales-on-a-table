@@ -30,10 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "FP021",
-      "FP025"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -49,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 852,
-      "exact_image_zip_evidence": 154,
-      "exact_image_zip_binding_public_retrieval_pending": 2
+      "exact_image_zip_evidence": 156
     }
   },
   "items": [
@@ -10402,16 +10398,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP021__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "FP021__repair",
             "zip_sha256": "0a22b277282517b726872a3c6f8fa251de40fe4c0a0d2dd81919cb7fdbfff1ba",
             "image": "previews/quality-fp018-pm002-v1/FP021__repair_thumb.png",
             "image_sha256": "70fdd2e643abf29a8ea5cd45c996acb339915666898d52dd657ddcc899f2c8ae",
-            "evidence": "Final ZIP/source image hashes verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "2fd87021525d3605d1154bb97d726cbb9a23ba42"
       }
     },
     {
@@ -10478,16 +10475,17 @@
         "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__repair_CC0.zip",
         "license": "CC0-1.0",
         "license_scope": "model geometry and embedded materials only",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "images": [
           {
             "id": "FP025__repair",
             "zip_sha256": "36f2b6fca1729c834156940d5a6b681a84d957fccfd33b2410a96838c97204a6",
             "image": "previews/quality-fp018-pm002-v1/FP025__repair_thumb.png",
             "image_sha256": "180446350b588e0be0d36d4b0fe735d57b78e7e8d2c1e58aad0356fd1536cddb",
-            "evidence": "Final ZIP/source image hashes verified locally; public retrieval pending"
+            "evidence": "Public final ZIP/member and thumbnail matched"
           }
-        ]
+        ],
+        "public_identity_verified_commit": "2fd87021525d3605d1154bb97d726cbb9a23ba42"
       }
     },
     {
