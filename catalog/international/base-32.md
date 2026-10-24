@@ -370,7 +370,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow rock exposed
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR051](../../previews/terrain-tr051-ud24/thumbnails/TR051.png)](../../previews/terrain-tr051-ud24/renders/TR051.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR051.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -392,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow grass exposed
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR052](../../previews/terrain-tr051-ud24/thumbnails/TR052.png)](../../previews/terrain-tr051-ud24/renders/TR052.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR052.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -414,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow ice patch
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR053](../../previews/terrain-tr051-ud24/thumbnails/TR053.png)](../../previews/terrain-tr051-ud24/renders/TR053.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR053.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -436,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow forest floor
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR054](../../previews/terrain-tr051-ud24/thumbnails/TR054.png)](../../previews/terrain-tr051-ud24/renders/TR054.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR054.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -458,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow sand transition
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR055](../../previews/terrain-tr051-ud24/thumbnails/TR055.png)](../../previews/terrain-tr051-ud24/renders/TR055.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR055.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -480,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow compacted tracks
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR056](../../previews/terrain-tr051-ud24/thumbnails/TR056.png)](../../previews/terrain-tr051-ud24/renders/TR056.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR056.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -502,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 grass forest transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR057](../../previews/terrain-tr051-ud24/thumbnails/TR057.png)](../../previews/terrain-tr051-ud24/renders/TR057.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR057.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -524,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 grass forest transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR058](../../previews/terrain-tr051-ud24/thumbnails/TR058.png)](../../previews/terrain-tr051-ud24/renders/TR058.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR058.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -546,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 grass rock transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR059](../../previews/terrain-tr051-ud24/thumbnails/TR059.png)](../../previews/terrain-tr051-ud24/renders/TR059.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR059.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

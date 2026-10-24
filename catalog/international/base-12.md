@@ -310,6 +310,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality29:** 23076tri exceeds small-prop budget; positive tiny faces retained. [Details](../material_variants_ws009_018.md).
+
 ## WS_010
 
 **Research desk with drawers**
@@ -398,6 +400,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality29:** 628692tri,12.57 times furniture budget; repeated-detail redesign unresolved. [Details](../material_variants_ws009_018.md).
+
 ## WS_014
 
 **Sloped reading lectern**
@@ -419,6 +423,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/chapel_training_v1.md) · [Catalogue 2](../../catalog/wizard-study.en.md) · [Catalogue 3](../../catalog/wizard-study.md)
+
+**Quality29:** 128 zero-area faces removed; positive surface faces/UV retained, original version preserved. [Details](../material_variants_ws009_018.md).
 
 ## WS_015
 
@@ -507,6 +513,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality29:** 53460tri exceeds small-prop budget; cross-engine glass rendering untested. [Details](../material_variants_ws009_018.md).
 
 ## WS_019
 

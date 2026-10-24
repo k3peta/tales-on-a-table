@@ -733,3 +733,33 @@
 位置 73%, 53% · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/UB904_CC0.zip)
 
 個別サムネイルは画像内ID付き384px、各モデルを自動フィット撮影しているため縮尺は共通ではありません。TV204/TU701/TU704は入口側視点。元集合画像を保持。隠面・全接続・動作/衝突は未検証。画像はモデルCC0対象外。
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+**Known issue:** Dark shadow below water leading edge retained faithfully; diagnosis unresolved, not certified defect-free.
+
+### UC1001 — Shallow ford
+
+浅瀬
+
+[![UC1001](../previews/terrain-tr051-ud24/thumbnails/UC1001.png)](../previews/terrain-tr051-ud24/renders/UC1001.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UC1001.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1001_CC0.zip)
+
+### UC1002 — Cave skylight
+
+縦穴付き洞
+
+[![UC1002](../previews/terrain-tr051-ud24/thumbnails/UC1002.png)](../previews/terrain-tr051-ud24/renders/UC1002.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UC1002.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1002_CC0.zip)
+
+### UD1101 — Under-rim drain
+
+縁下排水口
+
+[![UD1101](../previews/terrain-tr051-ud24/thumbnails/UD1101.png)](../previews/terrain-tr051-ud24/renders/UD1101.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UD1101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip)

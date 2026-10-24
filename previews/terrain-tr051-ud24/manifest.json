@@ -1,0 +1,702 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "TR051",
+      "source_zip_sha256": "d1eb531c63e2a46b8210287015c06090b6b9caed41026d0625e8dd61150a8a57",
+      "source_glb_sha256": "2664dc87270ebdf86761b35641ac1312699194c13ede709cfee264f102d2d7f6",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.664280891418457
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR051_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR051.png",
+      "image_source_sha256": "f03499523e64cbbaf401b8872f26d25d8d6737dd0600e0bc152fc26b86da1da7",
+      "image_sha256": "d87aa3bf65917681921660bd9e257acd88398a5bf5594337330264bc9db8595b",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR051.png",
+      "thumbnail_source_sha256": "b4b00f60f24ea4922bac84a7b42242c428de1432e72c06f735141dbbc49ab160",
+      "thumbnail_sha256": "abe30c94f39d46fb1346c45322d06a3ee959b5c89c633a87010c9dde7b1a03ad"
+    },
+    {
+      "id": "TR052",
+      "source_zip_sha256": "9fdccb0f861c7eefb449313c0113888bd2237ff7ed264c247401f705e8d92efa",
+      "source_glb_sha256": "3858b05f2b5207359107cd4548b7d59697c69ad2808e7396e4341cc48fe6c706",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6758230924606323
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR052_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR052.png",
+      "image_source_sha256": "7567a6ad98d03a00f940b2197d514ad4410c9c1e7e2b029984931caa18a66ca2",
+      "image_sha256": "905aeb1884b60e0c3431ae30be9366711af70e1fd6771a7144d0b3a9424525f2",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR052.png",
+      "thumbnail_source_sha256": "c27f157c6dcd03b2c8952d24af7bf8f793c83e4a41bd58772b8a343c350c737f",
+      "thumbnail_sha256": "a508c8705c30265cb053307a522979e3001490cad48178bfbc3a403f49b832f6"
+    },
+    {
+      "id": "TR053",
+      "source_zip_sha256": "067dd2d59415c093c764873faade51d6e95ec768ae1f8974d4e70865e3b14de6",
+      "source_glb_sha256": "cf792cf64f76656538a3ad52a91d5ab0b37829e496bb717fbf77b70ce789564f",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6175013780593872
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR053_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR053.png",
+      "image_source_sha256": "4d73a91071a103d840a45ee97eec53daf110f4fa942929ff88f7dcb00e5f6163",
+      "image_sha256": "0aef8c6dabfc4c1095b8ad868638bdb0afd342a73ffbda9d2ea407697cc12fe3",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR053.png",
+      "thumbnail_source_sha256": "f7e4c1d1f70f642b463f24d7263faf8c11ed6b724fa11736971bf3a205b61d49",
+      "thumbnail_sha256": "f89dfa41c3ef6f3fd3926d02bea5b674af118814e9ad3d7e41f738c7be29cdec"
+    },
+    {
+      "id": "TR054",
+      "source_zip_sha256": "745707becb6536d04ab5101608e98e90fc9aa6149e6563fb24eb547f602f8ff7",
+      "source_glb_sha256": "3a7ed982ff2c89c8febe356100261b3a9d979c74758d55b08345452079729d89",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6764479875564575
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR054_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR054.png",
+      "image_source_sha256": "52aeff1152649e5dc782d86d10b1b4a49c5804ddfc0dacefff630b4e79d0e49a",
+      "image_sha256": "66af3313c91dab38f98e10af8a035d076bbf4bae98a2d32ef8a74dbc2f09ecb6",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR054.png",
+      "thumbnail_source_sha256": "635d55ccda77b4214587522de9c43e7e4baf33dcd65ef000142190677a782a1d",
+      "thumbnail_sha256": "5e7fa2cb2ce4c99263e18ba9fd1aa8ab18693c7bdef869fc7cad7f0d003be23a"
+    },
+    {
+      "id": "TR055",
+      "source_zip_sha256": "bc069a397a233733abdf5dbee6643ccbac3157712a6cddc970a32d44335814eb",
+      "source_glb_sha256": "05946b1c8d6c0d5069e7a6d1e6cc559ff59b3af7ba1222e68f3e0ef3315f2184",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6173137426376343
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR055_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR055.png",
+      "image_source_sha256": "3d794acc0848de59bb70ad9947ca2e064685eeee4d1180be1a538d7674570c9a",
+      "image_sha256": "b7512d0131ba895d9078cada90035db48d74b591f2ec9e7401a8903ba6c1e393",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR055.png",
+      "thumbnail_source_sha256": "271651cb3cd55f9b0d5c1a7b3e91590a02af8552f734e1b7aeff03aa05c533d7",
+      "thumbnail_sha256": "9ddaa202ba65039b720ca3c9ecbb85f86c56551ac1e5dfc96d264b3b72d31c26"
+    },
+    {
+      "id": "TR056",
+      "source_zip_sha256": "9a66c7b5f61636ea4d6537e543062b0b18c978d2b0721f7734146219db4f6494",
+      "source_glb_sha256": "052162857e3996937026944141643620eff36185d04f389799a193b68e89a0d8",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6178359985351562
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR056_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR056.png",
+      "image_source_sha256": "034e1043aecc67e88cacec3df1db81a457191787730d486fb411472129043ecf",
+      "image_sha256": "4100dc4c7bb0274f5d6f78e1297c3085fdb1a4884c0b3d855c404d846f21d66f",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR056.png",
+      "thumbnail_source_sha256": "94a1bc176e8387d2db51ab0254e212c875cae32694142eee2acbb72e84c1c343",
+      "thumbnail_sha256": "aa758c4d8daf8e4b7d83a1943ce6b21683c5761467250fb9c125fde8bdbe32c9"
+    },
+    {
+      "id": "TR057",
+      "source_zip_sha256": "fc296ef849aa7306cd52fb1b5c31b3a7b73f6acc8fd674f986194d9b867bb974",
+      "source_glb_sha256": "265eef278b85cd4bfc1b3e2e72acb4f7884170eac02139f55bb0083c36d504fd",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6792895793914795
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR057_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR057.png",
+      "image_source_sha256": "47fd41438bac6430a97afcbe052c65c54c7bd5467e411dda07711a85496223cd",
+      "image_sha256": "5e58d3d44fda6eca83921260cbfd1f55292f438c2502b8552bc5a74d38a77693",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR057.png",
+      "thumbnail_source_sha256": "87f127e3e23dd21d2f677c03e24b05359bf8511c4a9d22e9cb80ac896139bfd1",
+      "thumbnail_sha256": "721c522d28a20388cb810d630ac6e1554a72974c485f01c9ed335f8e634baa1c"
+    },
+    {
+      "id": "TR058",
+      "source_zip_sha256": "5244b96bd37a695a400236a7b4e394e4568f1b99c147ed9288989dc2a7df4bec",
+      "source_glb_sha256": "82aa52f82f89ce01e21d9e00c4d3bafe00b423ac14266147358c1c54e754b913",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.675879955291748
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR058_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR058.png",
+      "image_source_sha256": "de0ae0186d9361e174d3e92e9c1813a448886001d26c8f62734b6a950e4a46ca",
+      "image_sha256": "578ebc7e79eec9ecd3bc2fd2d28a0f62bb54b57f608cd1453796c5289d6341f0",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR058.png",
+      "thumbnail_source_sha256": "7f9562ab09007631e677c103604abc252bd23a0c14a740a7f9ad5b33aea4666d",
+      "thumbnail_sha256": "80cbbfc129a70ca63a9402bbc11d25ed745c7a907dcf6e7745a239a67a624279"
+    },
+    {
+      "id": "TR059",
+      "source_zip_sha256": "8930ecb3e5d995209ab11e99268c9f1c403c947bd3d20a89eacd320cdddb3f76",
+      "source_glb_sha256": "bc67db5d08416d2d1be5816f94c5b3656c236d62b394095d0796fe9fec4be45d",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6792895793914795
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR059_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR059.png",
+      "image_source_sha256": "424ce533d9d6c6ce8323cbc589e494ffce0dca364e4716172cc99c2d88937e76",
+      "image_sha256": "19cd0df26e7655141ae00007811cb8dff53a32557949aaec9d7732b71c3f6975",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR059.png",
+      "thumbnail_source_sha256": "5e7094b1492ea43bdfdf29ff4e9b5d8352703f769ce28ba112e1d49827a14f71",
+      "thumbnail_sha256": "a069f35e07e456a99d759e2609c9db59982db0bf67b087bd802e7376e0516fdd"
+    },
+    {
+      "id": "TR060",
+      "source_zip_sha256": "fd34e98d918592082da7c518ec54dd49928c5f0eb50e00abbb50c6774fb350f3",
+      "source_glb_sha256": "36aac79004a88c2bfd75b56f216ed600744be4e2c5b22c9ce9f97713511fec38",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.675879955291748
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR060_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR060.png",
+      "image_source_sha256": "f77056bf6fe30556d51418e2ddf61479deee7f54f96e872123b787a01cfb316d",
+      "image_sha256": "314abff621b9d1941f134ba69709db9f6afea137a1e2ac369129d93efe3a101a",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR060.png",
+      "thumbnail_source_sha256": "daf87a82a65fef778a7bc1c0e506a0d1044d77891f9244b5b16066cf7c62667a",
+      "thumbnail_sha256": "ec482cbec0011a1f867e8572ffd498b6d0a2a3326618ed82a03168ababff1433"
+    },
+    {
+      "id": "TR061",
+      "source_zip_sha256": "388745ec9da7292ed8a90c265c515cd99ba9a6650528c6b0754dcbb9fca6b135",
+      "source_glb_sha256": "78b8e752878d6d79b77ee0cab235f55173fc1b004b5149c5f3c84cf49b1dbc2b",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6792895793914795
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR061_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR061.png",
+      "image_source_sha256": "3cb67ebc19f565c37c3710f2b85c0003769c4e044198290353415a04ecdf93dd",
+      "image_sha256": "9879ae360002df2df19ec37121ef081899f9475df868fa9ebb687a9b98521eef",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR061.png",
+      "thumbnail_source_sha256": "4975c3f3f9471c408d546ff61fb18b7475443467829f8596430e25dcb2cd6163",
+      "thumbnail_sha256": "e9d8ae7caf95c9f4628687960a6b3d22ea432357ed3efbdade097faf9becb39b"
+    },
+    {
+      "id": "TR062",
+      "source_zip_sha256": "1f9b1d026ff7dfcaf1db5c0070f2858d6288918d76ac4afa8f6f2ccdf0de643f",
+      "source_glb_sha256": "3c8e5e79cbd80872d896766cfd991504448f27130d7722d1e36544608f78313a",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.675879955291748
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR062_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR062.png",
+      "image_source_sha256": "71ac008e710455736000cc0696e03ed4ff896834312ab1cbec5f4fba73c9a64b",
+      "image_sha256": "8351f3f1a5f399bc8b0298cead5c5c93b53e37ed384e1675a6f79788ac278171",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR062.png",
+      "thumbnail_source_sha256": "95c81c36d1a48695084d79edb3c356319d630f70b77ff7e087db5301ea0ff411",
+      "thumbnail_sha256": "fc85186fa4f7724d61d646286e3044926f479350fa600e7739e297f28afdf741"
+    },
+    {
+      "id": "TR063",
+      "source_zip_sha256": "b6844247bb336083eaac470dea6aa1c6c943be6393294d14ce272254b0844f48",
+      "source_glb_sha256": "c3f1f9a52837f76596d97e81442c0b89b4251c09c62ad7d48174f0147a9190e6",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.7002060413360596
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR063_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR063.png",
+      "image_source_sha256": "3ff9fd9ffe5e9616af8e922d00fd92e66ad068557f9e368721fd6dee5a21c68a",
+      "image_sha256": "a29cc7be0386fa855e569a6c627add5724d4b2096d03e9ceb9334d6b89a98be4",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR063.png",
+      "thumbnail_source_sha256": "27d465c700a528a52fc22bb4f697cefa7e3ed87f706965c8399eee983c2b5531",
+      "thumbnail_sha256": "91d4499b7b8992be7b2a5108cddd858e50f13f4acf90824d9d467a122aecdaad"
+    },
+    {
+      "id": "TR064",
+      "source_zip_sha256": "e7fb0a3fa52ac4819b8b07ce4ad9c206d0eeeabdbf1408ca3af2404dc79c6457",
+      "source_glb_sha256": "48ebc0cf49e1a74170fe647dc2d678cb4d2a6a96bc4fb7c924f1503b4c6ba4bf",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.7002060413360596
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR064_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR064.png",
+      "image_source_sha256": "3ff6b45f745242023d4fbcfad031edcfa1c37aef1cf67dc1abf8124cd24efafb",
+      "image_sha256": "51baf7913cce8f91b3e773905e84bd89bcdc2f16e0337d47beeeab326128a47d",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR064.png",
+      "thumbnail_source_sha256": "b706886f076770a8414f01af86d9c4f3ad98f7f338403ec7fce91de641f2f549",
+      "thumbnail_sha256": "2ce4e97997d994991be4c71c2a2cdf64d6bdccea88a4733575af4a42972e5365"
+    },
+    {
+      "id": "TR065",
+      "source_zip_sha256": "930d9a25909ff98196211d9a92491ae19c63c465a05077185b47d4d45aec0d4e",
+      "source_glb_sha256": "326606a1d7b5025496cf525676294c4f05f389e9caa31dd8dcabde6f60ae0945",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.7002060413360596
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR065_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR065.png",
+      "image_source_sha256": "68482f967cc6b2216bd77d2c13568d77e322517ec5c6c663c90e86d58a959bed",
+      "image_sha256": "5665c51b9a1f00631fbfb51b3e857dbfd4e5e5d822a2504a1261184e553d8886",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR065.png",
+      "thumbnail_source_sha256": "c2f3053d63bc2e3064a4b01638811da876d4b90f1ada139fe940fd8cb898f8b3",
+      "thumbnail_sha256": "63f26890f08f251a5e232dce3dbcdaf5eea62dcbc850578cec3fc685948cb08d"
+    },
+    {
+      "id": "TR066",
+      "source_zip_sha256": "3e53f4b16c02550a6efa3a3706aaeb3400df87ac2536d31916d6316035462059",
+      "source_glb_sha256": "d53f369545a1fc74f24a73c0a2907db6e48c3cc8238cb1ab0a3602ee0dae2eb1",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.7002060413360596
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR066_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR066.png",
+      "image_source_sha256": "bea3b9775f1db7fe78345e4fe90590a27b0507e65e12501c108b0a16ffeb227d",
+      "image_sha256": "85bf3ff9c92ccdd9d1cb84589774f40beb131bbf720ec7827a6f340708a3d37b",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR066.png",
+      "thumbnail_source_sha256": "8b80a707ea6fc68842e018a53a692c6ce06860a6ab11f1145942cc8dc08fff4b",
+      "thumbnail_sha256": "2d9c8cf0f4cfb716458bc5bf982309a22e504fd36079d1c249b1cff37c3d52c9"
+    },
+    {
+      "id": "TR067",
+      "source_zip_sha256": "186f4830a493deda06446c15e9852e98433801780d37ab15d4bd02f9266048dc",
+      "source_glb_sha256": "1c122c129fefae796852fd3029ff4ac3f1e9f5b0e19491885a41005e93fd3442",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.650695562362671
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR067_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR067.png",
+      "image_source_sha256": "572ab74f40636fdfb74980d26dcf2d78f47da483b2fc4da2133a6c0b171c0c23",
+      "image_sha256": "3799c2f00b8d10f09989c2a7fdee6f30b8628bd0286a71998a08560d5f1b2720",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR067.png",
+      "thumbnail_source_sha256": "701c7a70869159c8b92f91cf849c061e6290e9080eff3b3ddb37818943d8e31a",
+      "thumbnail_sha256": "32ab0517ea70263dda7491bdc3695268474b88a70c6bdda498609fe0dde18f0b"
+    },
+    {
+      "id": "TR068",
+      "source_zip_sha256": "20d3c185d00a4e1894fcb159bced7551fe95ce9caff502f9bd9774a9efc3228f",
+      "source_glb_sha256": "7a24d955e7395db59d3058881551af3fae7309fec60e5065830e858876aa984f",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.650695562362671
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR068_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR068.png",
+      "image_source_sha256": "8f46fe6765d0a48628d46388558112ae5f3496125455562e89bc75910f67b8f2",
+      "image_sha256": "5c899da89f9c2bc167ce36ed35a95830ba074606e83e5ee88703330edaf9b8a6",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR068.png",
+      "thumbnail_source_sha256": "f41c70daec539c84af2e43b067a543474e9b6f69f3b4d9cbf6820ce7bfcf6624",
+      "thumbnail_sha256": "16b99ce1c6bad70ed420d5b857c83997393d46c4d31c5ec4080fac05fa7e460e"
+    },
+    {
+      "id": "TR069",
+      "source_zip_sha256": "914f61e2cf2482b71580f22e183eb37d5f6a2a881959127063fc8d8aaee17f4a",
+      "source_glb_sha256": "a59d7685d97f1eb26a22807598a34089fbdd214004c9c07d9546b39447e3e578",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6189266443252563
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR069_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR069.png",
+      "image_source_sha256": "f19c4bee75e03ab5d26fae6826585c9ccd495a9715ed748ce81a090814dc9523",
+      "image_sha256": "807cea1aba7c7ec970ef5166af105ca23ae17b4753303e13cee13f0658cc211f",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR069.png",
+      "thumbnail_source_sha256": "ca615017861a97b9ca4925e8d71a689eeb459f429d7ead716adda3eeecebc9f2",
+      "thumbnail_sha256": "8463e1003b00dabfe2afcd45fb9009966107663ce1a488bd25657d73c3886db9"
+    },
+    {
+      "id": "TR070",
+      "source_zip_sha256": "60d86afe188e53dfb56cd549bff924a3f4f81d15056b3fe221cb15fbd669a120",
+      "source_glb_sha256": "660e5bc8f44a2abd46250aae723a2896612ddfca6c0fcef628fdc57c49748f42",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6189266443252563
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "HQ; LITE not pictured",
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR070_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/TR070.png",
+      "image_source_sha256": "26bce3c2c1f93af4c27470775b70c93e367970001241640c9b8153cecc19ebea",
+      "image_sha256": "aaa03d9c08c44df2692a6b696cc1c39e407df056b7a55082bbc2e71ed2296b93",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/TR070.png",
+      "thumbnail_source_sha256": "34e7f8feffb29c8c814538199bd5ed9aebc1901b51cc587e76a7b16675a5cb77",
+      "thumbnail_sha256": "f06c53b9cc7f7b6b2382a41578d9a8af3c110ab9690017d5f805bfa96abf9895"
+    },
+    {
+      "id": "UC1001",
+      "source_zip_sha256": "bdd7e3ed0201e0434fe488ea17b780c036505e968fd5e688bc9221da4cac91d5",
+      "source_glb_sha256": "da4d91c48bfcd99dcf40f1b45678a85581fb3cc94eadac9e442e71a89373346c",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6099998950958252
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed source GLB; no LITE comparison",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/UC1001.png",
+      "image_source_sha256": "67a67050ae293713af995839ec498b45359cfebdb9a7804bfbbe6be1712e2658",
+      "image_sha256": "6fd29ba779c730db0f8e09848ebe3f547a3f6c9f4c7cdcc6acad457183f99952",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/UC1001.png",
+      "thumbnail_source_sha256": "62a9ae1b19ddfa7f178c678f271a07f17e49e7a4db98959bc47f07b33239fbd8",
+      "thumbnail_sha256": "0ddd1d51406b31091e4aca3ab857c43aa6f7b02a9f5ce24a015aac520530afd8"
+    },
+    {
+      "id": "UC1002",
+      "source_zip_sha256": "08edc415cbd136a4cc9efb6a84071fd89ba65f85bfd3002c5489898db27c5290",
+      "source_glb_sha256": "bea6f02ae11ac25ace79dabc281fccfdd6dc4a897d1239a6f9029875248b84ee",
+      "camera_location": [
+        2.108907461166382,
+        -3.6152701377868652,
+        2.1331491470336914
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.516836404800415,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed source GLB; no LITE comparison",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/UC1002.png",
+      "image_source_sha256": "a9482db8bb50b341c96cde5252af666a7d80875fcfa9f1038d3ceb3845c45e9a",
+      "image_sha256": "b5e72b10bd9b0739b5e6a5e48627010126e108dca627ab5d25785b1a42654283",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/UC1002.png",
+      "thumbnail_source_sha256": "f5356a083997ed758f65391c144c9774a86b257a83c6b95f43a07a05490b12bc",
+      "thumbnail_sha256": "0d318e4f7b6a3dfac9ae017c2d1f249b02773f1647ff2c5f05b3a450ed61c672"
+    },
+    {
+      "id": "UD1101",
+      "source_zip_sha256": "6f8d4d86376f0ffc0df18dad09923908e17345d8bca9a8ce49292bf69a1dbe9c",
+      "source_glb_sha256": "1d1f0d041b6f7ae8009123262fb4813c064f200df070225e48887dd138b4f4bd",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6099998950958252
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed source GLB; no LITE comparison",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/UD1101.png",
+      "image_source_sha256": "d197dda7d1ada6df2f5cab53eb4a804a5529f5cc6e4bdce981035b83d4037b17",
+      "image_sha256": "f99c2df887e2decb7e4ebf7229417c23dbf2863c473f143b87b7769802f5eaf0",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/UD1101.png",
+      "thumbnail_source_sha256": "1afe672ff53ca7288ca0291388000821799748b435e379114a316ae55d0cd6d0",
+      "thumbnail_sha256": "525de1ebc9893b6bad16eee191041170ab3b4f325460354fd7961de2db375dda"
+    },
+    {
+      "id": "VF001",
+      "source_zip_sha256": "735ee327291ef060d2a76392f5e23e51e306ec0b91dd7caf8e8740ffbaf1bd06",
+      "source_glb_sha256": "a3ae22d4210f846fa92fccdd24843144e5f532159a17f4b8dd744777098c995c",
+      "camera_location": [
+        2.7273542881011963,
+        -4.675464630126953,
+        3.7173542976379395
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.285842418670654,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed source GLB; no LITE comparison",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/terrain-tr051-ud24/renders/VF001.png",
+      "image_source_sha256": "fdec8895629738a0da68fff54a59cbf730e1a3b5ff76feab257cef1f8e0c1abb",
+      "image_sha256": "322b296ea517463caa187884df4ea5440a2dcdce22db500c407e6d9f15c84487",
+      "thumbnail": "previews/terrain-tr051-ud24/thumbnails/VF001.png",
+      "thumbnail_source_sha256": "4525e27f1cb1b16c55be6a51349f4ccf350f50e7a55bf9bb9dcbe3837ffcc9b9",
+      "thumbnail_sha256": "5fc2790732e3b5720960478fe86984c6c0472d572372368a2df0c0119d944b50"
+    }
+  ]
+}

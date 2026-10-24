@@ -50,3 +50,25 @@ Cave skylight
 ![terrain-connectivity-v10 — accepted_connections](../previews/catalog-20261024/terrain-connectivity-v10-accepted_connections.jpg)
 
 ![terrain-connectivity-v10 — accepted_catalog_2](../previews/catalog-20261024/terrain-connectivity-v10-accepted_catalog_2.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+**Known issue:** Dark shadow below water leading edge retained faithfully; diagnosis unresolved, not certified defect-free.
+
+### UC1001 — Shallow ford
+
+浅瀬
+
+[![UC1001](../previews/terrain-tr051-ud24/thumbnails/UC1001.png)](../previews/terrain-tr051-ud24/renders/UC1001.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UC1001.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1001_CC0.zip)
+
+### UC1002 — Cave skylight
+
+縦穴付き洞
+
+[![UC1002](../previews/terrain-tr051-ud24/thumbnails/UC1002.png)](../previews/terrain-tr051-ud24/renders/UC1002.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UC1002.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-10/zips/UC1002_CC0.zip)

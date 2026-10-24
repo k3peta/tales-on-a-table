@@ -113,3 +113,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base WS_003](base-12.md#ws_003) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at093-094-ws001-008-v1/WS_003__color_green_CC0.zip) · [Full comparison](../../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_overview_comparison.png) · [Details](../material_variants_at093_ws008.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WS_015__color_green
+
+**High-backed reading chair** · 高背の読書椅子
+
+[![WS_015__color_green](../../previews/quality-ws009-018-v1/WS_015__color_green_thumb.png)](../../previews/quality-ws009-018-v1/WS_015__color_green_overview_comparison.png)
+
+Use: Green upholstery mapped micrograin; original geometry and UV retained. Wood, metal and all other material parameters unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WS_015](base-12.md#ws_015) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_015__color_green_CC0.zip) · [Full comparison](../../previews/quality-ws009-018-v1/WS_015__color_green_overview_comparison.png) · [Details](../material_variants_ws009_018.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

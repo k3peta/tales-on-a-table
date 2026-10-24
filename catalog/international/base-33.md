@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 grass rock transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR060](../../previews/terrain-tr051-ud24/thumbnails/TR060.png)](../../previews/terrain-tr051-ud24/renders/TR060.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR060.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 grass sand transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR061](../../previews/terrain-tr051-ud24/thumbnails/TR061.png)](../../previews/terrain-tr051-ud24/renders/TR061.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR061.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 grass sand transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR062](../../previews/terrain-tr051-ud24/thumbnails/TR062.png)](../../previews/terrain-tr051-ud24/renders/TR062.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR062.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock sand transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR063](../../previews/terrain-tr051-ud24/thumbnails/TR063.png)](../../previews/terrain-tr051-ud24/renders/TR063.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR063.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock sand transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR064](../../previews/terrain-tr051-ud24/thumbnails/TR064.png)](../../previews/terrain-tr051-ud24/renders/TR064.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR064.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock snow transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR065](../../previews/terrain-tr051-ud24/thumbnails/TR065.png)](../../previews/terrain-tr051-ud24/renders/TR065.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR065.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock snow transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR066](../../previews/terrain-tr051-ud24/thumbnails/TR066.png)](../../previews/terrain-tr051-ud24/renders/TR066.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR066.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand mud transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR067](../../previews/terrain-tr051-ud24/thumbnails/TR067.png)](../../previews/terrain-tr051-ud24/renders/TR067.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR067.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand mud transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR068](../../previews/terrain-tr051-ud24/thumbnails/TR068.png)](../../previews/terrain-tr051-ud24/renders/TR068.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR068.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow sand transition outer corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR069](../../previews/terrain-tr051-ud24/thumbnails/TR069.png)](../../previews/terrain-tr051-ud24/renders/TR069.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR069.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow sand transition inner corner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR070](../../previews/terrain-tr051-ud24/thumbnails/TR070.png)](../../previews/terrain-tr051-ud24/renders/TR070.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/TR070.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

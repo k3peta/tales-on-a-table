@@ -281,3 +281,15 @@ HCV403
 ![husbandry-cellar-v1 — winery-detail](../previews/catalog-20261024/husbandry-cellar-v1-winery-detail.jpg)
 
 ![husbandry-cellar-v1 — winery-overview](../previews/catalog-20261024/husbandry-cellar-v1-winery-overview.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### UD1101 — Under-rim drain
+
+縁下排水口
+
+[![UD1101](../previews/terrain-tr051-ud24/thumbnails/UD1101.png)](../previews/terrain-tr051-ud24/renders/UD1101.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/UD1101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip)

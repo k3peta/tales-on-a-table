@@ -503,3 +503,167 @@ snow wind drift
 [![TR050](../previews/terrain-tr027-050/thumbnails/TR050.png)](../previews/terrain-tr027-050/renders/TR050.png)
 
 [Full image](../previews/terrain-tr027-050/renders/TR050.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR050_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### TR051 — snow rock exposed
+
+snow rock exposed
+
+[![TR051](../previews/terrain-tr051-ud24/thumbnails/TR051.png)](../previews/terrain-tr051-ud24/renders/TR051.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR051.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR051_CC0.zip)
+
+### TR052 — snow grass exposed
+
+snow grass exposed
+
+[![TR052](../previews/terrain-tr051-ud24/thumbnails/TR052.png)](../previews/terrain-tr051-ud24/renders/TR052.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR052.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR052_CC0.zip)
+
+### TR053 — snow ice patch
+
+snow ice patch
+
+[![TR053](../previews/terrain-tr051-ud24/thumbnails/TR053.png)](../previews/terrain-tr051-ud24/renders/TR053.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR053.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR053_CC0.zip)
+
+### TR054 — snow forest floor
+
+snow forest floor
+
+[![TR054](../previews/terrain-tr051-ud24/thumbnails/TR054.png)](../previews/terrain-tr051-ud24/renders/TR054.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR054.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR054_CC0.zip)
+
+### TR055 — snow sand transition
+
+snow sand transition
+
+[![TR055](../previews/terrain-tr051-ud24/thumbnails/TR055.png)](../previews/terrain-tr051-ud24/renders/TR055.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR055.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR055_CC0.zip)
+
+### TR056 — snow compacted tracks
+
+snow compacted tracks
+
+[![TR056](../previews/terrain-tr051-ud24/thumbnails/TR056.png)](../previews/terrain-tr051-ud24/renders/TR056.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR056.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR056_CC0.zip)
+
+### TR057 — grass forest transition outer corner
+
+grass forest transition outer corner
+
+[![TR057](../previews/terrain-tr051-ud24/thumbnails/TR057.png)](../previews/terrain-tr051-ud24/renders/TR057.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR057.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR057_CC0.zip)
+
+### TR058 — grass forest transition inner corner
+
+grass forest transition inner corner
+
+[![TR058](../previews/terrain-tr051-ud24/thumbnails/TR058.png)](../previews/terrain-tr051-ud24/renders/TR058.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR058.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR058_CC0.zip)
+
+### TR059 — grass rock transition outer corner
+
+grass rock transition outer corner
+
+[![TR059](../previews/terrain-tr051-ud24/thumbnails/TR059.png)](../previews/terrain-tr051-ud24/renders/TR059.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR059.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR059_CC0.zip)
+
+### TR060 — grass rock transition inner corner
+
+grass rock transition inner corner
+
+[![TR060](../previews/terrain-tr051-ud24/thumbnails/TR060.png)](../previews/terrain-tr051-ud24/renders/TR060.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR060.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR060_CC0.zip)
+
+### TR061 — grass sand transition outer corner
+
+grass sand transition outer corner
+
+[![TR061](../previews/terrain-tr051-ud24/thumbnails/TR061.png)](../previews/terrain-tr051-ud24/renders/TR061.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR061.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR061_CC0.zip)
+
+### TR062 — grass sand transition inner corner
+
+grass sand transition inner corner
+
+[![TR062](../previews/terrain-tr051-ud24/thumbnails/TR062.png)](../previews/terrain-tr051-ud24/renders/TR062.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR062.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR062_CC0.zip)
+
+### TR063 — rock sand transition outer corner
+
+rock sand transition outer corner
+
+[![TR063](../previews/terrain-tr051-ud24/thumbnails/TR063.png)](../previews/terrain-tr051-ud24/renders/TR063.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR063.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR063_CC0.zip)
+
+### TR064 — rock sand transition inner corner
+
+rock sand transition inner corner
+
+[![TR064](../previews/terrain-tr051-ud24/thumbnails/TR064.png)](../previews/terrain-tr051-ud24/renders/TR064.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR064.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR064_CC0.zip)
+
+### TR065 — rock snow transition outer corner
+
+rock snow transition outer corner
+
+[![TR065](../previews/terrain-tr051-ud24/thumbnails/TR065.png)](../previews/terrain-tr051-ud24/renders/TR065.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR065.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR065_CC0.zip)
+
+### TR066 — rock snow transition inner corner
+
+rock snow transition inner corner
+
+[![TR066](../previews/terrain-tr051-ud24/thumbnails/TR066.png)](../previews/terrain-tr051-ud24/renders/TR066.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR066.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR066_CC0.zip)
+
+### TR067 — sand mud transition outer corner
+
+sand mud transition outer corner
+
+[![TR067](../previews/terrain-tr051-ud24/thumbnails/TR067.png)](../previews/terrain-tr051-ud24/renders/TR067.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR067.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR067_CC0.zip)
+
+### TR068 — sand mud transition inner corner
+
+sand mud transition inner corner
+
+[![TR068](../previews/terrain-tr051-ud24/thumbnails/TR068.png)](../previews/terrain-tr051-ud24/renders/TR068.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR068.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR068_CC0.zip)
+
+### TR069 — snow sand transition outer corner
+
+snow sand transition outer corner
+
+[![TR069](../previews/terrain-tr051-ud24/thumbnails/TR069.png)](../previews/terrain-tr051-ud24/renders/TR069.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR069.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR069_CC0.zip)
+
+### TR070 — snow sand transition inner corner
+
+snow sand transition inner corner
+
+[![TR070](../previews/terrain-tr051-ud24/thumbnails/TR070.png)](../previews/terrain-tr051-ud24/renders/TR070.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/TR070.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR070_CC0.zip)

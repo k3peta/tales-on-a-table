@@ -26,3 +26,15 @@ Validated for Blender 5.2.2. GLB transparency needs KHR_materials_transmission a
 ![vf001-fountain-v2 — fountain-detail](../previews/catalog-20261024/vf001-fountain-v2-fountain-detail.jpg)
 
 ![vf001-fountain-v2 — lakeside-fountain](../previews/catalog-20261024/vf001-fountain-v2-lakeside-fountain.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### VF001 — Lakeside marble fountain
+
+湖畔の大理石噴水
+
+[![VF001](../previews/terrain-tr051-ud24/thumbnails/VF001.png)](../previews/terrain-tr051-ud24/renders/VF001.png)
+
+[Full image](../previews/terrain-tr051-ud24/renders/VF001.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/vf001-v2/VF001-v2-public-clean-CC0.zip)

@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "WS_014__repair",
+      "base_id": "WS_014",
+      "entity_type": "revision",
+      "zip": "WS_014__repair_CC0.zip",
+      "sha256": "d245927fcc0f7bcb5ca7164d89d818e2365863fe06cd68439fcf7df8c2d9630e",
+      "bytes": 5592396,
+      "description": "Removed128 strictly zero-area column triangles; all positive surface faces and UV retained. Topology revision, not a new model.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_014__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_015__color_green",
+      "base_id": "WS_015",
+      "entity_type": "material_variant",
+      "zip": "WS_015__color_green_CC0.zip",
+      "sha256": "8fd890e10ec306a0f455f17ae0676f505eeac8e0f8a4caf864ee38bffe91e896",
+      "bytes": 11235545,
+      "description": "Green upholstery mapped micrograin; original geometry and UV retained. Wood, metal and all other material parameters unchanged.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_015__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 1
+}

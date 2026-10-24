@@ -142,7 +142,9 @@ Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
 浅瀬
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![UC1001](../../previews/terrain-tr051-ud24/thumbnails/UC1001.png)](../../previews/terrain-tr051-ud24/renders/UC1001.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/UC1001.png)
 
 Use / purpose: 2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.
 
@@ -158,13 +160,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md) · [Catalogue 2](../../catalog/terrain_connectivity_v10.md)
 
+**Known issue:** Dark shadow below water leading edge retained faithfully; diagnosis unresolved, not certified defect-free. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## UC1002
 
 **Cave skylight**
 
 縦穴付き洞
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![UC1002](../../previews/terrain-tr051-ud24/thumbnails/UC1002.png)](../../previews/terrain-tr051-ud24/renders/UC1002.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/UC1002.png)
 
 Use / purpose: 2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.
 
@@ -186,7 +192,9 @@ Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md) · [Cata
 
 湖畔の大理石噴水
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![VF001](../../previews/terrain-tr051-ud24/thumbnails/VF001.png)](../../previews/terrain-tr051-ud24/renders/VF001.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/VF001.png)
 
 Use / purpose: Standalone model with static water geometry. Includes BLEND and GLB, not an application.
 
@@ -208,7 +216,9 @@ Source details: [Catalogue 1](../../catalog/vf001_fountain_v2.md)
 
 縁下排水口
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![UD1101](../../previews/terrain-tr051-ud24/thumbnails/UD1101.png)](../../previews/terrain-tr051-ud24/renders/UD1101.png)
+
+[Full-size image](../../previews/terrain-tr051-ud24/renders/UD1101.png)
 
 Use / purpose: 2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.
 

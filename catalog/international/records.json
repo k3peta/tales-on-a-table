@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 857,
-      "preview_not_mapped": 151,
+      "id_mapped_preview": 881,
+      "preview_not_mapped": 127,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 129,
-      "id_mapped_preview": 129,
+      "records": 130,
+      "id_mapped_preview": 130,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 129,
-      "formats_known": 129,
+      "purpose_en_present": 130,
+      "formats_known": 130,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -11694,7 +11694,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "23076tri exceeds small-prop budget; positive tiny faces retained."
     },
     {
       "id": "WS_010",
@@ -11826,7 +11827,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "628692tri,12.57 times furniture budget; repeated-detail redesign unresolved."
     },
     {
       "id": "WS_014",
@@ -11860,7 +11862,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_014__repair",
+          "catalog": "catalog/material_variants_ws009_018.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "128 zero-area faces removed; positive surface faces/UV retained, original version preserved."
     },
     {
       "id": "WS_015",
@@ -11993,7 +12003,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "53460tri exceeds small-prop budget; cross-engine glass rendering untested."
     },
     {
       "id": "WS_019",
@@ -28142,8 +28153,8 @@
       "name_ja": "snow rock exposed",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR051.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28159,7 +28170,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR051.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR052",
@@ -28169,8 +28182,8 @@
       "name_ja": "snow grass exposed",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR052.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28186,7 +28199,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR052.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR053",
@@ -28196,8 +28211,8 @@
       "name_ja": "snow ice patch",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR053.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28213,7 +28228,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR053.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR054",
@@ -28223,8 +28240,8 @@
       "name_ja": "snow forest floor",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR054.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28240,7 +28257,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR054.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR055",
@@ -28250,8 +28269,8 @@
       "name_ja": "snow sand transition",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR055.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28267,7 +28286,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR055.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR056",
@@ -28277,8 +28298,8 @@
       "name_ja": "snow compacted tracks",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR056.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28294,7 +28315,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR056.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR057",
@@ -28304,8 +28327,8 @@
       "name_ja": "grass forest transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR057.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28321,7 +28344,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR057.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR058",
@@ -28331,8 +28356,8 @@
       "name_ja": "grass forest transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR058.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28348,7 +28373,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR058.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR059",
@@ -28358,8 +28385,8 @@
       "name_ja": "grass rock transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR059.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28375,7 +28402,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR059.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR060",
@@ -28385,8 +28414,8 @@
       "name_ja": "grass rock transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR060.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28402,7 +28431,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR060.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR061",
@@ -28412,8 +28443,8 @@
       "name_ja": "grass sand transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR061.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28429,7 +28460,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR061.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR062",
@@ -28439,8 +28472,8 @@
       "name_ja": "grass sand transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR062.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28456,7 +28489,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR062.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR063",
@@ -28466,8 +28501,8 @@
       "name_ja": "rock sand transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR063.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28483,7 +28518,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR063.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR064",
@@ -28493,8 +28530,8 @@
       "name_ja": "rock sand transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR064.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28510,7 +28547,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR064.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR065",
@@ -28520,8 +28559,8 @@
       "name_ja": "rock snow transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR065.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28537,7 +28576,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR065.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR066",
@@ -28547,8 +28588,8 @@
       "name_ja": "rock snow transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR066.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28564,7 +28605,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR066.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR067",
@@ -28574,8 +28617,8 @@
       "name_ja": "sand mud transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR067.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28591,7 +28634,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR067.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR068",
@@ -28601,8 +28646,8 @@
       "name_ja": "sand mud transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR068.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28618,7 +28663,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR068.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR069",
@@ -28628,8 +28675,8 @@
       "name_ja": "snow sand transition outer corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR069.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28645,7 +28692,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR069.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TR070",
@@ -28655,8 +28704,8 @@
       "name_ja": "snow sand transition inner corner",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/TR070.png",
+      "image_evidence": "HQ actual exact-source GLB render; LITE not pictured; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -28672,7 +28721,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/TR070.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "TG001",
@@ -31414,8 +31465,8 @@
       "name_ja": "浅瀬",
       "purpose_en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
       "record_kind": "terrain_distribution_record",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/UC1001.png",
+      "image_evidence": "Actual exact-source distributed GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31435,7 +31486,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/UC1001.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json",
+      "known_issue": "Dark shadow below water leading edge retained faithfully; diagnosis unresolved, not certified defect-free."
     },
     {
       "id": "UC1002",
@@ -31445,8 +31499,8 @@
       "name_ja": "縦穴付き洞",
       "purpose_en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
       "record_kind": "terrain_distribution_record",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/UC1002.png",
+      "image_evidence": "Actual exact-source distributed GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31466,7 +31520,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/UC1002.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "VF001",
@@ -31476,8 +31532,8 @@
       "name_ja": "湖畔の大理石噴水",
       "purpose_en": "Standalone model with static water geometry. Includes BLEND and GLB, not an application.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/VF001.png",
+      "image_evidence": "Actual exact-source distributed GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31496,7 +31552,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/VF001.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "UD1101",
@@ -31506,8 +31564,8 @@
       "name_ja": "縁下排水口",
       "purpose_en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
       "record_kind": "terrain_distribution_record",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/terrain-tr051-ud24/thumbnails/UD1101.png",
+      "image_evidence": "Actual exact-source distributed GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31528,7 +31586,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/terrain-tr051-ud24/renders/UD1101.png",
+      "image_manifest": "previews/terrain-tr051-ud24/manifest.json"
     },
     {
       "id": "UD1102",
@@ -39647,6 +39707,39 @@
       ],
       "comparison": {
         "file": "previews/quality-at093-094-ws001-008-v1/WS_003__color_green_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original"
+    },
+    {
+      "id": "WS_015__color_green",
+      "kind": "variant",
+      "base_id": "WS_015",
+      "name_en": "High-backed reading chair",
+      "name_ja": "高背の読書椅子",
+      "purpose_en": "Green upholstery mapped micrograin; original geometry and UV retained. Wood, metal and all other material parameters unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-ws009-018-v1/WS_015__color_green_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_015__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ws009_018.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ws009-018-v1/WS_015__color_green_overview_comparison.png",
         "layout": "left: original; right: accepted; identical camera and lighting"
       },
       "geometry_revision": "original",
