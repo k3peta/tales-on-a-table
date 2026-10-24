@@ -28,6 +28,8 @@ Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2
 
 **Quality32:** Zero-area cleanup; navigation/optical calibration untested. [Details](../material_variants_ws039_cp012.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_005__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws039-cp012-v1/CP_005__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## CP_006
 
 **Fitted sextant case**
@@ -73,6 +75,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
 **Quality32:** Zero-area cleanup; pulley motion/load untested. [Details](../material_variants_ws039_cp012.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_010__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws039-cp012-v1/CP_010__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## CP_012
 
@@ -330,6 +334,8 @@ Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2
 
 **Quality33:** 384 exact-zero triangles removed,2 missing UV layers added; handle-joint shading still under diagnosis. Smooth orange glaze uses repaired baseline. [Details](../material_variants_cp013_023.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp013-023-v1/CP_023__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## CP_024
 
 **Hanging captain's coat**
@@ -378,6 +384,8 @@ Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2
 
 **Quality34:** 126 exact-zero triangles removed;130 tiny positive retained;36394tri over20k. Green variant uses repaired and added-UV baseline. [Details](../material_variants_cp024_if002.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_025__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/CP_025__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## CP_026
 
 **Large birdcage with open door**
@@ -401,6 +409,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
 **Quality34:** 256 exact-zero triangles removed;30068tri. Door motion/animal fit untested. [Details](../material_variants_cp024_if002.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_026__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/CP_026__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## CP_027
 
@@ -449,6 +459,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
 **Quality34:** 549 exact-zero triangles removed;70 missing UV layers added;25127tri over20k. Static pose, no rig or attachment validation. [Details](../material_variants_cp024_if002.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_028__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/CP_028__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## CP_029
 
@@ -522,6 +534,8 @@ Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2
 
 **Quality34:** 32 exact-zero triangles removed; shoulder strap continuity/contact still under diagnosis. [Details](../material_variants_cp024_if002.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_031__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/CP_031__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## IF_001
 
 **Leather two-seat sofa**
@@ -546,6 +560,8 @@ Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [C
 
 **Quality34:** 1229 exact-zero triangles removed;112271tri over50k; positive tiny surfaces retained. [Details](../material_variants_cp024_if002.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/IF_001__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/IF_001__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## IF_002
 
 **Short-pile fur rug**
@@ -568,3 +584,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
 **Quality34:** 27504 exact-zero pile triangles removed;138158tri over50k. HQ/main only, original LOD1 unassessed and unchanged. [Details](../material_variants_cp024_if002.md).
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/IF_002__repair_CC0.zip). [Revision-specific preview](../../previews/quality-cp024-if002-v1/IF_002__repair_thumb.png). [Version audit](VERSION-AUDIT.md).

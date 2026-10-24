@@ -30,6 +30,8 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 [Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_090__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at085-088-090-repair-v1/AT_090_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_092
 
 **Chipped antique standing statue**
@@ -125,6 +127,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
 **Quality28:** Zero-area cleanup revision;35660tri still over budget; Moon title versus star ornament unresolved. [Details](../material_variants_at093_ws008.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at093-094-ws001-008-v1/WS_001__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at093-094-ws001-008-v1/WS_001__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WS_002
 
@@ -426,6 +430,8 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md) · [Catalogue
 
 **Quality29:** 128 zero-area faces removed; positive surface faces/UV retained, original version preserved. [Details](../material_variants_ws009_018.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_014__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws009-018-v1/WS_014__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_015
 
 **High-backed reading chair**
@@ -540,6 +546,8 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 **Quality30:** Zero-area cleanup revision;61208tri remains over budget. Dark glass variant rejected. [Details](../material_variants_ws019_028.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_019__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws019-028-v1/WS_019__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_020
 
 **Botanical specimen dome**
@@ -562,3 +570,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 **Quality30:** Zero-area cleanup revision;56342tri remains over budget;14 tiny positive faces retained. [Details](../material_variants_ws019_028.md).
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_020__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws019-028-v1/WS_020__repair_thumb.png). [Version audit](VERSION-AUDIT.md).

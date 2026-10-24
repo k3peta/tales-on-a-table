@@ -198,6 +198,8 @@ Source details: [Catalogue 1](../../catalog/curios-tools_02.en.md) · [Catalogue
 
 [Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/AT_001__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol055-story-at001-v1/AT_001__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_002
 
 **Stopped mantel clock**
@@ -265,6 +267,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/curios-tools_02.en.md) · [Catalogue 2](../../catalog/curios-tools_02.md) · [Catalogue 3](../../catalog/curios-tools_02.zh-CN.md)
 
 [Quality 19 revision and comparison](../../catalog/material_variants_at002_011.md). Original download retained; AT004 positions changed with4340 triangles retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_004__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at002-011-v1/AT_004__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_005
 

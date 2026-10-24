@@ -418,7 +418,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH202
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH202](../../previews/csh-herbalist7/thumbnails/CSH202.png)](../../previews/csh-herbalist7/renders/CSH202.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH202.png)
 
 Use / purpose: CSH202: Garment rail with three shoulder hangers
 
@@ -440,7 +442,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH301
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH301](../../previews/csh-herbalist7/thumbnails/CSH301.png)](../../previews/csh-herbalist7/renders/CSH301.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH301.png)
 
 Use / purpose: CSH301: Saddler stitching pony with open padded jaws
 
@@ -462,7 +466,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH302
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH302](../../previews/csh-herbalist7/thumbnails/CSH302.png)](../../previews/csh-herbalist7/renders/CSH302.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH302.png)
 
 Use / purpose: CSH302: Leatherworker half-moon head knife
 
@@ -484,7 +490,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH_SCENE_COBBLER
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH_SCENE_COBBLER](../../previews/csh-herbalist7/thumbnails/CSH_SCENE_COBBLER.png)](../../previews/csh-herbalist7/renders/CSH_SCENE_COBBLER.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH_SCENE_COBBLER.png)
 
 Use / purpose: cobbler - rearrangeable static vignette, revision 1
 
@@ -506,7 +514,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH_SCENE_TAILOR
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH_SCENE_TAILOR](../../previews/csh-herbalist7/thumbnails/CSH_SCENE_TAILOR.png)](../../previews/csh-herbalist7/renders/CSH_SCENE_TAILOR.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH_SCENE_TAILOR.png)
 
 Use / purpose: tailor - rearrangeable static vignette, revision 1
 
@@ -528,7 +538,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH_SCENE_LEATHERWORKER
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH_SCENE_LEATHERWORKER](../../previews/csh-herbalist7/thumbnails/CSH_SCENE_LEATHERWORKER.png)](../../previews/csh-herbalist7/renders/CSH_SCENE_LEATHERWORKER.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/CSH_SCENE_LEATHERWORKER.png)
 
 Use / purpose: leatherworker - rearrangeable static vignette, revision 1
 
@@ -550,7 +562,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 薬師の店舗
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HERBALIST_SCENE_V1](../../previews/csh-herbalist7/thumbnails/HERBALIST_SCENE_V1.png)](../../previews/csh-herbalist7/renders/HERBALIST_SCENE_V1.png)
+
+[Full-size image](../../previews/csh-herbalist7/renders/HERBALIST_SCENE_V1.png)
 
 Use / purpose: Static fictional shop; 14 reused types, no new model geometry. No medical efficacy or procedures.
 

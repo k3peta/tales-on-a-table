@@ -211,3 +211,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base CP_025](base-14.md#cp_025) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_025__green_silk_CC0.zip) · [Full comparison](../../previews/quality-cp024-if002-v1/CP_025__green_silk_overview_comparison.png) · [Details](../material_variants_cp024_if002.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## IF_004__orange_ceramic
+
+**Medium ceramic chimney oil lamp** · 中型・陶製油壺のホヤ油灯
+
+[![IF_004__orange_ceramic](../../previews/quality-if003-td006-v1/IF_004__orange_ceramic_thumb.png)](../../previews/quality-if003-td006-v1/IF_004__orange_ceramic_overview_comparison.png)
+
+Use: Orange ceramic basecolor on IF004 cleaned geometry/UV baseline. Glass and flame unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base IF_004](base-15.md#if_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_004__orange_ceramic_CC0.zip) · [Full comparison](../../previews/quality-if003-td006-v1/IF_004__orange_ceramic_overview_comparison.png) · [Details](../material_variants_if003_td006.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

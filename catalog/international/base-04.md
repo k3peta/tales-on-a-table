@@ -28,6 +28,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.7879999876022339, 
 
 Source details: [Catalogue 1](../../catalog/marine_01.en.md) · [Catalogue 2](../../catalog/marine_01.md) · [Catalogue 3](../../catalog/marine_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_017__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh011-020-v1/FH_017__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_018
 
 **Worn oar**
@@ -100,6 +102,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.1599999964237213, 
 
 Source details: [Catalogue 1](../../catalog/marine_01.en.md) · [Catalogue 2](../../catalog/marine_01.md) · [Catalogue 3](../../catalog/marine_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_020__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh011-020-v1/FH_020__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_021
 
 **Folded and tied small sail**
@@ -171,6 +175,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.100000023841858, -
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/marine_01.en.md) · [Catalogue 2](../../catalog/marine_01.md) · [Catalogue 3](../../catalog/marine_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_023__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh021-030-v1/FH_023__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_024
 
@@ -268,6 +274,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.32499998807907104,
 
 Source details: [Catalogue 1](../../catalog/containers_01.en.md) · [Catalogue 2](../../catalog/containers_01.md) · [Catalogue 3](../../catalog/containers_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_027__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh021-030-v1/FH_027__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_028
 
 **Salting tub**
@@ -291,6 +299,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.25, -0.25, 0.0], [
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh021-030-v1/FH_028__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh021-030-v1/FH_028__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_029
 
@@ -412,6 +422,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.17499999701976776,
 
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_033__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh031-040-v1/FH_033__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_034
 
 **Wooden net-mending board**
@@ -435,6 +447,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.22499999403953552,
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_034__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh031-040-v1/FH_034__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_035
 
@@ -532,6 +546,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.20999999344348907,
 
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_038__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh031-040-v1/FH_038__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_039
 
 **Lantern maintenance box**
@@ -556,6 +572,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.17499999701976776,
 
 Source details: [Catalogue 1](../../catalog/candles-light_01.en.md) · [Catalogue 2](../../catalog/candles-light_01.md) · [Catalogue 3](../../catalog/candles-light_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_039__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh031-040-v1/FH_039__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_040
 
 **Wooden tide gauge**
@@ -579,3 +597,4 @@ Measured bounds relative to stored coordinates (metres): [[-0.0949999988079071, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh031-040-v1/FH_040__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh031-040-v1/FH_040__repair_thumb.png). [Version audit](VERSION-AUDIT.md).

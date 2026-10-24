@@ -52,6 +52,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+
 ## HCV_SCENE_CATTLE
 
 **HCV_SCENE_CATTLE**
@@ -100,6 +102,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
+
 ## HCV_SCENE_CELLAR
 
 **HCV_SCENE_CELLAR**
@@ -123,6 +127,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **LicenseRef-Scene-Viewing-Rearranging** — Underlying models/materials CC0; arrangement for viewing and rearranging only, no redistribution license granted. Arrangement restrictions apply; not a CC0 scene.
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip). Exact latest-revision image/ZIP binding remains under review; do not substitute the earlier image. [Version audit](VERSION-AUDIT.md).
 
 ## HCV601
 

@@ -168,3 +168,55 @@ CSH201
 [![CSH201](../previews/mrt102-csh24/thumbnails/CSH201.png)](../previews/mrt102-csh24/renders/CSH201.png)
 
 [Full image](../previews/mrt102-csh24/renders/CSH201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CSH202 — CSH202
+
+CSH202
+
+[![CSH202](../previews/csh-herbalist7/thumbnails/CSH202.png)](../previews/csh-herbalist7/renders/CSH202.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH202.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip)
+
+### CSH301 — CSH301
+
+CSH301
+
+[![CSH301](../previews/csh-herbalist7/thumbnails/CSH301.png)](../previews/csh-herbalist7/renders/CSH301.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH301.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip)
+
+### CSH302 — CSH302
+
+CSH302
+
+[![CSH302](../previews/csh-herbalist7/thumbnails/CSH302.png)](../previews/csh-herbalist7/renders/CSH302.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH302.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip)
+
+### CSH_SCENE_COBBLER — CSH_SCENE_COBBLER
+
+CSH_SCENE_COBBLER
+
+[![CSH_SCENE_COBBLER](../previews/csh-herbalist7/thumbnails/CSH_SCENE_COBBLER.png)](../previews/csh-herbalist7/renders/CSH_SCENE_COBBLER.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH_SCENE_COBBLER.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip)
+
+### CSH_SCENE_LEATHERWORKER — CSH_SCENE_LEATHERWORKER
+
+CSH_SCENE_LEATHERWORKER
+
+[![CSH_SCENE_LEATHERWORKER](../previews/csh-herbalist7/thumbnails/CSH_SCENE_LEATHERWORKER.png)](../previews/csh-herbalist7/renders/CSH_SCENE_LEATHERWORKER.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH_SCENE_LEATHERWORKER.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip)
+
+### CSH_SCENE_TAILOR — CSH_SCENE_TAILOR
+
+CSH_SCENE_TAILOR
+
+[![CSH_SCENE_TAILOR](../previews/csh-herbalist7/thumbnails/CSH_SCENE_TAILOR.png)](../previews/csh-herbalist7/renders/CSH_SCENE_TAILOR.png)
+
+[Full image](../previews/csh-herbalist7/renders/CSH_SCENE_TAILOR.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip)

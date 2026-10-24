@@ -570,6 +570,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM006__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM006__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## PM007
 
 **Drained Corridor Floor 2x2**

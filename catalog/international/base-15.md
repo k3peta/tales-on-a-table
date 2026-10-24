@@ -26,6 +26,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
 
+**Quality35:** 320 exact-zero triangles removed;22120tri still over20k; flame emission retained, no lighting safety guarantee. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_003__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/IF_003__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## IF_004
 
 **Medium ceramic chimney oil lamp**
@@ -47,6 +51,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
+
+**Quality35:** 320 zero triangles removed;22956tri over20k; orange ceramic uses repaired baseline, glass/flame unchanged. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_004__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/IF_004__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## IF_005
 
@@ -70,6 +78,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
 
+**Quality35:** 344 zero triangles removed;24100tri over20k; dark glass silhouette remains. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_005__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/IF_005__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## IF_006
 
 **Six-drawer document side chest**
@@ -91,6 +103,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
+
+**Quality35:** 192 zero triangles removed; broad walnut striping suppressed, normal strength0.45 to0.08; fine regularity remains. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_006__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/IF_006__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## TD_001
 
@@ -114,6 +130,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality35:** 547056tri far over20k;9 untextured meshes lack UV, redesign/baking required. [Details](../material_variants_if003_td006.md).
+
 ## TD_002
 
 **Moonlight longsword**
@@ -135,6 +153,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality35:** 96 zero triangles removed;6 missing UV added; static prop, combat/physics untested. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_002__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/TD_002__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## TD_003
 
@@ -158,6 +180,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality35:** 41 zero triangles removed;93 positive tiny retained;83 missing UV added;131673tri over20k. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_003__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/TD_003__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## TD_004
 
 **Star-dragon embroidered mantle**
@@ -179,6 +205,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality35:** 4652604tri far over20k;132 meshes lack UV, thread-to-texture redesign required, unrepaired. [Details](../material_variants_if003_td006.md).
 
 ## TD_005
 
@@ -202,6 +230,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality35:** 2 flat-color meshes lack UV; optics/rig untested. [Details](../material_variants_if003_td006.md).
+
 ## TD_006
 
 **Wax-sealed secret scroll**
@@ -223,6 +253,10 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality35:** 20 zero triangles removed;12 positive tiny retained;3 missing UV added;33952tri over20k. [Details](../material_variants_if003_td006.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_006__repair_CC0.zip). [Revision-specific preview](../../previews/quality-if003-td006-v1/TD_006__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## TD_007
 

@@ -97,13 +97,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW001_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW001_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW001.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW002
 
@@ -126,13 +130,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW002.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW003
 
@@ -179,13 +187,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW004_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW004_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW004.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW005
 
@@ -208,13 +220,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW005_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW005_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW005.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW006
 
@@ -261,13 +277,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW007_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW007_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW007.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW008
 
@@ -290,13 +310,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW008.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW009
 
@@ -319,13 +343,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW009_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW009_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW009.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW010
 
@@ -348,13 +376,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW010.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW011
 
@@ -377,13 +409,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW011_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW011_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW011.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW012
 
@@ -406,13 +442,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw-normal-repair-v1/renders/FW012.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW013
 
@@ -435,13 +475,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW014
 
@@ -464,13 +508,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW014_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW014_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW014.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW015
 
@@ -493,13 +541,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW016
 
@@ -522,13 +574,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW017
 
@@ -551,13 +607,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW017_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW017_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW017.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW018
 
@@ -580,13 +640,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md) · [Catalogue 2](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW019
 
@@ -609,13 +673,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW020
 
@@ -638,13 +706,17 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW020_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW020_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW020.png). [Version audit](VERSION-AUDIT.md).
 
 ## FW021
 
@@ -667,9 +739,12 @@ Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis 
 
 Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
 
-[Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip) · [License scope](../../LICENSE.md)
+[Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 **Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
+**Pictured corrected revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip). [Legacy original ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip) is retained and is not the pictured model.
+
+**Version scope:** The image above depicts the corrected revision. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png). [Version audit](VERSION-AUDIT.md).

@@ -100,6 +100,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.05981060117483139,
 
 Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2](../../catalog/tableware_02.md) · [Catalogue 3](../../catalog/tableware_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_052__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft051-056-v1/FT_052__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_053
 
 **Old keys and leather tags**
@@ -123,6 +125,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.11432082951068878,
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_053__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft051-056-v1/FT_053__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FT_054
 
@@ -171,6 +175,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.21998055279254913,
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/weapons-equipment_01.en.md) · [Catalogue 2](../../catalog/weapons-equipment_01.md) · [Catalogue 3](../../catalog/weapons-equipment_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_055__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft051-056-v1/FT_055__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FT_056
 

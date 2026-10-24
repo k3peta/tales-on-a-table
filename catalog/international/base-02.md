@@ -220,6 +220,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.14000000059604645,
 
 Source details: [Catalogue 1](../../catalog/candles-light_01.en.md) · [Catalogue 2](../../catalog/candles-light_01.md) · [Catalogue 3](../../catalog/candles-light_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft031-040-v1/FT_033__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft031-040-v1/FT_033__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_034
 
 **Wooden target**
@@ -388,6 +390,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.1889999806880951, 
 
 Source details: [Catalogue 1](../../catalog/containers_01.en.md) · [Catalogue 2](../../catalog/containers_01.md) · [Catalogue 3](../../catalog/containers_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft031-040-v1/FT_040__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft031-040-v1/FT_040__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_041
 
 **Wooden door and frame**
@@ -411,6 +415,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.5249999761581421, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_041__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_041__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FT_042
 
@@ -436,6 +442,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.4000000059604645, 
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_042__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_042__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_043
 
 **Wooden post and crossbeam**
@@ -459,6 +467,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.0, -0.093500003218
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_043__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_043__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FT_044
 
@@ -508,6 +518,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.0, -1.0, 0.0], [1.
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_045__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_045__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_046
 
 **Stone floor module**
@@ -556,6 +568,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.44999998807907104,
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_047__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_047__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FT_048
 
 **Fixed wooden railing**
@@ -579,3 +593,4 @@ Measured bounds relative to stored coordinates (metres): [[-0.75, -0.05999999865
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/architecture_01.en.md) · [Catalogue 2](../../catalog/architecture_01.md) · [Catalogue 3](../../catalog/architecture_01.zh-CN.md)
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_048__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ft041-050-v1/FT_048__repair_thumb.png). [Version audit](VERSION-AUDIT.md).

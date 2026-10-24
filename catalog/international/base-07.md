@@ -28,6 +28,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.20499999821186066,
 
 Source details: [Catalogue 1](../../catalog/containers_01.en.md) · [Catalogue 2](../../catalog/containers_01.md) · [Catalogue 3](../../catalog/containers_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_033__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol025-034-v1/OL_033__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_034
 
 **Merchant chest with gold bands**
@@ -51,6 +53,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.4375000596046448, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2](../../catalog/containers_02.md) · [Catalogue 3](../../catalog/containers_02.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_034__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol025-034-v1/OL_034__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_035
 
@@ -100,6 +104,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.5435001254081726, 
 
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol035-044-v1/OL_036__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol035-044-v1/OL_036__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_037
 
 **Small pile of gold coins**
@@ -147,6 +153,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.07000003010034561,
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/weapons-equipment_01.en.md) · [Catalogue 2](../../catalog/weapons-equipment_01.md) · [Catalogue 3](../../catalog/weapons-equipment_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol035-044-v1/OL_038__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol035-044-v1/OL_038__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_039
 
@@ -532,6 +540,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.5400000214576721, 
 
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol045-054-v1/OL_054__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol045-054-v1/OL_054__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_055
 
 **Small display pedestal**
@@ -557,6 +567,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.23999999463558197,
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
 
 [Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol055-story-at001-v1/OL_055__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol055-story-at001-v1/OL_055__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_056
 

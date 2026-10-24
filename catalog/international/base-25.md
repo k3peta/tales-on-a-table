@@ -88,6 +88,8 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 [Validated v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip) · [Validation evidence](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json) · [Version history](../../catalog/wt007_008_replacement_v2.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT007__repair_CC0.zip). [Revision-specific preview](../../previews/quality-wt007-008-repair-v2/WT007__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WT008
 
 **Stream bend NE**
@@ -123,6 +125,8 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 **Current v2 status:** v1 validation claim withdrawn: stale older-candidate report was misapplied and strict null-material-slot test failed. v2 exact public-download ZIPs independently reimported successfully in Blender5.2.2; scoped geometry/UV/material/image checks passed, not a general function or safety guarantee.
 
 [Validated v2 ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip) · [Validation evidence](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/validation.json) · [Version history](../../catalog/wt007_008_replacement_v2.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-wt007-008-repair-v2/WT008__repair_CC0.zip). [Revision-specific preview](../../previews/quality-wt007-008-repair-v2/WT008__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AP001
 

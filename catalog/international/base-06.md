@@ -76,6 +76,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.5249999761581421, 
 
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_011__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol005-014-v1/OL_011__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_012
 
 **Jewelry display tray**
@@ -123,6 +125,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.4500000476837158, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_013__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol005-014-v1/OL_013__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_014
 
@@ -268,6 +272,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.8750001192092896, 
 
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_019__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol015-024-v1/OL_019__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_020
 
 **Silver display-shelf candlestick**
@@ -364,6 +370,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.3050001561641693, 
 
 Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2](../../catalog/tableware_02.md) · [Catalogue 3](../../catalog/tableware_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_023__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol015-024-v1/OL_023__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## OL_024
 
 **Teal decorative vase**
@@ -387,6 +395,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.1730000227689743, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/containers_01.en.md) · [Catalogue 2](../../catalog/containers_01.md) · [Catalogue 3](../../catalog/containers_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_024__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol015-024-v1/OL_024__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_025
 

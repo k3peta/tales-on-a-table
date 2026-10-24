@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records unchanged;136 material variants separately. Current base image mappings1001, missing7. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records unchanged;137 material variants separately. ID image mappings1008; current-version completeness not claimed. See [version audit](international/VERSION-AUDIT.md). Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -245,3 +245,7 @@ Quality33:9 comparison/thumbnail images; separate variants135. Base977 image map
 MRT102 through CSH201 (24 IDs):24 individual full renders +24 thumbnails added. International base ID mappings1001/1008, missing7; variant136/136. Not a claim that every prior mapping is an isolated individual render.
 
 Quality34:21 comparison/thumbnail images; separate variants136. Base1001 image mappings,7 missing.
+
+CSH and herbalist (7 IDs):7 individual full renders +7 thumbnails added. International base ID mappings1008/1008, missing0; variant137/137. Not a claim that every prior mapping is an isolated individual render.
+
+Quality35:24 comparison/thumbnail images; separate variants137. All1008 base IDs have mapped images, with version evidence tiers and unresolved revision bindings recorded separately.

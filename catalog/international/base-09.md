@@ -316,6 +316,8 @@ Source details: [Catalogue 1](../../catalog/curios-tools_03.en.md) · [Catalogue
 
 [Quality 21 revision and comparison](../../catalog/material_variants_at022_031.md). Original download retained; AT031 stitch positions changed; green variant uses repaired stitch_seating_v1 baseline.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at022-031-v1/AT_031__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_032
 
 **Old grappling hook and rope**
@@ -385,6 +387,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__repair_CC0.zip) · [Quality22 comparison](../../catalog/material_variants_at032_041.md). Original retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_034__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at032-041-v1/AT_034__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_035
 
@@ -475,6 +479,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_038__repair_CC0.zip) · [Quality22 comparison](../../catalog/material_variants_at032_041.md). Original retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at032-041-v1/AT_038__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at032-041-v1/AT_038__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_039
 

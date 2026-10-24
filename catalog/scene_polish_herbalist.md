@@ -98,3 +98,18 @@ Three existing public arrangements gain revisions; poultry is an uncounted suppl
 ![薬師店舗 HERBALIST_SCENE_V1 herbalist-overview](../previews/catalog-20261024/herbalist-herbalist-overview.jpg)
 
 ![薬師店舗 HERBALIST_SCENE_V1 herbalist-detail](../previews/catalog-20261024/herbalist-herbalist-detail.jpg)
+
+## Primary archive images / 初回配布版画像 / 原始归档图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HERBALIST_SCENE_V1 — Herbalist shop
+
+薬師の店舗
+
+[![HERBALIST_SCENE_V1](../previews/csh-herbalist7/thumbnails/HERBALIST_SCENE_V1.png)](../previews/csh-herbalist7/renders/HERBALIST_SCENE_V1.png)
+
+[Full image](../previews/csh-herbalist7/renders/HERBALIST_SCENE_V1.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip)
+
+
+Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; exact revised-ZIP/render binding needs review for the six records listed in [Version audit](international/VERSION-AUDIT.md).

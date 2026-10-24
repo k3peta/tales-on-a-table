@@ -30,6 +30,8 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 [WS021 new final-ZIP revision](../ws021_scan_resolution.md), public ZIP/member identity verified; hold resolved for this new revision only.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws021-scan-repair-v2/WS_021__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws021-scan-repair-v2/WS_021__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_022
 
 **Desk magnifying glass**
@@ -54,6 +56,8 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 **Quality30:** Zero-area cleanup revision; optical magnification accuracy untested. [Details](../material_variants_ws019_028.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_022__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws019-028-v1/WS_022__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_023
 
 **Hourglass with brass columns**
@@ -77,6 +81,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
 **Quality30:** Zero-area cleanup revision; no sand flow or timing simulation. [Details](../material_variants_ws019_028.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_023__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws019-028-v1/WS_023__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WS_024
 
@@ -212,6 +218,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_029__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws029-038-v1/WS_029__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_030
 
 **Octagonal footstool**
@@ -257,6 +265,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
 **Quality31:** Zero-area cleanup and UV added to6 glass panes; original flame emission retained. [Details](../material_variants_ws029_038.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_031__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws029-038-v1/WS_031__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WS_032
 
@@ -372,6 +382,8 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 **Quality31:** Zero-area cleanup revision; blue variant uses repaired baseline, loose ties retained. [Details](../material_variants_ws029_038.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws029-038-v1/WS_036__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_037
 
 **Apothecary balance**
@@ -396,6 +408,8 @@ Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2]
 
 **Quality31:** Zero-area cleanup and UV added to3 objects; weighing untested. [Details](../material_variants_ws029_038.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_037__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws029-038-v1/WS_037__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## WS_038
 
 **Scroll sorting carousel**
@@ -419,6 +433,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
 **Quality31:** Zero-area cleanup and UV added to33 objects; rotation/collision untested. [Details](../material_variants_ws029_038.md).
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_038__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws029-038-v1/WS_038__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WS_039
 
@@ -540,6 +556,8 @@ Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2
 
 **Quality32:** Zero-area cleanup and3 missing UV layers added;28596tri remains over budget. [Details](../material_variants_ws039_cp012.md).
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_003__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws039-cp012-v1/CP_003__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## CP_004
 
 **Hollow leather telescope case**
@@ -562,3 +580,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 **Quality32:** Zero-area cleanup and1 missing UV layer added; green variant uses repaired baseline. [Details](../material_variants_ws039_cp012.md).
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_004__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ws039-cp012-v1/CP_004__repair_thumb.png). [Version audit](VERSION-AUDIT.md).

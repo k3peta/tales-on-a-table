@@ -1,0 +1,209 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "CSH202",
+      "source_zip_sha256": "afa50ae418e6ee64a62ace0717fc89fc9784a5f7e43e8904261e8e6704f2b16d",
+      "source_glb_sha256": "f748aee8459c0eb4053b7851506afd38f297be9b45095d0ad47493f731a840ca",
+      "camera_location": [
+        2.1629998683929443,
+        -3.7079997062683105,
+        3.0879998207092285
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.576443947077678e-09,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.3989999294281006,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH202.png",
+      "image_source_sha256": "83ee85656d2213b4e5c6c4ce79bad47c4c82920f8ec2a25e077afc535ecb45b2",
+      "image_sha256": "a454cc2d936aece51f65a1e9e5e455665a3b53a441ecec5283302d6e441924fd",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH202.png",
+      "thumbnail_source_sha256": "d952a164a5149bdac57e07b1c6ac9c493d0c39901c929e390f2cfbf8f82d1735",
+      "thumbnail_sha256": "e07ca38da0c8b1754b5509f0b6b596a8e75b3dd4576a3747a8fbd1d938627cfc"
+    },
+    {
+      "id": "CSH301",
+      "source_zip_sha256": "79091b03bc921a488abf7c6a1e899f92603dce4bbe3d2124a2eaf12cfc724b42",
+      "source_glb_sha256": "b88a4edf7ef3920535669841b742fc481bb0fb978b60936def2d1cc25eab9420",
+      "camera_location": [
+        1.15500009059906,
+        -1.9800002574920654,
+        1.6775000095367432
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.7837950489793e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 1.815000295639038,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH301.png",
+      "image_source_sha256": "a0a87f305362808caad335de74f9363b0f73d08fa51ba0d3b9b6ec27169752d6",
+      "image_sha256": "30dec31abaf5a49418645fde669b935ce46a153a320e53336e75b45e20013795",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH301.png",
+      "thumbnail_source_sha256": "19390d2f6e4a0b562cd784e52e354e69a2e758b1f5f6af9726df2253342638b5",
+      "thumbnail_sha256": "5b49b2f3153fe9e1dba2b3316098587f65091e2d6b86034bde5b08937d45340e"
+    },
+    {
+      "id": "CSH302",
+      "source_zip_sha256": "9f5360716d5de15704ce90fcfbb187dc106e892a04bfda72e77b3447938009f7",
+      "source_glb_sha256": "d575431f8a88b0cf6531f5c571060fe772ae6c5a51754db21b8433d4061ea675",
+      "camera_location": [
+        0.24097497761249542,
+        -0.4130999743938446,
+        0.3557249903678894
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.3786749839782715,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH302.png",
+      "image_source_sha256": "d923acab13d1ef092240a7d6138a8b707511c3009e97e604cc8b052470b793f0",
+      "image_sha256": "49c9abeee0c30e25dc7c64a25e8c42f808ccb1c9aa228017dea1cd57726487fc",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH302.png",
+      "thumbnail_source_sha256": "07225edeee7a011f3f2301150575ef85929949e91575fe01656032cbc15800fb",
+      "thumbnail_sha256": "21c1773fc78385b9d31d63d18a129cbe5ac1daf8f70c878c753b381cfa387634"
+    },
+    {
+      "id": "CSH_SCENE_COBBLER",
+      "source_zip_sha256": "5d16c3c8f689a5dc5f8efddfa80b6a5803d19c8589d4ee9279b18635aa2ac6c0",
+      "source_glb_sha256": "e6b4004c402b2afca6e39a03bb87c63241880c28b2a61e14d8341b7b05901784",
+      "camera_location": [
+        4.718310356140137,
+        -8.07441520690918,
+        6.206546783447266
+      ],
+      "camera_rotation_euler": [
+        1.1040565967559814,
+        -1.7423047893316834e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 7.427431106567383,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH_SCENE_COBBLER.png",
+      "image_source_sha256": "2ae9f3bc139e98e6b65bf12f3b34893e31b866e868e66a8bf61e1aa428860c58",
+      "image_sha256": "4637f14690944761cfbc4b3e2246fe46761e09cbbcd017f0ba12f506a2d99720",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH_SCENE_COBBLER.png",
+      "thumbnail_source_sha256": "d90d640ea36160874a6b51b5cc163b35e10a38b788ad53125105d363c0a8e58a",
+      "thumbnail_sha256": "47af1b69c7c0b5d332ad00a98334a88d1784114adec9188a6ce26d6a2c7a1e83"
+    },
+    {
+      "id": "CSH_SCENE_LEATHERWORKER",
+      "source_zip_sha256": "acc42c84a4670382ab5bb7ac5b458e4d0f484040a0954a298fbe2beb622818d9",
+      "source_glb_sha256": "fa0f5611b0d9db67c562f939af3fb70e6257386da2cca69aae4a322dd5f40bbb",
+      "camera_location": [
+        4.718310356140137,
+        -8.07441520690918,
+        6.206546783447266
+      ],
+      "camera_rotation_euler": [
+        1.1040565967559814,
+        -1.7423047893316834e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 7.427431106567383,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH_SCENE_LEATHERWORKER.png",
+      "image_source_sha256": "23ee59d0f4fb14c16ff6e2022c0c24eec9b89c3cd937ddcbc17b442e1a4878bf",
+      "image_sha256": "af2a6aaffca2d6806b707a4cf5cb8f01c1959217d6eb9c132600bbda749975ff",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH_SCENE_LEATHERWORKER.png",
+      "thumbnail_source_sha256": "c201b370d531aa81d7b99758ba9713db6819da16817cd38c21116e9e23391010",
+      "thumbnail_sha256": "35fa76be2a842d57dd05624de899eee2f033c6b2399718f682d59e2927e457ee"
+    },
+    {
+      "id": "CSH_SCENE_TAILOR",
+      "source_zip_sha256": "8ef0c44ab644ac3b2e31f5a3b8c6e2a6077aba9a9dc7c7b19d81c9cb53297cf4",
+      "source_glb_sha256": "2b21e6fb5341978b7f05872d1bd33faf8f1da206da9e3165170869cf78888905",
+      "camera_location": [
+        4.718310356140137,
+        -8.07441520690918,
+        6.206546783447266
+      ],
+      "camera_rotation_euler": [
+        1.1040565967559814,
+        -1.7423047893316834e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 7.427431106567383,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/CSH_SCENE_TAILOR.png",
+      "image_source_sha256": "fe64600c7a02e0c35a6f65f91adb2cf12780e2167cc13aa247ebd0628b182d8c",
+      "image_sha256": "30568beeac27fa5434e170cc40ac03484994df64179c7a56dc0a943bc1d334a1",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/CSH_SCENE_TAILOR.png",
+      "thumbnail_source_sha256": "271e29060d3b520ed380a7b07f8b2e9a45eadca3672ddfd90742b1bde304513e",
+      "thumbnail_sha256": "5fce3f2d7f2eec4fb5190ed19062817924b1432c0769e64475e51ba8cc865853"
+    },
+    {
+      "id": "HERBALIST_SCENE_V1",
+      "source_zip_sha256": "e6f7de5c30d69ff62380d9e3ffb70e2f4df1dc51aeabde72725010cefb448c4b",
+      "source_glb_sha256": "38788d8f6fd5d791e1eb77b5c4d7162510e3e696665175284139790ef67af3b6",
+      "camera_location": [
+        4.718310356140137,
+        -8.07441520690918,
+        6.206546783447266
+      ],
+      "camera_rotation_euler": [
+        1.1040565967559814,
+        -1.7423047893316834e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 7.427431106567383,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/csh-herbalist7/renders/HERBALIST_SCENE_V1.png",
+      "image_source_sha256": "d2aa634065502e9a94db9a0b413e171b184e11c5a19aa2941eaf824a67c0089f",
+      "image_sha256": "c72ecb20beb4bb5edd2436af6caf06771aa79dcb4216262990f93ba4c2f3910c",
+      "thumbnail": "previews/csh-herbalist7/thumbnails/HERBALIST_SCENE_V1.png",
+      "thumbnail_source_sha256": "f6a10655445d4363ffa170966a08f958ed185c6e6cd1dcdc93d0f03e68a4bc4d",
+      "thumbnail_sha256": "a612ee6297932780155d67f3a73db299cb33fe918589e6d4fc01be885772aa6a"
+    }
+  ]
+}

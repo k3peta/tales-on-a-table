@@ -28,6 +28,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.2750000059604645, 
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_041__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_041__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_042
 
 **Worn harbor return tag**
@@ -52,6 +54,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.03999999910593033,
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_042__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_042__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_043
 
 **Small shrine for safe voyages**
@@ -75,6 +79,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.25, -0.17499999701
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_043__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_043__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_044
 
@@ -148,6 +154,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.7060449123382568, 
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_046__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_046__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_047
 
 **Braided rope boat fender**
@@ -196,6 +204,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.09600000083446503,
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_048__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_048__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_049
 
 **Small bundle of shipwright tools**
@@ -220,6 +230,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.19133466482162476,
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_049__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_049__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_050
 
 **Washed-up bottle and driftwood**
@@ -243,6 +255,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.262831449508667, -
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_01.en.md) · [Catalogue 2](../../catalog/curios-tools_01.md) · [Catalogue 3](../../catalog/curios-tools_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_050__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh041-050-v1/FH_050__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_051
 
@@ -316,6 +330,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.64000004529953, -0
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_053__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh051-056-ol001-004-v1/FH_053__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_054
 
 **Bait box**
@@ -340,6 +356,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.1550000011920929, 
 
 Source details: [Catalogue 1](../../catalog/containers_01.en.md) · [Catalogue 2](../../catalog/containers_01.md) · [Catalogue 3](../../catalog/containers_01.zh-CN.md)
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_054__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh051-056-ol001-004-v1/FH_054__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## FH_055
 
 **Fishing-rig winder**
@@ -363,6 +381,8 @@ Measured bounds relative to stored coordinates (metres): [[-0.11999999731779099,
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/marine_02.en.md) · [Catalogue 2](../../catalog/marine_02.md) · [Catalogue 3](../../catalog/marine_02.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_055__repair_CC0.zip). [Revision-specific preview](../../previews/quality-fh051-056-ol001-004-v1/FH_055__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## FH_056
 
@@ -507,6 +527,8 @@ Measured bounds relative to stored coordinates (metres): [[-1.3250000476837158, 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/textiles_01.en.md) · [Catalogue 2](../../catalog/textiles_01.md) · [Catalogue 3](../../catalog/textiles_01.zh-CN.md)
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_005__repair_CC0.zip). [Revision-specific preview](../../previews/quality-ol005-014-v1/OL_005__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## OL_006
 

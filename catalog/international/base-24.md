@@ -34,6 +34,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM009__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM009__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## PM010
 
 **T Junction Configuration**
@@ -64,6 +66,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM010__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM010__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## PM011
 
 **End Cap Configuration**
@@ -93,6 +97,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 [![Revised PM011](../../previews/quality-pmnode-wm009-repair-v1/PM011__repair_thumb.png)](../../previews/quality-pmnode-wm009-repair-v1/PM011__repair_comparison.png)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/PM011__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/PM011__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WM001
 
@@ -315,6 +321,8 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 [![Revised WM009](../../previews/quality-pmnode-wm009-repair-v1/WM009__repair_thumb.png)](../../previews/quality-pmnode-wm009-repair-v1/WM009__repair_comparison.png)
 
 [Revised ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip) · [Repair evidence and scope](../../catalog/pmnode_wm009_repairs.md). Original download and image above retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-pmnode-wm009-repair-v1/WM009__repair_CC0.zip). [Revision-specific preview](../../previews/quality-pmnode-wm009-repair-v1/WM009__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## WM010
 

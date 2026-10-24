@@ -30,6 +30,8 @@ Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2]
 
 **Revision: final ZIP guard and public-download identity verified:** [AT042 repair and comparison](../../catalog/at042_section_repair.md). Original download/image retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at042-section-v1/AT_042__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at042-section-v1/AT_042__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_043
 
 **Blue two-handled amphora**
@@ -341,6 +343,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 
 [Quill placement revision and comparison](../material_variants_at052_061.md). Original download retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_056__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at052-061-v1/AT_056__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_057
 

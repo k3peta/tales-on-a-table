@@ -3,9 +3,11 @@
 [画像付きカタログ対応一覧 / Illustrated catalogue index / 图像目录](catalog/IMAGE-COVERAGE.md)
 Current total: **1008 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
-**136 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
+**137 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
 
 ## Publication history
+
+- 2026-10-24 — [Quality35](catalog/material_variants_if003_td006.md):1 variant,7 revisions; base1008 unchanged, variants137. [7 images](catalog/international/README.md):1008 IDs mapped; current-version completeness not claimed. Audited346,remaining662;70 budget issues unresolved.
 
 - 2026-10-24 — [Quality34](catalog/material_variants_cp024_if002.md):1 variant,6 revisions; base1008 unchanged, variants136. [24 images](catalog/international/README.md):1001 mapped,7 missing. Audited336,remaining672;63 budget issues unresolved. IF002 HQ only; original LOD1 unassessed.
 

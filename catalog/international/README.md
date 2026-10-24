@@ -1,8 +1,8 @@
 # Browse models / 素材を探す
 
-Current image mapping: **1001/1008 base records;7 missing.136/136 variants pictured.** FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.137/137 variants pictured.** This is not complete current-version image coverage; see [version audit](VERSION-AUDIT.md). **** FW19 images show corrected revisions, not originals.
 
-**1008 distribution records +136 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +137 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -144,3 +144,9 @@ MRT102 through CSH201 (24 IDs) now include individual full-size images and thumb
 Image batch16 accepted24 of24; no held images in this batch. Remaining7 unpictured base records are tracked separately.
 
 [Quality34 variants](variant-06.md):136 separately counted material variants; base1008 unchanged.
+
+CSH and herbalist (7 IDs) now include individual full-size images and thumbnails. Base ID image mappings: 1008/1008; remaining0. Material variants:137/137. [Coverage](COVERAGE.md).
+
+Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured base records are tracked separately.
+
+[Quality35 variants](variant-06.md):137 separately counted material variants; base1008 unchanged.

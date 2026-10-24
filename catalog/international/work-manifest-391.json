@@ -10770,7 +10770,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH202-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10783,6 +10782,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10793,7 +10796,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH301-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10806,6 +10808,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10816,7 +10822,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH302-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10829,6 +10834,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10839,7 +10848,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/cobbler-scene-v1.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10852,6 +10860,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10862,7 +10874,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/tailor-scene-v1.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10875,6 +10886,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10885,7 +10900,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/leatherworker-scene-v1.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10898,6 +10912,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10908,7 +10926,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/herbalist-shop-v1/herbalist-scene-v1.zip",
     "license": "LicenseRef-Scene-Viewing-Rearranging",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10921,6 +10938,10 @@
     },
     "existing_catalogs": [
       "catalog/scene_polish_herbalist.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   }
 ]

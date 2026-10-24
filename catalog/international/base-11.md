@@ -28,6 +28,8 @@ Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2]
 
 [Gem placement revision and comparison](../material_variants_at062_071.md). Original download retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_066__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at062-071-v1/AT_066__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_067
 
 **Travel staff with worn grip**
@@ -53,6 +55,8 @@ Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue
 **Version history:** Scratch strips diagnosed and revised; see revision below. Polygon-budget issue remains unresolved.
 
 **Revision: final ZIP guard and public-download identity verified:** [AT067 repair and comparison](../../catalog/at067_scratch_repair.md). Original download/image retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at067-scratch-repair-v1/AT_067__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at067-scratch-repair-v1/AT_067__repair_thumb.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_068
 
@@ -398,6 +402,8 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 [Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public ZIP/member identity verified;original link retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_082__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at-binding-repair-v1/AT_082_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_083
 
 **Old pottery shards and papers**
@@ -423,6 +429,8 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 **Historical audit before binding revision:** Raised cord diagnosis pending; broken pottery rim may be intentional. [Audit scope](../quality_audit_at082_092.md).
 
 [Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public ZIP/member identity verified;original link retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_083__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at-binding-repair-v1/AT_083_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_084
 
@@ -474,6 +482,8 @@ Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2
 
 [Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_085__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at085-088-090-repair-v1/AT_085_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_086
 
 **Old cloth bundle tied with string**
@@ -499,6 +509,8 @@ Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2
 **Historical audit before binding revision:** Raised cords and apparently disconnected/embedded segments: diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 
 [Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public ZIP/member identity verified;original link retained.
+
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_086__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at-binding-repair-v1/AT_086_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
 
 ## AT_087
 
@@ -526,6 +538,8 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 [Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public ZIP/member identity verified;original link retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_087__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at-binding-repair-v1/AT_087_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_088
 
 **Assorted rolled parchments**
@@ -552,6 +566,8 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 [Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_088__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at085-088-090-repair-v1/AT_088_overview_before-after.png). [Version audit](VERSION-AUDIT.md).
+
 ## AT_089
 
 **Unopened parcel for a scholar**
@@ -575,3 +591,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 2](../../catalog/books-paper_01.md) · [Catalogue 3](../../catalog/books-paper_01.zh-CN.md)
 **Historical audit before binding revision:** Raised binding cords: repair diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 [Binding geometry/UV revision and comparisons](../binding_repairs_at082_089.md). Public ZIP/member identity verified;original link retained.
+**Version scope:** The image above depicts the primary recorded ZIP. [Latest revision ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_089__repair_CC0.zip). [Revision-specific preview](../../previews/quality-at-binding-repair-v1/AT_089_overview_before-after.png). [Version audit](VERSION-AUDIT.md).

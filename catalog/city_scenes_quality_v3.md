@@ -12,7 +12,7 @@ The old8x20m base was160m²; new14x8.5m base is119m², approximately26% less are
 Original model geometry and embedded-material CC0 scope is preserved. Code, rendered images, articles and private records are excluded. [Checksums](../distributions/city-scenes-quality-v3/SHA256SUMS.txt).
 
 
-## 実作画像 / Actual renders
+## Batch artwork / 制作バッチ画像（版対応は下記監査参照）
 
 完成バッチの配置・接写。画像は閲覧用でモデルCC0の対象外です。[既存の画像利用条件](../LICENSE.md)を維持します。
 
@@ -39,7 +39,7 @@ GateAccessExample
 
 ![city-scenes-quality-v3 — gate_turns](../previews/catalog-20261024/city-scenes-quality-v3-gate_turns.jpg)
 
-## Individual images / 個別画像 / 单件图片
+## Primary archive images / 初回配布版画像 / 原始归档图片
 
 Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
 
@@ -51,7 +51,7 @@ ConstructionSite
 
 [Full image](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
 
-## Individual images / 個別画像 / 单件图片
+## Primary archive images / 初回配布版画像 / 原始归档图片
 
 Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
 
@@ -62,3 +62,6 @@ GateAccessExample
 [![FCSV03_GateAccessExample](../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png)](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
 
 [Full image](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
+
+
+Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; exact revised-ZIP/render binding needs review for the six records listed in [Version audit](international/VERSION-AUDIT.md).
