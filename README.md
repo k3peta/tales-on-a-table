@@ -1,5 +1,6 @@
 # Tales on a Table — 小さな世界の素材棚
 
+[画像付きカタログ対応一覧 / Illustrated catalogue index / 图像目录](catalog/IMAGE-COVERAGE.md)
 現在の公開数は **1008配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 材質variant **54件を別集計**。既存1008配布レコードは据置、新基本形状0。

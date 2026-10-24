@@ -141,3 +141,5 @@
 |[wizard-study.zh-CN.md](wizard-study.zh-CN.md)|40|existing images; detailed coverage review pending|
 
 未対応の具体的理由: recovered_rustic_fences_rf7 は完成バッチ内に実レンダーが見つからず、terrain_connectivity_v1 は34件時点の画像と現行91件の個別対応が未検証。次回は制作者の確定画像一覧を照合して追加します。既存画像ページのモデル別網羅性は今回未査定。
+
+|[material_variants_ft021_030.md](material_variants_ft021_030.md)|18|added: accepted9 variants, original/variant comparisons|

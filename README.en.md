@@ -1,5 +1,6 @@
 # Tales on a Table
 
+[画像付きカタログ対応一覧 / Illustrated catalogue index / 图像目录](catalog/IMAGE-COVERAGE.md)
 Current total: **1008 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 **54 material variants separately**; existing1008 distribution records unchanged; new base shapes0.
