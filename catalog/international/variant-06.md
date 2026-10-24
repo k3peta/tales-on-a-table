@@ -393,3 +393,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_035](base-17.md#arm_035) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_035__coppertint_CC0.zip) · [Full comparison](../../previews/quality-arm034-045-v1/ARM_035__coppertint_overview_comparison.png) · [Details](../material_variants_arm034_arm045.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_051__bluefelt
+
+**革敷きの傾斜盾架** · 革敷きの傾斜盾架
+
+[![ARM_051__bluefelt](../../previews/quality-arm050-066-v1/ARM_051__bluefelt_thumb.png)](../../previews/quality-arm050-066-v1/ARM_051__bluefelt_overview_comparison.png)
+
+Use: Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_051](base-17.md#arm_051) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_051__bluefelt_CC0.zip) · [Full comparison](../../previews/quality-arm050-066-v1/ARM_051__bluefelt_overview_comparison.png) · [Details](../material_variants_arm050_arm066.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_053__redfelt
+
+**フェルト頭の兜掛け** · フェルト頭の兜掛け
+
+[![ARM_053__redfelt](../../previews/quality-arm050-066-v1/ARM_053__redfelt_thumb.png)](../../previews/quality-arm050-066-v1/ARM_053__redfelt_overview_comparison.png)
+
+Use: Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_053](base-17.md#arm_053) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_053__redfelt_CC0.zip) · [Full comparison](../../previews/quality-arm050-066-v1/ARM_053__redfelt_overview_comparison.png) · [Details](../material_variants_arm050_arm066.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

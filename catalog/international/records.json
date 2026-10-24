@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 149,
-      "id_mapped_preview": 149,
+      "records": 151,
+      "id_mapped_preview": 151,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 149,
-      "formats_known": 149,
+      "purpose_en_present": 151,
+      "formats_known": 151,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -17687,7 +17687,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_050_CC0.zip",
       "pictured_zip_sha256": "f63a81b9480aae66edbc8e80ff9c4aec923bef1cb83cd459d7b9dd648d554c55",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "24416tri within50k furnishing warning; mounting/load untested."
     },
     {
       "id": "ARM_051",
@@ -17725,7 +17726,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_051_CC0.zip",
       "pictured_zip_sha256": "636ff52ea65e0eebcd13df42db07a16c5332dd2704ddcbb78ea227b73a6198e9",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "37388tri within50k; blue felt only."
     },
     {
       "id": "ARM_052",
@@ -17762,7 +17764,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_052_CC0.zip",
       "pictured_zip_sha256": "e1ea7e97fbcd78171650721f66cada4dc007bbbaa895d4967fb354c6498152e7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_052__repair",
+          "catalog": "catalog/material_variants_arm050_arm066.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "40 zero faces removed;83072tri over50k."
     },
     {
       "id": "ARM_053",
@@ -17799,7 +17809,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_053_CC0.zip",
       "pictured_zip_sha256": "dd667832b60b513e729bc33f6834489039d5900eff6eddcfb29f31857d7de9c4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "21072tri within50k; red felt only, fit/load untested."
     },
     {
       "id": "ARM_054",
@@ -17836,7 +17847,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_054_CC0.zip",
       "pictured_zip_sha256": "4afaf9470cc5c1869cbe56cfc66875392536cff2aed8184ae647b112cc347a38",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "118908tri over50k; structural load untested."
     },
     {
       "id": "ARM_055",
@@ -17873,7 +17885,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_055_CC0.zip",
       "pictured_zip_sha256": "90d21340dcdb77ebddde21841aa66305e1bc57a19e7dea7342a16a059fc2901e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "108928tri over50k; budget unresolved."
     },
     {
       "id": "ARM_056",
@@ -17910,7 +17923,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_056_CC0.zip",
       "pictured_zip_sha256": "f741ee7faa850127331d840f99f54dfbe42a486754a254f659698e6da1593003",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "45664tri over20k; static hand tool."
     },
     {
       "id": "ARM_058",
@@ -17947,7 +17961,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_058_CC0.zip",
       "pictured_zip_sha256": "b826e13a687f7364f47de77f857af9800679ea944608ff6b215c4d46b215e039",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "45342tri over20k;6 positive tiny triangles retained; separate receiver intentional."
     },
     {
       "id": "ARM_065",
@@ -17984,7 +17999,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_065_CC0.zip",
       "pictured_zip_sha256": "c6501c0ca5f59f3ce04ef6181ff33df5ea1f24a00e90e22d181188b45b67debd",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "60728tri over50k; regular wood grain remains."
     },
     {
       "id": "ARM_066",
@@ -18021,7 +18037,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_066_CC0.zip",
       "pictured_zip_sha256": "a9bd1f1cb88857004b4dcfaad36d9213942ba57b0ae9ae5e2a4c6bf2da0e65cc",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_066__repair",
+          "catalog": "catalog/material_variants_arm050_arm066.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "82 zero faces removed;15386tri within20k;256 positive tiny retained."
     },
     {
       "id": "ARM_067",
@@ -45241,6 +45265,80 @@
       "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_035_CC0.zip",
       "pictured_zip_sha256": "2ff25f4a0d927a8027d7b5f40b05f3077224420aaf5da7d81832aeec20ed26c7",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_051__bluefelt",
+      "kind": "variant",
+      "base_id": "ARM_051",
+      "name_en": "革敷きの傾斜盾架",
+      "name_ja": "革敷きの傾斜盾架",
+      "purpose_en": "Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm050-066-v1/ARM_051__bluefelt_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_051__bluefelt_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm050_arm066.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm050-066-v1/ARM_051__bluefelt_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_051_CC0.zip",
+      "pictured_zip_sha256": "636ff52ea65e0eebcd13df42db07a16c5332dd2704ddcbb78ea227b73a6198e9",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_053__redfelt",
+      "kind": "variant",
+      "base_id": "ARM_053",
+      "name_en": "フェルト頭の兜掛け",
+      "name_ja": "フェルト頭の兜掛け",
+      "purpose_en": "Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm050-066-v1/ARM_053__redfelt_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_053__redfelt_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm050_arm066.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm050-066-v1/ARM_053__redfelt_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_053_CC0.zip",
+      "pictured_zip_sha256": "dd667832b60b513e729bc33f6834489039d5900eff6eddcfb29f31857d7de9c4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

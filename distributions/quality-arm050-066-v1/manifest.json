@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "ARM_051__bluefelt",
+      "base_id": "ARM_051",
+      "entity_type": "material_variant",
+      "zip": "ARM_051__bluefelt_CC0.zip",
+      "sha256": "f2e180727c53d2f0b50deb85a343b8f6bcb34d0e66801cd7b28123b9a1892e26",
+      "bytes": 1787093,
+      "description": "Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_051__bluefelt_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_052__repair",
+      "base_id": "ARM_052",
+      "entity_type": "revision",
+      "zip": "ARM_052__repair_CC0.zip",
+      "sha256": "e38b1d9a35ccce30f31250d51515e4a04240b1a316a745221a2fd1d51a861ec7",
+      "bytes": 5672793,
+      "description": "Exact-zero-area cleanup with positive surfaces, UV and vertex colors retained: ARM052 40 faces, ARM066 82 faces. ARM052 budget warning remains. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_052__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_053__redfelt",
+      "base_id": "ARM_053",
+      "entity_type": "material_variant",
+      "zip": "ARM_053__redfelt_CC0.zip",
+      "sha256": "081f67a99264761f9585595d4ba43838ad0928c265f3444647de10f57bcdf383",
+      "bytes": 1049206,
+      "description": "Blue or red felt UV tint multiplied with original vertex colors. Geometry/UV/roughness/normal/emission unchanged. Not a new model or geometry repair.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_053__redfelt_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_066__repair",
+      "base_id": "ARM_066",
+      "entity_type": "revision",
+      "zip": "ARM_066__repair_CC0.zip",
+      "sha256": "5e2ad290e9d8be7454bb925ca993e8ec95926144a4f71dfc26301958fae2b5d5",
+      "bytes": 1027130,
+      "description": "Exact-zero-area cleanup with positive surfaces, UV and vertex colors retained: ARM052 40 faces, ARM066 82 faces. ARM052 budget warning remains. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_066__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 2
+}

@@ -318,6 +318,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality41:** 24416tri within50k furnishing warning; mounting/load untested. [Details](../material_variants_arm050_arm066.md).
+
 ## ARM_051
 
 **革敷きの傾斜盾架**
@@ -339,6 +341,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality41:** 37388tri within50k; blue felt only. [Details](../material_variants_arm050_arm066.md).
 
 ## ARM_052
 
@@ -362,6 +366,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality41:** 40 zero faces removed;83072tri over50k. [Details](../material_variants_arm050_arm066.md).
+
 ## ARM_053
 
 **フェルト頭の兜掛け**
@@ -383,6 +389,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality41:** 21072tri within50k; red felt only, fit/load untested. [Details](../material_variants_arm050_arm066.md).
 
 ## ARM_054
 
@@ -406,6 +414,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality41:** 118908tri over50k; structural load untested. [Details](../material_variants_arm050_arm066.md).
+
 ## ARM_055
 
 **切株台付きの小鉄床**
@@ -427,6 +437,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality41:** 108928tri over50k; budget unresolved. [Details](../material_variants_arm050_arm066.md).
 
 ## ARM_056
 
@@ -450,6 +462,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality41:** 45664tri over20k; static hand tool. [Details](../material_variants_arm050_arm066.md).
+
 ## ARM_058
 
 **手入れ石と木受け**
@@ -471,6 +485,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality41:** 45342tri over20k;6 positive tiny triangles retained; separate receiver intentional. [Details](../material_variants_arm050_arm066.md).
 
 ## ARM_065
 
@@ -494,6 +510,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality41:** 60728tri over50k; regular wood grain remains. [Details](../material_variants_arm050_arm066.md).
+
 ## ARM_066
 
 **日輪守の両手剣**
@@ -515,6 +533,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality41:** 82 zero faces removed;15386tri within20k;256 positive tiny retained. [Details](../material_variants_arm050_arm066.md).
 
 ## ARM_067
 

@@ -12792,7 +12792,23 @@
       "zip_sha256": "e1ea7e97fbcd78171650721f66cada4dc007bbbaa895d4967fb354c6498152e7",
       "preview_file": "previews/ARM_052_preview.png",
       "preview_sha256": "239cf69a004ca9d29c5a01b454b1c91393f89d237c6fababff399526763995c4",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_052_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_052_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_052__repair",
+          "base_id": "ARM_052",
+          "entity_type": "revision",
+          "zip": "ARM_052__repair_CC0.zip",
+          "sha256": "e38b1d9a35ccce30f31250d51515e4a04240b1a316a745221a2fd1d51a861ec7",
+          "bytes": 5672793,
+          "description": "Exact-zero-area cleanup with positive surfaces, UV and vertex colors retained: ARM052 40 faces, ARM066 82 faces. ARM052 budget warning remains. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_052__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_053",
@@ -13002,7 +13018,23 @@
       "zip_sha256": "a9bd1f1cb88857004b4dcfaad36d9213942ba57b0ae9ae5e2a4c6bf2da0e65cc",
       "preview_file": "previews/ARM_066_preview.jpg",
       "preview_sha256": "2c828ede30eb7d54c32ef25ff6c7960c3b70fb4b5563f8c0a5db29b32b84d816",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_066_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_066_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_066__repair",
+          "base_id": "ARM_066",
+          "entity_type": "revision",
+          "zip": "ARM_066__repair_CC0.zip",
+          "sha256": "5e2ad290e9d8be7454bb925ca993e8ec95926144a4f71dfc26301958fae2b5d5",
+          "bytes": 1027130,
+          "description": "Exact-zero-area cleanup with positive surfaces, UV and vertex colors retained: ARM052 40 faces, ARM066 82 faces. ARM052 budget warning remains. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm050-066-v1/ARM_066__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_067",
