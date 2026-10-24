@@ -2150,7 +2150,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_017_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "989d74cc6ccac876fe626badf46083c2ccddb1a4f9810ba92e19aaacf8c75d3f",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_017__repair",
+          "base_id": "FH_017",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "漁船内側の強い反復木目を低減し、肋材と座板の構造を読み取りやすくした材質改訂。",
+          "zip": "FH_017__repair_CC0.zip",
+          "bytes": 23392814,
+          "sha256": "84845d8fb2292e2690c9729a9d0fc470006e39fe57f57e163d423c0932c0fd30",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_017__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_018",
@@ -2229,7 +2246,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_020_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "051047e6cf3ce7c43767657baf26dbc0f0486e9bef63a145f23a9e8e7c54ea3f",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_020__repair",
+          "base_id": "FH_020",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "あか汲みの大きな反復木目とUV継ぎ目のコントラストを抑えた材質改訂。",
+          "zip": "FH_020__repair_CC0.zip",
+          "bytes": 2270895,
+          "sha256": "932993df13e4d7658c96c685324b3566f369c6b7aea0e497b6611b39c7934b5f",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_020__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_021",

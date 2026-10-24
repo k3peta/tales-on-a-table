@@ -1,5 +1,5 @@
 {
-  "count": 81,
+  "count": 85,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1159,6 +1159,66 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh001-010-v1/FH_009__color_CC0.zip"
+    },
+    {
+      "id": "FH_011__color",
+      "base_id": "FH_011",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u6d77\u5074\u80f8\u58c1\u306e\u6696\u304b\u3044\u7802\u8272\u6750\u8cea\u3002\u539f\u5bf8\u6cd5\u30fb\u76ee\u5730\u30fb\u5f62\u72b6\u3092\u4fdd\u6301\u3002",
+      "zip": "FH_011__color_CC0.zip",
+      "bytes": 17719568,
+      "sha256": "160c61f44b88c3511589b2b3c94c6d51b9558f6dbd140ec8c43a59c1b5f03c38",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_011__color_CC0.zip"
+    },
+    {
+      "id": "FH_012__new",
+      "base_id": "FH_012",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "new",
+      "description": "\u4fc2\u8239\u67f1\u306e\u9244\u90e8\u3092\u624b\u5165\u308c\u5f8c\u306e\u9244\u8272\u306b\u3002\u77f3\u53f0\u306f\u7dad\u6301\u3002",
+      "zip": "FH_012__new_CC0.zip",
+      "bytes": 8348505,
+      "sha256": "65a94f47aac3a96dfaad758d60eb0aaa71f85583c1179456a2941449950790f0",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_012__new_CC0.zip"
+    },
+    {
+      "id": "FH_013__new",
+      "base_id": "FH_013",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "new",
+      "description": "\u4fc2\u7559\u74b0\u306e\u9244\u90e8\u3092\u624b\u5165\u308c\u5f8c\u306e\u9244\u8272\u306b\u3002\u77f3\u53f0\u306f\u7dad\u6301\u3002",
+      "zip": "FH_013__new_CC0.zip",
+      "bytes": 8163164,
+      "sha256": "df6ef27178d0d45512b4d2a9b5a5b99be606be03edd9d8d9038cf31e2a7f0ec3",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_013__new_CC0.zip"
+    },
+    {
+      "id": "FH_015__new",
+      "base_id": "FH_015",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "new",
+      "description": "\u6e2f\u706f\u306e\u9244\u90e8\u3092\u624b\u5165\u308c\u5f8c\u306e\u6750\u8cea\u3078\u3002\u30ac\u30e9\u30b9\u30fb\u706f\u706b\u30fb\u771f\u936e\u306f\u7dad\u6301\u3002",
+      "zip": "FH_015__new_CC0.zip",
+      "bytes": 3693825,
+      "sha256": "4231a32143fbbf6ac7b0f6d709f1d122f03901a465a1ea786d7ccdaa6b2e5856",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh011-020-v1/FH_015__new_CC0.zip"
     }
   ]
 }
