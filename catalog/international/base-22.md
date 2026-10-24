@@ -314,6 +314,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality53:** 3400tri earrings pair remains one record;wearable fit untested. [Details](../material_variants_bm081_fp007.md).
+
 ## BM_082
 
 **Hanging shop sign**
@@ -336,6 +338,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality53:** 1616tri hanging sign;repetitive wood grain remains material-review candidate. [Details](../material_variants_bm081_fp007.md).
+
 ## BM_083
 
 **Stall valance cloth**
@@ -357,6 +361,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality53:** 1712tri valance;blue canvas variant,flat panel intentional,no cloth dynamics. [Details](../material_variants_bm081_fp007.md).
 
 ## FP001
 
@@ -384,6 +390,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e`.
 
+**Quality53:** 5100tri grille;physical security/load/collision untested. [Details](../material_variants_bm081_fp007.md).
+
 ## FP002
 
 **Barred cell gate**
@@ -409,6 +417,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b`.
+
+**Quality53:** 5968tri closed gate;opening/gameplay untested. [Details](../material_variants_bm081_fp007.md).
 
 ## FP003
 
@@ -436,6 +446,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a`.
 
+**Quality53:** 6268tri desk;repetitive wood texture material-review candidate. [Details](../material_variants_bm081_fp007.md).
+
 ## FP004
 
 **Jailer high back chair**
@@ -461,6 +473,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5`.
+
+**Quality53:** 4372tri chair;load/seating animation untested. [Details](../material_variants_bm081_fp007.md).
 
 ## FP005
 
@@ -488,6 +502,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed`.
 
+**Quality53:** 5432tri keyring;static arrangement,no lock function. [Details](../material_variants_bm081_fp007.md).
+
 ## FP006
 
 **Straw sleeping pallet**
@@ -514,6 +530,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250`.
 
+**Quality53:** 118 intersecting straw components472tri removed;7412tri revised,remaining432 edge-test0 crossings;not exhaustive collision guarantee. [Details](../material_variants_bm081_fp007.md).
+
 ## FP007
 
 **Stave water bucket**
@@ -539,6 +557,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347`.
+
+**Quality53:** 7524tri bucket;watertightness/fluid/container safety untested. [Details](../material_variants_bm081_fp007.md).
 
 ## FP008
 

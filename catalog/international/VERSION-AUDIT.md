@@ -13,3 +13,5 @@ The six resolved records are FCS105_RoadGatehouse, FCSV01_ConstructionSite, FCSV
 [25 exact public bindings](../../previews/current-scenes6/bindings25.json) · [Six render manifests](../../previews/current-scenes6/manifest.json) · [Full1008 audit](version-audit.json) · [Earlier audit with six pending](VERSION-AUDIT-before-scenes6.md).
 
 Quality49:149 latest revision bindings verified including BM041;859 records have no revision entry.
+
+Quality53:149 prior revision bindings verified; FP006 new revision public retrieval pending;858 records have no revision entry.

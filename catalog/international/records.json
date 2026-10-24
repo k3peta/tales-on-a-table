@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 168,
-      "id_mapped_preview": 168,
+      "records": 169,
+      "id_mapped_preview": 169,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 168,
-      "formats_known": 168,
+      "purpose_en_present": 169,
+      "formats_known": 169,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -22390,7 +22390,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_081_CC0.zip",
       "pictured_zip_sha256": "0358894ae6207d8d02d549f43a357a215504a427266a2ca097c016163a21d42d",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3400tri earrings pair remains one record;wearable fit untested."
     },
     {
       "id": "BM_082",
@@ -22427,7 +22428,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_082_CC0.zip",
       "pictured_zip_sha256": "2258f9865304d840b4fbaff9e5ad2a9a297734f8ff8fdafe7c94ab2cbd075694",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1616tri hanging sign;repetitive wood grain remains material-review candidate."
     },
     {
       "id": "BM_083",
@@ -22464,7 +22466,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_083_CC0.zip",
       "pictured_zip_sha256": "819c38520684231fc75766e0d036d89ff327d7dffabefb13ed006dc5e5f15406",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1712tri valance;blue canvas variant,flat panel intentional,no cloth dynamics."
     },
     {
       "id": "FP001",
@@ -22542,7 +22545,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip",
       "pictured_zip_sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5100tri grille;physical security/load/collision untested."
     },
     {
       "id": "FP002",
@@ -22620,7 +22624,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip",
       "pictured_zip_sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5968tri closed gate;opening/gameplay untested."
     },
     {
       "id": "FP003",
@@ -22698,7 +22703,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip",
       "pictured_zip_sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "6268tri desk;repetitive wood texture material-review candidate."
     },
     {
       "id": "FP004",
@@ -22776,7 +22782,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip",
       "pictured_zip_sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4372tri chair;load/seating animation untested."
     },
     {
       "id": "FP005",
@@ -22854,7 +22861,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip",
       "pictured_zip_sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5432tri keyring;static arrangement,no lock function."
     },
     {
       "id": "FP006",
@@ -22932,7 +22940,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip",
       "pictured_zip_sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP006__repair",
+          "catalog": "catalog/material_variants_bm081_fp007.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "118 intersecting straw components472tri removed;7412tri revised,remaining432 edge-test0 crossings;not exhaustive collision guarantee."
     },
     {
       "id": "FP007",
@@ -23010,7 +23026,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip",
       "pictured_zip_sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "7524tri bucket;watertightness/fluid/container safety untested."
     },
     {
       "id": "FP008",
@@ -46200,6 +46217,43 @@
       "uv_revision": "original UV and vertex colors retained; vegetable surface UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_074_CC0.zip",
       "pictured_zip_sha256": "4e7ac5b4a4b87a4609de817e299b612e7ecf56da54ac2e3da78b5f24e6c39e2d",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_083__blue_canvas",
+      "kind": "variant",
+      "base_id": "BM_083",
+      "name_en": "Stall valance cloth",
+      "name_ja": "屋台の前掛け布",
+      "purpose_en": "Blue valance canvas packed UV texture, original geometry/UV/material channels unchanged. No emission added.",
+      "record_kind": "model",
+      "image": "previews/quality-bm081-fp007-v1/BM_083__blue_canvas_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/BM_083__blue_canvas_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm081_fp007.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm081-fp007-v1/BM_083__blue_canvas_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; valance canvas UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_083_CC0.zip",
+      "pictured_zip_sha256": "819c38520684231fc75766e0d036d89ff327d7dffabefb13ed006dc5e5f15406",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

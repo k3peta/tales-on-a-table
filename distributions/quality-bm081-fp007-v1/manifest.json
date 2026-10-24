@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "BM_083__blue_canvas",
+      "base_id": "BM_083",
+      "entity_type": "material_variant",
+      "zip": "BM_083__blue_canvas_CC0.zip",
+      "sha256": "c77c6e66804f09d6999fb3129f9b471b493fabca9d6fb9c086ae4930cb558f89",
+      "bytes": 348424,
+      "description": "Blue valance canvas packed UV texture, original geometry/UV/material channels unchanged. No emission added.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/BM_083__blue_canvas_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP006__repair",
+      "base_id": "FP006",
+      "entity_type": "revision",
+      "zip": "FP006__repair_CC0.zip",
+      "sha256": "ccb1e1ac497b50e908f79fc197f65a1a0ba3d1c98c86961adf9b6c1ad0c22fd1",
+      "bytes": 2403298,
+      "description": "Remove whole straw components that intersect blanket/pillow faces; retained geometry/UV/materials/corner normals preserved, other objects unchanged. Static edge-intersection test, not exhaustive collision validation.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/FP006__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 1
+}

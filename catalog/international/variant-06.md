@@ -659,3 +659,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_074](base-22.md#bm_074) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm071-080-v1/BM_074__green_pumpkin_CC0.zip) · [Full comparison](../../previews/quality-bm071-080-v1/BM_074__green_pumpkin_overview_comparison.png) · [Details](../material_variants_bm071_bm080.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_083__blue_canvas
+
+**Stall valance cloth** · 屋台の前掛け布
+
+[![BM_083__blue_canvas](../../previews/quality-bm081-fp007-v1/BM_083__blue_canvas_thumb.png)](../../previews/quality-bm081-fp007-v1/BM_083__blue_canvas_overview_comparison.png)
+
+Use: Blue valance canvas packed UV texture, original geometry/UV/material channels unchanged. No emission added.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_083](base-22.md#bm_083) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm081-fp007-v1/BM_083__blue_canvas_CC0.zip) · [Full comparison](../../previews/quality-bm081-fp007-v1/BM_083__blue_canvas_overview_comparison.png) · [Details](../material_variants_bm081_fp007.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
