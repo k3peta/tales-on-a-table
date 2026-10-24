@@ -11078,12 +11078,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "known_issue": "Historical local defects revised; final v3 ZIP and exact public download matched. AT088 slight faceting remains; no exhaustive collision or physical operation guarantee.",
       "revision_history": [
         {
           "id": "AT_085__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_085__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11198,12 +11198,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "known_issue": "Historical local defects revised; final v3 ZIP and exact public download matched. AT088 slight faceting remains; no exhaustive collision or physical operation guarantee.",
       "revision_history": [
         {
           "id": "AT_088__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_088__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11278,12 +11278,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Historical local geometry defects revised; final v3 guard passed, public identity pending. AT088 slight faceting remains; no physical operation or exhaustive collision proof.",
+      "known_issue": "Historical local defects revised; final v3 ZIP and exact public download matched. AT088 slight faceting remains; no exhaustive collision or physical operation guarantee.",
       "revision_history": [
         {
           "id": "AT_090__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at085-088-090-repair-v1/AT_090__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },

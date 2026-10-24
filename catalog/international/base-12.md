@@ -28,7 +28,7 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 **Historical audit before local revision:** Separated paper layers/rigid cord bridges: intended assembly unconfirmed. [Audit scope](../quality_audit_at082_092.md).
 
-[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
 ## AT_092
 

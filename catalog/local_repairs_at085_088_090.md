@@ -8,7 +8,7 @@ AT085: paper moved inward and bent above the box wall, preserving thickness; ear
 
 修订纸张穿箱、卷轴绑绳方向及法线、三叠纸中央绑绳和悬浮文字。保留三叠结构，卷轴仍略有面状阴影。仅最终v3通过，旧失败版本不作为合格依据。
 
-Guard compares revised references, not original geometry/UV. Final-ZIP guard passed; public artifact identity pending. Publication did not rerun Blender. No exhaustive collision, physical operation or Blender4.3.2 guarantee. Budget/redesign46 unchanged. Models and embedded materials CC0; comparison images separately licensed catalogue artwork. [License](../LICENSE.md).
+Guard compares revised references, not original geometry/UV. Final-ZIP guard and exact public ZIP/member identity verified. Publication did not rerun Blender. No exhaustive collision, physical operation or Blender4.3.2 guarantee. Budget/redesign46 unchanged. Models and embedded materials CC0; comparison images separately licensed catalogue artwork. [License](../LICENSE.md).
 
 ## AT_085__repair — Box with a broken seal
 
@@ -51,3 +51,5 @@ Left original;right repair,same settings.
 [![close comparison](../previews/quality-at085-088-090-repair-v1/AT_090_close_before-after.png)](../previews/quality-at085-088-090-repair-v1/AT_090_close_before-after.png)
 
 Left original;right repair,same settings.
+
+[ZIP/model/run/numerical evidence](../distributions/quality-at085-088-090-repair-v1/validation.json).

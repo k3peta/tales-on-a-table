@@ -472,7 +472,7 @@ Source details: [Catalogue 1](../../catalog/containers_02.en.md) · [Catalogue 2
 
 **Historical audit before local revision:** Paper/box-wall overhang versus intersection diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 
-[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
 ## AT_086
 
@@ -550,7 +550,7 @@ Source details: [Catalogue 1](../../catalog/books-paper_01.en.md) · [Catalogue 
 
 **Historical audit before local revision:** Dark scroll bases/open ties: material, shading and construction diagnosis pending. [Audit scope](../quality_audit_at082_092.md).
 
-[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public artifact verification pending;original link retained.
+[Local geometry revision and comparisons](../local_repairs_at085_088_090.md). Public ZIP/member identity verified;original link retained.
 
 ## AT_089
 
