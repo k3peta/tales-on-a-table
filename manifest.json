@@ -4467,7 +4467,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_033_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "d0bda2ddc2bc80fe6ba79f6d44901cd2985716b8953d1b82af3254c75a4ccf78",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_033__repair",
+          "base_id": "OL_033",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "宝石箱の蓋の強い周期模様を抑え、宝石と縁取りを読みやすくした材質改訂。",
+          "zip": "OL_033__repair_CC0.zip",
+          "bytes": 2548788,
+          "sha256": "180d6226a7fdc707d7fe09dbc8613a61aa97a709d3cc42bcebbc1290e8e3030d",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_033__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_034",
@@ -4493,7 +4510,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_034_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "19e4f0f39a383bc51ba94493e7c75cd654e1ccbbe14e33776e96dd184a4d44a4",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_034__repair",
+          "base_id": "OL_034",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "商人の櫃の周期木目を抑え、蓋・金帯・錠前を読みやすくした材質改訂。",
+          "zip": "OL_034__repair_CC0.zip",
+          "bytes": 3154301,
+          "sha256": "fc419f12bef131308a9926d20c1724830e0297ee5a88605cb5b013bd55a74003",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_034__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_035",

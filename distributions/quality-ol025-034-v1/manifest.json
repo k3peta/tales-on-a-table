@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "OL_028__color",
+      "base_id": "OL_028",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u6241\u7403\u5f62\u30e9\u30f3\u30d7\u306e\u91d1\u5c5e\u67a0\u3092\u9285\u8272\u3078\u5909\u66f4\u3002\u30ac\u30e9\u30b9\u30fb\u767a\u5149\u30fb\u6697\u8272\u9396\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_028__color_CC0.zip",
+      "bytes": 9740662,
+      "sha256": "1bdae4e444789d16bbcdf62df006d0c232102b85ce68039074e86703492f9351",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_028__color_CC0.zip"
+    },
+    {
+      "id": "OL_029__color",
+      "base_id": "OL_029",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u88c5\u98fe\u7528\u6c34\u7159\u8349\u5668\u306e\u4e0a\u90e8\u9676\u5668\u3060\u3051\u8d64\u8336\u8272\u3078\u5909\u66f4\u3002\u30ac\u30e9\u30b9\u80f4\u30fb\u91d1\u5c5e\u30fb\u30db\u30fc\u30b9\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_029__color_CC0.zip",
+      "bytes": 2642100,
+      "sha256": "3fcd986bc7f7db83a788790bdb5cb594700d002e0137e335c22b84c295a81995",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_029__color_CC0.zip"
+    },
+    {
+      "id": "OL_033__repair",
+      "base_id": "OL_033",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "repair",
+      "description": "\u5b9d\u77f3\u7bb1\u306e\u84cb\u306e\u5f37\u3044\u5468\u671f\u6a21\u69d8\u3092\u6291\u3048\u3001\u5b9d\u77f3\u3068\u7e01\u53d6\u308a\u3092\u8aad\u307f\u3084\u3059\u304f\u3057\u305f\u6750\u8cea\u6539\u8a02\u3002",
+      "zip": "OL_033__repair_CC0.zip",
+      "bytes": 2548788,
+      "sha256": "180d6226a7fdc707d7fe09dbc8613a61aa97a709d3cc42bcebbc1290e8e3030d",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_033__repair_CC0.zip"
+    },
+    {
+      "id": "OL_034__repair",
+      "base_id": "OL_034",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "repair",
+      "description": "\u5546\u4eba\u306e\u6ac3\u306e\u5468\u671f\u6728\u76ee\u3092\u6291\u3048\u3001\u84cb\u30fb\u91d1\u5e2f\u30fb\u9320\u524d\u3092\u8aad\u307f\u3084\u3059\u304f\u3057\u305f\u6750\u8cea\u6539\u8a02\u3002",
+      "zip": "OL_034__repair_CC0.zip",
+      "bytes": 3154301,
+      "sha256": "fc419f12bef131308a9926d20c1724830e0297ee5a88605cb5b013bd55a74003",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol025-034-v1/OL_034__repair_CC0.zip"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 2
+}
