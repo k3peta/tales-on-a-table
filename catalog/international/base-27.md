@@ -420,7 +420,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Three earthen herb pots
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW013 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW013.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW013.png)
+
+Image depicts corrected revision FW013__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -436,7 +441,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW014
 
@@ -444,7 +449,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Low three legged stool
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW014 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW014.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW014.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW014.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW014.png)
+
+Image depicts corrected revision FW014__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -460,7 +470,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW015
 
@@ -468,7 +478,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Canvas gathering satchel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW015 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW015.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW015.png)
+
+Image depicts corrected revision FW015__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -484,7 +499,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW016
 
@@ -492,7 +507,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Mushroom sorting tray
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW016 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW016.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW016.png)
+
+Image depicts corrected revision FW016__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -508,7 +528,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW017
 
@@ -516,7 +536,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Herb bundle storage crate
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW017 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW017.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW017.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW017.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW017.png)
+
+Image depicts corrected revision FW017__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -532,7 +557,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW018
 
@@ -540,7 +565,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Folded linen and wash basin
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW018 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW018.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW018.png)
+
+Image depicts corrected revision FW018__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -556,7 +586,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md) · [Catalogue 2](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW019
 
@@ -564,7 +594,12 @@ Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md) · [Catalog
 
 Balanced apothecary scales
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW019 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW019.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW019.png)
+
+Image depicts corrected revision FW019__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -580,7 +615,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW020
 
@@ -588,7 +623,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Weathered waymarker
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW020 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW020.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW020.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW020.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW020.png)
+
+Image depicts corrected revision FW020__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -604,7 +644,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).
 
 ## FW021
 
@@ -612,7 +652,12 @@ Source details: [Catalogue 1](../../catalog/forest_witch.md)
 
 Wall apothecary shelf
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FW021 repaired](../../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW021.png)](../../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png)
+
+[Full repair image](../../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png) · [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip) · [Comparison](../../previews/quality-fw013-021-normal-repair-v1/comparisons/FW021.png)
+
+Image depicts corrected revision FW021__repair; original download below retained as history.
+
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -627,4 +672,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/forest_witch.md)
-**Image held:** Source color texture used as normal map; material repair pending. Diagnostic image excluded.
+**Version history:** Original image was held for invalid normal mapping. Corrected revision now pictured; original remains historical. [Repair evidence](../fw013_021_normal_repairs.md).

@@ -71,3 +71,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base AT_071](base-11.md#at_071) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_071__color_green_CC0.zip) · [Full comparison](../../previews/quality-at062-071-v1/AT_071__color_green_comparison.png) · [Details](../material_variants_at062_071.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## AT_073__color_blue
+
+**Field medicine box with bandages and packets** · 包帯と薬包が残る野戦薬箱
+
+[![AT_073__color_blue](../../previews/quality-at072-081-v1/AT_073__color_blue_thumb.png)](../../previews/quality-at072-081-v1/AT_073__color_blue_comparison.png)
+
+Use: Green lid lining changed to blue; all other materials and geometry/UV retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base AT_073](base-11.md#at_073) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at072-081-v1/AT_073__color_blue_CC0.zip) · [Full comparison](../../previews/quality-at072-081-v1/AT_073__color_blue_comparison.png) · [Details](../material_variants_at072_081.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

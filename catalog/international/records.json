@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 752,
-      "preview_not_mapped": 256,
+      "id_mapped_preview": 761,
+      "preview_not_mapped": 247,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 126,
-      "id_mapped_preview": 126,
+      "records": 127,
+      "id_mapped_preview": 127,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 126,
-      "formats_known": 126,
+      "purpose_en_present": 127,
+      "formats_known": 127,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -10703,7 +10703,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "85628 triangles; budget/redesign unresolved."
     },
     {
       "id": "AT_075",
@@ -10831,7 +10832,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Placement context unresolved."
     },
     {
       "id": "AT_079",
@@ -10863,7 +10865,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised cords/overlap diagnosis pending."
     },
     {
       "id": "AT_080",
@@ -10895,7 +10898,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Public name/content mismatch and raised cords/overlap diagnosis pending."
     },
     {
       "id": "AT_081",
@@ -10927,7 +10931,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Raised cords/overlap diagnosis pending."
     },
     {
       "id": "AT_082",
@@ -24482,8 +24487,8 @@
       "name_ja": "Three earthen herb pots",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW013.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24500,7 +24505,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW013.png",
+      "image_model_revision": "FW013__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW013__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW014",
@@ -24510,8 +24525,8 @@
       "name_ja": "Low three legged stool",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW014.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24528,7 +24543,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW014.png",
+      "image_model_revision": "FW014__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW014__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW015",
@@ -24538,8 +24563,8 @@
       "name_ja": "Canvas gathering satchel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW015.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24556,7 +24581,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
+      "image_model_revision": "FW015__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW015__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW016",
@@ -24566,8 +24601,8 @@
       "name_ja": "Mushroom sorting tray",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW016.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24584,7 +24619,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW016.png",
+      "image_model_revision": "FW016__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW016__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW017",
@@ -24594,8 +24639,8 @@
       "name_ja": "Herb bundle storage crate",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW017.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24612,7 +24657,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW017.png",
+      "image_model_revision": "FW017__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW017__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW018",
@@ -24622,8 +24677,8 @@
       "name_ja": "Folded linen and wash basin",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW018.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24641,7 +24696,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW018.png",
+      "image_model_revision": "FW018__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW018__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW019",
@@ -24651,8 +24716,8 @@
       "name_ja": "Balanced apothecary scales",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW019.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24669,7 +24734,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW019.png",
+      "image_model_revision": "FW019__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW019__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW020",
@@ -24679,8 +24754,8 @@
       "name_ja": "Weathered waymarker",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW020.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24697,7 +24772,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW020.png",
+      "image_model_revision": "FW020__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW020__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW021",
@@ -24707,8 +24792,8 @@
       "name_ja": "Wall apothecary shelf",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW021.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24725,7 +24810,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw013-021-normal-repair-v1/renders/FW021.png",
+      "image_model_revision": "FW021__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW021__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW022",
@@ -39169,6 +39264,39 @@
       ],
       "comparison": {
         "file": "previews/quality-at062-071-v1/AT_071__color_green_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_073__color_blue",
+      "kind": "variant",
+      "base_id": "AT_073",
+      "name_en": "Field medicine box with bandages and packets",
+      "name_ja": "包帯と薬包が残る野戦薬箱",
+      "purpose_en": "Green lid lining changed to blue; all other materials and geometry/UV retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at072-081-v1/AT_073__color_blue_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at072-081-v1/AT_073__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at072_081.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at072-081-v1/AT_073__color_blue_comparison.png",
         "layout": "left: original; right: accepted; identical camera and lighting"
       },
       "geometry_revision": "original",

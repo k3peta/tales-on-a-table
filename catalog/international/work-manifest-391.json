@@ -3606,7 +3606,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3621,6 +3620,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3631,7 +3634,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW014_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3646,6 +3648,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3656,7 +3662,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3671,6 +3676,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3681,7 +3690,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3696,6 +3704,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3706,7 +3718,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW017_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3721,6 +3732,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3731,7 +3746,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3747,6 +3761,10 @@
     "existing_catalogs": [
       "catalog/fantasy_infirmary_v1.md",
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3757,7 +3775,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3772,6 +3789,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3782,7 +3803,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW020_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3797,6 +3817,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -3807,7 +3831,6 @@
     "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "purpose_en",
@@ -3822,6 +3845,10 @@
     },
     "existing_catalogs": [
       "catalog/forest_witch.md"
+    ],
+    "render_status": "Corrected revision rendered; exact ZIP/member/image matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

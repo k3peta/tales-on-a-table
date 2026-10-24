@@ -1,0 +1,221 @@
+{
+  "image_rights": "Catalogue artwork outside model CC0",
+  "items": [
+    {
+      "id": "FW013",
+      "revision_id": "FW013__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW013.png",
+      "source_sha256": "2eaf95739392cc9f86de6c1f213e08fe676259c907c93cee8b71dd65eee8096d",
+      "sha256": "bcf17a69fa428ca4cb1441596fc8c81855cc539cce92671fe5513544c057aa2b",
+      "model_zip_sha256": "08703be65b368f163821a96e00cc05861a500210ffab4012c4aa261d6e0f6b8b"
+    },
+    {
+      "id": "FW013",
+      "revision_id": "FW013__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW013.png",
+      "source_sha256": "0b26de4813695529d7133822ceaeb10872d00dc0d74f804dd85b2e6559555c14",
+      "sha256": "8702c79c944e8089a0f2e24bc0071779aabe606924c03191f26ebd9eb4c63441",
+      "model_zip_sha256": "08703be65b368f163821a96e00cc05861a500210ffab4012c4aa261d6e0f6b8b"
+    },
+    {
+      "id": "FW013",
+      "revision_id": "FW013__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW013.png",
+      "source_sha256": "b70093d610e1e220f38b257a48261aa19d5efccd48b25d9f7e55e9c379ee1d32",
+      "sha256": "1f040e23ed2d0f32dda4d7cb181870c93b9860a05af67949bb0a10b07f12f440",
+      "model_zip_sha256": "08703be65b368f163821a96e00cc05861a500210ffab4012c4aa261d6e0f6b8b"
+    },
+    {
+      "id": "FW014",
+      "revision_id": "FW014__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW014.png",
+      "source_sha256": "36228f1b79e4a4aa94ca155795e7fd846cfbd11d73503d0b0d270c45125a9288",
+      "sha256": "850eff696510c507656af1f1da28b8995939ea2aaa4e34c7039f5d25bc5a7b1a",
+      "model_zip_sha256": "5bf9a8949d9bb32372fe8d5454c2b953ab287b5470031aa042aee9080b39289b"
+    },
+    {
+      "id": "FW014",
+      "revision_id": "FW014__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW014.png",
+      "source_sha256": "4f0650ee7995bb9e31966d7d20b538436f4fa0b9819aaceb2226af88d1645726",
+      "sha256": "d0fd5e74ea4d699614a837f7a195834ba337256e54357bfe72201638e5b0847c",
+      "model_zip_sha256": "5bf9a8949d9bb32372fe8d5454c2b953ab287b5470031aa042aee9080b39289b"
+    },
+    {
+      "id": "FW014",
+      "revision_id": "FW014__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW014.png",
+      "source_sha256": "3a0e0044cb0e69bbe31ce8cc07cf8f8808fa9470a4c194812fd69aaa5652c304",
+      "sha256": "d2c02e7f442de7a22125b86a90720d1be58331acf01ceee98e7613acfe222320",
+      "model_zip_sha256": "5bf9a8949d9bb32372fe8d5454c2b953ab287b5470031aa042aee9080b39289b"
+    },
+    {
+      "id": "FW015",
+      "revision_id": "FW015__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW015.png",
+      "source_sha256": "0329d276bbd1d73240e65045b84bdf49dc6634ee2eae7056d3444cd76f900816",
+      "sha256": "72afeae1ad58d7500cbea14b5d3a3c7c68eb9f00e73761df524e21af836463ff",
+      "model_zip_sha256": "37484503ff3b6cfcce7c5a56ab02dd598a1c9d651201fe4e3e9f74dee33094fb"
+    },
+    {
+      "id": "FW015",
+      "revision_id": "FW015__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW015.png",
+      "source_sha256": "c4d439fe121a99fa4a62c2955d5ad199347c1fbf7a13ad80d3ff9b20907c708b",
+      "sha256": "7ad5b7c7ffb92bfc8eefa34d411392d069ed5956dfd3cfd30c72e01b45cfd5ef",
+      "model_zip_sha256": "37484503ff3b6cfcce7c5a56ab02dd598a1c9d651201fe4e3e9f74dee33094fb"
+    },
+    {
+      "id": "FW015",
+      "revision_id": "FW015__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW015.png",
+      "source_sha256": "33d22686fd77191e1b2d38f2ca4d1f982f23cc9867d896731236fe73719e7606",
+      "sha256": "5332bcfe73a4b71338af1c255651cabd2ef282a89348813bc2c1e7c067edff0c",
+      "model_zip_sha256": "37484503ff3b6cfcce7c5a56ab02dd598a1c9d651201fe4e3e9f74dee33094fb"
+    },
+    {
+      "id": "FW016",
+      "revision_id": "FW016__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW016.png",
+      "source_sha256": "3420a9efa35313987369f3c60ca82eab4be4dbe72119894edbca3c266baad5af",
+      "sha256": "5d030ec865b47067467336d4b27d59bc56e6949510068e2b6419843ef912f8d8",
+      "model_zip_sha256": "de450030bb53b8d238cefa2a83a2352592894c2a9788ff331797e62772c76732"
+    },
+    {
+      "id": "FW016",
+      "revision_id": "FW016__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW016.png",
+      "source_sha256": "41bc5c3f00cd56ccad16270c29c7c4d30efe1c8008bfe0239db3e63c7709510a",
+      "sha256": "c029cba89abfaef84a9d3f9e4e62799a04e7b5c966c98da70d250946c8aa2570",
+      "model_zip_sha256": "de450030bb53b8d238cefa2a83a2352592894c2a9788ff331797e62772c76732"
+    },
+    {
+      "id": "FW016",
+      "revision_id": "FW016__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW016.png",
+      "source_sha256": "8f393ffccd8e84d8181cbcc4cc111ad420fa6f0ee69e4fb3f1329888ebcb750b",
+      "sha256": "4f29ce51c9b090b715cfb1bc4e683b150bd3b7f0bc6547c7862c4c61fbeab073",
+      "model_zip_sha256": "de450030bb53b8d238cefa2a83a2352592894c2a9788ff331797e62772c76732"
+    },
+    {
+      "id": "FW017",
+      "revision_id": "FW017__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW017.png",
+      "source_sha256": "76671cdbc94c9934add39b018165234031d55eb558b463951efb62bb62a95c3d",
+      "sha256": "cb30ee964ab6ece8fcc1a12b90607061330ca62c0b1cee020888e69487f2c21a",
+      "model_zip_sha256": "c650ae606a6f95e942b093679defce7c73d668af95f6604b513de193d132acee"
+    },
+    {
+      "id": "FW017",
+      "revision_id": "FW017__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW017.png",
+      "source_sha256": "005343a465eac147cedeb5fa34373651b6fbad871cd89034e3e223e47f917993",
+      "sha256": "2b6bae83a9ea115ef65a7471c55ff7c535067f7b3134517112567faa7ff61c50",
+      "model_zip_sha256": "c650ae606a6f95e942b093679defce7c73d668af95f6604b513de193d132acee"
+    },
+    {
+      "id": "FW017",
+      "revision_id": "FW017__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW017.png",
+      "source_sha256": "b7ec8ae4f27558dbdfb643b602457240abb3394a9043af49fa86ba5fea02dfc6",
+      "sha256": "d0b9ad4ad09efab14dd7a68e591e14ee37fef798035b0c745033e2d5e0c2ac9f",
+      "model_zip_sha256": "c650ae606a6f95e942b093679defce7c73d668af95f6604b513de193d132acee"
+    },
+    {
+      "id": "FW018",
+      "revision_id": "FW018__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW018.png",
+      "source_sha256": "073de21c3a251a4736739fd08d3660ad55035580315a1d1c56e03869546fd4dd",
+      "sha256": "ce513a12c82df94fac197d88f0d1d20f58dc4b99c21ab7e9fd5764432492d046",
+      "model_zip_sha256": "3def3fb372df664b35b3c27ce30bcdf964e28aa75a9c050543dfb8ebd07bd4d1"
+    },
+    {
+      "id": "FW018",
+      "revision_id": "FW018__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW018.png",
+      "source_sha256": "b0805c025d9a4cede74e56f4102a8b14eccfb7b9fd7a0a1e28d3633fa6b452f6",
+      "sha256": "caca3b59c2e62917381181113f362b3771213aaa1bb9699bf43e9bd716f0296a",
+      "model_zip_sha256": "3def3fb372df664b35b3c27ce30bcdf964e28aa75a9c050543dfb8ebd07bd4d1"
+    },
+    {
+      "id": "FW018",
+      "revision_id": "FW018__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW018.png",
+      "source_sha256": "4e99c2d96616ab6d761e8574ee2eff9644f28d198a7d22658f43a83f64842dce",
+      "sha256": "51b230172a4fc5f1332c0b3dc9110fc7eeb8ca081b130f7c00c8d8b53819e507",
+      "model_zip_sha256": "3def3fb372df664b35b3c27ce30bcdf964e28aa75a9c050543dfb8ebd07bd4d1"
+    },
+    {
+      "id": "FW019",
+      "revision_id": "FW019__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW019.png",
+      "source_sha256": "9c5ddf9edd75ed0391612e4925bdff3c396fe3e9e7e0a2fe8914c4e99560446e",
+      "sha256": "4eb12cec0979711b02e0191503f1f85f4d30a50c9c067f61b97b919947a54eb2",
+      "model_zip_sha256": "e4fdf55a60e3f3a05274bbd5cf7fef9a4a39ea5424f2cdba5ea6e4fa2188d506"
+    },
+    {
+      "id": "FW019",
+      "revision_id": "FW019__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW019.png",
+      "source_sha256": "69db8d74b72c429903963feb5aa9da991dfddcf3c310003178592c74c20336a4",
+      "sha256": "b6e9f557d85feebc644f08a3669657b81089f50136b111bafda050d37e7cbc99",
+      "model_zip_sha256": "e4fdf55a60e3f3a05274bbd5cf7fef9a4a39ea5424f2cdba5ea6e4fa2188d506"
+    },
+    {
+      "id": "FW019",
+      "revision_id": "FW019__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW019.png",
+      "source_sha256": "e288fdab14a737d665809130dd8f11ed3a42ef2355af6c171f021b9f965d1be9",
+      "sha256": "ac00decdfa478fdf32b3faef76c86092d8a8b0e2554c749a31232b3b70604d53",
+      "model_zip_sha256": "e4fdf55a60e3f3a05274bbd5cf7fef9a4a39ea5424f2cdba5ea6e4fa2188d506"
+    },
+    {
+      "id": "FW020",
+      "revision_id": "FW020__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW020.png",
+      "source_sha256": "fce1f2de41f37f5fffb1feb01e2ce5839c83a647bb8a2b8851b1d623b53bb319",
+      "sha256": "7e0355c4b74783e78949e8f94551e4cc25c03c0525b0671da0c63b1bbdb85390",
+      "model_zip_sha256": "285a5a5df610ea6635763d54ddb5c8430ba688c5652ec3d00b279e982dc3306c"
+    },
+    {
+      "id": "FW020",
+      "revision_id": "FW020__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW020.png",
+      "source_sha256": "733a0288fcfc8387a74ae1a59b05e365fce93ab9d1e65e2b31b79fddaf2feb67",
+      "sha256": "6c77a4dbcf827fec1565f8479241132c8d8a0961b1acae21c12fe55525b9907d",
+      "model_zip_sha256": "285a5a5df610ea6635763d54ddb5c8430ba688c5652ec3d00b279e982dc3306c"
+    },
+    {
+      "id": "FW020",
+      "revision_id": "FW020__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW020.png",
+      "source_sha256": "e01026c66040f82dca14444f44e5fd0896db126ea8535d434959f27fb0abd158",
+      "sha256": "3e5cefcc01eeb59ea99ea19d87da013eb8c845d68372e49067585b821a4884a2",
+      "model_zip_sha256": "285a5a5df610ea6635763d54ddb5c8430ba688c5652ec3d00b279e982dc3306c"
+    },
+    {
+      "id": "FW021",
+      "revision_id": "FW021__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/renders/FW021.png",
+      "source_sha256": "f3753b76af7f03f83fab40ff899463865069493a5e7ff9ccf0bfaf07efa9bf23",
+      "sha256": "abb8c12178deec9788058aabbbd78dd4a60895bcbbb741f91307791d28b74f33",
+      "model_zip_sha256": "ea59f1c441cac9f9891ca7a746fc7752ed3bf5a901996ff916c728602c57a744"
+    },
+    {
+      "id": "FW021",
+      "revision_id": "FW021__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/thumbnails/FW021.png",
+      "source_sha256": "d86e4338d10c7b81e8f23de2b363b3b5bb6f9430fc640eb204c568155e8e22b4",
+      "sha256": "1b00b1fb59bf5a101aa69321a23c1d4424150bc9971d48270eef63d719211548",
+      "model_zip_sha256": "ea59f1c441cac9f9891ca7a746fc7752ed3bf5a901996ff916c728602c57a744"
+    },
+    {
+      "id": "FW021",
+      "revision_id": "FW021__repair",
+      "file": "previews/quality-fw013-021-normal-repair-v1/comparisons/FW021.png",
+      "source_sha256": "212622d39e4210c80c860521b6f2f580ce6631d66d8616d85efd5031d51d8a1b",
+      "sha256": "6fa23b727b2955ff0245e93f689d450de178eee2f7beebda1db6fa1264a2c120",
+      "model_zip_sha256": "ea59f1c441cac9f9891ca7a746fc7752ed3bf5a901996ff916c728602c57a744"
+    }
+  ]
+}

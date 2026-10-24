@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "AT_073__color_blue",
+      "base_id": "AT_073",
+      "entity_type": "material_variant",
+      "source_entity_type": "composite_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_blue",
+      "description": "Green lid lining changed to blue; all other materials and geometry/UV retained.",
+      "zip": "AT_073__color_blue_CC0.zip",
+      "bytes": 1952766,
+      "sha256": "493b502e6011b7dd306a44cf00f6654cdd7583f7622b0cdf7e39293c931bbb8f",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at072-081-v1/AT_073__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 0
+}

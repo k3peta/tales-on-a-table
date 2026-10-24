@@ -171,3 +171,95 @@ Lavender drying bundle
 [![FW022](../previews/forest-inn15/thumbnails/FW022.png)](../previews/forest-inn15/renders/FW022.png)
 
 [Full image](../previews/forest-inn15/renders/FW022.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW022_CC0.zip)
+
+## Material revisions / 材質改訂
+
+## FW013 — Three earthen herb pots
+
+Three earthen herb pots
+
+[![FW013](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW013.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW013__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW013_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW013.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW013.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW013.png)
+
+## FW014 — Low three legged stool
+
+Low three legged stool
+
+[![FW014](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW014.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW014.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW014__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW014_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW014.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW014.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW014.png)
+
+## FW015 — Canvas gathering satchel
+
+Canvas gathering satchel
+
+[![FW015](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW015.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW015__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW015_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW015.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW015.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW015.png)
+
+## FW016 — Mushroom sorting tray
+
+Mushroom sorting tray
+
+[![FW016](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW016.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW016__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW016_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW016.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW016.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW016.png)
+
+## FW017 — Herb bundle storage crate
+
+Herb bundle storage crate
+
+[![FW017](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW017.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW017.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW017__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW017_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW017.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW017.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW017.png)
+
+## FW018 — Folded linen and wash basin
+
+Folded linen and wash basin
+
+[![FW018](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW018.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW018__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW018_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW018.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW018.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW018.png)
+
+## FW019 — Balanced apothecary scales
+
+Balanced apothecary scales
+
+[![FW019](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW019.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW019__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW019_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW019.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW019.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW019.png)
+
+## FW020 — Weathered waymarker
+
+Weathered waymarker
+
+[![FW020](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW020.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW020.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW020__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW020_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW020.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW020.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW020.png)
+
+## FW021 — Wall apothecary shelf
+
+Wall apothecary shelf
+
+[![FW021](../previews/quality-fw013-021-normal-repair-v1/thumbnails/FW021.png)](../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw013-021-normal-repair-v1/FW021__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW021_CC0.zip) · [Full image](../previews/quality-fw013-021-normal-repair-v1/renders/FW021.png)
+
+[![comparison](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW021.png)](../previews/quality-fw013-021-normal-repair-v1/comparisons/FW021.png)
