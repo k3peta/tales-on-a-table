@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "AT_025__liquid_red",
+      "base_id": "AT_025",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original",
+      "finish": "red",
+      "zip": "AT_025__liquid_red_CC0.zip",
+      "bytes": 786686,
+      "sha256": "ff5f65b80bae710061ee0203b221cb0118a6f1e98642d8f7e61a7bf3c222b9cc",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/bottle-liquid-colors-v1/AT_025__liquid_red_CC0.zip"
+    },
+    {
+      "id": "AT_025__liquid_orange",
+      "base_id": "AT_025",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original",
+      "finish": "orange",
+      "zip": "AT_025__liquid_orange_CC0.zip",
+      "bytes": 786666,
+      "sha256": "b0970e32536d8932e3d20150cc10bf270acee94a5c2908989def58594d05e5ec",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/bottle-liquid-colors-v1/AT_025__liquid_orange_CC0.zip"
+    },
+    {
+      "id": "AT_025__liquid_amber",
+      "base_id": "AT_025",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original",
+      "finish": "amber",
+      "zip": "AT_025__liquid_amber_CC0.zip",
+      "bytes": 786656,
+      "sha256": "bfb8b64ab5635bd220239270189ebd0ec56946133e4ad5ebd05dd96f610d008a",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/bottle-liquid-colors-v1/AT_025__liquid_amber_CC0.zip"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 3,
+  "revisions": 0
+}

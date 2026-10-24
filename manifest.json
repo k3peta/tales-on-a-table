@@ -923,7 +923,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_033_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "32fceb84c7de3cb55f352c2ee0f087e808e09088e697ec63fe5ae16c939fc98b",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_033__repair",
+          "base_id": "FT_033",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "Quality revision: raise iron albedo to reveal tool silhouettes; preserve metallic factor and geometry.",
+          "zip": "FT_033__repair_CC0.zip",
+          "bytes": 610718,
+          "sha256": "f74ab1934068c6ddf8aeb6f378ba06b4881442e38e30ed193bc112880e9779a0",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft031-040-v1/FT_033__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_034",
@@ -1105,7 +1122,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_040_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "5708f7c4475895f7543239691406b517de95498adb422cfa048639e4dfe86742",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_040__repair",
+          "base_id": "FT_040",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "missing_uv0_added_plus_wearuv",
+          "finish": "repair",
+          "description": "UV revision: add missing body/flap UVs, enabling existing leather textures; shape and existing UVs unchanged.",
+          "zip": "FT_040__repair_CC0.zip",
+          "bytes": 1229736,
+          "sha256": "a70584bd6c39859206680ce2a660a3a888b089541cadf4d62d44ab431a8a2f35",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft031-040-v1/FT_040__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_041",

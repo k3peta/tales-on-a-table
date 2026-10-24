@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records and54 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records and68 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -143,3 +143,6 @@
 2026-10-24追補: RF7とterrain91の確定画像対応が届き、上記2件の画像追加待ちは解消。既存画像ページの全モデル別網羅性・隠面・機能は未査定。
 
 |[material_variants_ft021_030.md](material_variants_ft021_030.md)|18|added: accepted9 variants, original/variant comparisons|
+
+- [FT031–040](material_variants_ft031_040.md):26 accepted comparison/thumbnail images.
+- [Liquid colors](bottle_liquid_colors_v1.md):6 mapped images plus lighting sheet.
