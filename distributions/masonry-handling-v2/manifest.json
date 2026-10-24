@@ -1,0 +1,57 @@
+{
+  "record_count": 2,
+  "items": [
+    {
+      "asset_id": "MRH201_ShoulderHod",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "masonry-handling-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 75156,
+      "zip_sha256": "0f7fd95094572eab6235a87a1731fb855e2d4fb7b6396dd51821dc64029da893",
+      "names": {
+        "ja": "ShoulderHod",
+        "en": "ShoulderHod",
+        "zh-CN": "ShoulderHod"
+      },
+      "descriptions": {
+        "ja": "MRH201_ShoulderHod",
+        "en": "MRH201_ShoulderHod",
+        "zh-CN": "MRH201_ShoulderHod"
+      },
+      "zip_file": "MRH201_ShoulderHod_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip",
+      "theme": "masonry_handling",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRH202_MortarHawkTrowel",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "composite_accessory",
+      "independent_design_increment": null,
+      "revision": "masonry-handling-v2",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 74394,
+      "zip_sha256": "066d6edd005709d58e9f195b404113b74054e235daf8a9ef857222814a17e035",
+      "names": {
+        "ja": "MortarHawkTrowel",
+        "en": "MortarHawkTrowel",
+        "zh-CN": "MortarHawkTrowel"
+      },
+      "descriptions": {
+        "ja": "MRH202_MortarHawkTrowel",
+        "en": "MRH202_MortarHawkTrowel",
+        "zh-CN": "MRH202_MortarHawkTrowel"
+      },
+      "zip_file": "MRH202_MortarHawkTrowel_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip",
+      "theme": "masonry_handling",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}
