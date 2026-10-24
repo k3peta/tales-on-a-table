@@ -8,7 +8,7 @@ Blue weight-display pad and green pouch leather retain original geometry and UV.
 
 基础1008保持，2个同形颜色变体单独统计。宝石接地修订不新增。对比视线相同、分别取景，并非相同比例。
 
-Producer final-ZIP guard binds ZIP/member/input/verifier hashes, run ID, timestamps and Blender5.2.2. Public artifact matching is pending. No separate Blender rerun by publication task. Cumulative246 assessed distribution records,762 remaining.44 budget/redesign issues remain, including new AT067/069/070. AT067 apparently floating scratch strips remain unmeasured and unrepaired; not an approved fix. FW ten material revisions are tracked separately, no full-audit increment.
+Producer final-ZIP guard binds ZIP/member/input/verifier hashes, run ID, timestamps and Blender5.2.2. Public ZIP/member hashes match the final guarded artifacts. No separate Blender rerun by publication task. Cumulative246 assessed distribution records,762 remaining.44 budget/redesign issues remain, including new AT067/069/070. AT067 apparently floating scratch strips remain unmeasured and unrepaired; not an approved fix. FW ten material revisions are tracked separately, no full-audit increment.
 
 Function, stability, continuous collision and Blender4.3.2 compatibility unverified. Model/embedded materials only CC0. Images outside modelCC0; [license scope](../LICENSE.md). Code/private reports not distributed.
 
@@ -53,3 +53,5 @@ Pouch main leather changed to green; repair patch, stitches and cord retained.
 [![AT_071__color_green comparison](../previews/quality-at062-071-v1/AT_071__color_green_comparison.png)](../previews/quality-at062-071-v1/AT_071__color_green_comparison.png)
 
 left: original; right: accepted; identical camera and lighting
+
+[Exact package validation evidence](../distributions/quality-at062-071-v1/validation.json).

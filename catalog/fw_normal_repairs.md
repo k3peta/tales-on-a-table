@@ -6,7 +6,7 @@ Ten revisions, no new bases or color variants. Color images were incorrectly use
 
 10个材质修订，不新增基本模型或变体。移除错误法线连接，恢复sRGB。几何、UV和原颜色图像保持，粗纹理未重绘。左原版、右修复版。
 
-Final ZIP producer guard passed; public-download identity verification pending. Guard binds ZIP/member/input/verifier hashes, run, times and Blender5.2.2; both formats tested for absent normal links and correct sRGB image interpretation. Publication has not rerun Blender. No full-audit increment or game/collision/Blender4.3.2 guarantee. Models/materials CC0; images separately licensed for catalogue viewing, not modelCC0. [License](../LICENSE.md).
+Final ZIP producer guard and public-download ZIP/member identity verified. Guard binds ZIP/member/input/verifier hashes, run, times and Blender5.2.2; both formats tested for absent normal links and correct sRGB image interpretation. Publication has not rerun Blender. No full-audit increment or game/collision/Blender4.3.2 guarantee. Models/materials CC0; images separately licensed for catalogue viewing, not modelCC0. [License](../LICENSE.md).
 
 ## FW001 — Herbalists workbench
 
@@ -107,3 +107,5 @@ Rainwater barrel
 [Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW012.png)
 
 [![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)
+
+[Exact package validation evidence](../distributions/quality-fw-normal-repair-v1/validation.json).
