@@ -538,6 +538,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality30:** Zero-area cleanup revision;61208tri remains over budget. Dark glass variant rejected. [Details](../material_variants_ws019_028.md).
+
 ## WS_020
 
 **Botanical specimen dome**
@@ -559,3 +561,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+**Quality30:** Zero-area cleanup revision;56342tri remains over budget;14 tiny positive faces retained. [Details](../material_variants_ws019_028.md).

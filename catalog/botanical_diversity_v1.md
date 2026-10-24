@@ -87,3 +87,39 @@ LobedIvy
 ![botanical-diversity-v1 — garden_and_ruin](../previews/catalog-20261024/botanical-diversity-v1-garden_and_ruin.jpg)
 
 ![botanical-diversity-v1 — vine_closeup](../previews/catalog-20261024/botanical-diversity-v1-vine_closeup.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### BD101_Bellflower — Bellflower
+
+Bellflower
+
+[![BD101_Bellflower](../previews/ud1102-rg24/thumbnails/BD101_Bellflower.png)](../previews/ud1102-rg24/renders/BD101_Bellflower.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD101_Bellflower.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip)
+
+### BD102_Iris — Iris
+
+Iris
+
+[![BD102_Iris](../previews/ud1102-rg24/thumbnails/BD102_Iris.png)](../previews/ud1102-rg24/renders/BD102_Iris.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD102_Iris.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip)
+
+### BD103_PeaVine — PeaVine
+
+PeaVine
+
+[![BD103_PeaVine](../previews/ud1102-rg24/thumbnails/BD103_PeaVine.png)](../previews/ud1102-rg24/renders/BD103_PeaVine.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD103_PeaVine.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip)
+
+### BD104_LobedIvy — LobedIvy
+
+LobedIvy
+
+[![BD104_LobedIvy](../previews/ud1102-rg24/thumbnails/BD104_LobedIvy.png)](../previews/ud1102-rg24/renders/BD104_LobedIvy.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD104_LobedIvy.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip)

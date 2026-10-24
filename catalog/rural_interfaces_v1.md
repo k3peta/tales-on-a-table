@@ -85,3 +85,39 @@ EavesDownchute
 ![rural-interfaces-v1 — rural_connections](../previews/catalog-20261024/rural-interfaces-v1-rural_connections.jpg)
 
 ![rural-interfaces-v1 — sluice_ports](../previews/catalog-20261024/rural-interfaces-v1-sluice_ports.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### RI101_RaisedFlume — RaisedFlume
+
+RaisedFlume
+
+[![RI101_RaisedFlume](../previews/ud1102-rg24/thumbnails/RI101_RaisedFlume.png)](../previews/ud1102-rg24/renders/RI101_RaisedFlume.png)
+
+[Full image](../previews/ud1102-rg24/renders/RI101_RaisedFlume.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip)
+
+### RI102_SluiceDistributor — SluiceDistributor
+
+SluiceDistributor
+
+[![RI102_SluiceDistributor](../previews/ud1102-rg24/thumbnails/RI102_SluiceDistributor.png)](../previews/ud1102-rg24/renders/RI102_SluiceDistributor.png)
+
+[Full image](../previews/ud1102-rg24/renders/RI102_SluiceDistributor.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip)
+
+### RI103_DitchFence — DitchFence
+
+DitchFence
+
+[![RI103_DitchFence](../previews/ud1102-rg24/thumbnails/RI103_DitchFence.png)](../previews/ud1102-rg24/renders/RI103_DitchFence.png)
+
+[Full image](../previews/ud1102-rg24/renders/RI103_DitchFence.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip)
+
+### RI104_EavesDownchute — EavesDownchute
+
+EavesDownchute
+
+[![RI104_EavesDownchute](../previews/ud1102-rg24/thumbnails/RI104_EavesDownchute.png)](../previews/ud1102-rg24/renders/RI104_EavesDownchute.png)
+
+[Full image](../previews/ud1102-rg24/renders/RI104_EavesDownchute.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip)

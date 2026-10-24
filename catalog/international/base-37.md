@@ -240,7 +240,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md) · [Catalogu
 
 洞内落差水路
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![UD1102](../../previews/ud1102-rg24/thumbnails/UD1102.png)](../../previews/ud1102-rg24/renders/UD1102.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/UD1102.png)
 
 Use / purpose: 2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.
 
@@ -262,7 +264,9 @@ Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md) · [Cata
 
 Pasture slope bay
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RS201](../../previews/ud1102-rg24/thumbnails/RS201.png)](../../previews/ud1102-rg24/renders/RS201.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RS201.png)
 
 Use / purpose: Static fence model; see catalogue for placement limits.
 
@@ -278,13 +282,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md) · [Catalogue 2](../../catalog/rustic_slope_connections_v2.md)
 
+**Known issue:** Three connection rails without posts in this distributed model; assembly not demonstrated. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## RS202
 
 **Garden slope bay**
 
 Garden slope bay
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RS202](../../previews/ud1102-rg24/thumbnails/RS202.png)](../../previews/ud1102-rg24/renders/RS202.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RS202.png)
 
 Use / purpose: Static fence model; see catalogue for placement limits.
 
@@ -306,7 +314,9 @@ Source details: [Catalogue 1](../../catalog/recovered_rustic_fences_rf7.md) · [
 
 Fence crossing stile
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RS203](../../previews/ud1102-rg24/thumbnails/RS203.png)](../../previews/ud1102-rg24/renders/RS203.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RS203.png)
 
 Use / purpose: Static fence model; see catalogue for placement limits.
 
@@ -328,7 +338,9 @@ Source details: [Catalogue 1](../../catalog/rustic_slope_connections_v2.md)
 
 Bellflower
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD101_Bellflower](../../previews/ud1102-rg24/thumbnails/BD101_Bellflower.png)](../../previews/ud1102-rg24/renders/BD101_Bellflower.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD101_Bellflower.png)
 
 Use / purpose: Hollow five-lobed hanging bells on branching stems. Flower border.
 
@@ -350,7 +362,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v1.md)
 
 Iris
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD102_Iris](../../previews/ud1102-rg24/thumbnails/BD102_Iris.png)](../../previews/ud1102-rg24/renders/BD102_Iris.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD102_Iris.png)
 
 Use / purpose: Sword-shaped basal leaves and alternating upright/falling petals. Garden border.
 
@@ -372,7 +386,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v1.md)
 
 PeaVine
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD103_PeaVine](../../previews/ud1102-rg24/thumbnails/BD103_PeaVine.png)](../../previews/ud1102-rg24/renders/BD103_PeaVine.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD103_PeaVine.png)
 
 Use / purpose: Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired.
 
@@ -394,7 +410,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v1.md)
 
 LobedIvy
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD104_LobedIvy](../../previews/ud1102-rg24/thumbnails/BD104_LobedIvy.png)](../../previews/ud1102-rg24/renders/BD104_LobedIvy.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD104_LobedIvy.png)
 
 Use / purpose: Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine.
 
@@ -416,7 +434,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v1.md)
 
 WaterLily
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD201_WaterLily](../../previews/ud1102-rg24/thumbnails/BD201_WaterLily.png)](../../previews/ud1102-rg24/renders/BD201_WaterLily.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD201_WaterLily.png)
 
 Use / purpose: Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included.
 
@@ -438,7 +458,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v2.md)
 
 Horsetail
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD202_Horsetail](../../previews/ud1102-rg24/thumbnails/BD202_Horsetail.png)](../../previews/ud1102-rg24/renders/BD202_Horsetail.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD202_Horsetail.png)
 
 Use / purpose: Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level.
 
@@ -460,7 +482,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v2.md)
 
 FloweringAllium
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD203_FloweringAllium](../../previews/ud1102-rg24/thumbnails/BD203_FloweringAllium.png)](../../previews/ud1102-rg24/renders/BD203_FloweringAllium.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD203_FloweringAllium.png)
 
 Use / purpose: Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level.
 
@@ -482,7 +506,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v2.md)
 
 StrawberryRunner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD301_StrawberryRunner](../../previews/ud1102-rg24/thumbnails/BD301_StrawberryRunner.png)](../../previews/ud1102-rg24/renders/BD301_StrawberryRunner.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD301_StrawberryRunner.png)
 
 Use / purpose: Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.
 
@@ -504,7 +530,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v3.md)
 
 TrailingCucumber
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD302_TrailingCucumber](../../previews/ud1102-rg24/thumbnails/BD302_TrailingCucumber.png)](../../previews/ud1102-rg24/renders/BD302_TrailingCucumber.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD302_TrailingCucumber.png)
 
 Use / purpose: Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.
 
@@ -526,7 +554,9 @@ Source details: [Catalogue 1](../../catalog/botanical_diversity_v3.md)
 
 DandelionSeedhead
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BD303_DandelionSeedhead](../../previews/ud1102-rg24/thumbnails/BD303_DandelionSeedhead.png)](../../previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png)
 
 Use / purpose: Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.
 

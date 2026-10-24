@@ -53,3 +53,23 @@ RuinArchWalkway
 ![elevated-ruin-connectors-v1 — connected_terraces](../previews/catalog-20261024/elevated-ruin-connectors-v1-connected_terraces.jpg)
 
 ![elevated-ruin-connectors-v1 — stair_junction](../previews/catalog-20261024/elevated-ruin-connectors-v1-stair_junction.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### ER101_StairTJunction — StairTJunction
+
+StairTJunction
+
+[![ER101_StairTJunction](../previews/ud1102-rg24/thumbnails/ER101_StairTJunction.png)](../previews/ud1102-rg24/renders/ER101_StairTJunction.png)
+
+[Full image](../previews/ud1102-rg24/renders/ER101_StairTJunction.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip)
+
+### ER102_RuinArchWalkway — RuinArchWalkway
+
+RuinArchWalkway
+
+[![ER102_RuinArchWalkway](../previews/ud1102-rg24/thumbnails/ER102_RuinArchWalkway.png)](../previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png)
+
+[Full image](../previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip)

@@ -763,3 +763,15 @@ HQ models shown; LITE not pictured. Actual distributed models; chosen camera vie
 [![UD1101](../previews/terrain-tr051-ud24/thumbnails/UD1101.png)](../previews/terrain-tr051-ud24/renders/UD1101.png)
 
 [Full image](../previews/terrain-tr051-ud24/renders/UD1101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### UD1102 — Covered waterfall
+
+洞内落差水路
+
+[![UD1102](../previews/ud1102-rg24/thumbnails/UD1102.png)](../previews/ud1102-rg24/renders/UD1102.png)
+
+[Full image](../previews/ud1102-rg24/renders/UD1102.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1102_CC0.zip)

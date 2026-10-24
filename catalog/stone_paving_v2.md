@@ -64,3 +64,31 @@ PAV-FAN
 
 
 ![stone-paving-v2 — paving-patterns](../previews/catalog-20261024/stone-paving-v2-paving-patterns.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### PAV-BASKET — PAV-BASKET
+
+PAV-BASKET
+
+[![PAV-BASKET](../previews/ud1102-rg24/thumbnails/PAV-BASKET.png)](../previews/ud1102-rg24/renders/PAV-BASKET.png)
+
+[Full image](../previews/ud1102-rg24/renders/PAV-BASKET.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-BASKET-v2-models-CC0.zip)
+
+### PAV-FAN — PAV-FAN
+
+PAV-FAN
+
+[![PAV-FAN](../previews/ud1102-rg24/thumbnails/PAV-FAN.png)](../previews/ud1102-rg24/renders/PAV-FAN.png)
+
+[Full image](../previews/ud1102-rg24/renders/PAV-FAN.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip)
+
+### PAV-RUN — PAV-RUN
+
+PAV-RUN
+
+[![PAV-RUN](../previews/ud1102-rg24/thumbnails/PAV-RUN.png)](../previews/ud1102-rg24/renders/PAV-RUN.png)
+
+[Full image](../previews/ud1102-rg24/renders/PAV-RUN.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-RUN-v2-models-CC0.zip)

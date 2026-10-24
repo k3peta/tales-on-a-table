@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 881,
-      "preview_not_mapped": 127,
+      "id_mapped_preview": 905,
+      "preview_not_mapped": 103,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 130,
-      "id_mapped_preview": 130,
+      "records": 131,
+      "id_mapped_preview": 131,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 130,
-      "formats_known": 130,
+      "purpose_en_present": 131,
+      "formats_known": 131,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -12038,7 +12038,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_019__repair",
+          "catalog": "catalog/material_variants_ws019_028.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup revision;61208tri remains over budget. Dark glass variant rejected."
     },
     {
       "id": "WS_020",
@@ -12071,7 +12079,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_020__repair",
+          "catalog": "catalog/material_variants_ws019_028.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup revision;56342tri remains over budget;14 tiny positive faces retained."
     },
     {
       "id": "WS_021",
@@ -12104,7 +12120,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Repair remains held for publication scan review, no final ZIP; no credential exposure established."
     },
     {
       "id": "WS_022",
@@ -12137,7 +12154,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_022__repair",
+          "catalog": "catalog/material_variants_ws019_028.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup revision; optical magnification accuracy untested."
     },
     {
       "id": "WS_023",
@@ -12170,7 +12195,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_023__repair",
+          "catalog": "catalog/material_variants_ws019_028.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup revision; no sand flow or timing simulation."
     },
     {
       "id": "WS_024",
@@ -12269,7 +12302,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Coarse lid grain and small joint gaps need diagnosis, not repaired."
     },
     {
       "id": "WS_027",
@@ -31599,8 +31633,8 @@
       "name_ja": "洞内落差水路",
       "purpose_en": "2m modular terrain distribution record. Includes BLEND and GLB; not a claim of independent design count.",
       "record_kind": "terrain_distribution_record",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/UD1102.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31620,7 +31654,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/UD1102.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RS201",
@@ -31630,8 +31666,8 @@
       "name_ja": "Pasture slope bay",
       "purpose_en": "Static fence model; see catalogue for placement limits.",
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RS201.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31651,7 +31687,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RS201.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json",
+      "known_issue": "Three connection rails without posts in this distributed model; assembly not demonstrated."
     },
     {
       "id": "RS202",
@@ -31661,8 +31700,8 @@
       "name_ja": "Garden slope bay",
       "purpose_en": "Static fence model; see catalogue for placement limits.",
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RS202.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31682,7 +31721,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RS202.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RS203",
@@ -31692,8 +31733,8 @@
       "name_ja": "Fence crossing stile",
       "purpose_en": "Static fence model; see catalogue for placement limits.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RS203.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31712,7 +31753,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RS203.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD101_Bellflower",
@@ -31722,8 +31765,8 @@
       "name_ja": "Bellflower",
       "purpose_en": "Hollow five-lobed hanging bells on branching stems. Flower border.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD101_Bellflower.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31742,7 +31785,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD101_Bellflower.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD102_Iris",
@@ -31752,8 +31797,8 @@
       "name_ja": "Iris",
       "purpose_en": "Sword-shaped basal leaves and alternating upright/falling petals. Garden border.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD102_Iris.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31772,7 +31817,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD102_Iris.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD103_PeaVine",
@@ -31782,8 +31829,8 @@
       "name_ja": "PeaVine",
       "purpose_en": "Paired leaflets, spiral tendrils, hanging seed pods. Vegetable garden; add separate supports as desired.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD103_PeaVine.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31802,7 +31849,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD103_PeaVine.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD104_LobedIvy",
@@ -31812,8 +31861,8 @@
       "name_ja": "LobedIvy",
       "purpose_en": "Five-lobed leaves on a vertical branching climber. Ruined wall dressing; front is -Y, wall plane +Y=0.025m. Not an automatic surface-conforming vine.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD104_LobedIvy.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31832,7 +31881,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD104_LobedIvy.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD201_WaterLily",
@@ -31842,8 +31893,8 @@
       "name_ja": "WaterLily",
       "purpose_en": "Notched floating pads and layered flower. Origin Z=0 is WATER SURFACE, not pond bed. Place at the water elevation; no underwater roots included.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD201_WaterLily.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31862,7 +31913,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD201_WaterLily.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD202_Horsetail",
@@ -31872,8 +31925,8 @@
       "name_ja": "Horsetail",
       "purpose_en": "Jointed stems with seven-way whorled branches. Damp forest edge or waterside bank. Origin is soil level.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD202_Horsetail.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31892,7 +31945,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD202_Horsetail.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD203_FloweringAllium",
@@ -31902,8 +31957,8 @@
       "name_ja": "FloweringAllium",
       "purpose_en": "Spherical umbels of small six-petal florets above basal narrow leaves. Field border or vegetable plot in flower. Origin is soil level.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD203_FloweringAllium.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31922,7 +31977,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD203_FloweringAllium.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD301_StrawberryRunner",
@@ -31932,8 +31989,8 @@
       "name_ja": "StrawberryRunner",
       "purpose_en": "Trifoliate serrated leaves, berries and two daughter crowns connected by runners. Ground cover for field edges.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD301_StrawberryRunner.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31952,7 +32009,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD301_StrawberryRunner.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD302_TrailingCucumber",
@@ -31962,8 +32021,8 @@
       "name_ja": "TrailingCucumber",
       "purpose_en": "Ground-trailing vine with broad angular leaves, tendrils, elongated fruit and small flowers. Vegetable bed.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD302_TrailingCucumber.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -31982,7 +32041,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD302_TrailingCucumber.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BD303_DandelionSeedhead",
@@ -31992,8 +32053,8 @@
       "name_ja": "DandelionSeedhead",
       "purpose_en": "Deeply toothed basal rosette and spherical parachute seed heads. Field margins and neglected walls; static seeds.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/BD303_DandelionSeedhead.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32012,7 +32073,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "PAV-RUN",
@@ -32022,8 +32085,8 @@
       "name_ja": "PAV-RUN",
       "purpose_en": "Running bond",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/PAV-RUN.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32042,7 +32105,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/PAV-RUN.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "PAV-BASKET",
@@ -32052,8 +32117,8 @@
       "name_ja": "PAV-BASKET",
       "purpose_en": "Basket weave",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/PAV-BASKET.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32072,7 +32137,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/PAV-BASKET.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "PAV-FAN",
@@ -32082,8 +32149,8 @@
       "name_ja": "PAV-FAN",
       "purpose_en": "Fan paving accent panel",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/PAV-FAN.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32102,7 +32169,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/PAV-FAN.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RF01",
@@ -32324,8 +32393,8 @@
       "name_ja": "StairTJunction",
       "purpose_en": "2x4m stair-top T junction. Low S interface (0,-2,0), first riser .125m; 8 treads .25m run/.125m rise. Top floor1m; W(-1,1,1), E(1,1,1), N(0,2,1). Stair tread width .9m. Landing underside .8m; not a human underpass.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/ER101_StairTJunction.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32344,7 +32413,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/ER101_StairTJunction.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "ER102_RuinArchWalkway",
@@ -32354,8 +32425,8 @@
       "name_ja": "RuinArchWalkway",
       "purpose_en": "2m EW upper walkway at Z3m over NS arch. Deck width1m, conservative guard clearance .955m. Lower opening width1.2m; spring1.6m, centre crown2.2m. E/W upper ports (+/-1,0,3). Upper and lower routes are separate. Broken stone crest remains below deck.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/ER102_RuinArchWalkway.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32374,7 +32445,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RI101_RaisedFlume",
@@ -32384,8 +32457,8 @@
       "name_ja": "RaisedFlume",
       "purpose_en": "2m NS supported flume. Open ends y+-1, wet width .6m, bed Z1, side top1.3. Ground feet Z0.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RI101_RaisedFlume.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32404,7 +32477,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RI101_RaisedFlume.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RI102_SluiceDistributor",
@@ -32414,8 +32489,8 @@
       "name_ja": "SluiceDistributor",
       "purpose_en": "2x2m supported distributor. S(0,-1,1), N(0,1,1), E(1,0,1) bed ports, .6m wet width. Gate fixed raised, .39m gap beneath gate. No animated or hydraulic simulation.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RI102_SluiceDistributor.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32434,7 +32509,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RI102_SluiceDistributor.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RI103_DitchFence",
@@ -32444,8 +32521,8 @@
       "name_ja": "DitchFence",
       "purpose_en": "2m fence bay across ditch. Bank origin Z0, post bottoms0; centre hanging slat bottom-.46m. Intended .5m deep ditch, .04m clearance. Fixed slats and hinge pins, no movement or collision test.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RI103_DitchFence.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32464,7 +32541,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RI103_DitchFence.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RI104_EavesDownchute",
@@ -32474,8 +32553,8 @@
       "name_ja": "EavesDownchute",
       "purpose_en": "Attachment module: NS gutter y-1..1 at bedZ2; chute y1..2 drops to bedZ1. Wet width.6m, walls.3m. Attach to eaves/wall; not ground-supported. Outlet (0,2,1) fits raised flume. Roof and wall not included.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RI104_EavesDownchute.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32494,7 +32573,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RI104_EavesDownchute.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "RG101_OpenTreeGuard",
@@ -32504,8 +32585,8 @@
       "name_ja": "OpenTreeGuard",
       "purpose_en": "Open-top/open-bottom eight-sided tree guard. Origin at soilZ0, stakes to1.32m, central cylinder radius.5m unobstructed. Outer radius under.70m. Four fixed straps at two seams, no animation. Place trees independently; trees and soil not included.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/ud1102-rg24/thumbnails/RG101_OpenTreeGuard.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32524,7 +32605,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png",
+      "image_manifest": "previews/ud1102-rg24/manifest.json"
     },
     {
       "id": "BG401_Maize",
@@ -39741,6 +39824,39 @@
       ],
       "comparison": {
         "file": "previews/quality-ws009-018-v1/WS_015__color_green_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original"
+    },
+    {
+      "id": "WS_024__color_orange",
+      "kind": "variant",
+      "base_id": "WS_024",
+      "name_en": "Hooded research lamp",
+      "name_ja": "遮光フード付き研究灯",
+      "purpose_en": "Orange lampshade basecolor texture; original geometry/UV and other material properties retained; no added emission.",
+      "record_kind": "model",
+      "image": "previews/quality-ws019-028-v1/WS_024__color_orange_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_024__color_orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ws019_028.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ws019-028-v1/WS_024__color_orange_overview_comparison.png",
         "layout": "left: original; right: accepted; identical camera and lighting"
       },
       "geometry_revision": "original",

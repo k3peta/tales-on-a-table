@@ -68,3 +68,31 @@ FloweringAllium
 ![botanical-diversity-v2 — waterside_and_field](../previews/catalog-20261024/botanical-diversity-v2-waterside_and_field.jpg)
 
 ![botanical-diversity-v2 — whorls_and_umbels](../previews/catalog-20261024/botanical-diversity-v2-whorls_and_umbels.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### BD201_WaterLily — WaterLily
+
+WaterLily
+
+[![BD201_WaterLily](../previews/ud1102-rg24/thumbnails/BD201_WaterLily.png)](../previews/ud1102-rg24/renders/BD201_WaterLily.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD201_WaterLily.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip)
+
+### BD202_Horsetail — Horsetail
+
+Horsetail
+
+[![BD202_Horsetail](../previews/ud1102-rg24/thumbnails/BD202_Horsetail.png)](../previews/ud1102-rg24/renders/BD202_Horsetail.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD202_Horsetail.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip)
+
+### BD203_FloweringAllium — FloweringAllium
+
+FloweringAllium
+
+[![BD203_FloweringAllium](../previews/ud1102-rg24/thumbnails/BD203_FloweringAllium.png)](../previews/ud1102-rg24/renders/BD203_FloweringAllium.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD203_FloweringAllium.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip)

@@ -91,3 +91,15 @@ Model geometry and embedded display materials only are CC0-1.0. No code, private
 ![RF07](../previews/rf7-terrain91/images/RF07.jpg)
 
 [拡大 / Full image](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/previews/rf7-terrain91/images/RF07.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### RS202 — Garden slope bay
+
+Garden slope bay
+
+[![RS202](../previews/ud1102-rg24/thumbnails/RS202.png)](../previews/ud1102-rg24/renders/RS202.png)
+
+[Full image](../previews/ud1102-rg24/renders/RS202.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)

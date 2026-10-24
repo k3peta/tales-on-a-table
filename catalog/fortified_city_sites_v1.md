@@ -172,3 +172,17 @@ RoadEntrance
 ![fortified-city-sites-v1 — gate_overview](../previews/catalog-20261024/fortified-city-sites-v1-gate_overview.jpg)
 
 ![fortified-city-sites-v1 — gate_watch](../previews/catalog-20261024/fortified-city-sites-v1-gate_watch.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+**Known issue:** Three connection rails without posts in this distributed model; assembly not demonstrated.
+
+### RS201 — Pasture slope bay
+
+Pasture slope bay
+
+[![RS201](../previews/ud1102-rg24/thumbnails/RS201.png)](../previews/ud1102-rg24/renders/RS201.png)
+
+[Full image](../previews/ud1102-rg24/renders/RS201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)

@@ -1,0 +1,702 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "BD101_Bellflower",
+      "source_zip_sha256": "efe60d2a8d206b5db5dd699135782ad7ab8c405e68497a4cfd853b71daf9bf10",
+      "source_glb_sha256": "31d288d6583f98d925536b5200823b16e7ca8c26809ac0c2be605e2fcb9cfc72",
+      "camera_location": [
+        0.9744494557380676,
+        -1.6906591653823853,
+        1.4555834531784058
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.5500156879425049,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD101_Bellflower.png",
+      "image_source_sha256": "e24f18d35b01c24a4fb78e53d2ce47fe3fbcb4aac02e5740dc9ebd7cd3072ae7",
+      "image_sha256": "b8c7600b1221304972fbafaf59d68bae699920d6ebf50b787c3ca03114221bb1",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD101_Bellflower.png",
+      "thumbnail_source_sha256": "134424e453e737e0454ae901835810544f1c098c24497955f63d82149d0e25fb",
+      "thumbnail_sha256": "22fd6ae067fd758bbf3af5f28f9d601ac55ba840f8d599ddc696db66ce38b9da"
+    },
+    {
+      "id": "BD102_Iris",
+      "source_zip_sha256": "54f0be757c9a12a1c6cc210f05f37b29d3554c4e6c9a534273be8fd76850c44b",
+      "source_glb_sha256": "42ccd77aed9922dacfcec270d1a801e265e35fedcb9ce4746617327f8572112a",
+      "camera_location": [
+        1.154191017150879,
+        -1.9226917028427124,
+        1.6276237964630127
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.279679626823963e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.7328715324401855,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD102_Iris.png",
+      "image_source_sha256": "cc24216813de0899c45129f5c250bc4b8e3ea2272b151271f7b4cc533e02cc78",
+      "image_sha256": "4b6833ac20fd7b0a5a21c00961d2f3ea591a7dd1667652e4daa747d275cb3311",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD102_Iris.png",
+      "thumbnail_source_sha256": "e095f00bf08f34fcf38789ea612555e6f955dfb35697b00367f703ed4e7dda3b",
+      "thumbnail_sha256": "7505cb489abbccfc53be6afdaabb6ef7a2b14dfe23ab15595c87d4c55023a2b2"
+    },
+    {
+      "id": "BD103_PeaVine",
+      "source_zip_sha256": "1006c359c7e732362496e5451c15c5b1c3acd3dc973f271c6172e5624dd48244",
+      "source_glb_sha256": "e79652cc5a4ae872cb5386ebcb811abc481e62149e1607c5cd02ee5e21279d44",
+      "camera_location": [
+        1.3126840591430664,
+        -2.251680850982666,
+        1.9404520988464355
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -4.3764565305082215e-09,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 2.066917896270752,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD103_PeaVine.png",
+      "image_source_sha256": "86b964e87c1a2310c4ee02ef991aa488dae4b4b4311886380385e53cf7da08c9",
+      "image_sha256": "0afb854b12757d5975dd3b4d3d288f80e41d95346cdcb74da0161cdf729791b1",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD103_PeaVine.png",
+      "thumbnail_source_sha256": "345696967c94a662997622130de57c1760c298195d6a6192ea074c084baf3566",
+      "thumbnail_sha256": "200eac377e828f5d7e8e023ab0ac8a13c020a58b280eb78da05ddfc2d2c33047"
+    },
+    {
+      "id": "BD104_LobedIvy",
+      "source_zip_sha256": "3f10498e4a0c10f6028221401ea2683cf4f8287ba6474dd6b333032be08950c7",
+      "source_glb_sha256": "eee78b066b0004105665628042187526d94447c70a8c67bb5576f4754c9c2b5f",
+      "camera_location": [
+        1.27292799949646,
+        -2.011474132537842,
+        1.7186024188995361
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 1.8326166868209839,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD104_LobedIvy.png",
+      "image_source_sha256": "42e5cdd10b2c682a28664e4bfed2e84ef65160b8f7b0d01b38dd7bc9cdef1a19",
+      "image_sha256": "8196d269fbb535901dcc777b6f63c58668dc399c0640c97fc8e39cf4b5ba4181",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD104_LobedIvy.png",
+      "thumbnail_source_sha256": "234fb67a1aa42d4e065a4ee35af639b14e61be5fd36fbbd8e7682e6eefbccc07",
+      "thumbnail_sha256": "62a952bdb671631dcfb58c600e9b9e55b2832c1efa9ecf6dc0f877bb25af12ab"
+    },
+    {
+      "id": "BD201_WaterLily",
+      "source_zip_sha256": "7d3eb97a87b07356e26817d03dc09752c700a0b43567da85a4ef5889dd0f5bc6",
+      "source_glb_sha256": "8baece3c01fddcde2f49914b1e363e899d041fb13624bc3b2ef3c8c8e9090dba",
+      "camera_location": [
+        0.7417427897453308,
+        -1.3361313343048096,
+        0.8666160702705383
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.576443947077678e-09,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.183468222618103,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD201_WaterLily.png",
+      "image_source_sha256": "07f8205792080ad697ea410a70ad666a3a68a2a6e20719ebfe247ba1886db856",
+      "image_sha256": "63b4cc588e5ae50d8b494c10a206531c4287d331897d4e4c4c6ac0f9429af63d",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD201_WaterLily.png",
+      "thumbnail_source_sha256": "ee1715309550c63ea4879971107aa1065f81fecab39eb47618e36b36c8063206",
+      "thumbnail_sha256": "936b84ce6d7874f107891d1a4cf4efc2cf99f48b677a57a271848d5305d2c25c"
+    },
+    {
+      "id": "BD202_Horsetail",
+      "source_zip_sha256": "c3233b52b8578115c126026b897836264c0d80dcd52470e4c86e2349ef4755a9",
+      "source_glb_sha256": "aa16a144e6e5382266601129142340897b4cd0708951bc32cf76c63cf29203b6",
+      "camera_location": [
+        0.9470923542976379,
+        -1.638824224472046,
+        1.3952252864837646
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.4856760501861572,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD202_Horsetail.png",
+      "image_source_sha256": "15d2af5cd856fc9ffa9d4039a726f33c1df844e4456a1bdd486a7d7100fb2057",
+      "image_sha256": "8f4057981cdd722966599c02a99b4fc4688f19d889a90690cfb4d5af1ab9bcad",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD202_Horsetail.png",
+      "thumbnail_source_sha256": "2b3a6d42ab9c1c6cadfbda3a18a6556aaccabf1dc174bac8dd84e937a6a177d3",
+      "thumbnail_sha256": "9f2db2b02e8af3c6748a5ae4140a3174e703d801ddee24ea554600efe52ce2c8"
+    },
+    {
+      "id": "BD203_FloweringAllium",
+      "source_zip_sha256": "129da66c7efc6315e85e3197705977f5a641a90658ce31d6e4858e3c5f1a981e",
+      "source_glb_sha256": "deecc157bf46d2a475769d9bb94d531941342ef13c80db37d5aaa06c3ddaa91d",
+      "camera_location": [
+        1.0641778707504272,
+        -1.8249435424804688,
+        1.5673245191574097
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.6686702966690063,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD203_FloweringAllium.png",
+      "image_source_sha256": "2fbfa36bc4d971681822c491a97129e8c8119981dba648dbb85b262cd87c1194",
+      "image_sha256": "f61d0039635afd58d23b8210cfd1f96ef9b3ca3bc1bddd600715b83007a75645",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD203_FloweringAllium.png",
+      "thumbnail_source_sha256": "3748e32110321207d46d82f391787c623b21142f13ad5dbedd079f07a139580a",
+      "thumbnail_sha256": "d7e3e0689183509828736bb6e465f96f541270b2467f8dcd7fef96fe35a7cff2"
+    },
+    {
+      "id": "BD301_StrawberryRunner",
+      "source_zip_sha256": "6444d2a8aec1287c0977ed33211ef624154dc7d3db7649e0d8d3470a38546542",
+      "source_glb_sha256": "02227854c5121fc5e725c32d7ad486d0b083c4ea7819bb51c39a38a0d06df0ce",
+      "camera_location": [
+        1.1897616386413574,
+        -1.5071392059326172,
+        2.475802421569824
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 1.4766786098480225,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD301_StrawberryRunner.png",
+      "image_source_sha256": "2d3ffea99939e1b67f9684ff767482ea624ee7a672cca29260917c1bc2e842c5",
+      "image_sha256": "c345b74f08ef6ae3ded07501e5d23a0a3caa16353fb700f9bffef50f52fb9280",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD301_StrawberryRunner.png",
+      "thumbnail_source_sha256": "bd08633649509cabe341a8f6948a4b0e8b6579b2fbb51258096e0aee57a3b9fe",
+      "thumbnail_sha256": "06510a8948a131b4e1b1878a5402f703a9729fdf0922798b14165536c9b5caa1"
+    },
+    {
+      "id": "BD302_TrailingCucumber",
+      "source_zip_sha256": "8f40baab7c39ffdd19534a68d540ae201ba1c3ed0c2ca3c79a7cf3644ed66c7b",
+      "source_glb_sha256": "bb1373e325397b57fc5f4f253b56e1466367dd6cc1fb26c0b824e2ae02f7ff1a",
+      "camera_location": [
+        1.255338430404663,
+        -1.7656368017196655,
+        2.6343634128570557
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        -3.25083995278419e-08,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 1.6499595642089844,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD302_TrailingCucumber.png",
+      "image_source_sha256": "ab8586389360f7372cd123969fe76108f56fda4359e6f977127d638c9ec12e98",
+      "image_sha256": "e1112a91426e548d11381261106c381ba1429acacca0cd41e7d13c99777105d8",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD302_TrailingCucumber.png",
+      "thumbnail_source_sha256": "83ff45f3ad7ddacc10939d21bbebc7794ddbc68f316cb1db5e1d8bb5fa77a9af",
+      "thumbnail_sha256": "a9949f5b129f38f40de241033c140794695bb1f275b3a0d853a3a62d95aa3f56"
+    },
+    {
+      "id": "BD303_DandelionSeedhead",
+      "source_zip_sha256": "4bd2edbe7cfd72b8b4595a1127298e9ff8a39afe7f4396261c5b21f5df6eb502",
+      "source_glb_sha256": "8a689f4712f6ec51498a052e201daa8d647c06a605cb044249d7d48f96ebdbf8",
+      "camera_location": [
+        0.6232962012290955,
+        -1.0690187215805054,
+        0.9170794486999512
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.9765781164169312,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png",
+      "image_source_sha256": "f1f419c3ab06a3d52225efb8aac89082970c9d829f7b53c66c74e7e20ae9462f",
+      "image_sha256": "70c9a52d3f2110b3e5bfad51ae20bb7218e73e2d4c874f057f042e8c8d02d87f",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/BD303_DandelionSeedhead.png",
+      "thumbnail_source_sha256": "c237de7c10307a0e53e0a78c405e3c27a0ce79a40ecd87ce114444ea6cda76e7",
+      "thumbnail_sha256": "2bd3d109a8355311c37f291c9354793d5582fb03ed8cfd316bf197df7955f77f"
+    },
+    {
+      "id": "ER101_StairTJunction",
+      "source_zip_sha256": "46ffbd74c79d28a913b659032429666036fe78e8a8a5cd278da4201215d3f5a6",
+      "source_glb_sha256": "7af44a0403eb4e6fd0d908ab7ba42a35891178dd39fea9c03add9eee90754d56",
+      "camera_location": [
+        4.239440441131592,
+        -7.258893013000488,
+        5.179440498352051
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.711861123496419e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 6.661977767944336,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/ER101_StairTJunction.png",
+      "image_source_sha256": "d5b4a06682db33c19a21d2f9e742eb2e3b9b230e689111631ebf9ad34aa63adf",
+      "image_sha256": "0d5116af394eb3e46aba7cbe21f470f382617fa5989b4d67c6b1519dc549312c",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/ER101_StairTJunction.png",
+      "thumbnail_source_sha256": "7469e39f23f44dbeb3b08044c8f911429789f3db7f2adbeadbb461a194df0b51",
+      "thumbnail_sha256": "7832af4758600a0d8b0d2b2d37414d772ae3a56b8e5a96366b71b6570ae5b591"
+    },
+    {
+      "id": "ER102_RuinArchWalkway",
+      "source_zip_sha256": "453cc74c04a20ebd8da4d82932dbc91fe0125619a2dd895128de6fcec3375c5d",
+      "source_glb_sha256": "591d878f05d3f853ea1c15f8066f6460876892cc42df3c9c308dee91a3f338b4",
+      "camera_location": [
+        4.073999881744385,
+        -6.984000205993652,
+        6.013999938964844
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 6.402000427246094,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png",
+      "image_source_sha256": "1033cbb48659269c5b4dda080dc80b07d993fe80bf9b6b0e8b79e0d6f2779aae",
+      "image_sha256": "8f0731b05ae4664c3ae8b145721162f91d2be07cf5ccc934f264f273e983bb5d",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/ER102_RuinArchWalkway.png",
+      "thumbnail_source_sha256": "0e9ee4bcc42be89d820716b21c8e2c744a83e4189c4feb36cbd288b8c8a738b7",
+      "thumbnail_sha256": "ad6362650c2c2cedbea649a5d598a6d0f6b2e6cdc7cf7ca1decb513ff2d9de03"
+    },
+    {
+      "id": "PAV-BASKET",
+      "source_zip_sha256": "3e3712160b5acac158cb9bc556b38c6317653d1edb701cad99ff00337c9f9b2d",
+      "source_glb_sha256": "9cdf81d6108b78183d3095ab8a29913306d9fe5ea0512d7fd355c5d5d1218b11",
+      "camera_location": [
+        2.0999999046325684,
+        -3.0,
+        4.351491928100586
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-BASKET-v2-models-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/PAV-BASKET.png",
+      "image_source_sha256": "db89c80b7c95282cbab0b0d737fb6f03733cc359570aacc54f3dcbb4c6a5cec3",
+      "image_sha256": "74bad9bc6a7be8aabe348e4ddb9841c8b3bd4ede3ba1c1afe518803b6704e8ba",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/PAV-BASKET.png",
+      "thumbnail_source_sha256": "e323fb10247e0db3206ffd2d0a8268024cab79697943d180a2c9496303730b6e",
+      "thumbnail_sha256": "0051d20efa68243c6c8b224e0b6fc082efa6ec0f217c7201833aceeb92b9357b"
+    },
+    {
+      "id": "PAV-FAN",
+      "source_zip_sha256": "d51cee2abcdec7801264736e20b1b6d648f49833c0610fd727490fbafb933e89",
+      "source_glb_sha256": "e7bc188a049b8c3ab6016f58c58cdd5829ec1c9abfa1841e2436d7547602022e",
+      "camera_location": [
+        2.0999999046325684,
+        -3.0,
+        4.351464748382568
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/PAV-FAN.png",
+      "image_source_sha256": "3f9d77ead32018c77dbe585205bcafe6a7bc379e10f4d691836eb6d6525b8bf4",
+      "image_sha256": "651f3cc01c65d44a0da65bf6e386d995e214c58a19f0c7e5da57609f7a94d5c1",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/PAV-FAN.png",
+      "thumbnail_source_sha256": "a936521897ace7e1df7da94138d30c541eb745a53e281dc91dd1bc1a3021964a",
+      "thumbnail_sha256": "f76ab0376489823e71b038055c2185c2861b3adadf7a0da6b4f386753b6a6ee5"
+    },
+    {
+      "id": "PAV-RUN",
+      "source_zip_sha256": "04213e66f7a0c5548c170cf66895de2673e017428c01680e013bae037de3e30a",
+      "source_glb_sha256": "39b6de4bb771226226486c78a1fe390c7033cbb50b45281bd73bb93f835e9eb1",
+      "camera_location": [
+        2.0999999046325684,
+        -3.0,
+        4.351498603820801
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-RUN-v2-models-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/PAV-RUN.png",
+      "image_source_sha256": "f875f5238c4722467e119d5c144860aa737fde0b15cf7b1179357d56c484544c",
+      "image_sha256": "a4964bececba1e35bfebfd21596ef8f11cb07f99d3d27aa33b2904e74d582715",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/PAV-RUN.png",
+      "thumbnail_source_sha256": "0d8a3ce612d2769e6205e3a8cc92f026f3b2d51100ef69e1dde5ed45eb61de4e",
+      "thumbnail_sha256": "bf92e0dae1b8f3fc6461d3afca6ffcf5cf84dffed52df42cbabfe90faffb4b99"
+    },
+    {
+      "id": "RG101_OpenTreeGuard",
+      "source_zip_sha256": "74ad307b4e9f0a04a454c50780a9fecda8bb992c94450563fa38e340ade61f6a",
+      "source_glb_sha256": "0bdb445cbc963c0752d6990d355dbcd133404c04a830c8d2b6bf593a6c752039",
+      "camera_location": [
+        1.4332499504089355,
+        -2.4570000171661377,
+        2.093250036239624
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.3158631324768066,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/tree-guard-v1/RG101_OpenTreeGuard_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png",
+      "image_source_sha256": "5438f262ef8ad55ca72ffa2b430fdc61de45bc1ebafd95d09f66548073693fd0",
+      "image_sha256": "1378ac7e0bbf5fa2536fa823f0ea75d6ddfe4cf8bdd10680d45354a940368241",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RG101_OpenTreeGuard.png",
+      "thumbnail_source_sha256": "ace8ba34fa2f31960925c83633de0fa1add11e9674780e58e7607074ff18a4e0",
+      "thumbnail_sha256": "7b5c88d91c858100e3109e66fe64fa808ece52ec90bfd6b3ad01f7d90c1c8fb9"
+    },
+    {
+      "id": "RI101_RaisedFlume",
+      "source_zip_sha256": "21fc76e4573ec7954c8fab50704a5d70f8533c09cf255376fe1e3a6bc8e5fec6",
+      "source_glb_sha256": "5f0b566fb6618920f46dfbad55f2ba385a8753dc1c6a716f4aa309c85dfb9c57",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        2.75
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RI101_RaisedFlume.png",
+      "image_source_sha256": "e5e6d9d8e9251c047f7c56087d23308e380302ebfb949ee3d03f33b47df81a2d",
+      "image_sha256": "6e5469551c25421bd7b831145e5ffd3d4008b5e5a1e8a1ca30c4af30c75e6f4b",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RI101_RaisedFlume.png",
+      "thumbnail_source_sha256": "a47a9ffd16a13aa7cb955a2b9a0e69c3c693fd1557706bdeb023046e75e9df9c",
+      "thumbnail_sha256": "624d200196899eea4f2c83b30b99b7acdffb3e472b662feb3618caf359989a18"
+    },
+    {
+      "id": "RI102_SluiceDistributor",
+      "source_zip_sha256": "5affc96d2dd7b1e4492dc2af3ba8808377ded96bb83abda45ffc7d8f68503f99",
+      "source_glb_sha256": "242d9080b43ac968d61df0cb5ec703ad1e9de70165445d2f864c4c0bd95c6b6b",
+      "camera_location": [
+        2.312624931335449,
+        -3.9645001888275146,
+        3.413875102996826
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.7183077335357666,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RI102_SluiceDistributor.png",
+      "image_source_sha256": "6394b56de582a6689a81686709bc562530fbe0f1a1c63ca752636a4a97ca011b",
+      "image_sha256": "dfeef6c831e58346484ef62e48f786930e7067070bdaff0a4f09857e2850ca85",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RI102_SluiceDistributor.png",
+      "thumbnail_source_sha256": "cdb8900fd60bed63dc7957dc941a74cf82a662cb24a5c4af9053e8c0cb0f7070",
+      "thumbnail_sha256": "9bc391db389699788c048507618cbc8f294f80a4a74f41c4de7604df96ed1a46"
+    },
+    {
+      "id": "RI103_DitchFence",
+      "source_zip_sha256": "ac96a314b008901a11d1fac8066200e979e015e3286635c862902b073eca4a92",
+      "source_glb_sha256": "7c7c6564536d1a3be8b49df82fa6805b8132b09c1d8628f16605bf9e7baf0a65",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        2.429999828338623
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RI103_DitchFence.png",
+      "image_source_sha256": "2a0fd11d8385a164924ca8f2d177ef80d4701c338d7d225b456729973afa5cdd",
+      "image_sha256": "64c68f1930d7048720e15e539d88061c65f143f54bb45e9d2922ad3f5cda1737",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RI103_DitchFence.png",
+      "thumbnail_source_sha256": "53b3ce74c28628a67dc3178e52c4b61065d4be3e9317eda7c4b839f2b887a8b9",
+      "thumbnail_sha256": "f0d9bfb8f5e655cbf209ac7dee8d47161e36b050b9467aa6b2bba48e3bd35635"
+    },
+    {
+      "id": "RI104_EavesDownchute",
+      "source_zip_sha256": "d423244492cc619879633273735313f8ae3e2b0002b57480a5572d1d83c8f8e5",
+      "source_glb_sha256": "bb9ede161ca45b1b85eabe67c6a2c5ba431fb55e7969145f6b16f343d64d4eae",
+      "camera_location": [
+        3.0849997997283936,
+        -4.899999618530273,
+        4.760000228881836
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.279679626823963e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.949999809265137,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RI104_EavesDownchute.png",
+      "image_source_sha256": "aa59fb47ab484907cb9f964255c6e44bafc0aefe8c185a4a69e5efca85c395e2",
+      "image_sha256": "2a66bcbbc0a7683ba6474fe79446d3a064d28444efbda99f4ba120fb5facff03",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RI104_EavesDownchute.png",
+      "thumbnail_source_sha256": "3ec0a39ac7324567889d6dc2898fa93b8f24e31bff1bbdff5c1109a0ea90df61",
+      "thumbnail_sha256": "ff5c3d01dd777b207c51ef41c3311d2f84a32e1844301290b7b89b732355dada"
+    },
+    {
+      "id": "RS201",
+      "source_zip_sha256": "3566a0d7ee89192925020d70324f2824cb4e592bdd9850dde67eef8ad9ce33f6",
+      "source_glb_sha256": "515902fed5419d0dfe1ccd72d71f9c6ee9777877e6630468b45aa65e63f92c00",
+      "camera_location": [
+        1.931999921798706,
+        -3.3177499771118164,
+        2.881999969482422
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.0360000133514404,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RS201.png",
+      "image_source_sha256": "41421c3153c1a7dbd5d2617fe65685b8c57cc5eeef406c3acd4c07a8f7f00031",
+      "image_sha256": "5b7197becab9d2a9a9a1e4fe4cac33c2f9234efa1ee7744e874076357d5c3dd0",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RS201.png",
+      "thumbnail_source_sha256": "1371c9b15707c6d24ebcd39e4c2489318e153650fd596c59a8e9957fcf8357e7",
+      "thumbnail_sha256": "11ece52d50913910800effe87134130586aed1918f881955526de5f08ccaf459"
+    },
+    {
+      "id": "RS202",
+      "source_zip_sha256": "c1b9a7d6cf03f010916121877a9d8c4278ca1bd98fbd9852b239bf6e3a484cfb",
+      "source_glb_sha256": "8544bef499de7a2badf568460a97783ead78111e24ba64b8ec1b393b42ae0441",
+      "camera_location": [
+        1.994999885559082,
+        -3.430499792098999,
+        2.5731899738311768
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.134999990463257,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RS202.png",
+      "image_source_sha256": "56a204f19de7b30e77afb97bce3ad683f5ad6ae74c25063223a652dde4361465",
+      "image_sha256": "3997dd4b771580c227a168ea2b69cfd0cdccb854cf96cd621b1298dfa385771f",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RS202.png",
+      "thumbnail_source_sha256": "62edcf32fc5f72fd8ae6651593bce2fd0f4a909297fae548c7bb8dd45f69d444",
+      "thumbnail_sha256": "ea96a6a5d57f89a8c549f024cf7cda5d248a0e9de8fa66affbe28aa129fb4dd4"
+    },
+    {
+      "id": "RS203",
+      "source_zip_sha256": "80883be0321a82a6eff0ae6466a71b8a2fb4782c3bac1d19556294a1f0062016",
+      "source_glb_sha256": "028249eb03d8b328ee02b9ab1f25d74501fddceaa12da43f111604f5d64c25a3",
+      "camera_location": [
+        2.112499952316284,
+        -3.509999990463257,
+        2.8975000381469727
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -3.8281594783029504e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.2174999713897705,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/RS203.png",
+      "image_source_sha256": "0fa152e205dd684a0361b1828e1904941425a5a1d72f5636410646730012ac65",
+      "image_sha256": "2ea82400dc0db7ccf135cce763456e92e865b55c83d6ae8ae997e9b61dca7ca0",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/RS203.png",
+      "thumbnail_source_sha256": "8bf759df3f870abb01f5df21aed8313187eab12a4537496ab1748b203cd82bcd",
+      "thumbnail_sha256": "a8915c184852d31bdfc2a660b20fe112d8cce8a9e9ca5bdbd93a02913dcee8b2"
+    },
+    {
+      "id": "UD1102",
+      "source_zip_sha256": "8970c80f137b0b4b785a82fcfe7a66236b5151c8b1355a459598bb6dd5c10216",
+      "source_glb_sha256": "72239f1ad067065d083e5d5372b6a5d4beeaa28ff7f497b54e0432e535fc96c9",
+      "camera_location": [
+        2.6039998531341553,
+        -4.4639997482299805,
+        2.863999843597412
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.0920000076293945,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1102_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/ud1102-rg24/renders/UD1102.png",
+      "image_source_sha256": "caf9c81ffadc4b033607882e1cff9b754212a386ae63af075b6fef91c83bbc0e",
+      "image_sha256": "4523ac48c91b40d8b85ca4d905686f90d5b9b54f8e96633554050ea0afa4f5ff",
+      "thumbnail": "previews/ud1102-rg24/thumbnails/UD1102.png",
+      "thumbnail_source_sha256": "3d35109d1162303df62856d9404f0f553e7423912a242060abfe6e96ccfcc237",
+      "thumbnail_sha256": "b9c781b6629f78bb16d96a88f98ed68acaa267b1e9a3b5cb90ad30fc58cff055"
+    }
+  ]
+}

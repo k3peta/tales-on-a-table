@@ -26,3 +26,15 @@ OpenTreeGuard
 ![tree-guard-v1 — open_core_closeup](../previews/catalog-20261024/tree-guard-v1-open_core_closeup.jpg)
 
 ![tree-guard-v1 — orchard_guard_example](../previews/catalog-20261024/tree-guard-v1-orchard_guard_example.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### RG101_OpenTreeGuard — OpenTreeGuard
+
+OpenTreeGuard
+
+[![RG101_OpenTreeGuard](../previews/ud1102-rg24/thumbnails/RG101_OpenTreeGuard.png)](../previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png)
+
+[Full image](../previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/tree-guard-v1/RG101_OpenTreeGuard_CC0.zip)

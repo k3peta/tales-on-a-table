@@ -92,3 +92,33 @@ Garden inline shared post
 ![rustic-slope-connections-v2 — slope_connections_supported](../previews/catalog-20261024/rustic-slope-connections-v2-slope_connections_supported.jpg)
 
 ![rustic-slope-connections-v2 — stile_example](../previews/catalog-20261024/rustic-slope-connections-v2-stile_example.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+**Known issue:** Three connection rails without posts in this distributed model; assembly not demonstrated.
+
+### RS201 — Pasture slope bay
+
+Pasture slope bay
+
+[![RS201](../previews/ud1102-rg24/thumbnails/RS201.png)](../previews/ud1102-rg24/renders/RS201.png)
+
+[Full image](../previews/ud1102-rg24/renders/RS201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)
+
+### RS202 — Garden slope bay
+
+Garden slope bay
+
+[![RS202](../previews/ud1102-rg24/thumbnails/RS202.png)](../previews/ud1102-rg24/renders/RS202.png)
+
+[Full image](../previews/ud1102-rg24/renders/RS202.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip)
+
+### RS203 — Fence crossing stile
+
+Fence crossing stile
+
+[![RS203](../previews/ud1102-rg24/thumbnails/RS203.png)](../previews/ud1102-rg24/renders/RS203.png)
+
+[Full image](../previews/ud1102-rg24/renders/RS203.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip)

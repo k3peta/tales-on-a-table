@@ -68,3 +68,31 @@ DandelionSeedhead
 ![botanical-diversity-v3 — runners_and_fruit](../previews/catalog-20261024/botanical-diversity-v3-runners_and_fruit.jpg)
 
 ![botanical-diversity-v3 — seedhead_closeup](../previews/catalog-20261024/botanical-diversity-v3-seedhead_closeup.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### BD301_StrawberryRunner — StrawberryRunner
+
+StrawberryRunner
+
+[![BD301_StrawberryRunner](../previews/ud1102-rg24/thumbnails/BD301_StrawberryRunner.png)](../previews/ud1102-rg24/renders/BD301_StrawberryRunner.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD301_StrawberryRunner.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip)
+
+### BD302_TrailingCucumber — TrailingCucumber
+
+TrailingCucumber
+
+[![BD302_TrailingCucumber](../previews/ud1102-rg24/thumbnails/BD302_TrailingCucumber.png)](../previews/ud1102-rg24/renders/BD302_TrailingCucumber.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD302_TrailingCucumber.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip)
+
+### BD303_DandelionSeedhead — DandelionSeedhead
+
+DandelionSeedhead
+
+[![BD303_DandelionSeedhead](../previews/ud1102-rg24/thumbnails/BD303_DandelionSeedhead.png)](../previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png)
+
+[Full image](../previews/ud1102-rg24/renders/BD303_DandelionSeedhead.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip)

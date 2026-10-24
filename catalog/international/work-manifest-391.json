@@ -7636,7 +7636,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1102_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7650,6 +7649,10 @@
     "existing_catalogs": [
       "catalog/terrain_connectivity_v1.md",
       "catalog/terrain_connectivity_v11.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7660,7 +7663,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7674,6 +7676,10 @@
     "existing_catalogs": [
       "catalog/fortified_city_sites_v1.md",
       "catalog/rustic_slope_connections_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7684,7 +7690,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS202_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7698,6 +7703,10 @@
     "existing_catalogs": [
       "catalog/recovered_rustic_fences_rf7.md",
       "catalog/rustic_slope_connections_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7708,7 +7717,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS203_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7721,6 +7729,10 @@
     },
     "existing_catalogs": [
       "catalog/rustic_slope_connections_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7731,7 +7743,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD101_Bellflower_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7744,6 +7755,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7754,7 +7769,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD102_Iris_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7767,6 +7781,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7777,7 +7795,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD103_PeaVine_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7790,6 +7807,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7800,7 +7821,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v1/BD104_LobedIvy_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7813,6 +7833,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7823,7 +7847,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD201_WaterLily_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7836,6 +7859,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7846,7 +7873,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD202_Horsetail_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7859,6 +7885,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7869,7 +7899,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v2/BD203_FloweringAllium_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7882,6 +7911,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7892,7 +7925,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD301_StrawberryRunner_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7905,6 +7937,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v3.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7915,7 +7951,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD302_TrailingCucumber_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7928,6 +7963,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v3.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7938,7 +7977,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-diversity-v3/BD303_DandelionSeedhead_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7951,6 +7989,10 @@
     },
     "existing_catalogs": [
       "catalog/botanical_diversity_v3.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7961,7 +8003,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-RUN-v2-models-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7974,6 +8015,10 @@
     },
     "existing_catalogs": [
       "catalog/stone_paving_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -7984,7 +8029,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-BASKET-v2-models-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -7997,6 +8041,10 @@
     },
     "existing_catalogs": [
       "catalog/stone_paving_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8007,7 +8055,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stone-paving-v2/PAV-FAN-v2-models-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8020,6 +8067,10 @@
     },
     "existing_catalogs": [
       "catalog/stone_paving_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8030,7 +8081,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER101_StairTJunction_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8043,6 +8093,10 @@
     },
     "existing_catalogs": [
       "catalog/elevated_ruin_connectors_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8053,7 +8107,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/elevated-ruin-connectors-v1/ER102_RuinArchWalkway_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8066,6 +8119,10 @@
     },
     "existing_catalogs": [
       "catalog/elevated_ruin_connectors_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8076,7 +8133,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI101_RaisedFlume_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8089,6 +8145,10 @@
     },
     "existing_catalogs": [
       "catalog/rural_interfaces_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8099,7 +8159,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI102_SluiceDistributor_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8112,6 +8171,10 @@
     },
     "existing_catalogs": [
       "catalog/rural_interfaces_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8122,7 +8185,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI103_DitchFence_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8135,6 +8197,10 @@
     },
     "existing_catalogs": [
       "catalog/rural_interfaces_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8145,7 +8211,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rural-interface-v1/RI104_EavesDownchute_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8158,6 +8223,10 @@
     },
     "existing_catalogs": [
       "catalog/rural_interfaces_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8168,7 +8237,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/tree-guard-v1/RG101_OpenTreeGuard_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8181,6 +8249,10 @@
     },
     "existing_catalogs": [
       "catalog/tree_guard_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 PAV-RUN
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PAV-RUN](../../previews/ud1102-rg24/thumbnails/PAV-RUN.png)](../../previews/ud1102-rg24/renders/PAV-RUN.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/PAV-RUN.png)
 
 Use / purpose: Running bond
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/stone_paving_v2.md)
 
 PAV-BASKET
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PAV-BASKET](../../previews/ud1102-rg24/thumbnails/PAV-BASKET.png)](../../previews/ud1102-rg24/renders/PAV-BASKET.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/PAV-BASKET.png)
 
 Use / purpose: Basket weave
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/stone_paving_v2.md)
 
 PAV-FAN
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PAV-FAN](../../previews/ud1102-rg24/thumbnails/PAV-FAN.png)](../../previews/ud1102-rg24/renders/PAV-FAN.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/PAV-FAN.png)
 
 Use / purpose: Fan paving accent panel
 
@@ -230,7 +236,9 @@ Source details: [Catalogue 1](../../catalog/recovered_rustic_fences_rf7.md)
 
 StairTJunction
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![ER101_StairTJunction](../../previews/ud1102-rg24/thumbnails/ER101_StairTJunction.png)](../../previews/ud1102-rg24/renders/ER101_StairTJunction.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/ER101_StairTJunction.png)
 
 Use / purpose: 2x4m stair-top T junction. Low S interface (0,-2,0), first riser .125m; 8 treads .25m run/.125m rise. Top floor1m; W(-1,1,1), E(1,1,1), N(0,2,1). Stair tread width .9m. Landing underside .8m; not a human underpass.
 
@@ -252,7 +260,9 @@ Source details: [Catalogue 1](../../catalog/elevated_ruin_connectors_v1.md)
 
 RuinArchWalkway
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![ER102_RuinArchWalkway](../../previews/ud1102-rg24/thumbnails/ER102_RuinArchWalkway.png)](../../previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/ER102_RuinArchWalkway.png)
 
 Use / purpose: 2m EW upper walkway at Z3m over NS arch. Deck width1m, conservative guard clearance .955m. Lower opening width1.2m; spring1.6m, centre crown2.2m. E/W upper ports (+/-1,0,3). Upper and lower routes are separate. Broken stone crest remains below deck.
 
@@ -274,7 +284,9 @@ Source details: [Catalogue 1](../../catalog/elevated_ruin_connectors_v1.md)
 
 RaisedFlume
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RI101_RaisedFlume](../../previews/ud1102-rg24/thumbnails/RI101_RaisedFlume.png)](../../previews/ud1102-rg24/renders/RI101_RaisedFlume.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RI101_RaisedFlume.png)
 
 Use / purpose: 2m NS supported flume. Open ends y+-1, wet width .6m, bed Z1, side top1.3. Ground feet Z0.
 
@@ -296,7 +308,9 @@ Source details: [Catalogue 1](../../catalog/rural_interfaces_v1.md)
 
 SluiceDistributor
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RI102_SluiceDistributor](../../previews/ud1102-rg24/thumbnails/RI102_SluiceDistributor.png)](../../previews/ud1102-rg24/renders/RI102_SluiceDistributor.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RI102_SluiceDistributor.png)
 
 Use / purpose: 2x2m supported distributor. S(0,-1,1), N(0,1,1), E(1,0,1) bed ports, .6m wet width. Gate fixed raised, .39m gap beneath gate. No animated or hydraulic simulation.
 
@@ -318,7 +332,9 @@ Source details: [Catalogue 1](../../catalog/rural_interfaces_v1.md)
 
 DitchFence
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RI103_DitchFence](../../previews/ud1102-rg24/thumbnails/RI103_DitchFence.png)](../../previews/ud1102-rg24/renders/RI103_DitchFence.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RI103_DitchFence.png)
 
 Use / purpose: 2m fence bay across ditch. Bank origin Z0, post bottoms0; centre hanging slat bottom-.46m. Intended .5m deep ditch, .04m clearance. Fixed slats and hinge pins, no movement or collision test.
 
@@ -340,7 +356,9 @@ Source details: [Catalogue 1](../../catalog/rural_interfaces_v1.md)
 
 EavesDownchute
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RI104_EavesDownchute](../../previews/ud1102-rg24/thumbnails/RI104_EavesDownchute.png)](../../previews/ud1102-rg24/renders/RI104_EavesDownchute.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RI104_EavesDownchute.png)
 
 Use / purpose: Attachment module: NS gutter y-1..1 at bedZ2; chute y1..2 drops to bedZ1. Wet width.6m, walls.3m. Attach to eaves/wall; not ground-supported. Outlet (0,2,1) fits raised flume. Roof and wall not included.
 
@@ -362,7 +380,9 @@ Source details: [Catalogue 1](../../catalog/rural_interfaces_v1.md)
 
 OpenTreeGuard
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![RG101_OpenTreeGuard](../../previews/ud1102-rg24/thumbnails/RG101_OpenTreeGuard.png)](../../previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png)
+
+[Full-size image](../../previews/ud1102-rg24/renders/RG101_OpenTreeGuard.png)
 
 Use / purpose: Open-top/open-bottom eight-sided tree guard. Origin at soilZ0, stakes to1.32m, central cylinder radius.5m unobstructed. Outer radius under.70m. Four fixed straps at two seams, no animation. Place trees independently; trees and soil not included.
 

@@ -8682,7 +8682,22 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "WS_019__repair",
+          "base_id": "WS_019",
+          "entity_type": "revision",
+          "zip": "WS_019__repair_CC0.zip",
+          "sha256": "a98d652157806dc265af215761ed0c4341a15ba387efad73a8545ba846f03a2d",
+          "bytes": 7353133,
+          "description": "Strictly zero-area triangle cleanup only; all positive surfaces and UV retained. No new base. Original small-prop polygon budget still exceeded for WS019/020.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_019__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WS_020",
@@ -8713,7 +8728,22 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "WS_020__repair",
+          "base_id": "WS_020",
+          "entity_type": "revision",
+          "zip": "WS_020__repair_CC0.zip",
+          "sha256": "c15fa8cca53ec6e2c6867c566081826eac93c294f074eea17e4c5ea3b407566e",
+          "bytes": 8659073,
+          "description": "Strictly zero-area triangle cleanup only; all positive surfaces and UV retained. No new base. Original small-prop polygon budget still exceeded for WS019/020.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_020__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WS_021",
@@ -8775,7 +8805,22 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "WS_022__repair",
+          "base_id": "WS_022",
+          "entity_type": "revision",
+          "zip": "WS_022__repair_CC0.zip",
+          "sha256": "61d3e2edcb3ed1a6f6983e8ee48e8463205b1ce8e6a8e96db0df5c2cf75e6b0e",
+          "bytes": 525516,
+          "description": "Strictly zero-area triangle cleanup only; all positive surfaces and UV retained. No new base. Original small-prop polygon budget still exceeded for WS019/020.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_022__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WS_023",
@@ -8806,7 +8851,22 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "WS_023__repair",
+          "base_id": "WS_023",
+          "entity_type": "revision",
+          "zip": "WS_023__repair_CC0.zip",
+          "sha256": "246cd6a5984597051d78bd11ecd744525bf163bc3abdcf68e01679d638293221",
+          "bytes": 10387878,
+          "description": "Strictly zero-area triangle cleanup only; all positive surfaces and UV retained. No new base. Original small-prop polygon budget still exceeded for WS019/020.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_023__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WS_024",

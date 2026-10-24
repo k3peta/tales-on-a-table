@@ -127,3 +127,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base WS_015](base-12.md#ws_015) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws009-018-v1/WS_015__color_green_CC0.zip) · [Full comparison](../../previews/quality-ws009-018-v1/WS_015__color_green_overview_comparison.png) · [Details](../material_variants_ws009_018.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WS_024__color_orange
+
+**Hooded research lamp** · 遮光フード付き研究灯
+
+[![WS_024__color_orange](../../previews/quality-ws019-028-v1/WS_024__color_orange_thumb.png)](../../previews/quality-ws019-028-v1/WS_024__color_orange_overview_comparison.png)
+
+Use: Orange lampshade basecolor texture; original geometry/UV and other material properties retained; no added emission.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WS_024](base-13.md#ws_024) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_024__color_orange_CC0.zip) · [Full comparison](../../previews/quality-ws019-028-v1/WS_024__color_orange_overview_comparison.png) · [Details](../material_variants_ws019_028.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

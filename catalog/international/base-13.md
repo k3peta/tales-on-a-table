@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality30:** Repair remains held for publication scan review, no final ZIP; no credential exposure established. [Details](../material_variants_ws019_028.md).
+
 ## WS_022
 
 **Desk magnifying glass**
@@ -48,6 +50,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality30:** Zero-area cleanup revision; optical magnification accuracy untested. [Details](../material_variants_ws019_028.md).
+
 ## WS_023
 
 **Hourglass with brass columns**
@@ -69,6 +73,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality30:** Zero-area cleanup revision; no sand flow or timing simulation. [Details](../material_variants_ws019_028.md).
 
 ## WS_024
 
@@ -135,6 +141,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality30:** Coarse lid grain and small joint gaps need diagnosis, not repaired. [Details](../material_variants_ws019_028.md).
 
 ## WS_027
 
