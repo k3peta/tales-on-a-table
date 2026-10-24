@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 108,
-      "id_mapped_preview": 108,
+      "records": 111,
+      "id_mapped_preview": 111,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 108,
-      "formats_known": 108,
+      "purpose_en_present": 111,
+      "formats_known": 111,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -38170,6 +38170,105 @@
       },
       "geometry_revision": "original",
       "uv_revision": "original_uv0_plus_wearuv"
+    },
+    {
+      "id": "AT_002__color_blue",
+      "kind": "variant",
+      "base_id": "AT_002",
+      "name_en": "Stopped mantel clock",
+      "name_ja": "止まった置時計",
+      "purpose_en": "Blue clock-case paint for static interior set dressing.",
+      "record_kind": "model",
+      "image": "previews/quality-at002-011-v1/AT_002__color_blue_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_002__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at002_011.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at002-011-v1/AT_002__color_blue_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_008__color_green",
+      "kind": "variant",
+      "base_id": "AT_008",
+      "name_en": "Open music box",
+      "name_ja": "開いたオルゴール",
+      "purpose_en": "Green music-box lining; case and mechanism unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-at002-011-v1/AT_008__color_green_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_008__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at002_011.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at002-011-v1/AT_008__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_011__color_terracotta",
+      "kind": "variant",
+      "base_id": "AT_011",
+      "name_en": "Owl relic mask",
+      "name_ja": "梟の遺物仮面",
+      "purpose_en": "Terracotta owl-mask surface; original shape and eye openings unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-at002-011-v1/AT_011__color_terracotta_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_011__color_terracotta_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at002_011.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at002-011-v1/AT_011__color_terracotta_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

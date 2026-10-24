@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records and108 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records and111 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -183,3 +183,5 @@
 FP001–FP024:24 individual full renders +24 thumbnails +1 broom detail added. International base ID mappings641/1008, missing367; variant108/108. Not a claim that every prior mapping is an isolated individual render.
 
 FP025 / PM001–011 / WM001–012:24 individual full renders +24 thumbnails added. International base ID mappings665/1008, missing343; variant108/108. Not a claim that every prior mapping is an isolated individual render.
+
+- [Quality 19](material_variants_at002_011.md):8 accepted comparison/thumbnail images. Cumulative186 assessed distribution records, not unique shapes.

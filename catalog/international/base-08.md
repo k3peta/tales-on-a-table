@@ -264,6 +264,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_02.en.md) · [Catalogue 2](../../catalog/curios-tools_02.md) · [Catalogue 3](../../catalog/curios-tools_02.zh-CN.md)
 
+[Quality 19 revision and comparison](../../catalog/material_variants_at002_011.md). Original download retained; AT004 positions changed with4340 triangles retained.
+
 ## AT_005
 
 **Navigator's compass**

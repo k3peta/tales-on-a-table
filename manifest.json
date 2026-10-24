@@ -5473,7 +5473,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_004_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "370a4d4d9599bc457f2aa3ff537d2fde4171991e6c36392e02d1515b2e54202c",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_004__repair",
+          "base_id": "AT_004",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "focus_mount_position_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "宙に離れた焦点調節軸・輪・ラックを筒側へ移動した静的形状改訂。元の面数/UV/外形寸法保持。",
+          "zip": "AT_004__repair_CC0.zip",
+          "bytes": 757791,
+          "sha256": "a11727f458da4e8ade7ecd645158630844a860e9c2b41840324b0385b4aefdbb",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at002-011-v1/AT_004__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AT_005",
