@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/tableware_02.en.md) · [Catalogue 2](../../catalog/tableware_02.md) · [Catalogue 3](../../catalog/tableware_02.zh-CN.md)
 
+[Gem placement revision and comparison](../material_variants_at062_071.md). Original download retained.
+
 ## AT_067
 
 **Travel staff with worn grip**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue 2](../../catalog/curios-tools_04.md) · [Catalogue 3](../../catalog/curios-tools_04.zh-CN.md)
+
+**Unresolved:**Budget/redesign issue and scratch-strip diagnosis pending.
 
 ## AT_068
 

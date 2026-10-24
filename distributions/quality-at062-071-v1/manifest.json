@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "AT_062__color_blue",
+      "base_id": "AT_062",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_blue",
+      "description": "Weight display pad changed from green to blue; brass weights retained.",
+      "zip": "AT_062__color_blue_CC0.zip",
+      "bytes": 979438,
+      "sha256": "1750f4468b1167b6129c967674dca3ef4eb1f2d0822e6feaa2410560d9cf2f38",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_062__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "AT_066__repair",
+      "base_id": "AT_066",
+      "entity_type": "revision",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "gems_seated_on_tray_v1",
+      "uv_revision": "original_uv0",
+      "finish": "repair",
+      "description": "Two floating gems lowered onto planar tray pad; topology/UV retained, geometry revision.",
+      "zip": "AT_066__repair_CC0.zip",
+      "bytes": 1010900,
+      "sha256": "70929f7697a8ecbc6dcaf6267dc719b83029693b412e9141b0379742d1c375e5",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_066__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "AT_071__color_green",
+      "base_id": "AT_071",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_green",
+      "description": "Pouch main leather changed to green; repair patch, stitches and cord retained.",
+      "zip": "AT_071__color_green_CC0.zip",
+      "bytes": 861519,
+      "sha256": "890a3a2dbfd3009b3bbebb71a7d6d93ea55f0e047d84f7941330c7dc51d334a3",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_071__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 1
+}

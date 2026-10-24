@@ -7197,7 +7197,26 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_066_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "283e398d57e6c69a1fb7b7859f838195f917f75d7d774d9cd3e2318312597445",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_066__repair",
+          "base_id": "AT_066",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "gems_seated_on_tray_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "Two floating gems lowered onto planar tray pad; topology/UV retained, geometry revision.",
+          "zip": "AT_066__repair_CC0.zip",
+          "bytes": 1010900,
+          "sha256": "70929f7697a8ecbc6dcaf6267dc719b83029693b412e9141b0379742d1c375e5",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_066__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "AT_067",
@@ -20399,6 +20418,22 @@
           "file": "models/W01_Herbalists_workbench.glb",
           "sha256": "df53182d5b661553f43bcedd40eb3221901a1cb89f8131e370c499072a9ec5b5"
         }
+      ],
+      "revisions": [
+        {
+          "id": "FW001__repair",
+          "base_id": "FW001",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW001__repair_CC0.zip",
+          "sha256": "c1837624eefa11b74523fb6478b378a91639ed73d0d913a722676868eee7796e",
+          "bytes": 1196958,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
       ]
     },
     {
@@ -20428,6 +20463,22 @@
         {
           "file": "models/W02_Stone_mortar_and_pestle.glb",
           "sha256": "baa7688ded9f921570f3653f0509f4769a6517634b9f3f794dc8481684949b5c"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "FW002__repair",
+          "base_id": "FW002",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW002__repair_CC0.zip",
+          "sha256": "94f8fba0f6d26aa9fc97dd26301b17187319eded70f595d94d939dbb01529b0d",
+          "bytes": 951699,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
         }
       ]
     },
@@ -20489,6 +20540,22 @@
           "file": "models/W04_Open_herbal_and_bookstand.glb",
           "sha256": "06d0f80e761a8d908bf4bf52b4f2b6cb5b9985812dcc7852e200ce9ae5255de6"
         }
+      ],
+      "revisions": [
+        {
+          "id": "FW004__repair",
+          "base_id": "FW004",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW004__repair_CC0.zip",
+          "sha256": "38df1baa2210b5edffd91e2396f66f144164360fdea4df60727934ca4583c60e",
+          "bytes": 574010,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
       ]
     },
     {
@@ -20518,6 +20585,22 @@
         {
           "file": "models/W05_Hanging_herb_drying_rail.glb",
           "sha256": "d2aa5823e61435e424386897fe069d3e07680c0d5cebdf3ea490765aaa26764f"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "FW005__repair",
+          "base_id": "FW005",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW005__repair_CC0.zip",
+          "sha256": "e15d2e34ec60ca4c109fae77c2c6c49cd43e817b493b0d1517f18a16025dca2e",
+          "bytes": 740310,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
         }
       ]
     },
@@ -20579,6 +20662,22 @@
           "file": "models/W07_Birch_twig_broom.glb",
           "sha256": "1c4884d217c4b3668fcd05dbe3042ebb20dd893c193e5f891239bae42a9d5b7a"
         }
+      ],
+      "revisions": [
+        {
+          "id": "FW007__repair",
+          "base_id": "FW007",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW007__repair_CC0.zip",
+          "sha256": "8bdc152f54db296ba5724fcb30a9a0531435d22c1bfcb2ea0506d8196d040ca0",
+          "bytes": 719341,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
       ]
     },
     {
@@ -20608,6 +20707,22 @@
         {
           "file": "models/W08_Iron_cauldron_and_tripod.glb",
           "sha256": "328ca2e95d8b697df77a2c196a7478c53dd9f011bc3e4e5b2fd4186a7341c8ad"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "FW008__repair",
+          "base_id": "FW008",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW008__repair_CC0.zip",
+          "sha256": "1a77ff64571e0088a42f0b51b0e97d8706a948ff66da71ae7b685e925607574a",
+          "bytes": 539136,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
         }
       ]
     },
@@ -20639,6 +20754,22 @@
           "file": "models/W09_Split_firewood_stack.glb",
           "sha256": "8bb84efe25d0b3637faf8335fdbc8fc54adb431d82a94fc52f13082ba2be064a"
         }
+      ],
+      "revisions": [
+        {
+          "id": "FW009__repair",
+          "base_id": "FW009",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW009__repair_CC0.zip",
+          "sha256": "e769364ae6da9255025be065f53dc81f82af494fd648c1e4c31ecf03a2ee5be1",
+          "bytes": 686351,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
       ]
     },
     {
@@ -20668,6 +20799,22 @@
         {
           "file": "models/W10_Copper_kettle.glb",
           "sha256": "0f3d1142bd8cde390e9088f63be75bea3dae2e241c4f89beb3e3b21b04b4d9af"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "FW010__repair",
+          "base_id": "FW010",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW010__repair_CC0.zip",
+          "sha256": "0f1f5e37303b1fd3ebdd915fd18a10471dbe7df90228528382ebd9c3055af473",
+          "bytes": 1495988,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
         }
       ]
     },
@@ -20699,6 +20846,22 @@
           "file": "models/W11_Lantern_on_stone_plinth.glb",
           "sha256": "c646aa172044a75811541eb8741d74c4f7f88d7737be8a1fe9360a07efd6c890"
         }
+      ],
+      "revisions": [
+        {
+          "id": "FW011__repair",
+          "base_id": "FW011",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW011__repair_CC0.zip",
+          "sha256": "5a42266b21b07be32d48800137dcb16ae061c8e8cf90b1ee00579f2aeb031ca9",
+          "bytes": 874610,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
       ]
     },
     {
@@ -20728,6 +20891,22 @@
         {
           "file": "models/W12_Rainwater_barrel.glb",
           "sha256": "69b13ccf71a1a8b10d0b7040187918a92a8c088148e813fabe582b5dfdf4b059"
+        }
+      ],
+      "revisions": [
+        {
+          "id": "FW012__repair",
+          "base_id": "FW012",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original",
+          "zip": "FW012__repair_CC0.zip",
+          "sha256": "7f42a5041b65b29a18faa86992a22626f42951f5e0987580dcdaa876b328e000",
+          "bytes": 1076856,
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
         }
       ]
     },

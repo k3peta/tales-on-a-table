@@ -1,6 +1,8 @@
 # Browse models / 素材を探す
 
-**1008 distribution records +124 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+Current image mapping: **737/1008 base records;271 missing.126/126 variants pictured.** FW10 images show corrected revisions, not originals.
+
+**1008 distribution records +126 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -73,4 +75,8 @@ AL016–027 / FW003 / FW006 now include individual full-size images and thumbnai
 
 Image batch5 accepted14 of24; ten FW material issues remain in the missing281. Diagnostic pictures excluded.
 
-[Latest variants AT052/054/060](variant-06.md):124 separate variants. Base images727/1008, missing281 including10 FW holds.
+[2026-10-24 batch24 variants AT052/054/060](variant-06.md):124 separate variants. Base images727/1008, missing281 including10 FW holds.
+
+[2026-10-24 batch25 variants AT062/071](variant-06.md):126 separate variants. Base images727/1008, missing281 before separate FW repair image update.
+
+2026-10-24 update:FW10 corrected-revision images added, base737/1008 image mappings, missing271. Previous10 FW holds remain historical; original downloads preserved. Variants126 separate. [FW material repairs](../fw_normal_repairs.md).

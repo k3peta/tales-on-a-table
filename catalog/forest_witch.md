@@ -57,3 +57,105 @@ Wicker gathering basket
 [![FW006](../previews/alchemy-forest14/thumbnails/FW006.png)](../previews/alchemy-forest14/renders/FW006.png)
 
 [Full image](../previews/alchemy-forest14/renders/FW006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW006_CC0.zip)
+
+## Material revisions / 材質改訂
+
+## FW001 — Herbalists workbench
+
+Herbalists workbench
+
+[![FW001](../previews/quality-fw-normal-repair-v1/thumbnails/FW001.png)](../previews/quality-fw-normal-repair-v1/renders/FW001.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW001_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW001.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW001.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW001.png)
+
+## FW002 — Stone mortar and pestle
+
+Stone mortar and pestle
+
+[![FW002](../previews/quality-fw-normal-repair-v1/thumbnails/FW002.png)](../previews/quality-fw-normal-repair-v1/renders/FW002.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW002_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW002.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW002.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW002.png)
+
+## FW004 — Open herbal and bookstand
+
+Open herbal and bookstand
+
+[![FW004](../previews/quality-fw-normal-repair-v1/thumbnails/FW004.png)](../previews/quality-fw-normal-repair-v1/renders/FW004.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW004_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW004.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW004.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW004.png)
+
+## FW005 — Hanging herb drying rail
+
+Hanging herb drying rail
+
+[![FW005](../previews/quality-fw-normal-repair-v1/thumbnails/FW005.png)](../previews/quality-fw-normal-repair-v1/renders/FW005.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW005_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW005.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW005.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW005.png)
+
+## FW007 — Birch twig broom
+
+Birch twig broom
+
+[![FW007](../previews/quality-fw-normal-repair-v1/thumbnails/FW007.png)](../previews/quality-fw-normal-repair-v1/renders/FW007.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW007_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW007.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW007.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW007.png)
+
+## FW008 — Iron cauldron and tripod
+
+Iron cauldron and tripod
+
+[![FW008](../previews/quality-fw-normal-repair-v1/thumbnails/FW008.png)](../previews/quality-fw-normal-repair-v1/renders/FW008.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW008_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW008.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW008.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW008.png)
+
+## FW009 — Split firewood stack
+
+Split firewood stack
+
+[![FW009](../previews/quality-fw-normal-repair-v1/thumbnails/FW009.png)](../previews/quality-fw-normal-repair-v1/renders/FW009.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW009_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW009.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW009.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW009.png)
+
+## FW010 — Copper kettle
+
+Copper kettle
+
+[![FW010](../previews/quality-fw-normal-repair-v1/thumbnails/FW010.png)](../previews/quality-fw-normal-repair-v1/renders/FW010.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW010_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW010.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW010.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW010.png)
+
+## FW011 — Lantern on stone plinth
+
+Lantern on stone plinth
+
+[![FW011](../previews/quality-fw-normal-repair-v1/thumbnails/FW011.png)](../previews/quality-fw-normal-repair-v1/renders/FW011.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW011_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW011.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW011.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW011.png)
+
+## FW012 — Rainwater barrel
+
+Rainwater barrel
+
+[![FW012](../previews/quality-fw-normal-repair-v1/thumbnails/FW012.png)](../previews/quality-fw-normal-repair-v1/renders/FW012.png)
+
+[Repaired ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip) · [Original ZIP · historical](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-forest-witch/FW012_CC0.zip) · [Full image](../previews/quality-fw-normal-repair-v1/renders/FW012.png)
+
+[![comparison](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)](../previews/quality-fw-normal-repair-v1/comparisons/FW012.png)

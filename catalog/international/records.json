@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 727,
-      "preview_not_mapped": 281,
+      "id_mapped_preview": 737,
+      "preview_not_mapped": 271,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 124,
-      "id_mapped_preview": 124,
+      "records": 126,
+      "id_mapped_preview": 126,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 124,
-      "formats_known": 124,
+      "purpose_en_present": 126,
+      "formats_known": 126,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -10430,7 +10430,14 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "AT_066__repair",
+          "catalog": "catalog/material_variants_at062_071.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ]
     },
     {
       "id": "AT_067",
@@ -10462,7 +10469,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "Polygon-budget issue and possibly detached scratch strips remain unrepaired; diagnosis pending."
     },
     {
       "id": "AT_068",
@@ -24016,8 +24024,8 @@
       "name_ja": "Herbalists workbench",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW001.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24034,7 +24042,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW001.png",
+      "image_model_revision": "FW001__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW001__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW001__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW002",
@@ -24044,8 +24062,8 @@
       "name_ja": "Stone mortar and pestle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW002.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24062,7 +24080,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW002.png",
+      "image_model_revision": "FW002__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW002__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW002__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW003",
@@ -24101,8 +24129,8 @@
       "name_ja": "Open herbal and bookstand",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW004.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24119,7 +24147,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW004.png",
+      "image_model_revision": "FW004__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW004__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW004__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW005",
@@ -24129,8 +24167,8 @@
       "name_ja": "Hanging herb drying rail",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW005.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24147,7 +24185,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW005.png",
+      "image_model_revision": "FW005__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW005__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW005__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW006",
@@ -24187,8 +24235,8 @@
       "name_ja": "Birch twig broom",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW007.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24205,7 +24253,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW007.png",
+      "image_model_revision": "FW007__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW007__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW007__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW008",
@@ -24215,8 +24273,8 @@
       "name_ja": "Iron cauldron and tripod",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW008.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24233,7 +24291,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW008.png",
+      "image_model_revision": "FW008__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW008__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW008__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW009",
@@ -24243,8 +24311,8 @@
       "name_ja": "Split firewood stack",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW009.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24261,7 +24329,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW009.png",
+      "image_model_revision": "FW009__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW009__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW009__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW010",
@@ -24271,8 +24349,8 @@
       "name_ja": "Copper kettle",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW010.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24289,7 +24367,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW010.png",
+      "image_model_revision": "FW010__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW010__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW010__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW011",
@@ -24299,8 +24387,8 @@
       "name_ja": "Lantern on stone plinth",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW011.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24317,7 +24405,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW011.png",
+      "image_model_revision": "FW011__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW011__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW011__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW012",
@@ -24327,8 +24425,8 @@
       "name_ja": "Rainwater barrel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/quality-fw-normal-repair-v1/thumbnails/FW012.png",
+      "image_evidence": "Actual corrected GLB render; ZIP/member hashes and image ZIP matched; comparison visually reviewed",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -24345,7 +24443,17 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Image held: source color texture incorrectly used as normal map. Diagnostic renders excluded; model material repair pending."
+      "known_issue": "Original invalid normal connection retained as history; repaired revision final-ZIP guarded, public identity match pending. Coarse original textures remain.",
+      "full_image": "previews/quality-fw-normal-repair-v1/renders/FW012.png",
+      "image_model_revision": "FW012__repair",
+      "image_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
+      "revision_history": [
+        {
+          "id": "FW012__repair",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fw-normal-repair-v1/FW012__repair_CC0.zip",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "id": "FW013",
@@ -38937,6 +39045,72 @@
       ],
       "comparison": {
         "file": "previews/quality-at052-061-v1/AT_060__color_orange_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_062__color_blue",
+      "kind": "variant",
+      "base_id": "AT_062",
+      "name_en": "Mismatched appraisal weights",
+      "name_ja": "不揃いな鑑定用分銅",
+      "purpose_en": "Weight display pad changed from green to blue; brass weights retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at062-071-v1/AT_062__color_blue_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_062__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at062_071.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at062-071-v1/AT_062__color_blue_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_071__color_green",
+      "kind": "variant",
+      "base_id": "AT_071",
+      "name_en": "Repaired drawstring leather pouch",
+      "name_ja": "補修跡のある口紐付き革袋",
+      "purpose_en": "Pouch main leather changed to green; repair patch, stitches and cord retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at062-071-v1/AT_071__color_green_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_071__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at062_071.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at062-071-v1/AT_071__color_green_comparison.png",
         "layout": "left: original; right: accepted; identical camera and lighting"
       },
       "geometry_revision": "original",

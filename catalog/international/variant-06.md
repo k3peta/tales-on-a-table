@@ -43,3 +43,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base AT_060](base-10.md#at_060) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at052-061-v1/AT_060__color_orange_CC0.zip) · [Full comparison](../../previews/quality-at052-061-v1/AT_060__color_orange_comparison.png) · [Details](../material_variants_at052_061.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## AT_062__color_blue
+
+**Mismatched appraisal weights** · 不揃いな鑑定用分銅
+
+[![AT_062__color_blue](../../previews/quality-at062-071-v1/AT_062__color_blue_thumb.png)](../../previews/quality-at062-071-v1/AT_062__color_blue_comparison.png)
+
+Use: Weight display pad changed from green to blue; brass weights retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base AT_062](base-10.md#at_062) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_062__color_blue_CC0.zip) · [Full comparison](../../previews/quality-at062-071-v1/AT_062__color_blue_comparison.png) · [Details](../material_variants_at062_071.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## AT_071__color_green
+
+**Repaired drawstring leather pouch** · 補修跡のある口紐付き革袋
+
+[![AT_071__color_green](../../previews/quality-at062-071-v1/AT_071__color_green_thumb.png)](../../previews/quality-at062-071-v1/AT_071__color_green_comparison.png)
+
+Use: Pouch main leather changed to green; repair patch, stitches and cord retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base AT_071](base-11.md#at_071) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at062-071-v1/AT_071__color_green_CC0.zip) · [Full comparison](../../previews/quality-at062-071-v1/AT_071__color_green_comparison.png) · [Details](../material_variants_at062_071.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
