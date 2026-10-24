@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 L字接続設定
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM009](../../previews/prison-mill24/thumbnails/PM009.png)](../../previews/prison-mill24/renders/PM009.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -26,13 +28,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## PM010
 
 **T Junction Configuration**
 
 T字接続設定
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM010](../../previews/prison-mill24/thumbnails/PM010.png)](../../previews/prison-mill24/renders/PM010.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -48,13 +54,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## PM011
 
 **End Cap Configuration**
 
 端部接続設定
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM011](../../previews/prison-mill24/thumbnails/PM011.png)](../../previews/prison-mill24/renders/PM011.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -70,13 +80,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## WM001
 
 **Undershot waterwheel**
 
 Undershot waterwheel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM001](../../previews/prison-mill24/thumbnails/WM001.png)](../../previews/prison-mill24/renders/WM001.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +112,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Millstone and grain hopper
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM002](../../previews/prison-mill24/thumbnails/WM002.png)](../../previews/prison-mill24/renders/WM002.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +136,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Millers workbench
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM003](../../previews/prison-mill24/thumbnails/WM003.png)](../../previews/prison-mill24/renders/WM003.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +160,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Burlap grain sack
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM004](../../previews/prison-mill24/thumbnails/WM004.png)](../../previews/prison-mill24/renders/WM004.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +184,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Open grain bin
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM005](../../previews/prison-mill24/thumbnails/WM005.png)](../../previews/prison-mill24/renders/WM005.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +208,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Flour collection trough
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM006](../../previews/prison-mill24/thumbnails/WM006.png)](../../previews/prison-mill24/renders/WM006.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +232,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md) · [Catalogu
 
 Small footbridge
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM007](../../previews/prison-mill24/thumbnails/WM007.png)](../../previews/prison-mill24/renders/WM007.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +256,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Flour sieve
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM008](../../previews/prison-mill24/thumbnails/WM008.png)](../../previews/prison-mill24/renders/WM008.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +280,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Wooden grain scoop
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM009](../../previews/prison-mill24/thumbnails/WM009.png)](../../previews/prison-mill24/renders/WM009.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM009.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -268,13 +298,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](../../catalog/watermill.md) · [Catalogue 3](../../catalog/watermill.zh-CN.md)
 
+**Known issue:** Handle detached from scoop bowl: unresolved original-model issue. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## WM010
 
 **Mill broom**
 
 Mill broom
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM010](../../previews/prison-mill24/thumbnails/WM010.png)](../../previews/prison-mill24/renders/WM010.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM010.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +330,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Millers oil lantern
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM011](../../previews/prison-mill24/thumbnails/WM011.png)](../../previews/prison-mill24/renders/WM011.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM011.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +354,9 @@ Source details: [Catalogue 1](../../catalog/watermill.en.md) · [Catalogue 2](..
 
 Spare millstone
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![WM012](../../previews/prison-mill24/thumbnails/WM012.png)](../../previews/prison-mill24/renders/WM012.png)
+
+[Full-size image](../../previews/prison-mill24/renders/WM012.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

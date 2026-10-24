@@ -39,3 +39,105 @@ The image is an arrangement example; the completed scene is not distributed.
 | WT008 | Stream bend NE | [ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WT008_CC0.zip) |
 
 [Release](https://github.com/k3peta/tales-on-a-table/releases/tag/v2026.10.21-watermill) · [SHA256](../releases/watermill/SHA256SUMS.txt) · [License](../LICENSE.md)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### WM001 — Undershot waterwheel
+
+Undershot waterwheel
+
+[![WM001](../previews/prison-mill24/thumbnails/WM001.png)](../previews/prison-mill24/renders/WM001.png)
+
+[Full image](../previews/prison-mill24/renders/WM001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM001_CC0.zip)
+
+### WM002 — Millstone and grain hopper
+
+Millstone and grain hopper
+
+[![WM002](../previews/prison-mill24/thumbnails/WM002.png)](../previews/prison-mill24/renders/WM002.png)
+
+[Full image](../previews/prison-mill24/renders/WM002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM002_CC0.zip)
+
+### WM003 — Millers workbench
+
+Millers workbench
+
+[![WM003](../previews/prison-mill24/thumbnails/WM003.png)](../previews/prison-mill24/renders/WM003.png)
+
+[Full image](../previews/prison-mill24/renders/WM003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM003_CC0.zip)
+
+### WM004 — Burlap grain sack
+
+Burlap grain sack
+
+[![WM004](../previews/prison-mill24/thumbnails/WM004.png)](../previews/prison-mill24/renders/WM004.png)
+
+[Full image](../previews/prison-mill24/renders/WM004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM004_CC0.zip)
+
+### WM005 — Open grain bin
+
+Open grain bin
+
+[![WM005](../previews/prison-mill24/thumbnails/WM005.png)](../previews/prison-mill24/renders/WM005.png)
+
+[Full image](../previews/prison-mill24/renders/WM005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM005_CC0.zip)
+
+### WM006 — Flour collection trough
+
+Flour collection trough
+
+[![WM006](../previews/prison-mill24/thumbnails/WM006.png)](../previews/prison-mill24/renders/WM006.png)
+
+[Full image](../previews/prison-mill24/renders/WM006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM006_CC0.zip)
+
+### WM007 — Small footbridge
+
+Small footbridge
+
+[![WM007](../previews/prison-mill24/thumbnails/WM007.png)](../previews/prison-mill24/renders/WM007.png)
+
+[Full image](../previews/prison-mill24/renders/WM007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM007_CC0.zip)
+
+### WM008 — Flour sieve
+
+Flour sieve
+
+[![WM008](../previews/prison-mill24/thumbnails/WM008.png)](../previews/prison-mill24/renders/WM008.png)
+
+[Full image](../previews/prison-mill24/renders/WM008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM008_CC0.zip)
+
+**Known issue:** Handle detached from scoop bowl: unresolved original-model issue.
+
+### WM009 — Wooden grain scoop
+
+Wooden grain scoop
+
+[![WM009](../previews/prison-mill24/thumbnails/WM009.png)](../previews/prison-mill24/renders/WM009.png)
+
+[Full image](../previews/prison-mill24/renders/WM009.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM009_CC0.zip)
+
+### WM010 — Mill broom
+
+Mill broom
+
+[![WM010](../previews/prison-mill24/thumbnails/WM010.png)](../previews/prison-mill24/renders/WM010.png)
+
+[Full image](../previews/prison-mill24/renders/WM010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM010_CC0.zip)
+
+### WM011 — Millers oil lantern
+
+Millers oil lantern
+
+[![WM011](../previews/prison-mill24/thumbnails/WM011.png)](../previews/prison-mill24/renders/WM011.png)
+
+[Full image](../previews/prison-mill24/renders/WM011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM011_CC0.zip)
+
+### WM012 — Spare millstone
+
+Spare millstone
+
+[![WM012](../previews/prison-mill24/thumbnails/WM012.png)](../previews/prison-mill24/renders/WM012.png)
+
+[Full image](../previews/prison-mill24/renders/WM012.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM012_CC0.zip)

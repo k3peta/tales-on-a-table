@@ -1,0 +1,678 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "FP025",
+      "source_zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
+      "source_glb_sha256": "bd12b2aea22d0774e8cd1792147e3e62c8515da046b3d62df917a181c76a6774",
+      "camera_location": [
+        0.6744703650474548,
+        -1.15275239944458,
+        0.7671806216239929
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.059591293334961,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/FP025.png",
+      "image_source_sha256": "51f413617b74afe16e89dda27c87ac4c31db1abeb776559626e75fa781d8a048",
+      "image_sha256": "8c6f906f2cc3fd9a1273f1a545967979ee931ca88654ec86a378524b9dd5bac1",
+      "thumbnail": "previews/prison-mill24/thumbnails/FP025.png",
+      "thumbnail_source_sha256": "b435e0ffca4433dce26114380b5465c23b82be0266c21cd72c4f48376eb484a1",
+      "thumbnail_sha256": "ccf3852d39bfc7985e11eaba5f6c42e188f384bb826d4871c64d1d78db1dd9db"
+    },
+    {
+      "id": "PM001",
+      "source_zip_sha256": "653b9e0585fbdbef0e2452f719f4eb0580222dc5542b49b027ed5be1ebf6ba07",
+      "source_glb_sha256": "0c373ea733446056cf424d24fa7490f26639a1e78648bc2ee0ca85845faf85f6",
+      "camera_location": [
+        3.0999999046325684,
+        -2.0,
+        4.320000171661377
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM001_Floor_2x2.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM001.png",
+      "image_source_sha256": "9102ed5fbedea38a8e5225454f9a7f2276498aa6c1e9bf2feb729d04da9c9fff",
+      "image_sha256": "30030a682d9b0a368587c4317f6ba26a4d07dc66371c00a5cbbaaaf35342ac13",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM001.png",
+      "thumbnail_source_sha256": "a11967ada177094f63b57185c8da41198d29a9a4fe5333cca594289237faf4ae",
+      "thumbnail_sha256": "c24270c18920d1bc61cb0b251e275abb131cb790066905f69eb9f60cdc921275"
+    },
+    {
+      "id": "PM002",
+      "source_zip_sha256": "bdad40ec2f8f10195537f608a38eca36b62354706fea7b2dce7389fb10b5224f",
+      "source_glb_sha256": "ebb8e6d3bb30748814d5700e19945fa30a6ef89080ec52fe468854208b9de0e7",
+      "camera_location": [
+        4.359999656677246,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.0119699684073566e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM002_Solid_Wall_2m.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM002.png",
+      "image_source_sha256": "8cbeca8e5cf284c235f7548ab32ec76ca9163dfe0333d8e22d847e88437d24cb",
+      "image_sha256": "6fcd586fff56e4d53f354eb9f32551f6020bd88f1c693fbcb724a74efde71bf8",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM002.png",
+      "thumbnail_source_sha256": "4009da121bf5dec00b8fb273b07c39e58fcac8ec97008353677c6c9be3816521",
+      "thumbnail_sha256": "4548bedfc1f716b7e75286a08e3e606a407bafb464322311afddfc500f38b33b"
+    },
+    {
+      "id": "PM003",
+      "source_zip_sha256": "16c987317a9cbb39daeab4f2676163641a5f4ee436d08c4f8eb84ad675c6d5bd",
+      "source_glb_sha256": "7219539bbfa739d10bf324d53183e805de6f71483b4aab8efc9540588f9a0aa0",
+      "camera_location": [
+        4.359999656677246,
+        -5.7599992752075195,
+        4.9599995613098145
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.279999732971191,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM003_Barred_Wall_2m.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM003.png",
+      "image_source_sha256": "55f70e7aff6d1cc10ca8f1a4b7d9fc4817a1d25a1fc3ada9878a2330ff441640",
+      "image_sha256": "20a87bdeffef773e780aa22bcc3f12f3923ed7572137b648f51db57e10fe0b88",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM003.png",
+      "thumbnail_source_sha256": "96bc9a4962bb0527fcc43a3ea7f535b6ce194066482da05bdcd9ee25ffa31bae",
+      "thumbnail_sha256": "6fa3b151cb9e2792b0185b0b5665ec4a8219ad791db32168810b3b2378c4626b"
+    },
+    {
+      "id": "PM004",
+      "source_zip_sha256": "5f3ff4032e34127fb2e9a4e801c6dddd0c377a05adc8e9ea31504e915677e50e",
+      "source_glb_sha256": "069628e1159682e48c79057839b26a658a562de0e85cebc839293e7d28177e1b",
+      "camera_location": [
+        4.359999656677246,
+        -5.7649993896484375,
+        4.9599995613098145
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.279999732971191,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM004_Cell_Door_2m.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM004.png",
+      "image_source_sha256": "445b3e9bfb47dd0ebcf8c62273275efa5b10b1c8c992c415a506d87e74ebafb3",
+      "image_sha256": "96d9c0eb348cd5daab1548cbe7832bb9040379eb0ac8d0b1f71b52d8430cb5eb",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM004.png",
+      "thumbnail_source_sha256": "681eb07b72533fa3505a21ee192e5922ee67cdd3a36f8866a227f0978fe70857",
+      "thumbnail_sha256": "0b01396852168bcdce9bf9f5ac4a1248620930fc7900208976ec2f80cdb9f0ee"
+    },
+    {
+      "id": "PM005",
+      "source_zip_sha256": "84bc2f7864adeedd2bfcc085fb6e010a0ad81dcd7b2884801f2a13cfcbd979de",
+      "source_glb_sha256": "361ab3b136c525d73ac60f4d56255ba0d8fbfbb150f944259fec013432bd8cef",
+      "camera_location": [
+        4.359999656677246,
+        -5.797499656677246,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.0119699684073566e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM005_Arched_Window_Wall_2m.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM005.png",
+      "image_source_sha256": "aea0ccd9761a023dda27b754c5cd9cf5ce22ff542de385b9cdeefdd6875fddf2",
+      "image_sha256": "2060cde642100bb75c7483dc6802884af70c9124f5539d8e77792ce44b189345",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM005.png",
+      "thumbnail_source_sha256": "c54f5379b80abff77d406672ff74c0f3396cccdf24e16838b0adf6ca95b46af4",
+      "thumbnail_sha256": "62fa79242df48a1c3912bc7283179ff3376f3da8a1cbf9cdceeb048cbde06722"
+    },
+    {
+      "id": "PM006",
+      "source_zip_sha256": "1670d97953c5e776d4d1fcc9576e95d887fb8ca3e12f599b54f0abfb3ff4425f",
+      "source_glb_sha256": "313acc7c305db672253b7ed74ee42c7ea1ff6790158efc322aa46c3d446701ca",
+      "camera_location": [
+        3.359999895095825,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM006_Universal_Stone_Node.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM006.png",
+      "image_source_sha256": "4f1e5b5ca7c26f4310591f0dfbb11e3a160cbe80632bb262617083902b5b4ff7",
+      "image_sha256": "0ba045c1c60623a46ac7dee22ac2d2477cdd39e8138bdf480c65102642c6e678",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM006.png",
+      "thumbnail_source_sha256": "9b523ee997c8acfcc4200136dd67144520536f17c7e9347882430366012607e4",
+      "thumbnail_sha256": "fa7c4dacc7b25f929cbe840cd466ae07c8227b68546ae4bb963543942d8efdce"
+    },
+    {
+      "id": "PM007",
+      "source_zip_sha256": "8f8b59b8ea1fd8f449bb1e09cf1b0333771d5961a979f51490b0827775a14fcc",
+      "source_glb_sha256": "894f427ddf57afd03245c77b2b8364c6e3c37db424df4c985d8bf7637898b9ea",
+      "camera_location": [
+        3.0999999046325684,
+        -2.0,
+        4.320000171661377
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM007_Drained_Corridor_Floor_2x2.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM007.png",
+      "image_source_sha256": "49849011712c3170963de6ad1a43decd46355da537ca83d72f6d22bdb34eb3d3",
+      "image_sha256": "ca5443e6bbe25d2b89b106bcd79dc804c1a846de56bdabd04e14253b37836bd4",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM007.png",
+      "thumbnail_source_sha256": "94ec46d71f5a8667efba65fd0fbf702acf0d281a780827833214bdf06c21c2ca",
+      "thumbnail_sha256": "9702fc3b38ec8865519cc9189d0e98367c620fc31ac5c23ec9ee9d595473e7d8"
+    },
+    {
+      "id": "PM008",
+      "source_zip_sha256": "50323f37a886fd9ac31e97f9f2d7415dd580ad350105bb2143bb9e7d2a91e504",
+      "source_glb_sha256": "a1f651917df926bd74b7fdb49fe0b3186b41a157efdb5e6218ecf78d8593f91a",
+      "camera_location": [
+        3.0999999046325684,
+        -2.0,
+        4.3454999923706055
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 3.238823890686035,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM008_Corridor_Junction_Hatch_2x2.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM008.png",
+      "image_source_sha256": "1275a1333ceed5afe572ae34073643e3a48e724c906b4701f53b0cf32d528ebe",
+      "image_sha256": "83d41cbb01664f82df5629de900880569f4689a8f749b65c71c8671e1e9b9d8a",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM008.png",
+      "thumbnail_source_sha256": "3162150977835b1c47abaf11764195a9524ef4905e06b9e7d4fdc0771c3cddbf",
+      "thumbnail_sha256": "7ac05f5931777dfe8674bae5d76e9c73191029eadeffd04e82801991e83cbd1f"
+    },
+    {
+      "id": "PM009",
+      "source_zip_sha256": "c642db0810ba3817266ebce90acf37b77535dfce1ea30b4c82e7efee58612b04",
+      "source_glb_sha256": "ae7808291dd8a2f1678fafded0965f633e7aad2a31bdd67a32b61808da619f48",
+      "camera_location": [
+        3.359999895095825,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM009_L_Corner_Configuration.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM009.png",
+      "image_source_sha256": "73b606f8e0fdc31728796f77f903aa1dae34779acc4944a62c8464ca57db680e",
+      "image_sha256": "b87f073895a6fca55c6562afe322f5302396c3f76e806eb7508a38afb7122f14",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM009.png",
+      "thumbnail_source_sha256": "4d85e50d7be43a9b37b0cef8ae9f2442450ff057de784ae80663981305507d09",
+      "thumbnail_sha256": "927e70dacd2a033c17a765ac81dfb9b31455c7e465fa82e1986ef1dc73ad07d3"
+    },
+    {
+      "id": "PM010",
+      "source_zip_sha256": "f39123a70c2f2769bed925e67a5f5047159149adb559cc3bbf5d1e97c5fd3bd7",
+      "source_glb_sha256": "6e0ad983c616fb76a09093f340defb42dc23247c36821ef07e8e67ab8a6d5b5b",
+      "camera_location": [
+        3.359999895095825,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM010_T_Junction_Configuration.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM010.png",
+      "image_source_sha256": "a1f2653f86510ca8b1fb4fa1bbad4a8aad66342ae2ad648e34983ea337c8533f",
+      "image_sha256": "bf32ed891f2a394bf3f547b40c383e0b3a0e4357b2254ba2e91ac2a565357555",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM010.png",
+      "thumbnail_source_sha256": "60252b5f9e3901dffc092fdfd3031ed259340c748325abb2b939726589da8ac7",
+      "thumbnail_sha256": "91dd87c27a21bff3d997bdb10f080c8d4102eaf3986d13e6fdf73233bc8cc72b"
+    },
+    {
+      "id": "PM011",
+      "source_zip_sha256": "d58f368149418c8eb63bc36547a10819373d210c20989e8c23a36fe071cc78bb",
+      "source_glb_sha256": "d6bb9b8fce7251a896909f0c5396ba2b1e997e99f90edccf738bf6bcac3a434f",
+      "camera_location": [
+        3.359999895095825,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/PM011.png",
+      "image_source_sha256": "dbb09ebdfdf83e2572589310cc204c5077f09a7eae163e3f94dc5b9379b8cace",
+      "image_sha256": "9251d2b7686c74eaa455434f80b8f33d241eead07e77488b2248cf8ecdbc3c85",
+      "thumbnail": "previews/prison-mill24/thumbnails/PM011.png",
+      "thumbnail_source_sha256": "0232394501b7747e697b5651ad34b0d57ebc613350f7afe0aaa697bd9631b8f9",
+      "thumbnail_sha256": "39f1941ef0f48df230ca6448bdd560534de7455316701e5a1d62958e27aac1c7"
+    },
+    {
+      "id": "WM001",
+      "source_zip_sha256": "904cd2d030df52b5a4495ac1f194d0b390e93eb74ea7a09083f5dc60186c11ee",
+      "source_glb_sha256": "25252982c3cf0884560f2e95eae35cdbe376c4efe0006d657a626d421c0608b1",
+      "camera_location": [
+        3.622500419616699,
+        -6.210000991821289,
+        5.347500324249268
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -4.3764565305082215e-09,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 5.692501068115234,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM001_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM001.png",
+      "image_source_sha256": "41529f87282d95b3c860cac3b8db81f0289cae79a81607bde8f218a52511caeb",
+      "image_sha256": "e7dc3bb5369fdfdd3d26340af19174644b9d7c775afa55e8151a8120ca961d83",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM001.png",
+      "thumbnail_source_sha256": "85af0ce0d512bbcd7cef9ad6685356f540d16c652e405278c7a25e50611db948",
+      "thumbnail_sha256": "5aa54d0fe91d20fc7a09fdfd6be7c604b15458139c0d58d26d866e847befb925"
+    },
+    {
+      "id": "WM002",
+      "source_zip_sha256": "155113faeda9fea0c9f29e41bbeae0638560574ca118a60f5558962e68b21221",
+      "source_glb_sha256": "38b230f36556ff7bbd7986888a25f091cd09d33eba9663211437fe420a3109db",
+      "camera_location": [
+        2.6039998531341553,
+        -4.4639997482299805,
+        3.8439998626708984
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.0920000076293945,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM002_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM002.png",
+      "image_source_sha256": "95d8e7e1bcef801a2c50138f6ba0cf87ae76ab0f54bfbffdeaab62085cbb05be",
+      "image_sha256": "b51c458f169e03f0fe953ce9cb4a5c84fd4d5b88851c7eaac1cd1475d08c92c2",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM002.png",
+      "thumbnail_source_sha256": "b661250a2ba57a6246c8e468b9c76286b1491ffd6beebb713029c9f65a60a0ca",
+      "thumbnail_sha256": "ed6386ad3a74c87f7aa75af36c092a03f1c1cad71aa234ba733855cbf9ef7000"
+    },
+    {
+      "id": "WM003",
+      "source_zip_sha256": "1e60b4c89eb6baea07781a31cf3fd0e0bcdf11619c189be447685d44b91dde3f",
+      "source_glb_sha256": "a298dcd8e1e4221ad1cbaf64e8e0328b5b8f333ba5e6fddea428983b836ead50",
+      "camera_location": [
+        1.7214747667312622,
+        -2.9510996341705322,
+        2.276474714279175
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        3.2750783418578067e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.7051749229431152,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM003_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM003.png",
+      "image_source_sha256": "48d49767057a64f72456a018d69056d4332ec11fa161a22f453dc7d4085f3ef3",
+      "image_sha256": "a886a3a03d3654d03a562e5579e122face12caa094ae7c9d281a08fbe2789754",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM003.png",
+      "thumbnail_source_sha256": "25c3e226f26a281e7ee6859851c740daf5757628cc084cb9e02fc8d536a625a3",
+      "thumbnail_sha256": "8b4108c1941b11aa9acf5f89c5d031b542f7986b54eae87b81c301209fa5d676"
+    },
+    {
+      "id": "WM004",
+      "source_zip_sha256": "904df61eda5dff628d474548fa468fd1e1602041f8b090c6f5bd9a2b4a18acad",
+      "source_glb_sha256": "add6b49dc48dfd53184f482078e27ebd3986660bad5f66387df18ad99e1ebef7",
+      "camera_location": [
+        0.9555000066757202,
+        -1.6379998922348022,
+        1.410499930381775
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.501499891281128,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM004_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM004.png",
+      "image_source_sha256": "48e91d28235c979b2e5d6831a18d043e79b404204307ca35f59a1f35ee57c7e9",
+      "image_sha256": "d7e0026c7cf3d945c18cf4b9acb66669688a05aaeec5792081a3f73e66b11285",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM004.png",
+      "thumbnail_source_sha256": "694d3045554ba0bdae1b9fdaa4acbf7ba96d5480e8c7357793dec96a500b3c32",
+      "thumbnail_sha256": "1652e2d2f81394d217ec027df21dbb8437eb7e3902a9095894f24254919718b1"
+    },
+    {
+      "id": "WM005",
+      "source_zip_sha256": "be3930aeea29d59bcf60376e6b8ef60c134287a82fbb76188639db5db91c9d6a",
+      "source_glb_sha256": "b41029a6e5294b91134abc0cc59fe9f50053cb41daa84b6b30aabf8cc6a16667",
+      "camera_location": [
+        1.3465080261230469,
+        -2.3082995414733887,
+        1.9877023696899414
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.115941286087036,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM005_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM005.png",
+      "image_source_sha256": "eba99758a1c61065c044e1078943aee70afee9039e047cc97d64182f2c27ce0a",
+      "image_sha256": "c006b54a9f2f098fb3c8b7912ccf28a143cfab85308c069b91140bbf2398edc0",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM005.png",
+      "thumbnail_source_sha256": "6bdf11434dd76d3fc8964eeac143e162799e46f54889ea9d05e5ed0e56b70e52",
+      "thumbnail_sha256": "d945ba26e990b298a67666dff692a7e59da3ea3d3ff1c3a3edbd8daf2d05ad46"
+    },
+    {
+      "id": "WM006",
+      "source_zip_sha256": "6b687d723ccf85df3daf35c92374fb2a3d8f6d242d9da17736f36bbd13410481",
+      "source_glb_sha256": "108121925ea5ac7612f89464ec7c554bb734d64a8f2fc141469d5446e8ac03f7",
+      "camera_location": [
+        0.9623249173164368,
+        -1.6496999263763428,
+        1.1248250007629395
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.5122249126434326,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM006_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM006.png",
+      "image_source_sha256": "08628fd105687411d6babc4d940b94e874541051b5e1ebb17b2332695fb8ff97",
+      "image_sha256": "8438d572fe929d4fd268da4d2474846f1cb88e660d5b437a581a4c3ba154f18b",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM006.png",
+      "thumbnail_source_sha256": "9cffc3331bd950b9ae04d4524e2fc76805a39598870168a1d8becb92ef12420c",
+      "thumbnail_sha256": "c9e7dda6acbd327b9c59e615198d9fc998cac892c5ff532a566d949f2309d398"
+    },
+    {
+      "id": "WM007",
+      "source_zip_sha256": "ac3b5c2a7401478edc58158132e4316290935e43012d270284c0512313709cac",
+      "source_glb_sha256": "14e2142c6d6a77867040c1a822ce83c1c8d385dd2a5e1de7a3f2603fc5c6a781",
+      "camera_location": [
+        2.625,
+        -4.5,
+        3.2217955589294434
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.125,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM007_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM007.png",
+      "image_source_sha256": "bf0ef030e73f497f752d95b64fc6972de829a6c60868a43c20ff2dd2226dd8b7",
+      "image_sha256": "b853e01c9d42b4327c9eae1e7c906b6bef5e8d739c867ce8b508f133fab28f7f",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM007.png",
+      "thumbnail_source_sha256": "a3660c32caa61ae287962b4c44d3032f7ffab6403039e5af534281b02251c421",
+      "thumbnail_sha256": "cef866ff5b2fbd47db0ade8e999e7e4a749eba2256491580cf0ebf4328cf6290"
+    },
+    {
+      "id": "WM008",
+      "source_zip_sha256": "68459b2165201f70d8f59ace1e141a4205a1815e12e2b7e8ea455407d68b8923",
+      "source_glb_sha256": "f8048deeb641714ea24980a9fdc9bf15647e455c2b51b37dbc5b08c03423d036",
+      "camera_location": [
+        0.5774999856948853,
+        -0.8250000476837158,
+        1.2375112771987915
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        -2.2927988396759247e-09,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 0.890676736831665,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM008_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM008.png",
+      "image_source_sha256": "4ea0d945c10473e5529f7812d8f311854514eaf649bf85996d9fe6fe9018b237",
+      "image_sha256": "741f28755b950414fa370392d2a5b5b445f6f9dc2c62d67aa40a83d55d51d4b8",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM008.png",
+      "thumbnail_source_sha256": "1e18c25406815463f2c8cf910652af43d3f89340c627b0cb03a36fcadd52a391",
+      "thumbnail_sha256": "b7df2eee02d9d4e500a24dd0907a3d0065b3b6729fb6f96d8d317927c4ccd272"
+    },
+    {
+      "id": "WM009",
+      "source_zip_sha256": "f5bc61b636641f68411c79c7bd83caf2f964e2997618d24ae2fa2811414c2f7e",
+      "source_glb_sha256": "3a04930aab0cfcc4c5bf8fc166d6fdcdf7e61dbe2e9e28a40c13b7419ef7a0ed",
+      "camera_location": [
+        0.5704305768013,
+        -0.9778808951377869,
+        0.6467515826225281
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.896390974521637,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM009_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM009.png",
+      "image_source_sha256": "4c74d930a7be99f54a7b3ad0d9aa9e681c4f9b0b60068e6b604b3001d2674805",
+      "image_sha256": "56fd8318002040021850db167c4e4d7586c5763906a1d1bc77aa5d9ae9ae7d8c",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM009.png",
+      "thumbnail_source_sha256": "6a40db1b70e959740fc32a9346d3ab778c32e34fc6070928b4d0dff59df59672",
+      "thumbnail_sha256": "573be4fcf1690ca5001b982c1e9a0221ee9d2a6e4ba609467aa6c8f3bd934367"
+    },
+    {
+      "id": "WM010",
+      "source_zip_sha256": "88ae1f7c624afe4ae38e12e4ce7839f248a2d62a6c53bf7c584da7053f06cfb5",
+      "source_glb_sha256": "d2b62eef26efaf6e7e78d8612d48b5af13c00a876f3703af83ce5af6a491060e",
+      "camera_location": [
+        1.3160078525543213,
+        -2.2560136318206787,
+        1.942678451538086
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 2.0680124759674072,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM010_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM010.png",
+      "image_source_sha256": "11df7eb0c2afceeba6b73fc9354b1062453c218f0bfc3f8f4a02e38657ad4f0c",
+      "image_sha256": "e760a3b7e1b508c82b37555dcb3440241e5df86d24d1296222a51a4be98109d3",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM010.png",
+      "thumbnail_source_sha256": "bc220eb9519ac065fae7145a0ad310d3ceeb932b7d23e7aa33303d08b9955a64",
+      "thumbnail_sha256": "95305c6caeafd3387e769940dde0d193b7b5a93d55b78a1ffd83bbea3a4a22ab"
+    },
+    {
+      "id": "WM011",
+      "source_zip_sha256": "6933f22890df635d15e63912e185a59e82953e6d874eb24f81bf9df1250aaeca",
+      "source_glb_sha256": "5a2f86d514d833523a17dec6dfc5f7d056543ea65e0bc81e93ba46f2b5d8d149",
+      "camera_location": [
+        0.6688499450683594,
+        -1.1465998888015747,
+        0.9873499870300293
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        6.220578541160648e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.0510499477386475,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM011_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM011.png",
+      "image_source_sha256": "3a61462a5fbf88db567602d75d81a654ba80612265eaff23c7900dbb539480a5",
+      "image_sha256": "6569cb4adb9e625d5f10058f7d8c6275a2a2ec15641ce2a349d06cba278562c5",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM011.png",
+      "thumbnail_source_sha256": "75203e31dfde87b3269b0e12d315aa0e647fe275da02631c8b08c6e11259e9d6",
+      "thumbnail_sha256": "87b48b177cf9dc022a6f04ea9bac9269e401a08f0ac38d8695e2fedfb119a5b7"
+    },
+    {
+      "id": "WM012",
+      "source_zip_sha256": "b777bb8247e5f1a37b9373ad157e66901d88684449af0680805e02f1215e1c7d",
+      "source_glb_sha256": "bc38e0b262d92981e955e297af60175bf4cd538252e1af665b5311b996febbe9",
+      "camera_location": [
+        1.2810002565383911,
+        -2.196000337600708,
+        1.8910002708435059
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.01300048828125,
+      "pixels": [
+        960,
+        960
+      ],
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-watermill/WM012_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/prison-mill24/renders/WM012.png",
+      "image_source_sha256": "c126ea2a8304fd797310a97d536291510dadc0d46d196a3cb72a00a6643ab144",
+      "image_sha256": "737e0097bfb342260f35fcd6848916b09327f59cf502500f6ba3f2fb4c6c0def",
+      "thumbnail": "previews/prison-mill24/thumbnails/WM012.png",
+      "thumbnail_source_sha256": "e15a0d72b8817f70d9fab1168bcdb15c987d54cd61d7f0e63485de1856d2fce7",
+      "thumbnail_sha256": "cb3fbdd07953b843de5696152e9f53b7dfb8c265bf5bc2afb48951588e6cd361"
+    }
+  ]
+}

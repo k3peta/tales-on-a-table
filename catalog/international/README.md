@@ -62,3 +62,5 @@ CC0 applies only where the individual record says CC0-1.0. Completed scene arran
 [Public ZIP metadata pilot: first24 records](PILOT-24-METHOD.md) · [Production work manifest](work-manifest-391.json)
 
 FP001–FP024 now include individual full-size images and thumbnails. Base ID image mappings: 641/1008; remaining367. Material variants:108/108. [Coverage](COVERAGE.md).
+
+FP025 / PM001–011 / WM001–012 now include individual full-size images and thumbnails. Base ID image mappings: 665/1008; remaining343. Material variants:108/108. [Coverage](COVERAGE.md).

@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 641,
-      "preview_not_mapped": 367,
+      "id_mapped_preview": 665,
+      "preview_not_mapped": 343,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -21348,8 +21348,8 @@
       "name_ja": "畳んだ囚人服",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/FP025.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21367,7 +21367,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/FP025.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM001",
@@ -21377,8 +21379,8 @@
       "name_ja": "床2×2m",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21396,7 +21398,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM001.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM002",
@@ -21406,8 +21410,8 @@
       "name_ja": "石壁2m",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21425,7 +21429,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM002.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM003",
@@ -21435,8 +21441,8 @@
       "name_ja": "格子壁2m",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21454,7 +21460,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM003.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM004",
@@ -21464,8 +21472,8 @@
       "name_ja": "牢房扉2m",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21483,7 +21491,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM004.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM005",
@@ -21493,8 +21503,8 @@
       "name_ja": "アーチ窓壁2m",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21512,7 +21522,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM005.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM006",
@@ -21522,8 +21534,8 @@
       "name_ja": "共通石柱",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21541,7 +21553,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM006.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "known_issue": "Black side faces are an unresolved original-model issue."
     },
     {
       "id": "PM007",
@@ -21551,8 +21566,8 @@
       "name_ja": "排水溝付き廊下床",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21570,7 +21585,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM007.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM008",
@@ -21580,8 +21597,8 @@
       "name_ja": "点検蓋付き交差部床",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21599,7 +21616,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM008.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "PM009",
@@ -21609,8 +21628,8 @@
       "name_ja": "L字接続設定",
       "purpose_en": null,
       "record_kind": "connection_configuration",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21628,7 +21647,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM009.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
     },
     {
       "id": "PM010",
@@ -21638,8 +21660,8 @@
       "name_ja": "T字接続設定",
       "purpose_en": null,
       "record_kind": "connection_configuration",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21657,7 +21679,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM010.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
     },
     {
       "id": "PM011",
@@ -21667,8 +21692,8 @@
       "name_ja": "端部接続設定",
       "purpose_en": null,
       "record_kind": "connection_configuration",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/PM011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21686,7 +21711,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/PM011.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "known_issue": "Black side faces are an unresolved original-model issue; reused PM006 configuration."
     },
     {
       "id": "WM001",
@@ -21696,8 +21724,8 @@
       "name_ja": "Undershot waterwheel",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21715,7 +21743,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM001.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM002",
@@ -21725,8 +21755,8 @@
       "name_ja": "Millstone and grain hopper",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM002.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21744,7 +21774,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM002.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM003",
@@ -21754,8 +21786,8 @@
       "name_ja": "Millers workbench",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM003.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21773,7 +21805,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM003.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM004",
@@ -21783,8 +21817,8 @@
       "name_ja": "Burlap grain sack",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM004.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21802,7 +21836,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM004.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM005",
@@ -21812,8 +21848,8 @@
       "name_ja": "Open grain bin",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM005.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21831,7 +21867,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM005.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM006",
@@ -21841,8 +21879,8 @@
       "name_ja": "Flour collection trough",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM006.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21861,7 +21899,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM006.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM007",
@@ -21871,8 +21911,8 @@
       "name_ja": "Small footbridge",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM007.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21890,7 +21930,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM007.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM008",
@@ -21900,8 +21942,8 @@
       "name_ja": "Flour sieve",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM008.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21919,7 +21961,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM008.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM009",
@@ -21929,8 +21973,8 @@
       "name_ja": "Wooden grain scoop",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM009.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21948,7 +21992,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM009.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "known_issue": "Handle detached from scoop bowl: unresolved original-model issue."
     },
     {
       "id": "WM010",
@@ -21958,8 +22005,8 @@
       "name_ja": "Mill broom",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM010.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -21977,7 +22024,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM010.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM011",
@@ -21987,8 +22036,8 @@
       "name_ja": "Millers oil lantern",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM011.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22006,7 +22055,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM011.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM012",
@@ -22016,8 +22067,8 @@
       "name_ja": "Spare millstone",
       "purpose_en": null,
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/prison-mill24/thumbnails/WM012.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -22035,7 +22086,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/prison-mill24/renders/WM012.png",
+      "image_manifest": "previews/prison-mill24/manifest.json"
     },
     {
       "id": "WM013",

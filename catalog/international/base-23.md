@@ -402,7 +402,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 畳んだ囚人服
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FP025](../../previews/prison-mill24/thumbnails/FP025.png)](../../previews/prison-mill24/renders/FP025.png)
+
+[Full-size image](../../previews/prison-mill24/renders/FP025.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -424,7 +426,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 床2×2m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM001](../../previews/prison-mill24/thumbnails/PM001.png)](../../previews/prison-mill24/renders/PM001.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM001.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -446,7 +450,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 石壁2m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM002](../../previews/prison-mill24/thumbnails/PM002.png)](../../previews/prison-mill24/renders/PM002.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM002.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -468,7 +474,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 格子壁2m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM003](../../previews/prison-mill24/thumbnails/PM003.png)](../../previews/prison-mill24/renders/PM003.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM003.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -490,7 +498,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 牢房扉2m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM004](../../previews/prison-mill24/thumbnails/PM004.png)](../../previews/prison-mill24/renders/PM004.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM004.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -512,7 +522,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 アーチ窓壁2m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM005](../../previews/prison-mill24/thumbnails/PM005.png)](../../previews/prison-mill24/renders/PM005.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM005.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -534,7 +546,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 共通石柱
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM006](../../previews/prison-mill24/thumbnails/PM006.png)](../../previews/prison-mill24/renders/PM006.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM006.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -550,13 +564,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Known issue:** Black side faces are an unresolved original-model issue. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## PM007
 
 **Drained Corridor Floor 2x2**
 
 排水溝付き廊下床
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM007](../../previews/prison-mill24/thumbnails/PM007.png)](../../previews/prison-mill24/renders/PM007.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM007.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -578,7 +596,9 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 点検蓋付き交差部床
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PM008](../../previews/prison-mill24/thumbnails/PM008.png)](../../previews/prison-mill24/renders/PM008.png)
+
+[Full-size image](../../previews/prison-mill24/renders/PM008.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

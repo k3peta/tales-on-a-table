@@ -258,3 +258,111 @@ Actual distributed models; chosen camera view does not establish intended front 
 [Full image](../previews/prison-fp001-024/renders/FP024.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip)
 
 [FP017 bristles detail](../previews/prison-fp001-024/details/FP017_detail.png)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FP025 — Folded prison uniform
+
+畳んだ囚人服
+
+[![FP025](../previews/prison-mill24/thumbnails/FP025.png)](../previews/prison-mill24/renders/FP025.png)
+
+[Full image](../previews/prison-mill24/renders/FP025.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip)
+
+### PM001 — Floor 2x2
+
+床2×2m
+
+[![PM001](../previews/prison-mill24/thumbnails/PM001.png)](../previews/prison-mill24/renders/PM001.png)
+
+[Full image](../previews/prison-mill24/renders/PM001.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM001_Floor_2x2.zip)
+
+### PM002 — Solid Wall 2m
+
+石壁2m
+
+[![PM002](../previews/prison-mill24/thumbnails/PM002.png)](../previews/prison-mill24/renders/PM002.png)
+
+[Full image](../previews/prison-mill24/renders/PM002.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM002_Solid_Wall_2m.zip)
+
+### PM003 — Barred Wall 2m
+
+格子壁2m
+
+[![PM003](../previews/prison-mill24/thumbnails/PM003.png)](../previews/prison-mill24/renders/PM003.png)
+
+[Full image](../previews/prison-mill24/renders/PM003.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM003_Barred_Wall_2m.zip)
+
+### PM004 — Cell Door 2m
+
+牢房扉2m
+
+[![PM004](../previews/prison-mill24/thumbnails/PM004.png)](../previews/prison-mill24/renders/PM004.png)
+
+[Full image](../previews/prison-mill24/renders/PM004.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM004_Cell_Door_2m.zip)
+
+### PM005 — Arched Window Wall 2m
+
+アーチ窓壁2m
+
+[![PM005](../previews/prison-mill24/thumbnails/PM005.png)](../previews/prison-mill24/renders/PM005.png)
+
+[Full image](../previews/prison-mill24/renders/PM005.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM005_Arched_Window_Wall_2m.zip)
+
+**Known issue:** Black side faces are an unresolved original-model issue.
+
+### PM006 — Universal Stone Node
+
+共通石柱
+
+[![PM006](../previews/prison-mill24/thumbnails/PM006.png)](../previews/prison-mill24/renders/PM006.png)
+
+[Full image](../previews/prison-mill24/renders/PM006.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM006_Universal_Stone_Node.zip)
+
+### PM007 — Drained Corridor Floor 2x2
+
+排水溝付き廊下床
+
+[![PM007](../previews/prison-mill24/thumbnails/PM007.png)](../previews/prison-mill24/renders/PM007.png)
+
+[Full image](../previews/prison-mill24/renders/PM007.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM007_Drained_Corridor_Floor_2x2.zip)
+
+### PM008 — Corridor Junction Hatch 2x2
+
+点検蓋付き交差部床
+
+[![PM008](../previews/prison-mill24/thumbnails/PM008.png)](../previews/prison-mill24/renders/PM008.png)
+
+[Full image](../previews/prison-mill24/renders/PM008.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM008_Corridor_Junction_Hatch_2x2.zip)
+
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration.
+
+### PM009 — L Corner Configuration
+
+L字接続設定
+
+[![PM009](../previews/prison-mill24/thumbnails/PM009.png)](../previews/prison-mill24/renders/PM009.png)
+
+[Full image](../previews/prison-mill24/renders/PM009.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM009_L_Corner_Configuration.zip)
+
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration.
+
+### PM010 — T Junction Configuration
+
+T字接続設定
+
+[![PM010](../previews/prison-mill24/thumbnails/PM010.png)](../previews/prison-mill24/renders/PM010.png)
+
+[Full image](../previews/prison-mill24/renders/PM010.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM010_T_Junction_Configuration.zip)
+
+**Known issue:** Black side faces are an unresolved original-model issue; reused PM006 configuration.
+
+### PM011 — End Cap Configuration
+
+端部接続設定
+
+[![PM011](../previews/prison-mill24/thumbnails/PM011.png)](../previews/prison-mill24/renders/PM011.png)
+
+[Full image](../previews/prison-mill24/renders/PM011.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM011_End_Cap_Configuration.zip)

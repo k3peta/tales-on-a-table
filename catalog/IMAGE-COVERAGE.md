@@ -181,3 +181,5 @@
 - [Quality 18](material_variants_ol055_story_at001.md):12 accepted comparison/thumbnail images. Cumulative176 assessed distribution records, not unique shapes.
 
 FP001–FP024:24 individual full renders +24 thumbnails +1 broom detail added. International base ID mappings641/1008, missing367; variant108/108. Not a claim that every prior mapping is an isolated individual render.
+
+FP025 / PM001–011 / WM001–012:24 individual full renders +24 thumbnails added. International base ID mappings665/1008, missing343; variant108/108. Not a claim that every prior mapping is an isolated individual render.
