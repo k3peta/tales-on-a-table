@@ -314,6 +314,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_03.en.md) · [Catalogue 2](../../catalog/curios-tools_03.md) · [Catalogue 3](../../catalog/curios-tools_03.zh-CN.md)
 
+[Quality 21 revision and comparison](../../catalog/material_variants_at022_031.md). Original download retained; AT031 stitch positions changed; green variant uses repaired stitch_seating_v1 baseline.
+
 ## AT_032
 
 **Old grappling hook and rope**

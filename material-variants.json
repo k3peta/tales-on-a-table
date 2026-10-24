@@ -1,5 +1,5 @@
 {
-  "count": 114,
+  "count": 116,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1667,6 +1667,38 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_020__color_copper_CC0.zip"
+    },
+    {
+      "id": "AT_022__color_red",
+      "base_id": "AT_022",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0",
+      "finish": "color_red",
+      "description": "\u9b54\u5c0e\u66f8\u306e\u7dd1\u8868\u7d19\u3092\u8d64\u3078\u3002\u7d19\u30fb\u9396\u30fb\u91d1\u5177\u30fb\u5b9d\u77f3\u306f\u4fdd\u6301\u3002",
+      "zip": "AT_022__color_red_CC0.zip",
+      "bytes": 1351255,
+      "sha256": "304b0b061099759eedf753ddcfeffac6607f2af3f83dbd00c9f46acef6b2f887",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_022__color_red_CC0.zip"
+    },
+    {
+      "id": "AT_031__color_green",
+      "base_id": "AT_031",
+      "entity_type": "material_variant",
+      "source_entity_type": "base_model_provisional",
+      "geometry_revision": "stitch_seating_v1",
+      "uv_revision": "original_uv0",
+      "finish": "color_green",
+      "description": "\u7e2b\u3044\u76ee\u4fee\u5fa9\u5f8c\u3092\u57fa\u6e96\u306b\u5dfb\u304d\u888b\u306e\u9769\u3092\u7dd1\u3078\u3002\u5de5\u5177\u30fb\u91d1\u5177\u30fb\u5f62\u3092\u4fdd\u6301\u3002",
+      "zip": "AT_031__color_green_CC0.zip",
+      "bytes": 1198883,
+      "sha256": "a9287baa8ff408d145d09044dcaf06c505311cc8c572e7f4d1ddd45b6452fa01",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__color_green_CC0.zip"
     }
   ]
 }

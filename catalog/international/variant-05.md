@@ -407,3 +407,39 @@ Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not indepe
 [Full comparison](../../previews/quality-at012-021-v1/AT_020__color_copper_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at012-021-v1/AT_020__color_copper_CC0.zip) · [Source catalogue](../../catalog/material_variants_at012_021.md)
 
 CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_022__color_red
+
+**Chain-bound grimoire**
+
+鎖で閉じた魔導書
+
+[![AT_022__color_red](../../previews/quality-at022-031-v1/AT_022__color_red_thumb.png)](../../previews/quality-at022-031-v1/AT_022__color_red_comparison.png)
+
+Use / purpose: Red spellbook cover, original geometry retained.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_022](base-09.md#at_022). Geometry baseline: original; UV retained relative to that baseline.
+
+[Full comparison](../../previews/quality-at022-031-v1/AT_022__color_red_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_022__color_red_CC0.zip) · [Source catalogue](../../catalog/material_variants_at022_031.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).
+
+## AT_031__color_green
+
+**Old tool roll**
+
+古い工具の巻き袋
+
+[![AT_031__color_green](../../previews/quality-at022-031-v1/AT_031__color_green_thumb.png)](../../previews/quality-at022-031-v1/AT_031__color_green_comparison.png)
+
+Use / purpose: Green tool-roll leather on repaired stitch_seating_v1 geometry; not the unrepaired original.
+
+Formats: BLEND/GLB. Dimensions / triangles / intended pivot / facing: not independently measured for this variant.
+
+[Base AT_031](base-09.md#at_031). Geometry baseline: stitch_seating_v1; UV retained relative to that baseline.
+
+[Full comparison](../../previews/quality-at022-031-v1/AT_031__color_green_comparison.png) · [Download ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__color_green_CC0.zip) · [Source catalogue](../../catalog/material_variants_at022_031.md)
+
+CC0-1.0: model geometry and embedded materials only. Images excluded; [license scope](../../LICENSE.md).

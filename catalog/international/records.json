@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 114,
-      "id_mapped_preview": 114,
+      "records": 116,
+      "id_mapped_preview": 116,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 114,
-      "formats_known": 114,
+      "purpose_en_present": 116,
+      "formats_known": 116,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -38469,6 +38469,72 @@
         "layout": "left: original; right: accepted variant; same overview camera"
       },
       "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_022__color_red",
+      "kind": "variant",
+      "base_id": "AT_022",
+      "name_en": "Chain-bound grimoire",
+      "name_ja": "鎖で閉じた魔導書",
+      "purpose_en": "Red spellbook cover, original geometry retained.",
+      "record_kind": "model",
+      "image": "previews/quality-at022-031-v1/AT_022__color_red_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_022__color_red_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at022_031.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at022-031-v1/AT_022__color_red_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0"
+    },
+    {
+      "id": "AT_031__color_green",
+      "kind": "variant",
+      "base_id": "AT_031",
+      "name_en": "Old tool roll",
+      "name_ja": "古い工具の巻き袋",
+      "purpose_en": "Green tool-roll leather on repaired stitch_seating_v1 geometry; not the unrepaired original.",
+      "record_kind": "model",
+      "image": "previews/quality-at022-031-v1/AT_031__color_green_thumb.png",
+      "image_evidence": "Exact source manifest ID/ZIP SHA and PNG SHA matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_at022_031.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-at022-031-v1/AT_031__color_green_comparison.png",
+        "layout": "left: original; right: accepted variant; same overview camera"
+      },
+      "geometry_revision": "stitch_seating_v1",
       "uv_revision": "original_uv0"
     }
   ],

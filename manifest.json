@@ -6194,7 +6194,25 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/AT_031_CC0.zip",
       "theme": "AT",
       "original_preview_sha256": "7a0688f7a98279b7f5f63efa087c5d40bfb9214135a3796da0a163abd31c2bf2",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "AT_031__repair",
+          "base_id": "AT_031",
+          "entity_type": "revision",
+          "source_entity_type": "base_model_provisional",
+          "geometry_revision": "stitch_seating_v1",
+          "uv_revision": "original_uv0",
+          "finish": "repair",
+          "description": "48本の浮いた縫い目を内側10mm/下6mmへ移し袋面へ着座。",
+          "zip": "AT_031__repair_CC0.zip",
+          "bytes": 1295730,
+          "sha256": "8e7208d4caef88018c70581422e9b37f1f0b01fc64b1aa590d5e043b3e900966",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at022-031-v1/AT_031__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "AT_032",
