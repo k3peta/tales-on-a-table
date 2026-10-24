@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All270 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All279 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +187 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -217,6 +217,6 @@ Quality77:9 existing distribution records,18 HQ/LITE material/UV revision ZIPs,5
 
 TR049–057 HQ/LITE:18 material/UV revisions across9 existing distribution records, no new base, variant or geometry revision. TR048 HQ/LITE is held for positive coplanar earth/water-port overlap and LITE black wedges; no candidate generated. Prior TR041–047 water14 and TR013 two candidates remain held. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original colors and original UV layers retained; bake UV2 and necessary UV0-copy padding added. TR050 shallow drift/faceting, TR053 angular ice boundary, TR056 weak track relief and TR057 repeated grass remain. Geometry/attribute pass does not establish exact procedural fidelity.
 
-Public-download identity pending. Producer final-ZIP36 format checks bound to exact model/image hashes; publisher inspected nine representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
+All89 changed files externally retrieved;18 ZIPs/internal models and54 images match their final artifact bindings. Producer final-ZIP36 format checks bound to exact model/image hashes; publisher inspected nine representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
 
 [Quality77](../quality-77.md).
