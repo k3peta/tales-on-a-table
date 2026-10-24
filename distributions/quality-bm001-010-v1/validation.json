@@ -1,0 +1,114 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "939ec39cc4e5f8597f7045c071260da6fdae9466",
+  "guard_run_id": "5a9ccf55-a112-4657-8e4c-8dbbe69965ab",
+  "started_utc": "2026-10-24T16:50:48.757323+00:00",
+  "finished_utc": "2026-10-24T16:50:49.307085+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "BM_006__green",
+      "zip": "BM_006__green_CC0.zip",
+      "zip_sha256": "c9dddbdb9e9b11bd8cc6f9e6cd4dc408ab6bcf29489f003ecef4a93d2b8c0251",
+      "members": {
+        "BM_006__green.glb": "349cb24dde3d4138613ec75cc410f38a7b3ba78ee768ec84dbe427812d18d1a1",
+        "BM_006__green.blend": "fd78d648d3ca0c5911ef86a41ebc3841e5c8eb816165fa3c8a75fc7a573a4b63"
+      }
+    },
+    {
+      "id": "BM_006__orange",
+      "zip": "BM_006__orange_CC0.zip",
+      "zip_sha256": "60cfb9840e7e48f596a694f3b5a35fdd66c6f1c10e6b0da022916f44345e3396",
+      "members": {
+        "BM_006__orange.blend": "5577b903754eda9f5902cf135cd5dd588df38f46c4586b0b3a82bde90030461a",
+        "BM_006__orange.glb": "7e19cd1f3771662abcf4c792fed649d574d10127850b034f3835992ed01121ed"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "BM_006__green",
+      "formats": {
+        "blend": {
+          "triangles": 3764,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 3764,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "BM_006__orange",
+      "formats": {
+        "blend": {
+          "triangles": 3764,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 3764,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    }
+  ]
+}

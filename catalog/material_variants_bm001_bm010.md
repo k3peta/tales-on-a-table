@@ -6,7 +6,7 @@ BM006 ceramic wizard_cup green/orange UV tint retains original geometry, UV, ver
 
 10配布レコード・収録16モデルを査定。収録物を追加件数としません。緑/橙陶器カップvariant2件のみ、元の金属カップは置換しません。10个配布记录含16个模型；不重复计数。2个陶瓷杯颜色变体只对应主模型，原金属杯保留。
 
-Same camera/light/scale comparisons. Final ZIP BLEND/GLB geometry/UV/spatial vertex-color guard and four rejected old color-loss fixtures matched. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final ZIP BLEND/GLB geometry/UV/spatial vertex-color guard and four rejected old color-loss fixtures matched. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed446 distribution records;562 remain;134 budget issues unresolved. BM002 scroll29192tri over20k. BM007 pale pouch fragments remain attachment diagnosis, not fixed or declared intentional. BM01072 positive tiny faces retained. Source16-member visual audit covered GLB, not independent bundled BLEND imports; delivered2 variant ZIPs cover both formats. No collision/load/gameplay/mechanical sound/Blender4.3.2 approval. Existing book/bottle color members not duplicated.
 
@@ -43,3 +43,5 @@ Ceramic cup body UV tint (orange) multiplied by preserved original vertex colors
 [![BM_006__orange close_comparison](../previews/quality-bm001-010-v1/BM_006__orange_close_comparison.png)](../previews/quality-bm001-010-v1/BM_006__orange_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm001-010-v1/validation.json).
