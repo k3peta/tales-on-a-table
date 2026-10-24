@@ -8888,7 +8888,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV101-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8901,6 +8900,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8911,7 +8914,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8925,6 +8927,10 @@
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md",
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8935,7 +8941,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV103-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8948,6 +8953,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8958,7 +8967,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV201-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8971,6 +8979,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -8981,7 +8993,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV202-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -8994,6 +9005,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9004,7 +9019,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV203-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9017,6 +9031,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9027,7 +9045,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV301-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9040,6 +9057,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9050,7 +9071,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV302-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9063,6 +9083,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9073,7 +9097,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9088,6 +9111,10 @@
       "catalog/husbandry_cellar_v1.md",
       "catalog/stable_care_v1.md",
       "catalog/winery_utilities_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9098,7 +9125,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV401-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9111,6 +9137,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9121,7 +9151,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9135,6 +9164,10 @@
     "existing_catalogs": [
       "catalog/craft_shops_v1.md",
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9145,7 +9178,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV403-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9158,6 +9190,10 @@
     },
     "existing_catalogs": [
       "catalog/husbandry_cellar_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9168,7 +9204,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9181,6 +9216,10 @@
     },
     "existing_catalogs": [
       "catalog/fortified_city_access_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9191,7 +9230,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9204,6 +9242,10 @@
     },
     "existing_catalogs": [
       "catalog/fortified_city_access_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9214,7 +9256,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9228,6 +9269,10 @@
     "existing_catalogs": [
       "catalog/city_scenes_quality_v3.md",
       "catalog/fortified_city_access_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9238,7 +9283,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9251,6 +9295,10 @@
     },
     "existing_catalogs": [
       "catalog/fortified_city_access_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9261,7 +9309,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9274,6 +9321,10 @@
     },
     "existing_catalogs": [
       "catalog/field_travel_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9284,7 +9335,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9298,6 +9348,10 @@
     "existing_catalogs": [
       "catalog/field_travel_tools_v1.md",
       "catalog/personal_fishing_kit_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9308,7 +9362,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9321,6 +9374,10 @@
     },
     "existing_catalogs": [
       "catalog/field_travel_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9331,7 +9388,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9344,6 +9400,10 @@
     },
     "existing_catalogs": [
       "catalog/field_travel_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9354,7 +9414,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/personal-fishing-kit-v1/PFKV01_PersonalFishingKit_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9367,6 +9426,10 @@
     },
     "existing_catalogs": [
       "catalog/personal_fishing_kit_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9377,7 +9440,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB101_CheeseHouse_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9390,6 +9452,10 @@
     },
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9400,7 +9466,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB102_RipeningRack_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9413,6 +9478,10 @@
     },
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -9423,7 +9492,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB103_VentilatedHayBarn_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -9436,6 +9504,10 @@
     },
     "existing_catalogs": [
       "catalog/cheese_hay_buildings_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

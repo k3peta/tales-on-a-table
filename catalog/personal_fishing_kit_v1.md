@@ -101,3 +101,23 @@ PersonalFishingKit
 ![personal-fishing-kit-v1 — small_tackle](../previews/catalog-20261024/personal-fishing-kit-v1-small_tackle.jpg)
 
 ![personal-fishing-kit-v1 — travel_and_creel](../previews/catalog-20261024/personal-fishing-kit-v1-travel_and_creel.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FTR102_SegmentedRodCase — SegmentedRodCase
+
+SegmentedRodCase
+
+[![FTR102_SegmentedRodCase](../previews/hcv-chb24/thumbnails/FTR102_SegmentedRodCase.png)](../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png)
+
+[Full image](../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)
+
+### PFKV01_PersonalFishingKit — PersonalFishingKit
+
+PersonalFishingKit
+
+[![PFKV01_PersonalFishingKit](../previews/hcv-chb24/thumbnails/PFKV01_PersonalFishingKit.png)](../previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png)
+
+[Full image](../previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/personal-fishing-kit-v1/PFKV01_PersonalFishingKit_CC0.zip)

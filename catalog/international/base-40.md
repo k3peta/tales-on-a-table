@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 HCV302
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV302](../../previews/hcv-chb24/thumbnails/HCV302.png)](../../previews/hcv-chb24/renders/HCV302.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV302.png)
 
 Use / purpose: HCV302: Open fermentation vat with paddle
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV303
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV303](../../previews/hcv-chb24/thumbnails/HCV303.png)](../../previews/hcv-chb24/renders/HCV303.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV303.png)
 
 Use / purpose: HCV303: Raised-edge sorting and draining table
 
@@ -48,13 +52,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md) · [Catalogue 2](../../catalog/stable_care_v1.md) · [Catalogue 3](../../catalog/winery_utilities_v1.md)
 
+**Known issue:** Brace contact diagnosis pending. GLB shown; Blender-only procedural bump not represented. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## HCV401
 
 **HCV401**
 
 HCV401
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV401](../../previews/hcv-chb24/thumbnails/HCV401.png)](../../previews/hcv-chb24/renders/HCV401.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV401.png)
 
 Use / purpose: HCV401: Two-tier four-barrel cradle rack
 
@@ -76,7 +84,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV402
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV402](../../previews/hcv-chb24/thumbnails/HCV402.png)](../../previews/hcv-chb24/renders/HCV402.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV402.png)
 
 Use / purpose: HCV402: Bottle storage cubby wall
 
@@ -98,7 +108,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md) · [Catalogue 2](
 
 HCV403
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV403](../../previews/hcv-chb24/thumbnails/HCV403.png)](../../previews/hcv-chb24/renders/HCV403.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV403.png)
 
 Use / purpose: HCV403: Segmented cellar arch rib
 
@@ -120,7 +132,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 ScaffoldCorner
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS201_ScaffoldCorner](../../previews/hcv-chb24/thumbnails/FCS201_ScaffoldCorner.png)](../../previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png)
 
 Use / purpose: FCS201_ScaffoldCorner
 
@@ -142,7 +156,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_access_v2.md)
 
 DeckEndGuard
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS202_DeckEndGuard](../../previews/hcv-chb24/thumbnails/FCS202_DeckEndGuard.png)](../../previews/hcv-chb24/renders/FCS202_DeckEndGuard.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FCS202_DeckEndGuard.png)
 
 Use / purpose: FCS202_DeckEndGuard
 
@@ -164,7 +180,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_access_v2.md)
 
 GateAccessExample
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCSV03_GateAccessExample](../../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png)](../../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
 
 Use / purpose: FCSV03_GateAccessExample
 
@@ -186,7 +204,9 @@ Source details: [Catalogue 1](../../catalog/city_scenes_quality_v3.md) · [Catal
 
 ScaffoldCornerExample
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCSV04_ScaffoldCornerExample](../../previews/hcv-chb24/thumbnails/FCSV04_ScaffoldCornerExample.png)](../../previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png)
 
 Use / purpose: FCSV04_ScaffoldCornerExample
 
@@ -208,7 +228,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_access_v2.md)
 
 StepoffLadder4m
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FTR101_StepoffLadder4m](../../previews/hcv-chb24/thumbnails/FTR101_StepoffLadder4m.png)](../../previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png)
 
 Use / purpose: FTR101_StepoffLadder4m
 
@@ -230,7 +252,9 @@ Source details: [Catalogue 1](../../catalog/field_travel_tools_v1.md)
 
 SegmentedRodCase
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FTR102_SegmentedRodCase](../../previews/hcv-chb24/thumbnails/FTR102_SegmentedRodCase.png)](../../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png)
 
 Use / purpose: FTR102_SegmentedRodCase
 
@@ -252,7 +276,9 @@ Source details: [Catalogue 1](../../catalog/field_travel_tools_v1.md) · [Catalo
 
 GateLadderFit
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FTRV01_GateLadderFit](../../previews/hcv-chb24/thumbnails/FTRV01_GateLadderFit.png)](../../previews/hcv-chb24/renders/FTRV01_GateLadderFit.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FTRV01_GateLadderFit.png)
 
 Use / purpose: FTRV01_GateLadderFit
 
@@ -274,7 +300,9 @@ Source details: [Catalogue 1](../../catalog/field_travel_tools_v1.md)
 
 TravelRodKit
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FTRV02_TravelRodKit](../../previews/hcv-chb24/thumbnails/FTRV02_TravelRodKit.png)](../../previews/hcv-chb24/renders/FTRV02_TravelRodKit.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/FTRV02_TravelRodKit.png)
 
 Use / purpose: FTRV02_TravelRodKit
 
@@ -296,7 +324,9 @@ Source details: [Catalogue 1](../../catalog/field_travel_tools_v1.md)
 
 PersonalFishingKit
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![PFKV01_PersonalFishingKit](../../previews/hcv-chb24/thumbnails/PFKV01_PersonalFishingKit.png)](../../previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png)
 
 Use / purpose: Repositionable personal fishing kit assembled from eight existing models; no new shapes
 
@@ -318,7 +348,9 @@ Source details: [Catalogue 1](../../catalog/personal_fishing_kit_v1.md)
 
 CheeseHouse
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CHB101_CheeseHouse](../../previews/hcv-chb24/thumbnails/CHB101_CheeseHouse.png)](../../previews/hcv-chb24/renders/CHB101_CheeseHouse.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/CHB101_CheeseHouse.png)
 
 Use / purpose: CHB101_CheeseHouse
 
@@ -340,7 +372,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md)
 
 RipeningRack
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CHB102_RipeningRack](../../previews/hcv-chb24/thumbnails/CHB102_RipeningRack.png)](../../previews/hcv-chb24/renders/CHB102_RipeningRack.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/CHB102_RipeningRack.png)
 
 Use / purpose: CHB102_RipeningRack
 
@@ -362,7 +396,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md)
 
 VentilatedHayBarn
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CHB103_VentilatedHayBarn](../../previews/hcv-chb24/thumbnails/CHB103_VentilatedHayBarn.png)](../../previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png)
 
 Use / purpose: CHB103_VentilatedHayBarn
 

@@ -119,3 +119,39 @@ HCV503
 ![cheese-hay-buildings-v1 — hay_interior](../previews/catalog-20261024/cheese-hay-buildings-v1-hay_interior.jpg)
 
 ![cheese-hay-buildings-v1 — hay_loading_close](../previews/catalog-20261024/cheese-hay-buildings-v1-hay_loading_close.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CHB101_CheeseHouse — CheeseHouse
+
+CheeseHouse
+
+[![CHB101_CheeseHouse](../previews/hcv-chb24/thumbnails/CHB101_CheeseHouse.png)](../previews/hcv-chb24/renders/CHB101_CheeseHouse.png)
+
+[Full image](../previews/hcv-chb24/renders/CHB101_CheeseHouse.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB101_CheeseHouse_CC0.zip)
+
+### CHB102_RipeningRack — RipeningRack
+
+RipeningRack
+
+[![CHB102_RipeningRack](../previews/hcv-chb24/thumbnails/CHB102_RipeningRack.png)](../previews/hcv-chb24/renders/CHB102_RipeningRack.png)
+
+[Full image](../previews/hcv-chb24/renders/CHB102_RipeningRack.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB102_RipeningRack_CC0.zip)
+
+### CHB103_VentilatedHayBarn — VentilatedHayBarn
+
+VentilatedHayBarn
+
+[![CHB103_VentilatedHayBarn](../previews/hcv-chb24/thumbnails/CHB103_VentilatedHayBarn.png)](../previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png)
+
+[Full image](../previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB103_VentilatedHayBarn_CC0.zip)
+
+### HCV102 — HCV102
+
+HCV102
+
+[![HCV102](../previews/hcv-chb24/thumbnails/HCV102.png)](../previews/hcv-chb24/renders/HCV102.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV102.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip)

@@ -82,3 +82,39 @@ TravelRodKit
 ![field-travel-tools-v1 — rod_case](../previews/catalog-20261024/field-travel-tools-v1-rod_case.jpg)
 
 ![field-travel-tools-v1 — rod_case_close](../previews/catalog-20261024/field-travel-tools-v1-rod_case_close.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FTR101_StepoffLadder4m — StepoffLadder4m
+
+StepoffLadder4m
+
+[![FTR101_StepoffLadder4m](../previews/hcv-chb24/thumbnails/FTR101_StepoffLadder4m.png)](../previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png)
+
+[Full image](../previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip)
+
+### FTR102_SegmentedRodCase — SegmentedRodCase
+
+SegmentedRodCase
+
+[![FTR102_SegmentedRodCase](../previews/hcv-chb24/thumbnails/FTR102_SegmentedRodCase.png)](../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png)
+
+[Full image](../previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip)
+
+### FTRV01_GateLadderFit — GateLadderFit
+
+GateLadderFit
+
+[![FTRV01_GateLadderFit](../previews/hcv-chb24/thumbnails/FTRV01_GateLadderFit.png)](../previews/hcv-chb24/renders/FTRV01_GateLadderFit.png)
+
+[Full image](../previews/hcv-chb24/renders/FTRV01_GateLadderFit.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip)
+
+### FTRV02_TravelRodKit — TravelRodKit
+
+TravelRodKit
+
+[![FTRV02_TravelRodKit](../previews/hcv-chb24/thumbnails/FTRV02_TravelRodKit.png)](../previews/hcv-chb24/renders/FTRV02_TravelRodKit.png)
+
+[Full image](../previews/hcv-chb24/renders/FTRV02_TravelRodKit.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip)

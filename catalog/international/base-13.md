@@ -442,6 +442,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality32:** 5 constant-color paper parts lack UV; future mapping limitation. [Details](../material_variants_ws039_cp012.md).
+
 ## WS_040
 
 **Open amethyst geode**
@@ -463,6 +465,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality32:** 46 flat-color meshes lack UV; no forced recolor. [Details](../material_variants_ws039_cp012.md).
 
 ## CP_001
 
@@ -486,6 +490,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality32:** 9 constant-color parts lack UV; steering untested. [Details](../material_variants_ws039_cp012.md).
+
 ## CP_002
 
 **Deck wheel pedestal**
@@ -507,6 +513,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality32:** 1 flat-color part lacks UV; mounting fit untested. [Details](../material_variants_ws039_cp012.md).
 
 ## CP_003
 
@@ -530,6 +538,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality32:** Zero-area cleanup and3 missing UV layers added;28596tri remains over budget. [Details](../material_variants_ws039_cp012.md).
+
 ## CP_004
 
 **Hollow leather telescope case**
@@ -551,3 +561,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+**Quality32:** Zero-area cleanup and1 missing UV layer added; green variant uses repaired baseline. [Details](../material_variants_ws039_cp012.md).

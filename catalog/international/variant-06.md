@@ -155,3 +155,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base WS_036](base-13.md#ws_036) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__color_blue_CC0.zip) · [Full comparison](../../previews/quality-ws029-038-v1/WS_036__color_blue_overview_comparison.png) · [Details](../material_variants_ws029_038.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## CP_004__color_green
+
+**Hollow leather telescope case** · 望遠鏡の筒形革ケース
+
+[![CP_004__color_green](../../previews/quality-ws039-cp012-v1/CP_004__color_green_thumb.png)](../../previews/quality-ws039-cp012-v1/CP_004__color_green_overview_comparison.png)
+
+Use: Green goatskin texture on CP004 cleaned geometry baseline; same positive surface and retained UV as repair. Original canvas and other material properties unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base CP_004](base-13.md#cp_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_004__color_green_CC0.zip) · [Full comparison](../../previews/quality-ws039-cp012-v1/CP_004__color_green_overview_comparison.png) · [Details](../material_variants_ws039_cp012.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

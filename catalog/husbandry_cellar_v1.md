@@ -293,3 +293,107 @@ HQ models shown; LITE not pictured. Actual distributed models; chosen camera vie
 [![UD1101](../previews/terrain-tr051-ud24/thumbnails/UD1101.png)](../previews/terrain-tr051-ud24/renders/UD1101.png)
 
 [Full image](../previews/terrain-tr051-ud24/renders/UD1101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-11/zips/UD1101_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV101 — HCV101
+
+HCV101
+
+[![HCV101](../previews/hcv-chb24/thumbnails/HCV101.png)](../previews/hcv-chb24/renders/HCV101.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV101-CC0.zip)
+
+### HCV102 — HCV102
+
+HCV102
+
+[![HCV102](../previews/hcv-chb24/thumbnails/HCV102.png)](../previews/hcv-chb24/renders/HCV102.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV102.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip)
+
+**Known issue:** Peg contact diagnosis pending. GLB shown; Blender-only procedural bump not represented.
+
+### HCV103 — HCV103
+
+HCV103
+
+[![HCV103](../previews/hcv-chb24/thumbnails/HCV103.png)](../previews/hcv-chb24/renders/HCV103.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV103.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV103-CC0.zip)
+
+### HCV201 — HCV201
+
+HCV201
+
+[![HCV201](../previews/hcv-chb24/thumbnails/HCV201.png)](../previews/hcv-chb24/renders/HCV201.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV201-CC0.zip)
+
+### HCV202 — HCV202
+
+HCV202
+
+[![HCV202](../previews/hcv-chb24/thumbnails/HCV202.png)](../previews/hcv-chb24/renders/HCV202.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV202.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV202-CC0.zip)
+
+### HCV203 — HCV203
+
+HCV203
+
+[![HCV203](../previews/hcv-chb24/thumbnails/HCV203.png)](../previews/hcv-chb24/renders/HCV203.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV203.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV203-CC0.zip)
+
+### HCV301 — HCV301
+
+HCV301
+
+[![HCV301](../previews/hcv-chb24/thumbnails/HCV301.png)](../previews/hcv-chb24/renders/HCV301.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV301.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV301-CC0.zip)
+
+### HCV302 — HCV302
+
+HCV302
+
+[![HCV302](../previews/hcv-chb24/thumbnails/HCV302.png)](../previews/hcv-chb24/renders/HCV302.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV302.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV302-CC0.zip)
+
+**Known issue:** Brace contact diagnosis pending. GLB shown; Blender-only procedural bump not represented.
+
+### HCV303 — HCV303
+
+HCV303
+
+[![HCV303](../previews/hcv-chb24/thumbnails/HCV303.png)](../previews/hcv-chb24/renders/HCV303.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV303.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip)
+
+### HCV401 — HCV401
+
+HCV401
+
+[![HCV401](../previews/hcv-chb24/thumbnails/HCV401.png)](../previews/hcv-chb24/renders/HCV401.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV401.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV401-CC0.zip)
+
+### HCV402 — HCV402
+
+HCV402
+
+[![HCV402](../previews/hcv-chb24/thumbnails/HCV402.png)](../previews/hcv-chb24/renders/HCV402.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV402.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip)
+
+### HCV403 — HCV403
+
+HCV403
+
+[![HCV403](../previews/hcv-chb24/thumbnails/HCV403.png)](../previews/hcv-chb24/renders/HCV403.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV403.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV403-CC0.zip)

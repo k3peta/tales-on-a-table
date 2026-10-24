@@ -77,3 +77,17 @@ HCV903
 ![winery-utilities-v1 — sampler](../previews/catalog-20261024/winery-utilities-v1-sampler.jpg)
 
 ![winery-utilities-v1 — workflow](../previews/catalog-20261024/winery-utilities-v1-workflow.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+**Known issue:** Brace contact diagnosis pending. GLB shown; Blender-only procedural bump not represented.
+
+### HCV303 — HCV303
+
+HCV303
+
+[![HCV303](../previews/hcv-chb24/thumbnails/HCV303.png)](../previews/hcv-chb24/renders/HCV303.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV303.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip)

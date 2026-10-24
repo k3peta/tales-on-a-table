@@ -50,3 +50,15 @@ ConstructionSite
 [![FCSV01_ConstructionSite](../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png)](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
 
 [Full image](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FCSV03_GateAccessExample — GateAccessExample
+
+GateAccessExample
+
+[![FCSV03_GateAccessExample](../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png)](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
+
+[Full image](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)

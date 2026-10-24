@@ -87,3 +87,39 @@ ScaffoldCornerExample
 ![fortified-city-access-v2 — scaffold_joint](../previews/catalog-20261024/fortified-city-access-v2-scaffold_joint.jpg)
 
 ![fortified-city-access-v2 — scaffold_turn](../previews/catalog-20261024/fortified-city-access-v2-scaffold_turn.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FCS201_ScaffoldCorner — ScaffoldCorner
+
+ScaffoldCorner
+
+[![FCS201_ScaffoldCorner](../previews/hcv-chb24/thumbnails/FCS201_ScaffoldCorner.png)](../previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png)
+
+[Full image](../previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip)
+
+### FCS202_DeckEndGuard — DeckEndGuard
+
+DeckEndGuard
+
+[![FCS202_DeckEndGuard](../previews/hcv-chb24/thumbnails/FCS202_DeckEndGuard.png)](../previews/hcv-chb24/renders/FCS202_DeckEndGuard.png)
+
+[Full image](../previews/hcv-chb24/renders/FCS202_DeckEndGuard.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip)
+
+### FCSV03_GateAccessExample — GateAccessExample
+
+GateAccessExample
+
+[![FCSV03_GateAccessExample](../previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png)](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png)
+
+[Full image](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
+
+### FCSV04_ScaffoldCornerExample — ScaffoldCornerExample
+
+ScaffoldCornerExample
+
+[![FCSV04_ScaffoldCornerExample](../previews/hcv-chb24/thumbnails/FCSV04_ScaffoldCornerExample.png)](../previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png)
+
+[Full image](../previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip)

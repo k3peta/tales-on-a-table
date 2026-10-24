@@ -420,7 +420,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 HCV101
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV101](../../previews/hcv-chb24/thumbnails/HCV101.png)](../../previews/hcv-chb24/renders/HCV101.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV101.png)
 
 Use / purpose: HCV101: Horse box front with upper grille
 
@@ -442,7 +444,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV102
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV102](../../previews/hcv-chb24/thumbnails/HCV102.png)](../../previews/hcv-chb24/renders/HCV102.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV102.png)
 
 Use / purpose: HCV102: Angled horse hay manger
 
@@ -464,7 +468,9 @@ Source details: [Catalogue 1](../../catalog/cheese_hay_buildings_v1.md) · [Cata
 
 HCV103
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV103](../../previews/hcv-chb24/thumbnails/HCV103.png)](../../previews/hcv-chb24/renders/HCV103.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV103.png)
 
 Use / purpose: HCV103: Saddle and bridle stand
 
@@ -480,13 +486,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
+**Known issue:** Peg contact diagnosis pending. GLB shown; Blender-only procedural bump not represented. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## HCV201
 
 **HCV201**
 
 HCV201
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV201](../../previews/hcv-chb24/thumbnails/HCV201.png)](../../previews/hcv-chb24/renders/HCV201.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV201.png)
 
 Use / purpose: HCV201: Cattle communal feed barrier and bunk
 
@@ -508,7 +518,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV202
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV202](../../previews/hcv-chb24/thumbnails/HCV202.png)](../../previews/hcv-chb24/renders/HCV202.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV202.png)
 
 Use / purpose: HCV202: Raised livestock stone water trough
 
@@ -530,7 +542,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV203
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV203](../../previews/hcv-chb24/thumbnails/HCV203.png)](../../previews/hcv-chb24/renders/HCV203.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV203.png)
 
 Use / purpose: HCV203: Barn grated drainage channel
 
@@ -552,7 +566,9 @@ Source details: [Catalogue 1](../../catalog/husbandry_cellar_v1.md)
 
 HCV301
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV301](../../previews/hcv-chb24/thumbnails/HCV301.png)](../../previews/hcv-chb24/renders/HCV301.png)
+
+[Full-size image](../../previews/hcv-chb24/renders/HCV301.png)
 
 Use / purpose: HCV301: Basket screw wine press
 

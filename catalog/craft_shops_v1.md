@@ -128,3 +128,15 @@ Six models: wooden shoe last, sole-working stake, measuring torso, garment rail,
 ![革工房（CSH301クランプ・CSH302裁断刃） leatherworker-overview](../previews/catalog-20261024/CSH_SCENE_LEATHERWORKER-leatherworker-overview.jpg)
 
 ![革工房（CSH301クランプ・CSH302裁断刃） leatherworker-detail](../previews/catalog-20261024/CSH_SCENE_LEATHERWORKER-leatherworker-detail.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV402 — HCV402
+
+HCV402
+
+[![HCV402](../previews/hcv-chb24/thumbnails/HCV402.png)](../previews/hcv-chb24/renders/HCV402.png)
+
+[Full image](../previews/hcv-chb24/renders/HCV402.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip)

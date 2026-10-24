@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 929,
-      "preview_not_mapped": 79,
+      "id_mapped_preview": 953,
+      "preview_not_mapped": 55,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 132,
-      "id_mapped_preview": 132,
+      "records": 133,
+      "id_mapped_preview": 133,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 132,
-      "formats_known": 132,
+      "purpose_en_present": 133,
+      "formats_known": 133,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -12789,7 +12789,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "5 constant-color paper parts lack UV; future mapping limitation."
     },
     {
       "id": "WS_040",
@@ -12822,7 +12823,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "46 flat-color meshes lack UV; no forced recolor."
     },
     {
       "id": "CP_001",
@@ -12855,7 +12857,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "9 constant-color parts lack UV; steering untested."
     },
     {
       "id": "CP_002",
@@ -12888,7 +12891,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "1 flat-color part lacks UV; mounting fit untested."
     },
     {
       "id": "CP_003",
@@ -12921,7 +12925,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_003__repair",
+          "catalog": "catalog/material_variants_ws039_cp012.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup and3 missing UV layers added;28596tri remains over budget."
     },
     {
       "id": "CP_004",
@@ -12954,7 +12966,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_004__repair",
+          "catalog": "catalog/material_variants_ws039_cp012.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup and1 missing UV layer added; green variant uses repaired baseline."
     },
     {
       "id": "CP_005",
@@ -12987,7 +13007,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_005__repair",
+          "catalog": "catalog/material_variants_ws039_cp012.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup; navigation/optical calibration untested."
     },
     {
       "id": "CP_006",
@@ -13053,7 +13081,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_010__repair",
+          "catalog": "catalog/material_variants_ws039_cp012.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup; pulley motion/load untested."
     },
     {
       "id": "CP_012",
@@ -33444,8 +33480,8 @@
       "name_ja": "HCV101",
       "purpose_en": "HCV101: Horse box front with upper grille",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV101.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33464,7 +33500,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV101.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV102",
@@ -33474,8 +33512,8 @@
       "name_ja": "HCV102",
       "purpose_en": "HCV102: Angled horse hay manger",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV102.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33495,7 +33533,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV102.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV103",
@@ -33505,8 +33545,8 @@
       "name_ja": "HCV103",
       "purpose_en": "HCV103: Saddle and bridle stand",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV103.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33525,7 +33565,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV103.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json",
+      "known_issue": "Peg contact diagnosis pending. GLB shown; Blender-only procedural bump not represented."
     },
     {
       "id": "HCV201",
@@ -33535,8 +33578,8 @@
       "name_ja": "HCV201",
       "purpose_en": "HCV201: Cattle communal feed barrier and bunk",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV201.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33555,7 +33598,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV201.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV202",
@@ -33565,8 +33610,8 @@
       "name_ja": "HCV202",
       "purpose_en": "HCV202: Raised livestock stone water trough",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV202.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33585,7 +33630,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV202.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV203",
@@ -33595,8 +33642,8 @@
       "name_ja": "HCV203",
       "purpose_en": "HCV203: Barn grated drainage channel",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV203.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33615,7 +33662,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV203.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV301",
@@ -33625,8 +33674,8 @@
       "name_ja": "HCV301",
       "purpose_en": "HCV301: Basket screw wine press",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV301.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33645,7 +33694,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV301.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV302",
@@ -33655,8 +33706,8 @@
       "name_ja": "HCV302",
       "purpose_en": "HCV302: Open fermentation vat with paddle",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV302.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33675,7 +33726,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV302.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV303",
@@ -33685,8 +33738,8 @@
       "name_ja": "HCV303",
       "purpose_en": "HCV303: Raised-edge sorting and draining table",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV303.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33707,7 +33760,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV303.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json",
+      "known_issue": "Brace contact diagnosis pending. GLB shown; Blender-only procedural bump not represented."
     },
     {
       "id": "HCV401",
@@ -33717,8 +33773,8 @@
       "name_ja": "HCV401",
       "purpose_en": "HCV401: Two-tier four-barrel cradle rack",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV401.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33737,7 +33793,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV401.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV402",
@@ -33747,8 +33805,8 @@
       "name_ja": "HCV402",
       "purpose_en": "HCV402: Bottle storage cubby wall",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV402.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33768,7 +33826,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV402.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "HCV403",
@@ -33778,8 +33838,8 @@
       "name_ja": "HCV403",
       "purpose_en": "HCV403: Segmented cellar arch rib",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/HCV403.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33798,7 +33858,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/HCV403.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FCS201_ScaffoldCorner",
@@ -33808,8 +33870,8 @@
       "name_ja": "ScaffoldCorner",
       "purpose_en": "FCS201_ScaffoldCorner",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FCS201_ScaffoldCorner.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33828,7 +33890,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FCS202_DeckEndGuard",
@@ -33838,8 +33902,8 @@
       "name_ja": "DeckEndGuard",
       "purpose_en": "FCS202_DeckEndGuard",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FCS202_DeckEndGuard.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33858,7 +33922,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FCS202_DeckEndGuard.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FCSV03_GateAccessExample",
@@ -33868,8 +33934,8 @@
       "name_ja": "GateAccessExample",
       "purpose_en": "FCSV03_GateAccessExample",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33889,7 +33955,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FCSV03_GateAccessExample.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FCSV04_ScaffoldCornerExample",
@@ -33899,8 +33967,8 @@
       "name_ja": "ScaffoldCornerExample",
       "purpose_en": "FCSV04_ScaffoldCornerExample",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FCSV04_ScaffoldCornerExample.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33919,7 +33987,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FTR101_StepoffLadder4m",
@@ -33929,8 +33999,8 @@
       "name_ja": "StepoffLadder4m",
       "purpose_en": "FTR101_StepoffLadder4m",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FTR101_StepoffLadder4m.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33949,7 +34019,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FTR102_SegmentedRodCase",
@@ -33959,8 +34031,8 @@
       "name_ja": "SegmentedRodCase",
       "purpose_en": "FTR102_SegmentedRodCase",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FTR102_SegmentedRodCase.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33980,7 +34052,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FTRV01_GateLadderFit",
@@ -33990,8 +34064,8 @@
       "name_ja": "GateLadderFit",
       "purpose_en": "FTRV01_GateLadderFit",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FTRV01_GateLadderFit.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34010,7 +34084,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FTRV01_GateLadderFit.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "FTRV02_TravelRodKit",
@@ -34020,8 +34096,8 @@
       "name_ja": "TravelRodKit",
       "purpose_en": "FTRV02_TravelRodKit",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/FTRV02_TravelRodKit.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34040,7 +34116,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/FTRV02_TravelRodKit.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "PFKV01_PersonalFishingKit",
@@ -34050,8 +34128,8 @@
       "name_ja": "PersonalFishingKit",
       "purpose_en": "Repositionable personal fishing kit assembled from eight existing models; no new shapes",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/PFKV01_PersonalFishingKit.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34070,7 +34148,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "CHB101_CheeseHouse",
@@ -34080,8 +34160,8 @@
       "name_ja": "CheeseHouse",
       "purpose_en": "CHB101_CheeseHouse",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/CHB101_CheeseHouse.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34100,7 +34180,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/CHB101_CheeseHouse.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "CHB102_RipeningRack",
@@ -34110,8 +34192,8 @@
       "name_ja": "RipeningRack",
       "purpose_en": "CHB102_RipeningRack",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/CHB102_RipeningRack.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34130,7 +34212,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/CHB102_RipeningRack.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "CHB103_VentilatedHayBarn",
@@ -34140,8 +34224,8 @@
       "name_ja": "VentilatedHayBarn",
       "purpose_en": "CHB103_VentilatedHayBarn",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/hcv-chb24/thumbnails/CHB103_VentilatedHayBarn.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -34160,7 +34244,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png",
+      "image_manifest": "previews/hcv-chb24/manifest.json"
     },
     {
       "id": "CHBV01_CheeseRipeningHut",
@@ -40000,6 +40086,39 @@
       },
       "geometry_revision": "WS_036__repair",
       "uv_revision": "WS_036__repair retained original positive-surface UV"
+    },
+    {
+      "id": "CP_004__color_green",
+      "kind": "variant",
+      "base_id": "CP_004",
+      "name_en": "Hollow leather telescope case",
+      "name_ja": "望遠鏡の筒形革ケース",
+      "purpose_en": "Green goatskin texture on CP004 cleaned geometry baseline; same positive surface and retained UV as repair. Original canvas and other material properties unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-ws039-cp012-v1/CP_004__color_green_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws039-cp012-v1/CP_004__color_green_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ws039_cp012.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ws039-cp012-v1/CP_004__color_green_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "CP_004__repair",
+      "uv_revision": "CP_004__repair retained original positive-surface UV"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

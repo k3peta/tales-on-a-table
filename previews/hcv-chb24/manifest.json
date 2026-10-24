@@ -1,0 +1,702 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "CHB101_CheeseHouse",
+      "source_zip_sha256": "f03ba95a69616af1bac7a3bdc3f3514338ecc1b2f59a02977643ed3f4c3ceded",
+      "source_glb_sha256": "0bc4d16507b6957cad5c0c3b44676d830c2da0006a9474ba5352ad34bb7491e5",
+      "camera_location": [
+        6.877500057220459,
+        -11.8149995803833,
+        8.922500610351562
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 10.807499885559082,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB101_CheeseHouse_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/CHB101_CheeseHouse.png",
+      "image_source_sha256": "bfb51b799ebb7c2eab3b509c2dc0bfea911be13d58603dde393f1a171a0a78ff",
+      "image_sha256": "84b34cd0a0c65b93329d80ec72e9c64ee15be696b057fd8f204a6fa03c60ebc4",
+      "thumbnail": "previews/hcv-chb24/thumbnails/CHB101_CheeseHouse.png",
+      "thumbnail_source_sha256": "a03ad5c7c77707eb9325fd6f38266525184aaace5a4c705666ca79cc63d0cf91",
+      "thumbnail_sha256": "fd4eb2cab459b18d72f712d2d4dca203058ffb3db546cad8f6512d7257a66571"
+    },
+    {
+      "id": "CHB102_RipeningRack",
+      "source_zip_sha256": "ec396a5fce56b7198b7dae2619bb5f2ee9c682ad7faff2faf9801f087357a37c",
+      "source_glb_sha256": "2b859a2e287482fa219c2cf2b99f294caefb45a82fbf4b26f5c57ecfccbaac8b",
+      "camera_location": [
+        2.435999870300293,
+        -4.175999641418457,
+        3.5959997177124023
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 3.8279998302459717,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB102_RipeningRack_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/CHB102_RipeningRack.png",
+      "image_source_sha256": "c45532bec87541e9d77fd80bfe0e8abf1569377639c21b14049abffec711e11e",
+      "image_sha256": "238697979e9a2ffb8444c2efab0a93c2c32b904f5bd3cf83609096670b9f17ca",
+      "thumbnail": "previews/hcv-chb24/thumbnails/CHB102_RipeningRack.png",
+      "thumbnail_source_sha256": "db21fb953e2b5ceb47c757af913254f0ce2c96cb9ab481111b98e4b49361f992",
+      "thumbnail_sha256": "ade0d7ffefd46535a3a2fce4114d09ea84f72fde1412084f87bebb28dbcb8230"
+    },
+    {
+      "id": "CHB103_VentilatedHayBarn",
+      "source_zip_sha256": "9bc2d6fd5659248cea38a8e4febd1367a194a1773810218efd198a5c1de4e15e",
+      "source_glb_sha256": "73cc60a3d216dce1897949b0b1baffe9ddc8c8e55e5b77fadaa535179666e9ba",
+      "camera_location": [
+        8.452499389648438,
+        -15.264999389648438,
+        10.937499046325684
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        9.683025581352922e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 13.282500267028809,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB103_VentilatedHayBarn_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/CHB103_VentilatedHayBarn.png",
+      "image_source_sha256": "8898ef1ac041827faaf36c6dbc69f6d992dd8b4eb2b1eaf08ddd1befde6ebd55",
+      "image_sha256": "157c50dcfcb71e0a4778dd5e9a91dd97f883c4a1055544699e1a5628009ac04f",
+      "thumbnail": "previews/hcv-chb24/thumbnails/CHB103_VentilatedHayBarn.png",
+      "thumbnail_source_sha256": "b0650b4cf5d6dc47c18a12fdbda6540161a7a886407384cb3af806c4af206d44",
+      "thumbnail_sha256": "4a98cc66809d42fa867f522631aceb703b67c97ec9921ef0ccd3fba4eee4eced"
+    },
+    {
+      "id": "FCS201_ScaffoldCorner",
+      "source_zip_sha256": "be720e949623d865341405c72be9b8460d9aaa1076eedd69a81c39cbe0957b1c",
+      "source_glb_sha256": "221eb0dfbaf7705208adaaacb3d07b36120a4713b57ec8aca142e41bb3071d41",
+      "camera_location": [
+        3.002999782562256,
+        -5.1479997634887695,
+        4.432999610900879
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 4.718999862670898,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS201_ScaffoldCorner_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FCS201_ScaffoldCorner.png",
+      "image_source_sha256": "e7f595f8ee28d6090a3a0d1eb515de8710043997c32d3858162784d65ee65a11",
+      "image_sha256": "ae568880bbdd56235697441e24e7b47d9b6cebf8dba2fd5cd51261646b49eae8",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FCS201_ScaffoldCorner.png",
+      "thumbnail_source_sha256": "6a27f5faa7369496de3d7f43f86f97caef9705f596ccba7e24a144947167687a",
+      "thumbnail_sha256": "ebf5201bde0cada293b5b9128d52e34cd41e99834e42e0f19ceffc03d9b4fd56"
+    },
+    {
+      "id": "FCS202_DeckEndGuard",
+      "source_zip_sha256": "bfda60baf493954f43bc376a24773728abd3a6e5aa9d05df2d75f2542f2b8fe5",
+      "source_glb_sha256": "aa6502b3b8d98ec6a7eefc6ef5ae6d00250fd1091d8d34fad971dd840e545cf0",
+      "camera_location": [
+        1.028999924659729,
+        -1.7639999389648438,
+        1.4589998722076416
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.6169999837875366,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS202_DeckEndGuard_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FCS202_DeckEndGuard.png",
+      "image_source_sha256": "ec2f0f1e98a8dd9b2c028e425013a81edc33ec70df5fc1104bbc14d3794ec08e",
+      "image_sha256": "5f54e7fe73515a07093d273af99dc731bef95bf24897f74a7e46f508a56125d4",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FCS202_DeckEndGuard.png",
+      "thumbnail_source_sha256": "01483363540dcdb864014a73ac709c9c06baa0bc18ea8fb2e5bcbe7ce946a571",
+      "thumbnail_sha256": "3534b171540193a1e58f0c870f406ded508618b236fb5b14b24a20576dbd8649"
+    },
+    {
+      "id": "FCSV03_GateAccessExample",
+      "source_zip_sha256": "8959838fb499024f0f4939f42ba9e19942e5e564702bb0e4781806b49743795b",
+      "source_glb_sha256": "da4d1d5c97aeb5ada17a3e5bb796bcb6405c3681be6e3737f9950e29db52adbc",
+      "camera_location": [
+        21.0,
+        -28.5,
+        23.795000076293945
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 21.234580993652344,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FCSV03_GateAccessExample.png",
+      "image_source_sha256": "992f63ba8a0a216db618ff21ba3f7634a23749db135ad7118718825c38f7e429",
+      "image_sha256": "6c20e55b5b25ab81e77eec5ba8f230234652438a91abc54019797c57e2a537cc",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FCSV03_GateAccessExample.png",
+      "thumbnail_source_sha256": "96a065bddceb9ed827d5c93f509941c301cb258e9e227d0df08122822d8d234b",
+      "thumbnail_sha256": "7c28df6c59298084166ccb4346111ae79c1de38c3a7abe61e21f32092c1849b5"
+    },
+    {
+      "id": "FCSV04_ScaffoldCornerExample",
+      "source_zip_sha256": "ca9464b44e82bee6a6b80466ea9fb6ec8f0b244e4db715c4b80c1981fb328321",
+      "source_glb_sha256": "3d2958a84a5e7dde473fc89558a9fa4e4758990f8f2fbe6bf59a6e82195ce52e",
+      "camera_location": [
+        11.300000190734863,
+        -18.5,
+        11.8100004196167
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 16.5,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV04_ScaffoldCornerExample_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FCSV04_ScaffoldCornerExample.png",
+      "image_source_sha256": "0ca8ccfd7880c31b7bcc074a4c53361a9cc4e02386eee29ff3b0549333b67f48",
+      "image_sha256": "7ef21a7b5fa0df3d02f2df7d5be9ac2d5883cfa79b3f6f72db4c659184b9a6d8",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FCSV04_ScaffoldCornerExample.png",
+      "thumbnail_source_sha256": "da410ec3bbe352e3bad210c41de24f5b6b2ed27e2c2e5e698fe113bdfa4e345d",
+      "thumbnail_sha256": "3f5c20aa1ee7544a0ed4ab6ca80ba6bcbd29d0f1744ca275241833446baaca73"
+    },
+    {
+      "id": "FTR101_StepoffLadder4m",
+      "source_zip_sha256": "dccd83b4dbcb400e8ec8adaa25cbccc959386fea17688bcf907cd0a53b81d724",
+      "source_glb_sha256": "c527e510b74c3fcd85ef90f1a5746457b26ab955bf2de91fac893ca896750977",
+      "camera_location": [
+        5.0474677085876465,
+        -7.920318126678467,
+        7.451024055480957
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.4441518203511805e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 7.931735038757324,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR101_StepoffLadder4m_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FTR101_StepoffLadder4m.png",
+      "image_source_sha256": "09bde223519b0d95a27c5df0d8e11a2112fa4daa6cde7866701213b7aa9b6e37",
+      "image_sha256": "d38a4d9df40172835d198b434743dfe3bcd5b342c822b01f292ff72afb7fdf40",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FTR101_StepoffLadder4m.png",
+      "thumbnail_source_sha256": "fb072e1a89dca11af88f45b634219a333e167e4af5223e49239230ef2cb0223b",
+      "thumbnail_sha256": "dfc9536943a6a4b442fed84514efa9043dee58a36de2f3d3cb162db8a97fbb88"
+    },
+    {
+      "id": "FTR102_SegmentedRodCase",
+      "source_zip_sha256": "0eb34a689c39ee2fc80db56fa166f86791cb80b5ad804fb93f248dd220188751",
+      "source_glb_sha256": "3b9ef41a6475846119aabdf82121685ae5bfa974ec7a4dc326d01453a10f7c65",
+      "camera_location": [
+        1.4175000190734863,
+        -2.2328360080718994,
+        1.6675000190734863
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.2274999618530273,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTR102_SegmentedRodCase_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FTR102_SegmentedRodCase.png",
+      "image_source_sha256": "8d0760b18a1f82181bb6484477a44543212684d69d6f6703083205070165ab31",
+      "image_sha256": "4bc1512b45d790dc1b2469f5447329f7911bc335b7a9ef26516d8750efdb3c52",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FTR102_SegmentedRodCase.png",
+      "thumbnail_source_sha256": "41f7e322b7d2a4aac7e43017d7ea6db1a7ee7656f9add81fbbec9e8e62f9917e",
+      "thumbnail_sha256": "1b89bb6396929e07fc74932e9277bc91205509367fd74a38c56ad62493607f0c"
+    },
+    {
+      "id": "FTRV01_GateLadderFit",
+      "source_zip_sha256": "b57e18a14f6e6bbe246aa4c9e9eae57801a736c8c6dca383f7faf4bf709efc3f",
+      "source_glb_sha256": "c54eed942a927c70a6906fe7e56630c49fbd89a0a9763d3623cc333322c6461a",
+      "camera_location": [
+        8.399999618530273,
+        15.399999618530273,
+        11.22499942779541
+      ],
+      "camera_rotation_euler": [
+        1.1040565967559814,
+        4.838640155213625e-09,
+        2.613518238067627
+      ],
+      "camera_ortho_scale": 13.046660423278809,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV01_GateLadderFit_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FTRV01_GateLadderFit.png",
+      "image_source_sha256": "f47984fd0740b8566c172c968bfccbdad93b8757de4a39f358a826cb8b0bbe9e",
+      "image_sha256": "d29329904edd459987e607d271b188d73fbe96b7b09a41f5aacd75261c249a40",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FTRV01_GateLadderFit.png",
+      "thumbnail_source_sha256": "9695eeb2db9336fd2cd9ea8ff0ee2ada73b1255c3a8087a95f7854318c22057c",
+      "thumbnail_sha256": "75a3e766c4ed6e1eeab638718cc22671ed1a474c2e1ecdb81280fa55c6144137"
+    },
+    {
+      "id": "FTRV02_TravelRodKit",
+      "source_zip_sha256": "c361740b667244d00c8511c7b0779e17d207e6784d784f16c66d20c2a6f1e109",
+      "source_glb_sha256": "ad41fe7eaf51098c97bb33c783011e72c63ab2619c77b209e4c0c71bac96db48",
+      "camera_location": [
+        1.994999885559082,
+        -3.319999933242798,
+        2.2199997901916504
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.134999990463257,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/field-travel-tools-v1/FTRV02_TravelRodKit_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/FTRV02_TravelRodKit.png",
+      "image_source_sha256": "853f25968606eea1271a2607c7f7d144b76fd0719a836b36c2215609104ce59c",
+      "image_sha256": "b51ad87e6afc37f559ff28ef3b1bd252130f14298173672a7da757d4bf75b7e9",
+      "thumbnail": "previews/hcv-chb24/thumbnails/FTRV02_TravelRodKit.png",
+      "thumbnail_source_sha256": "d01d5a6f6f4cf4e5bf03d2816f70f6af62114be7d963ad54fae9adc267b96ec4",
+      "thumbnail_sha256": "076a85b68a2896cf32d56c8c86f7c40bdb06ee03ecd8d38406dd9e8a824e6010"
+    },
+    {
+      "id": "HCV101",
+      "source_zip_sha256": "4783376d1cee9e389bfb1aae9e4aacb5d97484725cc554353c27b34283fbc4e9",
+      "source_glb_sha256": "3bdb4438c9cce307027c831e2305b1a85a58c485345f9b20bf044c001876d5b4",
+      "camera_location": [
+        2.257499933242798,
+        -3.870000123977661,
+        3.307499885559082
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 3.5475001335144043,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV101-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV101.png",
+      "image_source_sha256": "1d7878784006be04552b6eb673dea1734cbd3362ce384278f29757a56949dd8d",
+      "image_sha256": "5b347134178e741469c04f7154739920da44de26bd94a8c9a2cb92e9b9d228f8",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV101.png",
+      "thumbnail_source_sha256": "b9ff2f359fdf6efd6c1265f2b35a5ba312a60132efbded6cb36f317e15b9d51b",
+      "thumbnail_sha256": "8b7c68350661353485e8576680da39b6257f28c699bfdd1e1dce28df85629842"
+    },
+    {
+      "id": "HCV102",
+      "source_zip_sha256": "167d0544f83f74c6b78555d2e5e8883b4bac3ce1a9041e01af6692fa2a24fdf7",
+      "source_glb_sha256": "69cbebc71aa4fcc5ac5c7b540513f003c64dc2f5300e916be451fe8ffbe4102b",
+      "camera_location": [
+        1.1549999713897705,
+        -1.9800000190734863,
+        1.6712499856948853
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.815000057220459,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV102-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV102.png",
+      "image_source_sha256": "3bd9149e81757b2baaa480ab229152544233a2591a82d417f787ccfbca354e1a",
+      "image_sha256": "ca681e27e9a0a79a2b4fb44cf154798a65b47127775edc44b196d4280da98494",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV102.png",
+      "thumbnail_source_sha256": "4b0d5d8d8de9ce4bd340f5c3e1f5e3900ad84b3769a784bb673f85c200da274d",
+      "thumbnail_sha256": "114cc6c6b2424c54c87a22f155d83919c2ef45fb217094fc840edd1a5771a85f"
+    },
+    {
+      "id": "HCV103",
+      "source_zip_sha256": "25c91b8bc9c934e2dffa79407b84a7d7221f015ffe7e220a6ad816e82f7e75fa",
+      "source_glb_sha256": "2c53e3dcfc4ba7c035562a7bd442aaf6077277ad2d5f058ae0103f72fa38e5bf",
+      "camera_location": [
+        1.658084750175476,
+        -2.84243106842041,
+        2.4476490020751953
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.6055617332458496,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV103-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV103.png",
+      "image_source_sha256": "daddc8bac9f1a0d7237814b5dcf641bbaf90a4988b76e392d6dfbdb9aaef2851",
+      "image_sha256": "91156cc07f71b6b4d7cc1592e363f37bd7f1516def35161155f490bb7b365997",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV103.png",
+      "thumbnail_source_sha256": "e171849c7f675623f0976bf3b66630c8ff637ba0a14acadacd50908c09840cbc",
+      "thumbnail_sha256": "563bd08297c5b257ede8ae3b428c38ed323ba03ebd58e520a80ec57d11271f35"
+    },
+    {
+      "id": "HCV201",
+      "source_zip_sha256": "4588080dad3c9626b88d53e2dcb64512f9f6986206bb88dd9a967bed715e84d3",
+      "source_glb_sha256": "af05bb4063dad91bd86d9f1761718d5b43f9b0c6fd14c35c368029a77b83325d",
+      "camera_location": [
+        3.307499885559082,
+        -5.670000076293945,
+        4.15749979019165
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.576443947077678e-09,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 5.197500228881836,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV201-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV201.png",
+      "image_source_sha256": "a83d4a9034ce487159b1d92e73889b46e6a759f42fa58e938f7b5f027d2a5ccd",
+      "image_sha256": "4128592511ff5d44883e67b508ca379a4eb16b9c75b6867283b9f9a131def9fa",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV201.png",
+      "thumbnail_source_sha256": "734813c625f4dbb68bbce6f97e8ad76f35def95d20425db4a34e73199632ae84",
+      "thumbnail_sha256": "fb121c9a899e4b08cd523ab065e913ebe7f5d3f9fba2f6ba4b9afdddd8aa9443"
+    },
+    {
+      "id": "HCV202",
+      "source_zip_sha256": "69d786af4e66ae57bbdb39079bcef428715335913bd4c5bfcdba9150eae3dd82",
+      "source_glb_sha256": "a0512ce77717595db4f3eab7514ac3b17e42cb7f3b4e9f0a8e96e087bda31fd5",
+      "camera_location": [
+        1.784999966621399,
+        -3.059999942779541,
+        2.1500000953674316
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.805000066757202,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV202-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV202.png",
+      "image_source_sha256": "590ee2518b1224e9b3c6d0aecbe22a16c7bb6df634b4f38a329bc1f7407e963d",
+      "image_sha256": "ffd81235459a2be5ec43c7a8259bffca0cf26157c78935cfbff92fb1114eddeb",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV202.png",
+      "thumbnail_source_sha256": "ea33f78bee65952780db78c9b722be6b9fde7a07ce1a5b1a476e057ce06d9674",
+      "thumbnail_sha256": "a2b3785ae76baee055865b7e98f125069bb3f2b0bc182e221c35b0ee373a490b"
+    },
+    {
+      "id": "HCV203",
+      "source_zip_sha256": "c471b7a389defea9dac65e229518267cb8a7b7c8139f72f017bf61b69eea4174",
+      "source_glb_sha256": "3ba386964d3e92c2b1436467d8c5309e7807acd214785833e398b0fd20db0cc4",
+      "camera_location": [
+        2.0999999046325684,
+        -3.0,
+        4.470000267028809
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 2.700000047683716,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV203-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV203.png",
+      "image_source_sha256": "d717a3fd9a5e1007cdbae2542662fffa0cc424a7b7634c05730d8b198aaa054c",
+      "image_sha256": "53fb400516efe7587455afc6d7eece8a7b04111fbdc5364a7304a71df628f8e3",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV203.png",
+      "thumbnail_source_sha256": "b6e140c4c665afc7d0543a78453a314399b8cef4b1d671557c5ae2c1e84edb7e",
+      "thumbnail_sha256": "14fd0ac16f6449381d85be6fc093469733a50c1b7322cf03cecf28f2552e3316"
+    },
+    {
+      "id": "HCV301",
+      "source_zip_sha256": "1239f07983a2a70f50f6217291a0e7d7923ef6835387b313485ab96fd03fccfa",
+      "source_glb_sha256": "d0a33b662a1b4933c248f1fe9af8bf7c757a1631c87f839daf72e3e717ba6253",
+      "camera_location": [
+        2.3572497367858887,
+        -4.040999889373779,
+        3.4797496795654297
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        3.2750783418578067e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.704249858856201,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV301-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV301.png",
+      "image_source_sha256": "8e206bb5e88b79c8709a6ee24505905fef95f9cca4fbd0508418a02213a5de62",
+      "image_sha256": "d6ddf67a107b0831670e2d4dbb860eaea5cba12036f9bff5d769602db8d9503d",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV301.png",
+      "thumbnail_source_sha256": "3299ba643e793e8a07119bd47528a7de7d5637a97591f5c6e614db303f9f876e",
+      "thumbnail_sha256": "de0a0a95d178f5e7ac1655be4886f96c596874ed6c0af4e4c567db8961bf2c42"
+    },
+    {
+      "id": "HCV302",
+      "source_zip_sha256": "ef101497be52eae92f66f0a0a127e9e482265c11f6418d86674c505e0f15c3a3",
+      "source_glb_sha256": "e72fe48f5a8b4336bbbc4283895bd84a61134cbeba9f3aaaba2bebc88a107b27",
+      "camera_location": [
+        2.2784998416900635,
+        -3.9059996604919434,
+        3.363499641418457
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.5804996490478516,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV302-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV302.png",
+      "image_source_sha256": "bd913b72d6af1211a37503320509bfb643b83a08107414ead578b571ba209d98",
+      "image_sha256": "582e4a420646e03b312ab7add69701f0f26b4154222e987e9167bbb111105d11",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV302.png",
+      "thumbnail_source_sha256": "46fcf5bcbdb3fac987fbfede681ada847c4597be01781c6a6d124c9b7da43e14",
+      "thumbnail_sha256": "b09ec20c12757ac0eb4a44d39b4e2176a82b0f56a92171395423a7cc9bbc4b8e"
+    },
+    {
+      "id": "HCV303",
+      "source_zip_sha256": "0348ff9a3d75207fc9304d2f7208e10104eb43df74a754d24c6416989986e686",
+      "source_glb_sha256": "9698938f82ec047095fb96b8f1e44e008d78a2b6d57ce213dbee5cf1453a1ab2",
+      "camera_location": [
+        2.220749855041504,
+        -3.806999921798706,
+        2.7407498359680176
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 3.4897499084472656,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV303.png",
+      "image_source_sha256": "6023d5e092b6a518093c012bcd58d84ce581e79550f7a95ebd6e2930e4857fec",
+      "image_sha256": "7b61f8b345495a508a555ff65fe32c13c32b57676189e2c0fda6d2150e83ab11",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV303.png",
+      "thumbnail_source_sha256": "b95b75c1f66756c714fc0aee7b847b46abcea609129e90ec48e4a73375eec348",
+      "thumbnail_sha256": "69e08659154afa9940086ef65709258868c719f1bab4de519513702c0dc09652"
+    },
+    {
+      "id": "HCV401",
+      "source_zip_sha256": "3b9885aed2a49741a0d66d4aedd5fad6d2ca46132e554582e8f3d9882e1b1414",
+      "source_glb_sha256": "5da8486844381176bf8fa8b0d9db18fc010820dcaf40d54befc26fbc14611e4d",
+      "camera_location": [
+        2.372999668121338,
+        -4.067999362945557,
+        3.4729995727539062
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 3.728999614715576,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV401-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV401.png",
+      "image_source_sha256": "3a75cf91fff4c06626d481113187cd86973f1cbdcd774a5814dafd090df9ede1",
+      "image_sha256": "53d6aa0baaf13ae13a9182f6647f4397dd048414e22d2f032d327e9bc1fa70a6",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV401.png",
+      "thumbnail_source_sha256": "87aa10ca80acbf39e2b0a5d0f6274121da25178b4e1c95ab3256a069d4f13e41",
+      "thumbnail_sha256": "d6f5c6ff87910bb1ae5922fadc80494f2d4054e7005ae1412928aa6eb1079864"
+    },
+    {
+      "id": "HCV402",
+      "source_zip_sha256": "197be5b80556e5f262fb93456902a9e2370f501ec12de799551e8dccd26567ff",
+      "source_glb_sha256": "fcebc53ac66cba147d593a71d66364a65660682a3995e80ead3eacbe7edccc0f",
+      "camera_location": [
+        1.8584998846054077,
+        -3.185999870300293,
+        2.743499755859375
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.9205000400543213,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV402.png",
+      "image_source_sha256": "a17abc0295a9d64ec99d5c9bd6847387735e87c553b69c59a725137395e0f388",
+      "image_sha256": "46564db5a2abff6d0c602f318356515afcc34cc0d8d1b01f0ba0b931a769aaf0",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV402.png",
+      "thumbnail_source_sha256": "34e5e031443df5535760c64a5bb9688ab52e23a5fbc06cfaa4273854a8e7c38d",
+      "thumbnail_sha256": "48f51f10727d46d0703c6ef34b5c827c1e3abc25e11e31bd3812c91887cea0e4"
+    },
+    {
+      "id": "HCV403",
+      "source_zip_sha256": "5844670ab846ca7d475e5158a1d850d3d156ff5df0d6aad789264d5e43041cc1",
+      "source_glb_sha256": "3664e053d2fee25169d48534eb9106d2e73b5ae08e588fec7ff6d6c6380fada1",
+      "camera_location": [
+        3.7432498931884766,
+        -6.416999816894531,
+        5.525750160217285
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        8.174308874231428e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 5.8822503089904785,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV403-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/HCV403.png",
+      "image_source_sha256": "40dfff94b31ac4f6e3397cd2d34ea63c7c7fe09d5352988c246ba499ebc58f03",
+      "image_sha256": "acc6b6a5b2b78b402950db7580182b2db07ed544485798c70390438433b7c303",
+      "thumbnail": "previews/hcv-chb24/thumbnails/HCV403.png",
+      "thumbnail_source_sha256": "eb6b73de3ec71931ea733435d5fd6626714a4dda7865febc3465ab5e92943253",
+      "thumbnail_sha256": "192f91d9e95921bc6ea77e71aabaee1d8b44ee476470c63e0f23af249af212a1"
+    },
+    {
+      "id": "PFKV01_PersonalFishingKit",
+      "source_zip_sha256": "dcc2a038b6305921b142eacebd33da4f9583392121e7717bd8f2606c829477e3",
+      "source_glb_sha256": "78c65b365118e6a114234111053a5cf35fc400530a777c02ca542365a375ea76",
+      "camera_location": [
+        4.325999736785889,
+        -6.319999694824219,
+        9.333734512329102
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 5.986108779907227,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/personal-fishing-kit-v1/PFKV01_PersonalFishingKit_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/hcv-chb24/renders/PFKV01_PersonalFishingKit.png",
+      "image_source_sha256": "be52c37291d0190dbd9dfc7d90d95d36ee704ea3dbe3e683db0ea1b090f103ae",
+      "image_sha256": "3fbcfebb16ab985fc268d1d2d94a05f670f2b181504ed150331a33f18a553cff",
+      "thumbnail": "previews/hcv-chb24/thumbnails/PFKV01_PersonalFishingKit.png",
+      "thumbnail_source_sha256": "3525d60ccf9394a907da674500b85f3c8843af7cb7fcadf18d27e87683a6577f",
+      "thumbnail_sha256": "e62ea7b74e8a78d2cff9458adb50f02e57f14e4f7fe2ef1304dcb9f62148f128"
+    }
+  ]
+}

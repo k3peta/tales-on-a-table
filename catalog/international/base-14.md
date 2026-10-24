@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality32:** Zero-area cleanup; navigation/optical calibration untested. [Details](../material_variants_ws039_cp012.md).
+
 ## CP_006
 
 **Fitted sextant case**
@@ -69,6 +71,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality32:** Zero-area cleanup; pulley motion/load untested. [Details](../material_variants_ws039_cp012.md).
 
 ## CP_012
 

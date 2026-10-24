@@ -6,8 +6,8 @@ Snapshot: 1008 base distribution records +104 material variants. Counts are not 
 {
   "base": {
     "records": 1008,
-    "id_mapped_preview": 929,
-    "preview_not_mapped": 79,
+    "id_mapped_preview": 953,
+    "preview_not_mapped": 55,
     "dimensions_known": 450,
     "triangles_known": 200,
     "purpose_en_present": 772,
@@ -16,13 +16,13 @@ Snapshot: 1008 base distribution records +104 material variants. Counts are not 
     "all_requested_metadata_verified": 0
   },
   "variant": {
-    "records": 132,
-    "id_mapped_preview": 132,
+    "records": 133,
+    "id_mapped_preview": 133,
     "preview_not_mapped": 0,
     "dimensions_known": 0,
     "triangles_known": 0,
-    "purpose_en_present": 132,
-    "formats_known": 132,
+    "purpose_en_present": 133,
+    "formats_known": 133,
     "origin_orientation_verified": 0,
     "all_requested_metadata_verified": 0
   }
