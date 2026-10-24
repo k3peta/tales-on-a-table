@@ -13543,7 +13543,8 @@
         {
           "id": "CP_025__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "126 exact-zero triangles removed;130 tiny positive retained;36394tri over20k. Green variant uses repaired and added-UV baseline."
@@ -13584,7 +13585,8 @@
         {
           "id": "CP_026__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "256 exact-zero triangles removed;30068tri. Door motion/animal fit untested."
@@ -13659,7 +13661,8 @@
         {
           "id": "CP_028__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "549 exact-zero triangles removed;70 missing UV layers added;25127tri over20k. Static pose, no rig or attachment validation."
@@ -13768,7 +13771,8 @@
         {
           "id": "CP_031__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "32 exact-zero triangles removed; shoulder strap continuity/contact still under diagnosis."
@@ -13809,7 +13813,8 @@
         {
           "id": "IF_001__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "1229 exact-zero triangles removed;112271tri over50k; positive tiny surfaces retained."
@@ -13850,7 +13855,8 @@
         {
           "id": "IF_002__repair",
           "catalog": "catalog/material_variants_cp024_if002.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "27504 exact-zero pile triangles removed;138158tri over50k. HQ/main only, original LOD1 unassessed and unchanged."

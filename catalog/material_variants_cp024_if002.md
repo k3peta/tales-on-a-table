@@ -8,7 +8,7 @@ Exact-zero triangles removed: CP025126, CP026256, CP028549, CP03132, IF0011229, 
 
 6个修订不新增模型。绿色丝绸帽变体以修复后的几何及补充UV为基准。CP028补充70层UV。IF002仅修订HQ主体，原LOD1未经本轮审查且未更改。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed336 distribution records,672 remain;63 budget/redesign issues unresolved. Remaining excessive triangle counts: CP02494360, CP02536394, CP02825127, IF001112271, IF002138158. Cleanup is not complete lightweight redesign. CP024 shoulder/neck and trim contact, CP030 loose-looking inner straps and CP031 strap continuity need diagnosis. CP023 handle shading and earlier issues remain. No collision, gameplay, load, animal fit, animation, map accuracy or Blender4.3.2 guarantee.
 
@@ -125,3 +125,5 @@ Exact-zero-area cleanup only, all positive surfaces retained; missing UV added w
 [![IF_002__repair close_comparison](../previews/quality-cp024-if002-v1/IF_002__repair_close_comparison.png)](../previews/quality-cp024-if002-v1/IF_002__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-cp024-if002-v1/validation.json).

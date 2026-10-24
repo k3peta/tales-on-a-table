@@ -1,0 +1,226 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "48c1991ae086468ef7b20a32787bd03991ca00b1",
+  "guard_run_id": "02bbff7c-e63e-4109-9049-c9c59892be25",
+  "started_utc": "2026-10-24T14:45:20.152092+00:00",
+  "finished_utc": "2026-10-24T14:45:56.909106+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "CP_025__repair",
+      "zip": "CP_025__repair_CC0.zip",
+      "zip_sha256": "14c74b0081e8ccde55373c7ce888201c82bf6bbaa9235f5088628dfad44394ff",
+      "members": {
+        "CP_025__repair.blend": "2b4026359d802a5aa4633f7672d64b5ca9ccca7020f2995fd243c2bc25000e72",
+        "CP_025__repair.glb": "add915858f8bf925e65fae2aadb39efdb5d03de0b1e2bdb5e75507c163215c87"
+      }
+    },
+    {
+      "id": "CP_025__green_silk",
+      "zip": "CP_025__green_silk_CC0.zip",
+      "zip_sha256": "f96a3dacf20c8d18cf46b4150779eadcb68274dd3b2ad4431de2cd5a8507b9f4",
+      "members": {
+        "CP_025__green_silk.glb": "b406754502f4a73ceb27b98ac871e03a291dd2a5ef0deecafa1f9a7d1ba04bf4",
+        "CP_025__green_silk.blend": "34cf684b5c886eadf21a6770dd44d8b00e55e355fb72f719cb4f9dced3494649"
+      }
+    },
+    {
+      "id": "CP_026__repair",
+      "zip": "CP_026__repair_CC0.zip",
+      "zip_sha256": "9dde50e18f745f18d931764f873266bc3a86bd2273055392d0557c0e3c431150",
+      "members": {
+        "CP_026__repair.glb": "1ee1012cbe1394c6f4d489d87f6e94069fc2846a2a1c49fabf875631d582c49c",
+        "CP_026__repair.blend": "40d82712db66f6e98a35fb7cd1e85a58b6caa1dfbcd9280f8684945174070ee4"
+      }
+    },
+    {
+      "id": "CP_028__repair",
+      "zip": "CP_028__repair_CC0.zip",
+      "zip_sha256": "6944744da51523eeb5c7e96a25a87dc57d0ac58a97d01dc4b2d82ab8c304934b",
+      "members": {
+        "CP_028__repair.blend": "59a1070f3ebef351c64d08008d0f49523f09a6ff3de53fb76fed79cbc08be48c",
+        "CP_028__repair.glb": "ca86b0b323f4f77f19038ac790de0866079fed85d354c5203cecb3476f1fd7f3"
+      }
+    },
+    {
+      "id": "CP_031__repair",
+      "zip": "CP_031__repair_CC0.zip",
+      "zip_sha256": "08852da87c1654b78a6b0985b321879e6c4b61f03f8a0baaf8793c243e869379",
+      "members": {
+        "CP_031__repair.blend": "5758f449db0d52de895c135f07b7791567ee80bb8f1cf309a22803cdadd341f7",
+        "CP_031__repair.glb": "6b131c69653b3010e2c83291b2ca6a443646f3d38b205a9828c18dc9cfd6ac93"
+      }
+    },
+    {
+      "id": "IF_001__repair",
+      "zip": "IF_001__repair_CC0.zip",
+      "zip_sha256": "c945765cbe591ba63fe78a42e5f13944cc26b562585fa69c03b859e0b67c2e54",
+      "members": {
+        "IF_001__repair.blend": "a0917cbccf40d62d824daa35e208a248a3eca7b752cc423db4fc926138df8552",
+        "IF_001__repair.glb": "bab0d4af8c7ce2f84731663f42053d19d741362abcc4ef2327ca5f690151498f"
+      }
+    },
+    {
+      "id": "IF_002__repair",
+      "zip": "IF_002__repair_CC0.zip",
+      "zip_sha256": "86f62791f2f304741dc34608a18347cee6524315be9f239b1c9263b8fd16b7d1",
+      "members": {
+        "IF_002__repair.blend": "c8e2560890b3a48006ac6d3636fe9f5a2d64d6b3781ad2dbcc839f85bdaee5c0",
+        "IF_002__repair.glb": "399f0d0492f6d48811a1cad47a7cf34cef67452504f8e00c96bba5a7af4e5b49"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "CP_025__repair",
+      "formats": {
+        "blend": {
+          "triangles": 36394,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 36394,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_025__green_silk",
+      "formats": {
+        "blend": {
+          "triangles": 36394,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 36394,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_026__repair",
+      "formats": {
+        "blend": {
+          "triangles": 30068,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 30068,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_028__repair",
+      "formats": {
+        "blend": {
+          "triangles": 25127,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 25127,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "CP_031__repair",
+      "formats": {
+        "blend": {
+          "triangles": 12312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 12312,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "IF_001__repair",
+      "formats": {
+        "blend": {
+          "triangles": 112271,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 5,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 112271,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 5,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "IF_002__repair",
+      "formats": {
+        "blend": {
+          "triangles": 138158,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 138158,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 2,
+          "pass": true
+        }
+      }
+    }
+  ]
+}
