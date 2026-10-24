@@ -119,5 +119,37 @@
       "missing_colors_rejected": true,
       "scope": "rejected candidate only; public source original color data present"
     }
-  ]
+  ],
+  "targeted_straw_intersection_check": {
+    "zip_sha256": "ccb1e1ac497b50e908f79fc197f65a1a0ba3d1c98c86961adf9b6c1ad0c22fd1",
+    "geometry_check_script_sha256": "d666bdc7d5c347010a94e621a22af2cdfba612a3e3b4e13efb23c7c5dbb1d38d",
+    "tool": "5.2.2 LTS",
+    "formats": [
+      {
+        "format": "blend",
+        "model_sha256": "184a461837b99c2105845a49046d516dd1a209e051dc6b05e9b364070011c045",
+        "connected_straw_components": 432,
+        "crossing_components_by_surface": {
+          "Rumpled_linen_blanket": [],
+          "Flattened_linen_pillow": []
+        },
+        "crossing_component_count": 0,
+        "vertices_to_remove": 0,
+        "method": "Straw triangle edge segment intersects blanket/pillow triangle interior within endpoint distance tolerance1e-7m; whole connected straw component removed, not clipped."
+      },
+      {
+        "format": "glb",
+        "model_sha256": "29e14f6a47748b125ce058d802f5266be864c280ee8ab1e6801fe6a0b0561825",
+        "connected_straw_components": 432,
+        "crossing_components_by_surface": {
+          "Rumpled_linen_blanket": [],
+          "Flattened_linen_pillow": []
+        },
+        "crossing_component_count": 0,
+        "vertices_to_remove": 0,
+        "method": "Straw triangle edge segment intersects blanket/pillow triangle interior within endpoint distance tolerance1e-7m; whole connected straw component removed, not clipped."
+      }
+    ]
+  },
+  "targeted_straw_intersection_scope": "Producer final-ZIP edge intersections with blanket/pillow only; publication independently matched ZIP/model/script SHA. Not exhaustive collisions."
 }
