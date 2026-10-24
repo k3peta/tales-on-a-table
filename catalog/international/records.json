@@ -15241,7 +15241,8 @@
         {
           "id": "IF_003__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "320 exact-zero triangles removed;22120tri still over20k; flame emission retained, no lighting safety guarantee.",
@@ -15286,7 +15287,8 @@
         {
           "id": "IF_004__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "320 zero triangles removed;22956tri over20k; orange ceramic uses repaired baseline, glass/flame unchanged.",
@@ -15331,7 +15333,8 @@
         {
           "id": "IF_005__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "344 zero triangles removed;24100tri over20k; dark glass silhouette remains.",
@@ -15376,7 +15379,8 @@
         {
           "id": "IF_006__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "192 zero triangles removed; broad walnut striping suppressed, normal strength0.45 to0.08; fine regularity remains.",
@@ -15459,7 +15463,8 @@
         {
           "id": "TD_002__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "96 zero triangles removed;6 missing UV added; static prop, combat/physics untested.",
@@ -15504,7 +15509,8 @@
         {
           "id": "TD_003__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "41 zero triangles removed;93 positive tiny retained;83 missing UV added;131673tri over20k.",
@@ -15625,7 +15631,8 @@
         {
           "id": "TD_006__repair",
           "catalog": "catalog/material_variants_if003_td006.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "20 zero triangles removed;12 positive tiny retained;3 missing UV added;33952tri over20k.",

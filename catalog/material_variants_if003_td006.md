@@ -8,7 +8,7 @@ Exact-zero triangles removed: IF003320, IF004320, IF005344, IF006192, TD00296, T
 
 7个修订不新增模型。橙色陶瓷变体以修复后的IF004为基准。IF006木纹材质已调整，细小规律纹理仍存在；不宣称原UV完全不变或轻量化完成。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed346 distribution records,662 remain;70 budget/redesign issues unresolved. TD001547056tri and TD0044652604tri require dedicated redesign/baking; no automatic decimation or color-only repair claim. IF00322120, IF00422956, IF00524100, TD003131673 and TD00633952tri remain over20k. Earlier CP023 handle and attachment diagnoses remain. No collision, gameplay, load, rig/animation, functional lighting/safety or Blender4.3.2 guarantee. Glass shading is engine-dependent.
 
@@ -141,3 +141,5 @@ Exact-zero-area cleanup, all positive surfaces retained; missing UV added where 
 [![TD_006__repair close_comparison](../previews/quality-if003-td006-v1/TD_006__repair_close_comparison.png)](../previews/quality-if003-td006-v1/TD_006__repair_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-if003-td006-v1/validation.json).

@@ -12,7 +12,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_003__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "IF_004__repair",
@@ -26,7 +26,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_004__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "IF_004__orange_ceramic",
@@ -40,7 +40,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_004__orange_ceramic_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "IF_005__repair",
@@ -54,7 +54,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_005__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "IF_006__repair",
@@ -68,7 +68,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_006__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "TD_002__repair",
@@ -82,7 +82,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_002__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "TD_003__repair",
@@ -96,7 +96,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_003__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "TD_006__repair",
@@ -110,7 +110,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/TD_006__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     }
   ],
   "new_base_models": 0,
