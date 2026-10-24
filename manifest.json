@@ -11136,7 +11136,23 @@
       "preview_sha256": "8739654572af58121188c0743f775f564b47f008fb3410af16ac722a28c54e8f",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_011_CC0.zip",
       "previous_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury/TD_011_CC0.zip",
-      "new_types": 0
+      "new_types": 0,
+      "revisions": [
+        {
+          "id": "TD_011__repair",
+          "base_id": "TD_011",
+          "entity_type": "revision",
+          "zip": "TD_011__repair_CC0.zip",
+          "sha256": "7d470330c8042d9b2032188add316f682c1736b8cb57a8b9ddad1eef30012ced",
+          "bytes": 3836139,
+          "description": "TD011 exact96 zero-area triangles removed; all positive surfaces retained. Budget remains exceeded. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_011__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "TD_012",

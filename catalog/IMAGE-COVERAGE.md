@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records unchanged;137 material variants separately. ID image mappings1008; current-version completeness not claimed. See [version audit](international/VERSION-AUDIT.md). Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records unchanged;141 material variants separately. ID image mappings1008; current-version completeness not claimed. See [version audit](international/VERSION-AUDIT.md). Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -251,3 +251,5 @@ CSH and herbalist (7 IDs):7 individual full renders +7 thumbnails added. Interna
 Quality35:24 comparison/thumbnail images; separate variants137. All1008 base IDs have mapped images, with version evidence tiers and unresolved revision bindings recorded separately.
 
 Six previously pending current-revision bindings resolved by exact ZIP GLB rerenders and public image/member hash checks. Latest recorded revisions122/122 mapped; base1008 and variants137 unchanged. No all-LOD, independent-shape or complete-quality claim. [Version audit](international/VERSION-AUDIT.md).
+
+Quality36:15 comparison/thumbnail images; separate variants141.1008 base ID images unchanged.

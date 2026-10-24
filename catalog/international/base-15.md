@@ -280,6 +280,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality36:** Black cutoff was camera near clipping corrected in audit renders; model unchanged. [Details](../material_variants_td007_016.md).
+
 ## TD_008
 
 **Stamped gold ingot**
@@ -324,6 +326,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality36:** 25 constant-material objects lack UV. [Details](../material_variants_td007_016.md).
+
 ## TD_010
 
 **Nine-leaf royal crown**
@@ -345,6 +349,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality36:** 44180tri exceeds20k;10 objects lack UV; redesign pending. [Details](../material_variants_td007_016.md).
 
 ## TD_011
 
@@ -368,6 +374,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality36:** 96 exact-zero triangles removed;79192tri exceeds50k; coarse wood grain retained. [Details](../material_variants_td007_016.md).
+
 ## TD_012
 
 **Sealed jewel casket**
@@ -389,6 +397,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality36:** 25128tri exceeds20k;1 missing UV retained; redesign pending. [Details](../material_variants_td007_016.md).
 
 ## TD_013
 
@@ -412,6 +422,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality36:** Orange gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged. [Details](../material_variants_td007_016.md).
+
 ## TD_014
 
 **Rectangular step-cut gem**
@@ -433,6 +445,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality36:** Cyan gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged. [Details](../material_variants_td007_016.md).
 
 ## TD_015
 
@@ -456,6 +470,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality36:** Amber gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged. [Details](../material_variants_td007_016.md).
+
 ## TD_016
 
 **Marquise-cut gem**
@@ -477,6 +493,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
+
+**Quality36:** Violet gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged. [Details](../material_variants_td007_016.md).
 
 ## TD_017
 

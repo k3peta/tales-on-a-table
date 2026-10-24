@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 137,
-      "id_mapped_preview": 137,
+      "records": 141,
+      "id_mapped_preview": 141,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 137,
-      "formats_known": 137,
+      "purpose_en_present": 141,
+      "formats_known": 141,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -15676,7 +15676,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_007_CC0.zip",
       "pictured_zip_sha256": "6d03ba739a4d46d49d77a16db7c6e4c0248cccc40536e94f07677c41cd3872e6",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Black cutoff was camera near clipping corrected in audit renders; model unchanged."
     },
     {
       "id": "TD_008",
@@ -15750,7 +15751,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_009_CC0.zip",
       "pictured_zip_sha256": "837749200a8a4f7e22c5f2807f72a9f829ab98799a2098e43a2a9e6d1bbb4e0a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "25 constant-material objects lack UV."
     },
     {
       "id": "TD_010",
@@ -15787,7 +15789,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_010_CC0.zip",
       "pictured_zip_sha256": "6c87cda4fd13aefa87b2192bcc49d95541f7dcc781dac961ed4b8fd4c072bdb4",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "44180tri exceeds20k;10 objects lack UV; redesign pending."
     },
     {
       "id": "TD_011",
@@ -15824,7 +15827,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_011_CC0.zip",
       "pictured_zip_sha256": "25a684b9143c56385d438b93bf7b3172edbb991b467d0228b9d9554aa005c7d6",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TD_011__repair",
+          "catalog": "catalog/material_variants_td007_016.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "96 exact-zero triangles removed;79192tri exceeds50k; coarse wood grain retained."
     },
     {
       "id": "TD_012",
@@ -15861,7 +15872,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_012_CC0.zip",
       "pictured_zip_sha256": "731fb8eb435fd5cda1e63d78f37820b1aedd34784786a53f6878928403465193",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "25128tri exceeds20k;1 missing UV retained; redesign pending."
     },
     {
       "id": "TD_013",
@@ -15898,7 +15910,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_013_CC0.zip",
       "pictured_zip_sha256": "d5781e90fe2641bfd23761d3b0b375b61360990580e020bfecdba41aa695ddd3",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Orange gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged."
     },
     {
       "id": "TD_014",
@@ -15935,7 +15948,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_014_CC0.zip",
       "pictured_zip_sha256": "9a5a8e5dcba51f932f0872be28029575c079d32cc82a77643a4314f8281019ce",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Cyan gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged."
     },
     {
       "id": "TD_015",
@@ -15972,7 +15986,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_015_CC0.zip",
       "pictured_zip_sha256": "ba3210efb6ed1fdf76bf28eb0131361bc723b03523d51e3dfba1d4d80e61e5d5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Amber gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged."
     },
     {
       "id": "TD_016",
@@ -16009,7 +16024,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_016_CC0.zip",
       "pictured_zip_sha256": "82add0c6ab3f0fc3724f7ce0c7ffed6d80bf606086763d79d078f0c5fbd40193",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "Violet gem variant adds missing UV baseline; geometry/transmission/IOR/emission unchanged."
     },
     {
       "id": "TD_017",
@@ -44635,6 +44651,154 @@
       },
       "geometry_revision": "IF_004__repair",
       "uv_revision": "IF_004 cleaned geometry and repaired UV baseline"
+    },
+    {
+      "id": "TD_013__orange",
+      "kind": "variant",
+      "base_id": "TD_013",
+      "name_en": "Round brilliant-cut gem",
+      "name_ja": "円形ブリリアント宝石",
+      "purpose_en": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "record_kind": "model",
+      "image": "previews/quality-td007-016-v1/TD_013__orange_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_013__orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_td007_016.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-td007-016-v1/TD_013__orange_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "Missing UV explicitly added before variant baseline; not original-UV-invariant",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_013_CC0.zip",
+      "pictured_zip_sha256": "d5781e90fe2641bfd23761d3b0b375b61360990580e020bfecdba41aa695ddd3",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "TD_014__cyan",
+      "kind": "variant",
+      "base_id": "TD_014",
+      "name_en": "Rectangular step-cut gem",
+      "name_ja": "長方形ステップカット宝石",
+      "purpose_en": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "record_kind": "model",
+      "image": "previews/quality-td007-016-v1/TD_014__cyan_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_014__cyan_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_td007_016.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-td007-016-v1/TD_014__cyan_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "Missing UV explicitly added before variant baseline; not original-UV-invariant",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_014_CC0.zip",
+      "pictured_zip_sha256": "9a5a8e5dcba51f932f0872be28029575c079d32cc82a77643a4314f8281019ce",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "TD_015__amber",
+      "kind": "variant",
+      "base_id": "TD_015",
+      "name_en": "Pear-cut gem",
+      "name_ja": "洋梨形カット宝石",
+      "purpose_en": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "record_kind": "model",
+      "image": "previews/quality-td007-016-v1/TD_015__amber_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_015__amber_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_td007_016.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-td007-016-v1/TD_015__amber_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "Missing UV explicitly added before variant baseline; not original-UV-invariant",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_015_CC0.zip",
+      "pictured_zip_sha256": "ba3210efb6ed1fdf76bf28eb0131361bc723b03523d51e3dfba1d4d80e61e5d5",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "TD_016__violet",
+      "kind": "variant",
+      "base_id": "TD_016",
+      "name_en": "Marquise-cut gem",
+      "name_ja": "マーキス形カット宝石",
+      "purpose_en": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "record_kind": "model",
+      "image": "previews/quality-td007-016-v1/TD_016__violet_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_016__violet_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_td007_016.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-td007-016-v1/TD_016__violet_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "Missing UV explicitly added before variant baseline; not original-UV-invariant",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-treasury-quality/TD_016_CC0.zip",
+      "pictured_zip_sha256": "82add0c6ab3f0fc3724f7ce0c7ffed6d80bf606086763d79d078f0c5fbd40193",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

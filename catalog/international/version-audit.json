@@ -30,7 +30,9 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "TD_011"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +47,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 886,
-      "exact_image_zip_evidence": 122
+      "none": 885,
+      "exact_image_zip_evidence": 122,
+      "exact_image_zip_binding_public_retrieval_pending": 1
     }
   },
   "items": [
@@ -6923,7 +6926,23 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TD_011__repair",
+        "zip_sha256": "7d470330c8042d9b2032188add316f682c1736b8cb57a8b9ddad1eef30012ced",
+        "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_011__repair_CC0.zip",
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "images": [
+          {
+            "id": "TD_011__repair",
+            "zip_sha256": "7d470330c8042d9b2032188add316f682c1736b8cb57a8b9ddad1eef30012ced",
+            "image": "previews/quality-td007-016-v1/TD_011__repair_thumb.png",
+            "image_sha256": "5c082e2b6fcf7498c30b4892a6110b576b86b566e7d263d4c33d40186d7171e3",
+            "evidence": "Final ZIP and source-image hash verified locally; public retrieval pending"
+          }
+        ]
+      }
     },
     {
       "id": "TD_012",

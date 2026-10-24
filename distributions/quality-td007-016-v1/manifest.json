@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "TD_011__repair",
+      "base_id": "TD_011",
+      "entity_type": "revision",
+      "zip": "TD_011__repair_CC0.zip",
+      "sha256": "7d470330c8042d9b2032188add316f682c1736b8cb57a8b9ddad1eef30012ced",
+      "bytes": 3836139,
+      "description": "TD011 exact96 zero-area triangles removed; all positive surfaces retained. Budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_011__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "TD_013__orange",
+      "base_id": "TD_013",
+      "entity_type": "material_variant",
+      "zip": "TD_013__orange_CC0.zip",
+      "sha256": "180e0e193f33aa1a81a1c9a6c91b928870ddec48e48a63121d3263352a0aed92",
+      "bytes": 85678,
+      "description": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_013__orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "TD_014__cyan",
+      "base_id": "TD_014",
+      "entity_type": "material_variant",
+      "zip": "TD_014__cyan_CC0.zip",
+      "sha256": "7985822b05bada3a8a15f7696e3062c3db2c9a3dfb53cf7a57ecd258d646600e",
+      "bytes": 70199,
+      "description": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_014__cyan_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "TD_015__amber",
+      "base_id": "TD_015",
+      "entity_type": "material_variant",
+      "zip": "TD_015__amber_CC0.zip",
+      "sha256": "71a43fbd144dc0b62bdfe92572b18dc1e400b074979f2c9a390662cd707a99f0",
+      "bytes": 89028,
+      "description": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_015__amber_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "TD_016__violet",
+      "base_id": "TD_016",
+      "entity_type": "material_variant",
+      "zip": "TD_016__violet_CC0.zip",
+      "sha256": "6fa6441f1fde2ae463c54f8eb21f2bde2b73b8b44b15a6442781d5c1e3dd4464",
+      "bytes": 88334,
+      "description": "Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_016__violet_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 4,
+  "revisions": 1
+}

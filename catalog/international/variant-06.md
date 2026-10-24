@@ -225,3 +225,59 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base IF_004](base-15.md#if_004) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-if003-td006-v1/IF_004__orange_ceramic_CC0.zip) · [Full comparison](../../previews/quality-if003-td006-v1/IF_004__orange_ceramic_overview_comparison.png) · [Details](../material_variants_if003_td006.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## TD_013__orange
+
+**Round brilliant-cut gem** · 円形ブリリアント宝石
+
+[![TD_013__orange](../../previews/quality-td007-016-v1/TD_013__orange_thumb.png)](../../previews/quality-td007-016-v1/TD_013__orange_overview_comparison.png)
+
+Use: Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base TD_013](base-15.md#td_013) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_013__orange_CC0.zip) · [Full comparison](../../previews/quality-td007-016-v1/TD_013__orange_overview_comparison.png) · [Details](../material_variants_td007_016.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## TD_014__cyan
+
+**Rectangular step-cut gem** · 長方形ステップカット宝石
+
+[![TD_014__cyan](../../previews/quality-td007-016-v1/TD_014__cyan_thumb.png)](../../previews/quality-td007-016-v1/TD_014__cyan_overview_comparison.png)
+
+Use: Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base TD_014](base-15.md#td_014) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_014__cyan_CC0.zip) · [Full comparison](../../previews/quality-td007-016-v1/TD_014__cyan_overview_comparison.png) · [Details](../material_variants_td007_016.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## TD_015__amber
+
+**Pear-cut gem** · 洋梨形カット宝石
+
+[![TD_015__amber](../../previews/quality-td007-016-v1/TD_015__amber_thumb.png)](../../previews/quality-td007-016-v1/TD_015__amber_overview_comparison.png)
+
+Use: Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base TD_015](base-15.md#td_015) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_015__amber_CC0.zip) · [Full comparison](../../previews/quality-td007-016-v1/TD_015__amber_overview_comparison.png) · [Details](../material_variants_td007_016.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## TD_016__violet
+
+**Marquise-cut gem** · マーキス形カット宝石
+
+[![TD_016__violet](../../previews/quality-td007-016-v1/TD_016__violet_thumb.png)](../../previews/quality-td007-016-v1/TD_016__violet_overview_comparison.png)
+
+Use: Gem body color texture only; geometry unchanged from original, UV baseline explicitly added. Transmission/IOR/roughness/emission unchanged. Not a liquid or glass-bottle variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base TD_016](base-15.md#td_016) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_016__violet_CC0.zip) · [Full comparison](../../previews/quality-td007-016-v1/TD_016__violet_overview_comparison.png) · [Details](../material_variants_td007_016.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
