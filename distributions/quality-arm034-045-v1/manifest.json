@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "ARM_034__navylinen",
+      "base_id": "ARM_034",
+      "entity_type": "material_variant",
+      "zip": "ARM_034__navylinen_CC0.zip",
+      "sha256": "d01c66dafe779a4d802828746a8c302928285e5316db6a7ab969b1f7e89f065e",
+      "bytes": 9044534,
+      "description": "UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_034__navylinen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_035__coppertint",
+      "base_id": "ARM_035",
+      "entity_type": "material_variant",
+      "zip": "ARM_035__coppertint_CC0.zip",
+      "sha256": "88aaf27dfc1b21e27ff9d8e12058dfb25072c6ab3863874d16f7db9605ddfc2d",
+      "bytes": 6503940,
+      "description": "UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_035__coppertint_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_040__repair",
+      "base_id": "ARM_040",
+      "entity_type": "revision",
+      "zip": "ARM_040__repair_CC0.zip",
+      "sha256": "7461d0b17c3c3e1533a4008241edfc7814c25e614a3724950a5a407b1d66517e",
+      "bytes": 2841887,
+      "description": "Exact-zero-area cleanup with original positive surfaces, UV and vertex colors retained: ARM040 144 faces, ARM045 120 faces. Budget warning remains. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_040__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_045__repair",
+      "base_id": "ARM_045",
+      "entity_type": "revision",
+      "zip": "ARM_045__repair_CC0.zip",
+      "sha256": "0541b02a98fd286015822768cad4b59e8364558d5d4d48ea256fa325c23402b9",
+      "bytes": 1334005,
+      "description": "Exact-zero-area cleanup with original positive surfaces, UV and vertex colors retained: ARM040 144 faces, ARM045 120 faces. Budget warning remains. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_045__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 2
+}

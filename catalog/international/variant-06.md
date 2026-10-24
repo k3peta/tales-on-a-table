@@ -365,3 +365,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_030](base-16.md#arm_030) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_030__navyhide_CC0.zip) · [Full comparison](../../previews/quality-arm024-033-v1/ARM_030__navyhide_overview_comparison.png) · [Details](../material_variants_arm024_arm033.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_034__navylinen
+
+**縫い鎧の綿入れ胴着** · 縫い鎧の綿入れ胴着
+
+[![ARM_034__navylinen](../../previews/quality-arm034-045-v1/ARM_034__navylinen_thumb.png)](../../previews/quality-arm034-045-v1/ARM_034__navylinen_overview_comparison.png)
+
+Use: UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_034](base-17.md#arm_034) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_034__navylinen_CC0.zip) · [Full comparison](../../previews/quality-arm034-045-v1/ARM_034__navylinen_overview_comparison.png) · [Details](../material_variants_arm034_arm045.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_035__coppertint
+
+**花弁重ねの儀礼肩鎧** · 花弁重ねの儀礼肩鎧
+
+[![ARM_035__coppertint](../../previews/quality-arm034-045-v1/ARM_035__coppertint_thumb.png)](../../previews/quality-arm034-045-v1/ARM_035__coppertint_overview_comparison.png)
+
+Use: UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_035](base-17.md#arm_035) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_035__coppertint_CC0.zip) · [Full comparison](../../previews/quality-arm034-045-v1/ARM_035__coppertint_overview_comparison.png) · [Details](../material_variants_arm034_arm045.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

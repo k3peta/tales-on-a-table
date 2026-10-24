@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 147,
-      "id_mapped_preview": 147,
+      "records": 149,
+      "id_mapped_preview": 149,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 147,
-      "formats_known": 147,
+      "purpose_en_present": 149,
+      "formats_known": 149,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -17295,7 +17295,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_034_CC0.zip",
       "pictured_zip_sha256": "7cd8b1fd45d602a3676ac42e9403dd3e5bb0a406ccd95d796b880e9d41951dc5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "150036tri over20k; blue linen variant, dense seams remain."
     },
     {
       "id": "ARM_035",
@@ -17332,7 +17333,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_035_CC0.zip",
       "pictured_zip_sha256": "2ff25f4a0d927a8027d7b5f40b05f3077224420aaf5da7d81832aeec20ed26c7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "116640tri over20k; paired shoulder armor counted once, copper-colored coating only."
     },
     {
       "id": "ARM_037",
@@ -17369,7 +17371,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_037_CC0.zip",
       "pictured_zip_sha256": "50b50398eeb06f761cd7422dbae86c07d6114465979cc38f59d32d3c5ef8f789",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "61872tri; existing pair, fitting/motion untested."
     },
     {
       "id": "ARM_039F001",
@@ -17402,7 +17405,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_039F001_CC0.zip",
       "pictured_zip_sha256": "8038b45b16aad3656a1d73fc76665fb574fe640d9238dda8f275ed3434266fd9",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "70136tri; existing fitted structural derivative, not an independent new shape."
     },
     {
       "id": "ARM_039",
@@ -17439,7 +17443,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_039_CC0.zip",
       "pictured_zip_sha256": "7b50e3e005a7889258182d8b4ffdfef224afe5e0e31a21446d7270e91fa0fb5c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "45388tri;16 positive tiny triangles retained."
     },
     {
       "id": "ARM_040",
@@ -17476,7 +17481,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_040_CC0.zip",
       "pictured_zip_sha256": "5f17137761ee1ce2bc28a2e197ff39a0628195719db4524eeb08bced8e885117",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_040__repair",
+          "catalog": "catalog/material_variants_arm034_arm045.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "144 zero faces removed;58864tri over20k."
     },
     {
       "id": "ARM_041",
@@ -17513,7 +17526,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_041_CC0.zip",
       "pictured_zip_sha256": "700e5d75acb1567d45ed9d124385e420605169b7de5d50458a0f4bb6e7948ad5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "24532tri; static belt, fit/load untested."
     },
     {
       "id": "ARM_042",
@@ -17550,7 +17564,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_042_CC0.zip",
       "pictured_zip_sha256": "1c5bf56d7a98b72a822500078d54f24a85d30f5635de2699a2eae0231b911f5f",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "56692tri; overlapping laid-out straps, wearing interference unverified."
     },
     {
       "id": "ARM_043",
@@ -17587,7 +17602,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_043_CC0.zip",
       "pictured_zip_sha256": "5db7a5d48de91791158cb8d4d2a13a292c9c7249022db66a458e79e56557d5b6",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "25624tri; existing quiver."
     },
     {
       "id": "ARM_045",
@@ -17624,7 +17640,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_045_CC0.zip",
       "pictured_zip_sha256": "779678103c3792db5162d36e23b30183f8ed32d2420d944cc6168ae05b94b9f0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_045__repair",
+          "catalog": "catalog/material_variants_arm034_arm045.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "120 zero faces removed;20068tri,68 over budget; bundle counted once."
     },
     {
       "id": "ARM_050",
@@ -45141,6 +45165,80 @@
       "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_030_CC0.zip",
       "pictured_zip_sha256": "c9aa6204a82632c8a3f44aa15c952442b5caafd352ad34368fc356b7389fc4a0",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_034__navylinen",
+      "kind": "variant",
+      "base_id": "ARM_034",
+      "name_en": "縫い鎧の綿入れ胴着",
+      "name_ja": "縫い鎧の綿入れ胴着",
+      "purpose_en": "UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm034-045-v1/ARM_034__navylinen_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_034__navylinen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm034_arm045.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm034-045-v1/ARM_034__navylinen_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_034_CC0.zip",
+      "pictured_zip_sha256": "7cd8b1fd45d602a3676ac42e9403dd3e5bb0a406ccd95d796b880e9d41951dc5",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_035__coppertint",
+      "kind": "variant",
+      "base_id": "ARM_035",
+      "name_en": "花弁重ねの儀礼肩鎧",
+      "name_ja": "花弁重ねの儀礼肩鎧",
+      "purpose_en": "UV tint on original vertex colors: blue quilted linen or copper-colored shoulder-armor coating. Geometry/UV/roughness/metallic/normal/emission unchanged. Not a new model or geometry repair.",
+      "record_kind": "model",
+      "image": "previews/quality-arm034-045-v1/ARM_035__coppertint_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm034-045-v1/ARM_035__coppertint_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm034_arm045.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm034-045-v1/ARM_035__coppertint_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_035_CC0.zip",
+      "pictured_zip_sha256": "2ff25f4a0d927a8027d7b5f40b05f3077224420aaf5da7d81832aeec20ed26c7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
