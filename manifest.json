@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 950,
+  "item_count": 955,
   "count_by_kind": {
-    "model": 793,
+    "model": 796,
     "derived_component": 2,
-    "group": 36,
+    "group": 38,
     "structural_variant": 15,
     "connection_configuration": 3,
     "placement_variant": 6,
@@ -50,7 +50,8 @@
     "husbandry_cellar": 12,
     "fortified_city_access": 4,
     "field_travel": 4,
-    "personal_fishing": 1
+    "personal_fishing": 1,
+    "cheese_hay": 5
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -28692,6 +28693,136 @@
       "zip_file": "PFKV01_PersonalFishingKit_CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/personal-fishing-kit-v1/PFKV01_PersonalFishingKit_CC0.zip",
       "theme": "personal_fishing",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CHB101_CheeseHouse",
+      "category": "building_component",
+      "record_kind": "model",
+      "design_classification": "structural_building",
+      "independent_design_increment": null,
+      "revision": "cheese-hay-buildings-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 190138,
+      "zip_sha256": "f03ba95a69616af1bac7a3bdc3f3514338ecc1b2f59a02977643ed3f4c3ceded",
+      "names": {
+        "ja": "CheeseHouse",
+        "en": "CheeseHouse",
+        "zh-CN": "CheeseHouse"
+      },
+      "descriptions": {
+        "ja": "CHB101_CheeseHouse",
+        "en": "CHB101_CheeseHouse",
+        "zh-CN": "CHB101_CheeseHouse"
+      },
+      "zip_file": "CHB101_CheeseHouse_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB101_CheeseHouse_CC0.zip",
+      "theme": "cheese_hay",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CHB102_RipeningRack",
+      "category": "building_component",
+      "record_kind": "model",
+      "design_classification": "composite_ripening_shelf",
+      "independent_design_increment": null,
+      "revision": "cheese-hay-buildings-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 121091,
+      "zip_sha256": "ec396a5fce56b7198b7dae2619bb5f2ee9c682ad7faff2faf9801f087357a37c",
+      "names": {
+        "ja": "RipeningRack",
+        "en": "RipeningRack",
+        "zh-CN": "RipeningRack"
+      },
+      "descriptions": {
+        "ja": "CHB102_RipeningRack",
+        "en": "CHB102_RipeningRack",
+        "zh-CN": "CHB102_RipeningRack"
+      },
+      "zip_file": "CHB102_RipeningRack_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB102_RipeningRack_CC0.zip",
+      "theme": "cheese_hay",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CHB103_VentilatedHayBarn",
+      "category": "building_component",
+      "record_kind": "model",
+      "design_classification": "structural_building",
+      "independent_design_increment": null,
+      "revision": "cheese-hay-buildings-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 92285,
+      "zip_sha256": "9bc2d6fd5659248cea38a8e4febd1367a194a1773810218efd198a5c1de4e15e",
+      "names": {
+        "ja": "VentilatedHayBarn",
+        "en": "VentilatedHayBarn",
+        "zh-CN": "VentilatedHayBarn"
+      },
+      "descriptions": {
+        "ja": "CHB103_VentilatedHayBarn",
+        "en": "CHB103_VentilatedHayBarn",
+        "zh-CN": "CHB103_VentilatedHayBarn"
+      },
+      "zip_file": "CHB103_VentilatedHayBarn_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHB103_VentilatedHayBarn_CC0.zip",
+      "theme": "cheese_hay",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CHBV01_CheeseRipeningHut",
+      "category": "building_component",
+      "record_kind": "group",
+      "design_classification": "assembly_not_new_shape",
+      "independent_design_increment": null,
+      "revision": "cheese-hay-buildings-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 501675,
+      "zip_sha256": "284e7be3866161acfb77c61d47baa7017d78d281c88f6a54d82f9867fda14474",
+      "names": {
+        "ja": "CheeseRipeningHut",
+        "en": "CheeseRipeningHut",
+        "zh-CN": "CheeseRipeningHut"
+      },
+      "descriptions": {
+        "ja": "CHBV01_CheeseRipeningHut",
+        "en": "CHBV01_CheeseRipeningHut",
+        "zh-CN": "CHBV01_CheeseRipeningHut"
+      },
+      "zip_file": "CHBV01_CheeseRipeningHut_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV01_CheeseRipeningHut_CC0.zip",
+      "theme": "cheese_hay",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "CHBV02_DryHayStore",
+      "category": "building_component",
+      "record_kind": "group",
+      "design_classification": "assembly_not_new_shape",
+      "independent_design_increment": null,
+      "revision": "cheese-hay-buildings-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 15981236,
+      "zip_sha256": "bf371c9c0a1c8c0aaac6317fc65ff16e21b9e3b353a1b86655a74510dc0f142d",
+      "names": {
+        "ja": "DryHayStore",
+        "en": "DryHayStore",
+        "zh-CN": "DryHayStore"
+      },
+      "descriptions": {
+        "ja": "CHBV02_DryHayStore",
+        "en": "CHBV02_DryHayStore",
+        "zh-CN": "CHBV02_DryHayStore"
+      },
+      "zip_file": "CHBV02_DryHayStore_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cheese-hay-buildings-v1/CHBV02_DryHayStore_CC0.zip",
+      "theme": "cheese_hay",
       "global_unique": "unconfirmed"
     }
   ]

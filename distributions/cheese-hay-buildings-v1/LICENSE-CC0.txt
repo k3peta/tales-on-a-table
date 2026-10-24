@@ -1,0 +1,2 @@
+CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Included model geometry and embedded materials only. Code, rendered images and private records excluded. Existing BN005 bundle verified against published CC0 ZIP.

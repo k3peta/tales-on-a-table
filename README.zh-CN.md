@@ -1,8 +1,10 @@
 # Tales on a Table
 
-当前已公开 **950条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
+当前已公开 **955条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
 ## 发布历史
+
+- 2026-10-24 JST — **955 records** (950 + 3 components + 2 assemblies; existing hay excluded from new counts). [Cheese and hay buildings](catalog/cheese_hay_buildings_v1.md).
 
 - 2026-10-24 JST — **950 records** (949 + 1 fishing-kit assembly; new shapes0, reused types8). [Personal fishing kit](catalog/personal_fishing_kit_v1.md).
 
