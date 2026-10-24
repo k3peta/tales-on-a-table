@@ -38,3 +38,15 @@ GateAccessExample
 ![city-scenes-quality-v3 — gate_compact](../previews/catalog-20261024/city-scenes-quality-v3-gate_compact.jpg)
 
 ![city-scenes-quality-v3 — gate_turns](../previews/catalog-20261024/city-scenes-quality-v3-gate_turns.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FCSV01_ConstructionSite — ConstructionSite
+
+ConstructionSite
+
+[![FCSV01_ConstructionSite](../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png)](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
+
+[Full image](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)

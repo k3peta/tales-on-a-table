@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 SteppingCrossing
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP102_SteppingCrossing](../../previews/bg-fcs24/thumbnails/NP102_SteppingCrossing.png)](../../previews/bg-fcs24/renders/NP102_SteppingCrossing.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP102_SteppingCrossing.png)
 
 Use / purpose: Local-use candidate: five grounded stepping stones crossing river, top.075m; water gaps remain. Not tested for walking.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/terrain_use_plan_v1.md)
 
 DoubleMouth
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP103_DoubleMouth](../../previews/bg-fcs24/thumbnails/NP103_DoubleMouth.png)](../../previews/bg-fcs24/renders/NP103_DoubleMouth.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP103_DoubleMouth.png)
 
 Use / purpose: Structural variant: N river into S full sea, central sand island makes two outlets.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/terrain_use_plan_v1.md)
 
 WetOverhang
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP104_WetOverhang](../../previews/bg-fcs24/thumbnails/NP104_WetOverhang.png)](../../previews/bg-fcs24/renders/NP104_WetOverhang.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP104_WetOverhang.png)
 
 Use / purpose: Structural variant: full sea bed-.19/water-.01 under roof underside.75/top1; N solid land1.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/terrain_use_plan_v1.md)
 
 CliffRiver
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP105_CliffRiver](../../previews/bg-fcs24/thumbnails/NP105_CliffRiver.png)](../../previews/bg-fcs24/renders/NP105_CliffRiver.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP105_CliffRiver.png)
 
 Use / purpose: Structural variant: river bed-.19/water-.01, W bank1 and E bank0. N/S water ports standard; land heights differ on west.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/terrain_use_plan_v1.md)
 
 RecessedFall
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP106_RecessedFall](../../previews/bg-fcs24/thumbnails/NP106_RecessedFall.png)](../../previews/bg-fcs24/renders/NP106_RecessedFall.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP106_RecessedFall.png)
 
 Use / purpose: Local-use candidate: lower river-.19/- .01 and upper bed1.31/water1.49, banks1.5. Behind water curtain lower cavity has ceiling1.05, open side. Not a human passage guarantee.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/terrain_use_plan_v1.md)
 
 CeilingPendants
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CD101_CeilingPendants](../../previews/bg-fcs24/thumbnails/CD101_CeilingPendants.png)](../../previews/bg-fcs24/renders/CD101_CeilingPendants.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/CD101_CeilingPendants.png)
 
 Use / purpose: Ceiling mineral pendants. Anchor origin on ceiling plane; place at Z0.75 for a cave ceiling0.75. Upper0.04m embeds into roof. Lowest local Z-0.465.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/cave_deposition_v1.md)
 
 FoldedCurtain
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CD102_FoldedCurtain](../../previews/bg-fcs24/thumbnails/CD102_FoldedCurtain.png)](../../previews/bg-fcs24/renders/CD102_FoldedCurtain.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/CD102_FoldedCurtain.png)
 
 Use / purpose: Folded cave curtain. Ceiling anchor origin; place at Y0.65 Z0.75 in a2m room with north inner wallY0.8. Upper0.04m embeds into roof.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/cave_deposition_v1.md)
 
 RimstonePools
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CD103_RimstonePools](../../previews/bg-fcs24/thumbnails/CD103_RimstonePools.png)](../../previews/bg-fcs24/renders/CD103_RimstonePools.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/CD103_RimstonePools.png)
 
 Use / purpose: Closed rimstone pools. Floor anchor originZ0. Local static water levels0.27,0.17,0.07m. Not compatible with standard river waterZ-0.01 without deliberate separate basin placement.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/cave_deposition_v1.md)
 
 DrainedMudflat
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MF101_DrainedMudflat](../../previews/bg-fcs24/thumbnails/MF101_DrainedMudflat.png)](../../previews/bg-fcs24/renders/MF101_DrainedMudflat.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/MF101_DrainedMudflat.png)
 
 Use / purpose: Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/static_mudflat_v1.md)
 
 TimberScaffold
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS101_TimberScaffold](../../previews/bg-fcs24/thumbnails/FCS101_TimberScaffold.png)](../../previews/bg-fcs24/renders/FCS101_TimberScaffold.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS101_TimberScaffold.png)
 
 Use / purpose: 2m bay deckZ2 with integral ladder and guard rails; published ladder alone not a scaffold
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 TreadwheelHoist
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS102_TreadwheelHoist](../../previews/bg-fcs24/thumbnails/FCS102_TreadwheelHoist.png)](../../previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png)
 
 Use / purpose: Grounded frame, treadwheel, boom and hanging stone sling; loose pulley not complete hoist
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 UnfinishedMasonry
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS103_UnfinishedMasonry](../../previews/bg-fcs24/thumbnails/FCS103_UnfinishedMasonry.png)](../../previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png)
 
 Use / purpose: 2m masonry bay with stepped unlaid top and tooth end; old wall remains existing reference
 
@@ -268,13 +292,17 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
+**Known issue:** Partly unsupported-looking top plates: intent/contact diagnosis pending; image faithfully shows distributed source. Preview faithfully shows the distributed model; image completion is not quality approval.
+
 ## FCS104_MasonsDressingBank
 
 **MasonsDressingBank**
 
 MasonsDressingBank
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS104_MasonsDressingBank](../../previews/bg-fcs24/thumbnails/FCS104_MasonsDressingBank.png)](../../previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png)
 
 Use / purpose: Stone dressing bank with ashlar block and wedges; generic workbench not newly counted independent
 
@@ -296,7 +324,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 RoadGatehouse
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS105_RoadGatehouse](../../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png)](../../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png)
 
 Use / purpose: 6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program
 
@@ -318,7 +348,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 WatchKiosk
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCS106_WatchKiosk](../../previews/bg-fcs24/thumbnails/FCS106_WatchKiosk.png)](../../previews/bg-fcs24/renders/FCS106_WatchKiosk.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCS106_WatchKiosk.png)
 
 Use / purpose: 2m guard booth with open door/window, bench and pitched roof; not barn/wine facility
 
@@ -340,7 +372,9 @@ Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
 ConstructionSite
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCSV01_ConstructionSite](../../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png)](../../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
 
 Use / purpose: Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.
 
@@ -362,7 +396,9 @@ Source details: [Catalogue 1](../../catalog/city_scenes_quality_v3.md) · [Catal
 
 RoadEntrance
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![FCSV02_RoadEntrance](../../previews/bg-fcs24/thumbnails/FCSV02_RoadEntrance.png)](../../previews/bg-fcs24/renders/FCSV02_RoadEntrance.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/FCSV02_RoadEntrance.png)
 
 Use / purpose: Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.
 

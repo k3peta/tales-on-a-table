@@ -26,7 +26,9 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
-**Quality30:** Repair remains held for publication scan review, no final ZIP; no credential exposure established. [Details](../material_variants_ws019_028.md).
+**Historical Quality30 hold:** Repair remains held for publication scan review, no final ZIP; no credential exposure established. [Details](../material_variants_ws019_028.md).
+
+[WS021 new final-ZIP revision](../ws021_scan_resolution.md), public identity confirmation pending.
 
 ## WS_022
 
@@ -254,6 +256,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality31:** Zero-area cleanup and UV added to6 glass panes; original flame emission retained. [Details](../material_variants_ws029_038.md).
+
 ## WS_032
 
 **Serpentine paperweight**
@@ -342,6 +346,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality31:** 27 constant-color mineral meshes lack UV; future texture mapping limitation, no visual defect inferred. [Details](../material_variants_ws029_038.md).
+
 ## WS_036
 
 **Open leather document portfolio**
@@ -363,6 +369,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality31:** Zero-area cleanup revision; blue variant uses repaired baseline, loose ties retained. [Details](../material_variants_ws029_038.md).
 
 ## WS_037
 
@@ -386,6 +394,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality31:** Zero-area cleanup and UV added to3 objects; weighing untested. [Details](../material_variants_ws029_038.md).
+
 ## WS_038
 
 **Scroll sorting carousel**
@@ -407,6 +417,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality31:** Zero-area cleanup and UV added to33 objects; rotation/collision untested. [Details](../material_variants_ws029_038.md).
 
 ## WS_039
 

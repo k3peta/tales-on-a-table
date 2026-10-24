@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 905,
-      "preview_not_mapped": 103,
+      "id_mapped_preview": 929,
+      "preview_not_mapped": 79,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 131,
-      "id_mapped_preview": 131,
+      "records": 132,
+      "id_mapped_preview": 132,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 131,
-      "formats_known": 131,
+      "purpose_en_present": 132,
+      "formats_known": 132,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -12123,7 +12123,14 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Repair remains held for publication scan review, no final ZIP; no credential exposure established."
+      "known_issue": "Historical scan hold: pixel-identical recompressed revision passed strict final guard; public identity confirmation pending.",
+      "revision_history": [
+        {
+          "id": "WS_021__repair",
+          "catalog": "catalog/ws021_scan_resolution.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ]
     },
     {
       "id": "WS_022",
@@ -12406,7 +12413,14 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_029__repair",
+          "catalog": "catalog/material_variants_ws029_038.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ]
     },
     {
       "id": "WS_030",
@@ -12472,7 +12486,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_031__repair",
+          "catalog": "catalog/material_variants_ws029_038.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup and UV added to6 glass panes; original flame emission retained."
     },
     {
       "id": "WS_032",
@@ -12604,7 +12626,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "27 constant-color mineral meshes lack UV; future texture mapping limitation, no visual defect inferred."
     },
     {
       "id": "WS_036",
@@ -12637,7 +12660,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_036__repair",
+          "catalog": "catalog/material_variants_ws029_038.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup revision; blue variant uses repaired baseline, loose ties retained."
     },
     {
       "id": "WS_037",
@@ -12670,7 +12701,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_037__repair",
+          "catalog": "catalog/material_variants_ws029_038.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup and UV added to3 objects; weighing untested."
     },
     {
       "id": "WS_038",
@@ -12703,7 +12742,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "WS_038__repair",
+          "catalog": "catalog/material_variants_ws029_038.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "Zero-area cleanup and UV added to33 objects; rotation/collision untested."
     },
     {
       "id": "WS_039",
@@ -32621,8 +32668,8 @@
       "name_ja": "Maize",
       "purpose_en": "Tall stalk with long blade leaves, lateral husked ears and terminal branched tassel.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/BG401_Maize.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32641,7 +32688,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/BG401_Maize.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "BG402_Eggplant",
@@ -32651,8 +32700,8 @@
       "name_ja": "Eggplant",
       "purpose_en": "Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/BG402_Eggplant.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32671,7 +32720,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/BG402_Eggplant.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "BG403_Artichoke",
@@ -32681,8 +32732,8 @@
       "name_ja": "Artichoke",
       "purpose_en": "Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/BG403_Artichoke.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32701,7 +32752,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/BG403_Artichoke.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "BG404_AsparagusShoots",
@@ -32711,8 +32764,8 @@
       "name_ja": "AsparagusShoots",
       "purpose_en": "Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/BG404_AsparagusShoots.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32731,7 +32784,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/BG404_AsparagusShoots.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NR101_FlowstoneApron",
@@ -32741,8 +32796,8 @@
       "name_ja": "FlowstoneApron",
       "purpose_en": "2m wide rock apron. Toe y-.8 at Z0, back y.5 topZ1.6. Matching E/W profile for 2m pitch. Longitudinal folds on curved solid surface. Cave dressing, not a walkable ramp.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NR101_FlowstoneApron.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32761,7 +32816,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NR101_FlowstoneApron.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NR102_ColumnarLedge",
@@ -32771,8 +32828,8 @@
       "name_ja": "ColumnarLedge",
       "purpose_en": "2x1m grounded columnar rock cluster. Polygonal vertical fracture faces with chipped/dished caps. Common baseZ0..0.1. Intended exposed rock dressing; top silhouette does not form a sealed terrain-tile port.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NR102_ColumnarLedge.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32791,7 +32848,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NR102_ColumnarLedge.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP101_BraidedIsland",
@@ -32801,8 +32860,8 @@
       "name_ja": "BraidedIsland",
       "purpose_en": "Local-use candidate: single N/S river split around central dry island then rejoined inside2m.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP101_BraidedIsland.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32821,7 +32880,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP101_BraidedIsland.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP102_SteppingCrossing",
@@ -32831,8 +32892,8 @@
       "name_ja": "SteppingCrossing",
       "purpose_en": "Local-use candidate: five grounded stepping stones crossing river, top.075m; water gaps remain. Not tested for walking.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP102_SteppingCrossing.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32851,7 +32912,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP102_SteppingCrossing.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP103_DoubleMouth",
@@ -32861,8 +32924,8 @@
       "name_ja": "DoubleMouth",
       "purpose_en": "Structural variant: N river into S full sea, central sand island makes two outlets.",
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP103_DoubleMouth.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32881,7 +32944,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP103_DoubleMouth.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP104_WetOverhang",
@@ -32891,8 +32956,8 @@
       "name_ja": "WetOverhang",
       "purpose_en": "Structural variant: full sea bed-.19/water-.01 under roof underside.75/top1; N solid land1.",
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP104_WetOverhang.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32911,7 +32976,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP104_WetOverhang.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP105_CliffRiver",
@@ -32921,8 +32988,8 @@
       "name_ja": "CliffRiver",
       "purpose_en": "Structural variant: river bed-.19/water-.01, W bank1 and E bank0. N/S water ports standard; land heights differ on west.",
       "record_kind": "structural_variant",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP105_CliffRiver.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32941,7 +33008,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP105_CliffRiver.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "NP106_RecessedFall",
@@ -32951,8 +33020,8 @@
       "name_ja": "RecessedFall",
       "purpose_en": "Local-use candidate: lower river-.19/- .01 and upper bed1.31/water1.49, banks1.5. Behind water curtain lower cavity has ceiling1.05, open side. Not a human passage guarantee.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/NP106_RecessedFall.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -32971,7 +33040,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/NP106_RecessedFall.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "CD101_CeilingPendants",
@@ -32981,8 +33052,8 @@
       "name_ja": "CeilingPendants",
       "purpose_en": "Ceiling mineral pendants. Anchor origin on ceiling plane; place at Z0.75 for a cave ceiling0.75. Upper0.04m embeds into roof. Lowest local Z-0.465.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/CD101_CeilingPendants.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33001,7 +33072,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/CD101_CeilingPendants.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "CD102_FoldedCurtain",
@@ -33011,8 +33084,8 @@
       "name_ja": "FoldedCurtain",
       "purpose_en": "Folded cave curtain. Ceiling anchor origin; place at Y0.65 Z0.75 in a2m room with north inner wallY0.8. Upper0.04m embeds into roof.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/CD102_FoldedCurtain.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33031,7 +33104,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/CD102_FoldedCurtain.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "CD103_RimstonePools",
@@ -33041,8 +33116,8 @@
       "name_ja": "RimstonePools",
       "purpose_en": "Closed rimstone pools. Floor anchor originZ0. Local static water levels0.27,0.17,0.07m. Not compatible with standard river waterZ-0.01 without deliberate separate basin placement.",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/CD103_RimstonePools.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33061,7 +33136,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/CD103_RimstonePools.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "MF101_DrainedMudflat",
@@ -33071,8 +33148,8 @@
       "name_ja": "DrainedMudflat",
       "purpose_en": "Broad dry mudflat with narrow branching drainage on standard beach edges; fixed water only",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/MF101_DrainedMudflat.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33091,7 +33168,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/MF101_DrainedMudflat.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCS101_TimberScaffold",
@@ -33101,8 +33180,8 @@
       "name_ja": "TimberScaffold",
       "purpose_en": "2m bay deckZ2 with integral ladder and guard rails; published ladder alone not a scaffold",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS101_TimberScaffold.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33121,7 +33200,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS101_TimberScaffold.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCS102_TreadwheelHoist",
@@ -33131,8 +33212,8 @@
       "name_ja": "TreadwheelHoist",
       "purpose_en": "Grounded frame, treadwheel, boom and hanging stone sling; loose pulley not complete hoist",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS102_TreadwheelHoist.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33151,7 +33232,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCS103_UnfinishedMasonry",
@@ -33161,8 +33244,8 @@
       "name_ja": "UnfinishedMasonry",
       "purpose_en": "2m masonry bay with stepped unlaid top and tooth end; old wall remains existing reference",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS103_UnfinishedMasonry.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33181,7 +33264,10 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json",
+      "known_issue": "Partly unsupported-looking top plates: intent/contact diagnosis pending; image faithfully shows distributed source."
     },
     {
       "id": "FCS104_MasonsDressingBank",
@@ -33191,8 +33277,8 @@
       "name_ja": "MasonsDressingBank",
       "purpose_en": "Stone dressing bank with ashlar block and wedges; generic workbench not newly counted independent",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS104_MasonsDressingBank.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33211,7 +33297,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCS105_RoadGatehouse",
@@ -33221,8 +33309,8 @@
       "name_ja": "RoadGatehouse",
       "purpose_en": "6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33241,7 +33329,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS105_RoadGatehouse.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCS106_WatchKiosk",
@@ -33251,8 +33341,8 @@
       "name_ja": "WatchKiosk",
       "purpose_en": "2m guard booth with open door/window, bench and pitched roof; not barn/wine facility",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCS106_WatchKiosk.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33271,7 +33361,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCS106_WatchKiosk.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCSV01_ConstructionSite",
@@ -33281,8 +33373,8 @@
       "name_ja": "ConstructionSite",
       "purpose_en": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33302,7 +33394,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCSV01_ConstructionSite.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "FCSV02_RoadEntrance",
@@ -33312,8 +33406,8 @@
       "name_ja": "RoadEntrance",
       "purpose_en": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/bg-fcs24/thumbnails/FCSV02_RoadEntrance.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -33332,7 +33426,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/bg-fcs24/renders/FCSV02_RoadEntrance.png",
+      "image_manifest": "previews/bg-fcs24/manifest.json"
     },
     {
       "id": "HCV101",
@@ -39865,6 +39961,39 @@
       },
       "geometry_revision": "original",
       "uv_revision": "original"
+    },
+    {
+      "id": "WS_036__color_blue",
+      "kind": "variant",
+      "base_id": "WS_036",
+      "name_en": "Open leather document portfolio",
+      "name_ja": "開いた革の資料挟み",
+      "purpose_en": "Blue leather texture on WS036 cleaned geometry baseline; same positive surface and retained UV as repair. Original paper/ink/strings and material properties unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-ws029-038-v1/WS_036__color_blue_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_ws029_038.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-ws029-038-v1/WS_036__color_blue_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "WS_036__repair",
+      "uv_revision": "WS_036__repair retained original positive-surface UV"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

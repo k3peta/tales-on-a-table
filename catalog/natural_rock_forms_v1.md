@@ -53,3 +53,23 @@ ColumnarLedge
 ![natural-rock-forms-v1 — flowstone_seam](../previews/catalog-20261024/natural-rock-forms-v1-flowstone_seam.jpg)
 
 ![natural-rock-forms-v1 — rock_assemblies](../previews/catalog-20261024/natural-rock-forms-v1-rock_assemblies.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### NR101_FlowstoneApron — FlowstoneApron
+
+FlowstoneApron
+
+[![NR101_FlowstoneApron](../previews/bg-fcs24/thumbnails/NR101_FlowstoneApron.png)](../previews/bg-fcs24/renders/NR101_FlowstoneApron.png)
+
+[Full image](../previews/bg-fcs24/renders/NR101_FlowstoneApron.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip)
+
+### NR102_ColumnarLedge — ColumnarLedge
+
+ColumnarLedge
+
+[![NR102_ColumnarLedge](../previews/bg-fcs24/thumbnails/NR102_ColumnarLedge.png)](../previews/bg-fcs24/renders/NR102_ColumnarLedge.png)
+
+[Full image](../previews/bg-fcs24/renders/NR102_ColumnarLedge.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip)

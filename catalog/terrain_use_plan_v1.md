@@ -127,3 +127,55 @@ RecessedFall
 ![terrain-use-plan-v1 — six_connections](../previews/catalog-20261024/terrain-use-plan-v1-six_connections.jpg)
 
 ![terrain-use-plan-v1 — wet_overhang_and_fall](../previews/catalog-20261024/terrain-use-plan-v1-wet_overhang_and_fall.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### NP101_BraidedIsland — BraidedIsland
+
+BraidedIsland
+
+[![NP101_BraidedIsland](../previews/bg-fcs24/thumbnails/NP101_BraidedIsland.png)](../previews/bg-fcs24/renders/NP101_BraidedIsland.png)
+
+[Full image](../previews/bg-fcs24/renders/NP101_BraidedIsland.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip)
+
+### NP102_SteppingCrossing — SteppingCrossing
+
+SteppingCrossing
+
+[![NP102_SteppingCrossing](../previews/bg-fcs24/thumbnails/NP102_SteppingCrossing.png)](../previews/bg-fcs24/renders/NP102_SteppingCrossing.png)
+
+[Full image](../previews/bg-fcs24/renders/NP102_SteppingCrossing.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip)
+
+### NP103_DoubleMouth — DoubleMouth
+
+DoubleMouth
+
+[![NP103_DoubleMouth](../previews/bg-fcs24/thumbnails/NP103_DoubleMouth.png)](../previews/bg-fcs24/renders/NP103_DoubleMouth.png)
+
+[Full image](../previews/bg-fcs24/renders/NP103_DoubleMouth.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip)
+
+### NP104_WetOverhang — WetOverhang
+
+WetOverhang
+
+[![NP104_WetOverhang](../previews/bg-fcs24/thumbnails/NP104_WetOverhang.png)](../previews/bg-fcs24/renders/NP104_WetOverhang.png)
+
+[Full image](../previews/bg-fcs24/renders/NP104_WetOverhang.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip)
+
+### NP105_CliffRiver — CliffRiver
+
+CliffRiver
+
+[![NP105_CliffRiver](../previews/bg-fcs24/thumbnails/NP105_CliffRiver.png)](../previews/bg-fcs24/renders/NP105_CliffRiver.png)
+
+[Full image](../previews/bg-fcs24/renders/NP105_CliffRiver.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip)
+
+### NP106_RecessedFall — RecessedFall
+
+RecessedFall
+
+[![NP106_RecessedFall](../previews/bg-fcs24/thumbnails/NP106_RecessedFall.png)](../previews/bg-fcs24/renders/NP106_RecessedFall.png)
+
+[Full image](../previews/bg-fcs24/renders/NP106_RecessedFall.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip)

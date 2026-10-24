@@ -186,3 +186,73 @@ Pasture slope bay
 [![RS201](../previews/ud1102-rg24/thumbnails/RS201.png)](../previews/ud1102-rg24/renders/RS201.png)
 
 [Full image](../previews/ud1102-rg24/renders/RS201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/rustic-slope-connections-v2/zips/RS201_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### FCS101_TimberScaffold — TimberScaffold
+
+TimberScaffold
+
+[![FCS101_TimberScaffold](../previews/bg-fcs24/thumbnails/FCS101_TimberScaffold.png)](../previews/bg-fcs24/renders/FCS101_TimberScaffold.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS101_TimberScaffold.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip)
+
+### FCS102_TreadwheelHoist — TreadwheelHoist
+
+TreadwheelHoist
+
+[![FCS102_TreadwheelHoist](../previews/bg-fcs24/thumbnails/FCS102_TreadwheelHoist.png)](../previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip)
+
+**Known issue:** Partly unsupported-looking top plates: intent/contact diagnosis pending; image faithfully shows distributed source.
+
+### FCS103_UnfinishedMasonry — UnfinishedMasonry
+
+UnfinishedMasonry
+
+[![FCS103_UnfinishedMasonry](../previews/bg-fcs24/thumbnails/FCS103_UnfinishedMasonry.png)](../previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip)
+
+### FCS104_MasonsDressingBank — MasonsDressingBank
+
+MasonsDressingBank
+
+[![FCS104_MasonsDressingBank](../previews/bg-fcs24/thumbnails/FCS104_MasonsDressingBank.png)](../previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip)
+
+### FCS105_RoadGatehouse — RoadGatehouse
+
+RoadGatehouse
+
+[![FCS105_RoadGatehouse](../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png)](../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS105_RoadGatehouse.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip)
+
+### FCS106_WatchKiosk — WatchKiosk
+
+WatchKiosk
+
+[![FCS106_WatchKiosk](../previews/bg-fcs24/thumbnails/FCS106_WatchKiosk.png)](../previews/bg-fcs24/renders/FCS106_WatchKiosk.png)
+
+[Full image](../previews/bg-fcs24/renders/FCS106_WatchKiosk.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip)
+
+### FCSV01_ConstructionSite — ConstructionSite
+
+ConstructionSite
+
+[![FCSV01_ConstructionSite](../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png)](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png)
+
+[Full image](../previews/bg-fcs24/renders/FCSV01_ConstructionSite.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip)
+
+### FCSV02_RoadEntrance — RoadEntrance
+
+RoadEntrance
+
+[![FCSV02_RoadEntrance](../previews/bg-fcs24/thumbnails/FCSV02_RoadEntrance.png)](../previews/bg-fcs24/renders/FCSV02_RoadEntrance.png)
+
+[Full image](../previews/bg-fcs24/renders/FCSV02_RoadEntrance.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip)

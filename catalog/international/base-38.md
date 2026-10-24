@@ -404,7 +404,9 @@ Source details: [Catalogue 1](../../catalog/tree_guard_v1.md)
 
 Maize
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BG401_Maize](../../previews/bg-fcs24/thumbnails/BG401_Maize.png)](../../previews/bg-fcs24/renders/BG401_Maize.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/BG401_Maize.png)
 
 Use / purpose: Tall stalk with long blade leaves, lateral husked ears and terminal branched tassel.
 
@@ -426,7 +428,9 @@ Source details: [Catalogue 1](../../catalog/botanical_field_growth_v1.md)
 
 Eggplant
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BG402_Eggplant](../../previews/bg-fcs24/thumbnails/BG402_Eggplant.png)](../../previews/bg-fcs24/renders/BG402_Eggplant.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/BG402_Eggplant.png)
 
 Use / purpose: Branching vegetable shrub with broad leaves and hanging elongated purple fruit under green calyx.
 
@@ -448,7 +452,9 @@ Source details: [Catalogue 1](../../catalog/botanical_field_growth_v1.md)
 
 Artichoke
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BG403_Artichoke](../../previews/bg-fcs24/thumbnails/BG403_Artichoke.png)](../../previews/bg-fcs24/renders/BG403_Artichoke.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/BG403_Artichoke.png)
 
 Use / purpose: Deeply cut basal leaves and three stalked heads built from overlapping pointed bracts.
 
@@ -470,7 +476,9 @@ Source details: [Catalogue 1](../../catalog/botanical_field_growth_v1.md)
 
 AsparagusShoots
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![BG404_AsparagusShoots](../../previews/bg-fcs24/thumbnails/BG404_AsparagusShoots.png)](../../previews/bg-fcs24/renders/BG404_AsparagusShoots.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/BG404_AsparagusShoots.png)
 
 Use / purpose: Seven emerging tapering spears with small overlapping tip scales; spring shoot stage, not mature fern foliage.
 
@@ -492,7 +500,9 @@ Source details: [Catalogue 1](../../catalog/botanical_field_growth_v1.md)
 
 FlowstoneApron
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NR101_FlowstoneApron](../../previews/bg-fcs24/thumbnails/NR101_FlowstoneApron.png)](../../previews/bg-fcs24/renders/NR101_FlowstoneApron.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NR101_FlowstoneApron.png)
 
 Use / purpose: 2m wide rock apron. Toe y-.8 at Z0, back y.5 topZ1.6. Matching E/W profile for 2m pitch. Longitudinal folds on curved solid surface. Cave dressing, not a walkable ramp.
 
@@ -514,7 +524,9 @@ Source details: [Catalogue 1](../../catalog/natural_rock_forms_v1.md)
 
 ColumnarLedge
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NR102_ColumnarLedge](../../previews/bg-fcs24/thumbnails/NR102_ColumnarLedge.png)](../../previews/bg-fcs24/renders/NR102_ColumnarLedge.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NR102_ColumnarLedge.png)
 
 Use / purpose: 2x1m grounded columnar rock cluster. Polygonal vertical fracture faces with chipped/dished caps. Common baseZ0..0.1. Intended exposed rock dressing; top silhouette does not form a sealed terrain-tile port.
 
@@ -536,7 +548,9 @@ Source details: [Catalogue 1](../../catalog/natural_rock_forms_v1.md)
 
 BraidedIsland
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![NP101_BraidedIsland](../../previews/bg-fcs24/thumbnails/NP101_BraidedIsland.png)](../../previews/bg-fcs24/renders/NP101_BraidedIsland.png)
+
+[Full-size image](../../previews/bg-fcs24/renders/NP101_BraidedIsland.png)
 
 Use / purpose: Local-use candidate: single N/S river split around central dry island then rejoined inside2m.
 

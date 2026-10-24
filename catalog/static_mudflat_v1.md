@@ -37,3 +37,15 @@ DrainedMudflat
 ![static-mudflat-v1 — low_waterline](../previews/catalog-20261024/static-mudflat-v1-low_waterline.jpg)
 
 ![static-mudflat-v1 — drainage_close](../previews/catalog-20261024/static-mudflat-v1-drainage_close.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### MF101_DrainedMudflat — DrainedMudflat
+
+DrainedMudflat
+
+[![MF101_DrainedMudflat](../previews/bg-fcs24/thumbnails/MF101_DrainedMudflat.png)](../previews/bg-fcs24/renders/MF101_DrainedMudflat.png)
+
+[Full image](../previews/bg-fcs24/renders/MF101_DrainedMudflat.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip)

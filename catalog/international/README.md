@@ -1,8 +1,8 @@
 # Browse models / 素材を探す
 
-Current image mapping: **905/1008 base records;103 missing.131/131 variants pictured.** FW19 images show corrected revisions, not originals.
+Current image mapping: **929/1008 base records;79 missing.132/132 variants pictured.** FW19 images show corrected revisions, not originals.
 
-**1008 distribution records +131 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
+**1008 distribution records +132 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
 [Browse by category](CATEGORIES.md) · [Coverage, gaps and priorities](COVERAGE.md) · [Machine-readable ID metadata](records.json) · [License scope](../../LICENSE.md)
 
@@ -120,3 +120,9 @@ UD1102 through RG101 (24 IDs) now include individual full-size images and thumbn
 Image batch12 accepted24 of24; no held images in this batch. Remaining103 unpictured base records are tracked separately.
 
 [Quality30 variants](variant-06.md):131 separately counted material variants; base1008 unchanged.
+
+BG through FCS (24 IDs) now include individual full-size images and thumbnails. Base ID image mappings: 929/1008; remaining79. Material variants:132/132. [Coverage](COVERAGE.md).
+
+Image batch13 accepted24 of24; no held images in this batch. Remaining79 unpictured base records are tracked separately.
+
+[Quality31 variants](variant-06.md):132 separately counted material variants; base1008 unchanged.

@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "WS_029__repair",
+      "base_id": "WS_029",
+      "entity_type": "revision",
+      "zip": "WS_029__repair_CC0.zip",
+      "sha256": "1149c4d31c5f22404154b693a907ebb7aa83fe543a3f6fb8fe5cc7f0255dbcfa",
+      "bytes": 9768002,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_029__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_031__repair",
+      "base_id": "WS_031",
+      "entity_type": "revision",
+      "zip": "WS_031__repair_CC0.zip",
+      "sha256": "968ca84061a18a2a40818498695e2c7f3b53d337f4e21b128a8c89753e008e0b",
+      "bytes": 252654,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_031__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_036__repair",
+      "base_id": "WS_036",
+      "entity_type": "revision",
+      "zip": "WS_036__repair_CC0.zip",
+      "sha256": "2783b4515e8e5a942acfe1ac01836ff6bbd9d6fb36409eef36989e4c7c2e3e9b",
+      "bytes": 193602,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_036__color_blue",
+      "base_id": "WS_036",
+      "entity_type": "material_variant",
+      "zip": "WS_036__color_blue_CC0.zip",
+      "sha256": "fc59b5d03322dc652dbe2b642c5726c58087de102f62750b1a5b23a7a4a4450a",
+      "bytes": 331677,
+      "description": "Blue leather texture on WS036 cleaned geometry baseline; same positive surface and retained UV as repair. Original paper/ink/strings and material properties unchanged.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__color_blue_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_037__repair",
+      "base_id": "WS_037",
+      "entity_type": "revision",
+      "zip": "WS_037__repair_CC0.zip",
+      "sha256": "0b8c6d0981bc3a87278fa114daa145ac32705c936535e92b74f66a232e5177f3",
+      "bytes": 471638,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_037__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "WS_038__repair",
+      "base_id": "WS_038",
+      "entity_type": "revision",
+      "zip": "WS_038__repair_CC0.zip",
+      "sha256": "18f807d0f29b19b43dc1c3e1663e0cb58f53b5cb56edbeed6661e199630a7791",
+      "bytes": 689904,
+      "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_038__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 5
+}

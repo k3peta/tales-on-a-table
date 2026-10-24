@@ -83,3 +83,39 @@ AsparagusShoots
 ![botanical-field-growth-v1 — field_growth](../previews/catalog-20261024/botanical-field-growth-v1-field_growth.jpg)
 
 ![botanical-field-growth-v1 — maize_and_eggplant](../previews/catalog-20261024/botanical-field-growth-v1-maize_and_eggplant.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### BG401_Maize — Maize
+
+Maize
+
+[![BG401_Maize](../previews/bg-fcs24/thumbnails/BG401_Maize.png)](../previews/bg-fcs24/renders/BG401_Maize.png)
+
+[Full image](../previews/bg-fcs24/renders/BG401_Maize.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG401_Maize_CC0.zip)
+
+### BG402_Eggplant — Eggplant
+
+Eggplant
+
+[![BG402_Eggplant](../previews/bg-fcs24/thumbnails/BG402_Eggplant.png)](../previews/bg-fcs24/renders/BG402_Eggplant.png)
+
+[Full image](../previews/bg-fcs24/renders/BG402_Eggplant.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG402_Eggplant_CC0.zip)
+
+### BG403_Artichoke — Artichoke
+
+Artichoke
+
+[![BG403_Artichoke](../previews/bg-fcs24/thumbnails/BG403_Artichoke.png)](../previews/bg-fcs24/renders/BG403_Artichoke.png)
+
+[Full image](../previews/bg-fcs24/renders/BG403_Artichoke.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG403_Artichoke_CC0.zip)
+
+### BG404_AsparagusShoots — AsparagusShoots
+
+AsparagusShoots
+
+[![BG404_AsparagusShoots](../previews/bg-fcs24/thumbnails/BG404_AsparagusShoots.png)](../previews/bg-fcs24/renders/BG404_AsparagusShoots.png)
+
+[Full image](../previews/bg-fcs24/renders/BG404_AsparagusShoots.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG404_AsparagusShoots_CC0.zip)

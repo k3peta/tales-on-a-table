@@ -1,0 +1,702 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "BG401_Maize",
+      "source_zip_sha256": "3db4fa0524ac7aaca6738537eb7803609ea10e93a2ca75e214ec409be267bb6e",
+      "source_glb_sha256": "f960189b5844f86671ccac1133af1fe0959a5dbe4527d2e25eb83dd7bdc3281b",
+      "camera_location": [
+        1.7987115383148193,
+        -2.997004270553589,
+        2.604538679122925
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.772573471069336,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG401_Maize_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/BG401_Maize.png",
+      "image_source_sha256": "ea923407dd350d896361709c652eef05c8aac3b47a05b5637a0b474f2a27e4c4",
+      "image_sha256": "6ce37c8a437705ac275e62bc61a245997bf8edb3a6ce7bb6841d00e776bdafe6",
+      "thumbnail": "previews/bg-fcs24/thumbnails/BG401_Maize.png",
+      "thumbnail_source_sha256": "adad163644e52e378c4a91e637b6d2c1983cced2bc7d2b352be565c5b968d43e",
+      "thumbnail_sha256": "b6baa53546681142c01f826d403ee703f1039726522c1a9bfe9eada76dc37c3d"
+    },
+    {
+      "id": "BG402_Eggplant",
+      "source_zip_sha256": "fe30cb1ce0bf3868163ca52e162faf41f0db3571f5d9ad3a79c7dfb00df213af",
+      "source_glb_sha256": "64131d6bfe5239b51207fd7c7b4df838c86c223de6fc3f25953849e77b08636d",
+      "camera_location": [
+        0.8575470447540283,
+        -1.506211519241333,
+        1.2295475006103516
+      ],
+      "camera_rotation_euler": [
+        1.104056715965271,
+        -1.056333864823955e-08,
+        0.528074324131012
+      ],
+      "camera_ortho_scale": 1.3426413536071777,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG402_Eggplant_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/BG402_Eggplant.png",
+      "image_source_sha256": "dabb49d323180c2562db7d3226d01ba46492a84c0dd93e8755faffaa74be7276",
+      "image_sha256": "7e75949c1207c901a3bf7ca8caf5dd314ae2f080a07c8dd8ed03ec5561be750b",
+      "thumbnail": "previews/bg-fcs24/thumbnails/BG402_Eggplant.png",
+      "thumbnail_source_sha256": "aa4afc1f17a46fa9e934126b5db836945e97f5ec9e0f1b579947d1828d278814",
+      "thumbnail_sha256": "14202f9f6a3a7307ee8cb0b04ebe80183b2b7b29d3cf44ca48930da72c7d2094"
+    },
+    {
+      "id": "BG403_Artichoke",
+      "source_zip_sha256": "b991f3bdd75f6674126ab8d5ce12afa1bffc74c0b4a3721766b96dbf7776cb3d",
+      "source_glb_sha256": "8a9c82db1f3d47ff59185f4955984d3a28a86c2869ab1c04d3d48de11c084af5",
+      "camera_location": [
+        1.130948543548584,
+        -1.939897060394287,
+        1.6635054349899292
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.711861123496419e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 1.8617075681686401,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG403_Artichoke_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/BG403_Artichoke.png",
+      "image_source_sha256": "fbb0208705358960cd5c10acf7e0724420d6f210edb60ffa552fdb137f8aeed4",
+      "image_sha256": "e796893908131386c6ed3dc7b8ae16497cc477b75ef6d0c48cc57ffab55354e6",
+      "thumbnail": "previews/bg-fcs24/thumbnails/BG403_Artichoke.png",
+      "thumbnail_source_sha256": "7436a7424eb1d58a9b64214eb27ec753e80601d3a56178585ab314392dbe0c25",
+      "thumbnail_sha256": "0c5c7a0dc482e05b96f7c1d3e7071ec832c5fd8902449422d1a22a586892da41"
+    },
+    {
+      "id": "BG404_AsparagusShoots",
+      "source_zip_sha256": "4b9aacb7ac1e40fefcb34d5ea306f5758dbbd537c795800827e92edce4f71e9f",
+      "source_glb_sha256": "072441ab04623ae94617e4ccf9e0a270a358e9b9eb26e92999c7cf3018df156e",
+      "camera_location": [
+        0.567486047744751,
+        -0.9733012914657593,
+        0.8371323943138123
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.8911409378051758,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/botanical-field-growth-v1/BG404_AsparagusShoots_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/BG404_AsparagusShoots.png",
+      "image_source_sha256": "21cd2566120fb02c0c08ea8ce2e78f842756b71cc9bbb35b3bf4ac68b65a121e",
+      "image_sha256": "aa80dd57e7a99bd97bc824ad3a80b34a676276f7ca7316ab8ce44df685b54659",
+      "thumbnail": "previews/bg-fcs24/thumbnails/BG404_AsparagusShoots.png",
+      "thumbnail_source_sha256": "5d5d45a22d9e0c9568c2659cfccc18cc36034f7c505d05f8088365330fa31e56",
+      "thumbnail_sha256": "f2d2d4a0e7368382852d77868a44527e89733795d196173bd727edf667ea41ce"
+    },
+    {
+      "id": "CD101_CeilingPendants",
+      "source_zip_sha256": "f36fe5b2dfca427633835752ae853b0fa1f83a67971d4499a9430140aeab0701",
+      "source_glb_sha256": "3f28b011d76c9d57a3228ce6f97e8cccd9a98b4108ab4975ecab29437aed4a9e",
+      "camera_location": [
+        1.5959999561309814,
+        -2.735999822616577,
+        1.3834999799728394
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.507999897003174,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/CD101_CeilingPendants.png",
+      "image_source_sha256": "da56846a3aa9559dcf7f5e8c13b7d443167c7b9a405357256eb92a077fa56431",
+      "image_sha256": "45a5ed38ddb48c37f740600c0eab541492c429f44fbbbb21f7b811544e254348",
+      "thumbnail": "previews/bg-fcs24/thumbnails/CD101_CeilingPendants.png",
+      "thumbnail_source_sha256": "e94f01196f4620a66a6bf14164d08b7730dd2fc0b0c111346a040079a5bd00fc",
+      "thumbnail_sha256": "ea77d81f43ab773836c52c63ee8a900025f94bbd0ba4be9e25e58f209237aab1"
+    },
+    {
+      "id": "CD102_FoldedCurtain",
+      "source_zip_sha256": "aae0c55156498c8b7788538bbbd2dcff1dc8fd3b4c477fbf6f9d14e7afe08710",
+      "source_glb_sha256": "bcb54ecdc40bae23c0089efd204c57bfef8751c766284dae053236fcfa353ba0",
+      "camera_location": [
+        1.5749999284744263,
+        -2.6999998092651367,
+        1.3200007677078247
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        5.279679626823963e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.4749999046325684,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/CD102_FoldedCurtain.png",
+      "image_source_sha256": "8939443f24a53f83c9934eee94e6972f6132a8fef4bbfc221090bba429b7ea26",
+      "image_sha256": "763dfabf5ece59393f4cba829cf0d6302086ba89ddca6002d9bb94ffd0407667",
+      "thumbnail": "previews/bg-fcs24/thumbnails/CD102_FoldedCurtain.png",
+      "thumbnail_source_sha256": "f4cad792b14530591b9b670dc3b6c4f156772a8a3bc32ac39968d4c888f38caa",
+      "thumbnail_sha256": "70cd1b1eef0047f873c3f19d16899231330f3cc4edab7e78335c379fa9550859"
+    },
+    {
+      "id": "CD103_RimstonePools",
+      "source_zip_sha256": "c9586959660d9d4e1a5a31298f7fa025e2d1de5c9cfc5645a013f194f77abf0c",
+      "source_glb_sha256": "26b0f6fbda160ddf11f80a7658c5e69e8b84cd2822861a25dea761b18985e79a",
+      "camera_location": [
+        1.7920969724655151,
+        -2.593392848968506,
+        3.9238345623016357
+      ],
+      "camera_rotation_euler": [
+        0.6941074728965759,
+        2.4436159762331044e-08,
+        0.6107259392738342
+      ],
+      "camera_ortho_scale": 2.644786834716797,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/CD103_RimstonePools.png",
+      "image_source_sha256": "000e031e94ab654d8ec7684f36dcc4d0113bffe1c1184ecdc42afd70fadfe3ec",
+      "image_sha256": "1e156cbb853c4863bed41dc965d778dffd86c83af1136d40476c063cba660791",
+      "thumbnail": "previews/bg-fcs24/thumbnails/CD103_RimstonePools.png",
+      "thumbnail_source_sha256": "f2c91bd26448ccd385761199643def9cc3c8d3f531c10a235c6c604c753b9528",
+      "thumbnail_sha256": "52c557003b32f779cf4e457f7f57d7b05cb7a04d4cf792ea45a88466dd299067"
+    },
+    {
+      "id": "FCS101_TimberScaffold",
+      "source_zip_sha256": "8522c29dcaaaec21a9d84ac921ad5ba6162c771cf11c17afe14c2ec3e3ab2ac8",
+      "source_glb_sha256": "acc0bd1a9e055c99811984297f0c6ab581059be3ae04e02bf546874b781d8c3d",
+      "camera_location": [
+        3.003000020980835,
+        -5.3376078605651855,
+        4.433000087738037
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.0119699684073566e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.719000339508057,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS101_TimberScaffold_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS101_TimberScaffold.png",
+      "image_source_sha256": "81006d03705f63b5438c862f75e0e147565dd4138f6399b37e5d313436ef2a86",
+      "image_sha256": "677e0b43f9e9fc67be71574d165cbd444c046cc86082ee418b98fead044478c1",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS101_TimberScaffold.png",
+      "thumbnail_source_sha256": "0ef39f6cd18827e62e6de41cb20be4300a388c92938ecd31f416708cd500769d",
+      "thumbnail_sha256": "9ec966a143df507854a3ba7e19a5849cccc6c8ae375463023c276bd0b71c7281"
+    },
+    {
+      "id": "FCS102_TreadwheelHoist",
+      "source_zip_sha256": "f31b61b6fb029baca5b89552abc61f594288a52fbe559d86f9e7568955d1bafd",
+      "source_glb_sha256": "65f40955f2a81825ba17f10d6e512d0b8d656d192ea7c1e09ca17a3eb70583a3",
+      "camera_location": [
+        5.120212078094482,
+        -7.750220775604248,
+        6.673801422119141
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        4.215976545651756e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 7.104369163513184,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS102_TreadwheelHoist_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS102_TreadwheelHoist.png",
+      "image_source_sha256": "3f2bad9f8064acc7cd2f9679b27bdc09529ee27d95ef960daa22a38bcc17dd6e",
+      "image_sha256": "0ffbc1f8c7e796e759caa1270b31cbd8aa8ebb5b82f1fc4c8c771ee0f3bcbbba",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS102_TreadwheelHoist.png",
+      "thumbnail_source_sha256": "30ead405093ddb66ff65767c03ebc056cdd8f1320ce82030d1ea41fa75728e5d",
+      "thumbnail_sha256": "6608c92934e23881d2a3d85ede789d4fd4085e659f3b547dd9799f2c6201f9ed"
+    },
+    {
+      "id": "FCS103_UnfinishedMasonry",
+      "source_zip_sha256": "08cb33d3d55cca079dce5f0e35636927a22ee701419f6d5426fcf1e4233e564b",
+      "source_glb_sha256": "f83b3a78bf31ec4fcf832f6190c5308e74f234ce00b77785d07b4a1da2547d0c",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        3.098749876022339
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS103_UnfinishedMasonry_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS103_UnfinishedMasonry.png",
+      "image_source_sha256": "ba03b56e3fa63186c1df42c08a91b8b7e628df91112f4a064c778bc331a88f27",
+      "image_sha256": "a04b6e39a0440bb19b1052f7982e9d94ec67fff0f89ea9e4f57be9ef9f942a90",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS103_UnfinishedMasonry.png",
+      "thumbnail_source_sha256": "9b6e3b474d6fbe16d1ea319f441f92e94717906a26996d87612876cb41fa7d95",
+      "thumbnail_sha256": "bc7366c461e9058c1ef8df687706c794cdf071c9fe5b02d23fad241a7cd28a9d"
+    },
+    {
+      "id": "FCS104_MasonsDressingBank",
+      "source_zip_sha256": "220c68d5b69839442c9cbb983ef3191f36064ef9ad0d772972d9c6e4bf3b4a70",
+      "source_glb_sha256": "d1a2ed1013d5a6bf0fb2f4363fdfe669e6007e4dc1dae77339a4e602f36ed2dd",
+      "camera_location": [
+        1.8899998664855957,
+        -3.1324996948242188,
+        2.5399999618530273
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.9700000286102295,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS104_MasonsDressingBank_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS104_MasonsDressingBank.png",
+      "image_source_sha256": "b08b7f1e441e7fc30f883b3787bc6170a1b1282d9ba4d74ae846021de718da3c",
+      "image_sha256": "dd13265ea22485e88741f433c2af993f3436072d46a6583552f115f3c545a565",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS104_MasonsDressingBank.png",
+      "thumbnail_source_sha256": "55359caeb042195384be5a035834f9eaeb3b4aec362684811cdbd85199429427",
+      "thumbnail_sha256": "f53de50a63258df950ad6e0ee074e452f8f951a0e09dace34504d6044174c8ce"
+    },
+    {
+      "id": "FCS105_RoadGatehouse",
+      "source_zip_sha256": "7e901ced09d6325454169154b35024b5ca0492fe5644c45494c6cd6f9e003990",
+      "source_glb_sha256": "c122df357f637d30a06ef700431f3b07b9fd1a40697b28fb8c06a4685386fe07",
+      "camera_location": [
+        6.71999979019165,
+        -11.519999504089355,
+        9.664999961853027
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 10.5600004196167,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS105_RoadGatehouse.png",
+      "image_source_sha256": "e41dba42e91a30e06a03b1973e0d762327953f087ebc4c59a9a0d7651d5a9df1",
+      "image_sha256": "5922989d1c699812cca1be79ba351bef10799fe5b3e7410d2bcdabae5cf0f710",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png",
+      "thumbnail_source_sha256": "f34eb7ff5d3dcf1756b352cb839c6c321ab35ee1c885d76b79910fda38e298a5",
+      "thumbnail_sha256": "054f79bd405b8124d49a82d5beb1a26ee34c1b272bc04ba9b3e04c267bf067ed"
+    },
+    {
+      "id": "FCS106_WatchKiosk",
+      "source_zip_sha256": "ef30983eb8e366a083a9650ed62a814a49b0e235280146b895117e8c5daed262",
+      "source_glb_sha256": "257f7a6fc47f14d9a62cf94997d2945905a6fc1e392b69b51141b8b8c3c1e970",
+      "camera_location": [
+        3.3494999408721924,
+        -5.742000102996826,
+        4.944499969482422
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 5.263500213623047,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS106_WatchKiosk_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCS106_WatchKiosk.png",
+      "image_source_sha256": "efa0d2db0b1e036bb7b3d91a85579193d4abb5a5153ae76f86ea60c69c84933c",
+      "image_sha256": "afa17d4a7585604afe1e5f1738e06391e240d76544bb349e6ff64566b81960d5",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCS106_WatchKiosk.png",
+      "thumbnail_source_sha256": "9fa773191b94be0a6a36c3209aec0972764eb44740fac828f57475fcb167f4e7",
+      "thumbnail_sha256": "2668f5010434ebb0b839bac1de27bfc413024334af1096e5ce09949880c6c124"
+    },
+    {
+      "id": "FCSV01_ConstructionSite",
+      "source_zip_sha256": "50a04d77e8483badafc47ca4aa33c2682151d59917dbd0565245070c65462420",
+      "source_glb_sha256": "0741f9bf88312a5fa8a778f162e0d927196a08fbfb49ea61b7730c6e9d87c020",
+      "camera_location": [
+        9.449999809265137,
+        -16.19999885559082,
+        11.38283920288086
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 14.850000381469727,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCSV01_ConstructionSite.png",
+      "image_source_sha256": "e75220700c5b568fdc7678959af184dd686aeb74aa1be5df544f2ad337a487fe",
+      "image_sha256": "14d1382163380940b191ee32e93362ae7c0b491c998f5b18227bbaf6beffe6ab",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png",
+      "thumbnail_source_sha256": "0147909e7eae97efd0a8869118baab5d39ceb8a5ae873fe35f7e3a3e7b7e9c59",
+      "thumbnail_sha256": "8356293a7a105e27fddda42a117188fbaf72316883a1620c9851ff233dbffe09"
+    },
+    {
+      "id": "FCSV02_RoadEntrance",
+      "source_zip_sha256": "ca58b779ff7c36d58dc29e61a5e71be993153324bd589f6d6bf778e7bd62d05e",
+      "source_glb_sha256": "17eec209267dcf768d602763c410b00275ccecb7ee947cd0b198330929b5ccae",
+      "camera_location": [
+        11.549999237060547,
+        -19.799999237060547,
+        14.524999618530273
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 18.149999618530273,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV02_RoadEntrance_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/FCSV02_RoadEntrance.png",
+      "image_source_sha256": "0ea0e84b1d23f760bc79d4179fd9dda7ba8295316578f15c91a686d8dcc97860",
+      "image_sha256": "19402431bab58d83f2a7d724578cf170509c3bdc1c5a6c10e55c57f2b7f5fdd5",
+      "thumbnail": "previews/bg-fcs24/thumbnails/FCSV02_RoadEntrance.png",
+      "thumbnail_source_sha256": "8809519a9f6008af75dc3bbc667c0e238785ecc3042d138e7b7544a6010d983a",
+      "thumbnail_sha256": "23fb96cd91ae1c56d7ce4ff19899ad2c76c898db4f0509f274c8d20aace35b5f"
+    },
+    {
+      "id": "MF101_DrainedMudflat",
+      "source_zip_sha256": "0fe1188ca57f54506c7db8f9509df6a2faff09504a7e044fea9223afc37abd81",
+      "source_glb_sha256": "799514190323c1a8dac535fad08691bb628fb81a3c848e54135b6a48ee2597cb",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.619999885559082
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/static-mudflat-v1/MF101_DrainedMudflat_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/MF101_DrainedMudflat.png",
+      "image_source_sha256": "ba9aa99dca965fc0d26cb0238c3480fb40585569813587c31287419851ff2ab1",
+      "image_sha256": "cc939fba412d6b0100ea463184923e6c7090a99eb399c05a2e1a07e2369fa0d3",
+      "thumbnail": "previews/bg-fcs24/thumbnails/MF101_DrainedMudflat.png",
+      "thumbnail_source_sha256": "98abc10ebbd68b30143638e709901c3f95faf1c8706e5a3984cb8286e62dc671",
+      "thumbnail_sha256": "dbd84e24b00a137d8fc874637beb417a9d788a4faa1b96f7f4a776b757bd5278"
+    },
+    {
+      "id": "NP101_BraidedIsland",
+      "source_zip_sha256": "5e16a99943d2b34122161bd0172605dbac81f6864914c131d292f30fdf5f0a61",
+      "source_glb_sha256": "3c5d74bcd8d42e0b9e83d4b01798124af86b8ffee51b67c52a219a806949089d",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6138415336608887
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP101_BraidedIsland_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP101_BraidedIsland.png",
+      "image_source_sha256": "74bf28db02aa76ca9477db7e4736331c128f26d8cfd0141ac0cbb45cb8e77498",
+      "image_sha256": "122964ca3d87cb22753288a67ffe645b14c8c6facf8de5e41524dde61ce2e97d",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP101_BraidedIsland.png",
+      "thumbnail_source_sha256": "39a3b58d90726c0e33a13362a5f02a0373e13d34c7188373e511b839fb600b98",
+      "thumbnail_sha256": "e182ab1195503c91a0535d3903e148d2b1101b78478cd092f4a61236a2f4aa6e"
+    },
+    {
+      "id": "NP102_SteppingCrossing",
+      "source_zip_sha256": "ca5a70358b4a0329feb21c27a2ce21aa9dc7907fcd179800d5e5bdb6ee8ed20d",
+      "source_glb_sha256": "4619d911e21c787894fa0e37afbe5c660a097698a239bd95dd0be3cb86a27623",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.647499918937683
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP102_SteppingCrossing_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP102_SteppingCrossing.png",
+      "image_source_sha256": "82dac3f70971ac68372a4d3bc0c090ae0cdcde47cb2febd56604d69f51f35c5c",
+      "image_sha256": "ede01b795d58c2fb0f9db48612e80172197e720577abad8660bda29b8d51a161",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP102_SteppingCrossing.png",
+      "thumbnail_source_sha256": "7a1ad48506a556c0a1403b4486fb74044d3a9a17ca91ec5dbb778ad82c1fe682",
+      "thumbnail_sha256": "8b97cea8623942f39b8a4a2037a843793e221ff5ac405eb92ed60166a9655adb"
+    },
+    {
+      "id": "NP103_DoubleMouth",
+      "source_zip_sha256": "704a16d1cf329015f9407d507d8d71a84769540954a0092a65b306ad6f8182e9",
+      "source_glb_sha256": "4d205f2d29ce3041d83942e2b7f9d5fab9d23958f987f20989f20755724fe3e1",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        1.6138415336608887
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP103_DoubleMouth_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP103_DoubleMouth.png",
+      "image_source_sha256": "36a15828ebee4c07213ac29cd0cce932fbc8a8f874a32a1143a3609e14e66dd5",
+      "image_sha256": "ac6471354f1084b40122b2b5befc55538969796f1ff8586e1644da103b2a86be",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP103_DoubleMouth.png",
+      "thumbnail_source_sha256": "20e17904e0dbfa000e99324d5ec5e58d606eaed47bccbf254ebd1dddbc8e90e0",
+      "thumbnail_sha256": "9444f350ac7cfbd37cf10bc0a0b1c37b8a643d84dcfab2b2e68e3f54ecbcdc98"
+    },
+    {
+      "id": "NP104_WetOverhang",
+      "source_zip_sha256": "8f20792164b9dea014171f436567f706729f66ba3b10918c543376f34691b5ba",
+      "source_glb_sha256": "503486abfb5072adb16ea81fa0bf390c3bd651a1801054504fb22c532e0160f2",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        2.109999895095825
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.4872589111328125,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP104_WetOverhang_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP104_WetOverhang.png",
+      "image_source_sha256": "846ce983f814ddd29fa400240483753b4d4934d39881d626b8a4ef294ba0e735",
+      "image_sha256": "678ebdce1eb36e143b2ee45a54a7827f85d6864158014992a6dbf57ded296295",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP104_WetOverhang.png",
+      "thumbnail_source_sha256": "6eaffab0309e7ed85f6e19ce2b39ecd573364f4c73a0b5ae11f7e733353814cc",
+      "thumbnail_sha256": "760f3a08202efc6323be81df496687e6ce4466661dbad50b619bcda625b4aec7"
+    },
+    {
+      "id": "NP105_CliffRiver",
+      "source_zip_sha256": "802f4f9138f2be5a4959188aeae3e3ac14be8e0e27f09579e6918a0beed01001",
+      "source_glb_sha256": "b5b19977080e31f3198378645eb678e2af129927fa6fc0447a6fc843a3cf82da",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        2.111605644226074
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.4905941486358643,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP105_CliffRiver_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP105_CliffRiver.png",
+      "image_source_sha256": "d894ff11c8a856400a19cc8938c760d03ead1c2c5ced4c1c21385acdac412481",
+      "image_sha256": "be70c02d16595bcd2f1f826e3767942da3f15d0d2111290d300b3988571bf905",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP105_CliffRiver.png",
+      "thumbnail_source_sha256": "1a81b7d13c296d6fe10256a4715be98140b35b2e38e00fb85acc472674294eb0",
+      "thumbnail_sha256": "906a6561bc2ddc1c5013e673930bdaae0c366922f269414361154047054eb24e"
+    },
+    {
+      "id": "NP106_RecessedFall",
+      "source_zip_sha256": "3ca15526b54a10d3c42ca3461779f132d3624c81834eb8aaf9aa08283f608144",
+      "source_glb_sha256": "4d2ead2968800f91a6b81908c2ed1e348acd32fd4c08c8452a922b76aa5347a8",
+      "camera_location": [
+        2.6039998531341553,
+        -4.4639997482299805,
+        2.863999843597412
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.0920000076293945,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-use-plan-v1/NP106_RecessedFall_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NP106_RecessedFall.png",
+      "image_source_sha256": "0dab334377e8af6b2e66f3855cd70c92e79e0757691330a39eaef37d9a024277",
+      "image_sha256": "5d5a42fd332a4f3f15cc674256ea951c7883eef9548f4a95fc3fc321a27fb1f1",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NP106_RecessedFall.png",
+      "thumbnail_source_sha256": "ff9e96ac2a0766f91fde9d937b35da8ff9676e865d0b16975764ef17c6794245",
+      "thumbnail_sha256": "97b34931b804ed63087937df9079341713a17a5ba5a2e89feb59a02df9e7918f"
+    },
+    {
+      "id": "NR101_FlowstoneApron",
+      "source_zip_sha256": "780bcb186214ac7d1ecccc9b4481d4df265c3cff9993ba346d58507f0acc3995",
+      "source_glb_sha256": "062a896affd6201f0d198a13378de9e3d5686ab16e593e3477b6aa3d98e296f9",
+      "camera_location": [
+        2.0999999046325684,
+        -3.75,
+        2.8999998569488525
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR101_FlowstoneApron_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NR101_FlowstoneApron.png",
+      "image_source_sha256": "e2a4da0a9f8422f72a1d72f5771d86bf0c82991e97dca256881ad5ce2eacf44c",
+      "image_sha256": "f3155b2b75d20091ef89253a5a40c1627e29a3d84f265584ca5ad44befcb63ea",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NR101_FlowstoneApron.png",
+      "thumbnail_source_sha256": "fb85081e8d69d118192e859463915d2f40e68326e369e00c87e84b389365dcc5",
+      "thumbnail_sha256": "604158007862337bc1365d7ae2a45c10da340670b474b7399d66372942051452"
+    },
+    {
+      "id": "NR102_ColumnarLedge",
+      "source_zip_sha256": "7d1397e19f63dae1987650b76de6eda3e6f8e0ba3c2ec026be5805eb6a3ce27d",
+      "source_glb_sha256": "1b6092c918ccf991967404bae5093585d0a6a242f51162628fb7f923942ec55d",
+      "camera_location": [
+        2.0999999046325684,
+        -3.5999999046325684,
+        2.732710361480713
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.299999952316284,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/natural-rock-forms-v1/NR102_ColumnarLedge_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/bg-fcs24/renders/NR102_ColumnarLedge.png",
+      "image_source_sha256": "2f315bd326aa503e24b8b158a1a170b02cee6839c83eb6bf4c86cf4e1df5a0d9",
+      "image_sha256": "300d5f38da495a1cac2b2ac98d1da57e0087f59790700967bada82b29c56b2b1",
+      "thumbnail": "previews/bg-fcs24/thumbnails/NR102_ColumnarLedge.png",
+      "thumbnail_source_sha256": "23eec3cf60a58b62f7de5299d8b7863094ca0836657faaf90e7eafcbc9133620",
+      "thumbnail_sha256": "0f6cc0aad2e9d44967a0a8659d403054a38d3916b048485a8b76290fbc39104c"
+    }
+  ]
+}

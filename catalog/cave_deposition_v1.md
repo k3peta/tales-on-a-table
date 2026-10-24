@@ -72,3 +72,31 @@ RimstonePools
 ![cave-deposition-v1 — pools_close](../previews/catalog-20261024/cave-deposition-v1-pools_close.jpg)
 
 ![cave-deposition-v1 — pools_top](../previews/catalog-20261024/cave-deposition-v1-pools_top.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CD101_CeilingPendants — CeilingPendants
+
+CeilingPendants
+
+[![CD101_CeilingPendants](../previews/bg-fcs24/thumbnails/CD101_CeilingPendants.png)](../previews/bg-fcs24/renders/CD101_CeilingPendants.png)
+
+[Full image](../previews/bg-fcs24/renders/CD101_CeilingPendants.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD101_CeilingPendants_CC0.zip)
+
+### CD102_FoldedCurtain — FoldedCurtain
+
+FoldedCurtain
+
+[![CD102_FoldedCurtain](../previews/bg-fcs24/thumbnails/CD102_FoldedCurtain.png)](../previews/bg-fcs24/renders/CD102_FoldedCurtain.png)
+
+[Full image](../previews/bg-fcs24/renders/CD102_FoldedCurtain.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD102_FoldedCurtain_CC0.zip)
+
+### CD103_RimstonePools — RimstonePools
+
+RimstonePools
+
+[![CD103_RimstonePools](../previews/bg-fcs24/thumbnails/CD103_RimstonePools.png)](../previews/bg-fcs24/renders/CD103_RimstonePools.png)
+
+[Full image](../previews/bg-fcs24/renders/CD103_RimstonePools.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/cave-deposition-v1/CD103_RimstonePools_CC0.zip)

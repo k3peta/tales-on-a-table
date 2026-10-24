@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "id": "WS_021__repair",
+      "base_id": "WS_021",
+      "entity_type": "revision",
+      "zip": "WS_021__repair_CC0.zip",
+      "sha256": "0d12ab2a0c99a1df84424b9cbb328de54eb764f0d81ed0d32ef23e2af1fad5d8",
+      "bytes": 4838367,
+      "description": "WS021 revision:99 exact-zero-area faces removed; positive faces and UV retained. Embedded basecolor PNG losslessly recompressed with identical filtered pixels, resolution/offset metadata removed. Broad byte-marker scan unchanged and passed. No new model or material variant.",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws021-scan-repair-v2/WS_021__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 0,
+  "revisions": 1
+}

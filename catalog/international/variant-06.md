@@ -141,3 +141,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base WS_024](base-13.md#ws_024) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws019-028-v1/WS_024__color_orange_CC0.zip) · [Full comparison](../../previews/quality-ws019-028-v1/WS_024__color_orange_overview_comparison.png) · [Details](../material_variants_ws019_028.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WS_036__color_blue
+
+**Open leather document portfolio** · 開いた革の資料挟み
+
+[![WS_036__color_blue](../../previews/quality-ws029-038-v1/WS_036__color_blue_thumb.png)](../../previews/quality-ws029-038-v1/WS_036__color_blue_overview_comparison.png)
+
+Use: Blue leather texture on WS036 cleaned geometry baseline; same positive surface and retained UV as repair. Original paper/ink/strings and material properties unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WS_036](base-13.md#ws_036) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ws029-038-v1/WS_036__color_blue_CC0.zip) · [Full comparison](../../previews/quality-ws029-038-v1/WS_036__color_blue_overview_comparison.png) · [Details](../material_variants_ws029_038.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

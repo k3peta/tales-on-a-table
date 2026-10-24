@@ -95,3 +95,7 @@ Orange lampshade basecolor texture; original geometry/UV and other material prop
 Left: original; right: accepted revision/variant, identical camera/light/scale.
 
 [Exact package validation evidence](../distributions/quality-ws019-028-v1/validation.json).
+
+## Subsequent WS021 revision
+
+The above hold refers to the original failed candidate. A [new pixel-identical recompressed revision](ws021_scan_resolution.md) passed strict final guard; public identity confirmation pending. Dark glass remains rejected.
