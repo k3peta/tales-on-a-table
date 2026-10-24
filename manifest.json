@@ -3377,7 +3377,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_053_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "878190addd4fea7077c298a06e1fe061e6ecc12fba613aeafa314fab3792ff84",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_053__repair",
+          "base_id": "FH_053",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "竿立ての過度な反復木目を抑え、支柱と受け部を明瞭化。",
+          "zip": "FH_053__repair_CC0.zip",
+          "bytes": 5767046,
+          "sha256": "38acfaa588dd514cf02dc2d4d200d0c069555e084a7c3be4c7794c60b535bd0a",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_053__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_054",
@@ -3403,7 +3420,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_054_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "eaababe08a69585eda31f78ffa060845ef5d9c191d4f05cd26a12110e87c150b",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_054__repair",
+          "base_id": "FH_054",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "餌箱の反復木目を抑え、仕切りと補修布の視認性を改善。",
+          "zip": "FH_054__repair_CC0.zip",
+          "bytes": 5602190,
+          "sha256": "5b3df6cc7ef9cb25caa037551a7d971f36ef617915ec8ded0c96002b34770f9f",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_054__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_055",
@@ -3429,7 +3463,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FH_055_CC0.zip",
       "theme": "FH",
       "original_preview_sha256": "8748845be116e3838dbd0e957f262ff9953ad1bfd7aa5296ebae57e366ce467a",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FH_055__repair",
+          "base_id": "FH_055",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "仕掛け巻きの木目を抑え、糸と浮子・巻き枠を読みやすくした材質改訂。",
+          "zip": "FH_055__repair_CC0.zip",
+          "bytes": 2854004,
+          "sha256": "4b740b1ef75f3cdbfd3342502c299590b1ae828f51cea0ee6ff23a902576f0c0",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_055__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FH_056",

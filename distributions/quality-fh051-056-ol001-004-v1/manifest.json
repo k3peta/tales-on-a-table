@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": "FH_053__repair",
+      "base_id": "FH_053",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "repair",
+      "description": "\u7aff\u7acb\u3066\u306e\u904e\u5ea6\u306a\u53cd\u5fa9\u6728\u76ee\u3092\u6291\u3048\u3001\u652f\u67f1\u3068\u53d7\u3051\u90e8\u3092\u660e\u77ad\u5316\u3002",
+      "zip": "FH_053__repair_CC0.zip",
+      "bytes": 5767046,
+      "sha256": "38acfaa588dd514cf02dc2d4d200d0c069555e084a7c3be4c7794c60b535bd0a",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_053__repair_CC0.zip"
+    },
+    {
+      "id": "FH_054__repair",
+      "base_id": "FH_054",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "repair",
+      "description": "\u990c\u7bb1\u306e\u53cd\u5fa9\u6728\u76ee\u3092\u6291\u3048\u3001\u4ed5\u5207\u308a\u3068\u88dc\u4fee\u5e03\u306e\u8996\u8a8d\u6027\u3092\u6539\u5584\u3002",
+      "zip": "FH_054__repair_CC0.zip",
+      "bytes": 5602190,
+      "sha256": "5b3df6cc7ef9cb25caa037551a7d971f36ef617915ec8ded0c96002b34770f9f",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_054__repair_CC0.zip"
+    },
+    {
+      "id": "FH_055__repair",
+      "base_id": "FH_055",
+      "entity_type": "revision",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "repair",
+      "description": "\u4ed5\u639b\u3051\u5dfb\u304d\u306e\u6728\u76ee\u3092\u6291\u3048\u3001\u7cf8\u3068\u6d6e\u5b50\u30fb\u5dfb\u304d\u67a0\u3092\u8aad\u307f\u3084\u3059\u304f\u3057\u305f\u6750\u8cea\u6539\u8a02\u3002",
+      "zip": "FH_055__repair_CC0.zip",
+      "bytes": 2854004,
+      "sha256": "4b740b1ef75f3cdbfd3342502c299590b1ae828f51cea0ee6ff23a902576f0c0",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/FH_055__repair_CC0.zip"
+    },
+    {
+      "id": "OL_003__color",
+      "base_id": "OL_003",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u58fa\u306e\u672c\u4f53\u3092\u8d64\u8336\u8272\u306e\u9676\u5668\u8abf\u3078\u5909\u66f4\u3002\u91d1\u306e\u5e2f\u30fb\u88c5\u98fe\u30fb\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_003__color_CC0.zip",
+      "bytes": 2709109,
+      "sha256": "0075d28633337838e5d8ca61a96e1792d32f7b58520b2065aed0ef5ebdaddf45",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/OL_003__color_CC0.zip"
+    },
+    {
+      "id": "OL_004__color",
+      "base_id": "OL_004",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u30ab\u30a6\u30f3\u30bf\u30fc\u524d\u9762\u306e\u30bf\u30a4\u30eb\u3060\u3051\u8d64\u7cfb\u3078\u5909\u66f4\u3002\u77f3\u5929\u677f\u30fb\u6728\u90e8\u30fb\u91d1\u88c5\u98fe\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_004__color_CC0.zip",
+      "bytes": 5195447,
+      "sha256": "903c5107bf79f4f6b8200b648b8e16f51abdec94fc24010a169292c1327efb32",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/OL_004__color_CC0.zip"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 3
+}

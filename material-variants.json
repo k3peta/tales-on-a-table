@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 92,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1294,6 +1294,36 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh041-050-v1/FH_044__color_CC0.zip"
+    },
+    {
+      "id": "OL_003__color",
+      "base_id": "OL_003",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u58fa\u306e\u672c\u4f53\u3092\u8d64\u8336\u8272\u306e\u9676\u5668\u8abf\u3078\u5909\u66f4\u3002\u91d1\u306e\u5e2f\u30fb\u88c5\u98fe\u30fb\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_003__color_CC0.zip",
+      "bytes": 2709109,
+      "sha256": "0075d28633337838e5d8ca61a96e1792d32f7b58520b2065aed0ef5ebdaddf45",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/OL_003__color_CC0.zip"
+    },
+    {
+      "id": "OL_004__color",
+      "base_id": "OL_004",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u30ab\u30a6\u30f3\u30bf\u30fc\u524d\u9762\u306e\u30bf\u30a4\u30eb\u3060\u3051\u8d64\u7cfb\u3078\u5909\u66f4\u3002\u77f3\u5929\u677f\u30fb\u6728\u90e8\u30fb\u91d1\u88c5\u98fe\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_004__color_CC0.zip",
+      "bytes": 5195447,
+      "sha256": "903c5107bf79f4f6b8200b648b8e16f51abdec94fc24010a169292c1327efb32",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/OL_004__color_CC0.zip"
     }
   ]
 }
