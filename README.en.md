@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **988 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **989 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **989 records** (988 + 1 composite; reused goat/private fit example excluded). [goat-care-platform-v1](catalog/goat_care_platform_v1.md).
 
 - 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
 

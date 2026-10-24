@@ -1,0 +1,31 @@
+{
+  "record_count": 1,
+  "items": [
+    {
+      "asset_id": "HCV1001",
+      "category": "livestock_equipment",
+      "record_kind": "model",
+      "design_classification": "equipment_candidate",
+      "independent_design_increment": null,
+      "revision": "goat-care-platform-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 208006,
+      "zip_sha256": "158d2d6d3bbb4eb031a5136188817ac91df56ee2d0bfcd8a02bfb2540581415d",
+      "names": {
+        "ja": "HCV1001",
+        "en": "HCV1001",
+        "zh-CN": "HCV1001"
+      },
+      "descriptions": {
+        "ja": "HCV1001: Raised goat care platform with cleated ramp and open guide frame",
+        "en": "HCV1001: Raised goat care platform with cleated ramp and open guide frame",
+        "zh-CN": "HCV1001: Raised goat care platform with cleated ramp and open guide frame"
+      },
+      "zip_file": "HCV1001-CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/goat-care-platform-v1/HCV1001-CC0.zip",
+      "theme": "goat_care_platform_v1",
+      "global_unique": "unconfirmed"
+    }
+  ]
+}

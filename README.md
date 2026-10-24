@@ -1,8 +1,10 @@
 # Tales on a Table — 小さな世界の素材棚
 
-現在の公開数は **988配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
+現在の公開数は **989配布レコード**（2026-10-24 JST）。全履歴の独立形状数は未確定です。正本は[台帳](manifest.json)。以下の件数・配布説明は各公開時点の履歴です。
 
 ## 公開履歴
+
+- 2026-10-24 JST — **989 records** (988 + 1 composite; reused goat/private fit example excluded). [goat-care-platform-v1](catalog/goat_care_platform_v1.md).
 
 - 2026-10-24 JST — **988 records** (985 + 3 components; reused worktable/private example excluded). [winery-utilities-v1](catalog/winery_utilities_v1.md).
 
