@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 96,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1324,6 +1324,66 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fh051-056-ol001-004-v1/OL_004__color_CC0.zip"
+    },
+    {
+      "id": "OL_005__color",
+      "base_id": "OL_005",
+      "entity_type": "material_variant",
+      "geometry_revision": "border_trim_v1",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u4fee\u6574\u5f8cborder_trim_v1\u5f62\u72b6\u3092\u4fdd\u6301\u3057\u305f\u7dd1\u7cfb\u306e\u7d68\u6bef\u3002\u623f\u3068\u83f1\u5f62\u6a21\u69d8\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_005__color_CC0.zip",
+      "bytes": 1166023,
+      "sha256": "2c15de67f8bc5a2283aa38a41ba2017a61a85113a98140789c48d2bfe29845b7",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_005__color_CC0.zip"
+    },
+    {
+      "id": "OL_011__color",
+      "base_id": "OL_011",
+      "entity_type": "material_variant",
+      "geometry_revision": "border_trim_v1",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u4fee\u6574\u5f8cborder_trim_v1\u5f62\u72b6\u3092\u4fdd\u6301\u3057\u305f\u8d64\u8336\u7cfb\u306e\u6577\u7269\u3002\u623f\u3068\u6a21\u69d8\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_011__color_CC0.zip",
+      "bytes": 1296176,
+      "sha256": "78c8c8c03b1a27daeea7cceded214511afd38a3ebde86336de67410c1c85a70c",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_011__color_CC0.zip"
+    },
+    {
+      "id": "OL_012__color",
+      "base_id": "OL_012",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u5c55\u793a\u30c8\u30ec\u30a4\u3068\u6307\u8f2a\u91d1\u5c5e\u3092\u9280\u8272\u3078\u5909\u66f4\u3002\u5b9d\u77f3\u8272\u3068\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_012__color_CC0.zip",
+      "bytes": 6295624,
+      "sha256": "33eb05e4c15ced8964601a4444e773f2b0bfb5dac00bde08c7201dba78ebd587",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_012__color_CC0.zip"
+    },
+    {
+      "id": "OL_014__color",
+      "base_id": "OL_014",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "\u5dfb\u3044\u305f\u7d68\u6bef\u3092\u7dd1\u3068\u8d64\u8336\u306e\u7d44\u3078\u5909\u66f4\u3002\u7d50\u3073\u7d10\u30fb\u5dfb\u304d\u5f62\u72b6\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_014__color_CC0.zip",
+      "bytes": 2306414,
+      "sha256": "9dcd735bc98b9dc95136fa19d48485fe248826e01efcb026af4107c0a1db0076",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_014__color_CC0.zip"
     }
   ]
 }

@@ -3636,7 +3636,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_005_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "d65c9c9a614fdd25d0f6cffe6ba05c7650c9292259c1aabf72af081f853c4e7c",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_005__repair",
+          "base_id": "OL_005",
+          "entity_type": "revision",
+          "geometry_revision": "border_trim_v1",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "四隅の黒い矩形を生む縁取り同高重複を除去。横縁端を縦縁内側まで切り詰めた形状改訂。",
+          "zip": "OL_005__repair_CC0.zip",
+          "bytes": 937611,
+          "sha256": "c0a19fb73cce3e85e6e25b53510588a5b0ba5d29b63e4d9d2d03049325638218",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_005__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_006",
@@ -3792,7 +3809,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_011_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "82012506110e6ae47585ed43bd7e3cfe97584a7e6312b699c6ee266202002712",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_011__repair",
+          "base_id": "OL_011",
+          "entity_type": "revision",
+          "geometry_revision": "border_trim_v1",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "細長い敷物の四隅の同高重複を除去した形状改訂。",
+          "zip": "OL_011__repair_CC0.zip",
+          "bytes": 921810,
+          "sha256": "b6e596ff87813939eff05550cd3f0b8bf2cd984a754eb8e1c22e6e7352522abf",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_011__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_012",
@@ -3844,7 +3878,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_013_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "5ff592d4cd429bb0554912aa77678585cbd47b7276c5900ecc7d3a5232b0c0a7",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_013__repair",
+          "base_id": "OL_013",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "サイドテーブルの強い周期木目を抑え、金飾りと八角形の輪郭を明瞭化。",
+          "zip": "OL_013__repair_CC0.zip",
+          "bytes": 2724716,
+          "sha256": "4a3a083979c886ec9e0ff6d84a98dc582e4b0433b5d756e790b7d017683ab8cb",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_013__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_014",
