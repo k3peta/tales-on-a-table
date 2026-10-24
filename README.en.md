@@ -1,8 +1,10 @@
 # Tales on a Table
 
-Current total: **976 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
+Current total: **983 distribution records** (2026-10-24 JST). The global number of independent shapes is unconfirmed. The [manifest](manifest.json) is authoritative. Counts and distribution notes below are historical snapshots.
 
 ## Publication history
+
+- 2026-10-24 JST — **983 records** (976 + 7 components; no example-arrangement increment). [Masonry and road tools](catalog/masonry_road_tools_v1.md).
 
 - 2026-10-24 JST — **976 records** (972 + 4 components; reused worktable/private scenes excluded). [stable-care-v1](catalog/stable_care_v1.md).
 

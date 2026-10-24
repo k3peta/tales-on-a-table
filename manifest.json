@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "release_tag": "v2026.10.21-terrain-v2",
-  "item_count": 976,
+  "item_count": 983,
   "count_by_kind": {
-    "model": 813,
+    "model": 820,
     "derived_component": 2,
     "group": 42,
     "structural_variant": 15,
@@ -55,7 +55,8 @@
     "husbandry_cellar_v2": 10,
     "livestock_tack_v1": 5,
     "poultry_support_v1": 2,
-    "stable_care_v1": 4
+    "stable_care_v1": 4,
+    "masonry_road": 7
   },
   "counting_note": "IDs count records, not mesh objects or file formats. Antique shop: 73 originals + 20 groups; AT_091 is intentionally absent. BLEND and GLB are two formats of the same record. Wizard study adds 40 distribution sets (38 model records and 2 structural variants), not 40 new unique categories. Of these, 32 reuse earlier unpublished wizard models, 6 are v10 new designs and 2 are structural variants. The 397 books are scene placements, not new assets. Captain cabin adds 26 previously unpublished distribution records: 14 earlier models (CP006 joint-repaired in v3-r1), plus 12 new designs. The two travel bags are placements of one model. Existing reused props are excluded. Independent furnishings adds 6 designs. Rug LOD1 is included with its base rug and is not another record. Treasury adds 16 individual model records and 1 gem-pile group. 25 gem colour GLBs are variants of 5 included shapes, not 25 additions. 14,167 coin placements are not unique designs. Farmhouse barn adds eight previously unpublished individual designs. Reused FT_011, FT_014 and OL_017, hay placements, grain, straw and architecture are not additional records. Bridge market adds 83 distribution records: 57 earlier geometry families (68 versions, including 11 derivatives) and 26 new designs. Two earlier models are revised, not new designs. Colour choices and scene placements are not additional records; no completed scene is distributed. Prison: 33 designs and 3 PM006 connection configurations = 36 records; configurations are not new geometry. Watermill: 25 records / 23 designs (three sheep poses are one design). Apiary: 20 records / 20 designs. Total: 600 distribution records, not 600 unique designs. New batch total: 224 ZIP distribution records (294 BLEND and 294 GLB files), resulting total 779 records, not unique designs. Octagonal: 12 orientation records/6 designs. Alchemist: 27 records/24 designs, including 3 reused book groups. Terrain: 70 records/70 designs; HQ/LITE and formats share each record. Terrain connectivity adds 91 distribution records (67 local-use candidates + 24 structural variants); global independent-design total remains unverified.",
   "items": [
@@ -29373,6 +29374,188 @@
       "zip_file": "HCV804-CC0.zip",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/stable-care-v1/HCV804-CC0.zip",
       "theme": "stable_care_v1",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT101_PlumbLevel",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 74886,
+      "zip_sha256": "5233e14ffcd0ef4782268d48e68cb141a1ac238ffd5356b1dbc4e0c004ec0c03",
+      "names": {
+        "ja": "PlumbLevel",
+        "en": "PlumbLevel",
+        "zh-CN": "PlumbLevel"
+      },
+      "descriptions": {
+        "ja": "MRT101_PlumbLevel",
+        "en": "MRT101_PlumbLevel",
+        "zh-CN": "MRT101_PlumbLevel"
+      },
+      "zip_file": "MRT101_PlumbLevel_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT101_PlumbLevel_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT102_SurveyCross",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 81966,
+      "zip_sha256": "ec2264c7d2ab711d41f2d801312b65ca1fdaddca2066582ec223cd6b25a07591",
+      "names": {
+        "ja": "SurveyCross",
+        "en": "SurveyCross",
+        "zh-CN": "SurveyCross"
+      },
+      "descriptions": {
+        "ja": "MRT102_SurveyCross",
+        "en": "MRT102_SurveyCross",
+        "zh-CN": "MRT102_SurveyCross"
+      },
+      "zip_file": "MRT102_SurveyCross_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT102_SurveyCross_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT103_ArchCentering",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 89818,
+      "zip_sha256": "bb160bd476bcbdc0ba3046d396d3719c41504b39cd86054810ec5b53fb665a14",
+      "names": {
+        "ja": "ArchCentering",
+        "en": "ArchCentering",
+        "zh-CN": "ArchCentering"
+      },
+      "descriptions": {
+        "ja": "MRT103_ArchCentering",
+        "en": "MRT103_ArchCentering",
+        "zh-CN": "MRT103_ArchCentering"
+      },
+      "zip_file": "MRT103_ArchCentering_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT103_ArchCentering_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT104_StoneLiftingSocket",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "composite_accessory",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 83875,
+      "zip_sha256": "a589b124d78b5038761d47a0b66fa390b8f265a7264644e05975c92ad7802a9b",
+      "names": {
+        "ja": "StoneLiftingSocket",
+        "en": "StoneLiftingSocket",
+        "zh-CN": "StoneLiftingSocket"
+      },
+      "descriptions": {
+        "ja": "MRT104_StoneLiftingSocket",
+        "en": "MRT104_StoneLiftingSocket",
+        "zh-CN": "MRT104_StoneLiftingSocket"
+      },
+      "zip_file": "MRT104_StoneLiftingSocket_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT104_StoneLiftingSocket_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT105_RollerStoneSled",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "local_use_candidate",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 79568,
+      "zip_sha256": "a7fc1d80822b5be27a5f837fde15c91d7bb61803feb239d911bb603885d38f73",
+      "names": {
+        "ja": "RollerStoneSled",
+        "en": "RollerStoneSled",
+        "zh-CN": "RollerStoneSled"
+      },
+      "descriptions": {
+        "ja": "MRT105_RollerStoneSled",
+        "en": "MRT105_RollerStoneSled",
+        "zh-CN": "MRT105_RollerStoneSled"
+      },
+      "zip_file": "MRT105_RollerStoneSled_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT105_RollerStoneSled_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT106_GateBarStorage",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "structural_accessory",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 73807,
+      "zip_sha256": "677f0fd7bc5ac1d060914238c6924a125c65ad8689d9cb1f744c8669e7f62905",
+      "names": {
+        "ja": "GateBarStorage",
+        "en": "GateBarStorage",
+        "zh-CN": "GateBarStorage"
+      },
+      "descriptions": {
+        "ja": "MRT106_GateBarStorage",
+        "en": "MRT106_GateBarStorage",
+        "zh-CN": "MRT106_GateBarStorage"
+      },
+      "zip_file": "MRT106_GateBarStorage_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT106_GateBarStorage_CC0.zip",
+      "theme": "masonry_road",
+      "global_unique": "unconfirmed"
+    },
+    {
+      "asset_id": "MRT107_FiresteelKit",
+      "category": "utility_component",
+      "record_kind": "model",
+      "design_classification": "composite_accessory",
+      "independent_design_increment": null,
+      "revision": "masonry-road-tools-v1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded display materials only",
+      "zip_bytes": 83583,
+      "zip_sha256": "08d628b9da95c58f1896101d1c6f8e528e03cc291cdeae6d0f7f1d210d13982f",
+      "names": {
+        "ja": "FiresteelKit",
+        "en": "FiresteelKit",
+        "zh-CN": "FiresteelKit"
+      },
+      "descriptions": {
+        "ja": "MRT107_FiresteelKit",
+        "en": "MRT107_FiresteelKit",
+        "zh-CN": "MRT107_FiresteelKit"
+      },
+      "zip_file": "MRT107_FiresteelKit_CC0.zip",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT107_FiresteelKit_CC0.zip",
+      "theme": "masonry_road",
       "global_unique": "unconfirmed"
     }
   ]
