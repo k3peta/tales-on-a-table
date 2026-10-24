@@ -1,5 +1,5 @@
 {
-  "scope": "Exact named GLB member and render image identity; public reacquisition pending. Not all-model quality or all-LOD certification.",
+  "scope": "Public ZIP bytes, named GLB members and image hashes verified. Not all-model quality or all-LOD certification.",
   "items": [
     {
       "id": "FCS105_RoadGatehouse",
@@ -350,5 +350,7 @@
         }
       ]
     }
-  ]
+  ],
+  "verified_commit": "3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
+  "all25_public_bindings_verified": true
 }

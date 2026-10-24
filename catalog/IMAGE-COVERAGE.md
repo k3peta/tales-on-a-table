@@ -249,3 +249,5 @@ Quality34:21 comparison/thumbnail images; separate variants136. Base1001 image m
 CSH and herbalist (7 IDs):7 individual full renders +7 thumbnails added. International base ID mappings1008/1008, missing0; variant137/137. Not a claim that every prior mapping is an isolated individual render.
 
 Quality35:24 comparison/thumbnail images; separate variants137. All1008 base IDs have mapped images, with version evidence tiers and unresolved revision bindings recorded separately.
+
+Six previously pending current-revision bindings resolved by exact ZIP GLB rerenders and public image/member hash checks. Latest recorded revisions122/122 mapped; base1008 and variants137 unchanged. No all-LOD, independent-shape or complete-quality claim. [Version audit](international/VERSION-AUDIT.md).

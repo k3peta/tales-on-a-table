@@ -52,7 +52,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP/GLB identity verified. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_HORSE.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/horse-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV_SCENE_CATTLE
 
@@ -102,7 +102,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP/GLB identity verified. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_WINERY.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/winery-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV_SCENE_CELLAR
 
@@ -128,7 +128,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/husbandry_cellar_v2.md)
 
-**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP/GLB identity verified. [Original archive image](../../previews/chbv-mrt24/thumbnails/HCV_SCENE_CELLAR.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v2/cellar-scene-v2.zip). Model/scene rights: LicenseRef-Scene-Viewing-Rearranging; Underlying models/materials CC0; arrangement for viewing and rearranging only; no additional redistribution license. Images excluded from CC0.
 
 ## HCV601
 

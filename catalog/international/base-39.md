@@ -342,7 +342,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/fortified_city_sites_v1.md)
 
-**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip). Model/scene rights: CC0-1.0; model geometry and embedded display materials only. Images excluded from CC0.
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP/GLB identity verified. [Original archive image](../../previews/bg-fcs24/thumbnails/FCS105_RoadGatehouse.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCS105_RoadGatehouse_CC0.zip). Model/scene rights: CC0-1.0; model geometry and embedded display materials only. Images excluded from CC0.
 
 ## FCS106_WatchKiosk
 
@@ -392,7 +392,7 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/city_scenes_quality_v3.md) · [Catalogue 2](../../catalog/fortified_city_sites_v1.md)
 
-**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP identity check pending. [Original archive image](../../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip). Model/scene rights: CC0-1.0; scene model geometry and embedded materials only; code/images/private records excluded. Images excluded from CC0.
+**Pictured version:** latest recorded revision, exact named GLB member. Public image/ZIP/GLB identity verified. [Original archive image](../../previews/bg-fcs24/thumbnails/FCSV01_ConstructionSite.png) · [Original ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-sites-v1/FCSV01_ConstructionSite_CC0.zip). Model/scene rights: CC0-1.0; scene model geometry and embedded materials only; code/images/private records excluded. Images excluded from CC0.
 
 ## FCSV02_RoadEntrance
 

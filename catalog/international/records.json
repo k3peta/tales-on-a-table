@@ -37214,7 +37214,7 @@
       "purpose_en": "6m frontage, clear central cart arch,4m upper deck, twin roofed tower rooms; old2m gate arch different scale/program",
       "record_kind": "model",
       "image": "previews/current-scenes6/thumbnails/FCS105_RoadGatehouse.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -37238,7 +37238,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip",
       "pictured_zip_sha256": "ddb2689369c23aeeb31551a8f0678a0db217696a711b14eac4fb8cfae57eef2b",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {
@@ -37299,7 +37299,7 @@
       "purpose_en": "Repositionable assembly of current FCS parts and verified CC0 NR102/BD104/RS201 where used, plus original scene fixtures. Not an additional independent shape.",
       "record_kind": "group",
       "image": "previews/current-scenes6/thumbnails/FCSV01_ConstructionSite.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -37324,7 +37324,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip",
       "pictured_zip_sha256": "b8176e0600c8b40a1a731225fa2d7f9e31e914f7169ff98c26afeab6354e8f30",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {
@@ -37895,7 +37895,7 @@
       "purpose_en": "FCSV03_GateAccessExample",
       "record_kind": "group",
       "image": "previews/current-scenes6/thumbnails/FCSV03_GateAccessExample.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -37920,7 +37920,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip",
       "pictured_zip_sha256": "36aad7864c9cd83575955cff382b3f8c81a21a91a22288fafb1ecc7edff64e33",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {
@@ -38560,7 +38560,7 @@
       "purpose_en": "horse - rearrangeable static vignette, revision 2",
       "record_kind": "group",
       "image": "previews/current-scenes6/thumbnails/HCV_SCENE_HORSE.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -38584,7 +38584,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip",
       "pictured_zip_sha256": "1446a978cee5478105d205ce68c81607dfb10841f5a23f799ea0b95a6c5fbe2b",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {
@@ -38645,7 +38645,7 @@
       "purpose_en": "winery - rearrangeable static vignette, revision 2",
       "record_kind": "group",
       "image": "previews/current-scenes6/thumbnails/HCV_SCENE_WINERY.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -38669,7 +38669,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip",
       "pictured_zip_sha256": "246b1127e808375ec05166013da40a00b311df2d6fbe85bb96dd42b41bba8cd5",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {
@@ -38694,7 +38694,7 @@
       "purpose_en": "cellar - rearrangeable static vignette, revision 2",
       "record_kind": "group",
       "image": "previews/current-scenes6/thumbnails/HCV_SCENE_CELLAR.png",
-      "image_evidence": "Rendered from exact latest revision ZIP member; public reacquisition pending",
+      "image_evidence": "Exact named revision ZIP GLB rendered; public ZIP/member/image SHA matched at 3e7b085f7e19e5da3e0eee9ab58e05e29193a307",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -38718,7 +38718,7 @@
       "image_manifest": "previews/current-scenes6/manifest.json",
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip",
       "pictured_zip_sha256": "3d031e2975a8ed7705bc3459082ff78532ecdfb05fcc17b9fbcdfdb3e43b178a",
-      "image_version_binding_status": "exact_revision_binding_public_retrieval_pending",
+      "image_version_binding_status": "exact_revision_zip_image_evidence",
       "image_lod_scope": "Exact named GLB member; other representations not verified",
       "image_history": [
         {

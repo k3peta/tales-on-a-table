@@ -1,6 +1,6 @@
 # Browse models / 素材を探す
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.137/137 variants pictured.** This is not complete current-version image coverage; see [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.137/137 variants pictured.** All122 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +137 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 

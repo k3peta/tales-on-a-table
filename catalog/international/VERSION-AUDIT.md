@@ -1,20 +1,9 @@
 # Image and ZIP version audit / 画像と配布版の監査
 
-All1008 base IDs have a mapped image; this does not establish that every latest revision or LOD has an independently bound image. Images are catalogue artwork, outside model CC0. Scene arrangements retain their per-record restricted licenses.
+All1008 base IDs have mapped images. All122 currently recorded latest revisions have matching image/ZIP evidence; the remaining886 records have no revision entry. The six previously pending revision bindings are now verified from the exact revised ZIP GLB and12 newly rendered images, with public reacquisition. FW19 repaired-model ZIP/member/image associations were also independently rechecked.
 
-{"authored_primary_preview_hash_association": 519, "exact_primary_zip_image_evidence": 470, "exact_revision_zip_image_evidence": 19}
+Current card evidence:519 authored primary preview/hash associations,464 exact primary-ZIP image bindings,25 exact revision-ZIP image bindings. This is not a fresh visual inspection of1008 models, proof of1008 independent shapes, all-quality approval, or coverage of every LOD, interior, viewpoint or component. Known quality and polygon-budget issues remain. TR images cover HQ; IF002 repair covers main/HQ with original LOD1 unassessed; other unknown LOD scope remains explicit per record.
 
-19 FW cards now link their pictured corrected ZIP first and retain explicitly labelled legacy links. All primary model ledger rows and old files remain unchanged. Latest-revision previews are linked separately where exact evidence exists.
+The six resolved records are FCS105_RoadGatehouse, FCSV01_ConstructionSite, FCSV03_GateAccessExample, HCV_SCENE_HORSE, HCV_SCENE_WINERY and HCV_SCENE_CELLAR. Their current cards pair the revised images with matching ZIPs. Previous images, archive links and image-history metadata remain available. Horse/winery/cellar arrangements remain licensed for viewing/rearranging only; underlying model/material CC0 does not expand scene redistribution rights. All catalogue images remain outside model CC0.
 
-## Remaining exact-version checks
-
-- FCS105_RoadGatehouse: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCS105_RoadGatehouse_access_v2_CC0.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-- FCSV01_ConstructionSite: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV01_ConstructionSite_v3_CC0.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-- FCSV03_GateAccessExample: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/city-scenes-quality-v3/FCSV03_GateAccessExample_v3_CC0.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-- HCV_SCENE_HORSE: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/horse-scene-v3.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-- HCV_SCENE_WINERY: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/winery-scene-v3.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-- HCV_SCENE_CELLAR: [latest ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/scene-polish-v3/cellar-scene-v3.zip); earlier pictured ZIP is explicitly labelled. Need render-input model hash or rerender from this exact ZIP.
-
-Six older revision batches have existing artwork, but artwork existence alone is not exact ZIP identity evidence. TR terrain images show HQ; IF002 latest repair covers main/HQ and original LOD1 remains unassessed. Other LOD scopes are unknown where not independently established. Metadata traceability is not fresh visual QA, physical safety or compatibility certification.
-
-[Full1008 record audit](version-audit.json) · [ID catalogue](README.md).
+[25 exact public bindings](../../previews/current-scenes6/bindings25.json) · [Six render manifests](../../previews/current-scenes6/manifest.json) · [Full1008 audit](version-audit.json) · [Earlier audit with six pending](VERSION-AUDIT-before-scenes6.md).

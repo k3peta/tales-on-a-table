@@ -64,11 +64,11 @@ GateAccessExample
 [Full image](../previews/hcv-chb24/renders/FCSV03_GateAccessExample.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fortified-city-access-v2/FCSV03_GateAccessExample_CC0.zip)
 
 
-Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; exact revised-ZIP/render binding needs review for the six records listed in [Version audit](international/VERSION-AUDIT.md).
+Version note: individual primary-archive thumbnails show their linked original ZIPs, not necessarily the revisions listed above. Earlier batch artwork retains its original association; the six revised-ZIP/render bindings are now verified in [Version audit](international/VERSION-AUDIT.md).
 
 ## Latest revision images / 現行改訂版画像
 
-Exact revised ZIP GLB renders; public retrieval verification pending. Older archive previews remain labelled above. Images are viewing artwork, not model CC0.
+Exact revised ZIP GLB renders; public ZIP/member/image identity verified. Older archive previews remain labelled above. Images are viewing artwork, not model CC0.
 
 ### FCSV01_ConstructionSite
 
