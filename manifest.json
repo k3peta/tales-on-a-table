@@ -1165,7 +1165,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_041_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "17caf8aebd9cdb2780b20a047e2cb39f0a33fab29e885d13af6e378a9c2f6bad",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_041__repair",
+          "base_id": "FT_041",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "粗い木目の黒斑を抑え、扉と枠の構造を読み取りやすくした材質改修。",
+          "zip": "FT_041__repair_CC0.zip",
+          "bytes": 2252825,
+          "sha256": "ceb81ff042a2ad240ebe7d6aa88ff24eac8885de28f4e38a995c1afc644f98cd",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_041__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_042",
@@ -1191,7 +1208,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_042_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "519cc6373657bd44283054ac9a240bfcefc4d7c9cbe3e641291b2b9d6069b68c",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_042__repair",
+          "base_id": "FT_042",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "窓枠の粗い木目を抑制。ガラスの透過条件は保持。",
+          "zip": "FT_042__repair_CC0.zip",
+          "bytes": 1473754,
+          "sha256": "946583522edf2010e5950b30bacec7cf81316c13c39381c5d98313756df8710d",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_042__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_043",
@@ -1217,7 +1251,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_043_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "6ca073d65de6df2536d693c0e455a8b993bbb6ce61104833396970357e334a67",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_043__repair",
+          "base_id": "FT_043",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "柱梁の過度に強い木目を抑制。",
+          "zip": "FT_043__repair_CC0.zip",
+          "bytes": 1510944,
+          "sha256": "a1ecb51b0093405435edf9d6c20c71e39831b2eca74ee6b8d34c9d3f7ac1f908",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_043__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_044",
@@ -1269,7 +1320,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_045_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "39388ee7e4086d3cf59803994bf46a9050bf329b25123edfa7350eadb51427dc",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_045__repair",
+          "base_id": "FT_045",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "板床の黒い斑を抑え板の境界を明瞭化。",
+          "zip": "FT_045__repair_CC0.zip",
+          "bytes": 2398412,
+          "sha256": "5eb4fc1a2820d56838ca86582898f5d5ee0783bc304a8a8d41fc57ba3d93f0ba",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_045__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_046",
@@ -1321,7 +1389,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_047_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "d5a146bb070494efd5f8c53c3801e564b5f258a902888281225208848f4e2e3f",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_047__repair",
+          "base_id": "FT_047",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "木目を抑制し、段鼻の白い反射帯をcoat/specularの抑制で修正した艶消し木階段。",
+          "zip": "FT_047__repair_CC0.zip",
+          "bytes": 5844342,
+          "sha256": "b9be0e620b3575538e8c5b2b133d9d67a9f6fcaae957fea63a2eaf26de96aedb",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_047__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_048",
@@ -1347,7 +1432,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_048_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "ea65944984100cedb62083470dcfd942ecf650077f1e8c34aa3718e133c46598",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_048__repair",
+          "base_id": "FT_048",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "手すりの粗木目を抑制し支柱の輪郭を明瞭化。",
+          "zip": "FT_048__repair_CC0.zip",
+          "bytes": 2908954,
+          "sha256": "9ec0b872eadc0bbc521bbd7e8976d0baf0bacd40f89b9e2a8edd55317a234460",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_048__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_049",
