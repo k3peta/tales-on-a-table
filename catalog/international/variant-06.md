@@ -491,3 +491,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_006](base-19.md#bm_006) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm001-010-v1/BM_006__orange_CC0.zip) · [Full comparison](../../previews/quality-bm001-010-v1/BM_006__orange_overview_comparison.png) · [Details](../material_variants_bm001_bm010.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_020__bluewood
+
+**Shallow parts tray** · 浅い部品箱
+
+[![BM_020__bluewood](../../previews/quality-bm011-020-v1/BM_020__bluewood_thumb.png)](../../previews/quality-bm011-020-v1/BM_020__bluewood_overview_comparison.png)
+
+Use: Blue UV tint on walnut board surfaces of shallow parts tray; lighter frame, iron and all non-basecolor channels unchanged. Original mesh, UV and vertex colors preserved. Same base model, not new shape.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_020](base-19.md#bm_020) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm011-020-v1/BM_020__bluewood_CC0.zip) · [Full comparison](../../previews/quality-bm011-020-v1/BM_020__bluewood_overview_comparison.png) · [Details](../material_variants_bm011_bm020.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

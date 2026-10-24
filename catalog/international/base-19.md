@@ -364,6 +364,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality46:** 1316tri;raised chips retained,strength untested. [Details](../material_variants_bm011_bm020.md).
+
 ## BM_012
 
 **Old scissors**
@@ -385,6 +387,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality46:** 3568tri;already revised public source,no new revision,source has no vertex colors. [Details](../material_variants_bm011_bm020.md).
 
 ## BM_013
 
@@ -408,6 +412,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality46:** 6344tri;stylized metal,nonfunctional lock. [Details](../material_variants_bm011_bm020.md).
+
 ## BM_014
 
 **Worn horseshoe**
@@ -429,6 +435,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality46:** 1448tri;horseshoe fit untested. [Details](../material_variants_bm011_bm020.md).
 
 ## BM_015
 
@@ -452,6 +460,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality46:** 666tri;bent nails arrangement counted once. [Details](../material_variants_bm011_bm020.md).
+
 ## BM_016
 
 **Small fire tongs**
@@ -473,6 +483,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality46:** 2060tri;static tongs,articulation untested. [Details](../material_variants_bm011_bm020.md).
 
 ## BM_017
 
@@ -496,6 +508,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality46:** 1004tri;angular whetstone style retained,abrasive performance untested. [Details](../material_variants_bm011_bm020.md).
+
 ## BM_018
 
 **Removed door hinge**
@@ -517,6 +531,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality46:** 8258tri;scratch strips retained,hinge motion untested. [Details](../material_variants_bm011_bm020.md).
 
 ## BM_019
 
@@ -540,6 +556,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality46:** 740tri;no functional use guarantee. [Details](../material_variants_bm011_bm020.md).
+
 ## BM_020
 
 **Shallow parts tray**
@@ -561,3 +579,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+**Quality46:** 1756tri;blue walnut boards only,pale frame/iron retained,geometry/UV/vertex colors unchanged. [Details](../material_variants_bm011_bm020.md).

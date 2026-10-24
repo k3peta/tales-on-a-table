@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 156,
-      "id_mapped_preview": 156,
+      "records": 157,
+      "id_mapped_preview": 157,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 156,
-      "formats_known": 156,
+      "purpose_en_present": 157,
+      "formats_known": 157,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -19718,7 +19718,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_011_CC0.zip",
       "pictured_zip_sha256": "8064d9f00d2b7fd3a9e9f406a45dc2e6089ebbe45ad79e2bb3a80daf5dbac2b5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1316tri;raised chips retained,strength untested."
     },
     {
       "id": "BM_012",
@@ -19755,7 +19756,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_012_CC0.zip",
       "pictured_zip_sha256": "ba60ee38067f7670409d7ee59b4965266a8065c1b4fb7283df2f7a2d2317e8e8",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3568tri;already revised public source,no new revision,source has no vertex colors."
     },
     {
       "id": "BM_013",
@@ -19792,7 +19794,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_013_CC0.zip",
       "pictured_zip_sha256": "1c16f60326e346df53684772113b85ac90db79875f10d70068cf4510ef3963b7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "6344tri;stylized metal,nonfunctional lock."
     },
     {
       "id": "BM_014",
@@ -19829,7 +19832,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_014_CC0.zip",
       "pictured_zip_sha256": "d46b920b54270a72828c2a00101f9deebb04aad08d92fa140b1f458f9756e93f",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1448tri;horseshoe fit untested."
     },
     {
       "id": "BM_015",
@@ -19866,7 +19870,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_015_CC0.zip",
       "pictured_zip_sha256": "9f32eff13eda672886f05d426f0c401c5e8ed823099f689e64324629ff3de8c7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "666tri;bent nails arrangement counted once."
     },
     {
       "id": "BM_016",
@@ -19903,7 +19908,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_016_CC0.zip",
       "pictured_zip_sha256": "8a28f09fb40e3a466f8e3a03c1696f767c8de147b880ce98c6fceb72989d6b19",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2060tri;static tongs,articulation untested."
     },
     {
       "id": "BM_017",
@@ -19940,7 +19946,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_017_CC0.zip",
       "pictured_zip_sha256": "f59cb99c0c4e8a04e73b873cad1f5fc18958fc5d49bc39d2219676a3865211f0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1004tri;angular whetstone style retained,abrasive performance untested."
     },
     {
       "id": "BM_018",
@@ -19977,7 +19984,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_018_CC0.zip",
       "pictured_zip_sha256": "1199131bf8b92e48eef958487cbd1c2c18ebae058edccc4714e68c7ad8d24443",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "8258tri;scratch strips retained,hinge motion untested."
     },
     {
       "id": "BM_019",
@@ -20014,7 +20022,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_019_CC0.zip",
       "pictured_zip_sha256": "84d8bee4b0616d24ba7b3a0667bdf0bdc651e48c3cfd0550641153bee954172e",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "740tri;no functional use guarantee."
     },
     {
       "id": "BM_020",
@@ -20051,7 +20060,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_020_CC0.zip",
       "pictured_zip_sha256": "1e1c6f238d9cdd9e3fad2022b713ab3440f45831e2669d3f5912dea59270fbce",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1756tri;blue walnut boards only,pale frame/iron retained,geometry/UV/vertex colors unchanged."
     },
     {
       "id": "BM_021",
@@ -45678,6 +45688,43 @@
       "uv_revision": "original UV and vertex colors retained; ceramic UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_006_CC0.zip",
       "pictured_zip_sha256": "d1c89e2d678e15fb061f314e4df94ad53b4f59e0c1019c4ce0870c525e978554",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_020__bluewood",
+      "kind": "variant",
+      "base_id": "BM_020",
+      "name_en": "Shallow parts tray",
+      "name_ja": "浅い部品箱",
+      "purpose_en": "Blue UV tint on walnut board surfaces of shallow parts tray; lighter frame, iron and all non-basecolor channels unchanged. Original mesh, UV and vertex colors preserved. Same base model, not new shape.",
+      "record_kind": "model",
+      "image": "previews/quality-bm011-020-v1/BM_020__bluewood_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm011-020-v1/BM_020__bluewood_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm011_bm020.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm011-020-v1/BM_020__bluewood_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; walnut board UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_020_CC0.zip",
+      "pictured_zip_sha256": "1e1c6f238d9cdd9e3fad2022b713ab3440f45831e2669d3f5912dea59270fbce",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
