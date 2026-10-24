@@ -4052,7 +4052,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_019_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "d06e9246c5af825c8467fb5ee77a73f346c5dca709102a4449792fc80713c665",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_019__repair",
+          "base_id": "OL_019",
+          "entity_type": "revision",
+          "geometry_revision": "compact_pair_v1",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "クッション2個を個別形状不変の平行移動で間隔12cmへまとめた配置改訂。旧配置とは世界座標形状が異なる。",
+          "zip": "OL_019__repair_CC0.zip",
+          "bytes": 1965346,
+          "sha256": "c8affc3a1a989408c55e83c0967789e84898ac2f992baf5432333b9cab384f89",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_019__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_020",
@@ -4156,7 +4173,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_023_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "fef0d7d7ef4f33cd8f72be57d386edcdfe5cd2830ad50d0b8eb4eee59f829156",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_023__repair",
+          "base_id": "OL_023",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "水差しの強い反復釉薬模様を抑え、口・胴・取っ手を読みやすくした材質改訂。",
+          "zip": "OL_023__repair_CC0.zip",
+          "bytes": 2746004,
+          "sha256": "d773ca0a258a73d63b166123356bf68927b94932431f51070e9f3c5d1c19e788",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_023__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_024",
@@ -4182,7 +4216,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/OL_024_CC0.zip",
       "theme": "OL",
       "original_preview_sha256": "0e9f5c3908b7ad87ade417153d16eaf72ac71173e763a0d0f0b44ae587039727",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "OL_024__repair",
+          "base_id": "OL_024",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "finish": "repair",
+          "description": "飾り壺の反復模様を弱め、金帯と口元の形を明瞭化した材質改訂。",
+          "zip": "OL_024__repair_CC0.zip",
+          "bytes": 2726218,
+          "sha256": "8f85c41e6202a85ed478a2cde25de1331f25a4c185c5ec286c80f4a90dd14ed8",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_024__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "OL_025",

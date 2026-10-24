@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 97,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1384,6 +1384,21 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol005-014-v1/OL_014__color_CC0.zip"
+    },
+    {
+      "id": "OL_019__color",
+      "base_id": "OL_019",
+      "entity_type": "material_variant",
+      "geometry_revision": "compact_pair_v1",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "finish": "color",
+      "description": "compact_pair_v1\u914d\u7f6e\u3092\u4fdd\u6301\u3057\u305f\u7dd1/\u8d64\u8336\u306e\u30af\u30c3\u30b7\u30e7\u30f3\u4e00\u5f0f\u3002\u91d1\u30dc\u30bf\u30f3\u30fb\u7e2b\u3044\u7cf8\u306f\u4fdd\u6301\u3002",
+      "zip": "OL_019__color_CC0.zip",
+      "bytes": 2684603,
+      "sha256": "23ed9fae6681819f4e029d4701092fc188c35339349f4c61619dd1b9b3b99321",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ol015-024-v1/OL_019__color_CC0.zip"
     }
   ]
 }

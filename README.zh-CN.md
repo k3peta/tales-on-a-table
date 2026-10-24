@@ -3,9 +3,11 @@
 [画像付きカタログ対応一覧 / Illustrated catalogue index / 图像目录](catalog/IMAGE-COVERAGE.md)
 当前已公开 **1008条分发记录**（2026-10-24 JST）。全部历史中的独立形状总数尚未确认。[台账](manifest.json)为准。以下数量及分发说明均为各次发布时的历史记录。
 
-**96个材质变体单独统计**；既有1008条分发记录不变，新基本形状0。
+**97个材质变体单独统计**；既有1008条分发记录不变，新基本形状0。
 
 ## 发布历史
+
+- 2026-10-24 JST — 1008 unchanged; material variants97=96+1; three revisions not added. [OL015–024](catalog/material_variants_ol015_024.md).
 
 - 2026-10-24 JST — 1008 unchanged; material variants96=92+4; three revisions not added. [OL005–014](catalog/material_variants_ol005_014.md).
 
