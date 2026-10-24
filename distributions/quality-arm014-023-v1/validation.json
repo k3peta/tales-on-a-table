@@ -1,0 +1,221 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "4eb1d5af0eee30d4d489bc3bc9edb84fd2be8986",
+  "guard_run_id": "6f463450-8fcf-401e-88fe-2ee15de743e9",
+  "started_utc": "2026-10-24T15:47:36.164432+00:00",
+  "finished_utc": "2026-10-24T15:47:49.395435+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "ARM_014__repair",
+      "zip": "ARM_014__repair_CC0.zip",
+      "zip_sha256": "8acd7ffb2c6d33dcf46d3e2d00e245e00c1b9af05318ceacdb3438797dce5d4d",
+      "members": {
+        "ARM_014__repair.blend": "cfc195db93c4bca678e2cd091b99fa19c254db2592e7028b6bd852bb00382ef5",
+        "ARM_014__repair.glb": "abefdc3c14a94b0b88a5f081ce2bf676e58fdefb3fe3b63e6cb7bdb634ff5f9f"
+      }
+    },
+    {
+      "id": "ARM_021__repair",
+      "zip": "ARM_021__repair_CC0.zip",
+      "zip_sha256": "2cbbfe48652d598ec332baac0feade9bbed1af9ab56ae9684f9f543aa079018b",
+      "members": {
+        "ARM_021__repair.glb": "3fc33ea1546c9e9f21d23781001ce9837e952da16bc08218b8df5e6ccc830352",
+        "ARM_021__repair.blend": "5cc509c5af4e4248522b8e88e2f254b40dcae26daa7838e3c9e15cb6c1347c4f"
+      }
+    },
+    {
+      "id": "ARM_022__bluehide",
+      "zip": "ARM_022__bluehide_CC0.zip",
+      "zip_sha256": "1d999e14faef5670b2a8322cf66d0ad7ab7f7c6ddd2038d19d808143a6e60923",
+      "members": {
+        "ARM_022__bluehide.blend": "9c747b8bc9879120ea6233bd9bd411b4b716d0f50082ebd236815b7de8cddb86",
+        "ARM_022__bluehide.glb": "e286237071e80f2dcb2b57b3f15b45da67028be98d940cde957d43a41b7530a4"
+      }
+    },
+    {
+      "id": "ARM_023__rusthide",
+      "zip": "ARM_023__rusthide_CC0.zip",
+      "zip_sha256": "8b90ff69a32fced46e606fc7cc7bb6067051e64f99ab04b1105b43e260bfaf5a",
+      "members": {
+        "ARM_023__rusthide.glb": "c98f3b35c3939334a114494b9128ea5407fd16139dd720455c31d25d94ac1722",
+        "ARM_023__rusthide.blend": "f3f25923d3bb19c17bb62bf43e7138c440a3caa9238edd190dce7fabdaeb0e85"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "ARM_014__repair",
+      "formats": {
+        "blend": {
+          "triangles": 14840,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 14840,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_021__repair",
+      "formats": {
+        "blend": {
+          "triangles": 92210,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 92210,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_022__bluehide",
+      "formats": {
+        "blend": {
+          "triangles": 66056,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 66056,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_023__rusthide",
+      "formats": {
+        "blend": {
+          "triangles": 77600,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 77600,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "vertex_color_gate": {
+    "status": "PASS",
+    "run_id": "6f463450-8fcf-401e-88fe-2ee15de743e9",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    },
+    "checked_utc": "2026-10-24T15:48:45.144792+00:00",
+    "script_sha256": "6d81816ad138c234bab0c6aed512fe726589c92d47665acee834be404ac02be8",
+    "color_results": [
+      {
+        "id": "ARM_014__repair",
+        "formats": {
+          "glb": {
+            "pass": true,
+            "sha256": "abefdc3c14a94b0b88a5f081ce2bf676e58fdefb3fe3b63e6cb7bdb634ff5f9f",
+            "colored_triangle_count": 14840,
+            "oriented_triangle_colors_sha256": "48fd3fd018ab1238aed1c368387dbbebd9cea9127be7ad609a1eb2af65bac446"
+          },
+          "blend": {
+            "pass": true,
+            "sha256": "cfc195db93c4bca678e2cd091b99fa19c254db2592e7028b6bd852bb00382ef5",
+            "colored_triangle_count": 14840,
+            "oriented_triangle_colors_sha256": "48fd3fd018ab1238aed1c368387dbbebd9cea9127be7ad609a1eb2af65bac446"
+          }
+        },
+        "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+      },
+      {
+        "id": "ARM_021__repair",
+        "formats": {
+          "glb": {
+            "pass": true,
+            "sha256": "3fc33ea1546c9e9f21d23781001ce9837e952da16bc08218b8df5e6ccc830352",
+            "colored_triangle_count": 92210,
+            "oriented_triangle_colors_sha256": "e495e89256e201e605131157afa417f504f6a27bdf6179c12a47d51bda74ae25"
+          },
+          "blend": {
+            "pass": true,
+            "sha256": "5cc509c5af4e4248522b8e88e2f254b40dcae26daa7838e3c9e15cb6c1347c4f",
+            "colored_triangle_count": 92210,
+            "oriented_triangle_colors_sha256": "e495e89256e201e605131157afa417f504f6a27bdf6179c12a47d51bda74ae25"
+          }
+        },
+        "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+      },
+      {
+        "id": "ARM_022__bluehide",
+        "formats": {
+          "glb": {
+            "pass": true,
+            "sha256": "e286237071e80f2dcb2b57b3f15b45da67028be98d940cde957d43a41b7530a4",
+            "colored_triangle_count": 66056,
+            "oriented_triangle_colors_sha256": "d236dcb94b14e58aa1241da2a08b27f9381e3aad66b3cf3f4cf081793d5b7e3f"
+          },
+          "blend": {
+            "pass": true,
+            "sha256": "9c747b8bc9879120ea6233bd9bd411b4b716d0f50082ebd236815b7de8cddb86",
+            "colored_triangle_count": 66056,
+            "oriented_triangle_colors_sha256": "d236dcb94b14e58aa1241da2a08b27f9381e3aad66b3cf3f4cf081793d5b7e3f"
+          }
+        },
+        "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+      },
+      {
+        "id": "ARM_023__rusthide",
+        "formats": {
+          "glb": {
+            "pass": true,
+            "sha256": "c98f3b35c3939334a114494b9128ea5407fd16139dd720455c31d25d94ac1722",
+            "colored_triangle_count": 77600,
+            "oriented_triangle_colors_sha256": "00417c554f799b9912c6d42d1d49bb6584e5389b87428b7cb66c7ceba940772e"
+          },
+          "blend": {
+            "pass": true,
+            "sha256": "f3f25923d3bb19c17bb62bf43e7138c440a3caa9238edd190dce7fabdaeb0e85",
+            "colored_triangle_count": 77600,
+            "oriented_triangle_colors_sha256": "00417c554f799b9912c6d42d1d49bb6584e5389b87428b7cb66c7ceba940772e"
+          }
+        },
+        "scope": "oriented per-triangle vertex colors, grouped by material; topology correspondence separately ZIP guard and exact mapped geometry cleanup"
+      }
+    ],
+    "scope": "actual final ZIP extracted BLEND/GLB triangle corner colors; no relaxed color tolerance"
+  }
+}

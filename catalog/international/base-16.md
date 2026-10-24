@@ -172,6 +172,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality38:** 8 zero-area triangles removed;29 positive tiny retained;14840tri. [Details](../material_variants_arm014_arm023.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_014__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm014-023-v1/ARM_014__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_015
 
 **巡礼の石槌**
@@ -327,6 +329,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
 **Quality38:** 30 zero-area triangles removed;6 positive tiny retained;92210tri over20k and regular grain remain. [Details](../material_variants_arm014_arm023.md).
+
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_021__repair_CC0.zip) · [Matching revision preview](../../previews/quality-arm014-023-v1/ARM_021__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
 
 ## ARM_022
 

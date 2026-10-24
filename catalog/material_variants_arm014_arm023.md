@@ -6,7 +6,7 @@ ARM014 removes8 exact-zero triangles, ARM021 removes30; positive tiny surfaces r
 
 改訂2件は非加算。盾の青革/赤錆色革variant2件は別集計。元頂点色と形状UVを保持。2个修订不新增模型，2个盾面颜色变体单独统计；保留原顶点色、几何和UV。
 
-Same camera/light/scale comparisons. Final-ZIP geometry/UV guard plus separate oriented triangle vertex-color gate cover actual extracted BLEND and GLB. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Final-ZIP geometry/UV guard plus separate oriented triangle vertex-color gate cover actual extracted BLEND and GLB. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed376 distribution records,632 remain;87 budget/redesign issues unresolved. Static display props: collision, weapon function, load, animation, optical equivalence and Blender4.3.2 untested. ARM01557496, ARM01729884, ARM018117948, ARM01973184, ARM02084396, ARM02192210, ARM02266056, ARM02377600 triangles exceed20k. Existing ARM001/003 quality37 GLB vertex-color-loss alert remains unresolved; earlier geometry/UV pass was not color preservation.
 
@@ -75,3 +75,5 @@ Shield hide basecolor chroma variant; original vertex color retained, UV tint te
 [![ARM_023__rusthide close_comparison](../previews/quality-arm014-023-v1/ARM_023__rusthide_close_comparison.png)](../previews/quality-arm014-023-v1/ARM_023__rusthide_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-arm014-023-v1/validation.json).

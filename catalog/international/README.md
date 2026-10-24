@@ -2,7 +2,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.145/145 variants pictured.** 125 recorded latest revisions have matched image/ZIP evidence; two new ARM001/003 revisions await public retrieval; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.145/145 variants pictured.** All127 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +145 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -157,4 +157,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality37 variants](variant-06.md):143 separately counted material variants; base1008 unchanged. Latest ARM001/003 revisions public image/ZIP match verified.
 
-[Quality38 variants](variant-06.md):145 separately counted material variants; base1008 unchanged. Latest ARM001/003 revisions public image/ZIP match pending.
+[Quality38 variants](variant-06.md):145 separately counted material variants; base1008 unchanged. Latest ARM001/003 revisions public image/ZIP match verified.

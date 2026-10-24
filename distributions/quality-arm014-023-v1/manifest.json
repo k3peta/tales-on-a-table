@@ -12,7 +12,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_014__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "ARM_021__repair",
@@ -26,7 +26,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_021__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "ARM_022__bluehide",
@@ -40,7 +40,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_022__bluehide_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     },
     {
       "id": "ARM_023__rusthide",
@@ -54,7 +54,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_023__rusthide_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+      "qa_status": "public_download_matches_final_zip_guard"
     }
   ],
   "new_base_models": 0,

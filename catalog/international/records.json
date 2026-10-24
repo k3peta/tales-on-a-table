@@ -16488,7 +16488,8 @@
         {
           "id": "ARM_014__repair",
           "catalog": "catalog/material_variants_arm014_arm023.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "8 zero-area triangles removed;29 positive tiny retained;14840tri."
@@ -16756,7 +16757,8 @@
         {
           "id": "ARM_021__repair",
           "catalog": "catalog/material_variants_arm014_arm023.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "30 zero-area triangles removed;6 positive tiny retained;92210tri over20k and regular grain remain."
