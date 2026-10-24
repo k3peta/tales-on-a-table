@@ -11388,7 +11388,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "public_download_matches_final_zip_guard"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "recommendation_status": "withdrawn_pending_vertex_color_correction",
+          "format_quality_status": {
+            "GLB": "vertex_color_preservation_failed",
+            "BLEND": "color_preservation_not_cleared_by_this_alert"
+          }
         }
       ]
     },
@@ -11464,7 +11470,13 @@
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip",
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
-          "qa_status": "public_download_matches_final_zip_guard"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "recommendation_status": "withdrawn_pending_vertex_color_correction",
+          "format_quality_status": {
+            "GLB": "vertex_color_preservation_failed",
+            "BLEND": "color_preservation_not_cleared_by_this_alert"
+          }
         }
       ]
     },

@@ -1,5 +1,7 @@
 # Quality37 / 品質第37便 / 质量第37批
 
+> Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
+
 Base1008 unchanged; material variants143=141+2 counted separately. Two revisions add no model; all originals retained.
 
 ARM00142 andARM00396 exact-zero triangles removed; all positive surfaces retained. ARM001160 andARM00319 positive tiny triangles retained. ARM00341808tri remains over20k. TD017 orange crystal body variant retains original geometry but adds missing UV before baseline; not original-UV-invariant. ARM011 teal pennant retains original geometry and UV. Only basecolor changes, with no new emission or changed transmission/IOR/roughness; not liquid-color variants.

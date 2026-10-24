@@ -524,6 +524,8 @@ Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../
 
 ## ARM_001
 
+> Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
+
 **竜翼鍔の旅剣**
 
 竜翼鍔の旅剣
@@ -573,6 +575,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 **Quality37:** 29068tri over20k; authored mottled display-alloy material, no color-to-normal error detected. [Details](../material_variants_td017_arm013.md).
 
 ## ARM_003
+
+> Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
 **海門守護の伝説剣**
 

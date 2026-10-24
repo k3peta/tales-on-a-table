@@ -16107,10 +16107,22 @@
           "id": "ARM_001__repair",
           "catalog": "catalog/material_variants_td017_arm013.md",
           "status": "public_download_matches_final_zip_guard",
-          "qa_status": "public_download_matches_final_zip_guard"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "recommendation_status": "withdrawn_pending_vertex_color_correction",
+          "format_quality_status": {
+            "GLB": "vertex_color_preservation_failed",
+            "BLEND": "color_preservation_not_cleared_by_this_alert"
+          }
         }
       ],
-      "known_issue": "42 exact-zero triangles removed;160 positive tiny retained;10426tri."
+      "known_issue": "42 exact-zero triangles removed;160 positive tiny retained;10426tri.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "recommendation_status": "withdrawn_pending_vertex_color_correction",
+      "format_quality_status": {
+        "GLB": "vertex_color_preservation_failed",
+        "BLEND": "color_preservation_not_cleared_by_this_alert"
+      }
     },
     {
       "id": "ARM_002",
@@ -16191,10 +16203,22 @@
           "id": "ARM_003__repair",
           "catalog": "catalog/material_variants_td017_arm013.md",
           "status": "public_download_matches_final_zip_guard",
-          "qa_status": "public_download_matches_final_zip_guard"
+          "qa_status": "public_download_matches_final_zip_guard",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "recommendation_status": "withdrawn_pending_vertex_color_correction",
+          "format_quality_status": {
+            "GLB": "vertex_color_preservation_failed",
+            "BLEND": "color_preservation_not_cleared_by_this_alert"
+          }
         }
       ],
-      "known_issue": "96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k."
+      "known_issue": "96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "recommendation_status": "withdrawn_pending_vertex_color_correction",
+      "format_quality_status": {
+        "GLB": "vertex_color_preservation_failed",
+        "BLEND": "color_preservation_not_cleared_by_this_alert"
+      }
     },
     {
       "id": "ARM_004",
