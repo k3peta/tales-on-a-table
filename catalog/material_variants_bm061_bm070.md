@@ -6,7 +6,7 @@ BM061 purple cabbage and BM063 red onion: packed UV surface color textures, geom
 
 10配布レコード/10モデル査定。紫キャベツ・赤玉葱variant2件、基本・改訂加算0。10个配布记录/10个模型；紫甘蓝与红洋葱两个材质变体，基础数量不变。多边形预算超限仅指甘蓝。
 
-Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not color loss. Five known color-loss fixtures rejected. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparison. Final-ZIP checks both BLEND/GLB geometry/UV/spatial vertex attributes. All ten originals lack COLOR_0; retained absence is not color loss. Five known color-loss fixtures rejected. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed506 distribution records;502 remain;143 polygon-budget issues remain including cabbage. Color variants do not repair geometry or raise quality scores. Cabbage vein-curve redesign not implemented; a normal texture's leather name alone does not establish a reference defect. BM007/BM054 diagnoses remain unresolved. BM029 failed candidate remains distinct from the public original.
 
@@ -45,3 +45,5 @@ Vegetable surface color replaced by packed UV textures; original geometry, UV an
 [![BM_063__red_onion close_comparison](../previews/quality-bm061-070-v1/BM_063__red_onion_close_comparison.png)](../previews/quality-bm061-070-v1/BM_063__red_onion_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-bm061-070-v1/validation.json).

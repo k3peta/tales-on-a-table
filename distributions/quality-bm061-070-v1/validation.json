@@ -1,0 +1,123 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "37582ec34d631b8b976adfa05014414aa2c32180",
+  "guard_run_id": "3cf134c4-e62b-461f-b0bc-382ea717b0c5",
+  "started_utc": "2026-10-24T17:41:40.392617+00:00",
+  "finished_utc": "2026-10-24T17:41:42.731432+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "BM_061__purple_cabbage",
+      "zip": "BM_061__purple_cabbage_CC0.zip",
+      "zip_sha256": "b96aebd0ff5cbe13b4b54fa896c7424f4bc03993f1d73edb8ebce948d4348268",
+      "members": {
+        "BM_061__purple_cabbage.glb": "d1d6a4b642aa63994df4de8b7b98f865410409badc08987f5f01afac4fbf4bad",
+        "BM_061__purple_cabbage.blend": "97b7a6dcc76ac250f397d88a39e151afaa2cd2bda460656a186b6cc2eafc659d"
+      }
+    },
+    {
+      "id": "BM_063__red_onion",
+      "zip": "BM_063__red_onion_CC0.zip",
+      "zip_sha256": "021ead70d756e5c607fbbda9fd11560f0dc6d4727a0b9d553280137b67f27c15",
+      "members": {
+        "BM_063__red_onion.glb": "b2824e15ef359359ce2ad91541f2f8a4b92d75b386371a1850e85bf8c58b1b94",
+        "BM_063__red_onion.blend": "089c106d99fdbd5ea7890983fc4481e604a000cac0b808dc6c2f6ea09b3aa070"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "BM_061__purple_cabbage",
+      "formats": {
+        "blend": {
+          "triangles": 35000,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 35000,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 4,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "BM_063__red_onion",
+      "formats": {
+        "blend": {
+          "triangles": 3100,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 7,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 3100,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 7,
+          "vertex_color_spatial_correspondence_equal": true,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "regression": [
+    {
+      "id": "ARM_001",
+      "format": "blend",
+      "fixture_sha256": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_001",
+      "format": "glb",
+      "fixture_sha256": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+      "reference_sha256": "00dea5a587ac00e40869c0c7f3d7060aa76264feff801d259a2fc875d709d295",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "blend",
+      "fixture_sha256": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "ARM_003",
+      "format": "glb",
+      "fixture_sha256": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+      "reference_sha256": "787ec5ca08d6fed446616c51e1ed1d9b2609dcc856774be08e705380a55ceb3b",
+      "same_geometry": true,
+      "missing_colors_rejected": true
+    },
+    {
+      "id": "BM_029",
+      "format": "glb",
+      "fixture_sha256": "c4e44a7ad9c4f34134b9ca9455fd687d07f2df81b2c3c7603c05c512a5d14682",
+      "reference_sha256": "e8e821dc2a5f175017362dd2efb7d4e0db3aa20fc7f18ecec42d16974b6bf116",
+      "same_geometry": true,
+      "missing_colors_rejected": true,
+      "scope": "rejected candidate only; public source original color data present"
+    }
+  ]
+}
