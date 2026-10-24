@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "TD_017__orange",
+      "base_id": "TD_017",
+      "entity_type": "material_variant",
+      "zip": "TD_017__orange_CC0.zip",
+      "sha256": "9a1f199a349f2225665218bcf48678e36c5c18ef31d2ef0a151912c278894e5e",
+      "bytes": 112655,
+      "description": "TD017 gem body or ARM011 pennant cloth basecolor texture only. Original geometry retained; TD017 UV added before color baseline. Other material channels unchanged. Not a liquid-color variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/TD_017__orange_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_001__repair",
+      "base_id": "ARM_001",
+      "entity_type": "revision",
+      "zip": "ARM_001__repair_CC0.zip",
+      "sha256": "3a4340294e5168dcb3247c905d3dc14a3018de02d267d5d28655d85d53fd473b",
+      "bytes": 703841,
+      "description": "Exact-zero-area cleanup: ARM001 42 faces or ARM003 96 faces. All positive surfaces retained; ARM003 remains over budget. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_003__repair",
+      "base_id": "ARM_003",
+      "entity_type": "revision",
+      "zip": "ARM_003__repair_CC0.zip",
+      "sha256": "07a7ad6955d986bd89030052380a2e6910ff75618c94171828e4960db5ca3a15",
+      "bytes": 2034628,
+      "description": "Exact-zero-area cleanup: ARM001 42 faces or ARM003 96 faces. All positive surfaces retained; ARM003 remains over budget. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_011__tealcloth",
+      "base_id": "ARM_011",
+      "entity_type": "material_variant",
+      "zip": "ARM_011__tealcloth_CC0.zip",
+      "sha256": "f5d0513c5f7d887df0b14bdb906de23b49a018564441868a9e7dae0f12e077d9",
+      "bytes": 1794985,
+      "description": "TD017 gem body or ARM011 pennant cloth basecolor texture only. Original geometry retained; TD017 UV added before color baseline. Other material channels unchanged. Not a liquid-color variant.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_011__tealcloth_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 2
+}

@@ -520,6 +520,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/treasury.en.md) · [Catalogue 2](../../catalog/treasury.md) · [Catalogue 3](../../catalog/treasury.zh-CN.md)
 
+**Quality37:** Orange body-color variant retains geometry; missing UV added before baseline. [Details](../material_variants_td017_arm013.md).
+
 ## ARM_001
 
 **竜翼鍔の旅剣**
@@ -541,6 +543,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality37:** 42 exact-zero triangles removed;160 positive tiny retained;10426tri. [Details](../material_variants_td017_arm013.md).
 
 ## ARM_002
 
@@ -564,6 +568,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality37:** 29068tri over20k; authored mottled display-alloy material, no color-to-normal error detected. [Details](../material_variants_td017_arm013.md).
+
 ## ARM_003
 
 **海門守護の伝説剣**
@@ -585,3 +591,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+**Quality37:** 96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k. [Details](../material_variants_td017_arm013.md).

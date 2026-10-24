@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality37:** 156580tri over20k; rope/aged materials authored; redesign open. [Details](../material_variants_td017_arm013.md).
+
 ## ARM_005
 
 **山道の短剣**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality37:** 36 positive tiny stamped triangles retained; loose hide token not proven defective. [Details](../material_variants_td017_arm013.md).
 
 ## ARM_006
 
@@ -70,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality37:** 124796tri over20k; redesign open. [Details](../material_variants_td017_arm013.md).
+
 ## ARM_007
 
 **月形の斧**
@@ -91,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality37:** 18805tri; static prop, load/function untested. [Details](../material_variants_td017_arm013.md).
 
 ## ARM_011
 
@@ -114,6 +122,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality37:** 22384tri over20k;272 positive tiny retained; teal cloth retains geometry/UV. [Details](../material_variants_td017_arm013.md).
+
 ## ARM_013
 
 **貝波飾りの海神三叉槍**
@@ -135,6 +145,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality37:** 127892tri over20k; redesign open. [Details](../material_variants_td017_arm013.md).
 
 ## ARM_014
 

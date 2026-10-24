@@ -11374,7 +11374,23 @@
       "zip_sha256": "2cc42526049acdfd62926ce922ead0324381ee2e4a6a846c72266e7bdf008f96",
       "preview_file": "previews/ARM_001_preview.jpg",
       "preview_sha256": "b4bb7f53a7747e0107533f865cbb8f667b626121eab27e5c2f53e01c31f40ebb",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_001_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_001_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_001__repair",
+          "base_id": "ARM_001",
+          "entity_type": "revision",
+          "zip": "ARM_001__repair_CC0.zip",
+          "sha256": "3a4340294e5168dcb3247c905d3dc14a3018de02d267d5d28655d85d53fd473b",
+          "bytes": 703841,
+          "description": "Exact-zero-area cleanup: ARM001 42 faces or ARM003 96 faces. All positive surfaces retained; ARM003 remains over budget. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_002",
@@ -11434,7 +11450,23 @@
       "zip_sha256": "01b88360f1bbf1d25a8cb1f7b408d0934f202507e12fde5dfe4fe93015072e17",
       "preview_file": "previews/ARM_003_preview.jpg",
       "preview_sha256": "f233600d7b3d660cf075e1ccfd831955b6cc98b893b5ee1042b4c148e7c48f26",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_003_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_003_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_003__repair",
+          "base_id": "ARM_003",
+          "entity_type": "revision",
+          "zip": "ARM_003__repair_CC0.zip",
+          "sha256": "07a7ad6955d986bd89030052380a2e6910ff75618c94171828e4960db5ca3a15",
+          "bytes": 2034628,
+          "description": "Exact-zero-area cleanup: ARM001 42 faces or ARM003 96 faces. All positive surfaces retained; ARM003 remains over budget. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_004",

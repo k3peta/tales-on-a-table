@@ -281,3 +281,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base TD_016](base-15.md#td_016) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td007-016-v1/TD_016__violet_CC0.zip) · [Full comparison](../../previews/quality-td007-016-v1/TD_016__violet_overview_comparison.png) · [Details](../material_variants_td007_016.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## TD_017__orange
+
+**Hexagonal crystal** · 六角柱の原石結晶
+
+[![TD_017__orange](../../previews/quality-td017-arm013-v1/TD_017__orange_thumb.png)](../../previews/quality-td017-arm013-v1/TD_017__orange_overview_comparison.png)
+
+Use: TD017 gem body or ARM011 pennant cloth basecolor texture only. Original geometry retained; TD017 UV added before color baseline. Other material channels unchanged. Not a liquid-color variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base TD_017](base-15.md#td_017) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/TD_017__orange_CC0.zip) · [Full comparison](../../previews/quality-td017-arm013-v1/TD_017__orange_overview_comparison.png) · [Details](../material_variants_td017_arm013.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_011__tealcloth
+
+**葉飾り儀礼槍** · 葉飾り儀礼槍
+
+[![ARM_011__tealcloth](../../previews/quality-td017-arm013-v1/ARM_011__tealcloth_thumb.png)](../../previews/quality-td017-arm013-v1/ARM_011__tealcloth_overview_comparison.png)
+
+Use: TD017 gem body or ARM011 pennant cloth basecolor texture only. Original geometry retained; TD017 UV added before color baseline. Other material channels unchanged. Not a liquid-color variant.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_011](base-16.md#arm_011) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_011__tealcloth_CC0.zip) · [Full comparison](../../previews/quality-td017-arm013-v1/ARM_011__tealcloth_overview_comparison.png) · [Details](../material_variants_td017_arm013.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
