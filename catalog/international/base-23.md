@@ -264,6 +264,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976`.
 
+**Quality55:** 1436tri stool;positive lower bound preserved,intended pivot unknown;floor placement needs height adjustment. [Details](../material_variants_fp018_pm002.md).
+
 ## FP019
 
 **Iron bound lockbox**
@@ -289,6 +291,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030`.
+
+**Quality55:** 4652tri static lockbox;grain material-review issue,no mechanism. [Details](../material_variants_fp018_pm002.md).
 
 ## FP020
 
@@ -316,6 +320,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29`.
 
+**Quality55:** 3840tri shelf requires wall placement;load untested. [Details](../material_variants_fp018_pm002.md).
+
 ## FP021
 
 **Leather dispatch satchel**
@@ -341,6 +347,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a`.
+
+**Quality55:** 24 exact-zero faces removed3580→3556tri;periodic leather texture remains. [Details](../material_variants_fp018_pm002.md).
 
 ## FP022
 
@@ -368,6 +376,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2`.
 
+**Quality55:** 876tri padlock;no functional mechanism. [Details](../material_variants_fp018_pm002.md).
+
 ## FP023
 
 **Forged hand manacles**
@@ -393,6 +403,8 @@ Origin: Encoded GLB root transform recorded; intended placement pivot unknown fo
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411`.
+
+**Quality55:** 12120tri decorative manacles;mechanism/fit/collision untested. [Details](../material_variants_fp018_pm002.md).
 
 ## FP024
 
@@ -420,6 +432,8 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 [Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081`.
 
+**Quality55:** 16728tri decorative shackles;links not separate records. [Details](../material_variants_fp018_pm002.md).
+
 ## FP025
 
 **Folded prison uniform**
@@ -443,6 +457,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+**Quality55:** 24 exact-zero faces removed17982→17958tri;positive tiny surfaces retained;blue linen uses repaired baseline. [Details](../material_variants_fp018_pm002.md).
 
 ## PM001
 
@@ -468,6 +484,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
 
+**Quality55:** 984tri floor2x2m,top0,bottom-0.16m,SW origin;3x3 validation scene not distributed. [Details](../material_variants_fp018_pm002.md).
+
 ## PM002
 
 **Solid Wall 2m**
@@ -491,6 +509,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+**Quality55:** 2172tri wall1.72m wide;0.28m pillars required at2m pitch per source README,intentional gap. [Details](../material_variants_fp018_pm002.md).
 
 ## PM003
 

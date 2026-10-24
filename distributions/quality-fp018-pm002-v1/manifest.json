@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "FP021__repair",
+      "base_id": "FP021",
+      "entity_type": "revision",
+      "zip": "FP021__repair_CC0.zip",
+      "sha256": "0a22b277282517b726872a3c6f8fa251de40fe4c0a0d2dd81919cb7fdbfff1ba",
+      "bytes": 1573208,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP021__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP025__repair",
+      "base_id": "FP025",
+      "entity_type": "revision",
+      "zip": "FP025__repair_CC0.zip",
+      "sha256": "36f2b6fca1729c834156940d5a6b681a84d957fccfd33b2410a96838c97204a6",
+      "bytes": 1118098,
+      "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "FP025__blue_linen",
+      "base_id": "FP025",
+      "entity_type": "material_variant",
+      "zip": "FP025__blue_linen_CC0.zip",
+      "sha256": "18a9c4a0549a9c7cff26535687e6b9ef3af1c0ae7739c5f4131a70fdfe826074",
+      "bytes": 1115657,
+      "description": "Blue linen UV texture recolor based on repaired FP025 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__blue_linen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 1,
+  "revisions": 2
+}

@@ -18947,7 +18947,23 @@
       "zip_file": "FP021_Leather_dispatch_satchel.zip",
       "zip_bytes": 1575511,
       "zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip",
+      "revisions": [
+        {
+          "id": "FP021__repair",
+          "base_id": "FP021",
+          "entity_type": "revision",
+          "zip": "FP021__repair_CC0.zip",
+          "sha256": "0a22b277282517b726872a3c6f8fa251de40fe4c0a0d2dd81919cb7fdbfff1ba",
+          "bytes": 1573208,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP021__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "FP022",
@@ -19019,7 +19035,23 @@
       "zip_file": "FP025_Folded_prison_uniform.zip",
       "zip_bytes": 872986,
       "zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip",
+      "revisions": [
+        {
+          "id": "FP025__repair",
+          "base_id": "FP025",
+          "entity_type": "revision",
+          "zip": "FP025__repair_CC0.zip",
+          "sha256": "36f2b6fca1729c834156940d5a6b681a84d957fccfd33b2410a96838c97204a6",
+          "bytes": 1118098,
+          "description": "Remove exact zero-area faces only; positive-area geometry, UV, colors and corner normals retained. Visual silhouette unchanged; cleanup is not a new base model.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "PM001",

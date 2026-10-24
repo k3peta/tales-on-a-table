@@ -687,3 +687,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base FP011](base-23.md#fp011) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp008-017-v1/FP011__blue_glaze_CC0.zip) · [Full comparison](../../previews/quality-fp008-017-v1/FP011__blue_glaze_overview_comparison.png) · [Details](../material_variants_fp008_fp017.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## FP025__blue_linen
+
+**Folded prison uniform** · 畳んだ囚人服
+
+[![FP025__blue_linen](../../previews/quality-fp018-pm002-v1/FP025__blue_linen_thumb.png)](../../previews/quality-fp018-pm002-v1/FP025__blue_linen_overview_comparison.png)
+
+Use: Blue linen UV texture recolor based on repaired FP025 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base FP025](base-23.md#fp025) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__blue_linen_CC0.zip) · [Full comparison](../../previews/quality-fp018-pm002-v1/FP025__blue_linen_overview_comparison.png) · [Details](../material_variants_fp018_pm002.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

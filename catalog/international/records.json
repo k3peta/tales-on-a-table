@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 170,
-      "id_mapped_preview": 170,
+      "records": 171,
+      "id_mapped_preview": 171,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 170,
-      "formats_known": 170,
+      "purpose_en_present": 171,
+      "formats_known": 171,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -23928,7 +23928,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip",
       "pictured_zip_sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1436tri stool;positive lower bound preserved,intended pivot unknown;floor placement needs height adjustment."
     },
     {
       "id": "FP019",
@@ -24006,7 +24007,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip",
       "pictured_zip_sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4652tri static lockbox;grain material-review issue,no mechanism."
     },
     {
       "id": "FP020",
@@ -24084,7 +24086,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip",
       "pictured_zip_sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "3840tri shelf requires wall placement;load untested."
     },
     {
       "id": "FP021",
@@ -24162,7 +24165,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip",
       "pictured_zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP021__repair",
+          "catalog": "catalog/material_variants_fp018_pm002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "24 exact-zero faces removed3580→3556tri;periodic leather texture remains."
     },
     {
       "id": "FP022",
@@ -24240,7 +24251,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip",
       "pictured_zip_sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "876tri padlock;no functional mechanism."
     },
     {
       "id": "FP023",
@@ -24318,7 +24330,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip",
       "pictured_zip_sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "12120tri decorative manacles;mechanism/fit/collision untested."
     },
     {
       "id": "FP024",
@@ -24396,7 +24409,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip",
       "pictured_zip_sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "16728tri decorative shackles;links not separate records."
     },
     {
       "id": "FP025",
@@ -24431,7 +24445,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip",
       "pictured_zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "FP025__repair",
+          "catalog": "catalog/material_variants_fp018_pm002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "24 exact-zero faces removed17982→17958tri;positive tiny surfaces retained;blue linen uses repaired baseline."
     },
     {
       "id": "PM001",
@@ -24466,7 +24488,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM001_Floor_2x2.zip",
       "pictured_zip_sha256": "653b9e0585fbdbef0e2452f719f4eb0580222dc5542b49b027ed5be1ebf6ba07",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "984tri floor2x2m,top0,bottom-0.16m,SW origin;3x3 validation scene not distributed."
     },
     {
       "id": "PM002",
@@ -24501,7 +24524,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/PM002_Solid_Wall_2m.zip",
       "pictured_zip_sha256": "bdad40ec2f8f10195537f608a38eca36b62354706fea7b2dce7389fb10b5224f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "2172tri wall1.72m wide;0.28m pillars required at2m pitch per source README,intentional gap."
     },
     {
       "id": "PM003",
@@ -46361,6 +46385,45 @@
       "image_manifest": "previews/prison-fp001-024/manifest.json",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
       "pictured_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "image_version_binding_status": "exact_primary_zip_image_evidence",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "FP025__blue_linen",
+      "kind": "variant",
+      "base_id": "FP025",
+      "name_en": "Folded prison uniform",
+      "name_ja": "畳んだ囚人服",
+      "purpose_en": "Blue linen UV texture recolor based on repaired FP025 geometry; original wear luminance retained, alpha/normal/roughness/emission unchanged. Geometry same as repaired baseline, not unmodified original.",
+      "record_kind": "model",
+      "image": "previews/quality-fp018-pm002-v1/FP025__blue_linen_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-fp018-pm002-v1/FP025__blue_linen_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_fp018_pm002.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-fp018-pm002-v1/FP025__blue_linen_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "same as repaired FP025 baseline;24 exact zero faces removed from original",
+      "uv_revision": "retained positive-surface UV and attribute presence; blue linen tint",
+      "full_image": "previews/prison-mill24/renders/FP025.png",
+      "image_manifest": "previews/prison-mill24/manifest.json",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP025_Folded_prison_uniform.zip",
+      "pictured_zip_sha256": "ef94147b664a06ef09d9d302f23e6534207613a4cb03ebb04459de40024d2b58",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }
