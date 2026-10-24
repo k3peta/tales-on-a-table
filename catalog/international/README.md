@@ -57,3 +57,6 @@ CC0 applies only where the individual record says CC0-1.0. Completed scene arran
 - [FT_023__new – FT_049__used](variant-03.md)
 - [FT_049__color – OL_014__color](variant-04.md)
 - [OL_019__color – OL_053__color](variant-05.md)
+
+
+[Public ZIP metadata pilot: first24 records](PILOT-24-METHOD.md) · [Production work manifest](work-manifest-391.json)

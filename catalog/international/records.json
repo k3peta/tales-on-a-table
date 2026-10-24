@@ -5,10 +5,10 @@
       "records": 1008,
       "id_mapped_preview": 617,
       "preview_not_mapped": 391,
-      "dimensions_known": 427,
-      "triangles_known": 176,
-      "purpose_en_present": 748,
-      "formats_known": 497,
+      "dimensions_known": 450,
+      "triangles_known": 200,
+      "purpose_en_present": 772,
+      "formats_known": 521,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     },
@@ -19570,17 +19570,35 @@
       "base_id": "FP001",
       "name_en": "Fixed cell grille",
       "name_ja": "固定鉄格子",
-      "purpose_en": null,
+      "purpose_en": "Fixed cell grille — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        2.245,
+        0.1265,
+        2.8
+      ],
+      "triangles": 5100,
+      "bounds_m": [
+        [
+          -1.122500043362379,
+          -0.06900000322173148,
+          -0.034999966621398926
+        ],
+        [
+          1.122500043362379,
+          0.057500001043081284,
+          2.7649999856948853
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP001_Fixed_cell_grille.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19591,7 +19609,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e",
+      "source_glb_sha256": "171b062df3b28e79319c050f1c54da58e6031fdab33cab3f9e0cd65c92b173ca",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP001_Fixed_cell_grille",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP002",
@@ -19599,17 +19642,35 @@
       "base_id": "FP002",
       "name_en": "Barred cell gate",
       "name_ja": "格子扉",
-      "purpose_en": null,
+      "purpose_en": "Barred cell gate — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        1.3475,
+        0.223,
+        2.77
+      ],
+      "triangles": 5968,
+      "bounds_m": [
+        [
+          -0.7049999795854092,
+          -0.1630000176491878,
+          -0.034999966621398926
+        ],
+        [
+          0.6425000242888927,
+          0.05999999865889549,
+          2.7350000143051147
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP002_Barred_cell_gate.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19620,7 +19681,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b",
+      "source_glb_sha256": "0890a1fe8d98505dbf45454179cb993ba7e7283cc92758ad9905fcd66860d912",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP002_Barred_cell_gate",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP003",
@@ -19628,17 +19714,35 @@
       "base_id": "FP003",
       "name_en": "Jailer trestle desk",
       "name_ja": "看守の机",
-      "purpose_en": null,
+      "purpose_en": "Jailer trestle desk — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        1.804235,
+        0.909,
+        1.03
+      ],
+      "triangles": 6268,
+      "bounds_m": [
+        [
+          -0.8939999938011169,
+          -0.45899999467830155,
+          0.03500000387430191
+        ],
+        [
+          0.9102354049682617,
+          0.44999998807907104,
+          1.064999993890524
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP003_Jailer_trestle_desk.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19649,7 +19753,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a",
+      "source_glb_sha256": "70614666529c540382d088e4811fb9b5345eff58049eafd443a6b5aa1f30aa6d",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP003_Jailer_trestle_desk",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP004",
@@ -19657,17 +19786,35 @@
       "base_id": "FP004",
       "name_en": "Jailer high back chair",
       "name_ja": "看守の背もたれ椅子",
-      "purpose_en": null,
+      "purpose_en": "Jailer high back chair — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.598,
+        0.58,
+        1.445
+      ],
+      "triangles": 4372,
+      "bounds_m": [
+        [
+          -0.29900000244379044,
+          -0.28999999165534973,
+          0.009999990463256836
+        ],
+        [
+          0.29900000244379044,
+          0.28999999165534973,
+          1.4550000429153442
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP004_Jailer_high_back_chair.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19678,7 +19825,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5",
+      "source_glb_sha256": "07881849c14cf63d0bd745b7fd89a2ab9ff5fa136896372affb5a49b6f247560",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP004_Jailer_high_back_chair",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP005",
@@ -19686,17 +19858,35 @@
       "base_id": "FP005",
       "name_en": "Wardens keyring",
       "name_ja": "鍵束",
-      "purpose_en": null,
+      "purpose_en": "Wardens keyring — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.990602,
+        0.735313,
+        0.072
+      ],
+      "triangles": 5432,
+      "bounds_m": [
+        [
+          -0.5017953347414732,
+          -0.5713125914335251,
+          0.03100000135600567
+        ],
+        [
+          0.48880634207742824,
+          0.164000004529953,
+          0.10299999918788671
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP005_Wardens_keyring.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19707,7 +19897,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed",
+      "source_glb_sha256": "83dba8056554883201269f9805a1f92ab9832104e641ca773327733685c9d9bc",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP005_Wardens_keyring",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP006",
@@ -19715,17 +19930,35 @@
       "base_id": "FP006",
       "name_en": "Straw sleeping pallet",
       "name_ja": "寝藁の寝台",
-      "purpose_en": null,
+      "purpose_en": "Straw sleeping pallet — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        1.554459,
+        2.006783,
+        0.41
+      ],
+      "triangles": 7884,
+      "bounds_m": [
+        [
+          -0.7682417631149292,
+          -0.9925019145011902,
+          -0.004999998956918716
+        ],
+        [
+          0.786217451095581,
+          1.014281153678894,
+          0.4049999937415123
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP006_Straw_sleeping_pallet.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19736,7 +19969,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250",
+      "source_glb_sha256": "5e7d70ddc19f0e763d76c0456ba97f4bae851d5e17c731fda13946f8a0d0c87b",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP006_Straw_sleeping_pallet",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP007",
@@ -19744,17 +20002,35 @@
       "base_id": "FP007",
       "name_en": "Stave water bucket",
       "name_ja": "板組みの水桶",
-      "purpose_en": null,
+      "purpose_en": "Stave water bucket — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.586,
+        0.546,
+        0.767277
+      ],
+      "triangles": 7524,
+      "bounds_m": [
+        [
+          -0.29299998842179775,
+          -0.27300000190734863,
+          0.0
+        ],
+        [
+          0.2929999902844429,
+          0.27300000190734863,
+          0.7672773599624634
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP007_Stave_water_bucket.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19765,7 +20041,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347",
+      "source_glb_sha256": "36dd7889e459c985935878583a95b9612cdb3547e078cfbd7eddbe3946bbb5f6",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP007_Stave_water_bucket",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP008",
@@ -19773,17 +20074,35 @@
       "base_id": "FP008",
       "name_en": "Wall torch",
       "name_ja": "壁松明",
-      "purpose_en": null,
+      "purpose_en": "Wall torch — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.16,
+        0.5163,
+        1.085315
+      ],
+      "triangles": 4408,
+      "bounds_m": [
+        [
+          -0.07999999821186066,
+          -0.43380000442266464,
+          0.144685010391857
+        ],
+        [
+          0.07999999821186066,
+          0.08249999955296516,
+          1.2300000190734863
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP008_Wall_torch.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19794,7 +20113,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0",
+      "source_glb_sha256": "a48b1e91dd6b943e80209e75cc77687197f0c343967e65e4efb80b0c17932297",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP008_Wall_torch",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP009",
@@ -19802,17 +20146,35 @@
       "base_id": "FP009",
       "name_en": "Coiled iron chain",
       "name_ja": "巻いた鉄鎖",
-      "purpose_en": null,
+      "purpose_en": "Coiled iron chain — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.766404,
+        0.650087,
+        0.1682
+      ],
+      "triangles": 9600,
+      "bounds_m": [
+        [
+          -0.328404141394833,
+          -0.30739316437493586,
+          -0.011100017533100803
+        ],
+        [
+          0.43800000101327896,
+          0.3426934959444817,
+          0.15710001538733417
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP009_Coiled_iron_chain.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19823,7 +20185,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7",
+      "source_glb_sha256": "3aa0600c226158e6c1757075691c5b74dbfa2e57fd52018a477527a6cf14767d",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP009_Coiled_iron_chain",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP010",
@@ -19831,17 +20218,35 @@
       "base_id": "FP010",
       "name_en": "Chipped food bowl",
       "name_ja": "欠けた食器",
-      "purpose_en": null,
+      "purpose_en": "Chipped food bowl — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.51,
+        0.51,
+        0.18
+      ],
+      "triangles": 512,
+      "bounds_m": [
+        [
+          -0.2549999952316284,
+          -0.2549999952316284,
+          0.019999999552965164
+        ],
+        [
+          0.2549999952316284,
+          0.2549999952316284,
+          0.20000000298023224
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19852,7 +20257,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
+      "source_glb_sha256": "2c9391e1d7891e3ed693a83aa8e286b837d0291e2e2cec78fb164f83168bb5a4",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP010_Chipped_food_bowl",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP011",
@@ -19860,17 +20290,35 @@
       "base_id": "FP011",
       "name_en": "Water jug",
       "name_ja": "水差し",
-      "purpose_en": null,
+      "purpose_en": "Water jug — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.585539,
+        0.48,
+        0.6
+      ],
+      "triangles": 1024,
+      "bounds_m": [
+        [
+          -0.23999999463558197,
+          -0.23999999463558197,
+          0.019999999552965164
+        ],
+        [
+          0.34553855657577515,
+          0.23999999463558197,
+          0.6200000047683716
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19881,7 +20329,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+      "source_glb_sha256": "ed437e34a50bdb16ea7d27354f4034ddb9d6a73c7332dc40fcc497fb5c103e20",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP011_Water_jug",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP012",
@@ -19889,17 +20362,35 @@
       "base_id": "FP012",
       "name_en": "Pewter drinking cup",
       "name_ja": "錫の杯",
-      "purpose_en": null,
+      "purpose_en": "Pewter drinking cup — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.340834,
+        0.244,
+        0.216
+      ],
+      "triangles": 448,
+      "bounds_m": [
+        [
+          -0.12200000137090683,
+          -0.12200000137090683,
+          0.012000000104308128
+        ],
+        [
+          0.21883368492126465,
+          0.12200000137090683,
+          0.2280000001192093
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19910,7 +20401,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
+      "source_glb_sha256": "d3f523793662ee46d7be5c4f7ac043cebda8297659a9a5900fd31dc5482f91e7",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP012_Pewter_drinking_cup",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP013",
@@ -19918,17 +20434,35 @@
       "base_id": "FP013",
       "name_en": "Prisoners ledger",
       "name_ja": "囚人台帳",
-      "purpose_en": null,
+      "purpose_en": "Prisoners ledger — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.55,
+        0.403222,
+        0.0855
+      ],
+      "triangles": 4636,
+      "bounds_m": [
+        [
+          -0.2750000059604645,
+          -0.20161095261573792,
+          0.0040000006556510925
+        ],
+        [
+          0.2750000059604645,
+          0.20161095261573792,
+          0.08950000157346949
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19939,7 +20473,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0",
+      "source_glb_sha256": "874421a6da0b3eeb4c440220a23e7fbd3373d648fbda32b835152ec27d057580",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP013_Prisoners_ledger",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP014",
@@ -19947,17 +20506,35 @@
       "base_id": "FP014",
       "name_en": "Inkpot and quill",
       "name_ja": "インク壺と羽根ペン",
-      "purpose_en": null,
+      "purpose_en": "Inkpot and quill — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.184332,
+        0.105,
+        0.527
+      ],
+      "triangles": 824,
+      "bounds_m": [
+        [
+          -0.05249999836087227,
+          -0.05249999836087227,
+          0.0
+        ],
+        [
+          0.13183221220970154,
+          0.05249999836087227,
+          0.5270000100135803
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19968,7 +20545,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051",
+      "source_glb_sha256": "541f1add338399a04172dd01efad7dfc65c3212e50d10348c3dc923c5db66d0a",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP014_Inkpot_and_quill",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP015",
@@ -19976,17 +20578,35 @@
       "base_id": "FP015",
       "name_en": "Candle and drip tray",
       "name_ja": "蝋燭と受け皿",
-      "purpose_en": null,
+      "purpose_en": "Candle and drip tray — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.391,
+        0.32,
+        0.369
+      ],
+      "triangles": 2352,
+      "bounds_m": [
+        [
+          -0.1599999964237213,
+          -0.1599999964237213,
+          0.008999991416679474
+        ],
+        [
+          0.23100000247359276,
+          0.1599999964237213,
+          0.37800000235438347
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -19997,7 +20617,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
+      "source_glb_sha256": "2d430ce4651502e49361c1a06ff9e2743732dde85681706748072c5cfb2ca97f",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP015_Candle_and_drip_tray",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP016",
@@ -20005,17 +20650,35 @@
       "base_id": "FP016",
       "name_en": "Ration bread",
       "name_ja": "配給パン",
-      "purpose_en": null,
+      "purpose_en": "Ration bread — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.38,
+        0.26,
+        0.187998
+      ],
+      "triangles": 320,
+      "bounds_m": [
+        [
+          -0.18999998271465302,
+          -0.12999999523162842,
+          -0.01000000536441803
+        ],
+        [
+          0.1899999976158142,
+          0.12999999523162842,
+          0.17799785733222961
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20026,7 +20689,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9",
+      "source_glb_sha256": "9a1b7de3cb586f2468515514876ae8100b42f121126edb09ddecf06dd1abf3b8",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP016_Ration_bread",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP017",
@@ -20034,17 +20722,35 @@
       "base_id": "FP017",
       "name_en": "Birch broom",
       "name_ja": "白樺の箒",
-      "purpose_en": null,
+      "purpose_en": "Birch broom — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.177194,
+        0.164466,
+        1.256238
+      ],
+      "triangles": 8424,
+      "bounds_m": [
+        [
+          -0.08717479883489668,
+          -0.07826327682440093,
+          0.024048195625773205
+        ],
+        [
+          0.0900188188036753,
+          0.08620264731056157,
+          1.2802859306061203
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20055,7 +20761,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
+      "source_glb_sha256": "e15ab149b703a67a39ae6021947c1a4ec67492cff7d0f2571769dd7ad452d7b7",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP017_Birch_broom",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP018",
@@ -20063,17 +20794,35 @@
       "base_id": "FP018",
       "name_en": "Three leg stool",
       "name_ja": "三脚腰掛け",
-      "purpose_en": null,
+      "purpose_en": "Three leg stool — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.562782,
+        0.56,
+        0.536174
+      ],
+      "triangles": 1436,
+      "bounds_m": [
+        [
+          -0.2800000011920929,
+          -0.2800000011920929,
+          0.03432554509592478
+        ],
+        [
+          0.2827824526464083,
+          0.2800000011920929,
+          0.5704999845474958
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20084,7 +20833,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976",
+      "source_glb_sha256": "349f935ca5a431d633d484a88c0f26a7376a9a549b6f31fedae8bd5357bb62af",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP018_Three_leg_stool",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP019",
@@ -20092,17 +20866,35 @@
       "base_id": "FP019",
       "name_en": "Iron bound lockbox",
       "name_ja": "鉄帯の小箱",
-      "purpose_en": null,
+      "purpose_en": "Iron bound lockbox — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.658,
+        0.504,
+        0.4775
+      ],
+      "triangles": 4652,
+      "bounds_m": [
+        [
+          -0.32900000736117363,
+          -0.2689999959876163,
+          0.019999995827674866
+        ],
+        [
+          0.32900000736117363,
+          0.23499999940395355,
+          0.49750001449137926
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20113,7 +20905,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030",
+      "source_glb_sha256": "cec0d87a009cd0dbf8dcf4fd48026be2f2da4589930e9d1a98a06179118e3ad2",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP019_Iron_bound_lockbox",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP020",
@@ -20121,17 +20938,35 @@
       "base_id": "FP020",
       "name_en": "Jailer wall shelf",
       "name_ja": "看守の壁棚",
-      "purpose_en": null,
+      "purpose_en": "Jailer wall shelf — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        1.448,
+        0.3875,
+        0.4825
+      ],
+      "triangles": 3840,
+      "bounds_m": [
+        [
+          -0.7240000069141388,
+          -0.1899999976158142,
+          -0.3500000014901161
+        ],
+        [
+          0.7240000069141388,
+          0.19750000722706318,
+          0.13249999657273293
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20142,7 +20977,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29",
+      "source_glb_sha256": "19ff75277d9f3e0ef5ad65bd2c521da67eddccb19e7b3af6f516155aebd80431",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP020_Jailer_wall_shelf",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP021",
@@ -20150,17 +21010,35 @@
       "base_id": "FP021",
       "name_en": "Leather dispatch satchel",
       "name_ja": "革の書類鞄",
-      "purpose_en": null,
+      "purpose_en": "Leather dispatch satchel — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.491897,
+        0.247,
+        0.787992
+      ],
+      "triangles": 3580,
+      "bounds_m": [
+        [
+          -0.24594856798648834,
+          -0.1570000120883211,
+          0.019999995827674866
+        ],
+        [
+          0.24594856798648834,
+          0.09000000357627869,
+          0.8079917430877686
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20171,7 +21049,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
+      "source_glb_sha256": "d8be2e6bcdbf4163788ef85dea770ddaad2ad22d943b7ef5c769ed8dc45ede37",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP021_Leather_dispatch_satchel",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP022",
@@ -20179,17 +21082,35 @@
       "base_id": "FP022",
       "name_en": "Old iron padlock",
       "name_ja": "古い鉄錠",
-      "purpose_en": null,
+      "purpose_en": "Old iron padlock — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.17,
+        0.0935,
+        0.299782
+      ],
+      "triangles": 876,
+      "bounds_m": [
+        [
+          -0.08500000089406967,
+          -0.056000000615362505,
+          0.004999995231628418
+        ],
+        [
+          0.08500000089406967,
+          0.03750000149011612,
+          0.30478206276893616
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20200,7 +21121,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2",
+      "source_glb_sha256": "356872f03c93cf57c2d79fe66e9a2b60811c0454e337d14052ae9617ffd2ec74",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP022_Old_iron_padlock",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP023",
@@ -20208,17 +21154,35 @@
       "base_id": "FP023",
       "name_en": "Forged hand manacles",
       "name_ja": "手枷",
-      "purpose_en": null,
+      "purpose_en": "Forged hand manacles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        0.4536,
+        0.13493,
+        0.0552
+      ],
+      "triangles": 12120,
+      "bounds_m": [
+        [
+          -0.22860001772642136,
+          -0.06296488151734309,
+          0.0005999952724562094
+        ],
+        [
+          0.22500000149011612,
+          0.07196487861385138,
+          0.055800008848460626
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20229,7 +21193,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411",
+      "source_glb_sha256": "1d5b270d4ff22655ae4582935e62b34b49f0a87650b250b9815d7653a16b5287",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP023_Forged_hand_manacles",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP024",
@@ -20237,17 +21226,35 @@
       "base_id": "FP024",
       "name_en": "Heavy ankle shackles",
       "name_ja": "足枷",
-      "purpose_en": null,
+      "purpose_en": "Heavy ankle shackles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.",
       "record_kind": "model",
       "image": null,
       "image_evidence": null,
-      "dimensions_m": null,
-      "triangles": null,
-      "bounds_m": null,
-      "measurement_evidence": null,
-      "origin": "Unknown / not independently confirmed",
-      "orientation": "Unknown / not independently confirmed",
-      "formats": [],
+      "dimensions_m": [
+        1.0764,
+        0.179242,
+        0.07215
+      ],
+      "triangles": 16728,
+      "bounds_m": [
+        [
+          -0.5401500072330236,
+          -0.08962099999189377,
+          0.004224997013807297
+        ],
+        [
+          0.5362499952316284,
+          0.08962099999189377,
+          0.07637499645352364
+        ]
+      ],
+      "measurement_evidence": "Direct parsing of SHA-verified public GLB positions, scene transforms and indices; local accessor min/max cross-check. Blender readback unavailable.",
+      "origin": "Encoded GLB root transform recorded; intended placement pivot unknown for this prop",
+      "orientation": "BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip",
       "license": "CC0-1.0",
       "license_scope": "See original ZIP license and repository license scope",
@@ -20258,7 +21265,32 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "source_zip_sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081",
+      "source_glb_sha256": "4fca54070c603d04f9b1b94d6c9dab8f55ae067c4bf04b57926448bc8021bb9b",
+      "measurement_axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+      "encoded_root_transforms": [
+        {
+          "name": "FP024_Heavy_ankle_shackles",
+          "matrix_column_major": null,
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "rotation_xyzw": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
     },
     {
       "id": "FP025",
@@ -36906,5 +37938,6 @@
       "geometry_revision": "original",
       "uv_revision": "original_uv0_plus_wearuv"
     }
-  ]
+  ],
+  "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"
 }

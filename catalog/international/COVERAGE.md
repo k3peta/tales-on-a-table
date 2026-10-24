@@ -8,10 +8,10 @@ Snapshot: 1008 base distribution records +104 material variants. Counts are not 
     "records": 1008,
     "id_mapped_preview": 617,
     "preview_not_mapped": 391,
-    "dimensions_known": 427,
-    "triangles_known": 176,
-    "purpose_en_present": 748,
-    "formats_known": 497,
+    "dimensions_known": 450,
+    "triangles_known": 200,
+    "purpose_en_present": 772,
+    "formats_known": 521,
     "origin_orientation_verified": 0,
     "all_requested_metadata_verified": 0
   },
@@ -39,3 +39,8 @@ Image counts mean verified existing ID-to-file mappings, not a new visual inspec
 4. Visually review all mapped previews and mobile pages; keep scene and image licenses separate.
 
 All1112 records now have structured cards with names, use field, formats, dimensions, origin/orientation, polygons, download and license entry points; field presence does not mean the value is known. Fully verified against every requested field:0. No new models/images/variants were added. Primary ledgers and original URLs unchanged.
+
+
+## Stage2: first24 original public ZIPs
+
+[FP001–024 metadata pilot](PILOT-24-METHOD.md): dimensions/triangle counts/formats/units and English static-use descriptions added. Intended placement origin and facing still unknown. No new individual images. [Production work manifest for391 records](work-manifest-391.json).

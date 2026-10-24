@@ -12,19 +12,21 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Chipped food bowl — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.51, 0.51, 0.18]. Scene-instance triangles: 512.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP010_Chipped_food_bowl.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05`.
 
 ## FP011
 
@@ -34,19 +36,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Water jug — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.585539, 0.48, 0.6]. Scene-instance triangles: 1024.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP011_Water_jug.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257`.
 
 ## FP012
 
@@ -56,19 +60,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Pewter drinking cup — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.340834, 0.244, 0.216]. Scene-instance triangles: 448.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP012_Pewter_drinking_cup.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5`.
 
 ## FP013
 
@@ -78,19 +84,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Prisoners ledger — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.55, 0.403222, 0.0855]. Scene-instance triangles: 4636.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP013_Prisoners_ledger.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0`.
 
 ## FP014
 
@@ -100,19 +108,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Inkpot and quill — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.184332, 0.105, 0.527]. Scene-instance triangles: 824.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP014_Inkpot_and_quill.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051`.
 
 ## FP015
 
@@ -122,19 +132,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Candle and drip tray — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.391, 0.32, 0.369]. Scene-instance triangles: 2352.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP015_Candle_and_drip_tray.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9`.
 
 ## FP016
 
@@ -144,19 +156,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Ration bread — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.38, 0.26, 0.187998]. Scene-instance triangles: 320.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP016_Ration_bread.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9`.
 
 ## FP017
 
@@ -166,19 +180,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Birch broom — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.177194, 0.164466, 1.256238]. Scene-instance triangles: 8424.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP017_Birch_broom.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459`.
 
 ## FP018
 
@@ -188,19 +204,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Three leg stool — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.562782, 0.56, 0.536174]. Scene-instance triangles: 1436.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP018_Three_leg_stool.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976`.
 
 ## FP019
 
@@ -210,19 +228,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Iron bound lockbox — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.658, 0.504, 0.4775]. Scene-instance triangles: 4652.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP019_Iron_bound_lockbox.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030`.
 
 ## FP020
 
@@ -232,19 +252,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Jailer wall shelf — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [1.448, 0.3875, 0.4825]. Scene-instance triangles: 3840.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP020_Jailer_wall_shelf.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29`.
 
 ## FP021
 
@@ -254,19 +276,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Leather dispatch satchel — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.491897, 0.247, 0.787992]. Scene-instance triangles: 3580.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP021_Leather_dispatch_satchel.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a`.
 
 ## FP022
 
@@ -276,19 +300,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Old iron padlock — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.17, 0.0935, 0.299782]. Scene-instance triangles: 876.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP022_Old_iron_padlock.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2`.
 
 ## FP023
 
@@ -298,19 +324,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Forged hand manacles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [0.4536, 0.13493, 0.0552]. Scene-instance triangles: 12120.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP023_Forged_hand_manacles.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411`.
 
 ## FP024
 
@@ -320,19 +348,21 @@ Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../..
 
 **Image pending: no verified ID-specific preview mapping yet.**
 
-Use / purpose: Unknown; see source catalogue. English use description needs review.
+Use / purpose: Heavy ankle shackles — static prop for a fictional prison scene. Visual set dressing; no functional simulation, collision or LOD supplied.
 
-Record type: model. Formats: Unknown; inspect ZIP.
+Record type: model. Formats: BLEND/GLB.
 
-Reported dimensions (metres; XYZ when derived from measured bounds, legacy axis order not reverified): Unknown. Triangles: Unknown.
+Measured dimensions (Blender-convention X × Y × Z, metres): [1.0764, 0.179242, 0.07215]. Scene-instance triangles: 16728.
 
-Origin: Unknown / not independently confirmed. Orientation: Unknown / not independently confirmed.
+Origin: Encoded GLB root transform recorded; intended placement pivot unknown for this prop. Orientation: BLEND documented Z-up; GLB native Y-up. Intended prop-facing direction not specified.
 
 [Download ZIP](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.20-prison/FP024_Heavy_ankle_shackles.zip) · [License scope](../../LICENSE.md)
 
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/prison.en.md) · [Catalogue 2](../../catalog/prison.md) · [Catalogue 3](../../catalog/prison.zh-CN.md)
+
+[Measurement evidence and limitations](PILOT-24-METHOD.md). Source ZIP SHA-256: `68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081`.
 
 ## FP025
 

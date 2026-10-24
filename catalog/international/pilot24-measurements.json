@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "FP001",
+    "source_glb_sha256": "171b062df3b28e79319c050f1c54da58e6031fdab33cab3f9e0cd65c92b173ca",
+    "source_zip_sha256": "731f28c3627c6e28e46706ccd97517c741146bf24dff1eb0147fa5cc82706a3e",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -1.122500043362379,
+        -0.034999966621398926,
+        -0.057500001043081284
+      ],
+      [
+        1.122500043362379,
+        2.7649999856948853,
+        0.06900000322173148
+      ]
+    ],
+    "bounds_m": [
+      [
+        -1.122500043362379,
+        -0.06900000322173148,
+        -0.034999966621398926
+      ],
+      [
+        1.122500043362379,
+        0.057500001043081284,
+        2.7649999856948853
+      ]
+    ],
+    "dimensions_xyz_m": [
+      2.245000086724758,
+      0.12650000426481278,
+      2.799999952316284
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 5100,
+    "mesh_instances": 41,
+    "primitive_instances": 41,
+    "encoded_root_transforms": [
+      {
+        "name": "FP001_Fixed_cell_grille",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP002",
+    "source_glb_sha256": "0890a1fe8d98505dbf45454179cb993ba7e7283cc92758ad9905fcd66860d912",
+    "source_zip_sha256": "3b02d5239f3d8bda0e7bbfd5423effca6725005ffe9ce7d290ff388cb669135b",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.7049999795854092,
+        -0.034999966621398926,
+        -0.05999999865889549
+      ],
+      [
+        0.6425000242888927,
+        2.7350000143051147,
+        0.1630000176491878
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.7049999795854092,
+        -0.1630000176491878,
+        -0.034999966621398926
+      ],
+      [
+        0.6425000242888927,
+        0.05999999865889549,
+        2.7350000143051147
+      ]
+    ],
+    "dimensions_xyz_m": [
+      1.347500003874302,
+      0.2230000163080833,
+      2.7699999809265137
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 5968,
+    "mesh_instances": 39,
+    "primitive_instances": 39,
+    "encoded_root_transforms": [
+      {
+        "name": "FP002_Barred_cell_gate",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP003",
+    "source_glb_sha256": "70614666529c540382d088e4811fb9b5345eff58049eafd443a6b5aa1f30aa6d",
+    "source_zip_sha256": "708e2e4ec92fed79b31386271b041af2b839f6631def176581c3b123045e914a",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.8939999938011169,
+        0.03500000387430191,
+        -0.44999998807907104
+      ],
+      [
+        0.9102354049682617,
+        1.064999993890524,
+        0.45899999467830155
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.8939999938011169,
+        -0.45899999467830155,
+        0.03500000387430191
+      ],
+      [
+        0.9102354049682617,
+        0.44999998807907104,
+        1.064999993890524
+      ]
+    ],
+    "dimensions_xyz_m": [
+      1.8042353987693787,
+      0.9089999827573726,
+      1.029999990016222
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 6268,
+    "mesh_instances": 38,
+    "primitive_instances": 38,
+    "encoded_root_transforms": [
+      {
+        "name": "FP003_Jailer_trestle_desk",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP004",
+    "source_glb_sha256": "07881849c14cf63d0bd745b7fd89a2ab9ff5fa136896372affb5a49b6f247560",
+    "source_zip_sha256": "b38547c10c68f187c3b30cdb2d397b0109be97d0e59639374345ccf98344ddb5",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.29900000244379044,
+        0.009999990463256836,
+        -0.28999999165534973
+      ],
+      [
+        0.29900000244379044,
+        1.4550000429153442,
+        0.28999999165534973
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.29900000244379044,
+        -0.28999999165534973,
+        0.009999990463256836
+      ],
+      [
+        0.29900000244379044,
+        0.28999999165534973,
+        1.4550000429153442
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.5980000048875809,
+      0.5799999833106995,
+      1.4450000524520874
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 4372,
+    "mesh_instances": 27,
+    "primitive_instances": 27,
+    "encoded_root_transforms": [
+      {
+        "name": "FP004_Jailer_high_back_chair",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP005",
+    "source_glb_sha256": "83dba8056554883201269f9805a1f92ab9832104e641ca773327733685c9d9bc",
+    "source_zip_sha256": "f81d1d788487a5a632c2a6dcfd59a97684a3aeb0fdd6c02befac359dfa374bed",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.5017953347414732,
+        0.03100000135600567,
+        -0.164000004529953
+      ],
+      [
+        0.48880634207742824,
+        0.10299999918788671,
+        0.5713125914335251
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.5017953347414732,
+        -0.5713125914335251,
+        0.03100000135600567
+      ],
+      [
+        0.48880634207742824,
+        0.164000004529953,
+        0.10299999918788671
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.9906016768189014,
+      0.7353125959634781,
+      0.07199999783188105
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 5432,
+    "mesh_instances": 27,
+    "primitive_instances": 27,
+    "encoded_root_transforms": [
+      {
+        "name": "FP005_Wardens_keyring",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP006",
+    "source_glb_sha256": "5e7d70ddc19f0e763d76c0456ba97f4bae851d5e17c731fda13946f8a0d0c87b",
+    "source_zip_sha256": "0cf16e0ea4b32d243d550460ca9fb44b1a541291eec1b39e488256e47e7ea250",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.7682417631149292,
+        -0.004999998956918716,
+        -1.014281153678894
+      ],
+      [
+        0.786217451095581,
+        0.4049999937415123,
+        0.9925019145011902
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.7682417631149292,
+        -0.9925019145011902,
+        -0.004999998956918716
+      ],
+      [
+        0.786217451095581,
+        1.014281153678894,
+        0.4049999937415123
+      ]
+    ],
+    "dimensions_xyz_m": [
+      1.5544592142105103,
+      2.0067830681800842,
+      0.409999992698431
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 7884,
+    "mesh_instances": 27,
+    "primitive_instances": 30,
+    "encoded_root_transforms": [
+      {
+        "name": "FP006_Straw_sleeping_pallet",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP007",
+    "source_glb_sha256": "36dd7889e459c985935878583a95b9612cdb3547e078cfbd7eddbe3946bbb5f6",
+    "source_zip_sha256": "656e453067b93a7aa03ebb602e4d518e20f078061ea481ada572ef11ab352347",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.29299998842179775,
+        0.0,
+        -0.27300000190734863
+      ],
+      [
+        0.2929999902844429,
+        0.7672773599624634,
+        0.27300000190734863
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.29299998842179775,
+        -0.27300000190734863,
+        0.0
+      ],
+      [
+        0.2929999902844429,
+        0.27300000190734863,
+        0.7672773599624634
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.5859999787062407,
+      0.5460000038146973,
+      0.7672773599624634
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 7524,
+    "mesh_instances": 40,
+    "primitive_instances": 40,
+    "encoded_root_transforms": [
+      {
+        "name": "FP007_Stave_water_bucket",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP008",
+    "source_glb_sha256": "a48b1e91dd6b943e80209e75cc77687197f0c343967e65e4efb80b0c17932297",
+    "source_zip_sha256": "19b61113b280058e0c054826704249905d863c32a989ac357a1461e4906733a0",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.07999999821186066,
+        0.144685010391857,
+        -0.08249999955296516
+      ],
+      [
+        0.07999999821186066,
+        1.2300000190734863,
+        0.43380000442266464
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.07999999821186066,
+        -0.43380000442266464,
+        0.144685010391857
+      ],
+      [
+        0.07999999821186066,
+        0.08249999955296516,
+        1.2300000190734863
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.1599999964237213,
+      0.5163000039756298,
+      1.0853150086816292
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 4408,
+    "mesh_instances": 15,
+    "primitive_instances": 15,
+    "encoded_root_transforms": [
+      {
+        "name": "FP008_Wall_torch",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP009",
+    "source_glb_sha256": "3aa0600c226158e6c1757075691c5b74dbfa2e57fd52018a477527a6cf14767d",
+    "source_zip_sha256": "66fa312031d20697e2ba7fd5f2a48946609eda89dc1428c7d5ac172a39b8c2d7",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.328404141394833,
+        -0.011100017533100803,
+        -0.3426934959444817
+      ],
+      [
+        0.43800000101327896,
+        0.15710001538733417,
+        0.30739316437493586
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.328404141394833,
+        -0.30739316437493586,
+        -0.011100017533100803
+      ],
+      [
+        0.43800000101327896,
+        0.3426934959444817,
+        0.15710001538733417
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.7664041424081119,
+      0.6500866603194175,
+      0.16820003292043498
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 9600,
+    "mesh_instances": 25,
+    "primitive_instances": 25,
+    "encoded_root_transforms": [
+      {
+        "name": "FP009_Coiled_iron_chain",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP010",
+    "source_glb_sha256": "2c9391e1d7891e3ed693a83aa8e286b837d0291e2e2cec78fb164f83168bb5a4",
+    "source_zip_sha256": "fafb3d5b2c0d8c6557bb24c0a9a60626c3a52aa677bedba619877b0a5157ee05",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.2549999952316284,
+        0.019999999552965164,
+        -0.2549999952316284
+      ],
+      [
+        0.2549999952316284,
+        0.20000000298023224,
+        0.2549999952316284
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.2549999952316284,
+        -0.2549999952316284,
+        0.019999999552965164
+      ],
+      [
+        0.2549999952316284,
+        0.2549999952316284,
+        0.20000000298023224
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.5099999904632568,
+      0.5099999904632568,
+      0.18000000342726707
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 512,
+    "mesh_instances": 1,
+    "primitive_instances": 1,
+    "encoded_root_transforms": [
+      {
+        "name": "FP010_Chipped_food_bowl",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP011",
+    "source_glb_sha256": "ed437e34a50bdb16ea7d27354f4034ddb9d6a73c7332dc40fcc497fb5c103e20",
+    "source_zip_sha256": "0fb11cfe90e9fab8be041b62c59119a0d82235e945952f80c8f481f5a0050257",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.23999999463558197,
+        0.019999999552965164,
+        -0.23999999463558197
+      ],
+      [
+        0.34553855657577515,
+        0.6200000047683716,
+        0.23999999463558197
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.23999999463558197,
+        -0.23999999463558197,
+        0.019999999552965164
+      ],
+      [
+        0.34553855657577515,
+        0.23999999463558197,
+        0.6200000047683716
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.5855385512113571,
+      0.47999998927116394,
+      0.6000000052154064
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 1024,
+    "mesh_instances": 2,
+    "primitive_instances": 2,
+    "encoded_root_transforms": [
+      {
+        "name": "FP011_Water_jug",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP012",
+    "source_glb_sha256": "d3f523793662ee46d7be5c4f7ac043cebda8297659a9a5900fd31dc5482f91e7",
+    "source_zip_sha256": "2459558df737804d3ed429746edff2018b8401558fcc218473935e304837c4f5",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.12200000137090683,
+        0.012000000104308128,
+        -0.12200000137090683
+      ],
+      [
+        0.21883368492126465,
+        0.2280000001192093,
+        0.12200000137090683
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.12200000137090683,
+        -0.12200000137090683,
+        0.012000000104308128
+      ],
+      [
+        0.21883368492126465,
+        0.12200000137090683,
+        0.2280000001192093
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.3408336862921715,
+      0.24400000274181366,
+      0.21600000001490116
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 448,
+    "mesh_instances": 2,
+    "primitive_instances": 2,
+    "encoded_root_transforms": [
+      {
+        "name": "FP012_Pewter_drinking_cup",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP013",
+    "source_glb_sha256": "874421a6da0b3eeb4c440220a23e7fbd3373d648fbda32b835152ec27d057580",
+    "source_zip_sha256": "656f6635b943f3f48d0454e7d2da5aa8045b5ea1cb67f85a029cf374c7ed87b0",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.2750000059604645,
+        0.0040000006556510925,
+        -0.20161095261573792
+      ],
+      [
+        0.2750000059604645,
+        0.08950000157346949,
+        0.20161095261573792
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.2750000059604645,
+        -0.20161095261573792,
+        0.0040000006556510925
+      ],
+      [
+        0.2750000059604645,
+        0.20161095261573792,
+        0.08950000157346949
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.550000011920929,
+      0.40322190523147583,
+      0.0855000009178184
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 4636,
+    "mesh_instances": 52,
+    "primitive_instances": 52,
+    "encoded_root_transforms": [
+      {
+        "name": "FP013_Prisoners_ledger",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP014",
+    "source_glb_sha256": "541f1add338399a04172dd01efad7dfc65c3212e50d10348c3dc923c5db66d0a",
+    "source_zip_sha256": "5d129d8c7dc8833580806614bbbf783fdc1fa42631cf7aff99854b1580264051",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.05249999836087227,
+        0.0,
+        -0.05249999836087227
+      ],
+      [
+        0.13183221220970154,
+        0.5270000100135803,
+        0.05249999836087227
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.05249999836087227,
+        -0.05249999836087227,
+        0.0
+      ],
+      [
+        0.13183221220970154,
+        0.05249999836087227,
+        0.5270000100135803
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.1843322105705738,
+      0.10499999672174454,
+      0.5270000100135803
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 824,
+    "mesh_instances": 4,
+    "primitive_instances": 4,
+    "encoded_root_transforms": [
+      {
+        "name": "FP014_Inkpot_and_quill",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP015",
+    "source_glb_sha256": "2d430ce4651502e49361c1a06ff9e2743732dde85681706748072c5cfb2ca97f",
+    "source_zip_sha256": "b0a4294582db1f01972dff7da3901c47f85879fc1b5b1e5964e5c1bf458b75a9",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.1599999964237213,
+        0.008999991416679474,
+        -0.1599999964237213
+      ],
+      [
+        0.23100000247359276,
+        0.37800000235438347,
+        0.1599999964237213
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.1599999964237213,
+        -0.1599999964237213,
+        0.008999991416679474
+      ],
+      [
+        0.23100000247359276,
+        0.1599999964237213,
+        0.37800000235438347
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.39099999889731407,
+      0.3199999928474426,
+      0.369000010937704
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 2352,
+    "mesh_instances": 9,
+    "primitive_instances": 9,
+    "encoded_root_transforms": [
+      {
+        "name": "FP015_Candle_and_drip_tray",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP016",
+    "source_glb_sha256": "9a1b7de3cb586f2468515514876ae8100b42f121126edb09ddecf06dd1abf3b8",
+    "source_zip_sha256": "c417c00872830e3f288ceddfc0838a37b846aacfa9e1ac4c4b13e1e50c470ca9",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.18999998271465302,
+        -0.01000000536441803,
+        -0.12999999523162842
+      ],
+      [
+        0.1899999976158142,
+        0.17799785733222961,
+        0.12999999523162842
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.18999998271465302,
+        -0.12999999523162842,
+        -0.01000000536441803
+      ],
+      [
+        0.1899999976158142,
+        0.12999999523162842,
+        0.17799785733222961
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.3799999803304672,
+      0.25999999046325684,
+      0.18799786269664764
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 320,
+    "mesh_instances": 4,
+    "primitive_instances": 4,
+    "encoded_root_transforms": [
+      {
+        "name": "FP016_Ration_bread",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP017",
+    "source_glb_sha256": "e15ab149b703a67a39ae6021947c1a4ec67492cff7d0f2571769dd7ad452d7b7",
+    "source_zip_sha256": "74ff7378f1fa6ef13d4519500a07ff5c8c556b6cf5e1cda53965825e5c817459",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.08717479883489668,
+        0.024048195625773205,
+        -0.08620264731056157
+      ],
+      [
+        0.0900188188036753,
+        1.2802859306061203,
+        0.07826327682440093
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.08717479883489668,
+        -0.07826327682440093,
+        0.024048195625773205
+      ],
+      [
+        0.0900188188036753,
+        0.08620264731056157,
+        1.2802859306061203
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.17719361763857197,
+      0.1644659241349625,
+      1.256237734980347
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 8424,
+    "mesh_instances": 48,
+    "primitive_instances": 48,
+    "encoded_root_transforms": [
+      {
+        "name": "FP017_Birch_broom",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP018",
+    "source_glb_sha256": "349f935ca5a431d633d484a88c0f26a7376a9a549b6f31fedae8bd5357bb62af",
+    "source_zip_sha256": "4cc40dfb9cf0e329a47c9e675f09fa5c768762ed87265896d66e65377858a976",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.2800000011920929,
+        0.03432554509592478,
+        -0.2800000011920929
+      ],
+      [
+        0.2827824526464083,
+        0.5704999845474958,
+        0.2800000011920929
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.2800000011920929,
+        -0.2800000011920929,
+        0.03432554509592478
+      ],
+      [
+        0.2827824526464083,
+        0.2800000011920929,
+        0.5704999845474958
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.5627824538385011,
+      0.5600000023841858,
+      0.5361744394515711
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 1436,
+    "mesh_instances": 7,
+    "primitive_instances": 7,
+    "encoded_root_transforms": [
+      {
+        "name": "FP018_Three_leg_stool",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP019",
+    "source_glb_sha256": "cec0d87a009cd0dbf8dcf4fd48026be2f2da4589930e9d1a98a06179118e3ad2",
+    "source_zip_sha256": "9108a795183804b226c0ce56f05693435f9461507defad2fa9b44c0907ab4030",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.32900000736117363,
+        0.019999995827674866,
+        -0.23499999940395355
+      ],
+      [
+        0.32900000736117363,
+        0.49750001449137926,
+        0.2689999959876163
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.32900000736117363,
+        -0.2689999959876163,
+        0.019999995827674866
+      ],
+      [
+        0.32900000736117363,
+        0.23499999940395355,
+        0.49750001449137926
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.6580000147223473,
+      0.5039999953915699,
+      0.4775000186637044
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 4652,
+    "mesh_instances": 26,
+    "primitive_instances": 26,
+    "encoded_root_transforms": [
+      {
+        "name": "FP019_Iron_bound_lockbox",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP020",
+    "source_glb_sha256": "19ff75277d9f3e0ef5ad65bd2c521da67eddccb19e7b3af6f516155aebd80431",
+    "source_zip_sha256": "858295286a22fcf748ded74208949afbca15d528a4d7fe059894ee3304615d29",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.7240000069141388,
+        -0.3500000014901161,
+        -0.19750000722706318
+      ],
+      [
+        0.7240000069141388,
+        0.13249999657273293,
+        0.1899999976158142
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.7240000069141388,
+        -0.1899999976158142,
+        -0.3500000014901161
+      ],
+      [
+        0.7240000069141388,
+        0.19750000722706318,
+        0.13249999657273293
+      ]
+    ],
+    "dimensions_xyz_m": [
+      1.4480000138282776,
+      0.3875000048428774,
+      0.48249999806284904
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 3840,
+    "mesh_instances": 20,
+    "primitive_instances": 20,
+    "encoded_root_transforms": [
+      {
+        "name": "FP020_Jailer_wall_shelf",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP021",
+    "source_glb_sha256": "d8be2e6bcdbf4163788ef85dea770ddaad2ad22d943b7ef5c769ed8dc45ede37",
+    "source_zip_sha256": "2be9c747a7c3d351506367905c4c1e0967af8bc2794960550972d487f04a2e7a",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.24594856798648834,
+        0.019999995827674866,
+        -0.09000000357627869
+      ],
+      [
+        0.24594856798648834,
+        0.8079917430877686,
+        0.1570000120883211
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.24594856798648834,
+        -0.1570000120883211,
+        0.019999995827674866
+      ],
+      [
+        0.24594856798648834,
+        0.09000000357627869,
+        0.8079917430877686
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.4918971359729767,
+      0.24700001566459978,
+      0.7879917472600937
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 3580,
+    "mesh_instances": 31,
+    "primitive_instances": 31,
+    "encoded_root_transforms": [
+      {
+        "name": "FP021_Leather_dispatch_satchel",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP022",
+    "source_glb_sha256": "356872f03c93cf57c2d79fe66e9a2b60811c0454e337d14052ae9617ffd2ec74",
+    "source_zip_sha256": "9ed40f8b846e265fce310f9c0385369f2a01a53a23cc47d3a0e47d4a350158a2",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.08500000089406967,
+        0.004999995231628418,
+        -0.03750000149011612
+      ],
+      [
+        0.08500000089406967,
+        0.30478206276893616,
+        0.056000000615362505
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.08500000089406967,
+        -0.056000000615362505,
+        0.004999995231628418
+      ],
+      [
+        0.08500000089406967,
+        0.03750000149011612,
+        0.30478206276893616
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.17000000178813934,
+      0.09350000210547862,
+      0.29978206753730774
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 876,
+    "mesh_instances": 6,
+    "primitive_instances": 6,
+    "encoded_root_transforms": [
+      {
+        "name": "FP022_Old_iron_padlock",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP023",
+    "source_glb_sha256": "1d5b270d4ff22655ae4582935e62b34b49f0a87650b250b9815d7653a16b5287",
+    "source_zip_sha256": "24849a97198f841b73095ac6f3dfcacb29a5db524a8073c01d024e4b723aa411",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.22860001772642136,
+        0.0005999952724562094,
+        -0.07196487861385138
+      ],
+      [
+        0.22500000149011612,
+        0.055800008848460626,
+        0.06296488151734309
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.22860001772642136,
+        -0.06296488151734309,
+        0.0005999952724562094
+      ],
+      [
+        0.22500000149011612,
+        0.07196487861385138,
+        0.055800008848460626
+      ]
+    ],
+    "dimensions_xyz_m": [
+      0.4536000192165375,
+      0.13492976013119445,
+      0.05520001357600442
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 12120,
+    "mesh_instances": 1,
+    "primitive_instances": 3,
+    "encoded_root_transforms": [
+      {
+        "name": "FP023_Forged_hand_manacles",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  },
+  {
+    "id": "FP024",
+    "source_glb_sha256": "4fca54070c603d04f9b1b94d6c9dab8f55ae067c4bf04b57926448bc8021bb9b",
+    "source_zip_sha256": "68d7bd65280a1ebfa53788388b7cf20bfac15565f4d2fbe146f1591ab9de2081",
+    "method": "Direct GLB accessor positions + active-scene hierarchical TRS/matrix; local accessor min/max cross-check; no renderer",
+    "units": "metres per packaged README",
+    "native_glb_bounds_m": [
+      [
+        -0.5401500072330236,
+        0.004224997013807297,
+        -0.08962099999189377
+      ],
+      [
+        0.5362499952316284,
+        0.07637499645352364,
+        0.08962099999189377
+      ]
+    ],
+    "bounds_m": [
+      [
+        -0.5401500072330236,
+        -0.08962099999189377,
+        0.004224997013807297
+      ],
+      [
+        0.5362499952316284,
+        0.08962099999189377,
+        0.07637499645352364
+      ]
+    ],
+    "dimensions_xyz_m": [
+      1.076400002464652,
+      0.17924199998378754,
+      0.07214999943971634
+    ],
+    "axes": "Blender convention XYZ / Z-up converted from glTF Y-up using (x,-z,y)",
+    "scene_instance_triangles": 16728,
+    "mesh_instances": 1,
+    "primitive_instances": 3,
+    "encoded_root_transforms": [
+      {
+        "name": "FP024_Heavy_ankle_shackles",
+        "matrix_column_major": null,
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "rotation_xyzw": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "intended_front": "Unknown; not specified for this prop in packaged README",
+    "intended_placement_origin": "Unknown; modular floor/wall instructions do not establish FP prop pivots"
+  }
+]
