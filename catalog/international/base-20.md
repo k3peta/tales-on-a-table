@@ -266,6 +266,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality48:** 1502tri;clouded mirror,physical optics unverified. [Details](../material_variants_bm031_bm040.md).
+
 ## BM_032
 
 **Unsheathed dagger**
@@ -287,6 +289,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality48:** 4446tri dagger plus broken-hilt/gem-knife members;one record. [Details](../material_variants_bm031_bm040.md).
 
 ## BM_033
 
@@ -310,6 +314,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality48:** 5568tri;missing tooth intentional,no functional fit. [Details](../material_variants_bm031_bm040.md).
+
 ## BM_034
 
 **Flattened cushion**
@@ -331,6 +337,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality48:** 39742tri exceeds20k budget;rust-red fabric variant retains geometry/UV/colors. [Details](../material_variants_bm031_bm040.md).
 
 ## BM_035
 
@@ -354,6 +362,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality48:** 8588tri;static ties and contents,no physics. [Details](../material_variants_bm031_bm040.md).
+
 ## BM_036
 
 **Open hardware crate**
@@ -375,6 +385,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality48:** 4864tri;contents assembly not additional records. [Details](../material_variants_bm031_bm040.md).
 
 ## BM_037
 
@@ -398,6 +410,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality48:** 52220tri exceeds20k budget;blue fabric variant is not lightweight redesign. [Details](../material_variants_bm031_bm040.md).
+
 ## BM_038
 
 **Rolled drawing tube**
@@ -419,6 +433,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality48:** 29196tri exceeds20k budget;no open/close rig. [Details](../material_variants_bm031_bm040.md).
 
 ## BM_039
 
@@ -442,6 +458,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality48:** 864tri;iron-offcut arrangement one record. [Details](../material_variants_bm031_bm040.md).
+
 ## BM_040
 
 **Intact dining fork**
@@ -463,6 +481,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality48:** 436tri plus broken-fork member;intentional derivative,not intact-model defect. [Details](../material_variants_bm031_bm040.md).
 
 ## BM_041
 

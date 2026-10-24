@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 158,
-      "id_mapped_preview": 158,
+      "records": 160,
+      "id_mapped_preview": 160,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 158,
-      "formats_known": 158,
+      "purpose_en_present": 160,
+      "formats_known": 160,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -20478,7 +20478,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_031_CC0.zip",
       "pictured_zip_sha256": "1cc9d9efcd2e2ee957f5208471cc1f607b96fad74072f35c5c87121f30c4d018",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "1502tri;clouded mirror,physical optics unverified."
     },
     {
       "id": "BM_032",
@@ -20515,7 +20516,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_032_CC0.zip",
       "pictured_zip_sha256": "5e1adb77233a86277cc9feca89000320f98ec425fcd7e55476118579f95634ac",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4446tri dagger plus broken-hilt/gem-knife members;one record."
     },
     {
       "id": "BM_033",
@@ -20552,7 +20554,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_033_CC0.zip",
       "pictured_zip_sha256": "65cd66b644c537b847ba6487af9a53724c6f71e23f0286e76628d43e1061a28a",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "5568tri;missing tooth intentional,no functional fit."
     },
     {
       "id": "BM_034",
@@ -20589,7 +20592,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_034_CC0.zip",
       "pictured_zip_sha256": "b2961ff878bb0b380263c074b70c4d4050248787b474d9cb0fb42ac77375215c",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "39742tri exceeds20k budget;rust-red fabric variant retains geometry/UV/colors."
     },
     {
       "id": "BM_035",
@@ -20626,7 +20630,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_035_CC0.zip",
       "pictured_zip_sha256": "13e42a6b1881087d7b24d0a0e962ff5050429e4406589db38acf9d1db8e19bc7",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "8588tri;static ties and contents,no physics."
     },
     {
       "id": "BM_036",
@@ -20663,7 +20668,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_036_CC0.zip",
       "pictured_zip_sha256": "cf6b950a116f97d31c36163cd08845838145e2f38d1a0822224f243587d15015",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "4864tri;contents assembly not additional records."
     },
     {
       "id": "BM_037",
@@ -20700,7 +20706,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_037_CC0.zip",
       "pictured_zip_sha256": "80797cef0b2b7967ed74a2cc6dd1656552ce7c938e151076dbd5169b310590d8",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "52220tri exceeds20k budget;blue fabric variant is not lightweight redesign."
     },
     {
       "id": "BM_038",
@@ -20737,7 +20744,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_038_CC0.zip",
       "pictured_zip_sha256": "cede118656841611cd298c6190da6dbd314bb3a51cc1db8e44b4ffda0f6e8ae1",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "29196tri exceeds20k budget;no open/close rig."
     },
     {
       "id": "BM_039",
@@ -20774,7 +20782,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_039_CC0.zip",
       "pictured_zip_sha256": "a24dbb4d0293d189357236cb9c09102d8cc523ead32c0c0184ae06838815bba5",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "864tri;iron-offcut arrangement one record."
     },
     {
       "id": "BM_040",
@@ -20811,7 +20820,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_040_CC0.zip",
       "pictured_zip_sha256": "3433b16ae49e13af217dcae979c3a57140573b039559b85f8721ee746fe93024",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "436tri plus broken-fork member;intentional derivative,not intact-model defect."
     },
     {
       "id": "BM_041",
@@ -45772,6 +45782,80 @@
       "uv_revision": "original UV and vertex colors retained; teal mask face UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_026_CC0.zip",
       "pictured_zip_sha256": "e3e954dd056c166c17a1dd762775571cdfb2843c224dacc5daafacdbe1a0f9a6",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_034__rustred",
+      "kind": "variant",
+      "base_id": "BM_034",
+      "name_en": "Flattened cushion",
+      "name_ja": "ぺしゃんこの座布団",
+      "purpose_en": "Rust-red UV tint on cushion main moss fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.",
+      "record_kind": "model",
+      "image": "previews/quality-bm031-040-v1/BM_034__rustred_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_034__rustred_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm031_bm040.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm031-040-v1/BM_034__rustred_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; main fabric UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_034_CC0.zip",
+      "pictured_zip_sha256": "b2961ff878bb0b380263c074b70c4d4050248787b474d9cb0fb42ac77375215c",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "BM_037__bluecloth",
+      "kind": "variant",
+      "base_id": "BM_037",
+      "name_en": "Tied cloth bundle",
+      "name_ja": "紐で括った布包み",
+      "purpose_en": "Blue UV tint on cloth bundle main rust fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.",
+      "record_kind": "model",
+      "image": "previews/quality-bm031-040-v1/BM_037__bluecloth_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_037__bluecloth_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_bm031_bm040.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-bm031-040-v1/BM_037__bluecloth_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry unchanged",
+      "uv_revision": "original UV and vertex colors retained; main fabric UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_037_CC0.zip",
+      "pictured_zip_sha256": "80797cef0b2b7967ed74a2cc6dd1656552ce7c938e151076dbd5169b310590d8",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

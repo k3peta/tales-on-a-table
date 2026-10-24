@@ -519,3 +519,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_026](base-20.md#bm_026) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm021-030-v1/BM_026__tealmask_CC0.zip) · [Full comparison](../../previews/quality-bm021-030-v1/BM_026__tealmask_overview_comparison.png) · [Details](../material_variants_bm021_bm030.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_034__rustred
+
+**Flattened cushion** · ぺしゃんこの座布団
+
+[![BM_034__rustred](../../previews/quality-bm031-040-v1/BM_034__rustred_thumb.png)](../../previews/quality-bm031-040-v1/BM_034__rustred_overview_comparison.png)
+
+Use: Rust-red UV tint on cushion main moss fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_034](base-20.md#bm_034) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_034__rustred_CC0.zip) · [Full comparison](../../previews/quality-bm031-040-v1/BM_034__rustred_overview_comparison.png) · [Details](../material_variants_bm031_bm040.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_037__bluecloth
+
+**Tied cloth bundle** · 紐で括った布包み
+
+[![BM_037__bluecloth](../../previews/quality-bm031-040-v1/BM_037__bluecloth_thumb.png)](../../previews/quality-bm031-040-v1/BM_037__bluecloth_overview_comparison.png)
+
+Use: Blue UV tint on cloth bundle main rust fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_037](base-20.md#bm_037) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_037__bluecloth_CC0.zip) · [Full comparison](../../previews/quality-bm031-040-v1/BM_037__bluecloth_overview_comparison.png) · [Details](../material_variants_bm031_bm040.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

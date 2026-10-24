@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "BM_034__rustred",
+      "base_id": "BM_034",
+      "entity_type": "material_variant",
+      "zip": "BM_034__rustred_CC0.zip",
+      "sha256": "e71b55f18803d2f219fad0fae585fc2a3e74ec53617db133a6b7fcd9eeba5e0a",
+      "bytes": 2638432,
+      "description": "Rust-red UV tint on cushion main moss fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_034__rustred_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BM_037__bluecloth",
+      "base_id": "BM_037",
+      "entity_type": "material_variant",
+      "zip": "BM_037__bluecloth_CC0.zip",
+      "sha256": "b44a70129e020e59ea6f5ed916e1e9ce5a61c9c1903e57919cfbd12675d45395",
+      "bytes": 3527827,
+      "description": "Blue UV tint on cloth bundle main rust fabric. Original geometry, UV, vertex colors, patches/cords and non-basecolor channels unchanged. Not a mesh repair or new shape; polygon budget remains exceeded.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_037__bluecloth_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 0
+}
