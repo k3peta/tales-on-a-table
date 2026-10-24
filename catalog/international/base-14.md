@@ -352,6 +352,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality34:** 94360tri over20k budget;5 flat-color meshes lack UV; shoulder/neck contact and trim diagnosis pending. [Details](../material_variants_cp024_if002.md).
+
 ## CP_025
 
 **Gold-trimmed admiral's hat**
@@ -373,6 +375,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality34:** 126 exact-zero triangles removed;130 tiny positive retained;36394tri over20k. Green variant uses repaired and added-UV baseline. [Details](../material_variants_cp024_if002.md).
 
 ## CP_026
 
@@ -396,6 +400,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality34:** 256 exact-zero triangles removed;30068tri. Door motion/animal fit untested. [Details](../material_variants_cp024_if002.md).
+
 ## CP_027
 
 **Freestanding parrot perch**
@@ -417,6 +423,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality34:** 1 flat-color mesh lacks UV; perching fit/load untested. [Details](../material_variants_cp024_if002.md).
 
 ## CP_028
 
@@ -440,6 +448,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality34:** 549 exact-zero triangles removed;70 missing UV layers added;25127tri over20k. Static pose, no rig or attachment validation. [Details](../material_variants_cp024_if002.md).
+
 ## CP_029
 
 **Floor globe on wooden legs**
@@ -461,6 +471,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality34:** 1 flat-color mesh lacks UV; map accuracy/rotation untested. [Details](../material_variants_cp024_if002.md).
 
 ## CP_030
 
@@ -484,6 +496,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
 
+**Quality34:** 1 missing UV retained; loose-looking inner straps require diagnosis, no repair claim. [Details](../material_variants_cp024_if002.md).
+
 ## CP_031
 
 **Tall leather travel bag**
@@ -505,6 +519,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/captain-cabin.en.md) · [Catalogue 2](../../catalog/captain-cabin.md) · [Catalogue 3](../../catalog/captain-cabin.zh-CN.md)
+
+**Quality34:** 32 exact-zero triangles removed; shoulder strap continuity/contact still under diagnosis. [Details](../material_variants_cp024_if002.md).
 
 ## IF_001
 
@@ -528,6 +544,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
 
+**Quality34:** 1229 exact-zero triangles removed;112271tri over50k; positive tiny surfaces retained. [Details](../material_variants_cp024_if002.md).
+
 ## IF_002
 
 **Short-pile fur rug**
@@ -549,3 +567,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/independent-furnishings.en.md) · [Catalogue 2](../../catalog/independent-furnishings.md) · [Catalogue 3](../../catalog/independent-furnishings.zh-CN.md)
+**Quality34:** 27504 exact-zero pile triangles removed;138158tri over50k. HQ/main only, original LOD1 unassessed and unchanged. [Details](../material_variants_cp024_if002.md).

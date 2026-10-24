@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 MortarHawkTrowel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRH202_MortarHawkTrowel](../../previews/mrt102-csh24/thumbnails/MRH202_MortarHawkTrowel.png)](../../previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png)
 
 Use / purpose: MRH202_MortarHawkTrowel
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/masonry_handling_v2.md)
 
 HCV901
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV901](../../previews/mrt102-csh24/thumbnails/HCV901.png)](../../previews/mrt102-csh24/renders/HCV901.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/HCV901.png)
 
 Use / purpose: HCV901: Twin roller hand grape crusher
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/winery_utilities_v1.md)
 
 HCV902
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV902](../../previews/mrt102-csh24/thumbnails/HCV902.png)](../../previews/mrt102-csh24/renders/HCV902.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/HCV902.png)
 
 Use / purpose: HCV902: Open ended hollow wine sampling thief
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/winery_utilities_v1.md)
 
 HCV903
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV903](../../previews/mrt102-csh24/thumbnails/HCV903.png)](../../previews/mrt102-csh24/renders/HCV903.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/HCV903.png)
 
 Use / purpose: HCV903: Six cell protective bottle carrier
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/winery_utilities_v1.md)
 
 HCV1001
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![HCV1001](../../previews/mrt102-csh24/thumbnails/HCV1001.png)](../../previews/mrt102-csh24/renders/HCV1001.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/HCV1001.png)
 
 Use / purpose: HCV1001: Raised goat care platform with cleated ramp and open guide frame
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/goat_care_platform_v1.md)
 
 ChapelShell
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPT101_ChapelShell](../../previews/mrt102-csh24/thumbnails/CPT101_ChapelShell.png)](../../previews/mrt102-csh24/renders/CPT101_ChapelShell.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPT101_ChapelShell.png)
 
 Use / purpose: CPT101_ChapelShell
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 SunAltar
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPT102_SunAltar](../../previews/mrt102-csh24/thumbnails/CPT102_SunAltar.png)](../../previews/mrt102-csh24/renders/CPT102_SunAltar.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPT102_SunAltar.png)
 
 Use / purpose: CPT102_SunAltar
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 PrayerKneeler
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPT103_PrayerKneeler](../../previews/mrt102-csh24/thumbnails/CPT103_PrayerKneeler.png)](../../previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png)
 
 Use / purpose: CPT103_PrayerKneeler
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 PaddedPell
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPT201_PaddedPell](../../previews/mrt102-csh24/thumbnails/CPT201_PaddedPell.png)](../../previews/mrt102-csh24/renders/CPT201_PaddedPell.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPT201_PaddedPell.png)
 
 Use / purpose: CPT201_PaddedPell
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 Chapel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPTV01_Chapel](../../previews/mrt102-csh24/thumbnails/CPTV01_Chapel.png)](../../previews/mrt102-csh24/renders/CPTV01_Chapel.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPTV01_Chapel.png)
 
 Use / purpose: CPTV01_Chapel
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 TrainingCourt
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CPTV02_TrainingCourt](../../previews/mrt102-csh24/thumbnails/CPTV02_TrainingCourt.png)](../../previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png)
 
 Use / purpose: CPTV02_TrainingCourt
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/chapel_training_v1.md)
 
 CanvasStretcher
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![INF101_CanvasStretcher](../../previews/mrt102-csh24/thumbnails/INF101_CanvasStretcher.png)](../../previews/mrt102-csh24/renders/INF101_CanvasStretcher.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/INF101_CanvasStretcher.png)
 
 Use / purpose: INF101_CanvasStretcher
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md)
 
 BedsideCantileverTray
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![INF102_BedsideCantileverTray](../../previews/mrt102-csh24/thumbnails/INF102_BedsideCantileverTray.png)](../../previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png)
 
 Use / purpose: INF102_BedsideCantileverTray
 
@@ -296,7 +322,9 @@ Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md)
 
 FantasyInfirmary
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![INFV01_FantasyInfirmary](../../previews/mrt102-csh24/thumbnails/INFV01_FantasyInfirmary.png)](../../previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png)
 
 Use / purpose: INFV01_FantasyInfirmary
 
@@ -318,7 +346,9 @@ Source details: [Catalogue 1](../../catalog/fantasy_infirmary_v1.md)
 
 CSH101
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH101](../../previews/mrt102-csh24/thumbnails/CSH101.png)](../../previews/mrt102-csh24/renders/CSH101.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CSH101.png)
 
 Use / purpose: CSH101: Carved wooden shoe last
 
@@ -340,7 +370,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH102
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH102](../../previews/mrt102-csh24/thumbnails/CSH102.png)](../../previews/mrt102-csh24/renders/CSH102.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CSH102.png)
 
 Use / purpose: CSH102: Cobbler sole-working stake on tripod
 
@@ -362,7 +394,9 @@ Source details: [Catalogue 1](../../catalog/craft_shops_v1.md)
 
 CSH201
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![CSH201](../../previews/mrt102-csh24/thumbnails/CSH201.png)](../../previews/mrt102-csh24/renders/CSH201.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/CSH201.png)
 
 Use / purpose: CSH201: Linen fitting form with waist measure
 

@@ -10198,7 +10198,23 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "CP_025__repair",
+          "base_id": "CP_025",
+          "entity_type": "revision",
+          "zip": "CP_025__repair_CC0.zip",
+          "sha256": "14c74b0081e8ccde55373c7ce888201c82bf6bbaa9235f5088628dfad44394ff",
+          "bytes": 1506848,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": null,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_025__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "CP_026",
@@ -10230,7 +10246,23 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "CP_026__repair",
+          "base_id": "CP_026",
+          "entity_type": "revision",
+          "zip": "CP_026__repair_CC0.zip",
+          "sha256": "9dde50e18f745f18d931764f873266bc3a86bd2273055392d0557c0e3c431150",
+          "bytes": 1176341,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": null,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_026__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "CP_027",
@@ -10294,7 +10326,23 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "CP_028__repair",
+          "base_id": "CP_028",
+          "entity_type": "revision",
+          "zip": "CP_028__repair_CC0.zip",
+          "sha256": "6944744da51523eeb5c7e96a25a87dc57d0ac58a97d01dc4b2d82ab8c304934b",
+          "bytes": 930014,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": null,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_028__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "CP_029",
@@ -10390,7 +10438,23 @@
       "theme": "CP",
       "revision": "captain-v3-r1",
       "production_phase": "v3_new_design",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "CP_031__repair",
+          "base_id": "CP_031",
+          "entity_type": "revision",
+          "zip": "CP_031__repair_CC0.zip",
+          "sha256": "08852da87c1654b78a6b0985b321879e6c4b61f03f8a0baaf8793c243e869379",
+          "bytes": 415896,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": null,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_031__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "IF_001",
@@ -10421,7 +10485,23 @@
       "preview_file": "previews/IF_001_preview.png",
       "preview_sha256": "e00ae263cb4f71aa220da71ee6ad2c994fbced76f849c5fccbcc8d7cc43a3c93",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_001_CC0.zip",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "IF_001__repair",
+          "base_id": "IF_001",
+          "entity_type": "revision",
+          "zip": "IF_001__repair_CC0.zip",
+          "sha256": "c945765cbe591ba63fe78a42e5f13944cc26b562585fa69c03b859e0b67c2e54",
+          "bytes": 7115028,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": null,
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/IF_001__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "IF_002",
@@ -10452,7 +10532,23 @@
       "preview_file": "previews/IF_002_preview.png",
       "preview_sha256": "e79678eee10620bad9bef8afe601190d19f1fff83383052b41c66f9da0101009",
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-independent-furnishings/IF_002_CC0.zip",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "IF_002__repair",
+          "base_id": "IF_002",
+          "entity_type": "revision",
+          "zip": "IF_002__repair_CC0.zip",
+          "sha256": "86f62791f2f304741dc34608a18347cee6524315be9f239b1c9263b8fd16b7d1",
+          "bytes": 10257969,
+          "description": "Exact-zero-area cleanup only, all positive surfaces retained; missing UV added where recorded in revision notes. No new base.",
+          "scope_note": "HQ/main only; original LOD1 retained separately and not revised",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/IF_002__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "IF_003",

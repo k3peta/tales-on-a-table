@@ -140,3 +140,31 @@ HCV402
 [![HCV402](../previews/hcv-chb24/thumbnails/HCV402.png)](../previews/hcv-chb24/renders/HCV402.png)
 
 [Full image](../previews/hcv-chb24/renders/HCV402.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV402-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CSH101 — CSH101
+
+CSH101
+
+[![CSH101](../previews/mrt102-csh24/thumbnails/CSH101.png)](../previews/mrt102-csh24/renders/CSH101.png)
+
+[Full image](../previews/mrt102-csh24/renders/CSH101.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip)
+
+### CSH102 — CSH102
+
+CSH102
+
+[![CSH102](../previews/mrt102-csh24/thumbnails/CSH102.png)](../previews/mrt102-csh24/renders/CSH102.png)
+
+[Full image](../previews/mrt102-csh24/renders/CSH102.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip)
+
+### CSH201 — CSH201
+
+CSH201
+
+[![CSH201](../previews/mrt102-csh24/thumbnails/CSH201.png)](../previews/mrt102-csh24/renders/CSH201.png)
+
+[Full image](../previews/mrt102-csh24/renders/CSH201.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip)

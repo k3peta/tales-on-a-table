@@ -422,7 +422,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 SurveyCross
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT102_SurveyCross](../../previews/mrt102-csh24/thumbnails/MRT102_SurveyCross.png)](../../previews/mrt102-csh24/renders/MRT102_SurveyCross.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT102_SurveyCross.png)
 
 Use / purpose: MRT102_SurveyCross
 
@@ -444,7 +446,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 ArchCentering
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT103_ArchCentering](../../previews/mrt102-csh24/thumbnails/MRT103_ArchCentering.png)](../../previews/mrt102-csh24/renders/MRT103_ArchCentering.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT103_ArchCentering.png)
 
 Use / purpose: MRT103_ArchCentering
 
@@ -466,7 +470,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 StoneLiftingSocket
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT104_StoneLiftingSocket](../../previews/mrt102-csh24/thumbnails/MRT104_StoneLiftingSocket.png)](../../previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png)
 
 Use / purpose: MRT104_StoneLiftingSocket
 
@@ -488,7 +494,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 RollerStoneSled
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT105_RollerStoneSled](../../previews/mrt102-csh24/thumbnails/MRT105_RollerStoneSled.png)](../../previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png)
 
 Use / purpose: MRT105_RollerStoneSled
 
@@ -510,7 +518,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 GateBarStorage
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT106_GateBarStorage](../../previews/mrt102-csh24/thumbnails/MRT106_GateBarStorage.png)](../../previews/mrt102-csh24/renders/MRT106_GateBarStorage.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT106_GateBarStorage.png)
 
 Use / purpose: MRT106_GateBarStorage
 
@@ -532,7 +542,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 FiresteelKit
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRT107_FiresteelKit](../../previews/mrt102-csh24/thumbnails/MRT107_FiresteelKit.png)](../../previews/mrt102-csh24/renders/MRT107_FiresteelKit.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRT107_FiresteelKit.png)
 
 Use / purpose: MRT107_FiresteelKit
 
@@ -554,7 +566,9 @@ Source details: [Catalogue 1](../../catalog/masonry_road_tools_v1.md)
 
 ShoulderHod
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![MRH201_ShoulderHod](../../previews/mrt102-csh24/thumbnails/MRH201_ShoulderHod.png)](../../previews/mrt102-csh24/renders/MRH201_ShoulderHod.png)
+
+[Full-size image](../../previews/mrt102-csh24/renders/MRH201_ShoulderHod.png)
 
 Use / purpose: MRH201_ShoulderHod
 

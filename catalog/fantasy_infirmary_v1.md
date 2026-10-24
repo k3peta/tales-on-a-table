@@ -64,3 +64,31 @@ Two static model candidates and one assembly; six existing types reused. Floor 7
 ![治療院配置（INF101担架・INF102寝台トレイ） bedside_close](../previews/catalog-20261024/INFV01_FantasyInfirmary-bedside_close.jpg)
 
 ![治療院配置（INF101担架・INF102寝台トレイ） care_and_transfer](../previews/catalog-20261024/INFV01_FantasyInfirmary-care_and_transfer.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### INF101_CanvasStretcher — CanvasStretcher
+
+CanvasStretcher
+
+[![INF101_CanvasStretcher](../previews/mrt102-csh24/thumbnails/INF101_CanvasStretcher.png)](../previews/mrt102-csh24/renders/INF101_CanvasStretcher.png)
+
+[Full image](../previews/mrt102-csh24/renders/INF101_CanvasStretcher.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip)
+
+### INF102_BedsideCantileverTray — BedsideCantileverTray
+
+BedsideCantileverTray
+
+[![INF102_BedsideCantileverTray](../previews/mrt102-csh24/thumbnails/INF102_BedsideCantileverTray.png)](../previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png)
+
+[Full image](../previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip)
+
+### INFV01_FantasyInfirmary — FantasyInfirmary
+
+FantasyInfirmary
+
+[![INFV01_FantasyInfirmary](../previews/mrt102-csh24/thumbnails/INFV01_FantasyInfirmary.png)](../previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png)
+
+[Full image](../previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip)

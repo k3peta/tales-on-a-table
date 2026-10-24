@@ -148,3 +148,55 @@ PlumbLevel
 [![MRT101_PlumbLevel](../previews/chbv-mrt24/thumbnails/MRT101_PlumbLevel.png)](../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png)
 
 [Full image](../previews/chbv-mrt24/renders/MRT101_PlumbLevel.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT101_PlumbLevel_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### MRT102_SurveyCross — SurveyCross
+
+SurveyCross
+
+[![MRT102_SurveyCross](../previews/mrt102-csh24/thumbnails/MRT102_SurveyCross.png)](../previews/mrt102-csh24/renders/MRT102_SurveyCross.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT102_SurveyCross.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT102_SurveyCross_CC0.zip)
+
+### MRT103_ArchCentering — ArchCentering
+
+ArchCentering
+
+[![MRT103_ArchCentering](../previews/mrt102-csh24/thumbnails/MRT103_ArchCentering.png)](../previews/mrt102-csh24/renders/MRT103_ArchCentering.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT103_ArchCentering.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT103_ArchCentering_CC0.zip)
+
+### MRT104_StoneLiftingSocket — StoneLiftingSocket
+
+StoneLiftingSocket
+
+[![MRT104_StoneLiftingSocket](../previews/mrt102-csh24/thumbnails/MRT104_StoneLiftingSocket.png)](../previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT104_StoneLiftingSocket_CC0.zip)
+
+### MRT105_RollerStoneSled — RollerStoneSled
+
+RollerStoneSled
+
+[![MRT105_RollerStoneSled](../previews/mrt102-csh24/thumbnails/MRT105_RollerStoneSled.png)](../previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT105_RollerStoneSled_CC0.zip)
+
+### MRT106_GateBarStorage — GateBarStorage
+
+GateBarStorage
+
+[![MRT106_GateBarStorage](../previews/mrt102-csh24/thumbnails/MRT106_GateBarStorage.png)](../previews/mrt102-csh24/renders/MRT106_GateBarStorage.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT106_GateBarStorage.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT106_GateBarStorage_CC0.zip)
+
+### MRT107_FiresteelKit — FiresteelKit
+
+FiresteelKit
+
+[![MRT107_FiresteelKit](../previews/mrt102-csh24/thumbnails/MRT107_FiresteelKit.png)](../previews/mrt102-csh24/renders/MRT107_FiresteelKit.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRT107_FiresteelKit.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT107_FiresteelKit_CC0.zip)

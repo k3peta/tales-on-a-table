@@ -50,3 +50,23 @@ MortarHawkTrowel
 ![masonry-handling-v2 — hawk_close](../previews/catalog-20261024/masonry-handling-v2-hawk_close.jpg)
 
 ![masonry-handling-v2 — hod_close](../previews/catalog-20261024/masonry-handling-v2-hod_close.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### MRH201_ShoulderHod — ShoulderHod
+
+ShoulderHod
+
+[![MRH201_ShoulderHod](../previews/mrt102-csh24/thumbnails/MRH201_ShoulderHod.png)](../previews/mrt102-csh24/renders/MRH201_ShoulderHod.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRH201_ShoulderHod.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip)
+
+### MRH202_MortarHawkTrowel — MortarHawkTrowel
+
+MortarHawkTrowel
+
+[![MRH202_MortarHawkTrowel](../previews/mrt102-csh24/thumbnails/MRH202_MortarHawkTrowel.png)](../previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png)
+
+[Full image](../previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip)

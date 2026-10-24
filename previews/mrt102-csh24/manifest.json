@@ -1,0 +1,702 @@
+{
+  "model_changes": false,
+  "image_license": "User-authorized catalogue artwork; not CC0. See repository LICENSE.md.",
+  "items": [
+    {
+      "id": "CPT101_ChapelShell",
+      "source_zip_sha256": "7a5ce22154cff09da1d1aa108dcdf099ffb2e56408d84eb8669163a15944e642",
+      "source_glb_sha256": "2b6b42f9cd3287baacc584ce0a0d381235c53b5e6be8b8ed8d4266cb39b8891f",
+      "camera_location": [
+        9.617999076843262,
+        -16.717998504638672,
+        12.912999153137207
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 15.113999366760254,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPT101_ChapelShell.png",
+      "image_source_sha256": "d57aa872defc7a99354cad1661fe97a423f4338bd37649b65ddc43e2dd815f9b",
+      "image_sha256": "593684248f5d7c02a95b69a79fb7c9adfaed98339f12ff97ef9add0bf68824d3",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPT101_ChapelShell.png",
+      "thumbnail_source_sha256": "f864f18055af9cfca159efa9c0ffcea6d046cb64961e94e725c923d96cad4608",
+      "thumbnail_sha256": "3ca084487ef6be44008b7af16e624a73f58d7a010aa1b7f05a205d87f9dcd5b9"
+    },
+    {
+      "id": "CPT102_SunAltar",
+      "source_zip_sha256": "b9c43e93c7375337b2d5c1b1fe453312c15c43de4d536dfd017056671a6fb331",
+      "source_glb_sha256": "2441908dddda63619b7dd81b3283d5ba344c975bccd4ae9abc5b2c24702d606a",
+      "camera_location": [
+        2.309999942779541,
+        -3.9600000381469727,
+        3.3399999141693115
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -2.6369850303353815e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 3.630000114440918,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPT102_SunAltar.png",
+      "image_source_sha256": "0eb383928fb2fb439e996db22c92134350dd7537d69a27142ee7a8e94ee2678f",
+      "image_sha256": "f7c15752fe22f68674880d0760454b4b85c2765fa06b2534810f247532a5cd94",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPT102_SunAltar.png",
+      "thumbnail_source_sha256": "5f2e0a231051ed67a4a559704ac99b40bf2c1ba8fd0a510ef2cbf5c47cfae677",
+      "thumbnail_sha256": "d35c042255359c2711cf6968fc0859ee60c8c777a1c19077bed19aa0297bf04a"
+    },
+    {
+      "id": "CPT103_PrayerKneeler",
+      "source_zip_sha256": "aabc224c0ab5636c658130a3d560bf44d75e232eeed8e81689e1797b1f117571",
+      "source_glb_sha256": "52aa16a3a027fb87b5c674c5ab07daded6cd516fa858bb8dfe43fb837edcf9b1",
+      "camera_location": [
+        1.5749999284744263,
+        -2.6999998092651367,
+        2.044999837875366
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 2.4749999046325684,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png",
+      "image_source_sha256": "c00baba3fd26cc4bfa670030122fe152a22a845d805ee0cf5b869149bfa74645",
+      "image_sha256": "9d25e684c7e934d05e2a003e66cf1249e338c134f546309ef928628ba0803bba",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPT103_PrayerKneeler.png",
+      "thumbnail_source_sha256": "fa2a9c1ea30028a235beb8fff8e407ab5cb23b07b80de913e322459445250508",
+      "thumbnail_sha256": "954a7d97bcd64eaac0e7a8d5e8afcc3f77c6b30b05fd974d58ddee4e0cf158e4"
+    },
+    {
+      "id": "CPT201_PaddedPell",
+      "source_zip_sha256": "714681665cd311cc81032dd9f57bd3c357e943ab14181a3b02a2bcca7b9e2088",
+      "source_glb_sha256": "882e6181781bf97ebb979288f8ea099c1c48fb88bf7caca0e7e545e64274a685",
+      "camera_location": [
+        1.805999994277954,
+        -3.0959999561309814,
+        2.6659998893737793
+      ],
+      "camera_rotation_euler": [
+        1.1040570735931396,
+        2.0628553087931323e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 2.8380000591278076,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPT201_PaddedPell.png",
+      "image_source_sha256": "43b16ea1b5e9ea631f8f65d845f2fb6c8ba4ed0d83d5fca1d6b62f51345c8363",
+      "image_sha256": "a9156397de8a93e0ffc632a2193dd0962763b099331488203aa2bbeaa1ac358d",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPT201_PaddedPell.png",
+      "thumbnail_source_sha256": "0c91c077415cdc1934b370a932828a839a01082c06f6f2634c4f2c69b70e962e",
+      "thumbnail_sha256": "7752bfe62230d218529d8accdf6ebf0f9017f35717d17f500b66a417ed327e20"
+    },
+    {
+      "id": "CPTV01_Chapel",
+      "source_zip_sha256": "6a42ead3105698f2dc6a4ccc01c3a10e006231a8e96aeaa62a60a2cf74f16da4",
+      "source_glb_sha256": "18cff62174564f90eea875912c1dabbfdedbc8c70d39b83add12490d2ba2c366",
+      "camera_location": [
+        9.617999076843262,
+        -16.717998504638672,
+        12.912999153137207
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 15.113999366760254,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPTV01_Chapel.png",
+      "image_source_sha256": "3207452ca78570dd0551c612cdd8e1455e09228d0ab8c7e96fcd4e8a510f6ae3",
+      "image_sha256": "c9be81d44812acf0edac15e56291ab2650f3657cbb6800985ff35df82876a257",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPTV01_Chapel.png",
+      "thumbnail_source_sha256": "6f6ef06063caf6fd581d0fed055967dd0c5acafb9ab8d32c1acf8693c8a80ef0",
+      "thumbnail_sha256": "8dc66a7bf03edcacda26811fa126ae690de44315ef4bb49a269f16681684beda"
+    },
+    {
+      "id": "CPTV02_TrainingCourt",
+      "source_zip_sha256": "eecf4c0efd2437b3e278f77ffa57a5c90018e6c0b39366fa73c5b9834cbdd7a0",
+      "source_glb_sha256": "85a92638a5e3cf5470c2c5563eeadcc3dabf37c8d961ed601c0aff84bb1e061b",
+      "camera_location": [
+        8.399999618530273,
+        -14.399999618530273,
+        9.329999923706055
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 13.199999809265137,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png",
+      "image_source_sha256": "629408b66c370d262730d1b80abd02bdcffaf4e2edab7e2e257ad371790030fe",
+      "image_sha256": "8b577b7d163685c4902ff2d09226f2900a5e81dfdfd94b626c1df0e0e992184b",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CPTV02_TrainingCourt.png",
+      "thumbnail_source_sha256": "d1521c3b62a75fdce5c03f9506e096cad404a4c738bbe55bff09a5dcaa93204b",
+      "thumbnail_sha256": "be0682a70d0914d19b9caee792dbf69a44954fad57d993722284355468d8f14f"
+    },
+    {
+      "id": "CSH101",
+      "source_zip_sha256": "856979a100edf56592b49353c61ef0625a7505ce9df992a4ad43de4413305cf6",
+      "source_glb_sha256": "7fe5fa7c3e4225a8b896098a033baecc9c4af97972870d39ecef5e739a8e309a",
+      "camera_location": [
+        0.3149999976158142,
+        -0.5400000214576721,
+        0.3889999985694885
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.4950000047683716,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CSH101.png",
+      "image_source_sha256": "c58f0cad1b40fbe695da027e04fe8e040552dfd2cc8d1b1b50c780fe663daa7d",
+      "image_sha256": "d0fbe216dcb1ccba94ab416d2c4ab6b1ef29744137e97bfb656169916e9c591c",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CSH101.png",
+      "thumbnail_source_sha256": "81af487306d2939c1d6ff5b82ba0d75dffecbc1a67b56d2d33405cb7e0b0f830",
+      "thumbnail_sha256": "8dcf6f0213c614caa0182c3113c23672c1d4c0aeb85fa7ca29014e27fcbc7b9e"
+    },
+    {
+      "id": "CSH102",
+      "source_zip_sha256": "1dc7ba707df0c82eb98abcdf0e21f46fa76b32ac282b6e02e763f743e17d8a5c",
+      "source_glb_sha256": "8b503b90cc01df22b258c5212318c63bff9e89ac9bf2e93b19bd716449aca82a",
+      "camera_location": [
+        0.7427160143852234,
+        -1.273227572441101,
+        1.0963903665542603
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.7663612794649453e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 1.1671252250671387,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CSH102.png",
+      "image_source_sha256": "510f9988003b8213c76430f5781e2d0ed3876f694613bf28e40b2ff20c334bc7",
+      "image_sha256": "54a53f45e2818440fc85e0c6b735bf541e521805a3baf32eb7f1dccf4ad8dbea",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CSH102.png",
+      "thumbnail_source_sha256": "6c2f700353d275406e293fe7ffa8bff35f64e4f9804205414fcead27107bfc92",
+      "thumbnail_sha256": "5688a4164be5a6c78e0e7d146875933c1c446e87cb1100b9ce9a3f6f2c1bd243"
+    },
+    {
+      "id": "CSH201",
+      "source_zip_sha256": "5bd1169a316ae579bd44c92e19e6dfaed13608802b89f98ae275db38f0176e4e",
+      "source_glb_sha256": "ecb59c4e603ac1aaf578fbcf67a2b1a033210f8c5c0750f8402955706a2c8728",
+      "camera_location": [
+        1.6589999198913574,
+        -2.8440001010894775,
+        2.4489998817443848
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        3.2750783418578067e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 2.6070001125335693,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/CSH201.png",
+      "image_source_sha256": "e2cfe89ac8808d8421965e6269961a624a358a140eeba8d5e16a3f49dd8d2d63",
+      "image_sha256": "9056a935a4411577f89aeeb90ae4265ad155b2637bc24fc9a7638d8c76c454b8",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/CSH201.png",
+      "thumbnail_source_sha256": "985218bde688bcf0cdc163d89f2f560a5ff7566c78e15aa0778574f1e0497cf4",
+      "thumbnail_sha256": "23b2aa696b43ea9b5f23915e445c1f36c16b3f22cf28544ece95ce2078a5dfb7"
+    },
+    {
+      "id": "HCV1001",
+      "source_zip_sha256": "158d2d6d3bbb4eb031a5136188817ac91df56ee2d0bfcd8a02bfb2540581415d",
+      "source_glb_sha256": "a06fa813aa83bebdea6cd400fdbf3ecc232bceacdb4a2f194d9012c3f01a66e9",
+      "camera_location": [
+        2.705850124359131,
+        -4.638599872589111,
+        3.729599952697754
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 4.252049922943115,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/goat-care-platform-v1/HCV1001-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/HCV1001.png",
+      "image_source_sha256": "ff46308f38e66fae39fd3d5e95e0ac8fd8a60178baa45341611637d9b7e51d35",
+      "image_sha256": "6f75d401711e28a75fb87fd6f6651d0eb03fee632ddff1e3a257b0849821a539",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/HCV1001.png",
+      "thumbnail_source_sha256": "ac97ca2be3b5b684e49216d0b43f031fb10727d877d7150cd41a0153c9693cd9",
+      "thumbnail_sha256": "3b7e81264cc6d7ab7554322c2dfc66e67c4bd57468e9ec71687311f31c908186"
+    },
+    {
+      "id": "HCV901",
+      "source_zip_sha256": "0fee71619d8ca8db1d46f60d83cb7987a57e15b921abdb8aa17b749e050c7b92",
+      "source_glb_sha256": "dc5563f8f05a215f823d7b4972e675e791ed0ccc757720590fecb02798ae8291",
+      "camera_location": [
+        1.231124997138977,
+        -2.110499858856201,
+        1.8173749446868896
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.8300641830014683e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.9346250295639038,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV901-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/HCV901.png",
+      "image_source_sha256": "0740a396aa5fa775ec4bfd4fc462d20034b7ea80342927812f2c4bbac510526d",
+      "image_sha256": "6b10e6636a1de16320c12ce283285c4505aba31bfb0c09f8e9744619da5f9aae",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/HCV901.png",
+      "thumbnail_source_sha256": "005a3aa4f3cc825d85aab9fa594de317b8775eaa8ea2d99dbffef293b276807e",
+      "thumbnail_sha256": "8dc8cbceab0c4b91c3ee8cb6179fc50bfe74e401d533547d0481e1432fda03df"
+    },
+    {
+      "id": "HCV902",
+      "source_zip_sha256": "3ed7a0adf50069a93edb0c393310a270bdd4194670f6174cd7d19c86cfb99aac",
+      "source_glb_sha256": "a7a8901cd5a2b1fde326d51f88e2038b7c789575a3c725e5c8560de09321841f",
+      "camera_location": [
+        0.5984999537467957,
+        -1.025999903678894,
+        0.8834999799728394
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 0.9404999613761902,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV902-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/HCV902.png",
+      "image_source_sha256": "d2dd9a69fc56e0022afdbf3b2bf85fa23166e5def83e1d4495a94ec98b44974b",
+      "image_sha256": "0ab6f681fe2c90035d1e5a7bdc49ac195c865201ec0ca92bf63211a0c3a19241",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/HCV902.png",
+      "thumbnail_source_sha256": "d1f43fc518e93b9aeed1898c884e963f369317a3f726daf6c657f69042b7253f",
+      "thumbnail_sha256": "4140fbba0d38c851e313129985a1a46fbfd758153f55d6eb4e6cc2b9a2f5fc36"
+    },
+    {
+      "id": "HCV903",
+      "source_zip_sha256": "76060e1b9d687f655404f2d275b31cf136a2a68e3caa8f56c356fb3e738bb51b",
+      "source_glb_sha256": "df5ee4b59b29479b83df82bdf0b10d1f0f2e743abb1d5b4843c5cb9d9f0fea15",
+      "camera_location": [
+        0.6194999814033508,
+        -1.062000036239624,
+        0.8532499670982361
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.579787761192165e-08,
+        0.5280744433403015
+      ],
+      "camera_ortho_scale": 0.9735000729560852,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV903-CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/HCV903.png",
+      "image_source_sha256": "9129f9638fe3f1805ea689add012403a86c20a213ac2b75fcd8f96a9c8284e39",
+      "image_sha256": "902236160cd14b73deff2b24a7ecf4d0eb35dcc325b91e38c7c6fcd1f0ad2592",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/HCV903.png",
+      "thumbnail_source_sha256": "1805447a7968baf2b3f6618149a0bd4d9d6444581a3150ac54a8e78261d9796e",
+      "thumbnail_sha256": "c3b8a203c8eed850c342726dd35967ef55738bb49fb27d616fb22f1c01fac8e6"
+    },
+    {
+      "id": "INF101_CanvasStretcher",
+      "source_zip_sha256": "db4025904742255ffd9d69002b034e704eaaecd2fa7c6077474bd18313560263",
+      "source_glb_sha256": "2f3a6a04061a739819dbc9c2ed9b93f9a816ad667124c00785d48f913f9dfac9",
+      "camera_location": [
+        2.625,
+        -3.75,
+        5.732500076293945
+      ],
+      "camera_rotation_euler": [
+        0.6941075921058655,
+        -5.779440925834933e-09,
+        0.6107258796691895
+      ],
+      "camera_ortho_scale": 3.375,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/INF101_CanvasStretcher.png",
+      "image_source_sha256": "f6144a8e7bd7bb6a57ddfc8ac3b4f8e45d7f2cbba6cb7d5f44d12a2f5948c3c7",
+      "image_sha256": "e22f0c897c072dce14d90a76cb30ef3c1df6e0f324aa053066bf88b6084f4642",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/INF101_CanvasStretcher.png",
+      "thumbnail_source_sha256": "9dc761e14a5e077504f4d41452b682fe30d436259d85f0865e98b74e199ed6b2",
+      "thumbnail_sha256": "537aaa859d07b3d81c3d1c58ad41c18ea0c4f4b327befd4b80fea60829051bfb"
+    },
+    {
+      "id": "INF102_BedsideCantileverTray",
+      "source_zip_sha256": "ab41a6d0a520c097829135340a5072dc6787e746e0389aa1c1b37ea28114f1a3",
+      "source_glb_sha256": "c8e24a6f95a30d2999094c24befad80873b7b8c23cd60789c849f1accd69a858",
+      "camera_location": [
+        2.0249998569488525,
+        -2.6999998092651367,
+        2.134999990463257
+      ],
+      "camera_rotation_euler": [
+        1.104056477546692,
+        1.9148643559674383e-08,
+        0.528074324131012
+      ],
+      "camera_ortho_scale": 2.4749999046325684,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png",
+      "image_source_sha256": "8262f1b0f78ae1880b1f4c1ad823144c84bc3fbd1c54cb2b57444d7971340094",
+      "image_sha256": "ef02aeb8ffbfec6049284dbbcf7a8fd78761c2bcbab3815baa39114c211384c7",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/INF102_BedsideCantileverTray.png",
+      "thumbnail_source_sha256": "85b4ff216c38feae32c44f885a2d8fb98a8a7366e32ecc968943f2a03fa06562",
+      "thumbnail_sha256": "a1ae13d4c920528c4f0b8bb7d34d770dc471901ff60004c19c86bc6c17798997"
+    },
+    {
+      "id": "INFV01_FantasyInfirmary",
+      "source_zip_sha256": "25728e489645198539c7a00a85767f0ea7f491629a141f8bce1472bc108d5cba",
+      "source_glb_sha256": "fa79e9bf76ff739bfdbdcb689a22dae0fb563574404be184bdc1efeee5444692",
+      "camera_location": [
+        8.977499961853027,
+        -15.614999771118164,
+        10.447500228881836
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 14.107500076293945,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png",
+      "image_source_sha256": "55fb58cf8c13700da98ce096671271272bbd6c0aef390a8e6b9ec6515146a98b",
+      "image_sha256": "830efed19e39f4bc8b0246134eaf42ebf6339bde02a7e95df027088b64bb0ed2",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/INFV01_FantasyInfirmary.png",
+      "thumbnail_source_sha256": "a73958fee97b8f8ae53b616e4eb7939ad9f8eb2657a4da2d268681c679280094",
+      "thumbnail_sha256": "a9784f87bebe4c77ce1d3ccba914193acd9f9121795f314fa711934dfe2481d5"
+    },
+    {
+      "id": "MRH201_ShoulderHod",
+      "source_zip_sha256": "0f7fd95094572eab6235a87a1731fb855e2d4fb7b6396dd51821dc64029da893",
+      "source_glb_sha256": "0d2519bc4f0321e2db038e7c5f080b0737c35c455cccf2ab171179b74f4563be",
+      "camera_location": [
+        1.46999990940094,
+        -2.507999897003174,
+        2.169999837875366
+      ],
+      "camera_rotation_euler": [
+        1.10405695438385,
+        -2.3913610647241512e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 2.309999942779541,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRH201_ShoulderHod.png",
+      "image_source_sha256": "44b0626f1d1cdbce74acb1a2f71422e98fd55bdf2321b2964cfd8b8fe429d5e9",
+      "image_sha256": "775ea93ddfaf2cd369a9ed9b298be2497a15b21a235f682fa6a1be17dcfe6f1b",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRH201_ShoulderHod.png",
+      "thumbnail_source_sha256": "a453ef859498bdb4d97749e1798452e92ea467595c119265410e2eadfb89405e",
+      "thumbnail_sha256": "5089b76d8fcf9189ed5cb4210bd244936ec462c5cab6046bbc32a0fc635b7163"
+    },
+    {
+      "id": "MRH202_MortarHawkTrowel",
+      "source_zip_sha256": "066d6edd005709d58e9f195b404113b74054e235daf8a9ef857222814a17e035",
+      "source_glb_sha256": "d47d88cbd42a2474e30dc871aa33d59d38d13c56176823b941f4dd9927221406",
+      "camera_location": [
+        0.3779999911785126,
+        -0.6480000019073486,
+        0.5169999599456787
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.0710712317063553e-08,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 0.5940000414848328,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png",
+      "image_source_sha256": "e8f364a3153c6cd15dfa1e0ffea7ed1bcbd7d4dcd98d5ebbb3df3e5bb57f92c4",
+      "image_sha256": "f265fc9dfdd17df2202ac60b12ddffa20d173297e24b4587ade4f05829f1e32c",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRH202_MortarHawkTrowel.png",
+      "thumbnail_source_sha256": "bd5bc06389c0935d8213d4148a6bf0880ce28d79e5b161cc93d814de8e94e0b6",
+      "thumbnail_sha256": "a3408f6f7ca65b0c9a4b488bf35f07ff53a4925d93f1a826538fd50a3e4b6d31"
+    },
+    {
+      "id": "MRT102_SurveyCross",
+      "source_zip_sha256": "ec2264c7d2ab711d41f2d801312b65ca1fdaddca2066582ec223cd6b25a07591",
+      "source_glb_sha256": "63630db3ae3d400b4befe4a833b30df5399a1271465be7778275da9616886f95",
+      "camera_location": [
+        2.2672500610351562,
+        -3.860999822616577,
+        3.3247499465942383
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        2.2622458573096083e-08,
+        0.5280746221542358
+      ],
+      "camera_ortho_scale": 3.539249897003174,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT102_SurveyCross_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT102_SurveyCross.png",
+      "image_source_sha256": "afff9f7875fcb8983be7ddccf0d0e0b9414dee4f87381a929aca28bc74653933",
+      "image_sha256": "cbd524fbd0382b38b897df104c56b9b7b6b7eca0298ac868e252ebc75e4ee62d",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT102_SurveyCross.png",
+      "thumbnail_source_sha256": "79bec0151b34cace0b48743dac731038b9486d71b63ec4f3760ce7874713385b",
+      "thumbnail_sha256": "0a7952c8f8742c8d19ae9aeb74a4fddeb26a79b9d08cf3511ffbf79bf1420e6b"
+    },
+    {
+      "id": "MRT103_ArchCentering",
+      "source_zip_sha256": "bb160bd476bcbdc0ba3046d396d3719c41504b39cd86054810ec5b53fb665a14",
+      "source_glb_sha256": "bf5e433696e67e5f2f7873d7cedc825d18c23ce1ee5f5356404a956293abbc1e",
+      "camera_location": [
+        2.2574996948242188,
+        -3.869999647140503,
+        3.3324995040893555
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -4.3764565305082215e-09,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 3.547499656677246,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT103_ArchCentering_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT103_ArchCentering.png",
+      "image_source_sha256": "8b451b9f26ddba04fbd83ea58f32d467eb0908764fd80dd3978230a43ceef13d",
+      "image_sha256": "b7bac782ae220a1a35c1164276a2db061776bfc8d055aa21098d558e070273ad",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT103_ArchCentering.png",
+      "thumbnail_source_sha256": "2ead930759bbb70829f77cb053762cd3e2d7482b8310a6df7a9dcf08c550c6ec",
+      "thumbnail_sha256": "7b4c20cedd7953951713d88fe695be6e0efdf9b389d9d2ef3e95f58c959638f5"
+    },
+    {
+      "id": "MRT104_StoneLiftingSocket",
+      "source_zip_sha256": "a589b124d78b5038761d47a0b66fa390b8f265a7264644e05975c92ad7802a9b",
+      "source_glb_sha256": "98bf24d23aecbdb379f773d55611a1188a4cb4235b3b9c31621f7693c07cd57b",
+      "camera_location": [
+        0.9108749628067017,
+        -1.5614999532699585,
+        1.3446249961853027
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 1.4313750267028809,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT104_StoneLiftingSocket_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png",
+      "image_source_sha256": "1b66ffca798c9726bbcfad0900be1cc8e27765c330d76597d33bce5e456b280b",
+      "image_sha256": "07f27abf5081863a4237799631a76a0eb7d9f56e1a979981e432b7ce65a2c427",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT104_StoneLiftingSocket.png",
+      "thumbnail_source_sha256": "71b9e2b6adc5e740222fb7f9d23ad243b3720046c76bcd819efe713e32b80c55",
+      "thumbnail_sha256": "4a95d07294b99eb5f317955d3c3a1a044d5307a1abda185d67c44351c74d2387"
+    },
+    {
+      "id": "MRT105_RollerStoneSled",
+      "source_zip_sha256": "a7fc1d80822b5be27a5f837fde15c91d7bb61803feb239d911bb603885d38f73",
+      "source_glb_sha256": "d9587606d966b0ef4188d34ad7cdb09b460cd975cda99aa6aeebec3e98bc9e2a",
+      "camera_location": [
+        2.346749782562256,
+        -4.240499496459961,
+        2.7567498683929443
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        -4.3764565305082215e-09,
+        0.5280745029449463
+      ],
+      "camera_ortho_scale": 3.6877498626708984,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT105_RollerStoneSled_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png",
+      "image_source_sha256": "eb66ccd3cbdf5154cdcd7661a78a79d5ba5de780af5f4bbe5ff8789a70540b3b",
+      "image_sha256": "ffce9148d12e1a8bd1f2c07c06fdc1c8c3a2f01baf5e08c18554deeef8437a3c",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT105_RollerStoneSled.png",
+      "thumbnail_source_sha256": "44aa1b75db2ee6a60f3ca22762abcee588259a41d90a62c5eb2c190d1ac0b2c8",
+      "thumbnail_sha256": "61498b998a25bb349f55342287b68efdf889da86c3ddfc89e571cc3ade619416"
+    },
+    {
+      "id": "MRT106_GateBarStorage",
+      "source_zip_sha256": "677f0fd7bc5ac1d060914238c6924a125c65ad8689d9cb1f744c8669e7f62905",
+      "source_glb_sha256": "7dd4e8cf5c03722813e85c02b8c8efe9b1a58c48549fb3d9cebc504f3f5881c2",
+      "camera_location": [
+        3.4937498569488525,
+        -5.759999752044678,
+        4.960000038146973
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        1.3213472982442909e-08,
+        0.5280745625495911
+      ],
+      "camera_ortho_scale": 5.28000020980835,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT106_GateBarStorage_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT106_GateBarStorage.png",
+      "image_source_sha256": "ff7839495e07ea9f3d79a01c4f91fc04fec0566f01860b3c73797112f312be4b",
+      "image_sha256": "165b374f5eaf9aca352767d8cf119b370229bc6865c9a597d12310297e72c1e8",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT106_GateBarStorage.png",
+      "thumbnail_source_sha256": "7c5baad54d371980ab6381e56141b289e9a5acafcddb83383e8b3718358ebc2d",
+      "thumbnail_sha256": "0644d48363374771790c94458b6ee86988d4335b4681669f2a09c54c42f22baa"
+    },
+    {
+      "id": "MRT107_FiresteelKit",
+      "source_zip_sha256": "08d628b9da95c58f1896101d1c6f8e528e03cc291cdeae6d0f7f1d210d13982f",
+      "source_glb_sha256": "13f95210affd72e38911ae545d59fff20379423afe669ea9fa56a0d554580048",
+      "camera_location": [
+        0.3149999976158142,
+        -0.5287500023841858,
+        0.4449999928474426
+      ],
+      "camera_rotation_euler": [
+        1.1040568351745605,
+        7.233410315166111e-08,
+        0.5280743837356567
+      ],
+      "camera_ortho_scale": 0.4950000047683716,
+      "pixels": [
+        960,
+        960
+      ],
+      "source_lod": "Exact distributed GLB",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT107_FiresteelKit_CC0.zip",
+      "image_license": "Catalogue viewing artwork; excluded from model CC0.",
+      "image": "previews/mrt102-csh24/renders/MRT107_FiresteelKit.png",
+      "image_source_sha256": "718da8244c05e256261acbe4f0269539466e8368780f1d6f8c0e1173afa41988",
+      "image_sha256": "1022c209eab46358ca258a8e2fe883ebb683e71cde6abd3b7d4c6bd00c316bc9",
+      "thumbnail": "previews/mrt102-csh24/thumbnails/MRT107_FiresteelKit.png",
+      "thumbnail_source_sha256": "79cc9f4114a0a72c7048fb1fc4f5ef2c279439dbdea26932561bd26fe0675c41",
+      "thumbnail_sha256": "32539fdf7976e3bbd8a5c686ae0ee3b7f7ae3ac061ac07406845c8acecdc28d9"
+    }
+  ]
+}

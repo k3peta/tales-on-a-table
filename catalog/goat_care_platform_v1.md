@@ -53,3 +53,15 @@ HCV603
 [![HCV603](../previews/chbv-mrt24/thumbnails/HCV603.png)](../previews/chbv-mrt24/renders/HCV603.png)
 
 [Full image](../previews/chbv-mrt24/renders/HCV603.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/livestock-tack-v1/HCV603-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV1001 — HCV1001
+
+HCV1001
+
+[![HCV1001](../previews/mrt102-csh24/thumbnails/HCV1001.png)](../previews/mrt102-csh24/renders/HCV1001.png)
+
+[Full image](../previews/mrt102-csh24/renders/HCV1001.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/goat-care-platform-v1/HCV1001-CC0.zip)

@@ -3,8 +3,8 @@
   "counts": {
     "base": {
       "records": 1008,
-      "id_mapped_preview": 977,
-      "preview_not_mapped": 31,
+      "id_mapped_preview": 1001,
+      "preview_not_mapped": 7,
       "dimensions_known": 450,
       "triangles_known": 200,
       "purpose_en_present": 772,
@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 135,
-      "id_mapped_preview": 135,
+      "records": 136,
+      "id_mapped_preview": 136,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 135,
-      "formats_known": 135,
+      "purpose_en_present": 136,
+      "formats_known": 136,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -13504,7 +13504,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "94360tri over20k budget;5 flat-color meshes lack UV; shoulder/neck contact and trim diagnosis pending."
     },
     {
       "id": "CP_025",
@@ -13537,7 +13538,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_025__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "126 exact-zero triangles removed;130 tiny positive retained;36394tri over20k. Green variant uses repaired and added-UV baseline."
     },
     {
       "id": "CP_026",
@@ -13570,7 +13579,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_026__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "256 exact-zero triangles removed;30068tri. Door motion/animal fit untested."
     },
     {
       "id": "CP_027",
@@ -13603,7 +13620,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "1 flat-color mesh lacks UV; perching fit/load untested."
     },
     {
       "id": "CP_028",
@@ -13636,7 +13654,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_028__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "549 exact-zero triangles removed;70 missing UV layers added;25127tri over20k. Static pose, no rig or attachment validation."
     },
     {
       "id": "CP_029",
@@ -13669,7 +13695,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "1 flat-color mesh lacks UV; map accuracy/rotation untested."
     },
     {
       "id": "CP_030",
@@ -13702,7 +13729,8 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "known_issue": "1 missing UV retained; loose-looking inner straps require diagnosis, no repair claim."
     },
     {
       "id": "CP_031",
@@ -13735,7 +13763,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "CP_031__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "32 exact-zero triangles removed; shoulder strap continuity/contact still under diagnosis."
     },
     {
       "id": "IF_001",
@@ -13768,7 +13804,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "IF_001__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "1229 exact-zero triangles removed;112271tri over50k; positive tiny surfaces retained."
     },
     {
       "id": "IF_002",
@@ -13801,7 +13845,15 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "revision_history": [
+        {
+          "id": "IF_002__repair",
+          "catalog": "catalog/material_variants_cp024_if002.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "27504 exact-zero pile triangles removed;138158tri over50k. HQ/main only, original LOD1 unassessed and unchanged."
     },
     {
       "id": "IF_003",
@@ -35049,8 +35101,8 @@
       "name_ja": "SurveyCross",
       "purpose_en": "MRT102_SurveyCross",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT102_SurveyCross.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35069,7 +35121,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT102_SurveyCross.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRT103_ArchCentering",
@@ -35079,8 +35133,8 @@
       "name_ja": "ArchCentering",
       "purpose_en": "MRT103_ArchCentering",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT103_ArchCentering.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35099,7 +35153,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT103_ArchCentering.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRT104_StoneLiftingSocket",
@@ -35109,8 +35165,8 @@
       "name_ja": "StoneLiftingSocket",
       "purpose_en": "MRT104_StoneLiftingSocket",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT104_StoneLiftingSocket.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35129,7 +35185,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT104_StoneLiftingSocket.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRT105_RollerStoneSled",
@@ -35139,8 +35197,8 @@
       "name_ja": "RollerStoneSled",
       "purpose_en": "MRT105_RollerStoneSled",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT105_RollerStoneSled.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35159,7 +35217,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT105_RollerStoneSled.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRT106_GateBarStorage",
@@ -35169,8 +35229,8 @@
       "name_ja": "GateBarStorage",
       "purpose_en": "MRT106_GateBarStorage",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT106_GateBarStorage.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35189,7 +35249,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT106_GateBarStorage.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRT107_FiresteelKit",
@@ -35199,8 +35261,8 @@
       "name_ja": "FiresteelKit",
       "purpose_en": "MRT107_FiresteelKit",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRT107_FiresteelKit.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35219,7 +35281,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRT107_FiresteelKit.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRH201_ShoulderHod",
@@ -35229,8 +35293,8 @@
       "name_ja": "ShoulderHod",
       "purpose_en": "MRH201_ShoulderHod",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRH201_ShoulderHod.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35249,7 +35313,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRH201_ShoulderHod.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "MRH202_MortarHawkTrowel",
@@ -35259,8 +35325,8 @@
       "name_ja": "MortarHawkTrowel",
       "purpose_en": "MRH202_MortarHawkTrowel",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/MRH202_MortarHawkTrowel.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35279,7 +35345,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/MRH202_MortarHawkTrowel.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "HCV901",
@@ -35289,8 +35357,8 @@
       "name_ja": "HCV901",
       "purpose_en": "HCV901: Twin roller hand grape crusher",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/HCV901.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35309,7 +35377,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/HCV901.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "HCV902",
@@ -35319,8 +35389,8 @@
       "name_ja": "HCV902",
       "purpose_en": "HCV902: Open ended hollow wine sampling thief",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/HCV902.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35339,7 +35409,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/HCV902.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "HCV903",
@@ -35349,8 +35421,8 @@
       "name_ja": "HCV903",
       "purpose_en": "HCV903: Six cell protective bottle carrier",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/HCV903.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35369,7 +35441,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/HCV903.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "HCV1001",
@@ -35379,8 +35453,8 @@
       "name_ja": "HCV1001",
       "purpose_en": "HCV1001: Raised goat care platform with cleated ramp and open guide frame",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/HCV1001.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35399,7 +35473,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/HCV1001.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPT101_ChapelShell",
@@ -35409,8 +35485,8 @@
       "name_ja": "ChapelShell",
       "purpose_en": "CPT101_ChapelShell",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPT101_ChapelShell.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35429,7 +35505,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPT101_ChapelShell.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPT102_SunAltar",
@@ -35439,8 +35517,8 @@
       "name_ja": "SunAltar",
       "purpose_en": "CPT102_SunAltar",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPT102_SunAltar.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35459,7 +35537,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPT102_SunAltar.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPT103_PrayerKneeler",
@@ -35469,8 +35549,8 @@
       "name_ja": "PrayerKneeler",
       "purpose_en": "CPT103_PrayerKneeler",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPT103_PrayerKneeler.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35489,7 +35569,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPT201_PaddedPell",
@@ -35499,8 +35581,8 @@
       "name_ja": "PaddedPell",
       "purpose_en": "CPT201_PaddedPell",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPT201_PaddedPell.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35519,7 +35601,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPT201_PaddedPell.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPTV01_Chapel",
@@ -35529,8 +35613,8 @@
       "name_ja": "Chapel",
       "purpose_en": "CPTV01_Chapel",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPTV01_Chapel.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35549,7 +35633,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPTV01_Chapel.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CPTV02_TrainingCourt",
@@ -35559,8 +35645,8 @@
       "name_ja": "TrainingCourt",
       "purpose_en": "CPTV02_TrainingCourt",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CPTV02_TrainingCourt.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35579,7 +35665,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "INF101_CanvasStretcher",
@@ -35589,8 +35677,8 @@
       "name_ja": "CanvasStretcher",
       "purpose_en": "INF101_CanvasStretcher",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/INF101_CanvasStretcher.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35609,7 +35697,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/INF101_CanvasStretcher.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "INF102_BedsideCantileverTray",
@@ -35619,8 +35709,8 @@
       "name_ja": "BedsideCantileverTray",
       "purpose_en": "INF102_BedsideCantileverTray",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/INF102_BedsideCantileverTray.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35639,7 +35729,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/INF102_BedsideCantileverTray.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "INFV01_FantasyInfirmary",
@@ -35649,8 +35741,8 @@
       "name_ja": "FantasyInfirmary",
       "purpose_en": "INFV01_FantasyInfirmary",
       "record_kind": "group",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/INFV01_FantasyInfirmary.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35669,7 +35761,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/INFV01_FantasyInfirmary.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CSH101",
@@ -35679,8 +35773,8 @@
       "name_ja": "CSH101",
       "purpose_en": "CSH101: Carved wooden shoe last",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CSH101.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35699,7 +35793,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CSH101.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CSH102",
@@ -35709,8 +35805,8 @@
       "name_ja": "CSH102",
       "purpose_en": "CSH102: Cobbler sole-working stake on tripod",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CSH102.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35729,7 +35825,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CSH102.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CSH201",
@@ -35739,8 +35837,8 @@
       "name_ja": "CSH201",
       "purpose_en": "CSH201: Linen fitting form with waist measure",
       "record_kind": "model",
-      "image": null,
-      "image_evidence": null,
+      "image": "previews/mrt102-csh24/thumbnails/CSH201.png",
+      "image_evidence": "Actual exact-source GLB render; source ZIP/GLB and image hashes verified; 24 accepted contact-sheet images visually inspected",
       "dimensions_m": null,
       "triangles": null,
       "bounds_m": null,
@@ -35759,7 +35857,9 @@
       ],
       "comparison": null,
       "geometry_revision": null,
-      "uv_revision": null
+      "uv_revision": null,
+      "full_image": "previews/mrt102-csh24/renders/CSH201.png",
+      "image_manifest": "previews/mrt102-csh24/manifest.json"
     },
     {
       "id": "CSH202",
@@ -40254,6 +40354,39 @@
       },
       "geometry_revision": "CP_023__repair",
       "uv_revision": "CP_023 repair adds2 missing UV layers; variant retains repaired baseline"
+    },
+    {
+      "id": "CP_025__green_silk",
+      "kind": "variant",
+      "base_id": "CP_025",
+      "name_en": "Gold-trimmed admiral's hat",
+      "name_ja": "金縁と徽章の提督帽",
+      "purpose_en": "Green silk texture mapped to CP025 wine silk material only, using cleaned geometry and explicitly added missing UV baseline. Other material properties unchanged.",
+      "record_kind": "model",
+      "image": "previews/quality-cp024-if002-v1/CP_025__green_silk_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_025__green_silk_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_cp024_if002.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-cp024-if002-v1/CP_025__green_silk_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "CP_025__repair",
+      "uv_revision": "CP_025 cleaned geometry and explicitly added missing UV baseline"
     }
   ],
   "metadata_stage2": "FP001–024 public archive measurements; image coverage unchanged"

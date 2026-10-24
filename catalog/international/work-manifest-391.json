@@ -10146,7 +10146,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT102_SurveyCross_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10159,6 +10158,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10169,7 +10172,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT103_ArchCentering_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10182,6 +10184,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10192,7 +10198,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT104_StoneLiftingSocket_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10205,6 +10210,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10215,7 +10224,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT105_RollerStoneSled_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10228,6 +10236,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10238,7 +10250,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT106_GateBarStorage_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10251,6 +10262,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10261,7 +10276,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-road-tools-v1/MRT107_FiresteelKit_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10274,6 +10288,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_road_tools_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10284,7 +10302,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH201_ShoulderHod_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10297,6 +10314,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_handling_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10307,7 +10328,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/masonry-handling-v2/MRH202_MortarHawkTrowel_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10320,6 +10340,10 @@
     },
     "existing_catalogs": [
       "catalog/masonry_handling_v2.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10330,7 +10354,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV901-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10343,6 +10366,10 @@
     },
     "existing_catalogs": [
       "catalog/winery_utilities_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10353,7 +10380,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV902-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10366,6 +10392,10 @@
     },
     "existing_catalogs": [
       "catalog/winery_utilities_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10376,7 +10406,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV903-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10389,6 +10418,10 @@
     },
     "existing_catalogs": [
       "catalog/winery_utilities_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10399,7 +10432,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/goat-care-platform-v1/HCV1001-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10412,6 +10444,10 @@
     },
     "existing_catalogs": [
       "catalog/goat_care_platform_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10422,7 +10458,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10435,6 +10470,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10445,7 +10484,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10458,6 +10496,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10468,7 +10510,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10481,6 +10522,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10491,7 +10536,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10504,6 +10548,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10514,7 +10562,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10527,6 +10574,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10537,7 +10588,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10550,6 +10600,10 @@
     },
     "existing_catalogs": [
       "catalog/chapel_training_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10560,7 +10614,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF101_CanvasStretcher_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10573,6 +10626,10 @@
     },
     "existing_catalogs": [
       "catalog/fantasy_infirmary_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10583,7 +10640,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INF102_BedsideCantileverTray_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10596,6 +10652,10 @@
     },
     "existing_catalogs": [
       "catalog/fantasy_infirmary_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10606,7 +10666,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/fantasy-infirmary-v1/INFV01_FantasyInfirmary_CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10619,6 +10678,10 @@
     },
     "existing_catalogs": [
       "catalog/fantasy_infirmary_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10629,7 +10692,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH101-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10642,6 +10704,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10652,7 +10718,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH102-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10665,6 +10730,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {
@@ -10675,7 +10744,6 @@
     "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/craft-shops-v1/CSH201-CC0.zip",
     "license": "CC0-1.0",
     "missing_fields": [
-      "image",
       "dimensions_m",
       "triangles",
       "origin",
@@ -10688,6 +10756,10 @@
     },
     "existing_catalogs": [
       "catalog/craft_shops_v1.md"
+    ],
+    "render_status": "Published actual ID-specific overview/thumbnail; exact source hashes matched",
+    "completed_fields": [
+      "image"
     ]
   },
   {

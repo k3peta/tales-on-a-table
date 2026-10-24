@@ -197,3 +197,17 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base CP_023](base-14.md#cp_023) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp013-023-v1/CP_023__orange_glaze_smooth_CC0.zip) · [Full comparison](../../previews/quality-cp013-023-v1/CP_023__orange_glaze_smooth_overview_comparison.png) · [Details](../material_variants_cp013_023.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## CP_025__green_silk
+
+**Gold-trimmed admiral's hat** · 金縁と徽章の提督帽
+
+[![CP_025__green_silk](../../previews/quality-cp024-if002-v1/CP_025__green_silk_thumb.png)](../../previews/quality-cp024-if002-v1/CP_025__green_silk_overview_comparison.png)
+
+Use: Green silk texture mapped to CP025 wine silk material only, using cleaned geometry and explicitly added missing UV baseline. Other material properties unchanged.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base CP_025](base-14.md#cp_025) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-cp024-if002-v1/CP_025__green_silk_CC0.zip) · [Full comparison](../../previews/quality-cp024-if002-v1/CP_025__green_silk_overview_comparison.png) · [Details](../material_variants_cp024_if002.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

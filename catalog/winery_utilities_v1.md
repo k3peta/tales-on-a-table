@@ -91,3 +91,31 @@ HCV303
 [![HCV303](../previews/hcv-chb24/thumbnails/HCV303.png)](../previews/hcv-chb24/renders/HCV303.png)
 
 [Full image](../previews/hcv-chb24/renders/HCV303.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/husbandry-cellar-v1/HCV303-CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### HCV901 — HCV901
+
+HCV901
+
+[![HCV901](../previews/mrt102-csh24/thumbnails/HCV901.png)](../previews/mrt102-csh24/renders/HCV901.png)
+
+[Full image](../previews/mrt102-csh24/renders/HCV901.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV901-CC0.zip)
+
+### HCV902 — HCV902
+
+HCV902
+
+[![HCV902](../previews/mrt102-csh24/thumbnails/HCV902.png)](../previews/mrt102-csh24/renders/HCV902.png)
+
+[Full image](../previews/mrt102-csh24/renders/HCV902.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV902-CC0.zip)
+
+### HCV903 — HCV903
+
+HCV903
+
+[![HCV903](../previews/mrt102-csh24/thumbnails/HCV903.png)](../previews/mrt102-csh24/renders/HCV903.png)
+
+[Full image](../previews/mrt102-csh24/renders/HCV903.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/winery-utilities-v1/HCV903-CC0.zip)

@@ -106,3 +106,55 @@ Metres, Z up, ground origins. Chapel6x8m, floor0.16m, doorway1.68m, aisle1.5m. R
 ![訓練場配置（CPT201詰め物標柱） training_overview](../previews/catalog-20261024/CPTV02_TrainingCourt-training_overview.jpg)
 
 ![訓練場配置（CPT201詰め物標柱） training_props](../previews/catalog-20261024/CPTV02_TrainingCourt-training_props.jpg)
+
+## Individual images / 個別画像 / 单件图片
+
+Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### CPT101_ChapelShell — ChapelShell
+
+ChapelShell
+
+[![CPT101_ChapelShell](../previews/mrt102-csh24/thumbnails/CPT101_ChapelShell.png)](../previews/mrt102-csh24/renders/CPT101_ChapelShell.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPT101_ChapelShell.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT101_ChapelShell_CC0.zip)
+
+### CPT102_SunAltar — SunAltar
+
+SunAltar
+
+[![CPT102_SunAltar](../previews/mrt102-csh24/thumbnails/CPT102_SunAltar.png)](../previews/mrt102-csh24/renders/CPT102_SunAltar.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPT102_SunAltar.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT102_SunAltar_CC0.zip)
+
+### CPT103_PrayerKneeler — PrayerKneeler
+
+PrayerKneeler
+
+[![CPT103_PrayerKneeler](../previews/mrt102-csh24/thumbnails/CPT103_PrayerKneeler.png)](../previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPT103_PrayerKneeler.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT103_PrayerKneeler_CC0.zip)
+
+### CPT201_PaddedPell — PaddedPell
+
+PaddedPell
+
+[![CPT201_PaddedPell](../previews/mrt102-csh24/thumbnails/CPT201_PaddedPell.png)](../previews/mrt102-csh24/renders/CPT201_PaddedPell.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPT201_PaddedPell.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPT201_PaddedPell_CC0.zip)
+
+### CPTV01_Chapel — Chapel
+
+Chapel
+
+[![CPTV01_Chapel](../previews/mrt102-csh24/thumbnails/CPTV01_Chapel.png)](../previews/mrt102-csh24/renders/CPTV01_Chapel.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPTV01_Chapel.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV01_Chapel_CC0.zip)
+
+### CPTV02_TrainingCourt — TrainingCourt
+
+TrainingCourt
+
+[![CPTV02_TrainingCourt](../previews/mrt102-csh24/thumbnails/CPTV02_TrainingCourt.png)](../previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png)
+
+[Full image](../previews/mrt102-csh24/renders/CPTV02_TrainingCourt.png) · [ZIP · BLEND/GLB](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/chapel-training-v1/CPTV02_TrainingCourt_CC0.zip)
