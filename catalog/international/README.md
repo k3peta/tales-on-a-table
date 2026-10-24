@@ -175,4 +175,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality45 variants](variant-06.md):156 separately counted material variants; base1008 unchanged. No new revisions; main-member ceramic variants public ZIP/member/image identity verified.
 
-[Quality46 variants](variant-06.md):157 separately counted material variants; base1008 unchanged. No new revisions; blue parts-tray variant public match pending.
+[Quality46 variants](variant-06.md):157 separately counted material variants; base1008 unchanged. No new revisions; blue parts-tray variant public ZIP/member/image identity verified.
