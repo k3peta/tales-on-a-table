@@ -179,4 +179,4 @@ Image batch17 accepted7 of7; no held images in this batch. Remaining0 unpictured
 
 [Quality47 variants](variant-06.md):158 separately counted material variants; base1008 unchanged. No new revisions; teal mask variant public ZIP/member/image identity verified. Rejected blueglass candidate not published.
 
-[Quality48 variants](variant-06.md):160 separately counted material variants; base1008 unchanged. No new revisions; cushion/cloth variants public match pending.
+[Quality48 variants](variant-06.md):160 separately counted material variants; base1008 unchanged. No new revisions; cushion/cloth variants public ZIP/member/image identity verified.
