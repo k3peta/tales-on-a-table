@@ -48,6 +48,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality39:** 64 zero-area triangles removed;91016tri over20k. [Details](../material_variants_arm024_arm033.md).
+
 ## ARM_034
 
 **縫い鎧の綿入れ胴着**

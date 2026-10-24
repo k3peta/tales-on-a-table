@@ -13,13 +13,13 @@
       "all_requested_metadata_verified": 0
     },
     "variant": {
-      "records": 145,
-      "id_mapped_preview": 145,
+      "records": 147,
+      "id_mapped_preview": 147,
       "preview_not_mapped": 0,
       "dimensions_known": 0,
       "triangles_known": 0,
-      "purpose_en_present": 145,
-      "formats_known": 145,
+      "purpose_en_present": 147,
+      "formats_known": 147,
       "origin_orientation_verified": 0,
       "all_requested_metadata_verified": 0
     }
@@ -16970,7 +16970,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_026_CC0.zip",
       "pictured_zip_sha256": "d24f881afb4e5d4361d00de1e5c7e7e9adf94901a94a5e4292ad6aa7a30e3767",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_026__repair",
+          "catalog": "catalog/material_variants_arm024_arm033.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "23 zero-area triangles removed;258 positive tiny retained;109853tri over20k."
     },
     {
       "id": "ARM_027",
@@ -17007,7 +17015,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_027_CC0.zip",
       "pictured_zip_sha256": "056d07b0bcab92a3845be3a9aef929e6636b9bdefa329a981561d5d989a90395",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "134014tri over20k; copper-colored coating variant retains geometry/UV/vertex colors."
     },
     {
       "id": "ARM_028",
@@ -17118,7 +17127,8 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_030_CC0.zip",
       "pictured_zip_sha256": "c9aa6204a82632c8a3f44aa15c952442b5caafd352ad34368fc356b7389fc4a0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "known_issue": "237841tri over20k; navy hide variant retains geometry/UV/vertex colors."
     },
     {
       "id": "ARM_031",
@@ -17155,7 +17165,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_031_CC0.zip",
       "pictured_zip_sha256": "1a50920f240829188fea5e5ecbb09b9f86bf4ca2b82f1e464e30a42c8d970a82",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_031__repair",
+          "catalog": "catalog/material_variants_arm024_arm033.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "48 zero-area triangles removed;10 positive tiny retained;68384tri over20k; shoulder attachment/rig unverified."
     },
     {
       "id": "ARM_032",
@@ -17229,7 +17247,15 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_033_CC0.zip",
       "pictured_zip_sha256": "56abf604529ec3403f475baa0c63ceba081ced92dada9494d4e423b233a88d72",
       "image_version_binding_status": "authored_primary_preview_hash_association",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "ARM_033__repair",
+          "catalog": "catalog/material_variants_arm024_arm033.md",
+          "status": "final ZIP guarded; public match pending"
+        }
+      ],
+      "known_issue": "64 zero-area triangles removed;91016tri over20k."
     },
     {
       "id": "ARM_034",
@@ -45038,6 +45064,80 @@
       "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_023_CC0.zip",
       "pictured_zip_sha256": "8ae4a0042eb086d915b81ca7256d5d92f5b303ef1c1a6dc4836d2a55651197c4",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_027__coppertint",
+      "kind": "variant",
+      "base_id": "ARM_027",
+      "name_en": "幅広ひさしの歩兵兜",
+      "name_ja": "幅広ひさしの歩兵兜",
+      "purpose_en": "UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.",
+      "record_kind": "model",
+      "image": "previews/quality-arm024-033-v1/ARM_027__coppertint_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_027__coppertint_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm024_arm033.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm024-033-v1/ARM_027__coppertint_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_027_CC0.zip",
+      "pictured_zip_sha256": "056d07b0bcab92a3845be3a9aef929e6636b9bdefa329a981561d5d989a90395",
+      "image_version_binding_status": "authored_primary_preview_hash_association",
+      "image_lod_scope": "not independently resolved; do not infer all LODs"
+    },
+    {
+      "id": "ARM_030__navyhide",
+      "kind": "variant",
+      "base_id": "ARM_030",
+      "name_en": "継ぎ革のフード",
+      "name_ja": "継ぎ革のフード",
+      "purpose_en": "UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.",
+      "record_kind": "model",
+      "image": "previews/quality-arm024-033-v1/ARM_030__navyhide_thumb.png",
+      "image_evidence": "Exact ZIP/image hashes matched; comparison visually inspected",
+      "dimensions_m": null,
+      "triangles": null,
+      "bounds_m": null,
+      "measurement_evidence": null,
+      "origin": "Unknown / not independently confirmed",
+      "orientation": "Unknown / not independently confirmed",
+      "formats": [
+        "BLEND",
+        "GLB"
+      ],
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_030__navyhide_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "See original ZIP license and repository license scope",
+      "catalogs": [
+        "catalog/material_variants_arm024_arm033.md"
+      ],
+      "comparison": {
+        "file": "previews/quality-arm024-033-v1/ARM_030__navyhide_overview_comparison.png",
+        "layout": "left: original; right: accepted; identical camera and lighting"
+      },
+      "geometry_revision": "original geometry",
+      "uv_revision": "original UV unchanged; original vertex colors retained with UV tint",
+      "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_030_CC0.zip",
+      "pictured_zip_sha256": "c9aa6204a82632c8a3f44aa15c952442b5caafd352ad34368fc356b7389fc4a0",
       "image_version_binding_status": "authored_primary_preview_hash_association",
       "image_lod_scope": "not independently resolved; do not infer all LODs"
     }

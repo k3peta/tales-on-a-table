@@ -446,6 +446,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality39:** 23 zero-area triangles removed;258 positive tiny retained;109853tri over20k. [Details](../material_variants_arm024_arm033.md).
+
 ## ARM_027
 
 **幅広ひさしの歩兵兜**
@@ -467,6 +469,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+
+**Quality39:** 134014tri over20k; copper-colored coating variant retains geometry/UV/vertex colors. [Details](../material_variants_arm024_arm033.md).
 
 ## ARM_028
 
@@ -534,6 +538,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 
+**Quality39:** 237841tri over20k; navy hide variant retains geometry/UV/vertex colors. [Details](../material_variants_arm024_arm033.md).
+
 ## ARM_031
 
 **左右非対称の遍歴鎧**
@@ -555,3 +561,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
+**Quality39:** 48 zero-area triangles removed;10 positive tiny retained;68384tri over20k; shoulder attachment/rig unverified. [Details](../material_variants_arm024_arm033.md).

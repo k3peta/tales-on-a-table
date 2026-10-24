@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "ARM_026__repair",
+      "base_id": "ARM_026",
+      "entity_type": "revision",
+      "zip": "ARM_026__repair_CC0.zip",
+      "sha256": "c8c34d90b48ef6b84e7ba81d8e74dd3387b007c3a4e549fee214111153e58026",
+      "bytes": 6062082,
+      "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_026__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_027__coppertint",
+      "base_id": "ARM_027",
+      "entity_type": "material_variant",
+      "zip": "ARM_027__coppertint_CC0.zip",
+      "sha256": "5359df03bb72fcc05221f42f5889a1ddb3f673996f3093fb1884c4a4db89b1af",
+      "bytes": 6483527,
+      "description": "UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_027__coppertint_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_030__navyhide",
+      "base_id": "ARM_030",
+      "entity_type": "material_variant",
+      "zip": "ARM_030__navyhide_CC0.zip",
+      "sha256": "eb3b27ec2c9083f6ae51d277f33a3bdcf453294518f133430f99c4217c143fc8",
+      "bytes": 14225525,
+      "description": "UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_030__navyhide_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_031__repair",
+      "base_id": "ARM_031",
+      "entity_type": "revision",
+      "zip": "ARM_031__repair_CC0.zip",
+      "sha256": "98acb21003515b718fcf1efc03f52c7e4c835fd402cb3cc701fdf3192be978df",
+      "bytes": 3522506,
+      "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_031__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "ARM_033__repair",
+      "base_id": "ARM_033",
+      "entity_type": "revision",
+      "zip": "ARM_033__repair_CC0.zip",
+      "sha256": "e7a2f8fd8c08c2a656ca8c0bbba0be0e592db66110809f963d2bc11728a29f54",
+      "bytes": 3993834,
+      "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_033__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 3
+}

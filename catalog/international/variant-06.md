@@ -337,3 +337,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base ARM_023](base-16.md#arm_023) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm014-023-v1/ARM_023__rusthide_CC0.zip) · [Full comparison](../../previews/quality-arm014-023-v1/ARM_023__rusthide_overview_comparison.png) · [Details](../material_variants_arm014_arm023.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_027__coppertint
+
+**幅広ひさしの歩兵兜** · 幅広ひさしの歩兵兜
+
+[![ARM_027__coppertint](../../previews/quality-arm024-033-v1/ARM_027__coppertint_thumb.png)](../../previews/quality-arm024-033-v1/ARM_027__coppertint_overview_comparison.png)
+
+Use: UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_027](base-16.md#arm_027) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_027__coppertint_CC0.zip) · [Full comparison](../../previews/quality-arm024-033-v1/ARM_027__coppertint_overview_comparison.png) · [Details](../material_variants_arm024_arm033.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## ARM_030__navyhide
+
+**継ぎ革のフード** · 継ぎ革のフード
+
+[![ARM_030__navyhide](../../previews/quality-arm024-033-v1/ARM_030__navyhide_thumb.png)](../../previews/quality-arm024-033-v1/ARM_030__navyhide_overview_comparison.png)
+
+Use: UV tint texture multiplied with original vertex colors; copper-colored coating on helmet steel or navy hood leather. Original geometry/UV retained; no roughness/normal/emission edit. Not a geometry repair or new base.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base ARM_030](base-16.md#arm_030) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_030__navyhide_CC0.zip) · [Full comparison](../../previews/quality-arm024-033-v1/ARM_030__navyhide_overview_comparison.png) · [Details](../material_variants_arm024_arm033.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

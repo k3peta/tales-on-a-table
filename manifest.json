@@ -12116,7 +12116,23 @@
       "zip_sha256": "d24f881afb4e5d4361d00de1e5c7e7e9adf94901a94a5e4292ad6aa7a30e3767",
       "preview_file": "previews/ARM_026_preview.jpg",
       "preview_sha256": "20de3a16a6ce283d2f7ece311ba42c46542a4c92921a125dfaf10872fafdea4c",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_026_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_026_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_026__repair",
+          "base_id": "ARM_026",
+          "entity_type": "revision",
+          "zip": "ARM_026__repair_CC0.zip",
+          "sha256": "c8c34d90b48ef6b84e7ba81d8e74dd3387b007c3a4e549fee214111153e58026",
+          "bytes": 6062082,
+          "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_026__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_027",
@@ -12266,7 +12282,23 @@
       "zip_sha256": "1a50920f240829188fea5e5ecbb09b9f86bf4ca2b82f1e464e30a42c8d970a82",
       "preview_file": "previews/ARM_031_preview.png",
       "preview_sha256": "c09268012cbbe4b472d683e608ae875a340fc39088d140bc2ddfecd170e53a1b",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_031_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_031_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_031__repair",
+          "base_id": "ARM_031",
+          "entity_type": "revision",
+          "zip": "ARM_031__repair_CC0.zip",
+          "sha256": "98acb21003515b718fcf1efc03f52c7e4c835fd402cb3cc701fdf3192be978df",
+          "bytes": 3522506,
+          "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_031__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_032",
@@ -12326,7 +12358,23 @@
       "zip_sha256": "56abf604529ec3403f475baa0c63ceba081ced92dada9494d4e423b233a88d72",
       "preview_file": "previews/ARM_033_preview.png",
       "preview_sha256": "ece2deb294039755414e30988bd5d54c0ec584a957fc751ca27827dfb7998399",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_033_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-armory/ARM_033_CC0.zip",
+      "revisions": [
+        {
+          "id": "ARM_033__repair",
+          "base_id": "ARM_033",
+          "entity_type": "revision",
+          "zip": "ARM_033__repair_CC0.zip",
+          "sha256": "e7a2f8fd8c08c2a656ca8c0bbba0be0e592db66110809f963d2bc11728a29f54",
+          "bytes": 3993834,
+          "description": "Exact-zero-area cleanup with all positive surfaces and vertex colors retained: ARM026 23, ARM031 48, ARM033 64 faces. Budget remains exceeded. No new base.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-arm024-033-v1/ARM_033__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "ARM_034",
