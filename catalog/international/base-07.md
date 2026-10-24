@@ -556,7 +556,7 @@ Measured bounds relative to stored coordinates (metres): [[-0.23999999463558197,
 
 Source details: [Catalogue 1](../../catalog/furniture_02.en.md) · [Catalogue 2](../../catalog/furniture_02.md) · [Catalogue 3](../../catalog/furniture_02.zh-CN.md)
 
-[Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md#ol_055__repair). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
+[Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
 
 ## OL_056
 

@@ -196,7 +196,7 @@ Measured bounds relative to stored coordinates (metres): [[-0.2330000102519989, 
 
 Source details: [Catalogue 1](../../catalog/curios-tools_02.en.md) · [Catalogue 2](../../catalog/curios-tools_02.md) · [Catalogue 3](../../catalog/curios-tools_02.zh-CN.md)
 
-[Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md#at_001__repair). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
+[Quality 18 revision and comparison](../../catalog/material_variants_ol055_story_at001.md). Original download retained; AT001 revised triangle count is 6068, not the original measurement.
 
 ## AT_002
 
