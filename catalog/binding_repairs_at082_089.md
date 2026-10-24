@@ -8,7 +8,7 @@ Two bindings per asset rebuilt around convex cross-sections of existing paper/cl
 
 5个几何及UV修订，不新增基本模型或颜色变体。绳子沿凸截面重建，小环替代悬浮尾部；整体垂直移动以接地。跨越局部凹陷是有意保留，不保证全点接触或物理张力。
 
-Producer surface diagnostic maximum nearest-surface vertex distances24–38mm→12–18mm; zero tested negative-signed-nearest vertices beyond0.05mm. This is not solid collision, knot mechanics or tension validation. Guard triangle/UV correspondence compares against the repaired reference, NOT the original. Same-setting overview and opposite close comparisons reviewed. Final-ZIP guard passed; public artifact identity pending. Publication did not rerun Blender.
+Producer surface diagnostic maximum nearest-surface vertex distances24–38mm→12–18mm; zero tested negative-signed-nearest vertices beyond0.05mm. This is not solid collision, knot mechanics or tension validation. Guard triangle/UV correspondence compares against the repaired reference, NOT the original. Same-setting overview and opposite close comparisons reviewed. Final-ZIP guard and exact public ZIP/member identity verified. Publication did not rerun Blender.
 
 Still unresolved:AT085 paper/box contact,AT088 dark scroll bases/partial rings,AT090 separate-packet assembly,AT092 budget. Budget/redesign46 unchanged. No game/walking/collision/Blender4.3.2 guarantee. Models and embedded materials only CC0; images separate; private code/reports excluded. [License](../LICENSE.md).
 
@@ -81,3 +81,5 @@ Left original;right repair,same settings.
 [![close comparison](../previews/quality-at-binding-repair-v1/AT_089_close_before-after.png)](../previews/quality-at-binding-repair-v1/AT_089_close_before-after.png)
 
 Left original;right repair,same settings.
+
+[ZIP/model/run/numerical evidence](../distributions/quality-at-binding-repair-v1/validation.json).

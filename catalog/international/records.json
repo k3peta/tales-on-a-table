@@ -10965,12 +10965,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "known_issue": "Historical raised bindings revised; final ZIP and exact public download matched. Binding geometry/UV changed; convex spans remain, no physical tension or collision guarantee.",
       "revision_history": [
         {
           "id": "AT_082__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_082__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11005,12 +11005,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "known_issue": "Historical raised bindings revised; final ZIP and exact public download matched. Binding geometry/UV changed; convex spans remain, no physical tension or collision guarantee.",
       "revision_history": [
         {
           "id": "AT_083__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_083__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11111,12 +11111,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "known_issue": "Historical raised bindings revised; final ZIP and exact public download matched. Binding geometry/UV changed; convex spans remain, no physical tension or collision guarantee.",
       "revision_history": [
         {
           "id": "AT_086__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_086__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11151,12 +11151,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "known_issue": "Historical raised bindings revised; final ZIP and exact public download matched. Binding geometry/UV changed; convex spans remain, no physical tension or collision guarantee.",
       "revision_history": [
         {
           "id": "AT_087__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_087__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -11224,12 +11224,12 @@
       "comparison": null,
       "geometry_revision": null,
       "uv_revision": null,
-      "known_issue": "Original raised binding geometry retained in history. Revised binding geometry/UV guarded; public identity match pending. Convex spans remain, not physical tension/collision proof.",
+      "known_issue": "Historical raised bindings revised; final ZIP and exact public download matched. Binding geometry/UV changed; convex spans remain, no physical tension or collision guarantee.",
       "revision_history": [
         {
           "id": "AT_089__repair",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_089__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },

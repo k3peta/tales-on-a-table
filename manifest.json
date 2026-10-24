@@ -7663,7 +7663,7 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_082__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -7705,7 +7705,7 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_083__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -7799,7 +7799,7 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_086__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -7841,7 +7841,7 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_087__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },
@@ -7909,7 +7909,7 @@
           "license": "CC0-1.0",
           "license_scope": "model geometry and embedded materials only",
           "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at-binding-repair-v1/AT_089__repair_CC0.zip",
-          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ]
     },

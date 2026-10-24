@@ -1,0 +1,166 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "package_commit": "5aa6f3af1f8e57b161d91b272527a0894ee6c81d",
+  "run_id": "ae9f47ff-f33a-4f9a-a33b-e7cbf3c8bf17",
+  "started_utc": "2026-10-24T12:22:41.850264+00:00",
+  "finished_utc": "2026-10-24T12:22:44.724023+00:00",
+  "tool": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "packages": [
+    {
+      "id": "AT_082__repair",
+      "zip": "AT_082__repair_CC0.zip",
+      "zip_sha256": "ea444b96f8e491374d16ed1a6988a18b9f7d12f68463c884f92f9f4ed12a2e21",
+      "members": {
+        "AT_082__repair.blend": "8d00bd364f1cdd8bf499644a35f62e96dd06947f74e2fd130387c5f0ad53b724",
+        "AT_082__repair.glb": "739c7d30b00a01becabcb820f7e51ab69a0b181a6ffd7ce8cdaad226c8257961"
+      }
+    },
+    {
+      "id": "AT_083__repair",
+      "zip": "AT_083__repair_CC0.zip",
+      "zip_sha256": "f8284b7e628c7ae4b616f3d2ad65a0476bc02b21752db09e21b41844d814e19f",
+      "members": {
+        "AT_083__repair.blend": "5c626701f14f4670a1ab0751fe7366aedfd6dfcfd89af78f1d49244f55ff38d9",
+        "AT_083__repair.glb": "14bd342c425cb070cf001a902be095ea13858b01f1d826f7b4cd549bd2b60aa7"
+      }
+    },
+    {
+      "id": "AT_086__repair",
+      "zip": "AT_086__repair_CC0.zip",
+      "zip_sha256": "a44ef28b3dd089ff967831569179dc775587bfdf7bb4926e44bc239e10151fa7",
+      "members": {
+        "AT_086__repair.glb": "8706d28d41c976473f2f13536a39c3592f47c5eec049e7daecd963b75919b1ea",
+        "AT_086__repair.blend": "fe47b0a7b176b626da696d683b76bfdab09eabf7cd367f31fd9c2c78a3fcc00d"
+      }
+    },
+    {
+      "id": "AT_087__repair",
+      "zip": "AT_087__repair_CC0.zip",
+      "zip_sha256": "219504c1c1b17f33bd475d6ecea157cbf80e442e31fabb24c2cd0010bdece373",
+      "members": {
+        "AT_087__repair.blend": "e7acc32d667e910df3ccac0b6c08e837881588569fb84c8c67f430d828ef3e66",
+        "AT_087__repair.glb": "38262357345fbdb1e0f6f8408969dc5a757b3f2b4bb39d3dd0ab6a16525f0ff7"
+      }
+    },
+    {
+      "id": "AT_089__repair",
+      "zip": "AT_089__repair_CC0.zip",
+      "zip_sha256": "5e37bb8b67fd20f421971212ebc66850e3edbfd808d5a556027b3d786fd0eca1",
+      "members": {
+        "AT_089__repair.glb": "2e9bbf3442d334064b5e117cf90ef1f4648b54e2e7de04ca86442abaf8889782",
+        "AT_089__repair.blend": "99c0509f23c990bc310fcb1316780c6892d07ebe8e167c26ced81b81303b55b4"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "AT_082__repair",
+      "formats": {
+        "blend": {
+          "triangles": 11304,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 11304,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "AT_083__repair",
+      "formats": {
+        "blend": {
+          "triangles": 10284,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10284,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "AT_086__repair",
+      "formats": {
+        "blend": {
+          "triangles": 8248,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 8248,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "AT_087__repair",
+      "formats": {
+        "blend": {
+          "triangles": 9472,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 9472,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "AT_089__repair",
+      "formats": {
+        "blend": {
+          "triangles": 15396,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 15396,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    }
+  ],
+  "scope": "Producer final-ZIP model tests compared with repaired reference, NOT original geometry/UV. Publication independently checks exact public ZIP/member identity, not a separate Blender rerun. Surface diagnostic is not solid collision or tension proof."
+}
