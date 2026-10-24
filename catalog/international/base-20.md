@@ -506,6 +506,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality49:** 8.263mm shank/helix gap bridged by48tri static connector;3472tri total,overlap not watertight union or strength guarantee. [Details](../material_variants_bm041_bm050.md).
+
 ## BM_042
 
 **Dirty robe**
@@ -527,6 +529,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality49:** 60240tri over20k;rust-red robe tint,no wearable rig. [Details](../material_variants_bm041_bm050.md).
 
 ## BM_043
 
@@ -550,6 +554,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality49:** 60566tri over20k;blue bag tint,no budget redesign. [Details](../material_variants_bm041_bm050.md).
+
 ## BM_044
 
 **Chipped magnifying glass**
@@ -571,3 +577,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+**Quality49:** 3152tri;chipped lens intentional,no optical accuracy guarantee. [Details](../material_variants_bm041_bm050.md).

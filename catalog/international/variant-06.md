@@ -547,3 +547,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base BM_037](base-20.md#bm_037) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm031-040-v1/BM_037__bluecloth_CC0.zip) · [Full comparison](../../previews/quality-bm031-040-v1/BM_037__bluecloth_overview_comparison.png) · [Details](../material_variants_bm031_bm040.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_042__rustred
+
+**Dirty robe** · 汚れたローブ
+
+[![BM_042__rustred](../../previews/quality-bm041-050-v1/BM_042__rustred_thumb.png)](../../previews/quality-bm041-050-v1/BM_042__rustred_overview_comparison.png)
+
+Use: Main robe/bag UV color tint only, original geometry/UV/vertex colors and other material channels preserved. Polygon budget remains exceeded.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_042](base-20.md#bm_042) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_042__rustred_CC0.zip) · [Full comparison](../../previews/quality-bm041-050-v1/BM_042__rustred_overview_comparison.png) · [Details](../material_variants_bm041_bm050.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## BM_043__bluebag
+
+**Dirty bag** · 汚れたバッグ
+
+[![BM_043__bluebag](../../previews/quality-bm041-050-v1/BM_043__bluebag_thumb.png)](../../previews/quality-bm041-050-v1/BM_043__bluebag_overview_comparison.png)
+
+Use: Main robe/bag UV color tint only, original geometry/UV/vertex colors and other material channels preserved. Polygon budget remains exceeded.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base BM_043](base-20.md#bm_043) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_043__bluebag_CC0.zip) · [Full comparison](../../previews/quality-bm041-050-v1/BM_043__bluebag_overview_comparison.png) · [Details](../material_variants_bm041_bm050.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

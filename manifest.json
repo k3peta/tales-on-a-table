@@ -16358,7 +16358,23 @@
       "zip_sha256": "f1166540edf0b6d5dcfad0e9986697289a42d3a7f2f894d4f3423e6613ab4977",
       "preview_file": "previews/BM_041_preview.png",
       "preview_sha256": "bd2ecbcebc6b62f08ff378803d40935cc51a247386a2f7410957f7818be71d01",
-      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_041_CC0.zip"
+      "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.19-bridge-market/BM_041_CC0.zip",
+      "revisions": [
+        {
+          "id": "BM_041__repair",
+          "base_id": "BM_041",
+          "entity_type": "revision",
+          "zip": "BM_041__repair_CC0.zip",
+          "sha256": "c84e9d23b6cdc16621f6b57a47ea083a45ac93657ca80334cd4a4fd7891aa473",
+          "bytes": 675307,
+          "description": "Static shank-to-helix connector added48tri; original mesh/UV/colors retained, overlapping assembly not watertight union; no functional strength guarantee.",
+          "scope_note": "Static; no functional or collision validation",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_041__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "BM_042",

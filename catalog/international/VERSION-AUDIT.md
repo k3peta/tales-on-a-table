@@ -11,3 +11,5 @@ Current card evidence:519 authored primary preview/hash associations,464 exact p
 The six resolved records are FCS105_RoadGatehouse, FCSV01_ConstructionSite, FCSV03_GateAccessExample, HCV_SCENE_HORSE, HCV_SCENE_WINERY and HCV_SCENE_CELLAR. Their current cards pair the revised images with matching ZIPs. Previous images, archive links and image-history metadata remain available. Horse/winery/cellar arrangements remain licensed for viewing/rearranging only; underlying model/material CC0 does not expand scene redistribution rights. All catalogue images remain outside model CC0.
 
 [25 exact public bindings](../../previews/current-scenes6/bindings25.json) · [Six render manifests](../../previews/current-scenes6/manifest.json) · [Full1008 audit](version-audit.json) · [Earlier audit with six pending](VERSION-AUDIT-before-scenes6.md).
+
+Quality49:148 prior revision bindings verified; BM041 new revision public retrieval pending;859 records have no revision entry.

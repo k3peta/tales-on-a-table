@@ -26,6 +26,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality49:** 42600tri below50k assembly warning;static cart,no load/rolling test. [Details](../material_variants_bm041_bm050.md).
+
 ## BM_046
 
 **Wooden pack frame**
@@ -47,6 +49,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality49:** 21624tri over20k;backpack frame wearable fit untested. [Details](../material_variants_bm041_bm050.md).
 
 ## BM_047
 
@@ -70,6 +74,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality49:** 60626tri over20k;books are components of one portable-library record. [Details](../material_variants_bm041_bm050.md).
+
 ## BM_048
 
 **Resting market donkey**
@@ -91,6 +97,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality49:** 66103tri exceeds provisional50k static-display warning;no dedicated animal threshold,no rig/anatomy guarantee. [Details](../material_variants_bm041_bm050.md).
 
 ## BM_049
 
@@ -114,6 +122,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
 
+**Quality49:** 2512tri bucket,static water,no fluid simulation. [Details](../material_variants_bm041_bm050.md).
+
 ## BM_050
 
 **Filled feed bag**
@@ -135,6 +145,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/bridge-market.en.md) · [Catalogue 2](../../catalog/bridge-market.md) · [Catalogue 3](../../catalog/bridge-market.zh-CN.md)
+
+**Quality49:** 1738tri fodder bag,faceted low-poly style retained. [Details](../material_variants_bm041_bm050.md).
 
 ## BM_051
 

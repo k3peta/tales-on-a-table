@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "BM_041__repair",
+      "base_id": "BM_041",
+      "entity_type": "revision",
+      "zip": "BM_041__repair_CC0.zip",
+      "sha256": "c84e9d23b6cdc16621f6b57a47ea083a45ac93657ca80334cd4a4fd7891aa473",
+      "bytes": 675307,
+      "description": "Static shank-to-helix connector added48tri; original mesh/UV/colors retained, overlapping assembly not watertight union; no functional strength guarantee.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_041__repair_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BM_042__rustred",
+      "base_id": "BM_042",
+      "entity_type": "material_variant",
+      "zip": "BM_042__rustred_CC0.zip",
+      "sha256": "7a31d874cb35138e6027172db0fe2d3e2350c9485b703ad240475112956fa9e2",
+      "bytes": 3908226,
+      "description": "Main robe/bag UV color tint only, original geometry/UV/vertex colors and other material channels preserved. Polygon budget remains exceeded.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_042__rustred_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    },
+    {
+      "id": "BM_043__bluebag",
+      "base_id": "BM_043",
+      "entity_type": "material_variant",
+      "zip": "BM_043__bluebag_CC0.zip",
+      "sha256": "c54825c44585f112a22c80358c1ad42e44bcabdca638ddd48400c370d01481f1",
+      "bytes": 4158935,
+      "description": "Main robe/bag UV color tint only, original geometry/UV/vertex colors and other material channels preserved. Polygon budget remains exceeded.",
+      "scope_note": "Static; no functional or collision validation",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-bm041-050-v1/BM_043__bluebag_CC0.zip",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "qa_status": "final_zip_guard_passed_public_download_match_pending"
+    }
+  ],
+  "new_base_models": 0,
+  "variants": 2,
+  "revisions": 1
+}
