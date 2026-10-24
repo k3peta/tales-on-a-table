@@ -307,3 +307,199 @@ rock low outcrop
 [![TR026](../previews/terrain-tr003-026/thumbnails/TR026.png)](../previews/terrain-tr003-026/renders/TR026.png)
 
 [Full image](../previews/terrain-tr003-026/renders/TR026.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR026_CC0.zip)
+
+## Individual images / 個別画像 / 单件图片
+
+HQ models shown; LITE not pictured. Actual distributed models; chosen camera view does not establish intended front or placement pivot. Images are outside model CC0. Original links and archives retained.
+
+### TR027 — rock tall outcrop
+
+rock tall outcrop
+
+[![TR027](../previews/terrain-tr027-050/thumbnails/TR027.png)](../previews/terrain-tr027-050/renders/TR027.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR027.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR027_CC0.zip)
+
+### TR028 — rock layered ridge
+
+rock layered ridge
+
+[![TR028](../previews/terrain-tr027-050/thumbnails/TR028.png)](../previews/terrain-tr027-050/renders/TR028.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR028.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR028_CC0.zip)
+
+### TR029 — rock broken slabs
+
+rock broken slabs
+
+[![TR029](../previews/terrain-tr027-050/thumbnails/TR029.png)](../previews/terrain-tr027-050/renders/TR029.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR029.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR029_CC0.zip)
+
+### TR030 — rock moss boulders
+
+rock moss boulders
+
+[![TR030](../previews/terrain-tr027-050/thumbnails/TR030.png)](../previews/terrain-tr027-050/renders/TR030.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR030.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR030_CC0.zip)
+
+### TR031 — rock sand transition
+
+rock sand transition
+
+[![TR031](../previews/terrain-tr027-050/thumbnails/TR031.png)](../previews/terrain-tr027-050/renders/TR031.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR031.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR031_CC0.zip)
+
+### TR032 — rock snow transition
+
+rock snow transition
+
+[![TR032](../previews/terrain-tr027-050/thumbnails/TR032.png)](../previews/terrain-tr027-050/renders/TR032.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR032.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR032_CC0.zip)
+
+### TR033 — sand flat fine
+
+sand flat fine
+
+[![TR033](../previews/terrain-tr027-050/thumbnails/TR033.png)](../previews/terrain-tr027-050/renders/TR033.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR033.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR033_CC0.zip)
+
+### TR034 — sand wind ripples
+
+sand wind ripples
+
+[![TR034](../previews/terrain-tr027-050/thumbnails/TR034.png)](../previews/terrain-tr027-050/renders/TR034.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR034.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR034_CC0.zip)
+
+### TR035 — sand low dune
+
+sand low dune
+
+[![TR035](../previews/terrain-tr027-050/thumbnails/TR035.png)](../previews/terrain-tr027-050/renders/TR035.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR035.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR035_CC0.zip)
+
+### TR036 — sand pebble patch
+
+sand pebble patch
+
+[![TR036](../previews/terrain-tr027-050/thumbnails/TR036.png)](../previews/terrain-tr027-050/renders/TR036.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR036.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR036_CC0.zip)
+
+### TR037 — sand dry grass
+
+sand dry grass
+
+[![TR037](../previews/terrain-tr027-050/thumbnails/TR037.png)](../previews/terrain-tr027-050/renders/TR037.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR037.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR037_CC0.zip)
+
+### TR038 — sand rock transition
+
+sand rock transition
+
+[![TR038](../previews/terrain-tr027-050/thumbnails/TR038.png)](../previews/terrain-tr027-050/renders/TR038.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR038.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR038_CC0.zip)
+
+### TR039 — sand mud transition
+
+sand mud transition
+
+[![TR039](../previews/terrain-tr027-050/thumbnails/TR039.png)](../previews/terrain-tr027-050/renders/TR039.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR039.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR039_CC0.zip)
+
+### TR040 — sand shell gravel
+
+sand shell gravel
+
+[![TR040](../previews/terrain-tr027-050/thumbnails/TR040.png)](../previews/terrain-tr027-050/renders/TR040.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR040.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR040_CC0.zip)
+
+### TR041 — water straight NS
+
+water straight NS
+
+[![TR041](../previews/terrain-tr027-050/thumbnails/TR041.png)](../previews/terrain-tr027-050/renders/TR041.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR041.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR041_CC0.zip)
+
+### TR042 — water bend NE
+
+water bend NE
+
+[![TR042](../previews/terrain-tr027-050/thumbnails/TR042.png)](../previews/terrain-tr027-050/renders/TR042.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR042.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR042_CC0.zip)
+
+### TR043 — water junction NES
+
+water junction NES
+
+[![TR043](../previews/terrain-tr027-050/thumbnails/TR043.png)](../previews/terrain-tr027-050/renders/TR043.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR043.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR043_CC0.zip)
+
+### TR044 — water cross NESW
+
+water cross NESW
+
+[![TR044](../previews/terrain-tr027-050/thumbnails/TR044.png)](../previews/terrain-tr027-050/renders/TR044.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR044.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR044_CC0.zip)
+
+### TR045 — water end N pool
+
+water end N pool
+
+[![TR045](../previews/terrain-tr027-050/thumbnails/TR045.png)](../previews/terrain-tr027-050/renders/TR045.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR045.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR045_CC0.zip)
+
+### TR046 — water straight NS reeds
+
+water straight NS reeds
+
+[![TR046](../previews/terrain-tr027-050/thumbnails/TR046.png)](../previews/terrain-tr027-050/renders/TR046.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR046.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR046_CC0.zip)
+
+### TR047 — water bend NE stones
+
+water bend NE stones
+
+[![TR047](../previews/terrain-tr027-050/thumbnails/TR047.png)](../previews/terrain-tr027-050/renders/TR047.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR047.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR047_CC0.zip)
+
+### TR048 — water junction NES marsh
+
+water junction NES marsh
+
+[![TR048](../previews/terrain-tr027-050/thumbnails/TR048.png)](../previews/terrain-tr027-050/renders/TR048.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR048.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR048_CC0.zip)
+
+### TR049 — snow fresh flat
+
+snow fresh flat
+
+[![TR049](../previews/terrain-tr027-050/thumbnails/TR049.png)](../previews/terrain-tr027-050/renders/TR049.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR049.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR049_CC0.zip)
+
+### TR050 — snow wind drift
+
+snow wind drift
+
+[![TR050](../previews/terrain-tr027-050/thumbnails/TR050.png)](../previews/terrain-tr027-050/renders/TR050.png)
+
+[Full image](../previews/terrain-tr027-050/renders/TR050.png) · [ZIP · BLEND/GLB](https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR050_CC0.zip)

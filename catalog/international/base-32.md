@@ -10,7 +10,9 @@ Images are actual existing model renders for browsing, not covered by model CC0.
 
 sand pebble patch
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR036](../../previews/terrain-tr027-050/thumbnails/TR036.png)](../../previews/terrain-tr027-050/renders/TR036.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR036.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -32,7 +34,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand dry grass
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR037](../../previews/terrain-tr027-050/thumbnails/TR037.png)](../../previews/terrain-tr027-050/renders/TR037.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR037.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -54,7 +58,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand rock transition
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR038](../../previews/terrain-tr027-050/thumbnails/TR038.png)](../../previews/terrain-tr027-050/renders/TR038.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR038.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -76,7 +82,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand mud transition
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR039](../../previews/terrain-tr027-050/thumbnails/TR039.png)](../../previews/terrain-tr027-050/renders/TR039.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR039.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -98,7 +106,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand shell gravel
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR040](../../previews/terrain-tr027-050/thumbnails/TR040.png)](../../previews/terrain-tr027-050/renders/TR040.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR040.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -120,7 +130,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water straight NS
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR041](../../previews/terrain-tr027-050/thumbnails/TR041.png)](../../previews/terrain-tr027-050/renders/TR041.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR041.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -142,7 +154,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water bend NE
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR042](../../previews/terrain-tr027-050/thumbnails/TR042.png)](../../previews/terrain-tr027-050/renders/TR042.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR042.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -164,7 +178,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water junction NES
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR043](../../previews/terrain-tr027-050/thumbnails/TR043.png)](../../previews/terrain-tr027-050/renders/TR043.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR043.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -186,7 +202,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water cross NESW
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR044](../../previews/terrain-tr027-050/thumbnails/TR044.png)](../../previews/terrain-tr027-050/renders/TR044.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR044.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -208,7 +226,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water end N pool
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR045](../../previews/terrain-tr027-050/thumbnails/TR045.png)](../../previews/terrain-tr027-050/renders/TR045.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR045.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -230,7 +250,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water straight NS reeds
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR046](../../previews/terrain-tr027-050/thumbnails/TR046.png)](../../previews/terrain-tr027-050/renders/TR046.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR046.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -252,7 +274,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water bend NE stones
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR047](../../previews/terrain-tr027-050/thumbnails/TR047.png)](../../previews/terrain-tr027-050/renders/TR047.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR047.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -274,7 +298,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 water junction NES marsh
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR048](../../previews/terrain-tr027-050/thumbnails/TR048.png)](../../previews/terrain-tr027-050/renders/TR048.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR048.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -296,7 +322,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow fresh flat
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR049](../../previews/terrain-tr027-050/thumbnails/TR049.png)](../../previews/terrain-tr027-050/renders/TR049.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR049.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -318,7 +346,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 snow wind drift
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR050](../../previews/terrain-tr027-050/thumbnails/TR050.png)](../../previews/terrain-tr027-050/renders/TR050.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR050.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

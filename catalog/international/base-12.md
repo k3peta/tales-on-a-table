@@ -76,6 +76,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue 2](../../catalog/curios-tools_04.md) · [Catalogue 3](../../catalog/curios-tools_04.zh-CN.md)
 
+**Quality28:** Default-white patina/crevice materials; original intent unresolved. [Details](../material_variants_at093_ws008.md).
+
 ## AT_094
 
 **Rope-bound unidentified statue**
@@ -98,6 +100,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/curios-tools_04.en.md) · [Catalogue 2](../../catalog/curios-tools_04.md) · [Catalogue 3](../../catalog/curios-tools_04.zh-CN.md)
 
+**Quality28:** Default-white source materials, intent unresolved;56414tri over budget. [Details](../material_variants_at093_ws008.md).
+
 ## WS_001
 
 **Moon-emblem grimoire with twin clasps**
@@ -119,6 +123,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality28:** Zero-area cleanup revision;35660tri still over budget; Moon title versus star ornament unresolved. [Details](../material_variants_at093_ws008.md).
 
 ## WS_002
 
@@ -164,6 +170,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality28:** 20696tri over20k warning; no budget repair. [Details](../material_variants_at093_ws008.md).
+
 ## WS_004
 
 **Banded reference folio**
@@ -185,6 +193,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality28:** Band joint gaps need diagnosis;30696tri over budget. [Details](../material_variants_at093_ws008.md).
 
 ## WS_005
 
@@ -208,6 +218,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
 
+**Quality28:** Raised cord bridge needs intent/contact diagnosis; positive tiny faces retained. [Details](../material_variants_at093_ws008.md).
+
 ## WS_006
 
 **Open annotated manuscript**
@@ -229,6 +241,8 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/wizard-study.en.md) · [Catalogue 2](../../catalog/wizard-study.md) · [Catalogue 3](../../catalog/wizard-study.zh-CN.md)
+
+**Quality28:** 138384tri over budget; no lightweight repair. [Details](../material_variants_at093_ws008.md).
 
 ## WS_007
 

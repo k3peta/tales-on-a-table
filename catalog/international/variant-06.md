@@ -85,3 +85,31 @@ Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independ
 [Base AT_073](base-11.md#at_073) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at072-081-v1/AT_073__color_blue_CC0.zip) · [Full comparison](../../previews/quality-at072-081-v1/AT_073__color_blue_comparison.png) · [Details](../material_variants_at072_081.md)
 
 CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WS_002__color_blue
+
+**Cord-bound field notebook** · 紐綴じの野外採集帳
+
+[![WS_002__color_blue](../../previews/quality-at093-094-ws001-008-v1/WS_002__color_blue_thumb.png)](../../previews/quality-at093-094-ws001-008-v1/WS_002__color_blue_overview_comparison.png)
+
+Use: Cover only changed to blue mapped micrograin, original geometry andUV retained.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WS_002](base-12.md#ws_002) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at093-094-ws001-008-v1/WS_002__color_blue_CC0.zip) · [Full comparison](../../previews/quality-at093-094-ws001-008-v1/WS_002__color_blue_overview_comparison.png) · [Details](../material_variants_at093_ws008.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).
+
+## WS_003__color_green
+
+**Large star atlas** · 大型星図集
+
+[![WS_003__color_green](../../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_thumb.png)](../../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_overview_comparison.png)
+
+Use: Upper cover changed to green mapped micrograin, original geometry andUV retained. Original20696 triangles exceeds20k small-prop warning; not repaired.
+
+Formats: BLEND/GLB; intended pivot/facing, dimensions and triangles not independently measured for this variant.
+
+[Base WS_003](base-12.md#ws_003) · [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at093-094-ws001-008-v1/WS_003__color_green_CC0.zip) · [Full comparison](../../previews/quality-at093-094-ws001-008-v1/WS_003__color_green_overview_comparison.png) · [Details](../material_variants_at093_ws008.md)
+
+CC0 model/material only; images excluded. [License](../../LICENSE.md).

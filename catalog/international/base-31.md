@@ -400,7 +400,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock tall outcrop
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR027](../../previews/terrain-tr027-050/thumbnails/TR027.png)](../../previews/terrain-tr027-050/renders/TR027.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR027.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -422,7 +424,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock layered ridge
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR028](../../previews/terrain-tr027-050/thumbnails/TR028.png)](../../previews/terrain-tr027-050/renders/TR028.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR028.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -444,7 +448,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock broken slabs
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR029](../../previews/terrain-tr027-050/thumbnails/TR029.png)](../../previews/terrain-tr027-050/renders/TR029.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR029.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -466,7 +472,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock moss boulders
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR030](../../previews/terrain-tr027-050/thumbnails/TR030.png)](../../previews/terrain-tr027-050/renders/TR030.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR030.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -488,7 +496,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock sand transition
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR031](../../previews/terrain-tr027-050/thumbnails/TR031.png)](../../previews/terrain-tr027-050/renders/TR031.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR031.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -510,7 +520,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 rock snow transition
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR032](../../previews/terrain-tr027-050/thumbnails/TR032.png)](../../previews/terrain-tr027-050/renders/TR032.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR032.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -532,7 +544,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand flat fine
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR033](../../previews/terrain-tr027-050/thumbnails/TR033.png)](../../previews/terrain-tr027-050/renders/TR033.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR033.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -554,7 +568,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand wind ripples
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR034](../../previews/terrain-tr027-050/thumbnails/TR034.png)](../../previews/terrain-tr027-050/renders/TR034.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR034.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 
@@ -576,7 +592,9 @@ Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
 sand low dune
 
-**Image pending: no verified ID-specific preview mapping yet.**
+[![TR035](../../previews/terrain-tr027-050/thumbnails/TR035.png)](../../previews/terrain-tr027-050/renders/TR035.png)
+
+[Full-size image](../../previews/terrain-tr027-050/renders/TR035.png)
 
 Use / purpose: Unknown; see source catalogue. English use description needs review.
 

@@ -8094,7 +8094,22 @@
       "category": "wizard-study",
       "theme": "WS",
       "revision": "wizard-v10",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "WS_001__repair",
+          "base_id": "WS_001",
+          "entity_type": "revision",
+          "zip": "WS_001__repair_CC0.zip",
+          "sha256": "17652dc1b600680e2fb84206eb49f6d44dfbf910c759777ccb658353ca0ebc63",
+          "bytes": 6023126,
+          "description": "Removed3720 strictly zero-area triangles from2 clasps; all positive-area faces and UV retained, including64 tiny positive faces. Topology revision, no new model. Polygon budget remains exceeded.",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-at093-094-ws001-008-v1/WS_001__repair_CC0.zip",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "qa_status": "final_zip_guard_passed_public_download_match_pending"
+        }
+      ]
     },
     {
       "asset_id": "WS_002",
