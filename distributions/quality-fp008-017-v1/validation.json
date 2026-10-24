@@ -215,5 +215,113 @@
       "missing_colors_rejected": true,
       "scope": "rejected candidate only; public source original color data present"
     }
-  ]
+  ],
+  "final_zip_zero_area_recheck": [
+    {
+      "id": "FP010__repair",
+      "zip_sha256": "bd784922b1a9e015720612abd4b086e2e1d9e011a6e4644423711901cca7efc6",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "720b53fdba8b4ce40a8c984ab83930ded3e104b5617da6d2e39dc03574061010",
+          "triangles": 448,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "4a5237c1ce03cb26c3ff6fca97a73b33c58fff859ff1de4a8075a2a89365dbed",
+          "triangles": 448,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP011__repair",
+      "zip_sha256": "1f2d249bb75985e110bf6755ef1d1b3f2bf68b5bde54e5e7fcf9f20a7171defa",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "5426d4866983857eb9cbc80e99b610f9cda44c9e032e4dc7cbff0b96ee1eb5bf",
+          "triangles": 960,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "6a017972a7ccda20dc81692fb07735e5ad325c646c514d234bc974fe2addf68e",
+          "triangles": 960,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP012__repair",
+      "zip_sha256": "5a12ec5c132b4a2c6a76c397b88f81cfa1085ccd05b3b10bb656208d3401d03c",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "aa6b4839a55495a2ba5627f5fb4cabd3026b83a2ee3c76432cf8f43f9b3b48ce",
+          "triangles": 400,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "9ff16e42705798346a5ca8b113ee3f2d7237c73f5cf6e0b2c718d678659d703d",
+          "triangles": 400,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP015__repair",
+      "zip_sha256": "c33f45f931765dab2559c630d5e305c9fd859ea72b397a84e640e45627a83bd1",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "43ee1648fc74ad47cb3d05e00bd2abca80ba4a267ca097ed371611137c10fbf7",
+          "triangles": 2288,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "7541238483bb206c5b30e1966e2a152599e7212087159e7ce29e9ed6ad956a0e",
+          "triangles": 2288,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "FP011__blue_glaze",
+      "zip_sha256": "dc859bd5c4cb471de3d424837feeaa69b75256c811c35e91aa5e79f52657502b",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "250f0743132ab5478b4f7761f6c735d3b1f3d7819f9fe1369900d5a336b116af",
+          "triangles": 960,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "02a628fd002a6734a29ab15c04278bd7e9bcc4263c71bcd50fc8a343ab35b46e",
+          "triangles": 960,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    }
+  ],
+  "zero_area_scope": "Producer final-ZIP both-format zero/tiny-face recount, independently bound to public package/member hashes; not general collision or topology guarantee."
 }
