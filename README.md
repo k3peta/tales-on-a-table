@@ -7,7 +7,7 @@
 
 ## 公開履歴
 
-- 2026-10-24 — [AT042 section revision](catalog/at042_section_repair.md), no count increment; public-download check pending.
+- 2026-10-24 — [AT042 section revision](catalog/at042_section_repair.md), no count increment; final ZIP guard and public-download identity verified.
 
 - 2026-10-24 JST — 1008 unchanged; material variants121=119+2; WT replacement revisions not added. [Quality23](catalog/material_variants_at042_051.md), [WT repairs](catalog/wt007_008_replacement_v2.md).
 

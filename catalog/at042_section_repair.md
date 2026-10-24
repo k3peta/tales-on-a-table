@@ -1,6 +1,6 @@
 # AT042 cup ornament revision / 杯の装飾面修復 / 杯饰修订
 
-**Final ZIP guard passed; matching the public-download artifact is pending. One revision, zero new models/variants/images-covered IDs.**
+**Final ZIP guard passed; exact public-download ZIP and internal model hashes independently matched. One revision, zero new models/variants/images-covered IDs.**
 
 Long ornament faces crossed the curved cup wall even though their original vertices lay outside the cavity. Exterior brass ornament was subdivided and seated along the outer wall. Producer sampled surface intrusion1044→0; triangles7076→8356, bounds error0, boundary edges0→0. This is a geometry revision with interpolated ornament UV, not a same-geometry color variant. Sampling is not an exhaustive proof of every intersection.
 
@@ -17,3 +17,5 @@ Guard binds final ZIP/member hashes, input/script hashes, unique run ID, start/e
 [![AT_042__repair](../previews/quality-at042-section-v1/AT_042__repair_thumb.png)](../previews/quality-at042-section-v1/AT_042__repair_thumb.png)
 
 [![AT_042__repair](../previews/quality-at042-section-v1/AT_042__repair_comparison.png)](../previews/quality-at042-section-v1/AT_042__repair_comparison.png)
+
+[Bound ZIP/model hashes, run ID and numerical results](../distributions/quality-at042-section-v1/validation.json). Producer geometry tests were not independently rerun here; the public artifact identity was independently verified.
