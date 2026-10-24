@@ -1553,7 +1553,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_052_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "cf76976d83be54fb7a2be439a8ae1042e465b82bf7163f9df770f0ba69e185d1",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_052__repair",
+          "base_id": "FT_052",
+          "entity_type": "revision",
+          "geometry_revision": "original",
+          "uv_revision": "original_uv0_plus_wearuv",
+          "variant_geometry_reference": "FT_052",
+          "description": "木杯の過剰な木目と白反射を抑制。金具・割れ目は維持。",
+          "zip": "FT_052__repair_CC0.zip",
+          "bytes": 7531148,
+          "sha256": "1db9c72eb8357ca83b4897cfaf8f6ade054c851d789a5daf095311d379a6e236",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_052__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_053",
@@ -1579,7 +1596,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_053_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "00b5a21ba7ac1d06ab1fd4c85274c5bfc7da8156a03e07a6c14cb2018df28936",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_053__repair",
+          "base_id": "FT_053",
+          "entity_type": "revision",
+          "geometry_revision": "micro_degenerate_cleanup_v1",
+          "uv_revision": "micro_degenerate_cleanup_v1_uv0_plus_wearuv",
+          "variant_geometry_reference": "FT_053",
+          "description": "鍵の微小面を整理し、暗い金属アルベドを明瞭化。形状改訂。",
+          "zip": "FT_053__repair_CC0.zip",
+          "bytes": 10322188,
+          "sha256": "f9f2dc6d852f87af83d0e178f98b8b5a3f78d54ae85197c0d3eafdaa02db6596",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_053__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_054",
@@ -1631,7 +1665,24 @@
       "download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.18/FT_055_CC0.zip",
       "theme": "FT",
       "original_preview_sha256": "211323a6f01e7f294a39a9a5c6d98876fa635e7bfeaf1a0b003a716fd50a466b",
-      "preview_metadata_sanitized": true
+      "preview_metadata_sanitized": true,
+      "revisions": [
+        {
+          "id": "FT_055__repair",
+          "base_id": "FT_055",
+          "entity_type": "revision",
+          "geometry_revision": "micro_degenerate_cleanup_v1",
+          "uv_revision": "micro_degenerate_cleanup_v1_uv0_plus_wearuv",
+          "variant_geometry_reference": "FT_055",
+          "description": "盾の微小面を整理し、暗い木部のコントラストを緩和。形状改訂。",
+          "zip": "FT_055__repair_CC0.zip",
+          "bytes": 9352340,
+          "sha256": "2f6584d7c27ff004a959d16d7d8cdc2c19f91676552d42ee34a32a820371b58f",
+          "license": "CC0-1.0",
+          "license_scope": "model geometry and embedded materials only",
+          "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_055__repair_CC0.zip"
+        }
+      ]
     },
     {
       "asset_id": "FT_056",

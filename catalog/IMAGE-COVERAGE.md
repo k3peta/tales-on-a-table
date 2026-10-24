@@ -1,6 +1,6 @@
 # カタログ画像対応一覧 / Catalogue image inventory
 
-1008 existing distribution records and74 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
+1008 existing distribution records and77 material variants unchanged. Preview images are not counted. Existing image rights remain. Image presence is not proof of complete per-model coverage; group views can contain reused props.
 
 |Catalog|Image references|Status|
 |---|---:|---|
@@ -148,3 +148,5 @@
 - [Liquid colors](bottle_liquid_colors_v1.md):6 mapped images plus lighting sheet.
 
 - [FT041–050](material_variants_ft041_050.md):24 accepted comparison/thumbnail images.
+
+- [FT051–056](material_variants_ft051_056.md):12 accepted comparison/thumbnail images. FT053 residual tiny faces disclosed.

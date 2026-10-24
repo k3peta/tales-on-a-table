@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 77,
   "counting": "Separate from the 1008 existing distribution records; not independent shapes",
   "items": [
     {
@@ -1054,6 +1054,51 @@
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft041-050-v1/FT_050__color_CC0.zip"
+    },
+    {
+      "id": "FT_051__color",
+      "base_id": "FT_051",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "variant_geometry_reference": "FT_051",
+      "description": "\u5e33\u7c3f\u306e\u9769\u8868\u7d19\u3092\u304f\u3059\u3093\u3060\u7dd1\u3078\u3002\u91d1\u5177\u30fb\u7d19\u30fb\u88dc\u4fee\u5e03\u306f\u7dad\u6301\u3002",
+      "zip": "FT_051__color_CC0.zip",
+      "bytes": 5873565,
+      "sha256": "fdbdce91d108c1d04a7be5c10b33e5ca3940bcf20706af96ff1216e0b43d9b10",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_051__color_CC0.zip"
+    },
+    {
+      "id": "FT_054__color",
+      "base_id": "FT_054",
+      "entity_type": "material_variant",
+      "geometry_revision": "original",
+      "uv_revision": "original_uv0_plus_wearuv",
+      "variant_geometry_reference": "FT_054",
+      "description": "\u5de5\u5177\u5dfb\u304d\u306e\u9769\u3092\u7070\u7dd1\u8272\u3078\u3002\u6728\u67c4\u30fb\u7cf8\u30fb\u91d1\u5177\u306f\u7dad\u6301\u3002",
+      "zip": "FT_054__color_CC0.zip",
+      "bytes": 8226453,
+      "sha256": "1a87a810cf878361520b2e2078e863dcdc5b69a552e07d2d98065dfab8e769a1",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_054__color_CC0.zip"
+    },
+    {
+      "id": "FT_055__color",
+      "base_id": "FT_055",
+      "entity_type": "material_variant",
+      "geometry_revision": "micro_degenerate_cleanup_v1",
+      "uv_revision": "micro_degenerate_cleanup_v1_uv0_plus_wearuv",
+      "variant_geometry_reference": "FT_055__repair",
+      "description": "\u6574\u7406\u6e08\u307f\u76fe\u5f62\u72b6\u3092\u57fa\u6e96\u3068\u3059\u308b\u9752\u7070\u8272\u6728\u90e8\u3002\u65e7\u539f\u672c\u3068\u306e\u5e7e\u4f55\u4e00\u81f4\u306f\u4e3b\u5f35\u3057\u306a\u3044\u3002",
+      "zip": "FT_055__color_CC0.zip",
+      "bytes": 9125228,
+      "sha256": "8f18349ab0cf1d16474096eba5bb8dff5300be4e7de4692c805be302828642bf",
+      "license": "CC0-1.0",
+      "license_scope": "model geometry and embedded materials only",
+      "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-ft051-056-v1/FT_055__color_CC0.zip"
     }
   ]
 }
