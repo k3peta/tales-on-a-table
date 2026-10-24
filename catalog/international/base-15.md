@@ -546,6 +546,8 @@ Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../..
 
 **Quality37:** 42 exact-zero triangles removed;160 positive tiny retained;10426tri. [Details](../material_variants_td017_arm013.md).
 
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_001__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.
+
 ## ARM_002
 
 **量産風鋳肌剣**
@@ -592,3 +594,4 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/armory.en.md) · [Catalogue 2](../../catalog/armory.md) · [Catalogue 3](../../catalog/armory.zh-CN.md)
 **Quality37:** 96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k. [Details](../material_variants_td017_arm013.md).
+**Latest revision:** [ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-td017-arm013-v1/ARM_003__repair_CC0.zip) · [Matching revision preview](../../previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png). Original pictured ZIP retained above. Public ZIP/member/image identity verified.

@@ -8,7 +8,7 @@ ARM00142 andARM00396 exact-zero triangles removed; all positive surfaces retaine
 
 2个修订不新增模型；橙色晶体和蓝绿色旗帜2个颜色变体单独统计。TD017补充UV，ARM011保留原UV。颜色调整不代表解决多边形预算问题。
 
-Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public artifact matching is pending. Publication did not rerun Blender.
+Same camera/light/scale comparisons. Producer final-ZIP guard binds accepted packages, input/script/model hashes and run/time/build. Public ZIP/member hashes match the final guarded artifacts. Publication did not rerun Blender.
 
 Assessed366 distribution records,642 remain;79 budget/redesign issues unresolved. Over20k: ARM00229068, ARM00341808, ARM004156580, ARM006124796, ARM01122384, ARM013127892. ARM002 mottled alloy texture is authored display material, not a detected basecolor-to-normal reference error. Positive tiny decorative surfaces retained. Static display props; no load/weapon function, collision/gameplay, optical equivalence or Blender4.3.2 guarantee. Earlier diagnoses remain.
 
@@ -77,3 +77,5 @@ TD017 gem body or ARM011 pennant cloth basecolor texture only. Original geometry
 [![ARM_011__tealcloth close_comparison](../previews/quality-td017-arm013-v1/ARM_011__tealcloth_close_comparison.png)](../previews/quality-td017-arm013-v1/ARM_011__tealcloth_close_comparison.png)
 
 Left: original; right: accepted revision/variant, identical camera/light/scale.
+
+[Exact package validation evidence](../distributions/quality-td017-arm013-v1/validation.json).

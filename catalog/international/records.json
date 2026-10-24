@@ -16106,7 +16106,8 @@
         {
           "id": "ARM_001__repair",
           "catalog": "catalog/material_variants_td017_arm013.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "42 exact-zero triangles removed;160 positive tiny retained;10426tri."
@@ -16189,7 +16190,8 @@
         {
           "id": "ARM_003__repair",
           "catalog": "catalog/material_variants_td017_arm013.md",
-          "status": "final ZIP guarded; public match pending"
+          "status": "public_download_matches_final_zip_guard",
+          "qa_status": "public_download_matches_final_zip_guard"
         }
       ],
       "known_issue": "96 exact-zero triangles removed;19 positive tiny retained;41808tri over20k."

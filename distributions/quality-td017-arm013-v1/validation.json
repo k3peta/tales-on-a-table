@@ -1,0 +1,136 @@
+{
+  "status": "public_download_matches_final_zip_guard",
+  "published_package_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
+  "guard_run_id": "550d4138-b6e3-4293-8a72-6921a283f652",
+  "started_utc": "2026-10-24T15:34:29.358954+00:00",
+  "finished_utc": "2026-10-24T15:34:33.530145+00:00",
+  "blender": {
+    "version": "5.2.2 LTS",
+    "build_hash": "d13f752e3b9c"
+  },
+  "scope": "Producer final-ZIP numerical reimports; publication independently checks public ZIP/member identity. No separate Blender rerun by publication; not gameplay/physical/old-version approval.",
+  "packages": [
+    {
+      "id": "TD_017__orange",
+      "zip": "TD_017__orange_CC0.zip",
+      "zip_sha256": "9a1f199a349f2225665218bcf48678e36c5c18ef31d2ef0a151912c278894e5e",
+      "members": {
+        "TD_017__orange.glb": "05e20c22e916f05e01f76f3045a37cebbf21287a5a0202f80eecd9865265c897",
+        "TD_017__orange.blend": "eeab48eee1c3220c86b3dbfdd0a2966d0f67cb2408387c36a3dec21ec63e9c33"
+      }
+    },
+    {
+      "id": "ARM_001__repair",
+      "zip": "ARM_001__repair_CC0.zip",
+      "zip_sha256": "3a4340294e5168dcb3247c905d3dc14a3018de02d267d5d28655d85d53fd473b",
+      "members": {
+        "ARM_001__repair.glb": "87602b5abf2155c6863fc4290bb1dcf21db485c2a8fa0705095668ee53ead94d",
+        "ARM_001__repair.blend": "2b53fe13f1c821294ad7814e4808b906dcaacef5dcde8e6fb6a8a59a0a556eca"
+      }
+    },
+    {
+      "id": "ARM_003__repair",
+      "zip": "ARM_003__repair_CC0.zip",
+      "zip_sha256": "07a7ad6955d986bd89030052380a2e6910ff75618c94171828e4960db5ca3a15",
+      "members": {
+        "ARM_003__repair.glb": "ec614455865b018fec4135ccbe02ba6ebe436f96a18a18fcd40cfc44ebee6d4f",
+        "ARM_003__repair.blend": "a737e89e7c9e4ddc268bc1e315788c38eb4871b23b83b7f37569e7774f7d412e"
+      }
+    },
+    {
+      "id": "ARM_011__tealcloth",
+      "zip": "ARM_011__tealcloth_CC0.zip",
+      "zip_sha256": "f5d0513c5f7d887df0b14bdb906de23b49a018564441868a9e7dae0f12e077d9",
+      "members": {
+        "ARM_011__tealcloth.blend": "f8e83441b8be6c7ac1fab9da4fb502bc76bbb0d715945334bc198eb735a7004b",
+        "ARM_011__tealcloth.glb": "bba5f6533cebb891cd912b5949c8d27ca1fada05f083775e13293a55bd4e6dcd"
+      }
+    }
+  ],
+  "numeric": [
+    {
+      "id": "TD_017__orange",
+      "formats": {
+        "blend": {
+          "triangles": 1568,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 1568,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 2.9802322387695312e-08,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_001__repair",
+      "formats": {
+        "blend": {
+          "triangles": 10426,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 10426,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_003__repair",
+      "formats": {
+        "blend": {
+          "triangles": 41808,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 41808,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 0,
+          "pass": true
+        }
+      }
+    },
+    {
+      "id": "ARM_011__tealcloth",
+      "formats": {
+        "blend": {
+          "triangles": 22384,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        },
+        "glb": {
+          "triangles": 22384,
+          "oriented_triangle_correspondence_equal": true,
+          "uv_max_abs_error": 0,
+          "max_coordinate_error_m": 0.0,
+          "embedded_images": 1,
+          "pass": true
+        }
+      }
+    }
+  ]
+}
