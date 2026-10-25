@@ -34392,7 +34392,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR068_CC0.zip",
       "pictured_zip_sha256": "20d3c185d00a4e1894fcb159bced7551fe95ce9caff502f9bd9774a9efc3228f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR068_HQ__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1831e589aa482e31d293c685e19f761e9495951c06a9905c9c261888bb831572",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR068_LITE__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "7d0559bcc0419e9fa091cc36b1f01b8bb646c3d0e304800207bbc0d7e14acbe8",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR069",
@@ -34425,7 +34442,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR069_CC0.zip",
       "pictured_zip_sha256": "914f61e2cf2482b71580f22e183eb37d5f6a2a881959127063fc8d8aaee17f4a",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR069_HQ__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "6fec8714672539d05cdd6901922c904a4f5a349584d3a73743f730ef3f532851",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR069_LITE__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "bc8144a24592b26ec129bc5df1ca02df89f88eac11d13c542c8d565d1b01d6ac",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR070",
@@ -34458,7 +34492,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR070_CC0.zip",
       "pictured_zip_sha256": "60d86afe188e53dfb56cd549bff924a3f4f81d15056b3fe221cb15fbd669a120",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR070_HQ__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1354dbe4af4a7e271935f2f78b74129012a60e5a44e7148e12cd6c4ef88c1a33",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR070_LITE__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "059fdcb8fa62fa84a2b67303200b43c281b78f51a8fe576e3e1c4d95bc014e0c",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG001",
@@ -34492,7 +34543,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG001_CC0.zip",
       "pictured_zip_sha256": "210d1045e1779b4b346af0d0133c26f39ba3b9159b1b0ec7aefe2d1eec579bff",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG001__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "16615681c15c4d70fb1804c98301698750c83aded6aec5dcb94419a260fd0237",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG002",
@@ -34526,7 +34587,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG002_CC0.zip",
       "pictured_zip_sha256": "23d95d03f19214c5ace134bcca9a3df1c305230fa2c69b7ff4e266127266f99d",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG002__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "40456544e01fd9911b74de49561a9014f0ff6df85689382a2950d13f6a4183f8",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG003",
@@ -34560,7 +34631,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG003_CC0.zip",
       "pictured_zip_sha256": "59aff36d0a8384776c7f7781ad682c888e50601eec76991797ce2779d7092c7f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG003__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d1ec999a5e1727729a0e9bace0f05facea4b60bde2cea52002d8fa32e7d4eba8",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG004",
@@ -34594,7 +34675,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG004_CC0.zip",
       "pictured_zip_sha256": "e62703d66cb8273b17cf81b7014490d7ef31c6d2633e14bd421c69ad702de7c2",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG004__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "563c59c56dab4c0f78255508e6e6870256b681cbde9bca328433461356633ff5",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG005",
@@ -34628,7 +34719,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG005_CC0.zip",
       "pictured_zip_sha256": "327d0479b68f53de8a97f91b96179f13579ed7b56e76128ba766bd7d09b62e91",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG005__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "cd5a512b0e31df03e5e3b9756a9b7b8100b230eccd288a26f0bf4b9f5774b0f5",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG006",
@@ -34662,7 +34763,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG006_CC0.zip",
       "pictured_zip_sha256": "046cfc8a05e492142cb7f21b7726492054c1e76c7c54a57f645cd882d3dafa98",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG006__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "aae3c6a552c8159e12e43cde7917002d8981714343655764bbc756adee241a7f",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG007",
@@ -34696,7 +34807,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG007_CC0.zip",
       "pictured_zip_sha256": "af6ec1c4082da7ecd01a6235c6dce21f12fc4030a4ef8bbe1848184aed4bbe0c",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG007__repair",
+          "catalog": "catalog/quality-tr068-tg007-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8ec6fadc499bfbece7d132f01225260018b5d86cdd3cb6e92d744e2d00a2241f",
+          "lod": null
+        }
+      ],
+      "known_issue": "TR068–070 HQ/LITE:6 material/UV revisions restore sampled procedural normals through embedded2048px bake; original colors/UV retained with padding and bakeUV2. TG001–007:7 geometry-cleanup revisions remove84 exact-zero-area faces only; positive surfaces and original material parameters retained. TG has no textures and no original UV/color attributes; their absence is intentional, not missing-UV repair. No new base or color variant; no shape redesign or full-quality approval. Rock silhouettes, material facets, repeated grass and finite-bake limitations remain. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG008",

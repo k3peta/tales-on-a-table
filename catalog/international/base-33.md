@@ -300,6 +300,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TR068_HQ__repair](../../previews/quality-tr068-tg007-v1/TR068_HQ__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR068_HQ__repair_full.png)
+
+[TR068_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR068_HQ__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
+[![TR068_LITE__repair](../../previews/quality-tr068-tg007-v1/TR068_LITE__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR068_LITE__repair_full.png)
+
+[TR068_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR068_LITE__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
 ## TR069
 
 **snow sand transition outer corner**
@@ -323,6 +333,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TR069_HQ__repair](../../previews/quality-tr068-tg007-v1/TR069_HQ__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR069_HQ__repair_full.png)
+
+[TR069_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR069_HQ__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
+[![TR069_LITE__repair](../../previews/quality-tr068-tg007-v1/TR069_LITE__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR069_LITE__repair_full.png)
+
+[TR069_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR069_LITE__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
 
 ## TR070
 
@@ -348,6 +368,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TR070_HQ__repair](../../previews/quality-tr068-tg007-v1/TR070_HQ__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR070_HQ__repair_full.png)
+
+[TR070_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR070_HQ__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
+[![TR070_LITE__repair](../../previews/quality-tr068-tg007-v1/TR070_LITE__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TR070_LITE__repair_full.png)
+
+[TR070_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TR070_LITE__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
 ## TG001
 
 **ramp half**
@@ -369,6 +399,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG001__repair](../../previews/quality-tr068-tg007-v1/TG001__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG001__repair_full.png)
+
+[TG001__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG001__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
 
 ## TG002
 
@@ -392,6 +428,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG002__repair](../../previews/quality-tr068-tg007-v1/TG002__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG002__repair_full.png)
+
+[TG002__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG002__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
 ## TG003
 
 **ramp inner**
@@ -413,6 +455,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG003__repair](../../previews/quality-tr068-tg007-v1/TG003__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG003__repair_full.png)
+
+[TG003__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG003__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
 
 ## TG004
 
@@ -436,6 +484,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG004__repair](../../previews/quality-tr068-tg007-v1/TG004__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG004__repair_full.png)
+
+[TG004__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG004__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
 ## TG005
 
 **stairs half**
@@ -457,6 +511,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG005__repair](../../previews/quality-tr068-tg007-v1/TG005__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG005__repair_full.png)
+
+[TG005__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG005__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
 
 ## TG006
 
@@ -480,6 +540,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG006__repair](../../previews/quality-tr068-tg007-v1/TG006__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG006__repair_full.png)
+
+[TG006__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG006__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
+
 ## TG007
 
 **cliff straight**
@@ -501,6 +567,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality79 revisions (original pictured ZIP retained above):**
+
+[![TG007__repair](../../previews/quality-tr068-tg007-v1/TG007__repair_thumbnail.png)](../../previews/quality-tr068-tg007-v1/TG007__repair_full.png)
+
+[TG007__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr068-tg007-v1/TG007__repair_CC0.zip) · [Details](../quality-tr068-tg007-v1.md).
 
 ## TG008
 

@@ -7,6 +7,8 @@
 
 ## 发布历史
 
+- 2026-10-25 — [Quality79](catalog/quality-79.md):10 records/13 model revisions:TR6 material-UV,TG7 zero-face cleanup. Base1008 and variants187 unchanged. Assessed786,remaining222;152 budget issues unresolved.
+
 - 2026-10-25 — [Quality78](catalog/quality-78.md):10 records/20 HQ-LITE material-UV revisions. Base1008 and variants187 unchanged. Assessed776,remaining232;152 budget issues unresolved.
 
 - 2026-10-25 — [Quality77](catalog/quality-77.md):9 records/18 HQ-LITE material-UV revisions. Base1008 and variants187 unchanged. Assessed766,remaining242;152 budget issues unresolved.
