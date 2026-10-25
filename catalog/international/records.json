@@ -34397,14 +34397,14 @@
         {
           "id": "TR068_HQ__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1831e589aa482e31d293c685e19f761e9495951c06a9905c9c261888bb831572",
           "lod": "HQ"
         },
         {
           "id": "TR068_LITE__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "7d0559bcc0419e9fa091cc36b1f01b8bb646c3d0e304800207bbc0d7e14acbe8",
           "lod": "LITE"
         }
@@ -34447,14 +34447,14 @@
         {
           "id": "TR069_HQ__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "6fec8714672539d05cdd6901922c904a4f5a349584d3a73743f730ef3f532851",
           "lod": "HQ"
         },
         {
           "id": "TR069_LITE__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "bc8144a24592b26ec129bc5df1ca02df89f88eac11d13c542c8d565d1b01d6ac",
           "lod": "LITE"
         }
@@ -34497,14 +34497,14 @@
         {
           "id": "TR070_HQ__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "1354dbe4af4a7e271935f2f78b74129012a60e5a44e7148e12cd6c4ef88c1a33",
           "lod": "HQ"
         },
         {
           "id": "TR070_LITE__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "059fdcb8fa62fa84a2b67303200b43c281b78f51a8fe576e3e1c4d95bc014e0c",
           "lod": "LITE"
         }
@@ -34548,7 +34548,7 @@
         {
           "id": "TG001__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "16615681c15c4d70fb1804c98301698750c83aded6aec5dcb94419a260fd0237",
           "lod": null
         }
@@ -34592,7 +34592,7 @@
         {
           "id": "TG002__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "40456544e01fd9911b74de49561a9014f0ff6df85689382a2950d13f6a4183f8",
           "lod": null
         }
@@ -34636,7 +34636,7 @@
         {
           "id": "TG003__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "d1ec999a5e1727729a0e9bace0f05facea4b60bde2cea52002d8fa32e7d4eba8",
           "lod": null
         }
@@ -34680,7 +34680,7 @@
         {
           "id": "TG004__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "563c59c56dab4c0f78255508e6e6870256b681cbde9bca328433461356633ff5",
           "lod": null
         }
@@ -34724,7 +34724,7 @@
         {
           "id": "TG005__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "cd5a512b0e31df03e5e3b9756a9b7b8100b230eccd288a26f0bf4b9f5774b0f5",
           "lod": null
         }
@@ -34768,7 +34768,7 @@
         {
           "id": "TG006__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "aae3c6a552c8159e12e43cde7917002d8981714343655764bbc756adee241a7f",
           "lod": null
         }
@@ -34812,7 +34812,7 @@
         {
           "id": "TG007__repair",
           "catalog": "catalog/quality-tr068-tg007-v1.md",
-          "status": "final_zip_guard_passed_public_download_match_pending",
+          "status": "public_download_matches_final_zip_guard",
           "zip_sha256": "8ec6fadc499bfbece7d132f01225260018b5d86cdd3cb6e92d744e2d00a2241f",
           "lod": null
         }
