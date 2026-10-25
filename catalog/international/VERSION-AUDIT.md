@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-All1008 base IDs have mapped images. All279 recorded latest revisions have matching image/ZIP evidence;729 records have no revision entry. The six previously pending revision bindings are now verified from the exact revised ZIP GLB and12 newly rendered images, with public reacquisition. FW19 repaired-model ZIP/member/image associations were also independently rechecked.
+All1008 base IDs have mapped images. All289 recorded latest revisions have matching image/ZIP evidence;719 records have no revision entry. The six previously pending revision bindings are now verified from the exact revised ZIP GLB and12 newly rendered images, with public reacquisition. FW19 repaired-model ZIP/member/image associations were also independently rechecked.
 
 Current card evidence:519 authored primary preview/hash associations,464 exact primary-ZIP image bindings,25 exact revision-ZIP image bindings. This is not a fresh visual inspection of1008 models, proof of1008 independent shapes, all-quality approval, or coverage of every LOD, interior, viewpoint or component. Known quality and polygon-budget issues remain. Primary TR images cover HQ; the adopted quality57–76 revision bundles separately bind HQ and LITE images/ZIPs; IF002 repair covers main/HQ with original LOD1 unassessed; other unknown LOD scope remains explicit per record.
 
@@ -58,6 +58,8 @@ Quality78:10 existing distribution records,20 HQ/LITE material/UV revision ZIPs,
 
 TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain.
 
-Public-download identity pending. Producer final-ZIP40 format checks bound to exact model/image hashes; publisher inspected ten representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
+All98 changed files externally retrieved;20 ZIPs/internal models and60 images match their final artifact bindings. Producer final-ZIP40 format checks bound to exact model/image hashes; publisher inspected ten representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
 
 [Quality78](../quality-78.md).
+
+Quality78 current summary:289 records with latest-revision image/ZIP evidence;719 without revision entry. HQ/LITE are separately bound within their existing record.

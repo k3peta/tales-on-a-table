@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All279 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All289 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +187 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -229,6 +229,6 @@ Quality78:10 existing distribution records,20 HQ/LITE material/UV revision ZIPs,
 
 TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain.
 
-Public-download identity pending. Producer final-ZIP40 format checks bound to exact model/image hashes; publisher inspected ten representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
+All98 changed files externally retrieved;20 ZIPs/internal models and60 images match their final artifact bindings. Producer final-ZIP40 format checks bound to exact model/image hashes; publisher inspected ten representative HQ/LITE comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
 
 [Quality78](../quality-78.md).
