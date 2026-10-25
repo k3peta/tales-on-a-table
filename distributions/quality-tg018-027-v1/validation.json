@@ -1,0 +1,233 @@
+{
+  "status": "final_zip_guard_passed_public_download_match_pending",
+  "run": {
+    "run_id": "bb6a9d9f-a041-4cf9-965d-ffd960bb1c98",
+    "started_utc": "2026-10-25T00:35:05.018451+00:00",
+    "finished_utc": "2026-10-25T00:35:07.716241+00:00",
+    "tool": {
+      "version": "5.2.2 LTS",
+      "build_hash": "d13f752e3b9c"
+    }
+  },
+  "scope": "Producer final-ZIP BLEND/GLB numeric checks; publisher verifies artifact hashes, not a separate Blender run. Detailed limitations in catalogue.",
+  "packages": [
+    {
+      "id": "TG020__repair",
+      "zip_sha256": "ace2a337d53ada8132c32ffdab7402c399d8e330027e8a5ab26c4889f9af6e12",
+      "members": {
+        "TG020__repair.glb": "5a720e4ffb78275a3690512e908e5c116694d8f493fe1c0c152dd4ccb5a01925",
+        "TG020__repair.blend": "59534f1e7cc075958d06d7308412b9f90ab49b5addda0930b83a6e49ab92fe95"
+      },
+      "numeric": {
+        "id": "TG020__repair",
+        "formats": {
+          "blend": {
+            "triangles": 5562,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 5562,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG021__repair",
+      "zip_sha256": "4a495db356d54fa3df75e97ad42e00aba13f36c79afb42af7ace2c005e7f26bf",
+      "members": {
+        "TG021__repair.glb": "b1b6c37d19b3b2c631af4363946e6a2148a51394fac0ad3bcae7a989bb443a8e",
+        "TG021__repair.blend": "3b6f6c6f668e9561703db79afb26050594c5350a267c37ff3a60125f522b4959"
+      },
+      "numeric": {
+        "id": "TG021__repair",
+        "formats": {
+          "blend": {
+            "triangles": 6324,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 6324,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG022__repair",
+      "zip_sha256": "9a6557252e94fc2d4e3c3732167e2f79c41ead7afed31281b76c777560705a64",
+      "members": {
+        "TG022__repair.blend": "4c0281f62afaaa8c6ff1863ba3d9c6f2b561f5bfcb37fd9a2220e7a68d8b9917",
+        "TG022__repair.glb": "96ff11a4a727b388182d5c3e6f201f10b7428df4b24b994b662fc197529b46e2"
+      },
+      "numeric": {
+        "id": "TG022__repair",
+        "formats": {
+          "blend": {
+            "triangles": 4800,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 4800,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG023__repair",
+      "zip_sha256": "c40623ca8945846b2fcb86f18655f4db8572d5867f115dc1975de1ffdcdd1b95",
+      "members": {
+        "TG023__repair.glb": "4e32594d0697e96b14ccf5ca86ade2190bdb66da120c5a86405bbd4aefb1439d",
+        "TG023__repair.blend": "52ec64327aaf728675a8af0026ff2e3e61efa93b6c6a2c263282f8549104ad3e"
+      },
+      "numeric": {
+        "id": "TG023__repair",
+        "formats": {
+          "blend": {
+            "triangles": 6656,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 6656,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG024__repair",
+      "zip_sha256": "c941f3c3a1e94785ee50646c2a2e1847825a2e8e597f83c04a0e079ca600fddb",
+      "members": {
+        "TG024__repair.blend": "efa458bef68c754d3c84d9301a466635b4195ceb798b6f99c3ff7998433c90db",
+        "TG024__repair.glb": "8c35367fed5edd4d4cc0e06967c28d1dd4df83e86ab862b93c9de08389581c5b"
+      },
+      "numeric": {
+        "id": "TG024__repair",
+        "formats": {
+          "blend": {
+            "triangles": 6202,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 6202,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG025__repair",
+      "zip_sha256": "2fed0ae4a9cae689a0b03ffe917f6a0b979ab1868b2c8992753cd6af9035021c",
+      "members": {
+        "TG025__repair.glb": "427d275cc0a24d650e3a4dee2d65e46029259073817006082d38ee328a098fe8",
+        "TG025__repair.blend": "eb481184827f0d8833af09afaae24c745c13d3d0b06655a5c4ae3e4d9c0b1870"
+      },
+      "numeric": {
+        "id": "TG025__repair",
+        "formats": {
+          "blend": {
+            "triangles": 6856,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 6856,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    },
+    {
+      "id": "TG026__repair",
+      "zip_sha256": "d506aa574ef7136cbb8edf4790b281379fda55b9d9864b3fb258cd88ae3c4697",
+      "members": {
+        "TG026__repair.glb": "07be5287c4fc4a39b6fcb7801a870617af2815c94662b90b42a077f387b09223",
+        "TG026__repair.blend": "b428c9d82d8a9bf0a3d0766064442e548a26d5483bbca967d1cfb9e22b0198f7"
+      },
+      "numeric": {
+        "id": "TG026__repair",
+        "formats": {
+          "blend": {
+            "triangles": 5872,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          },
+          "glb": {
+            "triangles": 5872,
+            "oriented_triangle_correspondence_equal": true,
+            "uv_max_abs_error": 0,
+            "max_coordinate_error_m": 0.0,
+            "embedded_images": 0,
+            "vertex_color_spatial_correspondence_equal": true,
+            "pass": true
+          }
+        }
+      }
+    }
+  ],
+  "known_bad_color_fixtures_rejected": 5
+}

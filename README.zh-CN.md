@@ -7,6 +7,8 @@
 
 ## 发布历史
 
+- 2026-10-25 — [Quality81](catalog/quality-81.md):10 records assessed:7 zero-face cleanup revisions,3 originals retained. Base1008 and variants187 unchanged. Assessed806,remaining202;152 budget issues unresolved.
+
 - 2026-10-25 — [Quality80](catalog/quality-80.md):10 records assessed:6 zero-face cleanup revisions,4 originals retained. Base1008 and variants187 unchanged. Assessed796,remaining212;152 budget issues unresolved.
 
 - 2026-10-25 — [Quality79](catalog/quality-79.md):10 records/13 model revisions:TR6 material-UV,TG7 zero-face cleanup. Base1008 and variants187 unchanged. Assessed786,remaining222;152 budget issues unresolved.

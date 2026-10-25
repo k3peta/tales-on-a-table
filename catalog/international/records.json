@@ -35319,7 +35319,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG020_CC0.zip",
       "pictured_zip_sha256": "519a1a2d1853cff853607fa5ab50df4fa854dbb67d270d1235a1a65565ec35c4",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG020__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "ace2a337d53ada8132c32ffdab7402c399d8e330027e8a5ab26c4889f9af6e12",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG021",
@@ -35353,7 +35363,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG021_CC0.zip",
       "pictured_zip_sha256": "95a7632e5456b8b37ba81bd3c6e1e93c05494392b41334801888211840e26292",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG021__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4a495db356d54fa3df75e97ad42e00aba13f36c79afb42af7ace2c005e7f26bf",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG022",
@@ -35387,7 +35407,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG022_CC0.zip",
       "pictured_zip_sha256": "0bf66a45f2712e74849faa24b5179b5c5018b57e92fcb0111f2e7c9cfdd99495",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG022__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9a6557252e94fc2d4e3c3732167e2f79c41ead7afed31281b76c777560705a64",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG023",
@@ -35421,7 +35451,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG023_CC0.zip",
       "pictured_zip_sha256": "d7ee6896283dfab22cc54e358e920595b647c5102ecee56734fd2c254a6bdd64",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG023__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c40623ca8945846b2fcb86f18655f4db8572d5867f115dc1975de1ffdcdd1b95",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG024",
@@ -35456,7 +35496,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG024_CC0.zip",
       "pictured_zip_sha256": "105033acb2846984665ed78ba209fc0bd22b15e64ceb9fd98759658d687551d9",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG024__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "c941f3c3a1e94785ee50646c2a2e1847825a2e8e597f83c04a0e079ca600fddb",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG025",
@@ -35490,7 +35540,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG025_CC0.zip",
       "pictured_zip_sha256": "c11e595b67b3ed5404c8b6328a7ae82e792efef1ba3e5dfee87e41316f1dd1af",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG025__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2fed0ae4a9cae689a0b03ffe917f6a0b979ab1868b2c8992753cd6af9035021c",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG026",
@@ -35524,7 +35584,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG026_CC0.zip",
       "pictured_zip_sha256": "09aa1771891d5d1ab4f7d895ccbc45a6d0f808a29e006f630d6a3c1e7c7b86a2",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG026__repair",
+          "catalog": "catalog/quality-tg018-027-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "d506aa574ef7136cbb8edf4790b281379fda55b9d9864b3fb258cd88ae3c4697",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG027",

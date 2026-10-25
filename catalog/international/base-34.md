@@ -176,6 +176,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG020__repair](../../previews/quality-tg018-027-v1/TG020__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG020__repair_full.png)
+
+[TG020__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG020__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
+
 ## TG021
 
 **shore outer**
@@ -197,6 +203,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG021__repair](../../previews/quality-tg018-027-v1/TG021__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG021__repair_full.png)
+
+[TG021__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG021__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
 
 ## TG022
 
@@ -220,6 +232,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG022__repair](../../previews/quality-tg018-027-v1/TG022__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG022__repair_full.png)
+
+[TG022__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG022__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
+
 ## TG023
 
 **estuary**
@@ -241,6 +259,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG023__repair](../../previews/quality-tg018-027-v1/TG023__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG023__repair_full.png)
+
+[TG023__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG023__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
 
 ## TG024
 
@@ -264,6 +288,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/static_mudflat_v1.md) · [Catalogue 2](../../catalog/terrain_connectivity_v1.md)
 
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG024__repair](../../previews/quality-tg018-027-v1/TG024__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG024__repair_full.png)
+
+[TG024__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG024__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
+
 ## TG025
 
 **beach outer**
@@ -286,6 +316,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG025__repair](../../previews/quality-tg018-027-v1/TG025__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG025__repair_full.png)
+
+[TG025__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG025__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
+
 ## TG026
 
 **beach inner**
@@ -307,6 +343,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality81 revisions (original pictured ZIP retained above):**
+
+[![TG026__repair](../../previews/quality-tg018-027-v1/TG026__repair_thumbnail.png)](../../previews/quality-tg018-027-v1/TG026__repair_full.png)
+
+[TG026__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg018-027-v1/TG026__repair_CC0.zip) · [Details](../quality-tg018-027-v1.md).
 
 ## TG027
 
