@@ -30,7 +30,14 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "TG008",
+      "TG009",
+      "TG010",
+      "TG015",
+      "TG016",
+      "TG017"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +52,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 709,
-      "exact_image_zip_evidence": 299
+      "none": 703,
+      "exact_image_zip_evidence": 299,
+      "exact_image_zip_binding_public_retrieval_pending": 6
     }
   },
   "items": [
@@ -7063,7 +7071,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7089,7 +7097,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png",
               "image_sha256": "13676fa65738e6a4a44b3ab1aedf6a6b07e9020512f361631647592a50949155",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7099,7 +7107,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -7155,7 +7163,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7181,7 +7189,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png",
               "image_sha256": "76a59128968e933697cb8f353d8663bfd603ea7b5cec53e1789c10bcd3fc8681",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7191,7 +7199,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -22712,7 +22720,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG008__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG008__repair",
+            "lod": null,
+            "zip_sha256": "e5c18b140151a31e417cef4b018b50c1bc7b2ffc77566945752f801b6cc73a6f",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG008__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG008__repair_thumbnail.png",
+                "sha256": "d65b7618384ca323594b7ef320afbfed17a842482ecbb21bcf4ecbd636980e8a",
+                "source_sha256": "b3712b712fa5c6e0d975936e2fc43ad302743c78b530bca776cc53a5d6b046f4"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG008__repair_full.png",
+                "sha256": "a995d18fdf1f2a4c9143f222ee03bf653c19334329cba560a07102342f8a630b",
+                "source_sha256": "b40c4369fa5c02366cdad83c28fec9c032d7fd63742dca5cda618f2ad81a5054"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG008__repair_comparison.png",
+                "sha256": "324cb1edb50de5375111d19a9c9203458345c0c8d3ed9a5375e29d3779c2d681",
+                "source_sha256": "48254cc9762a646e74e4175ab0933a3504715f9b66cd72c90bad76e414b6d4c2"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG008__repair",
+            "zip_sha256": "e5c18b140151a31e417cef4b018b50c1bc7b2ffc77566945752f801b6cc73a6f",
+            "image": "previews/quality-tg008-017-v1/TG008__repair_thumbnail.png",
+            "image_sha256": "d65b7618384ca323594b7ef320afbfed17a842482ecbb21bcf4ecbd636980e8a"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG009",
@@ -22727,7 +22773,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG009__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG009__repair",
+            "lod": null,
+            "zip_sha256": "8c23268f741c9365e64fa732b70b60d60e8db2a8a17eaa7f6a8b7e4a7bc6abfa",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG009__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG009__repair_thumbnail.png",
+                "sha256": "6ba8ad4dba42992153b0a3480b1f2fe797382fb7d3d81a92b55d232a94d8f354",
+                "source_sha256": "5c9632d3cab161c63be20001f707e3daac04d37f8453dad377900b64d6738322"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG009__repair_full.png",
+                "sha256": "8220a19d6d941202548785287fd845230480415d80eab0096a36c2995b4ea717",
+                "source_sha256": "cc9f5bb84cf5f5c3b5b104fcd2703551a32286b64e22c9dd091209c62887bf92"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG009__repair_comparison.png",
+                "sha256": "df176ed42953998ffa1c6e9ab713ff307b84816e9ea4f98264386b3e5141a31b",
+                "source_sha256": "0f18078a753a9f31464286d9f86e1666e1598f63188814b3427ec0e0f0466385"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG009__repair",
+            "zip_sha256": "8c23268f741c9365e64fa732b70b60d60e8db2a8a17eaa7f6a8b7e4a7bc6abfa",
+            "image": "previews/quality-tg008-017-v1/TG009__repair_thumbnail.png",
+            "image_sha256": "6ba8ad4dba42992153b0a3480b1f2fe797382fb7d3d81a92b55d232a94d8f354"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG010",
@@ -22742,7 +22826,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG010__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG010__repair",
+            "lod": null,
+            "zip_sha256": "fb7722b800949f0e923796cff6cbd067bec906010a533effd0ccc663d58f7bc8",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG010__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG010__repair_thumbnail.png",
+                "sha256": "7a4199e02df4b6cbc35fee22f780410afde1cee22084e1042bbfb6d5e3224cf6",
+                "source_sha256": "09a293816e148d25f902fd85fbe90db252c92dbc7b0c8a01e2de6011f6d5ce41"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG010__repair_full.png",
+                "sha256": "945bfc21ee31bf8aa36c2b67fb3faa4873c2448ce383470e72bd2ddf06bff07b",
+                "source_sha256": "19a26c9ea335a70a49a463786529e1996779b2c0d7976c8e378b4d67f3ec732f"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG010__repair_comparison.png",
+                "sha256": "febc0e91c1889e5eedfe561c1f0b0d8b02de4e09cb0e5fb03c7b813e624fe8b1",
+                "source_sha256": "d34d916e1ce3f561072aca99ba31447dc04b997e22b6c33c8dcbb24d20f55666"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG010__repair",
+            "zip_sha256": "fb7722b800949f0e923796cff6cbd067bec906010a533effd0ccc663d58f7bc8",
+            "image": "previews/quality-tg008-017-v1/TG010__repair_thumbnail.png",
+            "image_sha256": "7a4199e02df4b6cbc35fee22f780410afde1cee22084e1042bbfb6d5e3224cf6"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG011",
@@ -22817,7 +22939,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG015__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG015__repair",
+            "lod": null,
+            "zip_sha256": "3615feb47841884f325c0638af267bdd5cc54e66e1237c1efb306995a4f0f213",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG015__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG015__repair_thumbnail.png",
+                "sha256": "d911b7ef18a52a8750b080e89d2a0a5142dabcea751e39993ec44ae1366d74db",
+                "source_sha256": "2482b77539dd0ba815a289ff8a96ef12fab7533ebc2c66e82f3b1fa061c95c44"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG015__repair_full.png",
+                "sha256": "f5569891a464c58fd4a2de2192face57ae30bf1e0b5e9b821e79c651f1af9b0f",
+                "source_sha256": "3f159a70cd87ad6b064f63cf3765f5fb5a68feb147f4da4b56db133afb92a3cd"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG015__repair_comparison.png",
+                "sha256": "25deecc862ec842d817cc252cffe4b54f9b65d1304d20886affe5a3fb625a945",
+                "source_sha256": "760ffadc04224cab6e31b4ec3435edb2515239bb636ff59777b364557947d118"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG015__repair",
+            "zip_sha256": "3615feb47841884f325c0638af267bdd5cc54e66e1237c1efb306995a4f0f213",
+            "image": "previews/quality-tg008-017-v1/TG015__repair_thumbnail.png",
+            "image_sha256": "d911b7ef18a52a8750b080e89d2a0a5142dabcea751e39993ec44ae1366d74db"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG016",
@@ -22832,7 +22992,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG016__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG016__repair",
+            "lod": null,
+            "zip_sha256": "a454c20239681a766c815ffc5909199d0deb515329c43fcb62072c318d6e9b6b",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG016__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG016__repair_thumbnail.png",
+                "sha256": "818378ef0f49409438902cd3531bfdce4c06a856da640cf8ca8431854c076939",
+                "source_sha256": "89cf4cc8798a0aa99ebd9bde39f46ac273c24c4f2b25cbff36300fb4d5fdfa6e"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG016__repair_full.png",
+                "sha256": "f3f399dc5f60649ac6b731589d3f9df29f846743ec9ea7a0783d75c484df68fa",
+                "source_sha256": "c7c186af86004e330ce136a38772c0cfadc50587fe1b9a6a395b3f075f2d1153"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG016__repair_comparison.png",
+                "sha256": "cb919fb02b33ad67323c40c7e5a8f21085a000314fde4996eae84ad8334f71f5",
+                "source_sha256": "339a85265f0f8d4234590fc7429816c20391f4beee41da44a0fb89fc69e8c089"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG016__repair",
+            "zip_sha256": "a454c20239681a766c815ffc5909199d0deb515329c43fcb62072c318d6e9b6b",
+            "image": "previews/quality-tg008-017-v1/TG016__repair_thumbnail.png",
+            "image_sha256": "818378ef0f49409438902cd3531bfdce4c06a856da640cf8ca8431854c076939"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG017",
@@ -22847,7 +23045,45 @@
       "model_license_scope": "model geometry and included display materials only",
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "not independently resolved; do not infer all LODs",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TG017__quality80",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TG017__repair",
+            "lod": null,
+            "zip_sha256": "f3a40a3d1053c77a076ab8256a2dde53ac7be826d06641e0b3ad09f7f65158dd",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG017__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tg008-017-v1/TG017__repair_thumbnail.png",
+                "sha256": "0f93c171dab6dd7267cebc1a8aa25908791344c5c18aad463f05dc0c14aa4128",
+                "source_sha256": "f3b95973f016a9e5202ba6e02fd8279841404bff5d94afdcf3893ee71c5ee97b"
+              },
+              "full": {
+                "file": "previews/quality-tg008-017-v1/TG017__repair_full.png",
+                "sha256": "aec2e842f02337e91f610382a2cdafcdf967f5be86705f33753e0ad407933b13",
+                "source_sha256": "5fa4425e0f0d7014158d83dfe4580c5243e9c71d4fec5a89e0004909aba6bfe9"
+              },
+              "comparison": {
+                "file": "previews/quality-tg008-017-v1/TG017__repair_comparison.png",
+                "sha256": "4e47e358bcde5766bee1416027f48abfa0618b1e6e8eeaf0662bb403e49f0988",
+                "source_sha256": "2de23788e57ae363e19a1d12f0f71de93bc3a869fb28cc627ce57dcf4e078627"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TG017__repair",
+            "zip_sha256": "f3a40a3d1053c77a076ab8256a2dde53ac7be826d06641e0b3ad09f7f65158dd",
+            "image": "previews/quality-tg008-017-v1/TG017__repair_thumbnail.png",
+            "image_sha256": "0f93c171dab6dd7267cebc1a8aa25908791344c5c18aad463f05dc0c14aa4128"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TG018",

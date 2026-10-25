@@ -34851,7 +34851,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG008_CC0.zip",
       "pictured_zip_sha256": "e580024024b3f8534b4d2c0ca8cf5b6a40d8568d35867591de6e13076391da52",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG008__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e5c18b140151a31e417cef4b018b50c1bc7b2ffc77566945752f801b6cc73a6f",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG009",
@@ -34885,7 +34895,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG009_CC0.zip",
       "pictured_zip_sha256": "91db2a574dad4876abd720af283ea62fbc4b5d887be1b3a807a275e22071f977",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG009__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "8c23268f741c9365e64fa732b70b60d60e8db2a8a17eaa7f6a8b7e4a7bc6abfa",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG010",
@@ -34919,7 +34939,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG010_CC0.zip",
       "pictured_zip_sha256": "391e48845a34af7a190a409f807707e9cfdc3f7f7c57eaee5a363303a482c0c6",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG010__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "fb7722b800949f0e923796cff6cbd067bec906010a533effd0ccc663d58f7bc8",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG011",
@@ -35089,7 +35119,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG015_CC0.zip",
       "pictured_zip_sha256": "7edf11f12bdb41ea919af676dc3a45b62fe142a8fc3443ea8bd3bbfee1d99d60",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG015__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3615feb47841884f325c0638af267bdd5cc54e66e1237c1efb306995a4f0f213",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG016",
@@ -35123,7 +35163,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG016_CC0.zip",
       "pictured_zip_sha256": "d717cb545fccadd6f12a4c280bf44a697b4f2509cf192a40b30f5c1481331a19",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG016__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a454c20239681a766c815ffc5909199d0deb515329c43fcb62072c318d6e9b6b",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG017",
@@ -35157,7 +35207,17 @@
       "pictured_download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/terrain-connectivity-91/zips/TG017_CC0.zip",
       "pictured_zip_sha256": "5cf1a3840eed5d6e8c22a6e8b0cefd46c4311d49b8c459b5336efd72c68bf374",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "not independently resolved; do not infer all LODs"
+      "image_lod_scope": "not independently resolved; do not infer all LODs",
+      "revision_history": [
+        {
+          "id": "TG017__repair",
+          "catalog": "catalog/quality-tg008-017-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f3a40a3d1053c77a076ab8256a2dde53ac7be826d06641e0b3ad09f7f65158dd",
+          "lod": null
+        }
+      ],
+      "known_issue": "TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TG018",

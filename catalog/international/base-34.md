@@ -48,6 +48,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG015__repair](../../previews/quality-tg008-017-v1/TG015__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG015__repair_full.png)
+
+[TG015__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG015__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
+
 ## TG016
 
 **pit outer**
@@ -70,6 +76,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG016__repair](../../previews/quality-tg008-017-v1/TG016__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG016__repair_full.png)
+
+[TG016__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG016__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
+
 ## TG017
 
 **pit inner**
@@ -91,6 +103,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG017__repair](../../previews/quality-tg008-017-v1/TG017__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG017__repair_full.png)
+
+[TG017__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG017__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
 
 ## TG018
 

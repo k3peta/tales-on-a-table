@@ -596,6 +596,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG008__repair](../../previews/quality-tg008-017-v1/TG008__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG008__repair_full.png)
+
+[TG008__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG008__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
+
 ## TG009
 
 **cliff inner**
@@ -618,6 +624,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
 
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG009__repair](../../previews/quality-tg008-017-v1/TG009__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG009__repair_full.png)
+
+[TG009__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG009__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
+
 ## TG010
 
 **cliff nose**
@@ -639,6 +651,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — model geometry and included display materials only. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_connectivity_v1.md)
+
+**Quality80 revisions (original pictured ZIP retained above):**
+
+[![TG010__repair](../../previews/quality-tg008-017-v1/TG010__repair_thumbnail.png)](../../previews/quality-tg008-017-v1/TG010__repair_full.png)
+
+[TG010__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG010__repair_CC0.zip) · [Details](../quality-tg008-017-v1.md).
 
 ## TG011
 
