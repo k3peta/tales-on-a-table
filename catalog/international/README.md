@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All299 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All305 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +187 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -253,6 +253,6 @@ Quality80:6 revised existing distribution records,6 zero-face cleanup ZIPs,18 im
 
 TG008/009/010/015/016/017:6 single-model geometry-cleanup revisions remove40 exact-zero-area faces only. All positive surfaces, original material parameters and intentional absence of UV/color attributes retained. No textures, bake or new UV. TG011–014 originals retained and not repackaged. Existing material facets and silhouette limitations remain; no full-shape quality approval. Connection, assembled traversal, walking and collision untested. Prior TR041–048 water16 and TR013 two HQ/LITE candidates remain held;152 budget issues and other recorded diagnostics remain.
 
-Public-download identity pending. Producer final-ZIP12 format checks bound to exact model/image hashes; publisher inspected six adopted model comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
+All42 changed files externally retrieved;6 ZIPs/internal models and18 images match their final artifact bindings. Producer final-ZIP12 format checks bound to exact model/image hashes; publisher inspected six adopted model comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
 
 [Quality80](../quality-80.md).

@@ -13,7 +13,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG008__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -29,7 +29,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG009__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -45,7 +45,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG010__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -61,7 +61,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG015__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -77,7 +77,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG016__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     },
     {
@@ -93,7 +93,7 @@
       "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tg008-017-v1/TG017__repair_CC0.zip",
       "license": "CC0-1.0",
       "license_scope": "model geometry and embedded materials only",
-      "qa_status": "final_zip_guard_passed_public_download_match_pending",
+      "qa_status": "public_download_matches_final_zip_guard",
       "image_binding": "image-bindings.json"
     }
   ],
