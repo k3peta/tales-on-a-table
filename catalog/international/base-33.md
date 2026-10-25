@@ -28,6 +28,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR060_HQ__repair](../../previews/quality-tr058-067-v1/TR060_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR060_HQ__repair_full.png)
+
+[TR060_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR060_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR060_LITE__repair](../../previews/quality-tr058-067-v1/TR060_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR060_LITE__repair_full.png)
+
+[TR060_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR060_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
 ## TR061
 
 **grass sand transition outer corner**
@@ -51,6 +61,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR061_HQ__repair](../../previews/quality-tr058-067-v1/TR061_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR061_HQ__repair_full.png)
+
+[TR061_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR061_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR061_LITE__repair](../../previews/quality-tr058-067-v1/TR061_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR061_LITE__repair_full.png)
+
+[TR061_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR061_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
 
 ## TR062
 
@@ -76,6 +96,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR062_HQ__repair](../../previews/quality-tr058-067-v1/TR062_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR062_HQ__repair_full.png)
+
+[TR062_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR062_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR062_LITE__repair](../../previews/quality-tr058-067-v1/TR062_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR062_LITE__repair_full.png)
+
+[TR062_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR062_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
 ## TR063
 
 **rock sand transition outer corner**
@@ -99,6 +129,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR063_HQ__repair](../../previews/quality-tr058-067-v1/TR063_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR063_HQ__repair_full.png)
+
+[TR063_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR063_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR063_LITE__repair](../../previews/quality-tr058-067-v1/TR063_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR063_LITE__repair_full.png)
+
+[TR063_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR063_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
 
 ## TR064
 
@@ -124,6 +164,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR064_HQ__repair](../../previews/quality-tr058-067-v1/TR064_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR064_HQ__repair_full.png)
+
+[TR064_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR064_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR064_LITE__repair](../../previews/quality-tr058-067-v1/TR064_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR064_LITE__repair_full.png)
+
+[TR064_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR064_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
 ## TR065
 
 **rock snow transition outer corner**
@@ -147,6 +197,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR065_HQ__repair](../../previews/quality-tr058-067-v1/TR065_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR065_HQ__repair_full.png)
+
+[TR065_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR065_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR065_LITE__repair](../../previews/quality-tr058-067-v1/TR065_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR065_LITE__repair_full.png)
+
+[TR065_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR065_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
 
 ## TR066
 
@@ -172,6 +232,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR066_HQ__repair](../../previews/quality-tr058-067-v1/TR066_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR066_HQ__repair_full.png)
+
+[TR066_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR066_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR066_LITE__repair](../../previews/quality-tr058-067-v1/TR066_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR066_LITE__repair_full.png)
+
+[TR066_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR066_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
 ## TR067
 
 **sand mud transition outer corner**
@@ -195,6 +265,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR067_HQ__repair](../../previews/quality-tr058-067-v1/TR067_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR067_HQ__repair_full.png)
+
+[TR067_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR067_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR067_LITE__repair](../../previews/quality-tr058-067-v1/TR067_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR067_LITE__repair_full.png)
+
+[TR067_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR067_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
 
 ## TR068
 

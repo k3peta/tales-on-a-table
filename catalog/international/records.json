@@ -33892,7 +33892,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR058_CC0.zip",
       "pictured_zip_sha256": "5244b96bd37a695a400236a7b4e394e4568f1b99c147ed9288989dc2a7df4bec",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR058_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "b745b4adc326c72973eb57be35dc73b20f8e3c5809ea8ec52f4ac0901b79109f",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR058_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "16bf08bee71add6fc7e652c668d16b9228003d14be92af2a518fcdc9a50a5117",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR059",
@@ -33925,7 +33942,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR059_CC0.zip",
       "pictured_zip_sha256": "8930ecb3e5d995209ab11e99268c9f1c403c947bd3d20a89eacd320cdddb3f76",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR059_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a2afa8531d0a147c3b2c4e211acd3289ab709ce996c4791a30b4dc1cb359476d",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR059_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "0e365ca086b3543d570ccf0c5fba578566211b0b77506547976cf12ca19fbcde",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR060",
@@ -33958,7 +33992,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR060_CC0.zip",
       "pictured_zip_sha256": "fd34e98d918592082da7c518ec54dd49928c5f0eb50e00abbb50c6774fb350f3",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR060_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "e733c2d1732ab5c8feaeafc027c5d1e507ea5fe9fbfa78c4b714d8844b033b99",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR060_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "613cedb764383023cd4e1c95d3fae44123eff0b4a907e9e29e88c1e29c81c9e9",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR061",
@@ -33991,7 +34042,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR061_CC0.zip",
       "pictured_zip_sha256": "388745ec9da7292ed8a90c265c515cd99ba9a6650528c6b0754dcbb9fca6b135",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR061_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "f6b3535220c3658e8efe83eb2838e13f0fabc042885d68afe04f595112cf9a51",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR061_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "1ae363c44f55e211b89f986908bb262a3fb7985912df74e7e63876ea632ef5ac",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR062",
@@ -34024,7 +34092,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR062_CC0.zip",
       "pictured_zip_sha256": "1f9b1d026ff7dfcaf1db5c0070f2858d6288918d76ac4afa8f6f2ccdf0de643f",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR062_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "acd2c787ab008ca17818f36051d2fea8d839fe449d0a16eade6961d1b7b4370c",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR062_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "4bbf3afb381fa784f09cba4adea176f6b1557b4de1dbdd4d9962e789fbd333b7",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR063",
@@ -34057,7 +34142,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR063_CC0.zip",
       "pictured_zip_sha256": "b6844247bb336083eaac470dea6aa1c6c943be6393294d14ce272254b0844f48",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR063_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "85d1a6bd9a3110976d3152fcc76697d398b85a8b48d6154cef0f8c0dac3271f6",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR063_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a40a18d7283661fd42bca95347158f3c5dc17f884cfe2335093c7ea8fbb508d5",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR064",
@@ -34090,7 +34192,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR064_CC0.zip",
       "pictured_zip_sha256": "e7fb0a3fa52ac4819b8b07ce4ad9c206d0eeeabdbf1408ca3af2404dc79c6457",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR064_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a8a8931dd11635cf838042e412f27f8989a8633507b0b6a6eb19917392fcabe2",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR064_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "46b6b5a97b3a8c537ac5c325ca8d72a3ed900a39588138ce5b9970a807908dd1",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR065",
@@ -34123,7 +34242,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR065_CC0.zip",
       "pictured_zip_sha256": "930d9a25909ff98196211d9a92491ae19c63c465a05077185b47d4d45aec0d4e",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR065_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "93ccee33efcce8d0f6fadec401018023161f3d3e9affaf65774a158bebe565c5",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR065_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "2eaad8ac4ef7b5e106199ade8df686781806b345cef36d51ac5b94386f96c5b8",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR066",
@@ -34156,7 +34292,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR066_CC0.zip",
       "pictured_zip_sha256": "3e53f4b16c02550a6efa3a3706aaeb3400df87ac2536d31916d6316035462059",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR066_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "9a5dc9c2464931c259ec093ce3d8b495707e70a1330bc8346511e476d817a911",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR066_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "3e102c76c620876e1fa182086b1d4233b57f0bcc0cfc4a0cc2630e47a1c62b5b",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR067",
@@ -34189,7 +34342,24 @@
       "pictured_download_url": "https://github.com/k3peta/tales-on-a-table/releases/download/v2026.10.21-terrain-v2/TR067_CC0.zip",
       "pictured_zip_sha256": "186f4830a493deda06446c15e9852e98433801780d37ab15d4bd02f9266048dc",
       "image_version_binding_status": "exact_primary_zip_image_evidence",
-      "image_lod_scope": "HQ only; other LODs not pictured"
+      "image_lod_scope": "HQ only; other LODs not pictured",
+      "revision_history": [
+        {
+          "id": "TR067_HQ__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "a9e4dc4f5a2899c33ebd0ceaf7bc04f1eee585bb2ac19c70e3b445847d99477a",
+          "lod": "HQ"
+        },
+        {
+          "id": "TR067_LITE__repair",
+          "catalog": "catalog/quality-tr058-067-v1.md",
+          "status": "final_zip_guard_passed_public_download_match_pending",
+          "zip_sha256": "371604bc0a749076eb4eae065fd3dd6066be68f868fdcb842416b2db63eabd7c",
+          "lod": "LITE"
+        }
+      ],
+      "known_issue": "TR058–067 HQ/LITE:20 material/UV revisions across10 existing records; no new base, variant, geometry change or newly held candidate. Embedded2048px tangent normals restore sampled soil bump; fine-grain attenuation remains. Original color textures and original UV layers retained; bake UV2 and necessary UV0-copy padding added. Rock silhouettes/faceting and repeated grass remain; this is not shape redesign or complete procedural fidelity. Prior TR041–048 HQ/LITE water16 and TR013 two candidates remain held. Existing152 polygon-budget issues, PA020/PA023 atlas edges and IN016 diagnosis remain. No general gameplay/physical-quality guarantee."
     },
     {
       "id": "TR068",

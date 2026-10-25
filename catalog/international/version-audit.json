@@ -30,7 +30,18 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [],
+    "latest_revision_binding_public_retrieval_pending": [
+      "TR058",
+      "TR059",
+      "TR060",
+      "TR061",
+      "TR062",
+      "TR063",
+      "TR064",
+      "TR065",
+      "TR066",
+      "TR067"
+    ],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -45,8 +56,9 @@
       "HCV_SCENE_WINERY"
     ],
     "latest_revision_counts": {
-      "none": 729,
-      "exact_image_zip_evidence": 279
+      "none": 719,
+      "exact_image_zip_evidence": 279,
+      "exact_image_zip_binding_public_retrieval_pending": 10
     }
   },
   "items": [
@@ -7063,7 +7075,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7089,7 +7101,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png",
               "image_sha256": "13676fa65738e6a4a44b3ab1aedf6a6b07e9020512f361631647592a50949155",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7099,7 +7111,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -7155,7 +7167,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7181,7 +7193,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png",
               "image_sha256": "76a59128968e933697cb8f353d8663bfd603ea7b5cec53e1789c10bcd3fc8681",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7191,7 +7203,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -21255,7 +21267,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR058__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR058_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "b745b4adc326c72973eb57be35dc73b20f8e3c5809ea8ec52f4ac0901b79109f",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR058_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR058_HQ__repair_thumbnail.png",
+                "sha256": "a6d63222a274fbad54e1c0c6dbf7390532b18b559c5d8db76769df029e4fd77b",
+                "source_sha256": "69b4daa742812e02a9cae34209703aca7779122ad34f76b354939c84d7eb69b6"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR058_HQ__repair_full.png",
+                "sha256": "efde4cdeba2a52dba2db1c03b320914dfa6918d8afb5b859553408c4502c1f78",
+                "source_sha256": "299168f1bc6ebbd712456d66f683d20ecd42003b28c64aa53d6f6924c5254992"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR058_HQ__repair_comparison.png",
+                "sha256": "477423dc09183cf8195c810f6a0a3dee0fd7ea5bae5f5064005f6b1d53ed63d4",
+                "source_sha256": "6284949a00f7efd5a955124d98b4739c84db65487f74bda197387f0917f39ade"
+              }
+            }
+          },
+          {
+            "id": "TR058_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "16bf08bee71add6fc7e652c668d16b9228003d14be92af2a518fcdc9a50a5117",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR058_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR058_LITE__repair_thumbnail.png",
+                "sha256": "1ea450abd966c136181876a73484b673e8b7e3ac207e8eb97f49434134f181f3",
+                "source_sha256": "fb0dc4726ca77b9621ff26051f22ebee9f55a8d45a9d4ffef89209b62773f6ae"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR058_LITE__repair_full.png",
+                "sha256": "dcbd27ae974cd11388190f6a05bd4ae74d2abb2d7c35a62fbf8d87c78ac3e02a",
+                "source_sha256": "362aae192fe5f1e5fc1f04381e0e2ef1f46847b40631326c79622e52aefc47b4"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR058_LITE__repair_comparison.png",
+                "sha256": "3baeacd29a86736b0c5d988a0cd870a8239d99c5de534d01f4fca16a95dac07e",
+                "source_sha256": "84509b7d0c23670c7057028ed154cb62666836f8447fdbd3d94a222858c3eea3"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR058_HQ__repair",
+            "zip_sha256": "b745b4adc326c72973eb57be35dc73b20f8e3c5809ea8ec52f4ac0901b79109f",
+            "image": "previews/quality-tr058-067-v1/TR058_HQ__repair_thumbnail.png",
+            "image_sha256": "a6d63222a274fbad54e1c0c6dbf7390532b18b559c5d8db76769df029e4fd77b"
+          },
+          {
+            "id": "TR058_LITE__repair",
+            "zip_sha256": "16bf08bee71add6fc7e652c668d16b9228003d14be92af2a518fcdc9a50a5117",
+            "image": "previews/quality-tr058-067-v1/TR058_LITE__repair_thumbnail.png",
+            "image_sha256": "1ea450abd966c136181876a73484b673e8b7e3ac207e8eb97f49434134f181f3"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR059",
@@ -21270,7 +21349,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR059__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR059_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "a2afa8531d0a147c3b2c4e211acd3289ab709ce996c4791a30b4dc1cb359476d",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR059_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR059_HQ__repair_thumbnail.png",
+                "sha256": "56112d9ee12ce1bc2fa92c9bd2e0ff503b614a270a17275cc1dcc3bc0ea9021a",
+                "source_sha256": "233836fe7fc1000740780e365fa26f83bc4d3cbb791e38cffe71879d5c95722e"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR059_HQ__repair_full.png",
+                "sha256": "fa99f074dab1bbcd73ecbcd16bb6ab58557a4966933941e5414359c135d88485",
+                "source_sha256": "3fc50674fadb53ee9255d63e28f6488aaee7c975102ff6e7f93e1ef00410cf65"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR059_HQ__repair_comparison.png",
+                "sha256": "a94e6ee2d037a9bc0b3bb14f0e6e53430a3565e249952d9c7abc870289d7f876",
+                "source_sha256": "c3246ef8bc5c14ee773d5723d569fedb60c52d40b094abef36d93fa4e9e1d6d4"
+              }
+            }
+          },
+          {
+            "id": "TR059_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "0e365ca086b3543d570ccf0c5fba578566211b0b77506547976cf12ca19fbcde",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR059_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR059_LITE__repair_thumbnail.png",
+                "sha256": "f265d9db2a1025859163b2bfac2249d871e717fc56ff5c8d1809d1a8261170eb",
+                "source_sha256": "2c7dc11c6dba6289ce1133387f9cc59fe87b6a151ffeb1577b0c5521e631f705"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR059_LITE__repair_full.png",
+                "sha256": "1a4481a4033dd3d1b3fbffcbe7ce3f8488d84cc32903715acdf43612f8c8bec4",
+                "source_sha256": "5e67204c97cadf2138a8b18c715e0f5f1d86ce8837aabb0c38a8c0c9024e358c"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR059_LITE__repair_comparison.png",
+                "sha256": "9246b0a8f1cd83df1cc3ea744131fe96d084398dcf0faf0774750a58937d2b3e",
+                "source_sha256": "04b9606c46a1620de4baebfdfecb6e25254a5b91b926e55a116f481347ee08a7"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR059_HQ__repair",
+            "zip_sha256": "a2afa8531d0a147c3b2c4e211acd3289ab709ce996c4791a30b4dc1cb359476d",
+            "image": "previews/quality-tr058-067-v1/TR059_HQ__repair_thumbnail.png",
+            "image_sha256": "56112d9ee12ce1bc2fa92c9bd2e0ff503b614a270a17275cc1dcc3bc0ea9021a"
+          },
+          {
+            "id": "TR059_LITE__repair",
+            "zip_sha256": "0e365ca086b3543d570ccf0c5fba578566211b0b77506547976cf12ca19fbcde",
+            "image": "previews/quality-tr058-067-v1/TR059_LITE__repair_thumbnail.png",
+            "image_sha256": "f265d9db2a1025859163b2bfac2249d871e717fc56ff5c8d1809d1a8261170eb"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR060",
@@ -21285,7 +21431,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR060__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR060_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "e733c2d1732ab5c8feaeafc027c5d1e507ea5fe9fbfa78c4b714d8844b033b99",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR060_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR060_HQ__repair_thumbnail.png",
+                "sha256": "c589896834a169d2a173dbdf97a9121b050f0c7d0a32df3ef7b145bc7c15dcd8",
+                "source_sha256": "4995c87d23e426717e70575843588aa2ef03741e44e29a9bb2053769cc65ac57"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR060_HQ__repair_full.png",
+                "sha256": "c60979c72d665404d26d23cb06abcf127004129b3b1e9ed0afa2679628084d3d",
+                "source_sha256": "7f64d2f56ebc9d117ab1682837e2222bfeef67c69649547d8fe775a3ad923ae8"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR060_HQ__repair_comparison.png",
+                "sha256": "9abba1dd5b50490930c7b3a4e0c2594ed365a9e7d50239c8d29d6471f49c51c8",
+                "source_sha256": "37aea8d3bdf4572cff992c8b20da106442a9063a9aec359cfc4fd06e4b799477"
+              }
+            }
+          },
+          {
+            "id": "TR060_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "613cedb764383023cd4e1c95d3fae44123eff0b4a907e9e29e88c1e29c81c9e9",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR060_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR060_LITE__repair_thumbnail.png",
+                "sha256": "689cfde496cd8d2f2b264e548c35af0c2922834648b310d7296c070bf3c1f0e9",
+                "source_sha256": "7c32470adaadd97fbeaf709b8e97989dfe6cdeaa5eaf62dc1b63336a3766d0ec"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR060_LITE__repair_full.png",
+                "sha256": "4ecc183f968cb88a6386c479b792c40f7e3a0d4388438cf952dd3bbb1aacb028",
+                "source_sha256": "5defdd154ed3f9fc6cbad558c73200d96016a089317f10bb985806ddffc2a9c3"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR060_LITE__repair_comparison.png",
+                "sha256": "7a5283c31bec5488b40c022af7811b1f7cb676c809ab7af69b6c92a0d014994b",
+                "source_sha256": "f3bf8b090f124269c66313213591e9f0df5630f08675a3daddf190aba2e107c8"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR060_HQ__repair",
+            "zip_sha256": "e733c2d1732ab5c8feaeafc027c5d1e507ea5fe9fbfa78c4b714d8844b033b99",
+            "image": "previews/quality-tr058-067-v1/TR060_HQ__repair_thumbnail.png",
+            "image_sha256": "c589896834a169d2a173dbdf97a9121b050f0c7d0a32df3ef7b145bc7c15dcd8"
+          },
+          {
+            "id": "TR060_LITE__repair",
+            "zip_sha256": "613cedb764383023cd4e1c95d3fae44123eff0b4a907e9e29e88c1e29c81c9e9",
+            "image": "previews/quality-tr058-067-v1/TR060_LITE__repair_thumbnail.png",
+            "image_sha256": "689cfde496cd8d2f2b264e548c35af0c2922834648b310d7296c070bf3c1f0e9"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR061",
@@ -21300,7 +21513,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR061__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR061_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "f6b3535220c3658e8efe83eb2838e13f0fabc042885d68afe04f595112cf9a51",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR061_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR061_HQ__repair_thumbnail.png",
+                "sha256": "8ed58f7ef06e6ec2a7d1dc66a8ca580504065efe8536706c9840494514753a05",
+                "source_sha256": "5155022b86d0c503fc4538c394f36aaf094bb8cd27c4aa38863225d1ce7f08b7"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR061_HQ__repair_full.png",
+                "sha256": "73c6e5f0511f5a8ed77e063820a648d1f591cd7acfbe7de0027c071c0a6805a0",
+                "source_sha256": "9cacc6edf07fffc92f7d501db7268be59c1112d955a47435cb7751539bd29e8c"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR061_HQ__repair_comparison.png",
+                "sha256": "d73c9b7b7fc31d8c09b57bac4c91c9b9f6693346b3c8c9da10b7b269af66bed6",
+                "source_sha256": "308fea0ba9297c416cdc3a81669ad3a26e531a56c97adeeb599fdf48dbe897f1"
+              }
+            }
+          },
+          {
+            "id": "TR061_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "1ae363c44f55e211b89f986908bb262a3fb7985912df74e7e63876ea632ef5ac",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR061_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR061_LITE__repair_thumbnail.png",
+                "sha256": "4089c234b5ac3edeb946657fdcfa3b2f64e4ad734f3d884d3a4ca23b41e72e6e",
+                "source_sha256": "4884676c09e742fd4d78923c1ff5877d60d1f62b3bc0cf17085f476d2f1bdf48"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR061_LITE__repair_full.png",
+                "sha256": "265d00784ffda0604bdbcfe94f3eacdee3957c0b0a51ccc1379c337fe326c162",
+                "source_sha256": "c4fe20f7a64d3c513c3f2c6c3606f646d2b47fc9a2fdfeae9ede9170f94c0a67"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR061_LITE__repair_comparison.png",
+                "sha256": "2c7ee622a2405d8fdf77c0ff6500d29d23525321a3e6cb5d432d4c8b253578aa",
+                "source_sha256": "2ea5c186fa42ea33093c8ff278392aed596683bcc012613dfa2eef327f992c33"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR061_HQ__repair",
+            "zip_sha256": "f6b3535220c3658e8efe83eb2838e13f0fabc042885d68afe04f595112cf9a51",
+            "image": "previews/quality-tr058-067-v1/TR061_HQ__repair_thumbnail.png",
+            "image_sha256": "8ed58f7ef06e6ec2a7d1dc66a8ca580504065efe8536706c9840494514753a05"
+          },
+          {
+            "id": "TR061_LITE__repair",
+            "zip_sha256": "1ae363c44f55e211b89f986908bb262a3fb7985912df74e7e63876ea632ef5ac",
+            "image": "previews/quality-tr058-067-v1/TR061_LITE__repair_thumbnail.png",
+            "image_sha256": "4089c234b5ac3edeb946657fdcfa3b2f64e4ad734f3d884d3a4ca23b41e72e6e"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR062",
@@ -21315,7 +21595,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR062__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR062_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "acd2c787ab008ca17818f36051d2fea8d839fe449d0a16eade6961d1b7b4370c",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR062_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR062_HQ__repair_thumbnail.png",
+                "sha256": "e25edca61ae33c8001844e9e46a837081359e30077bf5744ed0a18915f782f05",
+                "source_sha256": "cf50c7b85f766be0578ddd204ab4c491a49d671807901e53b26185c9f11f4a55"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR062_HQ__repair_full.png",
+                "sha256": "fe4fd6806ea94610d93fef5e0b5aa5a89ce9e7b7bfc7439e58454585c49c8d98",
+                "source_sha256": "9e19ed0b34878256788e072630c93447984960da39246eefa28abe0df1c3dda7"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR062_HQ__repair_comparison.png",
+                "sha256": "bdcda6690229bb488705638cec1d9ca4bc95d534a834d926844e9b69c5a0104c",
+                "source_sha256": "ab1e5a1d6ac6be853b676ce5c649a286e3891c503eca8dfdeed7fe8efa319c64"
+              }
+            }
+          },
+          {
+            "id": "TR062_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "4bbf3afb381fa784f09cba4adea176f6b1557b4de1dbdd4d9962e789fbd333b7",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR062_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR062_LITE__repair_thumbnail.png",
+                "sha256": "99b33cc734aba8b91e633eca7a843248eef53b5130204bf2633605d5295ecab6",
+                "source_sha256": "41c4c0f5c65eb33b887cce3a878e508234511630d047f28d2d9ea8cf4e412017"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR062_LITE__repair_full.png",
+                "sha256": "e44c0f0c5c98f6b634e23d51c47d56aeeb29be5013ebc46d28ad320f6523f88f",
+                "source_sha256": "c0b614a73dd099535b7d0000db6e4ccdf3fc3adf13f4798f9a9cccb5cbc9357c"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR062_LITE__repair_comparison.png",
+                "sha256": "c39ce3ddca5bef38856f5cf6e4ef36c3c365a0f95561f9d7979630b91f7ebe4c",
+                "source_sha256": "cab4c2774d5e26fe12c32872e179841aab9c615969bc9ad400ff89e478c159b8"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR062_HQ__repair",
+            "zip_sha256": "acd2c787ab008ca17818f36051d2fea8d839fe449d0a16eade6961d1b7b4370c",
+            "image": "previews/quality-tr058-067-v1/TR062_HQ__repair_thumbnail.png",
+            "image_sha256": "e25edca61ae33c8001844e9e46a837081359e30077bf5744ed0a18915f782f05"
+          },
+          {
+            "id": "TR062_LITE__repair",
+            "zip_sha256": "4bbf3afb381fa784f09cba4adea176f6b1557b4de1dbdd4d9962e789fbd333b7",
+            "image": "previews/quality-tr058-067-v1/TR062_LITE__repair_thumbnail.png",
+            "image_sha256": "99b33cc734aba8b91e633eca7a843248eef53b5130204bf2633605d5295ecab6"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR063",
@@ -21330,7 +21677,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR063__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR063_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "85d1a6bd9a3110976d3152fcc76697d398b85a8b48d6154cef0f8c0dac3271f6",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR063_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR063_HQ__repair_thumbnail.png",
+                "sha256": "b785ce4b09c6e965a88f6a224c29c63a041dbecd1afbeef7f70235b411a202fe",
+                "source_sha256": "2dc23fb430b5d8fe1fe59cd586243396c92bdf286487108cfe42997adfdada12"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR063_HQ__repair_full.png",
+                "sha256": "25a0561657e7703be505abaa7d7d53a4bd836c4727e79afca273a4e8c1e3e997",
+                "source_sha256": "cb872e6fcb7bfcbb47d093d205368e876cfd1b9283177a80f650e0d47204e2e4"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR063_HQ__repair_comparison.png",
+                "sha256": "93ec96945844834ab6e871182473b5579a32eb42d8804257e58c7610cbbf9081",
+                "source_sha256": "4b0806aa1228affcc4585657a74ee17aca3f63618b9a3876f15d3590ac70a33d"
+              }
+            }
+          },
+          {
+            "id": "TR063_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "a40a18d7283661fd42bca95347158f3c5dc17f884cfe2335093c7ea8fbb508d5",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR063_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR063_LITE__repair_thumbnail.png",
+                "sha256": "f5d1516f5b493d51d09a7ade1f0fc2205efdf40c60825fb1bce5fd094df932c1",
+                "source_sha256": "3a227f310b9ca59260204830cf0e46358bce5ad49ec87e18e7224c6c8859ab43"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR063_LITE__repair_full.png",
+                "sha256": "c124e9038fe02fdb2cc87047458462c99bc86a3b8f8976e1a953942be4b65aa0",
+                "source_sha256": "32676030f2ad7639dfa33d31c070d58a0a696d8b7b793d643345b32bd8e339e3"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR063_LITE__repair_comparison.png",
+                "sha256": "fec668bed79c25c443fd39f1ca6ecd6618ef833ad00edef3b96c809fae726771",
+                "source_sha256": "4a90145f42d747300b7a69246ce2ca0467652c8e688bd45a40c7755f210aa38f"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR063_HQ__repair",
+            "zip_sha256": "85d1a6bd9a3110976d3152fcc76697d398b85a8b48d6154cef0f8c0dac3271f6",
+            "image": "previews/quality-tr058-067-v1/TR063_HQ__repair_thumbnail.png",
+            "image_sha256": "b785ce4b09c6e965a88f6a224c29c63a041dbecd1afbeef7f70235b411a202fe"
+          },
+          {
+            "id": "TR063_LITE__repair",
+            "zip_sha256": "a40a18d7283661fd42bca95347158f3c5dc17f884cfe2335093c7ea8fbb508d5",
+            "image": "previews/quality-tr058-067-v1/TR063_LITE__repair_thumbnail.png",
+            "image_sha256": "f5d1516f5b493d51d09a7ade1f0fc2205efdf40c60825fb1bce5fd094df932c1"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR064",
@@ -21345,7 +21759,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR064__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR064_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "a8a8931dd11635cf838042e412f27f8989a8633507b0b6a6eb19917392fcabe2",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR064_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR064_HQ__repair_thumbnail.png",
+                "sha256": "e505db8aa77f63eef96918546b82e5e5f96668c2a9e3a9cc9cb34c0c90c44390",
+                "source_sha256": "37b8638657944f58b7a0f0f5bc32f8a2c09f070c0a3c5eba07b358eaab3daa8d"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR064_HQ__repair_full.png",
+                "sha256": "839af4d5fe09bac8710d24a9585d5081dcb3bb85a4220d05eb8fdb945a0e13af",
+                "source_sha256": "149f9f89fad777918972cfeee81f362160a37ec73e24a03ee8fb038c521ef872"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR064_HQ__repair_comparison.png",
+                "sha256": "c36c0304f13b1e982fd10da1bdf3c1d90fb41a09cb50b8f01bdcc9b24fbce0fb",
+                "source_sha256": "c182c2b27b47b7514c46ca6d1cb53a046613dda0faf3179732b71f99b2ddbef7"
+              }
+            }
+          },
+          {
+            "id": "TR064_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "46b6b5a97b3a8c537ac5c325ca8d72a3ed900a39588138ce5b9970a807908dd1",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR064_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR064_LITE__repair_thumbnail.png",
+                "sha256": "57ac9bac16df096a12a00918ecde5c5c077be9f21dc5bdfa10fa74a4f8fc3a42",
+                "source_sha256": "877fd673d9f04c51afbe101a3cc7fdfe4177f71941bd94e753d181f2dc7e0693"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR064_LITE__repair_full.png",
+                "sha256": "982b9c6deb92d6f4f3dab7a72846380674ce95db6b8c73a605a7d108c130e944",
+                "source_sha256": "4a91646271e48be7192e999df5400943409addc2b2733766120c5af67727d80b"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR064_LITE__repair_comparison.png",
+                "sha256": "38b778cdb34a675245f4d3e7f6a8e3d12c2855e049c6e573ddc9aa54ff1a5ebe",
+                "source_sha256": "c8dee4dae0317db069ad053745aaf1b62626a7110f2be2158dc09cb5620c6bea"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR064_HQ__repair",
+            "zip_sha256": "a8a8931dd11635cf838042e412f27f8989a8633507b0b6a6eb19917392fcabe2",
+            "image": "previews/quality-tr058-067-v1/TR064_HQ__repair_thumbnail.png",
+            "image_sha256": "e505db8aa77f63eef96918546b82e5e5f96668c2a9e3a9cc9cb34c0c90c44390"
+          },
+          {
+            "id": "TR064_LITE__repair",
+            "zip_sha256": "46b6b5a97b3a8c537ac5c325ca8d72a3ed900a39588138ce5b9970a807908dd1",
+            "image": "previews/quality-tr058-067-v1/TR064_LITE__repair_thumbnail.png",
+            "image_sha256": "57ac9bac16df096a12a00918ecde5c5c077be9f21dc5bdfa10fa74a4f8fc3a42"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR065",
@@ -21360,7 +21841,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR065__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR065_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "93ccee33efcce8d0f6fadec401018023161f3d3e9affaf65774a158bebe565c5",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR065_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR065_HQ__repair_thumbnail.png",
+                "sha256": "a073ccfa56cdf901c40f92a4260a36d1c19ccb87131be6431037bdea6f35c763",
+                "source_sha256": "108216e0bf7a2ddd3c0c84a59cd7daa8203ca69ec8b1aa430a8c23fc9e9cc85a"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR065_HQ__repair_full.png",
+                "sha256": "bfd60135768b99af31540b3775e5d84907ac36404a45458600baeb586e42f015",
+                "source_sha256": "461c09940cf0e388ea1597aa89ff6cb377ba47d2b1af6f453fac9488c48cf391"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR065_HQ__repair_comparison.png",
+                "sha256": "e65f4b46f2fbe6ce5af17fed4cbd092c0d58e0c3b7be7826369b016dec0af968",
+                "source_sha256": "b21b282a273ac1d92c21c472370359c6cd3384654e96d81d88c2ea85d1f297dd"
+              }
+            }
+          },
+          {
+            "id": "TR065_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "2eaad8ac4ef7b5e106199ade8df686781806b345cef36d51ac5b94386f96c5b8",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR065_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR065_LITE__repair_thumbnail.png",
+                "sha256": "1362713abd5269ae3f021d109786545404b36579bf5072b99198631f1c8ae02e",
+                "source_sha256": "a4890b759c1bf4f994b7d387fd191a04fd7db71736c6675f42ab231759aca1ff"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR065_LITE__repair_full.png",
+                "sha256": "cd7d66f5b5cca506aa3ac5a240ff7f15c980b3eee1ddf731f7460e47f09ba911",
+                "source_sha256": "a79513a00485fe28eaa4f8fac58abd6e31abd9d78507910fc42f41e3d850a564"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR065_LITE__repair_comparison.png",
+                "sha256": "edc3cf6936a6506f186b907de69e963a49fa869f14c0c37c8ad97534b58f3691",
+                "source_sha256": "eb9159a141f9dbdaf8562b73478ddce010a27114f2a8e9f9b6bdd60f527dc80a"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR065_HQ__repair",
+            "zip_sha256": "93ccee33efcce8d0f6fadec401018023161f3d3e9affaf65774a158bebe565c5",
+            "image": "previews/quality-tr058-067-v1/TR065_HQ__repair_thumbnail.png",
+            "image_sha256": "a073ccfa56cdf901c40f92a4260a36d1c19ccb87131be6431037bdea6f35c763"
+          },
+          {
+            "id": "TR065_LITE__repair",
+            "zip_sha256": "2eaad8ac4ef7b5e106199ade8df686781806b345cef36d51ac5b94386f96c5b8",
+            "image": "previews/quality-tr058-067-v1/TR065_LITE__repair_thumbnail.png",
+            "image_sha256": "1362713abd5269ae3f021d109786545404b36579bf5072b99198631f1c8ae02e"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR066",
@@ -21375,7 +21923,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR066__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR066_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "9a5dc9c2464931c259ec093ce3d8b495707e70a1330bc8346511e476d817a911",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR066_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR066_HQ__repair_thumbnail.png",
+                "sha256": "cfd140df3aafe1e20d59ba9e1d68d2d53c63e30c77510e6a9081693e641536c2",
+                "source_sha256": "60f87323362f41406f3622103b3a318d08edee832d1d0a23fc9be67a616dfde4"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR066_HQ__repair_full.png",
+                "sha256": "03006a3df9fbc48a9ee51eb00d49b1c5c74972b45351673db33d7df4871516be",
+                "source_sha256": "eb6e008bc009e89e59ad8ac438626066a05bf6ad72e272d7e9bf640977f038cb"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR066_HQ__repair_comparison.png",
+                "sha256": "ef2d1c4eee14320b3965937f7ef0a5d97f512e33bb03068588ae80a35239ab9e",
+                "source_sha256": "f9b5f96acaceb662d271c201f1811bba526fdfe81c830b95e93b99a6eebe120f"
+              }
+            }
+          },
+          {
+            "id": "TR066_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "3e102c76c620876e1fa182086b1d4233b57f0bcc0cfc4a0cc2630e47a1c62b5b",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR066_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR066_LITE__repair_thumbnail.png",
+                "sha256": "9dbb1e9b7957cbf55bce3b63b44165cd956985d8b069a42d13f114fc99e28be7",
+                "source_sha256": "6202059005d3ad655c5471f2121fa4d8e502930f1f588ea7d7dd389f8029547e"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR066_LITE__repair_full.png",
+                "sha256": "e646524b91609e51b1f4108d977069f01b86783dc997f4ff002083a4f6299df6",
+                "source_sha256": "700c70f3dc4b1b9017fa2f6c2274ddebea871bffb990c3ad0961a4267488a76b"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR066_LITE__repair_comparison.png",
+                "sha256": "de815a552f2f427fa10832f2e3be8a84d222bdc85325b84044399ff90f4f0138",
+                "source_sha256": "785c698efcfaa16b03d7b55bbb4de514fe78cb4f952fa1ce014fce586e071030"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR066_HQ__repair",
+            "zip_sha256": "9a5dc9c2464931c259ec093ce3d8b495707e70a1330bc8346511e476d817a911",
+            "image": "previews/quality-tr058-067-v1/TR066_HQ__repair_thumbnail.png",
+            "image_sha256": "cfd140df3aafe1e20d59ba9e1d68d2d53c63e30c77510e6a9081693e641536c2"
+          },
+          {
+            "id": "TR066_LITE__repair",
+            "zip_sha256": "3e102c76c620876e1fa182086b1d4233b57f0bcc0cfc4a0cc2630e47a1c62b5b",
+            "image": "previews/quality-tr058-067-v1/TR066_LITE__repair_thumbnail.png",
+            "image_sha256": "9dbb1e9b7957cbf55bce3b63b44165cd956985d8b069a42d13f114fc99e28be7"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR067",
@@ -21390,7 +22005,74 @@
       "model_license_scope": null,
       "image_license": "Catalogue viewing artwork, excluded from model CC0",
       "lod_scope": "HQ only; other LODs not pictured",
-      "latest_revision": null
+      "latest_revision": {
+        "id": "TR067__quality78",
+        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "packages": [
+          {
+            "id": "TR067_HQ__repair",
+            "lod": "HQ",
+            "zip_sha256": "a9e4dc4f5a2899c33ebd0ceaf7bc04f1eee585bb2ac19c70e3b445847d99477a",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR067_HQ__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR067_HQ__repair_thumbnail.png",
+                "sha256": "3532b07b4867ee1bf43b8f0ee237bc111ed253cccc0ccd0ee01b0d6dda185432",
+                "source_sha256": "eb17321b52c7273b397342a85b6c0b58bd93d0f56642eee522b32157bee71e03"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR067_HQ__repair_full.png",
+                "sha256": "607832b4bd14b7c855964b2029bef24180e567b96b24a09a9b047f4789e8e71f",
+                "source_sha256": "a616288a48f8d5e3bfa5ff4b36fae702e1f193e76b68d7891d91ea626840718b"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR067_HQ__repair_comparison.png",
+                "sha256": "fb11737e2ca06c947e7e87916b05c9048163152906f0cdc5bb0aa8c43421e35e",
+                "source_sha256": "28b03e4670d3bc0245ef712ec17653fe08a84c3ea10693183655335c66113137"
+              }
+            }
+          },
+          {
+            "id": "TR067_LITE__repair",
+            "lod": "LITE",
+            "zip_sha256": "371604bc0a749076eb4eae065fd3dd6066be68f868fdcb842416b2db63eabd7c",
+            "download_url": "https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR067_LITE__repair_CC0.zip",
+            "images": {
+              "thumbnail": {
+                "file": "previews/quality-tr058-067-v1/TR067_LITE__repair_thumbnail.png",
+                "sha256": "0cfab34e3c8f04c792e097894a324358c899d655f213b6f13da4f0c264dbdc59",
+                "source_sha256": "f81ffab671d683510a98478eac45c9ab23e2fdb15fe1e468ff98ef225ad7b91b"
+              },
+              "full": {
+                "file": "previews/quality-tr058-067-v1/TR067_LITE__repair_full.png",
+                "sha256": "6d8fdcb10ff8e28c65df8ae869fbf3654de3f9bd5f2decdc0e05c75aa611d05d",
+                "source_sha256": "fa1010e4211de663593e35ed9ad4decb5f6d5eeef7cedabe43e06d84f7d07914"
+              },
+              "comparison": {
+                "file": "previews/quality-tr058-067-v1/TR067_LITE__repair_comparison.png",
+                "sha256": "17d8f4d470385383e41ab77e3be6776a0dd0024cb6541b2805a5f6aededec2b1",
+                "source_sha256": "0a7e62affd6daa801f8b9cc88d856d611c03c0dbd986bf24a337791c5a66921c"
+              }
+            }
+          }
+        ],
+        "images": [
+          {
+            "id": "TR067_HQ__repair",
+            "zip_sha256": "a9e4dc4f5a2899c33ebd0ceaf7bc04f1eee585bb2ac19c70e3b445847d99477a",
+            "image": "previews/quality-tr058-067-v1/TR067_HQ__repair_thumbnail.png",
+            "image_sha256": "3532b07b4867ee1bf43b8f0ee237bc111ed253cccc0ccd0ee01b0d6dda185432"
+          },
+          {
+            "id": "TR067_LITE__repair",
+            "zip_sha256": "371604bc0a749076eb4eae065fd3dd6066be68f868fdcb842416b2db63eabd7c",
+            "image": "previews/quality-tr058-067-v1/TR067_LITE__repair_thumbnail.png",
+            "image_sha256": "0cfab34e3c8f04c792e097894a324358c899d655f213b6f13da4f0c264dbdc59"
+          }
+        ],
+        "license": "CC0-1.0",
+        "license_scope": "model geometry and embedded materials only"
+      }
     },
     {
       "id": "TR068",

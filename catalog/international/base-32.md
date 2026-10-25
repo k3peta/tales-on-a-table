@@ -696,6 +696,16 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
 
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR058_HQ__repair](../../previews/quality-tr058-067-v1/TR058_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR058_HQ__repair_full.png)
+
+[TR058_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR058_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR058_LITE__repair](../../previews/quality-tr058-067-v1/TR058_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR058_LITE__repair_full.png)
+
+[TR058_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR058_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
 ## TR059
 
 **grass rock transition outer corner**
@@ -719,3 +729,12 @@ Origin: Unknown / not independently confirmed. Orientation: Unknown / not indepe
 **CC0-1.0** — See original ZIP license and repository license scope. Models and embedded materials only; previews excluded.
 
 Source details: [Catalogue 1](../../catalog/terrain_v2.md)
+**Quality78 revisions (original pictured ZIP retained above):**
+
+[![TR059_HQ__repair](../../previews/quality-tr058-067-v1/TR059_HQ__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR059_HQ__repair_full.png)
+
+[TR059_HQ__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR059_HQ__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
+
+[![TR059_LITE__repair](../../previews/quality-tr058-067-v1/TR059_LITE__repair_thumbnail.png)](../../previews/quality-tr058-067-v1/TR059_LITE__repair_full.png)
+
+[TR059_LITE__repair ZIP](https://raw.githubusercontent.com/k3peta/tales-on-a-table/main/distributions/quality-tr058-067-v1/TR059_LITE__repair_CC0.zip) · [Details](../quality-tr058-067-v1.md).
