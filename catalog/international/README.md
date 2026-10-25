@@ -4,7 +4,7 @@
 
 > Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.
 
-Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All305 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
+Current ID image mapping: **1008/1008 base records;0 without a mapped image.187/187 variants pictured.** All312 recorded latest revisions have matched image/ZIP evidence; all-LOD and all-quality completeness are not claimed. See [version audit](VERSION-AUDIT.md). FW19 images show corrected revisions, not originals.
 
 **1008 distribution records +187 material variants separately.** Not a count of unique shapes. English-first, vertical cards with Japanese names. This first stage maps existing images and labels unavailable measurements honestly.
 
@@ -265,6 +265,6 @@ Quality81:7 revised existing distribution records,7 zero-face cleanup ZIPs,21 im
 
 TG020–026:7 geometry-cleanup revisions remove48 exact-zero-area faces only. All positive surfaces, original materials and intentional absence of UV/color attributes retained. No texture bake or new UV. TG018/019/027 originals retained and not repackaged. Exposed water tile edges still look like suspended planar sheets: fixed -0.01m water is the original generator design, not export omission; no edge-closure repair. Repeated grass facets remain. No holistic shape-quality approval or connection/walking/collision/Blender4.3.2 test. Prior TR041–048 water16 and TR013 two HQ/LITE candidates held;152 budget issues and other diagnostics remain.
 
-Public-download identity pending. Producer final-ZIP14 format checks bound to exact model/image hashes; publisher inspected seven adopted model comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
+All45 changed files externally retrieved;7 ZIPs/internal models and21 images match their final artifact bindings. Producer final-ZIP14 format checks bound to exact model/image hashes; publisher inspected seven adopted model comparisons, not every surface. No publisher Blender rerun or live mobile-browser test. No assembled traversal, physics or Blender4.3.2 approval. Models/embedded materials CC0; catalogue images remain outside model CC0. Previous source and failed histories retained.
 
 [Quality81](../quality-81.md).

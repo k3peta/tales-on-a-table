@@ -30,15 +30,7 @@
     ],
     "latest_revision_binding_pending": [],
     "scope": "Full ID/hash/ZIP-version/license metadata sweep, not fresh visual review of1008 models; authored associations and exact evidence remain separate. No complete-current-version image claim.",
-    "latest_revision_binding_public_retrieval_pending": [
-      "TG020",
-      "TG021",
-      "TG022",
-      "TG023",
-      "TG024",
-      "TG025",
-      "TG026"
-    ],
+    "latest_revision_binding_public_retrieval_pending": [],
     "previous_binding_counts": {
       "authored_primary_preview_hash_association": 519,
       "exact_primary_zip_image_evidence": 470,
@@ -54,8 +46,7 @@
     ],
     "latest_revision_counts": {
       "none": 696,
-      "exact_image_zip_evidence": 305,
-      "exact_image_zip_binding_public_retrieval_pending": 7
+      "exact_image_zip_evidence": 312
     }
   },
   "items": [
@@ -7072,7 +7063,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7098,7 +7089,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_001__repair_thumb.png",
               "image_sha256": "13676fa65738e6a4a44b3ab1aedf6a6b07e9020512f361631647592a50949155",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7108,7 +7099,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -7164,7 +7155,7 @@
         ],
         "quality_status": "v2_geometry_uv_vertex_color_verified"
       },
-      "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+      "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
       "recommendation_status": "v2_only_color_hold_cleared",
       "quality_resolution": "Resolved for v2 only: ARM001/003 repair_color_v2 BLEND and GLB final-ZIP geometry/UV/position-bound vertex-color checks and public ZIP/member/image hashes verified. Earlier __repair files remain withdrawn for vertex-color loss in BOTH formats; originals retain zero-area defects. Historical alerts below are retained. ARM003 budget issue remains. [Verified v2](https://github.com/k3peta/tales-on-a-table/blob/main/catalog/arm001_003_color_correction_v2.md).",
       "historical_format_quality_status": {
@@ -7190,7 +7181,7 @@
               "image": "previews/quality-td017-arm013-v1/ARM_003__repair_thumb.png",
               "image_sha256": "76a59128968e933697cb8f353d8663bfd603ea7b5cec53e1789c10bcd3fc8681",
               "evidence": "Public final ZIP/member and thumbnail matched",
-              "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+              "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
               "recommendation_status": "withdrawn_superseded_by_color_v2",
               "format_quality_status": {
                 "GLB": "vertex_color_preservation_failed",
@@ -7200,7 +7191,7 @@
             }
           ],
           "public_identity_verified_commit": "2ee51a9c8b01d29f14c056add3c10e7493d87e55",
-          "quality_alert": "Correction / 訂正待ち: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
+          "quality_alert": "Correction / \u8a02\u6b63\u5f85\u3061: ARM001/ARM003 quality37 GLB revisions lose COLOR_0 vertex colors on rebuilt meshes. GLB color preservation FAILED; do not treat these packages as complete/recommended repairs. BLEND geometry checks remain historical evidence, but BLEND color preservation is not independently cleared by this alert. Await corrected packages and format-specific validation. Original versions also contain zero-area defects and are not certified normal alternatives. Hash identity is not quality approval; files retained as history.",
           "recommendation_status": "withdrawn_superseded_by_color_v2",
           "format_quality_status": {
             "GLB": "vertex_color_preservation_failed",
@@ -23137,7 +23128,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG020__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG020__repair",
@@ -23172,7 +23163,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23190,7 +23182,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG021__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG021__repair",
@@ -23225,7 +23217,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23243,7 +23236,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG022__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG022__repair",
@@ -23278,7 +23271,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23296,7 +23290,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG023__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG023__repair",
@@ -23331,7 +23325,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23349,7 +23344,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG024__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG024__repair",
@@ -23384,7 +23379,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23402,7 +23398,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG025__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG025__repair",
@@ -23437,7 +23433,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {
@@ -23455,7 +23452,7 @@
       "lod_scope": "not independently resolved; do not infer all LODs",
       "latest_revision": {
         "id": "TG026__quality81",
-        "status": "exact_image_zip_binding_public_retrieval_pending",
+        "status": "exact_image_zip_evidence",
         "packages": [
           {
             "id": "TG026__repair",
@@ -23490,7 +23487,8 @@
           }
         ],
         "license": "CC0-1.0",
-        "license_scope": "model geometry and embedded materials only"
+        "license_scope": "model geometry and embedded materials only",
+        "public_identity_verified_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89"
       }
     },
     {

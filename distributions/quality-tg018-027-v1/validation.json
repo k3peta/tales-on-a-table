@@ -1,5 +1,5 @@
 {
-  "status": "final_zip_guard_passed_public_download_match_pending",
+  "status": "public_download_matches_final_zip_guard",
   "run": {
     "run_id": "bb6a9d9f-a041-4cf9-965d-ffd960bb1c98",
     "started_utc": "2026-10-25T00:35:05.018451+00:00",
@@ -229,5 +229,161 @@
       }
     }
   ],
-  "known_bad_color_fixtures_rejected": 5
+  "known_bad_color_fixtures_rejected": 5,
+  "published_package_commit": "8a1189e89512a460e30bbef7cf32dc46bd118d89",
+  "final_zip_zero_area_checks": [
+    {
+      "id": "TG020__repair",
+      "zip_sha256": "ace2a337d53ada8132c32ffdab7402c399d8e330027e8a5ab26c4889f9af6e12",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "59534f1e7cc075958d06d7308412b9f90ab49b5addda0930b83a6e49ab92fe95",
+          "triangles": 5562,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "5a720e4ffb78275a3690512e908e5c116694d8f493fe1c0c152dd4ccb5a01925",
+          "triangles": 5562,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG021__repair",
+      "zip_sha256": "4a495db356d54fa3df75e97ad42e00aba13f36c79afb42af7ace2c005e7f26bf",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "3b6f6c6f668e9561703db79afb26050594c5350a267c37ff3a60125f522b4959",
+          "triangles": 6324,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "b1b6c37d19b3b2c631af4363946e6a2148a51394fac0ad3bcae7a989bb443a8e",
+          "triangles": 6324,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG022__repair",
+      "zip_sha256": "9a6557252e94fc2d4e3c3732167e2f79c41ead7afed31281b76c777560705a64",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "4c0281f62afaaa8c6ff1863ba3d9c6f2b561f5bfcb37fd9a2220e7a68d8b9917",
+          "triangles": 4800,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "96ff11a4a727b388182d5c3e6f201f10b7428df4b24b994b662fc197529b46e2",
+          "triangles": 4800,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG023__repair",
+      "zip_sha256": "c40623ca8945846b2fcb86f18655f4db8572d5867f115dc1975de1ffdcdd1b95",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "52ec64327aaf728675a8af0026ff2e3e61efa93b6c6a2c263282f8549104ad3e",
+          "triangles": 6656,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "4e32594d0697e96b14ccf5ca86ade2190bdb66da120c5a86405bbd4aefb1439d",
+          "triangles": 6656,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG024__repair",
+      "zip_sha256": "c941f3c3a1e94785ee50646c2a2e1847825a2e8e597f83c04a0e079ca600fddb",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "efa458bef68c754d3c84d9301a466635b4195ceb798b6f99c3ff7998433c90db",
+          "triangles": 6202,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "8c35367fed5edd4d4cc0e06967c28d1dd4df83e86ab862b93c9de08389581c5b",
+          "triangles": 6202,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG025__repair",
+      "zip_sha256": "2fed0ae4a9cae689a0b03ffe917f6a0b979ab1868b2c8992753cd6af9035021c",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "eb481184827f0d8833af09afaae24c745c13d3d0b06655a5c4ae3e4d9c0b1870",
+          "triangles": 6856,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "427d275cc0a24d650e3a4dee2d65e46029259073817006082d38ee328a098fe8",
+          "triangles": 6856,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    },
+    {
+      "id": "TG026__repair",
+      "zip_sha256": "d506aa574ef7136cbb8edf4790b281379fda55b9d9864b3fb258cd88ae3c4697",
+      "tool": "5.2.2 LTS",
+      "formats": [
+        {
+          "format": "blend",
+          "model_sha256": "b428c9d82d8a9bf0a3d0766064442e548a26d5483bbca967d1cfb9e22b0198f7",
+          "triangles": 5872,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        },
+        {
+          "format": "glb",
+          "model_sha256": "07be5287c4fc4a39b6fcb7801a870617af2815c94662b90b42a077f387b09223",
+          "triangles": 5872,
+          "exact_zero_faces": 0,
+          "tiny_positive_faces": 0
+        }
+      ]
+    }
+  ],
+  "no_uv_regression": {
+    "synthetic_only": true,
+    "original_zero_layers_supported": true,
+    "unexpected_layer_rejected": true,
+    "geometry_tolerances_unchanged": true
+  }
 }
